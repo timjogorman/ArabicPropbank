@@ -1,0 +1,28 @@
+verb
+{
+background-color: #ffffff;
+width: 100%;
+}
+id
+{
+display: block;
+margin-bottom: 30pt;
+margin-left: 0;
+}
+frameset
+{
+color: #FF0000;
+font-size: 20pt;
+}
+example
+{
+color: #0000FF;
+font-size: 20pt;
+}
+parse,arg
+{
+display: block;
+color: #000000;
+margin-left: 20pt;
+}
+
