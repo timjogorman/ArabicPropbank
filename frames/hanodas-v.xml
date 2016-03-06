@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>hanodas</id>
+    <comment/>
+    <frameset cdef="" edef="to engineer" id="01">
+        <role argnum="0" argrole="the engineer"/>
+        <frame>
+            <mapping>
+                <comment/>
+            </mapping>
+            <example>
+                <parse>TOP
+                    (S
+                    (PP-LOC
+                    (PREP في)
+                    (NP
+                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN كاتدرائية)
+                    (NP
+                    (NOUN_PROP مار)
+                    (NOUN_PROP يوسف))))
+                    (VP
+                    (PV+PVSUFF_SUBJ:3FS كانت)
+                    (NP-1
+                    (NOUN+CASE_DEF_NOM أصوات)
+                    (NP
+                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الآلات)
+                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الرهيفة)))
+                    (NP-ADV
+                    (NOUN+CASE_DEF_ACC بين)
+                    (NP
+                    (NOUN+CASE_INDEF_GEN خفيض)
+                    (CONJ و)
+                    (ADJ+CASE_INDEF_GEN تصاعدي)))
+                    (VP
+                    (IV تهندس)
+                    (NP-SBJ
+                    (-NONE- *T*-1))
+                    (NP-OBJ
+                    (DET+NOUN+CASE_DEF_ACC النغم))
+                    (PP-MNR
+                    (PREP في)
+                    (NP
+                    (NOUN+CASE_DEF_GEN حجم)
+                    (NP
+                    (NP
+                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الكاتدرائيات))
+                    (CONJ و)
+                    (NP
+                    (NP
+                    (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN تعقيدات)
+                    (NP
+                    (POSS_PRON_3FS ها)))
+                    (ADJP
+                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN التقنية))))))))
+                    (PUNC .)))
+                    
+                    arg 0: -NONE- *T*-1
+                    arg 1: النغم
+                    argM-MNR: في حجم الكاتدرائيات و تعقيداتها التقنية
+                </parse>
+                <comment/>
+            </example>
+            <comment/>
+        </frame>
+        <comment/>
+        <role argnum="1" argrole="engineered entity"/>
+    </frameset>
+</verb>

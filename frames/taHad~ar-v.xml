@@ -1,0 +1,95 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>taHad~ar</id>
+    <frameset cdef="" edef="To descend" id="01">
+        <role argnum="0" argrole="entity rising"/>
+        <role argnum="1" argrole="location, descend on or to"/>
+        <frame>
+            <example>
+                <parse>
+                    (S
+                    (CONJ و)
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS القى)
+                    (NP-SBJ-1
+                    (DET+NOUN+CASE_DEF_NOM العماد)
+                    (NOUN_PROP سليمان))
+                    (NP-OBJ
+                    (NP
+                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC كلمة))
+                    (SBAR
+                    (WHNP-6
+                    (-NONE- 0))
+                    (S
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS شكر)
+                    (NP-SBJ
+                    (-NONE- *))
+                    (PP
+                    (PREP في)
+                    (NP
+                    (NP
+                    (PRON_3FS ها))
+                    (NP
+                    (-NONE- *T*-6))))
+                    (NP-OBJ
+                    (NP
+                    (NOUN+CASE_DEF_ACC جهود)
+                    (NP
+                    (NOUN_PROP لحود)))
+                    (PP
+                    (PREP في)
+                    (NP
+                    (NP
+                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مفوضية)
+                    (NP
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الحكومة)))
+                    (NP
+                    (NOUN لدى)
+                    (NP
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المحكمة)
+                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN العسكرية))))))))))
+                    (PUNC ,)
+                    (S-ADV
+                    (VP
+                    (ADJ.VN+CASE_INDEF_ACC مشيرا)
+                    (NP-SBJ
+                    (-NONE- *-1))
+                    (PP-CLR
+                    (PREP الى)
+                    (SBAR
+                    (SUB_CONJ ان)
+                    (S
+                    (S
+                    (NP-TPC-2
+                    (PRON_3MS ه))
+                    (VP
+                    (PUNC &amp;quot;)
+                    (IV3MS+IV+IVSUFF_MOOD:I يتحدر)
+                    (NP-SBJ
+                    (-NONE- *T*-2))
+                    (PP
+                    (PREP من)
+                    (NP
+                    (NP
+                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN عائلة))
+                    (SBAR
+                    (WHNP-3
+                    (-NONE- 0))
+                    (S
+                    (VP
+                    (PV+PVSUFF_SUBJ:3FS حملت)
+                    (NP-SBJ
+                    (-NONE- *T*-3))
+                    (NP-OBJ
+                    (NOUN+CASE_DEF_ACC هموم)
+                    (NP
+                    (DET+NOUN+CASE_DEF_GEN الوطن))))))))))
+                    (PUNC ,)
+                </parse>
+                <arg f="" g="He" n="0">-NONE- *T*-2&amp;lt;ه</arg>
+                <arg f="" g="Of the family carried the worries of the nation" n="1">من عائلة حملت هموم الوطن</arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

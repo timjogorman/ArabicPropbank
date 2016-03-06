@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>taHaf~az</id>
+    <comment/>
+    <frameset cdef="" edef="get ready, prepare oneself" id="01">
+        <role argnum="0" argrole="entity getting ready"/>
+        <frame>
+            <mapping>
+                <comment/>
+            </mapping>
+            <example>
+                <parse>الأهلي يتحفّز لتخطّي عقبة المصري و تضييق الخناق على الزمالك
+                    
+                    Arg 0: -None- *T*
+                    Arg 1: . لتخطّي عقبة المصري و تضييق الخناق على الزمالك
+                </parse>
+                <comment/>
+            </example>
+            <comment/>
+        </frame>
+        <comment/>
+        <role argnum="1" argrole="ready for what"/>
+    </frameset>
+</verb>

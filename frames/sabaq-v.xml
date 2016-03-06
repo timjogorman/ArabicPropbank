@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>sabaq</id>
+    <frameset cdef="" edef="to precede" id="01">
+        <role argnum="0" argrole="entity preceding"/>
+        <role argnum="1" argrole="thing preceded"/>
+        <role argnum="2" argrole="in what?"/>
+        <frame>
+            <example>
+                <parse>
+                    (S
+                    (CONJ و)
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS سارع)
+                    (NP-SBJ
+                    (NOUN_PROP باول))
+                    (PP-CLR
+                    (PREP الى)
+                    (NP
+                    (NOUN+CASE_DEF_GEN تصويب)
+                    (NP
+                    (DEM_PRON_MS ذلك))))
+                    (PUNC ,)
+                    (NP-TMP
+                    (NOUN+CASE_DEF_ACC بعد)
+                    (SBAR
+                    (SUB_CONJ ما)
+                    (S
+                    (S
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS سبق)
+                    (NP-OBJ
+                    (POSS_PRON_3MS ه))
+                    (NP-SBJ
+                    (NP
+                    (NP
+                    (DET+NOUN+CASE_DEF_NOM الناطق))
+                    (PP
+                    (PREP ب)
+                    (NP
+                    (NOUN+CASE_DEF_GEN اسم)
+                    (NP
+                    (DET+NOUN+CASE_DEF_GEN البيت)
+                    (DET+ADJ+CASE_DEF_GEN الابيض)))))
+                </parse>
+                <arg f="" g="White House spokesman" n="0">الناطق باسم البيت الابيض</arg>
+                <arg f="" g="Him" n="1">ه</arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

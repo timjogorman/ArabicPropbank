@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>dal~al</id>
+    <comment/>
+    <frameset cdef="" edef="spoiling, pampering" id="01">
+        <role argnum="0" argrole="spoiler"/>
+        <frame>
+            <mapping>
+                <comment/>
+            </mapping>
+            <example>
+                <parse>لقد دلل * طفله بسماحه له بالنوم متأخرا</parse>
+                <comment/>
+                <arg f="" g="NONE" n="0">-NOONE- * ?</arg>
+                <arg f="" g="his baby" n="1">طفله</arg>
+                <arg f="" g="by letting him to sleep late" n="2">بسماحه له بالنوم متأخرا</arg>
+            </example>
+            <comment/>
+        </frame>
+        <comment/>
+        <role argnum="1" argrole="spoiled"/>
+        <role argnum="2" argrole="method"/>
+    </frameset>
+    <frameset cdef="" edef="auctioning on something" id="02">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <comment/>
+            </mapping>
+            <example>
+                <parse>دلّل * على السّلْعة بصوت عال</parse>
+                <comment/>
+                <arg f="" g="NONE" n="0">-NONE- * ?</arg>
+                <arg f="" g="on the item" n="1">على السّلْعة</arg>
+            </example>
+            <comment/>
+        </frame>
+        <comment/>
+        <role argnum="1" argrole="thing auctioned"/>
+    </frameset>
+    <frameset cdef="" edef="proving" id="03">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <comment/>
+            </mapping>
+            <example>
+                <parse>دلّل *  على المسألة</parse>
+                <comment/>
+                <arg f="" g="NONE" n="0">-NOONE- * ?</arg>
+                <arg f="" g="on the problem" n="1">على المسألة</arg>
+            </example>
+            <comment/>
+        </frame>
+        <comment/>
+        <role argnum="1" argrole="problem"/>
+    </frameset>
+</verb>

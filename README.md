@@ -1,2 +1,4 @@
 # ArabicPropbank
-This is just a basic page hosting the current Arabic Propbank frames
+This is just a basic repository hosting the current Arabic Propbank frames.
+
+

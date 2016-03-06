@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>taHas~an</id>
+    <frameset cdef="" edef="To improve" id="01">
+        <role argnum="1" argrole="thing improving"/>
+        <role argnum="2" argrole="starting point"/>
+        <role argnum="3" argrole="ending point"/>
+        <frame>
+            <example>
+                <parse>
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS تحسن)
+                    (NP-SBJ
+                    (DET+NOUN+CASE_DEF_NOM الاداء)
+                    (DET+ADJ+CASE_DEF_NOM العام))
+                    (NP-MNR
+                    (NOUN+CASE_INDEF_ACC نسبيا))))
+                </parse>
+                <arg f="" g="Overall performance" n="1">الاداء العام</arg>
+                <arg f="mnr" g="" n="m">نسبيا</arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

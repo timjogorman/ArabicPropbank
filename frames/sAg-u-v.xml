@@ -1,0 +1,66 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>sAg-u</id>
+    <frameset cdef="" edef="to justify" id="01">
+        <role argnum="0" argrole="justifier"/>
+        <role argnum="1" argrole="position"/>
+        <frame>
+            <example>
+                <parse>
+                    (CONJ و)
+                    (S
+                    (VP
+                    (PRT
+                    (NEG_PART لا))
+                    (IV3MS+IV+IVSUFF_MOOD:I يتم)
+                    (NP-SBJ
+                    (NP
+                    (NP
+                    (DET+NOUN+CASE_DEF_NOM التلاعب))
+                    (PP
+                    (PREP ب)
+                    (NP
+                    (DET+NOUN+NSUFF_MASC_PL_GEN المتعاطفين))))
+                    (CONJ و)
+                    (NP
+                    (PRT
+                    (NEG_PART لا))
+                    (NOUN+CASE_DEF_NOM استثمار)
+                    (NP
+                    (NP
+                    (DET+NOUN+CASE_DEF_GEN التعبير))
+                    (CONJ و)
+                    (NP
+                    (NP
+                    (NOUN+CASE_DEF_NOM توجيه)
+                    (NP
+                    (POSS_PRON_3MS ه)))
+                    (NP-ADV
+                    (NOUN+CASE_DEF_ACC نحو)
+                    (NP
+                    (NP
+                    (NOUN+CASE_INDEF_GEN مآرب))
+                    (SBAR
+                    (WHNP-3
+                    (-NONE- 0))
+                    (S
+                    (VP
+                    (IV3FS+IV+IVSUFF_MOOD:I تسوغ)
+                    (NP-SBJ
+                    (-NONE- *T*-3))
+                    (NP-OBJ
+                    (DET+NOUN+CASE_DEF_ACC الحرب))))))))))
+                </parse>
+                <arg f="" g="-NONE- &amp;lt; ends" n="0">*T*-3 &amp;lt; مآرب</arg>
+                <arg f="" g="war" n="1">الحرب</arg>
+            </example>
+            <example>
+                <parse>
+                    ومجرد العجز عن العناية بالطفلين لا يسوغ *-1 الإفطار ما لم يكونا بحاجة حقيقية إلى العناية وترتب على تركها ضرر بهما.
+                </parse>
+                <arg f="" g="simply being unable to care for the children" n="0">*-1 &amp;lt; ومجرد العجز عن العناية بالطفلين</arg>
+                <arg f="" g="breaking one's fast" n="1">الإفطار</arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

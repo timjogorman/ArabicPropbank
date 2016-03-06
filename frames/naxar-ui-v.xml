@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>naxar-ui</id>
+    <comment/>
+    <frameset cdef="" edef="to gnaw" id="01">
+        <role argnum="0" argrole="gnawer"/>
+        <frame>
+            <mapping>
+                <comment/>
+            </mapping>
+            <example>
+                <parse>أحمد السمان: المحليات سوس ينخر  * فى عظام الديمقراطية</parse>
+                <comment/>
+                <arg f="" g="they" n="0">* &gt; السوس</arg>
+                <arg f="" g="in the bones of democracy" n="1">فى عظام الديمقراطية</arg>
+            </example>
+            <comment/>
+        </frame>
+        <comment/>
+        <role argnum="1" argrole="thing chewed"/>
+    </frameset>
+</verb>

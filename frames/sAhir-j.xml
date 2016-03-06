@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>sAhir</id>
+    <comment/>
+    <frameset cdef="" edef="watchful / napless" id="01">
+        <role argnum="0" argrole="watchful / napless entity"/>
+        <frame>
+            <mapping>
+                <comment/>
+            </mapping>
+            <example>
+                <parse>(S
+                    (NP-SBJ
+                    (PRON_2MP انتم))
+                    (NP-PRD
+                    (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM حماة)
+                    (NP
+                    (DET+NOUN الحمى))))
+                    (PUNC ,)
+                    (CONJ و)
+                    (S
+                    (NP-SBJ
+                    (PRON_2MP انتم))
+                    (NP-PRD
+                    (NP
+                    (DET+NOUN+CASE_DEF_NOM العين))
+                    (SBAR
+                    (WHNP-1
+                    (-NONE- 0))
+                    (S
+                    (VP
+                    (DET+ADJ.VN+NSUFF_FEM_SG+CASE_DEF_NOM الساهرة)
+                    (NP-SBJ
+                    (-NONE- *T*-1))
+                    (PP-CLR
+                    (PREP على)
+                    (NP
+                    (DET+NOUN+CASE_DEF_GEN الوطن))))))))
+                </parse>
+                <comment/>
+                <arg f="" g="it" n="0">-NONE- *T*-1 &gt;العين</arg>
+                <arg f="" g="on the home" n="1">على الوطن</arg>
+            </example>
+            <comment/>
+        </frame>
+        <comment/>
+        <role argnum="1" argrole="for what? (marked by على)"/>
+    </frameset>
+</verb>

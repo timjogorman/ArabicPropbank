@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>tawas~al</id>
+    <frameset cdef="" edef="To entreat" id="01">
+        <role argnum="0" argrole="asker, agent"/>
+        <role argnum="1" argrole="hearer"/>
+        <role argnum="2" argrole="for what"/>
+        <frame>
+            <comment>
+                تضرع /  استعطف
+            </comment>
+            <example>
+                <parse>
+                    انتظرت * عودة ليلى , وعندما عادت * هاجمت * ها بوحشية وانهالت * عليها ضرباً بالعصا , واقدمت * على تمزيق ثيابها وسرقت * لها ثلاثة خواتم ذهب 0 احدهما مرصع بالاحجار الكريمة الماسية , ثم راحت * تطعن * ها بالسكين , فيما كانت الضحية تتوسل **-4 ها بالرحمة والاشفاق عليها
+                </parse>
+                <arg f="" g="She" n="0">**-4 &amp;lt; الضحية</arg>
+                <arg f="" g="Her" n="1">ها</arg>
+                <arg f="" g="Mercy and compassion" n="2">بالرحمة والاشفاق عليها</arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

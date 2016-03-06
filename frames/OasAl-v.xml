@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>OasAl</id>
+    <frameset cdef="" edef="to make flow" id="01">
+        <role argnum="0" argrole="thing that causes the flow"/>
+        <role argnum="1" argrole="the liquid"/>
+        <frame>
+            <example>
+                <parse>
+                    (CONJ ف)
+                    (S
+                    (SBAR-NOM-TPC-4
+                    (WHNP-3
+                    (REL_PRON ما))
+                    (S
+                    (VP
+                    (IV3MS+IV+IVSUFF_MOOD:I يجري)
+                    (NP-SBJ
+                    (-NONE- *T*-3))
+                    (PP-LOC
+                    (PREP في)
+                    (NP
+                    (NOUN_PROP+CASE_INDEF_GEN فلسطين))))))
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS حبس)
+                    (NP-SBJ
+                    (-NONE- *T*-4))
+                    (NP-OBJ
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الابتسامة))))
+                    (CONJ و)
+                    (S
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS اسال)
+                    (NP-SBJ
+                    (-NONE- *))
+                    (NP-OBJ
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الدمعة))))
+                </parse>
+                <arg f="" g="" n="0">-NONE- *</arg>
+                <arg f="" g="the tear" n="1">الدمعة</arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

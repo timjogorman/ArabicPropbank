@@ -1,0 +1,112 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>taHat~am</id>
+    <frameset cdef="" edef="To necessitate" id="01">
+        <role argnum="1" argrole="thing required"/>
+        <role argnum="2" argrole="required-of, required-from"/>
+        <frame>
+            <example>
+                <parse>
+                    (S
+                    (CONJ و)
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS قال)
+                    (NP-SBJ
+                    (NOUN_PROP كيم))
+                    (SBAR
+                    (SUB_CONJ ان)
+                    (S
+                    (NP-TPC-1
+                    (PRON_3MS ه))
+                    (VP
+                    (IV3MS+IV+IVSUFF_MOOD:I يرغب)
+                    (NP-SBJ
+                    (-NONE- *T*-1))
+                    (PP-CLR
+                    (PREP في)
+                    (NP
+                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN زيارة)
+                    (NP
+                    (DET+NOUN_PROP اليابان))))
+                    (PP-TMP
+                    (PREP في)
+                    (NP
+                    (DET+NOUN+CASE_DEF_GEN المستقبل)))
+                    (SBAR-ADV
+                    (SUB_CONJ اذا)
+                    (S
+                    (VP
+                    (PV+PVSUFF_SUBJ:3FS تحسنت)
+                    (NP-SBJ
+                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_NOM العلاقات)
+                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM الثنائية))))))))
+                    (PUNC ,)
+                    (S-ADV
+                    (VP
+                    (PSEUDO_VERB لكن)
+                    (NP-SBJ
+                    (PRON_3MS ه))
+                    (S
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS أكد)
+                    (NP-SBJ-2
+                    (-NONE- *))
+                    (SBAR
+                    (SUB_CONJ ان)
+                    (S
+                    (NP-TPC-3
+                    (PRON_3MS ه))
+                    (VP
+                    (IV3MS+IV+IVSUFF_MOOD:I يتحتم)
+                    (NP-SBJ
+                    (-NONE- *T*-3))
+                    (PP-CLR
+                    (PREP على)
+                    (NP
+                    (DET+NOUN_PROP+CASE_DEF_GEN اليابان)))
+                    (SBAR
+                    (SUB_CONJ ان)
+                    (S
+                    (S
+                    (VP
+                    (IV3FS+IV+IVSUFF_MOOD:S تعتذر)
+                    (NP-SBJ
+                    (-NONE- *))))
+                    (CONJ و)
+                    (S
+                    (VP
+                    (IV3FS+IV+IVSUFF_MOOD:S تدفع)
+                    (NP-SBJ
+                    (-NONE- *))
+                    (NP-OBJ
+                    (NP
+                    (NOUN+NSUFF_FEM_PL+CASE_INDEF_ACC تعويضات))
+                    (PP
+                    (PREP عن)
+                    (NP
+                    (NP
+                    (DET+NOUN+CASE_DEF_GEN الحكم)
+                    (DET+ADJ+CASE_DEF_GEN الاستعماري)
+                    (DET+ADJ+CASE_DEF_GEN الياباني))
+                    (PP
+                    (PREP ل)
+                    (NP
+                    (NP
+                    (NOUN+CASE_DEF_GEN شبه)
+                    (NP
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجزيرة)))
+                    (ADJP
+                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الكورية))))
+                    (NP-TMP
+                    (NOUN+CASE_DEF_ACC بين)
+                    (NP
+                    (NOUN_NUM 1910)
+                    (CONJ و)
+                    (NOUN_NUM .1945)))))))))))))))))))
+                </parse>
+                <arg f="" g="It" n="1">-NONE- *T*-3&amp;lt; ه</arg>
+                <arg f="" g="Japan should apologize and pay compensation for Japanese colonial rule of the Korean Peninsula between 1910 and .1945" n="2">على اليابان ان تعتذر وتدفع تعويضات عن الحكم الاستعماري الياباني لشبه الجزيرة الكورية بين 1910 و .1945</arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

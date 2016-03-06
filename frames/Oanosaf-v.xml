@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>Oanosaf</id>
+    <comment/>
+    <frameset cdef="" edef="to blast" id="01">
+        <role argnum="0" argrole="causer, agent"/>
+        <frame>
+            <mapping>
+                <comment/>
+            </mapping>
+            <example>
+                <parse>أنسفت الطلقة زجاج السيارة</parse>
+                <comment/>
+                <arg f="" g="shot" n="0">الطلقة</arg>
+                <arg f="" g="glass car" n="1">زجاج السيارة</arg>
+            </example>
+            <comment/>
+        </frame>
+        <comment/>
+        <role argnum="1" argrole="explosive thing"/>
+    </frameset>
+</verb>

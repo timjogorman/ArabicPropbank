@@ -1,0 +1,151 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>Oavar</id>
+    <frameset cdef="" edef="provoke , cause ( emotional reaction)" id="01">
+        <role argnum="0" argrole="causer"/>
+        <role argnum="1" argrole="reaction"/>
+        <frame>
+            <example>
+                <parse>(S
+                    (S
+                    (CONJ و)
+                    (VP
+                    (PV+PVSUFF_SUBJ:3FS لفتت)
+                    (NP-SBJ
+                    (-NONE- *))
+                    (ADVP
+                    (ADV+CASE_INDEF_ACC ايضا))
+                    (PP-CLR
+                    (PREP الى)
+                    (SBAR
+                    (SUB_CONJ ان)
+                    (S
+                    (NP-TPC-1
+                    (NOUN_PROP رود)
+                    (PUNC -)
+                    (NOUN_PROP لارسن))
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS طلب)
+                    (NP-SBJ
+                    (-NONE- *T*-1))
+                    (NP-OBJ
+                    (NP
+                    (NOUN+CASE_INDEF_ACC مواعيد)
+                    (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC عاجلة))
+                    (NP-TMP
+                    (-NONE- *ICH*-4)))
+                    (PP
+                    (PREP من)
+                    (NP
+                    (NP
+                    (DET+NOUN+CASE_DEF_GEN الرؤساء)
+                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الثلاثة))
+                    (CONJ و)
+                    (NP
+                    (NOUN+CASE_DEF_GEN وزير)
+                    (NP
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الخارجية)))))
+                    (NP-TMP-4
+                    (NOUN+CASE_DEF_ACC قبل)
+                    (NP
+                    (DET+NOUN+CASE_DEF_GEN الاحد)))))))))
+                    (PUNC ,)
+                    (CONJ و)
+                    (S
+                    (VP
+                    (PRT
+                    (NEG_PART لم))
+                    (IV3MS+IV+IVSUFF_MOOD:J يشأ)
+                    (NP-SBJ
+                    (-NONE- *))
+                    (SBAR
+                    (SUB_CONJ ان)
+                    (S
+                    (VP
+                    (IV3FS+IV+IVSUFF_MOOD:S تتم)
+                    (NP-SBJ
+                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_NOM اللقاءات))
+                    (PP-MNR
+                    (PRT
+                    (RESTRIC_PART الا))
+                    (PREP ب)
+                    (NP
+                    (NP
+                    (NOUN+CASE_INDEF_GEN شكل)
+                    (ADJ+CASE_INDEF_GEN منفرد))
+                    (NP-ADV
+                    (NP
+                    (NOUN+CASE_DEF_ACC مع)
+                    (NP
+                    (DET+NOUN+CASE_DEF_GEN الرئيس)))
+                    (CONJ او)
+                    (NP
+                    (NOUN+CASE_DEF_ACC مع)
+                    (NP
+                    (DET+NOUN+CASE_DEF_GEN الوزير)))))))))
+                    (PUNC ,)
+                    (PP
+                    (PREP م)
+                    (SBAR-NOM
+                    (WHNP-2
+                    (REL_PRON ما))
+                    (S
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS اثار)
+                    (NP-SBJ
+                    (-NONE- *T*-2))
+                    (NP-OBJ
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الدهشة)
+                    (CONJ و)
+                    (DET+NOUN+CASE_DEF_ACC الاستغراب))
+                    (NP-ADV
+                    (NP
+                    (NP
+                    (PRT
+                    (NEG_PART ليس))
+                    (NOUN لدى)
+                    (NP
+                    (DET+NOUN+NSUFF_MASC_PL_GEN المسؤولين)
+                    (DET+ADJ+NSUFF_MASC_PL_GEN اللبنانيين)))
+                    (ADVP
+                    (ADV فحسب)))
+                    (PUNC ,)
+                    (CONJ بل)
+                    (NP
+                    (ADVP
+                    (ADV+CASE_INDEF_ACC ايضا))
+                    (NOUN لدى)
+                    (SBAR-NOM
+                    (WHNP-3
+                    (REL_PRON من))
+                    (S
+                    (VP
+                    (PV+PVSUFF_SUBJ:3MS كان)
+                    (VP
+                    (IV3MS+IV+IVSUFF_MOOD:I يرافق)
+                    (NP-SBJ
+                    (-NONE- *T*-3))
+                    (NP-OBJ
+                    (IVSUFF_DO:3MS ه))
+                    (PP
+                    (PREP من)
+                    (NP
+                    (DET+NOUN+NSUFF_MASC_PL_GEN المسؤولين)
+                    (DET+ADJ+NSUFF_MASC_PL_GEN الدوليين)))))))))))))))
+                    (PUNC .))
+                </parse>
+                <arg f="" g="-NONE-" n="0">*T*-2</arg>
+                <arg f="" g="Surprise and amazement" n="1">الدهشة و الاستغراب</arg>
+                <arg f="adv" g="Not only to Lebanese officials, but also to who was accompanied by international officials." n="m">ليس لدى المسؤولين اللبنانيين فحسب , بل ايضا لدى من كان يرافقه من المسؤولين الدوليين .</arg>
+                
+                <comment/>
+            </example>
+            
+            <comment/>
+        </frame>
+        
+        <comment/>
+    </frameset>
+    
+    <comment/>
+</verb>
