@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tabAdar</id>
+
+<frameset cdef="" edef="to hurry or rush to" id="01" vncls="">
+<role argnum="0" argrole="entity rushing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فور سقوطه على الأرض تبادر الناس الى نجدته</parse>
+
+<arg f="" g="the people" n="0">الناس</arg>
+<arg f="" g="to help him" n="1">الى نجدته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to occur to, to come to someone's mind" id="02" vncls="">
+<role argnum="1" argrole="things coming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هذا الأمر لم يتبادر * الى ذهني</parse>
+
+<arg f="" g="this subject" n="1">* هذا الأمر</arg>
+<arg f="" g="to my mind" n="2">الى ذهني</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

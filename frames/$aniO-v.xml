@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$aniO</id>
+<comment/>
+<frameset cdef="" edef="to hate or detest" id="01" vncls="">
+<role argnum="0" argrole="hater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شنأ الرجل صاحبه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="hated" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqaDaY</id>
+
+<frameset cdef="" edef="To pass, to go by, to elapse, to expire" id="01" vncls="">
+<role argnum="1" argrole="things expired" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقضى شهر العسل</parse>
+
+<arg f="" g="honey moon" n="1">شهر العسل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laf~if</id>
+<comment/>
+<frameset cdef="" edef="to make go in circle, to make something turn" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل لفف * المشروب على الحاضرين</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="the drink" n="1">المشروب</arg>
+<arg f="" g="on the guests" n="2">على الحاضرين</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things going around" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

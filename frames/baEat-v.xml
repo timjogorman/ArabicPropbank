@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>baEat</id>
+<comment/>
+<frameset cdef="" edef="to send" id="01" vncls="">
+<role argnum="0" argrole="sender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو حيبعت * لي الصور من بيته</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="to me" n="3">لي</arg>
+<arg f="" g="the pictures" n="1">الصور</arg>
+<arg f="" g="from his house" n="2">من بيته</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="sent" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="sent to or goal" vncls="" vntheta=""/>
+</frameset>
+</verb>

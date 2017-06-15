@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>warim-a</id>
+<comment/>
+<frameset cdef="" edef="to swell, to become swollen" id="01" vncls="">
+<role argnum="1" argrole="entity becoming swollen" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ورم وشه من الضرب</parse>
+<comment/>
+<arg f="" g="his face" n="1">وشه</arg>
+<arg f="cau" g="from beating" n="m">من الضرب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

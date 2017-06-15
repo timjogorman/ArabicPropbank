@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munaZ~am</id>
+<comment/>
+<frameset cdef="" edef="well organized, in good order, prepaired" id="01" vncls="">
+<role argnum="0" argrole="organizer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا السباق منظم * من قبل النادي الرياضي</parse>
+<comment/>
+<arg f="" g="this race" n="1">* هذا السباق</arg>
+<arg f="" g="by the sports club" n="0">من قبل النادي الرياضي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing/event organized" vncls="" vntheta=""/>
+<role argnum="2" argrole="beneficiary" vncls="" vntheta=""/>
+</frameset>
+</verb>

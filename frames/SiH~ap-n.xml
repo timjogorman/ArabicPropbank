@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SiH~ap</id>
+<comment/>
+<frameset cdef="" edef="truth, reality, health" id="01" vncls="">
+<role argnum="1" argrole="things that are true" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ثبت صحة ما قاله الرجل بخصوص االمدرسة</parse>
+<comment/>
+<arg f="" g="what the mansaid" n="1">ما قاله الرجل</arg>
+<arg f="" g="about the achool" n="2">بخصوص االمدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

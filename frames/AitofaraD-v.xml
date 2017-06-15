@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitofaraD</id>
+<comment>EGYPTIAN ARABIC Framefile based on faraD-v</comment>
+    <frameset cdef="" edef="to impose" id="01" vncls="">
+<role argnum="0" argrole="imposer" vncls="" vntheta="" />
+<role argnum="1" argrole="thing imposed" vncls="" vntheta="" />
+<role argnum="2" argrole="imposed on" vncls="" vntheta="" />
+<frame>
+<mapping>
+<V />
+<mapitem src="sbj" trg="arg0" />
+<comment />
+</mapping>
+<example>
+<parse>(S (VP (he/it+be M-yakuwnu M -يَكُونُ)
+                                                     (NP-5 (this Mh`XA M ه`ذا)
+                                                           (the+fact/reality/actual MAlwAqiEu M الواقِعُ))
+                                                     (VP (PRT ( Mqad M قَد))
+                                                         (impose+he/it MfaraDa M فَرَضَ)
+                                                         (NP-SBJ-5 (-NONE- XTX))
+                                                         (NP-OBJ (same/self Mnafosa- M نَفْسَ-)
+                                                                 (its/his M-hu M -هُ))
+                                                         (PP (on/above MEalay- M عَلَي-)
+                                                             (NP (it/him M-hi M -هِ)))))))))))))))))))))))))))))</parse>
+<arg f="" g="NP-SBJ-5 (-NONE- *T*)" n="0">XTX</arg>
+<arg f="" g="him slef" n="1">nafosa- -hu</arg>
+<arg f="" g="on him" n="2">Ealay- -hi</arg>
+<arg f="dis" g="indeed" n="m">-qad</arg>
+<V />
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset faraD-i.01
+Based on roleset faraD-v.01</comment>
+</frameset>
+<frameset cdef="" edef="to suppose or assume" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>نفرض * انه حييجي بكره</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="he will come tomorrow" n="1">انه حييجي بكره</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset faraD-i.02
+Based on roleset faraD-v.02</comment>
+<role argnum="1" argrole="things assumed" vncls="" vntheta="" />
+<role argnum="2" argrole="about what" vncls="" vntheta="" />
+</frameset>
+</verb>

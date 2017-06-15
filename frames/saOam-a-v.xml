@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saOam-a</id>
+
+<frameset cdef="" edef="To weary, to get bored" id="01" vncls="">
+<role argnum="0" argrole="causer of tiredness" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سئم الطفل من اللعبة</parse>
+
+<arg f="" g="the boy" n="1">الطفل</arg>
+<arg f="" g="of the toy" n="0">من اللعبة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="tired entity" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

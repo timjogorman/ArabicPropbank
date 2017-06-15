@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>sax~af</id>
+<comment>EGYPTIAN ARABIC Framefile based on hazaO-a-v</comment>
+<frameset cdef="" edef="to deribe, to mock, to make fun of" id="01" vncls="">
+<role argnum="0" argrole="mocker" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>هزأ الرجل من كلام صاحبه</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="from the words" n="2">من كلام</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset hazaO-a-v.01</comment>
+<role argnum="1" argrole="mocked" vncls="" vntheta="" />
+<role argnum="2" argrole="reason, what's so funny" vncls="" vntheta="" />
+</frameset>
+</verb>

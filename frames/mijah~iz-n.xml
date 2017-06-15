@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mijah~iz</id>
+<comment/>
+<frameset cdef="" edef="to prepare" id="01" vncls="">
+<role argnum="0" argrole="preparer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أول ما الصفرة اتمدت راح الواد مجهز * حاله للأكل</parse>
+<comment/>
+<arg f="" g="the boy" n="0">* الواد</arg>
+<arg f="" g="himself" n="1">حاله</arg>
+<arg f="" g="to eat" n="2">للأكل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="thing prepared" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tagoriym</id>
+<comment/>
+<frameset cdef="" edef="fining, amercement" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الشرطي بتغريم * الرجل مئة دولار لقيادته  السيارة بسرعة</parse>
+<comment/>
+<arg f="" g="the police man" n="0">* الشرطي</arg>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="100 dollar" n="2">مئة دولار</arg>
+<arg f="" g="for driving fast his car" n="3">لقيادته  السيارة بسرعة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="amount" vncls="" vntheta=""/>
+<role argnum="3" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

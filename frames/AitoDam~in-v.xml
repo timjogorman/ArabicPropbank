@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoDam~in</id>
+<comment/>
+<frameset cdef="" edef="to comprise, or include" id="01" vncls="">
+<role argnum="1" argrole="group" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الكتاب اتضمن * قصص قصيرة</parse>
+<comment/>
+<arg f="" g="the book" n="1">* الكتاب</arg>
+<arg f="" g="short stories" n="2">قصص قصيرة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="parts or members" vncls="" vntheta=""/>
+</frameset>
+</verb>

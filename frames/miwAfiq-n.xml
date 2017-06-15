@@ -1,0 +1,88 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>miwAfiq</id>
+<frameset cdef="" edef="to agree, to certify, to authenticate" id="01">
+<role argnum="0" argrole="agreer" />
+<role argnum="1" argrole="proposition - marked by على" />
+<role argnum="2" argrole="other entity agreeing" />
+<frame>
+
+<example>
+<parse>(S
+  (CONJ و)
+  (PP
+    (PREP في)
+    (NP
+      (NOUN+CASE_DEF_GEN موضوع)
+      (NP
+        (DET+NOUN+NSUFF_MASC_PL_GEN اللاجئين))))
+  (PUNC ,)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS وافق)
+    (NP-SBJ
+      (DET+NOUN+CASE_DEF_NOM الجانب)
+      (DET+ADJ+CASE_DEF_NOM الاسرائيلي))
+    (PP-CLR
+      (PREP على)
+      (NP
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN عودة)
+          (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN تدريجية))
+        (SBAR
+          (WHNP-1
+            (-NONE- 0))
+          (S
+            (VP
+              (IV3FS+IV+IVSUFF_MOOD:I تمتد)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (PP-TMP
+                (PREP على)
+                (NP
+                  (NOUN مدى)
+                  (NP
+                    (NOUN_NUM 15)
+                    (NP
+                      (NOUN+CASE_INDEF_ACC عاماً)))))
+              (NAC
+                (CONJ و)
+                (NP-MNR
+                  (NOUN+CASE_DEF_ACC وفق)
+                  (NP
+                    (NOUN_NUM+NSUFF_FEM_SG+CASE_DEF_GEN ثلاثة)
+                    (NP
+                      (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN مسارات)))))))))))
+  (PUNC .))</parse>
+<arg f="" g="the Israeli side" n="0">الجانب الاسرائيلي</arg>
+<arg f="" g="on a gradual return extending 15 years and according to three paths" n="1">على عودة تدريجية تمتد  15 عاماً ووفق ثلاثة مسارات</arg>
+<comment />
+</example>
+<example>
+<parse>قالت القاضية ان طلب موسوي &quot; غير حكيم لكنه عقلاني , ووافقت * الطبيب النفسي 0 المعين **-1 من المحكمة على ان المتهم لا يعاني **-1 مرضا عقليا .</parse>
+<arg f="" g="she" n="0">*</arg>
+<arg f="" g="the psychologist chosen by the court" n="1">الطبيب النفسي 0 المعين **-1 من المحكمة</arg>
+<arg f="" g="that the accused does not suffer a mental illness" n="2">على ان المتهم لا يعاني **-1 مرضا عقليا .</arg>
+<comment />
+</example>
+<comment>اتفق / طابق</comment>
+</frame>
+<comment>Based on roleset wAfaq.01</comment>
+</frameset>
+<comment>Framefile based on wAfaq</comment>
+<frameset cdef="" edef="to correspond to,  to fall on ( a given date) (multi word expression)" id="03">
+<role argnum="1" argrole="date" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>وافق يوم الجمعة يوم الاستقلال</parse>
+<comment />
+<arg f="" g="friday" n="1">يوم الجمعة</arg>
+<arg f="" g="independence day" n="2">يوم الاستقلال</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset wAfaq.03</comment>
+<role argnum="2" argrole="to fall on what date or occasion" />
+</frameset>
+</verb>

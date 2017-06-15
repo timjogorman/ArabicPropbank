@@ -1,21 +1,38 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>waSam-i</id>
-    <frameset cdef="" edef="To stigmatize" id="01">
-        <role argnum="0" argrole="stigmatizer"/>
-        <role argnum="1" argrole="stigmatized"/>
-        <role argnum="2" argrole="grounds, reason"/>
-        <frame>
-            <comment>
-                شوه سمعة
-            </comment>
-            <example>
-                <parse>
-                    تعالوا فقد حانت أمور عظيمـــــة فلا كان منا غافل  يصــم * العصــــــر
-                </parse>
-                <arg f="" g="He" n="0">*&amp;lt;غافل</arg>
-                <arg f="" g="age" n="1">العصــــــر</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>waSam-i</id>
+<frameset cdef="" edef="To stigmatize" id="01" vncls="">
+<role argnum="0" argrole="stigmatizer" vncls="" vntheta=""/>
+<role argnum="1" argrole="stigmatized" vncls="" vntheta=""/>
+<role argnum="2" argrole="grounds, reason" vncls="" vntheta=""/>
+<frame>
+
+<example>
+<parse>تعالوا فقد حانت أمور عظيمـــــة فلا كان منا غافل  يصــم * العصــــــر</parse>
+<arg f="" g="He" n="0">*&lt;غافل</arg>
+<arg f="" g="age" n="1">العصــــــر</arg>
+<comment/>
+</example>
+<comment>شوه سمعة</comment>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to split (wood)" id="02" vncls="">
+<role argnum="0" argrole="splitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وصم الرجل العود</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the stick" n="1">العود</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things split" vncls="" vntheta=""/>
+</frameset>
 </verb>

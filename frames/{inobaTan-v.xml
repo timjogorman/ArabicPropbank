@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobaTan</id>
+
+<frameset cdef="" edef="to be hidden" id="01" vncls="">
+<role argnum="1" argrole="entity hidden" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبطن الذهب في القبو</parse>
+
+<arg f="" g="the gold" n="1">الذهب</arg>
+<arg f="" g="in the basement" n="2">في القبو</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,43 +1,69 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>jar~-u</id>
-    <frameset cdef="" edef="to lead to.." id="01">
-        <role argnum="0" argrole="leader, causer"/>
-        <role argnum="1" argrole="thing led"/>
-        <role argnum="2" argrole="start point"/>
-        <role argnum="3" argrole="end point"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS اظهر)
-                    (NP-SBJ
-                    (-NONE- *T*-6))
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (NP-TPC-7
-                    (DET+NOUN+NSUFF_MASC_PL_ACC الاصوليين)
-                    (DET+ADJ+NSUFF_MASC_PL_ACC الاسلاميين))
-                    (VP
-                    (PRT
-                    (VERB_PART قد))
-                    (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يجرون)
-                    (NP-SBJ
-                    (-NONE- *T*-7))
-                    (NP-OBJ
-                    (NOUN_PROP باكستان))
-                    (PP-DIR
-                    (PREP الى)
-                    (NP
+<id>jar~-u</id>
+<frameset cdef="" edef="to lead to.." id="01" vncls="">
+<role argnum="0" argrole="leader, causer" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing led" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+        (VP
+          (PV+PVSUFF_SUBJ:3MS اظهر)
+          (NP-SBJ
+            (-NONE- *T*-6))
+          (SBAR
+            (SUB_CONJ ان)
+            (S
+              (NP-TPC-7
+                (DET+NOUN+NSUFF_MASC_PL_ACC الاصوليين)
+                (DET+ADJ+NSUFF_MASC_PL_ACC الاسلاميين))
+              (VP
+                (PRT
+                  (VERB_PART قد))
+                (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يجرون)
+                (NP-SBJ
+                  (-NONE- *T*-7))
+                (NP-OBJ
+                  (NOUN_PROP باكستان))
+                (PP-DIR
+                  (PREP الى)
+                  (NP
                     (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN كارثة))))))))))
-                    (PUNC ,)
-                </parse>
-                <arg f="" g="they" n="0">-NONE- *T*-7&amp;lt;الاصوليين</arg>
-                <arg f="" g="Pakistan" n="1">باكستان</arg>
-                <arg f="" g="Catastrophe" n="2">الى كارثة</arg>
-            </example>
-        </frame>
-    </frameset>
+  (PUNC ,)</parse>
+<arg f="" g="they" n="0">-NONE- *T*-7&lt;الاصوليين</arg>
+<arg f="" g="Pakistan" n="1">باكستان</arg>
+<arg f="" g="Catastrophe" n="2">الى كارثة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to pull" id="02" vncls="">
+<role argnum="0" argrole="entity pulling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده كان بيجر * وراه بالحبل صندوق كبير من البيت  للشغل</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="loc" g="after him" n="m">وراه</arg>
+<arg f="" g="with rope" n="2">بالحبل</arg>
+<arg f="" g="a big box" n="1">صندوق كبير</arg>
+<arg f="" g="from the house" n="3">من البيت</arg>
+<arg f="" g="to work" n="4">للشغل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity or things pulled" vncls="" vntheta=""/>
+<role argnum="2" argrole="tool used" vncls="" vntheta=""/>
+<role argnum="3" argrole="start point" vncls="" vntheta=""/>
+<role argnum="4" argrole="end point" vncls="" vntheta=""/>
+</frameset>
 </verb>

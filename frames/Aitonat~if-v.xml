@@ -1,0 +1,73 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitonat~if</id>
+<comment/>
+<frameset cdef="" edef="to be plucked out" id="01" vncls="">
+<role argnum="0" argrole="puller, tearer, separator, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (FRAG
+    (CONJ وَلّا)
+    (PP-PRP
+      (PREP عَ)
+      (NP
+        (NOUN شَأْن)
+        (S
+          (S
+            (NP-TPC-1
+              (DET+NOUN الكَلام))
+            (ADVP
+              (ADV هِنا))
+            (VP
+              (IV3MS+IV يِدِين)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (DET+NOUN_PROP البَرادِعِيّ))))
+          (CONJ وِ)
+          (S
+            (VP
+              (IV3MS+IV يِبْرَّأ)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NP
+                  (NOUN مَجْلِس)
+                  (NP
+                    (DET+NOUN الشَعْب)))
+                (SBAR
+                  (WHNP-3
+                    (REL_PRON اللِي))
+                  (S
+                    (VP
+                      (PV_PASS+PVSUFF_SUBJ:3FS اِتْنَتِفِت)
+                      (NP-SBJ-2
+                        (NOUN+NSUFF_FEM_SG فَرْوَة)
+                        (NP
+                          (NP
+                            (POSS_PRON_3MS ُه))
+                          (NP
+                            (-NONE- *T*-3))))
+                      (NP-OBJ
+                        (-NONE- *-2))
+                      (PP-PRP
+                        (PREP بِ)
+                        (NP
+                          (NOUN سَبَب)
+                          (NP
+                            (DET+NOUN_PROP البَرادِعِيّ)))))))))))))))</parse>
+<comment/>
+<arg f="" g="it's fur" n="1">فروته</arg>
+<arg f="cau" g="because of Al-BardaEiy" n="m">بسبب البرداعي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing torn" vncls="" vntheta=""/>
+<role argnum="2" argrole="torn from/out" vncls="" vntheta=""/>
+</frameset>
+</verb>

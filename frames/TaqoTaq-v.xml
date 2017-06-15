@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TaqoTaq</id>
+
+<frameset cdef="" edef="o cause to break with a sudden sharp sound" id="01" vncls="">
+<role argnum="0" argrole="entity causing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse/>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity broke" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to make noise" id="02" vncls="">
+<role argnum="1" argrole="entity making noise" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طقطق الزجاج</parse>
+<comment/>
+<arg f="" g="the glass" n="1">الزجاج</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

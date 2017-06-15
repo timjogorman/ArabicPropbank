@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naDad-i</id>
+<comment/>
+<frameset cdef="" edef="to put in order or array, to arrange" id="01" vncls="">
+<role argnum="0" argrole="organizer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نضد الطالب كتبه في الدرج</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="his books" n="1">كتبه</arg>
+<arg f="loc" g="in the drawer" n="m">في الدرج</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing organized" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what (if separated from ARG 1)" vncls="" vntheta=""/>
+</frameset>
+</verb>

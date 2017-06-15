@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>takAtab</id>
+<comment/>
+<frameset cdef="" edef="to correspond or write to each other" id="01" vncls="">
+<role argnum="0" argrole="entity writing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تكاتب الصديقان ظوال فترة الفراق</parse>
+<comment/>
+<arg f="" g="the two friends" n="0">الصديقان</arg>
+<arg f="tmp" g="all the separation time" n="m">ظوال فترة الفراق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

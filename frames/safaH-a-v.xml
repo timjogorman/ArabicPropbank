@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>safaH-a</id>
+
+<frameset cdef="" edef="to shed, to spill or pour out" id="01" vncls="">
+<role argnum="0" argrole="entity sheding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سفح القائد دم أعدائه</parse>
+
+<arg f="" g="the commander" n="0">القائد</arg>
+<arg f="" g="the blood of his enemy" n="1">دم أعدائه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="what is sheded" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

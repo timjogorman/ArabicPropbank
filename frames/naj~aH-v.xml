@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naj~aH</id>
+<comment/>
+<frameset cdef="" edef="to make or let succeed" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (NP-ADV
+        (NOUN+CASE_INDEF_ACC عُمُوماً))
+      (NP-TPC-1
+        (NP
+          (DET+NOUN الناس))
+        (NP
+          (PRON_3FS هِيَّ)))
+      (VP
+        (PV+PVSUFF_SUBJ:3FS نَجَحِت)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (DET+NOUN الإِخْوان))))</parse>
+<comment/>
+<arg f="" g="the people" n="0">* 1 الناس</arg>
+<arg f="" g="the brotherhood" n="1">الإِخْوان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity succeeded" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

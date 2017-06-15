@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>garobil</id>
+<comment/>
+<frameset cdef="" edef="to sift or sieve, to kill or crush" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الجيش غربل * راسه بالرصاص</parse>
+<comment/>
+<arg f="" g="the Army" n="0">* الجيش</arg>
+<arg f="" g="his head" n="1">راسه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity sifted" vncls="" vntheta=""/>
+</frameset>
+</verb>

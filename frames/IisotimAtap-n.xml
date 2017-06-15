@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IisotimAtap</id>
+<comment/>
+<frameset cdef="" edef="desprate srtruggle, death defiance" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(PREP فِي)
+        (NP
+          (NOUN عَهْد)
+          (NP
+            (NP
+              (NOUN_PROP عَبْد)
+              (DET+NOUN_PROP الناصِر))
+            (CONJ وِ)
+            (NP
+              (NP-TMP
+                (NOUN بَعْد)
+                (NP
+                  (POSS_PRON_3MS ُه)))
+              (DET+NOUN_PROP السادات)))))
+      (VP
+        (PV+PVSUFF_SUBJ:3FS ظَهَرِت)
+        (NP-SBJ
+          (NP
+            (NOUN+NSUFF_FEM_SG قُوَّة)
+            (DET+NOUN+NSUFF_MASC_PL المَصْرِيِّين))
+          (CONJ وَ)
+          (S-NOM
+            (VP
+              (NOUN.VN+NSUFF_FEM_SG إِسْتِماتَت)
+              (NP-SBJ
+                (POSS_PRON_3P هِم))
+              (PP-CLR
+                (PREP فِي)
+                (NP
+                  (NP
+                    (DET+NOUN الدِفاع))
+                  (PP
+                    (PREP عَن)
+                    (NP
+                      (NOUN أَراضِي)
+                      (NP
+                        (POSS_PRON_3P هِم)))))))))))</parse>
+<comment/>
+<arg f="" g="them" n="0">هِم</arg>
+<arg f="" g="in defending thier lands" n="1">في الدفاع عن اراضيهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things working toward" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

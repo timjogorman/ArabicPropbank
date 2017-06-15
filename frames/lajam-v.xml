@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lajam</id>
+<comment/>
+<frameset cdef="" edef="to bind or tie up, to rein" id="01" vncls="">
+<role argnum="0" argrole="entity binding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (INTJ
+        (INTERJ اه))
+      (PP
+        (CONJ وَ)
+        (NP
+          (NOUN_PROP اللَّه)))
+      (NP-VOC
+        (PRT
+          (VOC_PART يا))
+        (NOUN أَخَوا)
+        (NP
+          (POSS_PRON_1P نا)))
+      (NP-TMP
+        (NOUN+CASE_INDEF_ACC أَحْياناً))
+      (VP
+        (IV3FS+IV تِلَجِم)
+        (NP-SBJ
+          (DET+NOUN+NSUFF_FEM_SG المُصِيبَة))
+        (NP-OBJ
+          (DET+NOUN اللِسان))))
+    (CONJ فَ)
+    (S
+      (VP
+        (PRT
+          (NEG_PART لا))
+        (IV3MS+IV يَدْرِي)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (WHNP-1
+            (SUB_CONJ ما))
+          (S
+            (VP
+              (IV3MS+IV يَقُول)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (-NONE- *T*-1)))))))))</parse>
+<comment/>
+<arg f="" g="the disaster" n="0">المُصِيبَة</arg>
+<arg f="" g="his tongue" n="1">اللِسان</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="entity binded" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,16 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aanojaz</id>
+<frameset cdef="" edef="perform / accomplish" id="01">
+<role argnum="0" argrole="performer" />
+<role argnum="1" argrole="performance" />
+<frame>
+<example>
+<parse>
+اكد رئيس مجلس شركة انترا للاستثمار محمد شعيب في بيان &quot;ان مجلس ادارة الشركة انجز *-1 وضع الخطة الخاصة بتطوير عمليات الشركة الأم والشركات التابعة, وبوشر تطبيقها *-2 وهي تطمح **-3 الى تحويل انترا من مجموعة شركات خاسرة الى مجموعة رابحة 0 تتمتع **-4 بفائض سيولة خلال ثلاث سنوات &quot; .
+</parse>
+<arg f="" g="-NONE- &lt; the Board of Directors" n="0">*-1 &lt; مجلس ادارة الشركة</arg>
+<arg f="" g="to institute the development plans of the parent company and its affiliates" n="1">وضع الخطة الخاصة بتطوير عمليات الشركة الأم والشركات التابعة</arg>
+</example>
+</frame>
+<comment>Based on roleset Oanojaz.01</comment></frameset>
+<comment>EGYPTIAN ARABIC Framefile based on Oanojaz</comment></verb>

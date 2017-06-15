@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$abah</id>
+<comment/>
+<frameset cdef="" edef="to look alike" id="01" vncls="">
+<role argnum="1" argrole="first entity looking alike" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الولد شبه * أبيه في كل شيء</parse>
+<comment/>
+<arg f="" g="this boy" n="1">* هذا الولد</arg>
+<arg f="" g="his father" n="2">أبيه</arg>
+<arg f="" g="in every thing" n="3">في كل شيء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="second entity" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

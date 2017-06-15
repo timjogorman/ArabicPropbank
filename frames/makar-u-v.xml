@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>makar-u</id>
+
+<frameset cdef="" edef="to deceive, to delude" id="01" vncls="">
+<role argnum="0" argrole="deceiver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مكر الرجل باخوته</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brothers" n="1">باخوته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="deceived one" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

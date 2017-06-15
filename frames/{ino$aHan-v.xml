@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ino$aHan</id>
+
+<frameset cdef="" edef="to be charged" id="01" vncls="">
+<role argnum="1" argrole="entity charged" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انشحنت السفينة بالبضاعة</parse>
+
+<arg f="" g="the ship" n="1">السفينة</arg>
+<arg f="" g="with goods" n="2">بالبضاعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

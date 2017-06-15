@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitojas~is</id>
+<comment>EGYPTIAN ARABIC based on tajas~as</comment>
+    <frameset cdef="" edef="to spy on, to snoop on" id="01">
+<role argnum="0" argrole="entity spying" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تجسس الرجل على تحركات العدو لصالح بلده</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on the enemies movement" n="1">على تحركات العدو</arg>
+<arg f="" g="for his country" n="2">لصالح بلده</arg>
+</example>
+<comment />
+</frame>
+<comment />
+<role argnum="1" argrole="on whom or on what" />
+<role argnum="2" argrole="for whom" />
+</frameset>
+</verb>

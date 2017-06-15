@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xadaf</id>
+<comment/>
+<frameset cdef="" edef="to walk fast" id="01" vncls="">
+<role argnum="0" argrole="entity walking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خدف الرجل في مشيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his walking" n="1">في مشيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attributed to ARG0" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to cut off, to slit" id="02" vncls="">
+<role argnum="0" argrole="entity cutting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خدف الرجل الشريط</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the ribbon" n="1">الشريط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="parts" vncls="" vntheta=""/>
+</frameset>
+</verb>

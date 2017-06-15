@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maxoluwE</id>
+<comment/>
+<frameset cdef="" edef="taken off , extracted, removed (from an office),to dethrone" id="01" vncls="">
+<role argnum="0" argrole="entity pulling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان الباب مخلوعا * من الحائط عندما وصلت</parse>
+<comment/>
+<arg f="" g="the door" n="1">* الباب</arg>
+<arg f="" g="from the wall" n="2">من الحائط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things pulled" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom or from what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be dislocated" id="02" vncls="">
+<role argnum="1" argrole="things dislocated" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مفصل قدمي مخلوع * منذ زمان طويل</parse>
+<comment/>
+<arg f="" g="the joint of my foot" n="1">مفصل قدمي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

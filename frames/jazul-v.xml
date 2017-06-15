@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jazul</id>
+<comment/>
+<frameset cdef="" edef="to be or become great, to  be plentiful, to intensify" id="01">
+<role argnum="1" argrole="entity becoming greater"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جزلت جثة الميت بعد ثلاثة ايام</parse>
+<comment/>
+<arg f="" g="the body of the dead" n="1">جثة الميت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

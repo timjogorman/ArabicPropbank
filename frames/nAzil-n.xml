@@ -1,0 +1,71 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nAzil</id>
+
+<frameset cdef="" edef="coming down, descending" id="01" vncls="">
+<role argnum="0" argrole="entity descending" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>طب يعنى انتى نازلة * دلوقتى يعنى</parse>
+
+<arg f="" g="you" n="0">* &gt; انتى</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+
+<comment>Eg</comment>
+</frameset>
+
+<frameset cdef="" edef="going to do something (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شفت الشرطي اللي كان نازل * ضرب في العالم</parse>
+
+<arg f="" g="the police man" n="0">* الشرطي</arg>
+<arg f="" g="beating the people" n="1">ضرب في العالم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things done" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to go to" id="03" vncls="">
+<role argnum="0" argrole="entity going" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا نازل * المدينة</parse>
+<comment/>
+<arg f="" g="me" n="0">* أنا</arg>
+<arg f="" g="the city" n="2">المدينة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+</verb>

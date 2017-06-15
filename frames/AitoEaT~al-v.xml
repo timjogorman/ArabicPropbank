@@ -1,0 +1,78 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoEaT~al</id>
+<frameset cdef="" edef="To be suspended" id="01" vncls="">
+<role argnum="1" argrole="action or object being stopped, suspended" vncls="" vntheta="" />
+<role argnum="2" argrole="attribute of arg1" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(VP
+      (PRT
+        (NEG_PART لا))
+      (IV3MS+IV+IVSUFF_MOOD:I يجوز)
+      (SBAR-SBJ
+        (SUB_CONJ ان)
+        (S
+          (VP
+            (IV1P+IV+IVSUFF_MOOD:S نعطل)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (DET+NOUN+CASE_DEF_ACC المدارس))
+            (PP
+              (PREP من)
+              (NP
+                (NOUN+CASE_INDEF_GEN جديد))))))))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (NP-TPC-1
+      (PRON_3FS هي))
+    (VP
+      (PRT
+        (VERB_PART قد))
+      (PV+PVSUFF_SUBJ:3FS تعطلت)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (PP-LOC
+        (PREP في)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الجبال)))
+      (PP-PRP
+        (PREP من)
+        (NP
+          (NOUN+CASE_DEF_GEN جراء)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الثلوج)
+            (CONJ و)
+            (DET+NOUN+CASE_DEF_GEN الجليد))))))</parse>
+<arg f="" g="It" n="1">-NONE- *T*-1&lt; هي</arg>
+<arg f="" g="In the mountains" n="m">في الجبال</arg>
+<arg f="cau" g="because of the snow and ice" n="m">من جراء الثلوج و الجليد</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset taEaT~al-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on taEaT~al-v</comment>
+<frameset cdef="" edef="to be late" id="02" vncls="">
+<role argnum="1" argrole="entity being late" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تعرف أحنا بنتعطل * قد أيه  في انتظار الباص</parse>
+<comment />
+<arg f="" g="we" n="1">* أحنا</arg>
+<arg f="" g="how much" n="2">قد أيه</arg>
+<arg f="cau" g="waiting for the bus" n="m">في انتظار الباص</arg>
+</example>
+<comment />
+</frame>
+<comment>ARZ
+Based on roleset taEaT~al-v.02</comment>
+<role argnum="2" argrole="time" vncls="" vntheta="" />
+<role argnum="2" argrole="for what" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hay~aS</id>
+<comment/>
+<frameset cdef="" edef="to enjoy oneself" id="01" vncls="">
+<role argnum="1" argrole="entity enjoying himself" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو كان بيهيص * أمبارح في الحفلة</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="tmp" g="yesterday" n="m">أمبارح</arg>
+<arg f="loc" g="in the party" n="m">في الحفلة</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+</frameset>
+</verb>

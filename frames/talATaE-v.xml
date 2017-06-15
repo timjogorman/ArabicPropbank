@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>talATaE</id>
+<comment/>
+<frameset cdef="" edef="to strike one another" id="01" vncls="">
+<role argnum="0" argrole="entity hitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلاطع الرجلان بالعصي</parse>
+<comment/>
+<arg f="" g="the two men" n="0">الرجلان</arg>
+<arg f="" g="with sticks" n="2">بالعصي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to lick up" id="02" vncls="">
+<role argnum="0" argrole="entity licking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلاطع الكلبان</parse>
+<comment/>
+<arg f="" g="the two dogs" n="0">الكلبان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity licked" vncls="" vntheta=""/>
+</frameset>
+</verb>

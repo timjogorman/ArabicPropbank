@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saw~is</id>
+<comment/>
+<frameset cdef="" edef="become worm-eaten, decay" id="01" vncls="">
+<role argnum="1" argrole="entity becoming decayed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>السن سوس * من زمان</parse>
+<comment/>
+<arg f="" g="the tooth" n="1">* السن</arg>
+<arg f="tmp" g="long time ago" n="m">من زمان</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

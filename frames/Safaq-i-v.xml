@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Safaq-i</id>
+<comment/>
+<frameset cdef="" edef="to slam or bang" id="01" vncls="">
+<role argnum="0" argrole="slammer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صفق الرجل الباب</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the door" n="1">الباب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things slammed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to slap or strike" id="02" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صفق الرجل أخاه على وجهه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="on his face" n="2">على وجهه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

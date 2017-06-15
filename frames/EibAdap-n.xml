@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EibAdap</id>
+<comment/>
+<frameset cdef="" edef="worship, cult" id="01" vncls="">
+<role argnum="0" argrole="worshipper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>منذ القديم والانسان في عبادت ه لله يحاول التقرب الى الله</parse>
+<comment/>
+<arg f="" g="he" n="0">ه</arg>
+<arg f="" g="to God" n="1">لله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="worshipped" vncls="" vntheta=""/>
+</frameset>
+</verb>

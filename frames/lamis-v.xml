@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lamis</id>
+<comment/>
+<frameset cdef="" edef="to touch" id="01" vncls="">
+<role argnum="0" argrole="causal agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لمس الرجل الكتاب باصبعه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the book" n="1">الكتاب</arg>
+<arg f="" g="with his finger" n="2">باصبعه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing touched" vncls="" vntheta=""/>
+<role argnum="2" argrole="touched with, if separate from agent" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to get the sense or feeling" id="02" vncls="">
+<role argnum="0" argrole="experiencer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لمس الفنان ترحيبا حارا من الناس</parse>
+<comment/>
+<arg f="" g="the artist" n="0">الفنان</arg>
+<arg f="" g="a warm welcome" n="1">ترحيبا حارا</arg>
+<arg f="" g="from the people" n="2">من الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="experience" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muEar~ib</id>
+<frameset cdef="" edef="translator into arabic" id="01" vncls="">
+<role argnum="0" argrole="entity translating into arabic" vncls="" vntheta=""/>
+<role argnum="1" argrole="things tranlated into arabic" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>عمل لمدة ثلاث سنوات معربا * للكتب الطبية من اللغة الانكليزية</parse>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<comment/>
+<arg f="" g="for the medical books" n="1">للكتب الطبية</arg>
+<arg f="" g="from the English language" n="2">من اللغة الانكليزية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="origin language" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

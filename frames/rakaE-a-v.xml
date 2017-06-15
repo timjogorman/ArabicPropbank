@@ -1,22 +1,53 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>rakaE-a</id>
-    <comment/>
-    <frameset cdef="" edef="to kneel (down), bow (down)" id="01">
-        <role argnum="0" argrole="bower"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>جريدة مغرب الغد الإلكترونية: أوباما يركع * أمام الإمبراطور الياباني</parse>
-                <comment/>
-                <arg f="" g="Obama" n="0">* &gt; أوباما</arg>
-                <arg f="" g="for the Japanese Emperor" n="1">أمام الإمبراطور الياباني</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="bowed to (marked by ل)"/>
-    </frameset>
+<id>rakaE-a</id>
+
+<frameset cdef="" edef="to kneel (down), bow (down)" id="01" vncls="">
+<role argnum="0" argrole="bower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>جريدة مغرب الغد الإلكترونية: أوباما يركع * أمام الإمبراطور الياباني</parse>
+
+<arg f="" g="Obama" n="0">* &gt; أوباما</arg>
+<arg f="" g="for the Japanese Emperor" n="1">أمام الإمبراطور الياباني</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="bowed to (marked by ل)" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to pray" id="02" vncls="">
+<role argnum="0" argrole="agent, prayer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ركع الرجل ثلاث ركعات</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="three prayers" n="1">ثلاث ركعات</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the pray" vncls="" vntheta=""/>
+<comment>يصلي</comment>
+</frameset>
+<comment/>
 </verb>

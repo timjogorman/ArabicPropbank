@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sakar-u</id>
+
+<frameset cdef="" edef="to close, to shut or lock" id="01" vncls="">
+<role argnum="0" argrole="entity closing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سكر أهالي القرية مجرى النهر</parse>
+
+<arg f="" g="the villagers" n="0">أهالي القرية</arg>
+<arg f="" g="downstream" n="1">مجرى النهر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things closed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to fill" id="02" vncls="">
+<role argnum="0" argrole="entity filling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سكر الرجل الأناء بالماء</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the pot" n="1">الأناء</arg>
+<arg f="" g="with water" n="2">بالماء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things filled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

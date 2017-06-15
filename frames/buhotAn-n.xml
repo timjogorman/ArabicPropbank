@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>buhotAn</id>
+<comment/>
+<frameset cdef="" edef="slander, false accusation" id="01" vncls="">
+<role argnum="1" argrole="the accusation" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه المقالة بهتان * بحق الناس</parse>
+<comment/>
+<arg f="" g="this article" n="1">هذه المقالة</arg>
+<arg f="" g="to the people's right" n="2">بحق الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="toward what" vncls="" vntheta=""/>
+</frameset>
+</verb>

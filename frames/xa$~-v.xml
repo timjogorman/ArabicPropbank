@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xa$~</id>
+
+    <frameset cdef="" edef="enter, fet in" id="01" vncls="">
+<role argnum="0" argrole="ingoing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>خش  الضيف أودة الضيوف</parse>
+
+<arg f="" g="visitor" n="0">الضيف</arg>
+<arg f="" g="visitor's room" n="1">أودة الضيوف</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="location" vncls="" vntheta=""/>
+
+<comment>Eg
+Based on roleset xa$~-u.01</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on xa$~-u</comment>
+</verb>

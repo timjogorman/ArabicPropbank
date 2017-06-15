@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tayaq~un</id>
+<comment/>
+<frameset cdef="" edef="to ascertain" id="01" vncls="">
+<role argnum="0" argrole="ascertainer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اًصبح مؤكدا تيقن الناس من أنه القاتل</parse>
+<comment/>
+<arg f="" g="the pwople" n="0">الناس</arg>
+<arg f="" g="that he is the killer" n="1">من أنه القاتل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="topic" vncls="" vntheta=""/>
+</frameset>
+</verb>

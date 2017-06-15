@@ -1,16 +1,97 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>SaEub-u</id>
-    <frameset cdef="" edef="to be difficult" id="01">
-        <role argnum="1" argrole="thing that is difficult"/>
-        <frame>
-            <example>
-                <parse>
-                    واشنطن - رويترز - أفادت مصادر في الكونغرس ان المسؤول الاستخباري السابق بريت سنايدر س يرأس **-1 التحقيق الذي ستجريه *T*-2 لجنتا الاستخبارات في مجلسي الشيوخ و النواب في أسباب فشل وكالة الاستخبارات المركزية &amp;quot; سي آي إي &amp;quot; في توقع هجمات 11 أيلول , على رغم بعض الاعتراضات من انه كان **-3 قريبا جدا من الوكالة بحيث يصعب تكوينه آراء مستقلة **-4 .
-                </parse>
-                <arg f="" g="to make it an independent opinion" n="1">تكوينه آراء مستقلة</arg>
-                <arg f="adv" g="-NONE- &amp;lt; where" n="m">**-4 &amp;lt; بحيث</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>SaEub-u</id>
+<frameset cdef="" edef="to be difficult" id="01" vncls="">
+<role argnum="1" argrole="thing that is difficult" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>واشنطن - رويترز - أفادت مصادر في الكونغرس ان المسؤول الاستخباري السابق بريت سنايدر س يرأس **-1 التحقيق الذي ستجريه *T*-2 لجنتا الاستخبارات في مجلسي الشيوخ و النواب في أسباب فشل وكالة الاستخبارات المركزية &quot; سي آي إي &quot; في توقع هجمات 11 أيلول , على رغم بعض الاعتراضات من انه كان **-3 قريبا جدا من الوكالة بحيث يصعب تكوينه آراء مستقلة **-4 .</parse>
+<arg f="" g="to make it an independent opinion" n="1">تكوينه آراء مستقلة</arg>
+<arg f="adv" g="-NONE- &lt; where" n="m">**-4 &lt; بحيث</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to feel sorry for" id="02" vncls="">
+<role argnum="1" argrole="things felt sorry for" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (CV+CVSUFF_SUBJ:2MS اِتَّقِي)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN اللَّه))
+      (NP-VOC
+        (PRT
+          (VOC_PART يا))
+        (NOUN اخ)
+        (NP
+          (POSS_PRON_1S ِي)))))
+  (S
+    (VP
+      (CV+CVSUFF_SUBJ:2MS اِتَّقِي)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN اللَّه))))
+  (S
+    (NP-TPC-1
+      (DEM_PRON_P دُول))
+    (SBAR-ADV
+      (SUB_CONJ لَو)
+      (S
+        (NP-SBJ
+          (-NONE- *))
+        (NP-PRD
+          (NOUN فِراخ))))
+    (VP
+      (PRT
+        (FUT_PART حَ))
+      (IV3P+IV+IVSUFF_SUBJ:P يِصعَبُوا)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (PP-CLR
+        (PREP عَلَى)
+        (NP
+          (PRON_2MS ِك)))))
+  (S
+    (NP-SBJ
+      (PRON_1S انا))
+    (SBAR-NOM-PRD
+      (WHNP-2
+        (-NONE- 0))
+      (S
+        (VP
+          (ADJ.VN+NSUFF_FEM_SG حَسَّة)
+          (NP-SBJ
+            (-NONE- *T*-2))
+          (SBAR
+            (SUB_CONJ إِنّ)
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3MS جا)
+                (PP
+                  (PREP لِ)
+                  (NP
+                    (PRON_1S ِي)))
+                (NP-SBJ
+                  (DET+NOUN الضَغْط))))))))))</parse>
+<comment/>
+<arg f="" g="they" n="1">*T*-1 دُول</arg>
+<arg f="" g="on you" n="2">عليك</arg>
+</example>
+<comment>ARZ</comment>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="by whom" vncls="" vntheta=""/>
+</frameset>
 </verb>

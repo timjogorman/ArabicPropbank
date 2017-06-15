@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rAjiE</id>
+
+<frameset cdef="" edef="returning, coming back" id="01" vncls="">
+<role argnum="0" argrole="entity returning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كانت الأسرة في استقبال الأب الراجع من السفر</parse>
+
+<arg f="" g="father" n="0">الأب</arg>
+<arg f="" g="from travel" n="1">امن السفر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="attributed to, due to" id="02" vncls="">
+<role argnum="1" argrole="entity attributed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الموضوع راجع * لك</parse>
+<comment/>
+<arg f="" g="the sectubj" n="1">* الموضوع</arg>
+<arg f="" g="to you" n="2">لك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

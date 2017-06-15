@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoSaram</id>
+
+<frameset cdef="" edef="to pass (time) ,to come to an end" id="01" vncls="">
+<role argnum="1" argrole="things ending" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انصرم فصل الصيف بسرعة</parse>
+
+<arg f="" g="summer" n="1">فصل الصيف</arg>
+<arg f="tmp" g="fast" n="m">بسرعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

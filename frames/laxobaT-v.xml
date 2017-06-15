@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laxobaT</id>
+<comment/>
+<frameset cdef="" edef="muddle, confuse" id="01" vncls="">
+<role argnum="0" argrole="entity causing the confuse" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا مش عايز الخبط * عليك يومك</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="for you" n="2">عليك</arg>
+<arg f="" g="your day" n="1">يومك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things stirred" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

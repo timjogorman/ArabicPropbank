@@ -1,42 +1,51 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Has~-i</id>
-    <comment/>
-    <frameset cdef="" edef="to notice, to feel, to realize, to sense, to touch" id="01">
-        <role argnum="0" argrole="entity feeling"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>حَسَسْتُ *  لأطفال فلسطين وما يلاقونه</parse>
-                <comment/>
-                <arg f="" g="NONE" n="0">-NONE- * ?</arg>
-                <arg f="" g="for the children of Palestine" n="1">لأطفال فلسطين</arg>
-                <arg f="" g="and what they suffer" n="2">وما يلاقونه</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment>شَعَرَ بالشيء</comment>
-        <role argnum="1" argrole="beneficiary"/>
-        <role argnum="2" argrole="for what, with what"/>
-    </frameset>
-    <frameset cdef="" edef="to kill" id="02">
-        <role argnum="0" argrole="killer"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>حَسَسْتُ *  العدو في ارضه</parse>
-                <comment/>
-                <arg f="" g="NONE" n="0">-NONE- * ?</arg>
-                <arg f="" g="the enemy" n="1">العدو</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="killed"/>
-        <role argnum="2" argrole="instrument or manner"/>
-    </frameset>
+<id>Has~-i</id>
+
+<frameset cdef="" edef="to notice, to feel, to realize, to sense, to touch" id="01" vncls="">
+<role argnum="0" argrole="entity feeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حَسَسْتُ *  لأطفال فلسطين وما يلاقونه</parse>
+
+<arg f="" g="NONE" n="0">-NONE- * ?</arg>
+<arg f="" g="for the children of Palestine" n="1">لأطفال فلسطين</arg>
+<arg f="" g="and what they suffer" n="2">وما يلاقونه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="for whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="feeling" vncls="" vntheta=""/>
+<comment>شَعَرَ بالشيء</comment>
+</frameset>
+<frameset cdef="" edef="to kill" id="02" vncls="">
+<role argnum="0" argrole="killer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حَسَسْتُ *  العدو في ارضه</parse>
+
+<arg f="" g="NONE" n="0">-NONE- * ?</arg>
+<arg f="" g="the enemy" n="1">العدو</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="killed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument or manner" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

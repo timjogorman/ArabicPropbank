@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>maw~it</id>
+<comment>EGYPTIAN ARABIC based on OamAt</comment>
+    <frameset cdef="" edef="to make die, to kill" id="01" vncls="">
+<role argnum="0" argrole="entity or thing causing the death" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>امات الحب عشاقا وحبك أنت أحياني</parse>
+<comment />
+<arg f="" g="the love" n="0">الحب</arg>
+<arg f="" g="lovers" n="1">عشاقا</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset OamAt.01</comment>
+<role argnum="1" argrole="entity killed" vncls="" vntheta="" />
+</frameset>
+</verb>

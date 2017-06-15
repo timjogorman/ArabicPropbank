@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kav~ar</id>
+
+<frameset cdef="" edef="to increase, to multiply" id="01" vncls="other_cos-1">
+<role argnum="0" argrole="causer" vncls="other_cos-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(-NONE- *))
+    (ADJP-PRD
+      (ADJ+NSUFF_MASC_PL عارْفِين)
+      (NP
+        (NP
+          (DET+NOUN المَثَل))
+        (SBAR
+          (WHNP-1
+            (REL_PRON اللِّي))
+          (S
+            (VP
+              (PRT
+                (PROG_PART بِ))
+              (IV3MS+IV يِقُول)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (S
+                (NP-TPC-2
+                  (NOUN_PROP أَبُو)
+                  (NP
+                    (ADV بَلاش)))
+                (VP
+                  (PV+PVSUFF_SUBJ:3MS كِثِر)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (PP-CLR
+                    (PREP مِنّ)
+                    (NP
+                      (NP
+                        (PRON_3MS ُه))
+                      (NP
+                        (-NONE- *T*-2))))))))))))</parse>
+
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="from it" n="1">منه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things increased" vncls="other_cos-1" vntheta="patient"/>
+
+<role argnum="2" argrole="how or instrument" vncls="other_cos-1" vntheta="instrument"/>
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

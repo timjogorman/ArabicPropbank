@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaDiy~ap</id>
+<comment>Based on daEowaY</comment>
+<frameset cdef="" edef="claim, lawsuit, allegation" id="01" vncls="">
+<role argnum="0" argrole="accuser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="accused" vncls="" vntheta=""/>
+<role argnum="2" argrole="accusation" vncls="" vntheta=""/>
+<role argnum="m" argrole="to whom/law enforcement" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EaD~</id>
+<comment/>
+<frameset cdef="" edef="to bite" id="01" vncls="">
+<role argnum="0" argrole="the biter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو يقعد يعض * فصاحبه</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="in his friend" n="1">فصاحبه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="entity bit" vncls="" vntheta=""/>
+</frameset>
+</verb>

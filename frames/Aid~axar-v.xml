@@ -1,0 +1,18 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aid~axar</id>
+<comment>EGYPTIAN ARABIC based on {id~axar</comment>
+    <frameset cdef="" edef="to save , financial sense" id="02">
+<role argnum="0" argrole="entity saving money" />
+<role argnum="1" argrole="money" />
+<frame>
+<example>
+<parse>
+إدخر الرجل ألف دينار
+</parse>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="1 thousand dinars" n="1">ألف دينار</arg>
+</example>
+</frame>
+</frameset>
+</verb>

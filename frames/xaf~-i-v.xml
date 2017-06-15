@@ -1,32 +1,55 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>xaf~-i</id>
-    <frameset cdef="" edef="to become decreased" id="01">
-        <role argnum="1" argrole="thing decreasing"/>
-        <role argnum="2" argrole="amount decreased, attribute of arg1s"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS خف)
-                    (NP-SBJ
-                    (NP
-                    (DET+NOUN+CASE_DEF_NOM الطلب))
-                    (PP
-                    (PREP على)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الدولار)
-                    (DET+ADJ+CASE_DEF_GEN الاميركي))))
-                    (NP-TMP
-                    (NOUN امس))
-                </parse>
-                <arg f="" g="demand for the U.S. Dollar" n="1">الطلب على الدولار الاميركي</arg>
-                <arg f="tmp" g="Yesterday" n="m">امس</arg>
-            </example>
-        </frame>
-        <comment>
-            انخفض
-        </comment>
-    </frameset>
+<id>xaf~-i</id>
+<frameset cdef="" edef="to decrease" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing decreasing" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS خف)
+    (NP-SBJ
+      (NP
+        (DET+NOUN+CASE_DEF_NOM الطلب))
+      (PP
+        (PREP على)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الدولار)
+          (DET+ADJ+CASE_DEF_GEN الاميركي))))
+    (NP-TMP
+      (NOUN امس))</parse>
+<arg f="" g="demand for the U.S. Dollar" n="1">الطلب على الدولار الاميركي</arg>
+<arg f="tmp" g="Yesterday" n="m">امس</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+
+<role argnum="2" argrole="amount decreased, attribute of arg1s" vncls="" vntheta=""/>
+<comment>خفض</comment>
+</frameset>
+
+<comment/>
+<frameset cdef="" edef="to take it easy on" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يا ناس خفوا * عليهم شوية</parse>
+<comment/>
+<arg f="" g="people" n="0">* ناس</arg>
+<arg f="" g="on them" n="1">عليهم</arg>
+</example>
+<comment>ARZ</comment>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
 </verb>

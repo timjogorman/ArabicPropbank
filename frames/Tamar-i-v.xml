@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Tamar-i</id>
+<comment/>
+<frameset cdef="" edef="to bury or embed" id="01" vncls="">
+<role argnum="0" argrole="entity burying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طمر القاتل الجثة في البيت بالحجارة</parse>
+<comment/>
+<arg f="" g="the killer" n="0">القاتل</arg>
+<arg f="" g="the body" n="1">الجثة</arg>
+<arg f="" g="in the house" n="2">في البيت</arg>
+<arg f="" g="with rocks" n="3">بالحجارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity buried" vncls="" vntheta=""/>
+<role argnum="2" argrole="burial place" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to fill up (with earth)" id="02" vncls="">
+<role argnum="0" argrole="filler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طمر الرجل البئر بالتراب</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the well" n="1">البئر</arg>
+<arg f="" g="with earth" n="2">بالتراب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity filled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

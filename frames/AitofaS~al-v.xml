@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitofaS~al</id>
+<comment>EGYPTIAN ARABIC Framefile based on faS~al-v</comment>
+<frameset cdef="" edef="to make clear, to detail or elaborate" id="01" vncls="">
+<role argnum="0" argrole="entity clearing" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>فصل الرجل الموضوع لأخيه</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the subject" n="1">الموضوع</arg>
+<arg f="" g="to his brother" n="2">لأخيه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset faS~al-v.01</comment>
+<role argnum="1" argrole="things cleared" vncls="" vntheta="" />
+<role argnum="2" argrole="to whom" vncls="" vntheta="" />
+</frameset>
+<frameset cdef="" edef="to divide into sections" id="02" vncls="">
+<role argnum="0" argrole="entity dividing" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>فصل الرجل الكتاب</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the book" n="1">الكتاب</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset faS~al-v.02</comment>
+<role argnum="1" argrole="things divided" vncls="" vntheta="" />
+</frameset>
+<frameset cdef="" edef="to cut out, to make to measure" id="03" vncls="">
+<role argnum="0" argrole="entity cutting" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>فصل الخياط القماش</parse>
+<comment />
+<arg f="" g="the tailor" n="0">الخياط</arg>
+<arg f="" g="the fabric" n="1">القماش</arg>
+</example>
+<comment />
+<example>
+<parse>فصل *  ثوب وخذ سروال ببلاش</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="dress" n="1">ثوب</arg>
+</example>
+</frame>
+<comment>Based on roleset faS~al-v.03</comment>
+<role argnum="1" argrole="things getting cut" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>miEotimid</id>
+<comment>Framefile based on muEotamid</comment>
+<frameset cdef="" edef="dependent / supported" id="02">
+<role argnum="1" argrole="dependent" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>كان الولد معتمدا *على أبيه في كل شيء</parse>
+<comment />
+<arg f="" g="he" n="1">* &gt; الولد</arg>
+<arg f="" g="on his father" n="2">على أبيه</arg>
+<arg f="" g="in every thing" n="3">في كل شيء</arg>
+<V />
+</example>
+<comment />
+</frame>
+<comment>معتمد على
+Based on roleset muEotamid.02</comment>
+<role argnum="2" argrole="on what? (marked by على)" />
+<role argnum="3" argrole="in what? (marked by في)" />
+</frameset>
+</verb>

@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$akar</id>
+
+    <frameset cdef="" edef="To Thank" id="01" vncls="">
+<role argnum="0" argrole="thanker" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity thanked" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what?" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(VP
+      (PV+PVSUFF_SUBJ:3MS شكر)
+      (NP-SBJ
+        (NOUN_PROP كرم))
+      (PP-CLR
+        (PREP ل)
+        (NP
+          (NOUN_PROP سبحاني)))
+      (NP-OBJ
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الدعوة))))</parse>
+<arg f="" g="Karam" n="0">كرم</arg>
+<arg f="" g="for SobHani" n="1">لسبحاني</arg>
+<arg f="" g="The Invetation" n="2">الدعوة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset $akar-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on $akar-u</comment>
+<frameset cdef="" edef="to praise someone (multi word expresion)" id="02" vncls="">
+<role argnum="0" argrole="praiser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل شكر *  فيها طول اليوم</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="in in her" n="1">فيها</arg>
+<arg f="tmp" g="the day" n="m">اليوم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity praised" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

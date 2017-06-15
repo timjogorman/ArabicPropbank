@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitodaf~aY</id>
+<comment>EGYPTIAN ARABIC BASED ON tadaf~aO</comment>
+<frameset cdef="" edef="to take warmth/be warmed" id="01" vncls="">
+<role argnum="0" argrole="thing giving warmth" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اتدفّيت *  باللحاف</parse>
+<comment/>
+<arg f="" g="I" n="1">*</arg>
+<arg f="" g="with the blanket" n="0">باللحاف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity taking warmth" vncls="" vntheta=""/>
+</frameset>
+</verb>

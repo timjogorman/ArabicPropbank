@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ean~af</id>
+<comment/>
+<frameset cdef="" edef="to scold or upbraid, to treat harshly" id="01">
+<role argnum="0" argrole="agent treating"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عنف الاب اولاده على ما قاموا به</parse>
+<comment/>
+<arg f="" g="the father" n="0">الاب</arg>
+<arg f="" g="his children" n="1">اولاده</arg>
+<arg f="" g="for what they did" n="2">على ما قاموا به</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="treated entity"/>
+<role argnum="2" argrole="for what"/>
+</frameset>
+</verb>

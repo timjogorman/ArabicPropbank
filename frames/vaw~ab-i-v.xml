@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>vaw~ab-i</id>
+<comment/>
+<frameset cdef="" edef="to reward, to repay" id="01">
+<role argnum="0" argrole="entity rewarding"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ثوب * المؤمن لأيمانه بالجنة</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the believer" n="1">المؤمن</arg>
+<arg f="" g="for his faith" n="3">لأيمانه</arg>
+<arg f="" g="with paradise" n="2">بالجنة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity rewarded"/>
+<role argnum="2" argrole="with what"/>
+<role argnum="3" argrole="for what"/>
+</frameset>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qalaq</id>
+
+<frameset cdef="" edef="to be concerned with or to worry over" id="01" vncls="">
+<role argnum="0" argrole="cause of worry - marked by على" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا قلقت * عليك</parse>
+
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="at you" n="0">عليك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="worrier" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

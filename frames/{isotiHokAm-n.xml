@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotiHokAm</id>
+<comment/>
+<frameset cdef="" edef="intensification, increase" id="01" vncls="">
+<role argnum="1" argrole="things increasing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أكد الأطباء استحكام المرض لدى بعض المرضى</parse>
+<comment/>
+<arg f="" g="the sikness" n="1">المرض</arg>
+<arg f="" g="for some patient" n="2">لدى بعض المرضى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="fortification, stronghold" id="02" vncls="">
+<role argnum="0" argrole="entity surrounding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things surrounded" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to control, ability" id="03" vncls="">
+<role argnum="1" argrole="entity controling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استحكام الرجال للأمور</parse>
+<comment/>
+<arg f="" g="the men" n="1">الرجال</arg>
+<arg f="" g="for the matters" n="2">للأمور</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="things controled" vncls="" vntheta=""/>
+</frameset>
+</verb>

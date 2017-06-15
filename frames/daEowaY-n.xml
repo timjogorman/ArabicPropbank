@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daEowaY</id>
+
+<frameset cdef="" edef="allegation, law suit, claim" id="01" vncls="">
+<role argnum="0" argrole="accuser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse/>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="accused" vncls="" vntheta=""/>
+<role argnum="2" argrole="type of accusation" vncls="" vntheta=""/>
+<role argnum="m" argrole="to whom/law enforcement" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{irotawa</id>
+<comment/>
+<frameset cdef="" edef="to drink one's fill, to irrigate, to be full" id="01">
+<role argnum="0" argrole="entity drinking"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ارتوى المحب من حب حبيبته</parse>
+<comment/>
+<arg f="" g="lover" n="0">المحب</arg>
+<arg f="" g="from the love" n="1">من حب</arg>
+<arg f="" g="his darling" n="2">حبيبته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="drinking what"/>
+<role argnum="2" argrole="source"/>
+</frameset>
+</verb>

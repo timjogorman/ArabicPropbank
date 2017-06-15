@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inojalaf</id>
+
+<frameset cdef="" edef="to be abrase or peeled (usually dry skin)" id="01" vncls="">
+<role argnum="1" argrole="entity peeled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انجلف الجلد من ظهرها بسبب أشعة الشمس</parse>
+
+<arg f="" g="the skin" n="1">الجلد</arg>
+<arg f="" g="from her back" n="2">من ظهره</arg>
+<arg f="cau" g="because of sun's rays" n="m">بسبب أشعة الشمس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be rude" id="02" vncls="">
+<role argnum="0" argrole="entity beeing rude" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انجلف الرجل عندما غضب</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="tmp" g="when he got mad" n="m">عندما غضب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HaXir-a</id>
+
+<frameset cdef="" edef="to be cautious,or wary" id="01" vncls="">
+<role argnum="0" argrole="entity cautious" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حذر الجندي لكمائن العدو</parse>
+
+<arg f="" g="the soldier" n="0">الجندي</arg>
+<arg f="" g="for the enemy ambushes" n="1">لكمائن العدو</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

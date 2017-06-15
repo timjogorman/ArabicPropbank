@@ -1,22 +1,27 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>{itofas~aH</id>
-    <comment/>
-    <frameset cdef="" edef="picnic" id="01">
-        <role argnum="1" argrole="picnicker"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>تروحوا تتفسحوا فيها</parse>
-                <comment/>
-                <arg f="" g="you" n="0">وا</arg>
-                <arg f="" g="in it" n="1">فيها</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment>Eg</comment>
-        <role argnum="1" argrole="location"/>
-    </frameset>
+<id>{itofas~aH</id>
+
+<frameset cdef="" edef="picnic" id="01" vncls="">
+<role argnum="0" argrole="picnicker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تروحوا * تتفسحوا * فيها</parse>
+
+<arg f="" g="you" n="0">*</arg>
+<arg f="" g="in it" n="1">فيها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="location" vncls="" vntheta=""/>
+<comment>Eg</comment>
+</frameset>
+<comment/>
 </verb>

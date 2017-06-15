@@ -1,0 +1,97 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaS~</id>
+
+    <frameset cdef="" edef="to concern or stipulate" id="01" vncls="">
+<role argnum="0" argrole="enetity concerned" vncls="" vntheta=""/>
+<role argnum="1" argrole="concerned with what" vncls="" vntheta=""/>
+<frame>
+
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3FS قالت)
+    (NP-SBJ
+      (NOUN+CASE_INDEF_NOM مصادر)
+      (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM امنية)
+      (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM اسرائيلية))
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (NP-TPC-1
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الضربة))
+        (VP
+          (PV+PVSUFF_SUBJ:3FS استهدفت)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (NP-OBJ
+            (NP
+              (NP
+                (NOUN مصنع))
+              (PP
+                (PREP ل)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN لمتفجرات))))
+            (SBAR
+              (WHNP-2
+                (-NONE- 0))
+              (S
+                (VP
+                  (IV3MS+IV+IVSUFF_MOOD:I يخص)
+                  (NP-SBJ
+                    (-NONE- *T*-2))
+                  (NP-OBJ
+                    (NP
+                      (NOUN+CASE_INDEF_ACC ناشطاً))
+                    (PP
+                      (PREP في)
+                      (NP
+                        (PUNC ")
+                        (NOUN_PROP+CASE_DEF_GEN حماس)
+                        (PUNC "))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="It" n="1">-NONE- *T*-2&lt;مصنع لمتفجرات</arg>
+<arg f="" g="a Hamas activist" n="0">ناشطاً  في حماس</arg>
+<V/>
+
+<comment/>
+</example>
+
+<comment>يعني</comment>
+</frame>
+
+<comment>Based on roleset xaS~-u.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to favor with" id="02" vncls="">
+<role argnum="0" argrole="entity favoring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خص الرجل ابنه برحمته</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his son" n="1">ابنه</arg>
+<arg f="" g="with his mercy" n="2">برحمته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity favored" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on xaS~-u</comment>
+</verb>

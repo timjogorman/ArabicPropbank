@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>TamoEAn</id>
+<comment>Framefile based on TamiE-a</comment>
+<frameset cdef="" edef="to covet, to desire" id="01">
+<role argnum="0" argrole="entity desiring" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>طمع البخيل في مال أخيه</parse>
+<comment />
+<arg f="" g="the stingy person" n="0">البخيل</arg>
+<arg f="" g="in his brother's money" n="1">في مال أخيه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset TamiE-a.01</comment>
+<role argnum="1" argrole="things desired" />
+</frameset>
+</verb>

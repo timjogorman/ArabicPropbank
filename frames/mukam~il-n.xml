@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mukam~il</id>
+<comment/>
+<frameset cdef="" edef="completing, finishing, integral" id="01" vncls="">
+<role argnum="0" argrole="finisher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الموضوع مكمل * للقصة القديمة</parse>
+<comment/>
+<arg f="" g="this subject" n="0">هذا الموضوع</arg>
+<arg f="" g="to the old story" n="1">للقصة القديمة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things finished" vncls="" vntheta=""/>
+</frameset>
+</verb>

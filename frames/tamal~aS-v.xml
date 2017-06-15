@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamal~aS</id>
+<comment/>
+<frameset cdef="" edef="to dodge or escape or shirk" id="01" vncls="">
+<role argnum="0" argrole="entity escaping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو يحاول يتملص * من الواجب</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="from the duty" n="1">من الواجب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

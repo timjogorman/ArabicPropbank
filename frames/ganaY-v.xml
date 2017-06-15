@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>ganaY</id>
+<frameset cdef="" edef="to suffice or be enough" id="01">
+<role argnum="0" argrole="thing sufficient" />
+<role argnum="1" argrole="for what purpose" />
+<role argnum="2" argrole="for whom" />
+<frame>
+<example>
+<parse>(S
+    (CONJ و)
+    (NP-TPC-1
+      (NP
+        (DEM_PRON_F هذه))
+      (NP
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الصورة)))
+    (VP
+      (IV2MS+IV+IVSUFF_MOOD:I تغني)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (IVSUFF_DO:1P نا))
+      (PP-CLR
+        (PREP عن)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الشرح)))))</parse>
+<arg f="" g="this image" n="0">هذه الصورة</arg>
+<arg f="" g="us" n="2">نا</arg>
+<arg f="" g="an explanation" n="1">عن الشرح</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset OagonaY-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on OagonaY-v</comment>
+<frameset cdef="" edef="to enrich" id="02">
+<role argnum="0" argrole="entity enriching" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>المصلح أغنى * المكتبة الاردنية بخمسة عشر مؤلفا</parse>
+<comment />
+<arg f="" g="Muslih" n="0">* المصلح</arg>
+<arg f="" g="the Jordanian library" n="1">المكتبة الاردنية</arg>
+<arg f="" g="with fifteen books" n="2">بخمسة عشر مؤلفا</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset OagonaY-v.02</comment>
+<role argnum="1" argrole="entity enriched" />
+<role argnum="2" argrole="with what" />
+</frameset>
+</verb>

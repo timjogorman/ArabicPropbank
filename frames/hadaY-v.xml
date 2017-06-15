@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hadaY</id>
+
+    <frameset cdef="" edef="to guide" id="01" vncls="">
+<role argnum="0" argrole="guide, agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity guided" vncls="" vntheta=""/>
+<role argnum="2" argrole="guided in/through" vncls="" vntheta=""/>
+<role argnum="3" argrole="signposts along the way" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(TOP
+  (S
+    (NP-TPC-1
+      (NOUN رَبّ)
+      (NP
+        (POSS_PRON_1P نا)))
+    (VP
+      (IV3MS+IV يِهْدِي)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (IVSUFF_DO:1P نا))
+      (PP
+        (PREP إِلَى)
+        (NP
+          (DET+NOUN الحَقّ))))))</parse>
+<arg f="" g="[NONE] &gt; our Lord" n="0">*&gt; رَبّنا</arg>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="to righteousness" n="2">إِلَى الحَقّ</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment>Based on roleset hadaY-i.01</comment>
+</frameset>
+
+
+
+
+<comment>EGYPTIAN ARABIC based on hadaY-i</comment>
+<frameset cdef="" edef="to give gift" id="02" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو هدا * لي هدية</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="to me" n="2">لي</arg>
+<arg f="" g="a present" n="1">هدية</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="things given" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oulofap</id>
+<comment/>
+<frameset cdef="" edef="familiarity, intimacy" id="01" vncls="">
+<role argnum="1" argrole="entity becoming close" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تكونت ألفة بين المدرب واللاعبين بعد عدة مباريات</parse>
+<comment/>
+<arg f="" g="the trainer" n="1">المدرب</arg>
+<arg f="" g="and the players" n="2">واللاعبين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

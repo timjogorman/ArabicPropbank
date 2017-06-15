@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TaEim</id>
+<comment/>
+<frameset cdef="" edef="to test, to eat with front teeth, to eat" id="01" vncls="">
+<role argnum="0" argrole="entity eating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طعم الرجل السمك</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the fish" n="1">السمك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+</frameset>
+</verb>

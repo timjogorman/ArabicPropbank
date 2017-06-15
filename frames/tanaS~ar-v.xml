@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanaS~ar</id>
+<comment/>
+<frameset cdef="" edef="to become Chritian" id="01" vncls="">
+<role argnum="1" argrole="entity becoming Cristian" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ماذا لو تنصر أخوك اليوم أو غدا</parse>
+<comment/>
+<arg f="" g="your brother" n="1">أخوك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to help or assist" id="02" vncls="">
+<role argnum="0" argrole="entity assisting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تنصر الرجل لأخيه في نضاله</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="for his brother" n="1">لأخيه</arg>
+<arg f="" g="in his strife" n="2">في نضاله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="assisted" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

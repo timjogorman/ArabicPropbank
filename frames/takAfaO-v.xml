@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>takAfaO</id>
+<comment/>
+<frameset cdef="" edef="to match or be equal" id="01" vncls="">
+<role argnum="1" argrole="entity equal" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تكافأ الولدان في كل شيء</parse>
+<comment/>
+<arg f="" g="the two boys" n="1">الولدان</arg>
+<arg f="" g="in every thing" n="2">في كل شيء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be rewarded or repayed" id="02" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تكافأ الرجل من مديره على عمله</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="from his manager" n="0">من مديره</arg>
+<arg f="prp" g="for his work" n="m">على عمله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="receiver" vncls="" vntheta=""/>
+<role argnum="2" argrole="things received" vncls="" vntheta=""/>
+</frameset>
+</verb>

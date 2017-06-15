@@ -1,0 +1,17 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>sihir</id>
+<comment>EGYPTIAN ARABIC based on sahir-a</comment>
+    <frameset cdef="" edef="to stay up" id="01">
+<role argnum="0" argrole="entity staying  up" />
+<role argnum="1" argrole="EXT, usually time" />
+<frame>
+<example>
+<parse>
+من طلب العلا سهر الليالي.
+</parse>
+<arg f="" g="He" n="0">- NONE-</arg>
+<arg f="" g="nights" n="1">الليالي</arg>
+</example>
+</frame>
+<comment>Based on roleset sahir-a.01</comment></frameset>
+</verb>

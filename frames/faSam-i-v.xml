@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faSam-i</id>
+
+<frameset cdef="" edef="to separate , to sever, to cleave" id="01" vncls="">
+<role argnum="0" argrole="entity causing separation" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فصم أخي الحبل عن القارب</parse>
+
+<arg f="" g="my brother" n="0">أخي</arg>
+<arg f="" g="the rope" n="1">الحبل</arg>
+<arg f="" g="from the boat" n="2">عن القارب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing being divided" vncls="" vntheta=""/>
+<role argnum="2" argrole="source, separated from" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

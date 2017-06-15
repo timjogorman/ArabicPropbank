@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaxobar</id>
+<comment/>
+<frameset cdef="" edef="to ask somebody about something" id="01" vncls="">
+<role argnum="0" argrole="asker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اِسْتَخْبَرَ* عَنْ أَحْوَالِهِ</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*?NONE</arg>
+<arg f="" g="he" n="1">هُ</arg>
+<arg f="" g="about his life" n="2">عَنْ أَحْوَالِهِ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity asked" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,81 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IiIohAL</id>
+<comment/>
+<frameset cdef="" edef="distraction" id="01" vncls="">
+<role argnum="0" argrole="distractor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (X
+        (NO_FUNC سينفجر))
+      (NP-SBJ
+        (NOUN وَطَن)
+        (NP
+          (POSS_PRON_1S ِي)))
+      (PP
+        (PREP بِ)
+        (NP
+          (NOUN فِعْل)
+          (NP
+            (NP
+              (NOUN+NSUFF_FEM_SG فِتْنَة)
+              (ADJ+NSUFF_FEM_SG طائِفِيَّة))
+            (SBAR
+              (WHNP-2
+                (-NONE- 0))
+              (S
+                (VP
+                  (X
+                    (NO_FUNC يذكيها))
+                  (NP-SBJ
+                    (NP
+                      (NOUN نِظام)
+                      (ADJ فاسِد))
+                    (SBAR
+                      (WHNP-1
+                        (-NONE- 0-2))
+                      (S
+                        (VP
+                          (IV3MS+IV يِسْتَغَلّ)
+                          (NP-SBJ
+                            (-NONE- *))
+                          (NP-OBJ
+                            (NP
+                              (IVSUFF_DO:3FS ها))
+                            (NP
+                              (-NONE- *T*-1)))
+                          (PP-PRP
+                            (PREP لِ)
+                            (S-NOM
+                              (VP
+                                (NOUN.VN إِلْهاء)
+                                (NP-SBJ
+                                  (-NONE- *))
+                                (NP-OBJ
+                                  (DET+NOUN الشَعْب))
+                                (PP-CLR
+                                  (PREP عَن)
+                                  (NP
+                                    (NOUN فَساد)
+                                    (NP
+                                      (POSS_PRON_3MS ُه))))))))))))))))))
+    (PUNC ,)))</parse>
+<comment/>
+<arg f="" g="regime" n="0">* نِظام</arg>
+<arg f="" g="the people" n="1">الشَعْب</arg>
+<arg f="" g="from it's coruption" n="3">عن فساده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="distracted" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what - usually marked by ب" vncls="" vntheta=""/>
+<role argnum="3" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

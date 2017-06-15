@@ -1,0 +1,90 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saOal</id>
+
+    <frameset cdef="" edef="to ask a question/matter" id="01" vncls="">
+<role argnum="0" argrole="asker" vncls="" vntheta=""/>
+<role argnum="1" argrole="hearer" vncls="" vntheta=""/>
+<role argnum="2" argrole="question/matter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S (VP (ask/inquire/request+he/it M-saOala- M -سَأَلَ-)
+                                   (NP-SBJ (-NONE- X))
+                                   (NP-OBJ (it/him M-hu M -هُ))
+                                   (S (PRT (does/do?/did?/is/are? Mhal M هَل))
+                                      (NP-SBJ (bin Mbin M بِن)
+                                              (Laden/Ladin MlAdin M لادِن))
+                                      (PP-LOC-PRD (in Mfiy M فِي)
+                                                  (NP (Pakistan MbAkisotAn M باكِسْتان))))))))))
+       (PUNC ,)</parse>
+<arg f="" g="NP-SBJ (-NONE- *)" n="0">X</arg>
+<arg f="" g="him" n="1">-hu</arg>
+<arg f="" g="Is Bin Laden in Pakistan ?" n="2">hal bin lAdin fiy bAkisotAn</arg>
+<V/>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset saOal-a.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to ask for, to request" id="02" vncls="">
+<role argnum="0" argrole="entity asking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>سألت الله مغفرة وأن يجمعنا تحت ظل عرش الرحمن</parse>
+
+<arg f="" g="he" n="0">ت</arg>
+<arg f="" g="forgivness" n="1">مغفرة</arg>
+<arg f="" g="God" n="2">الله</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things requested" vncls="" vntheta=""/>
+<role argnum="2" argrole="from who" vncls="" vntheta=""/>
+
+<comment>طَلَبَ
+Based on roleset saOal-a.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on saOal-a</comment>
+<frameset cdef="" edef="to care for , pay attention to" id="03" vncls="">
+<role argnum="0" argrole="entity caring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل حتى ما سأل * ش  في ولاده</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="في ولاده" n="1">for his children</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

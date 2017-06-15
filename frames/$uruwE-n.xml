@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$uruwE</id>
+<comment/>
+<frameset cdef="" edef="starting, begining" id="01" vncls="">
+<role argnum="0" argrole="entity starting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شروع بعض الناس بالهرب من المدينة</parse>
+<comment/>
+<arg f="" g="some people" n="0">بعض الناس</arg>
+<arg f="" g="escaping from the city" n="1">بالهرب من المدينة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

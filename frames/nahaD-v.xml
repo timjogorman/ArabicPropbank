@@ -1,0 +1,126 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nahaD</id>
+
+    <frameset cdef="" edef="to arise (metaphorically)" id="02" vncls="">
+<role argnum="1" argrole="riser" vncls="" vntheta=""/>
+<role argnum="2" argrole="risen from" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS توّجه)
+    (NP-SBJ
+      (-NONE- *)
+    (PP-CLR
+      (PREP الى)
+      (NP
+        (DET+NOUN+NSUFF_MASC_PL_GEN المصرفيين)
+    (PP
+      (PREP ب)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN القول)
+    (PUNC :)
+    (S
+      (PUNC &quot;)
+      (S
+        (SBAR-ADV
+          (SUB_CONJ لولا)
+          (S
+            (NP-PRD
+              (PVSUFF_DO:2MP كم)
+            (NP-SBJ
+              (-NONE- *)
+        (VP
+          (PRT
+            (RC_PART ل)
+          (PRT
+            (NEG_PART ما)
+          (PV+PVSUFF_SUBJ:3MS نهض)
+          (NP-SBJ
+            (NOUN_PROP+CASE_DEF_NOM لبنان)
+          (PP
+            (PREP من)
+            (NP
+              (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN عثرات)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الدمار)
+  (PUNC .)</parse>
+<arg f="neg" g="" n="m">ما</arg>
+<arg f="" g="Lebanon" n="1">لبنان</arg>
+<arg f="" g="from the sands of destruction" n="2">من عثرات الدمار</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset nahaD-a.02</comment>
+</frameset>
+<frameset cdef="" edef="to tackle, assume, take care of" id="03" vncls="">
+<role argnum="0" argrole="entity in charge" vncls="" vntheta=""/>
+<role argnum="1" argrole="in charge of what" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+      (PUNC &quot;)
+      (VP
+        (PRT
+          (FUT_PART س))
+        (IV1S+IV+IVSUFF_MOOD:I أحاول)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (SUB_CONJ ان)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS انهض)
+              (NP-SBJ
+                (-NONE- *))
+              (PP-CLR
+                (PREP ب)
+                (NP
+                  (NP
+                    (NOUN+NSUFF_FEM_PL مسؤوليات)
+                    (NP
+                      (POSS_PRON_1S ي)))
+                  (SBAR
+                    (WHNP-2
+                      (REL_PRON التي))
+                    (S
+                      (VP
+                        (PV+PVSUFF_SUBJ:1S قبلت)
+                        (NP-SBJ
+                          (-NONE- *))
+                        (NP-OBJ
+                          (NP
+                            (PVSUFF_DO:3FS ها))
+                          (NP
+                            (-NONE- *T*-2))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="the responsibilities that I have accepted" n="1">بمسؤولياتي التي قبلتها</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset nahaD-a.03</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on nahaD-a</comment>
+<frameset cdef="" edef="to make rise or stand" id="04" vncls="">
+<role argnum="0" argrole="helper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ربنا ينهض * بمصر</parse>
+<comment/>
+<arg f="" g="our God" n="0">* ربنا</arg>
+<arg f="" g="with Egypt" n="1">بمصر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity standing" vncls="" vntheta=""/>
+</frameset>
+</verb>

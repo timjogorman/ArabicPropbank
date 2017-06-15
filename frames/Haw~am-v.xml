@@ -1,20 +1,32 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Haw~am</id>
-    <comment/>
-    <frameset cdef="" edef="to fly, to hover in circles" id="01">
-        <role argnum="0" argrole="entity flying"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>وبعد اطلاقها حومت الطائرة في الجو لفترة قصيرة ثم حلقت وفقا لبرنامجها الموضوع لها</parse>
-                <comment/>
-                <arg f="" g="the plane" n="0">الطائرة</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-    </frameset>
+<id>Haw~am</id>
+
+<frameset cdef="" edef="to fly, to hover in circles" id="01" vncls="jalasa-1">
+<role argnum="1" argrole="entity flying" vncls="jalasa-1" vntheta="theme"/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>وبعد اطلاقها حومت الطائرة في الجو لفترة قصيرة ثم حلقت وفقا لبرنامجها الموضوع لها</parse>
+
+<arg f="" g="the plane" n="1">الطائرة</arg>
+
+<arg f="" g="in the air" n="2">في الجو</arg>
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<role argnum="2" argrole="location" vncls="jalasa-1" vntheta="location"/>
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Halaf-i</id>
+<comment/>
+<frameset cdef="" edef="to swear by God, to take an oath" id="01">
+<role argnum="0" argrole="entity swearing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أحلف * بالله ان اقول الحق</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="by God" n="1">بالله</arg>
+<arg f="" g="to tell the truth" n="2">ان اقول الحق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what"/>
+<role argnum="2" argrole="for what"/>
+</frameset>
+</verb>

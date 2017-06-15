@@ -1,19 +1,40 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>nabaX-i</id>
-    <frameset cdef="" edef="to forsake or dismiss" id="01">
-        <role argnum="0" argrole="dismisser"/>
-        <role argnum="1" argrole="thing dismissed"/>
-        <role argnum="2" argrole="what for"/>
-        <frame>
-            <example>
-                <parse>
-                    أولا: تنتهي قمة ثلاثية عربية 0 لها **-1 وزن محوري باعلان &amp;quot; استرضائي &amp;quot; تقريبا 0 ينبذ **-2 العنف استجابة للمطالب الاميركية .
-                </parse>
-                <arg f="" g="-NONE- &amp;lt; what is almost an appeasing decleration" n="0">**-2 &amp;lt; باعلان &amp;quot; استرضائي &amp;quot; تقريبا</arg>
-                <arg f="" g="violence" n="1">العنف</arg>
-                <arg f="" g="in response to American requests" n="2">استجابة للمطالب الاميركية</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>nabaX-i</id>
+<frameset cdef="" edef="to forsake or dismiss" id="01" vncls="">
+<role argnum="0" argrole="dismisser" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing dismissed" vncls="" vntheta=""/>
+<role argnum="2" argrole="what for" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>أولا: تنتهي قمة ثلاثية عربية 0 لها **-1 وزن محوري باعلان &quot; استرضائي &quot; تقريبا 0 ينبذ **-2 العنف استجابة للمطالب الاميركية .</parse>
+<arg f="" g="-NONE- &lt; what is almost an appeasing decleration" n="0">**-2 &lt; باعلان &quot; استرضائي &quot; تقريبا</arg>
+<arg f="" g="violence" n="1">العنف</arg>
+<arg f="" g="in response to American requests" n="2">استجابة للمطالب الاميركية</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to throw" id="02" vncls="">
+<role argnum="0" argrole="thrower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نبذ الرجل مابيده على الأرض</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="what is in his hand" n="1">مابيده</arg>
+<arg f="" g="on the floor" n="2">على الأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="destination/location" vncls="" vntheta=""/>
+</frameset>
 </verb>

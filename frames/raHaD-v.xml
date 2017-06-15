@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raHaD</id>
+
+<frameset cdef="" edef="to rinse or wash out, to flush" id="01" vncls="">
+<role argnum="0" argrole="washer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رحض الرجل قميصه بالصابون</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his shirt" n="1">قميصه</arg>
+<arg f="" g="with soap" n="2">بالصابون</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things washed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

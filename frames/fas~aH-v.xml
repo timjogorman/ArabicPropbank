@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fas~aH</id>
+<comment/>
+<frameset cdef="" edef="to take someone for a walk or picnic" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-TPC-1
+      (X
+        (NO_FUNC دالريس)))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS كان)
+      (VP
+        (PRT
+          (PROG_PART بِ))
+        (IV3MS+IV يِفَسَّح)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (IVSUFF_DO:3P هُم))))
+    (PUNC .)
+    (PUNC .)
+    (PUNC .)))</parse>
+<comment/>
+<arg f="" g="the presedent" n="0">* الريس</arg>
+<arg f="" g="them" n="1">هُم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity taken to walk" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zaraT</id>
+<comment/>
+<frameset cdef="" edef="to swallow" id="01" vncls="">
+<role argnum="0" argrole="entity swallowing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زرط الرجل الخبز بسرعة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the bread" n="1">الخبز</arg>
+<arg f="mnr" g="quickly" n="m">بسرعة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things swallowed" vncls="" vntheta=""/>
+</frameset>
+</verb>

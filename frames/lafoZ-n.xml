@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lafoZ</id>
+<comment/>
+<frameset cdef="" edef="pronunciation, utterance" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حرّم الأب على أبنه لفظ * الكلمات البذيئة</parse>
+<comment/>
+<arg f="" g="his son" n="0">أبنه</arg>
+<arg f="" g="the bad words" n="1">الكلمات البذيئة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things said" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="ejection, discharge" id="02" vncls="">
+<role argnum="0" argrole="ejector" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الطفل بلفظ * ما في فمه على الأرض</parse>
+<comment/>
+<arg f="" g="the baby" n="0">* الطفل</arg>
+<arg f="" g="what was in his mouth" n="1">ما في فمه</arg>
+<arg f="" g="to the ground" n="2">على الأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="ejected" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+</verb>

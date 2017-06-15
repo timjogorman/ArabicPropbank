@@ -1,71 +1,90 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Oazohar</id>
-    <frameset cdef="" edef="to bloom, blossom" id="01">
-        <role argnum="0" argrole="entity causing something to bloom"/>
-        <role argnum="1" argrole="entity blooming"/>
-        <frame>
-            <example>
-                <parse>
-                    (SBARQ
-                    (WHADVP-2
-                    (INTERROG_ADV كيف))
-                    (S
-                    (VP
-                    (PRT
-                    (FUT_PART س))
-                    (IV3FS+IV+IVSUFF_MOOD:I ترحل)
-                    (PP
-                    (PREP عن)
-                    (NP
-                    (PRON_1P ا)))
-                    (NP-SBJ
-                    (NP
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM القديسة))
-                    (NP
-                    (NOUN_PROP تريز)))
-                    (NP
-                    (NP
-                    (DEM_PRON_FS تلك))
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM النعمة)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM السماوية))))
-                    (NP-TMP
-                    (NOUN+CASE_DEF_ACC بعد)
-                    (SBAR
-                    (SUB_CONJ ما)
-                    (S
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS ألهبت)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (DET+NOUN+CASE_DEF_ACC الايمان))))
-                    (CONJ و)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS زرعت)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC السعادة))))
-                    (CONJ و)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS ازهرت)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (DET+NOUN+CASE_DEF_ACC الرجاء)))))))
-                    (ADVP-MNR
-                    (-NONE- *T*-2))))
-                    (PUNC ?))
-                </parse>
-                <arg f="" g="" n="0">-NONE- *</arg>
-                <arg f="" g="hope" n="1">الرجاء</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Oazohar</id>
+<frameset cdef="" edef="to bloom, blossom" id="01" vncls="">
+<role argnum="0" argrole="entity causing something to bloom" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity blooming" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(SBARQ
+  (WHADVP-2
+    (INTERROG_ADV كيف))
+  (S
+    (VP
+      (PRT
+        (FUT_PART س))
+      (IV3FS+IV+IVSUFF_MOOD:I ترحل)
+      (PP
+        (PREP عن)
+        (NP
+          (PRON_1P ا)))
+      (NP-SBJ
+        (NP
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM القديسة))
+          (NP
+            (NOUN_PROP تريز)))
+        (NP
+          (NP
+            (DEM_PRON_FS تلك))
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM النعمة)
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM السماوية))))
+      (NP-TMP
+        (NOUN+CASE_DEF_ACC بعد)
+        (SBAR
+          (SUB_CONJ ما)
+          (S
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS ألهبت)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (DET+NOUN+CASE_DEF_ACC الايمان))))
+            (CONJ و)
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS زرعت)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC السعادة))))
+            (CONJ و)
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS ازهرت)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+ 	(DET+NOUN+CASE_DEF_ACC الرجاء)))))))
+      (ADVP-MNR
+        (-NONE- *T*-2))))
+  (PUNC ?))</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="hope" n="1">الرجاء</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to lighten" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أزهر * النار</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the fire" n="1">النار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
 </verb>

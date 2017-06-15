@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oafik-a</id>
+<comment/>
+<frameset cdef="" edef="to lie" id="01">
+<role argnum="0" argrole="entity lying"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أفك * فيما رواه لنا</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="in what he said" n="1">فيما رواه</arg>
+<arg f="" g="to us" n="2">لنا</arg>
+</example>
+<comment/>
+</frame>
+<comment>كَذَبَ</comment>
+<role argnum="1" argrole="things lied in"/>
+<role argnum="2" argrole="to whom"/>
+</frameset>
+</verb>

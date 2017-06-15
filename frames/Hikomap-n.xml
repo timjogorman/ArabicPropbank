@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hikomap</id>
+<comment/>
+<frameset cdef="" edef="wisdom" id="01" vncls="">
+<role argnum="1" argrole="entity having wisdom" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حكمة الانسان اليوم عن الحياة عش يومك وأنس الغد</parse>
+<comment/>
+<arg f="" g="the humanbeing" n="1">الانسان</arg>
+<arg f="tmp" g="today" n="m">اليوم</arg>
+<arg f="" g="about the life" n="3">عن الحياة</arg>
+<arg f="" g="live your day and forget tomorrow" n="2">عش يومك وأنس الغد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="the wisdom" vncls="" vntheta=""/>
+<role argnum="3" argrole="in or about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

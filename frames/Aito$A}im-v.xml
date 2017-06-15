@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aito$A}im</id>
+<comment>EGYPTIAN ARABIC Framefile based on ta$ALam</comment>
+<frameset cdef="" edef="to be or become pessimistic" id="01" vncls="">
+<role argnum="0" argrole="entity becoming pessimistic" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (PP
+      (PREP بِ)
+      (NP
+        (NOUN+NSUFF_FEM_SG صَراحَة)))
+    (NP-ADV
+      (NOUN خَلاص))
+    (VP
+      (PV+PVSUFF_SUBJ:1S اِتشائِمت)
+      (NP-SBJ
+        (-NONE- *))
+      (PP-CLR
+        (PREP مِن)
+        (NP
+          (NP
+            (DET+NOUN+NSUFF_FEM_PL البَنات))
+          (CONJ وَ)
+          (NP
+            (NOUN افعال)
+            (NP
+              (POSS_PRON_3FS ها))))))))</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="from the girls and what they do" n="1">من البنات وافعالها</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset ta$ALam.01</comment>
+<role argnum="1" argrole="from what" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodagam</id>
+
+<frameset cdef="" edef="to get bit" id="01" vncls="">
+<role argnum="0" argrole="biter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انضغمت الطفلة هذا الصباح</parse>
+
+<arg f="" g="the girl" n="1">الطفلة</arg>
+<arg f="" g="this morning" n="m">هذا الصباح</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity bit" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="what part, where" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

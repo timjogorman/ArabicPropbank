@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobasaT</id>
+
+<frameset cdef="" edef="to sprea out, to strech, to spread" id="01" vncls="">
+<role argnum="1" argrole="entity spreadig" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبسط النبات في الحقل</parse>
+
+<arg f="" g="the plant" n="1">النبات</arg>
+<arg f="loc" g="in field" n="m">في الحقل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be happy or glad" id="02" vncls="">
+<role argnum="0" argrole="entity being glad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبسط سامي منه</parse>
+
+<arg f="" g="Sami" n="0">سامي</arg>
+<arg f="" g="from him" n="1">منه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<comment>فرِح</comment>
+</frameset>
+<comment/>
+</verb>

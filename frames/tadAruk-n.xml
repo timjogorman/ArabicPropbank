@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tadAruk</id>
+<comment/>
+<frameset cdef="" edef="making or setting right, prevention, to catch with" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الأمر يسهل تدارك الطلبة لما فاتهم</parse>
+<comment/>
+<arg f="" g="the students" n="0">الطلبة</arg>
+<arg f="" g="what they missed" n="1">لما فاتهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things made right" vncls="" vntheta=""/>
+</frameset>
+</verb>

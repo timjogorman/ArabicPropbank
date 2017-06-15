@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xidomap</id>
+<comment/>
+<frameset cdef="" edef="service, favor, work" id="01" vncls="">
+<role argnum="0" argrole="assitant" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لن ننسى خدمة أهالي المدينة لمدينتهم في تنظيف الشوارع</parse>
+<comment/>
+<arg f="" g="the people of the city" n="0">أهالي المدينة</arg>
+<arg f="" g="to their city" n="1">لمدينتهم</arg>
+<arg f="" g="in cleaning the streets" n="2">في تنظيف الشوارع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="assisted" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

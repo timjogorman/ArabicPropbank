@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqaya~aH</id>
+<comment/>
+<frameset cdef="" edef="to suppurate or fester" id="01" vncls="">
+<role argnum="1" argrole="entity fester" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقيح الجرح</parse>
+<comment/>
+<arg f="" g="the wound" n="1">الجرح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

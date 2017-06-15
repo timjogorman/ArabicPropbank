@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hara$</id>
+<comment/>
+<frameset cdef="" edef="to rub or scratch, to itch" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حد يهرش * ظهري</parse>
+<comment/>
+<arg f="" g="somebody" n="0">* حد</arg>
+<arg f="" g="my back" n="1">ظهري</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="entity getting  itched" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to bribe" id="02" vncls="">
+<role argnum="0" argrole="entity bribing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اهرشي له بكام مليم علشان يسكت</parse>
+<comment/>
+<arg f="" g="she" n="0">ي</arg>
+<arg f="" g="for him" n="1">له</arg>
+<arg f="" g="with some money" n="2">بكام مليم</arg>
+<arg f="" g="to make him shut up" n="3">علشان يسكت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity bribed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

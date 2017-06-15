@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sahar</id>
+<comment/>
+<frameset cdef="" edef="staying awake at night" id="01" vncls="">
+<role argnum="0" argrole="entity staying up" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خسارة سهرنا الليلة اللي فاتت</parse>
+<comment/>
+<arg f="" g="us" n="0">نا</arg>
+<arg f="" g="last night" n="1">الليلة اللي فاتت</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="EXT, usually time" vncls="" vntheta=""/>
+</frameset>
+</verb>

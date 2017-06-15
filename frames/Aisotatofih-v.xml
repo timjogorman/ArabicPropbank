@@ -1,0 +1,67 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotatofih</id>
+<comment/>
+<frameset cdef="" edef="to consider something stupid or silly" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SQ
+    (CONJ لَكِن)
+    (SBAR-ADV
+      (SUB_CONJ لَو)
+      (S
+        (S
+          (NP-TPC-1
+            (DET+NOUN الناس))
+          (VP
+            (PV+PVSUFF_SUBJ:3FS إِستَتفِهِت)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (DET+NOUN الفِيلم))))
+        (TYPO و)
+        (S
+          (VP
+            (NEG_PART ما)
+            (NP-SBJ-2
+              (NOUN حَدّ))
+            (PRT
+              (NEG_PART ش))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3MS دَخَل)
+                (NP-SBJ
+                  (-NONE- *-2))
+                (PP
+                  (NP
+                    (X
+                      (PVSUFF_DO:3MS ُه))))))))))
+    (PUNC ?)
+    (PUNC ?)
+    (VP
+      (PRT
+        (FUT_PART حَ))
+      (IV3MS+IV يِعْمِل)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (IVSUFF_DO:3MS ُه))
+      (PP
+        (PREP لِ)
+        (WHNP
+          (INTERROG_PRON مِين))))))</parse>
+<comment/>
+<arg f="" g="the people" n="0">*T* -1 الناس</arg>
+<arg f="" g="the movie" n="1">الفِيلم</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="silly things" vncls="" vntheta=""/>
+</frameset>
+</verb>

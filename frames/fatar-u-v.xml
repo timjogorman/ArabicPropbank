@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fatar-u</id>
+<comment/>
+<frameset cdef="" edef="to become tepid or lukewarm, to calm down or abate, to languish" id="01" vncls="">
+<role argnum="1" argrole="entity lukewarm" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فتر الطفل بعد أن تعب</parse>
+<comment/>
+<arg f="" g="the kid" n="1">الطفل</arg>
+<arg f="tmp" g="after he got tired" n="m">بعد أن تعب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

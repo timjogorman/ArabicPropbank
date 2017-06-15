@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Sanofar</id>
+<comment/>
+<frameset cdef="" edef="to clean up with sandpaper¬" id="01" vncls="">
+<role argnum="0" argrole="entity cleaning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صنفر المهندس محرك السيارة</parse>
+<comment/>
+<arg f="" g="the engeneer" n="0">المهندس</arg>
+<arg f="" g="the can engine" n="1">محرك السيارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity cleand" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

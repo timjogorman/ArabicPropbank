@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitoqar~af</id>
+<comment/>
+<frameset cdef="" edef="to be bothere annoyed,  to be disgusted" id="01" vncls="">
+<role argnum="0" argrole="entity getting disgusted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا بتقرف * لما واحد يبوسني</parse>
+<comment/>
+<arg f="" g="I" n="0">*أنا</arg>
+<arg f="" g="when someone kiss me" n="1">لما واحد يبوسني</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

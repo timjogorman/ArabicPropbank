@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oabih</id>
+<comment/>
+<frameset cdef="" edef="to take notice of, to pay attention to" id="01" vncls="">
+<role argnum="0" argrole="entity noticing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لم يأبه الرجل لما يحصل من حول</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="for what was happening around him" n="1">لما يحصل من حول</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things noticed" vncls="" vntheta=""/>
+</frameset>
+</verb>

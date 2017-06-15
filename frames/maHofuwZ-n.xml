@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maHofuwZ</id>
+<comment/>
+<frameset cdef="" edef="keep, protect, preserve" id="01" vncls="">
+<role argnum="0" argrole="the protector" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا البلد محفوظ * برجاله من العدو</parse>
+<comment/>
+<arg f="" g="this country" n="1">هذا البلد</arg>
+<arg f="" g="by his men" n="0">برجاله</arg>
+<arg f="" g="from the enemy" n="2">من العدو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity being protected" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="memorized" id="02" vncls="">
+<role argnum="0" argrole="entity memorizing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الكلام محفوظ * في عقولنا من كتاب الحياة</parse>
+<comment/>
+<arg f="" g="this talking" n="1">* هذا الكلام</arg>
+<arg f="loc" g="in our minds" n="m">في عقولنا</arg>
+<arg f="" g="from the book of life" n="2">من كتاب الحياة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things memorized" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mutarAdif</id>
+<comment/>
+<frameset cdef="" edef="synonymous" id="01" vncls="">
+<role argnum="1" argrole="first entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه الكلمات مترادفة * مع بعضها</parse>
+<comment/>
+<arg f="" g="these words" n="1">* هذه الكلمات</arg>
+<arg f="" g="with each other" n="2">مع بعضها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="second" vncls="" vntheta=""/>
+</frameset>
+</verb>

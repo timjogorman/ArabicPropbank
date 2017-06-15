@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobaram</id>
+<comment/>
+<frameset cdef="" edef="to become agreed or confirmed" id="01" vncls="">
+<role argnum="0" argrole="agent (1st person)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انبرم عقد مع مريم لشراء سيارتها</parse>
+<comment/>
+<arg f="" g="a contract" n="1">عقد</arg>
+<arg f="" g="to buy her car" n="2">لشراء سيارتها</arg>
+<arg f="" g="with Meryam" n="3">مع مريم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="act or contract" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what (the agreement)" vncls="" vntheta=""/>
+<role argnum="3" argrole="2nd person" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to become entangled, twisted" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انبرم الصوف بالألة الجديدة</parse>
+<comment/>
+<arg f="" g="wool" n="1">الصوف</arg>
+<arg f="" g="with the new machine" n="2">بالألة الجديدة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity swisted" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

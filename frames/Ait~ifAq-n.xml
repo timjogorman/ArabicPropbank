@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ait~ifAq</id>
+<comment/>
+<frameset cdef="" edef="agreeing" id="01" vncls="">
+<role argnum="0" argrole="agreer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم اتفاق الشركة مع العمال حول العطلة</parse>
+<comment/>
+<arg f="" g="the company" n="0">الشركة</arg>
+<arg f="" g="with the employees" n="1">مع العمال</arg>
+<arg f="" g="about the holiday" n="2">حول العطلة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="other entity agreeing" vncls="" vntheta=""/>
+<role argnum="2" argrole="proposition" vncls="" vntheta=""/>
+</frameset>
+</verb>

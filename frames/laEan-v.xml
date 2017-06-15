@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>laEan</id>
+<comment>EGYPTIAN ARABIC based on laEan-a</comment>
+    <frameset cdef="" edef="to curse, to damn" id="01">
+<role argnum="0" argrole="entity cursing" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>كثيرا ما نقول لعنه الله فهل هذا مقبول</parse>
+<comment />
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="God" n="0">الله</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset laEan-a.01</comment>
+<role argnum="1" argrole="cursed one" />
+</frameset>
+</verb>

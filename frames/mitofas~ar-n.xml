@@ -1,0 +1,108 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>mitofas~ar</id>
+<frameset cdef="" edef="to explain" id="01" vncls="">
+<role argnum="0" argrole="explainer" vncls="" vntheta="" />
+<role argnum="1" argrole="thing explained" vncls="" vntheta="" />
+<role argnum="2" argrole="explained to" vncls="" vntheta="" />
+
+<frame>
+<example>
+<parse>(FRAG
+  (NP
+    (NOUN بواطل)
+    (NP
+      (DET+NOUN الدنيا)))
+  (PP
+    (PREP ب)
+    (NP
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN ذرة))
+      (PP
+        (PREP من)
+        (NP
+          (NOUN+CASE_DEF_GEN وعد)
+          (NP
+            (POSS_PRON_2MS ك))))))
+  (S
+    (PUNC &quot;)
+    (VP
+      (PSEUDO_VERB ان)
+      (NP-SBJ
+        (PRON_2MS ك))
+      (ADJP-PRD
+        (ADJ+CASE_INDEF_NOM غفور)))
+    (PUNC &quot;))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:1S رميت)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP ل)
+        (NP
+          (PRON_2MS ك)))
+      (NP-OBJ
+        (NP
+          (NOUN قلب)
+          (NP
+            (POSS_PRON_1S ي)))
+        (CONJ و)
+        (NP
+          (NOUN+CASE_DEF_ACC أوراق)
+          (NP
+            (NOUN قلب)
+            (NP
+              (POSS_PRON_1S ي)))))))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:1S فسرت)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP ل)
+        (NP
+          (PRON_2MS ك)))
+      (NP-OBJ
+        (NOUN+CASE_DEF_ACC لاهوت)
+        (NP
+          (NOUN قلب)
+          (NP
+            (POSS_PRON_1S ي))))))
+  (CONJ و)
+  (SBARQ
+    (PUNC &quot;)
+    (WHADVP-1
+      (INTERROG_ADV لماذا))
+    (S
+      (NP-SBJ
+        (NOUN حب)
+        (NP
+          (POSS_PRON_1S ي)))
+      (ADVP-PRP-PRD
+        (-NONE- *T*-1)))
+    (PUNC ?)
+    (PUNC &quot;))
+  (PUNC .))</parse>
+<arg f="" g="*" n="0">*</arg>
+<arg f="" g="the inside of my heart" n="1">لاهوت قلبي</arg>
+<arg f="" g="to you" n="2">لك</arg>
+<comment />
+</example>
+<example>
+<parse>فسر * الماء بعد الجهد بالماء</parse>
+<arg f="" g="he" n="0">*</arg>
+<arg f="" g="water" n="1">الماء</arg>
+<arg f="tmp" g="after a moment of struggle" n="m">بعد الجهد</arg>
+<arg f="mnr" g="as water" n="m">بالماء</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset fas~ar.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on fas~ar</comment>
+</verb>

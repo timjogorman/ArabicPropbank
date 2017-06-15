@@ -1,0 +1,77 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kaman</id>
+
+    <frameset cdef="" edef="To be latent or exist" id="01" vncls="">
+<role argnum="0" argrole="thing being latent" vncls="" vntheta=""/>
+<role argnum="1" argrole="latent in" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+<comment/>
+</mapping>
+<example>
+<parse>(VP
+        (PV+PVSUFF_SUBJ:3FS تحدثت)
+        (NP-SBJ
+          (-NONE- *T*-4))
+        (PP-CLR
+          (PREP عن)
+          (NP
+            (NP
+              (NOUN+CASE_INDEF_GEN دوافع))
+            (SBAR
+              (WHNP-5
+                (-NONE- 0))
+              (S
+                (VP
+                  (PV+PVSUFF_SUBJ:3MS كمن)
+                  (PP-CLR
+                    (PREP في)
+                    (NP
+                      (NP
+                        (PRON_3FS ها))
+                      (NP
+                        (-NONE- *T*-5))))
+                  (NP-SBJ
+                    (DET+NOUN+CASE_DEF_NOM التحفظ)
+                    (DET+ADJ+CASE_DEF_NOM السوري))))))))))
+  (PUNC :))</parse>
+<arg f="" g="the Syrian reticence" n="0">التحفظ السوري</arg>
+<arg f="" g="In it" n="1">فيها</arg>
+<V/>
+<comment/>
+</example>
+<example>
+<parse>(S
+          (NP-TPC-2
+            (DET+NOUN+CASE_DEF_ACC الحل)
+            (DET+ADJ+CASE_DEF_ACC الآني))
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يكمن)
+            (NP-SBJ
+              (-NONE- *T*-2))
+            (PP-CLR
+              (PREP في)
+              (NP
+                (NOUN+CASE_DEF_GEN انشاء)
+                (NP
+                  (NP
+                    (NP
+                      (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN شركات)
+                      (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN مختلطة))
+                    (ADJP
+                      (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN اميركية)
+                      (PUNC -)
+                      (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN لبنانية)))</parse>
+<arg f="" g="It" n="0">-NONE- *T*-2&lt;الحل الآني</arg>
+<arg f="" g="The establishment of joint ventures for the American Lebanese" n="1">في انشاء شركات مختلطة اميركية لبنانية</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset kaman-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on kaman-u</comment>
+</verb>

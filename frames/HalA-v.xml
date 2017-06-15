@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>HalA</id>
+<comment>EGYPTIAN ARABIC Framefile based on HalA-u</comment>
+<frameset cdef="" edef="to be or become swet, to sweeten" id="01">
+<role argnum="1" argrole="entity or things getting sweet" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>حلا الامر له</parse>
+<comment />
+<arg f="" g="the matter" n="1">الامر</arg>
+<arg f="" g="to him" n="2">له</arg>
+</example>
+<comment />
+</frame>
+<comment>طاب ، راق
+Based on roleset HalA-u.01</comment>
+<role argnum="2" argrole="benefeciary" />
+</frameset>
+</verb>

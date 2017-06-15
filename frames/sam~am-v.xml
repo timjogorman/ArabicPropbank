@@ -1,60 +1,60 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>sam~am</id>
-    <frameset cdef="" edef="To poison or envenom" id="01">
-        <role argnum="0" argrole="agent"/>
-        <role argnum="1" argrole="entity  poisoned"/>
-        <role argnum="2" argrole="poison"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (PRT
-                    (NEG_PART لا))
-                    (IV3MS+IV+IVSUFF_MOOD:I يكفي)
-                    (SBAR-SBJ
-                    (SUB_CONJ ان)
-                    (S
-                    (VP
-                    (IV3MS+IV_PASS+IVSUFF_MOOD:S يقال)
-                    (NP-SBJ-2
-                    (-NONE- *))
-                    (NP-OBJ
-                    (-NONE- *-2))
-                    (PP
-                    (PREP ل)
-                    (NP
+<id>sam~am</id>
+<frameset cdef="" edef="To poison or envenom" id="01">
+<role argnum="0" argrole="agent"/>
+<role argnum="1" argrole="entity  poisoned"/>
+<role argnum="2" argrole="poison"/>
+<frame>
+<example>
+<parse>
+(S
+        (VP
+          (PRT
+            (NEG_PART لا))
+          (IV3MS+IV+IVSUFF_MOOD:I يكفي)
+          (SBAR-SBJ
+            (SUB_CONJ ان)
+            (S
+              (VP
+                (IV3MS+IV_PASS+IVSUFF_MOOD:S يقال)
+                (NP-SBJ-2
+                  (-NONE- *))
+                (NP-OBJ
+                  (-NONE- *-2))
+                (PP
+                  (PREP ل)
+                  (NP
                     (PRON_3MS ه)))
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
+                (SBAR
+                  (SUB_CONJ ان)
+                  (S
                     (PP-PRD
-                    (PREP علي)
-                    (NP
-                    (PRON_3MP هم)))
+                      (PREP علي)
+                      (NP
+                        (PRON_3MP هم)))
                     (SBAR-SBJ
-                    (SUB_CONJ ال)
-                    (S
-                    (VP
-                    (PRT
-                    (NEG_PART ا))
-                    (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ يسمموا)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (DET+NOUN+CASE_DEF_ACC الهواء))
-                    (UCP-LOC
-                    (PP
-                    (PREP في)
-                    (NP
-                    (NOUN_PROP+CASE_INDEF_GEN لبنان)))
-                </parse>
-                <arg f="" g="does not" n="m">الا</arg>
-                <arg f="" g="He" n="0">-NONE- *</arg>
-                <arg f="" g="Air" n="1">الهواء</arg>
-                <arg f="" g="In Lebanon" n="2">في لبنان</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (SUB_CONJ ال)
+                      (S
+                        (VP
+                          (PRT
+                            (NEG_PART ا))
+                          (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ يسمموا)
+                          (NP-SBJ
+                            (-NONE- *))
+                          (NP-OBJ
+                            (DET+NOUN+CASE_DEF_ACC الهواء))
+                          (UCP-LOC
+                            (PP
+                              (PREP في)
+                              (NP
+                                (NOUN_PROP+CASE_INDEF_GEN لبنان)))
+</parse>
+<arg f="" g="does not" n="m">الا</arg>
+<arg f="" g="He" n="0">-NONE- *</arg>
+<arg f="" g="Air" n="1">الهواء</arg>
+<arg f="" g="In Lebanon" n="2">في لبنان</arg>
+</example>
+</frame>
+</frameset>
 </verb>

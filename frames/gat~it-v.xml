@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gat~it</id>
+<comment/>
+<frameset cdef="" edef="bother, disturb" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>احنا حنروح نغتت  * عالجماعة</parse>
+<comment/>
+<arg f="" g="we" n="0">* احنا</arg>
+<arg f="" g="on  the group" n="1">عالجماعة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

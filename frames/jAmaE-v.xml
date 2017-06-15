@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jAmaE</id>
+
+<frameset cdef="" edef="to have sexual intercourse with, to make love" id="01" vncls="">
+<role argnum="0" argrole="entity having sex or love" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جامع * زوجته قبيل سفره</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="his wife" n="1">زوجته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

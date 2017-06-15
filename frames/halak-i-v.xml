@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>halak-i</id>
+
+<frameset cdef="" edef="to die, to be ruined" id="01" vncls="">
+<role argnum="1" argrole="entity died" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>هلك الرجل في الحرب</parse>
+
+<arg f="" g="the man" n="1">الرجل</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

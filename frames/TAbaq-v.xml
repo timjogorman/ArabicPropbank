@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TAbaq</id>
+<comment/>
+<frameset cdef="" edef="to identify with , to compare, to superpose" id="01" vncls="">
+<role argnum="0" argrole="causer, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طابق الرجل سلوكه على أقواله</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his behavior" n="1">سلوكه</arg>
+<arg f="" g="on his words" n="2">على أقواله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="first thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="second thing" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to correspond to, or comform with, to agree on" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طابق الرجل أخاه على الأمر</parse>
+<comment/>
+<arg f="" g="the man" n="">الرجل</arg>
+<arg f="" g="his brother" n="">أخاه</arg>
+<arg f="" g="on the matter" n="">على الأمر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="second entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

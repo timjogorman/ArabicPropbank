@@ -1,0 +1,143 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>qalaE</id>
+<frameset cdef="" edef="to undress" id="01" vncls="">
+<role argnum="0" argrole="person removing clothes" vncls="" vntheta="" />
+<role argnum="1" argrole="clothes removed" vncls="" vntheta="" />
+<frame>
+
+<example>
+<parse>(S
+  (VP
+    (IV3MS+IV+IVSUFF_MOOD:I يخلع)
+    (NP-SBJ
+      (-NONE- *))
+    (NP-OBJ
+      (NOUN+CASE_DEF_ACC ثياب)
+      (NP
+        (POSS_PRON_3MS ه))))
+  (PUNC ,))</parse>
+<arg f="" g="He" n="0">-NONE- *</arg>
+<arg f="" g="his clothes" n="1">ثيابه</arg>
+
+
+<comment />
+</example>
+
+
+<comment>تجرد</comment>
+</frame>
+
+
+<comment>Based on roleset xalaE-a-v.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to pull out, to extract,  to oust, to remove (from an office),to dethrone" id="02" vncls="">
+<role argnum="0" argrole="entity pulling" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>خلع الطبيب ضرس الرجل</parse>
+
+<arg f="" g="the doctor" n="0">الطبيب</arg>
+<arg f="" g="molar" n="1">ضرس</arg>
+<arg f="" g="the man" n="2">الرجل</arg>
+
+<comment />
+</example>
+
+<example>
+<parse>خلع الشعب الملك عن العرش</parse>
+
+<arg f="" g="the people" n="0">الشعب</arg>
+<arg f="" g="the king" n="1">الملك</arg>
+<arg f="" g="from the throne" n="2">عن العرش</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="things pulled" vncls="" vntheta="" />
+<role argnum="2" argrole="from whom or from what" vncls="" vntheta="" />
+
+<comment>Based on roleset xalaE-a-v.02</comment>
+</frameset>
+<frameset cdef="" edef="to bestow a robe of honor, to grant, to dress" id="03" vncls="">
+<role argnum="0" argrole="granter" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>خلع عليه الملك منصبا  جديدا</parse>
+
+<arg f="" g="on him" n="2">عليه</arg>
+<arg f="" g="the king" n="0">الملك</arg>
+<arg f="" g="new position" n="1">منصبا  جديدا</arg>
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="things granted" vncls="" vntheta="" />
+<role argnum="2" argrole="to whom" vncls="" vntheta="" />
+
+<comment>Based on roleset xalaE-a-v.03</comment>
+</frameset>
+<frameset cdef="" edef="to dislocate" id="04" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>خلع اللاعب مفصل قدمه</parse>
+
+<arg f="" g="the player" n="0">اللاعب</arg>
+<arg f="" g="his foot joint" n="1">مفصل قدمه</arg>
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="part dislocated" vncls="" vntheta="" />
+
+<comment>Based on roleset xalaE-a-v.04</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC Framefile based on xalaE-a-v</comment>
+<frameset cdef="" edef="to escape, to run away" id="05" vncls="">
+<role argnum="0" argrole="entity running away" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ده هو خلع * قبل ما حد يمسكه</parse>
+<comment />
+<arg f="" g="he" n="0">*  هو</arg>
+<arg f="tmp" g="before someone could arrest him" n="m">قبل ما حد يمسكه</arg>
+</example>
+<comment>ARZ</comment>
+</frame>
+<comment>ARZ
+Based on roleset xalaE-a-v.05</comment>
+<role argnum="1" argrole="from what" vncls="" vntheta="" />
+<role argnum="2" argrole="final point" vncls="" vntheta="" />
+</frameset>
+</verb>

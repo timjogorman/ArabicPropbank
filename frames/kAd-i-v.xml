@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kAd-i</id>
+<comment/>
+<frameset cdef="" edef="to plot or conspire against" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(SBAR-ADV
+        (SUB_CONJ إِذا)
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MP أَرادُوا)
+            (NP-SBJ
+              (-NONE- *))
+            (SBAR
+              (SUB_CONJ أَنْ)
+              (S
+                (VP
+                  (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ يَكِيدُوا)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (PP
+                    (PREP لَ)
+                    (NP
+                      (PRON_1P نا))))))
+            (PUNC -)
+            (PP
+              (SBAR
+                (X
+                  (CONJ كَما))
+                (S
+                  (VP
+                    (IV3FS+IV+IVSUFF_MOOD:I تُحاوِلُ)
+                    (NP-SBJ
+                      (NOUN_PROP إِيران)
+                      (DET+ADJ+NSUFF_FEM_SG الخَبِيثَة)))))))))
+      (PUNC -)</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="to us" n="1">لَنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

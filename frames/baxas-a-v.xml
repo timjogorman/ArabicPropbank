@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>baxas-a</id>
+<comment/>
+<frameset cdef="" edef="to wrong, to withhold someone’s due, to decrease" id="01" vncls="">
+<role argnum="0" argrole="holder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بخس الرجل حق صاحبه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the right" n="1">حق</arg>
+<arg f="" g="his friend" n="2">صاحبه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things held" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to gouge or scoop out (the eye)" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بخس الطفل عين صديقه بحجر</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="his friends eye" n="1">عين صديقه</arg>
+<arg f="" g="with a rock" n="2">بحجر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

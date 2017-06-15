@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SuEub</id>
+<comment/>
+<frameset cdef="" edef="to feel sorry for" id="01" vncls="">
+<role argnum="1" argrole="entity feeling sorry" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صعب علي الراجل</parse>
+<comment/>
+<arg f="" g="for him" n="1">علي</arg>
+<arg f="" g="the man" n="2">الراجل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

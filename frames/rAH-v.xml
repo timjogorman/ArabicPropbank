@@ -1,0 +1,218 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rAH</id>
+
+    <frameset cdef="" edef="went" id="01" vncls="">
+<role argnum="0" argrole="goer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>آه مرحتش* لا ؛امنية و ؛عمر مرحتش اختك وقفت حالى يعنى</parse>
+
+<arg f="" g="I" n="0">*</arg>
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="location" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+<comment>Eg
+Based on roleset rAH-u.01</comment>
+</frameset>
+
+
+<frameset cdef="" edef="to be lost" id="03" vncls="">
+<role argnum="1" argrole="things being lost" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>حقوقنا راحت * يا ناس</parse>
+
+<arg f="" g="our rights" n="1">* حقوقنا</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment>ARZ</comment>
+</frame>
+
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+
+
+
+
+
+<comment>ARZ
+Based on roleset rAH-u.03</comment>
+</frameset>
+
+<frameset cdef="" edef="to take something somewhere (multi word expression)" id="04" vncls="">
+<role argnum="0" argrole="taker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>حايروح * بيهم للمدرسة</parse>
+
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="them" n="1">بيهم</arg>
+<arg f="" g="to school" n="3">للمدرسة</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity taken" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+
+
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="Auxiliary of serial verb construction, future marker- DO NOT TAG" id="05" vncls="">
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>وبعدين رحت* درست*-1 في الجامعة
+
+
+DO NOT TAG</parse>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+<comment/>
+</frameset>
+
+
+
+<frameset cdef="" edef="to be in trouble (multi word expresion)" id="07" vncls="">
+<role argnum="0" argrole="entity in trouble" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>هي راحت * فيها</parse>
+
+<arg f="" g="she" n="1">هي</arg>
+<arg f="" g="in it" n="2">فيها</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the trouble" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on rAH-u</comment>
+<frameset cdef="" edef="to become (multi word expression)" id="08" vncls="">
+<role argnum="1" argrole="entity becoming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دي وشها راح * أصفر من الخوف</parse>
+<comment/>
+<arg f="" g="her face" n="1">* وشها</arg>
+<arg f="" g="yellow" n="2">أصفر</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="like what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Harob</id>
+<comment/>
+<frameset cdef="" edef="war" id="01" vncls="">
+<role argnum="0" argrole="entity fighting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دخل ابني حرب الخليج</parse>
+<comment/>
+<arg f="" g="my son" n="0">ابني</arg>
+<arg f="" g="the Gulf" n="1">الخليج</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the war" vncls="" vntheta=""/>
+<role argnum="2" argrole="against whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

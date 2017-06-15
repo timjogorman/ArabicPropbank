@@ -1,0 +1,102 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bax~ar</id>
+<frameset cdef="" edef="to evaporate" id="01" vncls="">
+<role argnum="1" argrole="liquid, now vapor" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (VP
+      (PSEUDO_VERB إن)
+      (NP-SBJ-2
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_ACC الكلام))
+          (SBAR
+            (WHNP-1
+              (REL_PRON الذي))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3MS تسرع)
+                (PP-CLR
+                  (PREP في)
+                  (NP
+                    (NOUN+CASE_DEF_GEN اطلاق)
+                    (NP
+                      (NP
+                        (POSS_PRON_3MS ه))
+                      (NP
+                        (-NONE- *T*-1)))))
+                (NP-SBJ
+                  (NP
+                    (NOUN+CASE_INDEF_NOM عدد))
+                  (PP
+                    (PREP من)
+                    (NP
+                      (DET+NOUN+NSUFF_MASC_PL_GEN المسؤولين)
+                      (DET+ADJ+NSUFF_MASC_PL_GEN الفلسطينيين))))))))
+        (NP-ADV
+          (NOUN+CASE_DEF_ACC حول)
+          (NP
+            (NOUN+CASE_DEF_GEN وجود)
+            (NP
+              (NP
+                (NOUN+CASE_INDEF_GEN قرار))
+              (PP
+                (PREP ب)
+                (NP
+                  (NOUN+CASE_DEF_GEN اعتقال)
+                  (NP
+                    (PUNC ")
+                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مجموعة)
+                    (NP
+                      (DET+NOUN_PROP+NSUFF_FEM_SG+CASE_DEF_GEN الضنية))
+                    (PUNC "))))))))
+      (S
+        (VP
+          (PRT
+            (NEG_PART ما))
+          (PV+PVSUFF_SUBJ:3MS لبث)
+          (NP-SBJ
+            (-NONE- *-2))
+          (SBAR
+            (SUB_CONJ ان)
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3MS تبخر)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-ADV
+                  (NOUN+CASE_DEF_ACC تحت)
+                  (NP
+                    (NOUN+CASE_INDEF_GEN عناوين)
+                    (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN مختلفة))))))))))</parse>
+<arg f="" g="comments that a number of palestinian representatives hastily blurted out concerning the arrest of a certain group's members" n="1">الكلام الذي تسرع في اطلاقه عدد من المسؤولين الفلسطينيين حول وجود قرار ب اعتقال " مجموعة الضنية "</arg>
+<arg f="loc" g="under differing titles" n="m">تحت عناوين مختلفة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset tabax~ar-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on tabax~ar-v</comment>
+<frameset cdef="" edef="to perfume with incense" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يا واد بخر * البيت بالبخور</parse>
+<comment/>
+<arg f="" g="O boy" n="0">* يا واد</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="with incense" n="2">بالبخور</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity perfumed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

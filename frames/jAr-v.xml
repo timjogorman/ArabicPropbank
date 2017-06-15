@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>jAr</id>
+<comment>EGYPTIAN ARABIC Framefile based on jAr-u</comment>
+<frameset cdef="" edef="to wrong, to opress" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (CONJ لَكِن)
+      (VP
+        (PRT
+          (NEG_PART مِش))
+        (PRT
+          (FUT_PART هَ))
+        (IV1S+IV اظْلِم)
+        (NP-SBJ
+          (-NONE- *))))
+    (CONJ وَ)
+    (S
+      (VP
+        (PRT
+          (NEG_PART لَنْ))
+        (IV1S+IV اجُور)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP عَلَى)
+          (NP
+            (NOUN حَقّ)
+            (NP
+              (NOUN أَحَد))))))))</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="nobody's right" n="1">على حق أحد</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset jAr-u.01</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta="" />
+</frameset>
+</verb>

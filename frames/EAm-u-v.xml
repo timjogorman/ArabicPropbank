@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAm-u</id>
+<comment/>
+<frameset cdef="" edef="to float or buoy or swim" id="01">
+<role argnum="0" argrole="entity floating"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الواد ده بيعوم * في المية  زي الوزة</parse>
+<comment/>
+<arg f="" g="the boy" n="0">* الواد</arg>
+<arg f="" g="in the water" n="1">في المية</arg>
+<arg f="mnr" g="like a goose" n="m">زي الوزة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="where"/>
+</frameset>
+</verb>

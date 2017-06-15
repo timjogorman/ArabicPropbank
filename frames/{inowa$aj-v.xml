@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inowa$aj</id>
+
+<frameset cdef="" edef="to overlap (تَداخَلَ)" id="01" vncls="">
+<role argnum="1" argrole="ingredient one" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انوشجت الأغصان ببعضها البعض</parse>
+
+<arg f="" g="branches" n="1">الأغصان</arg>
+<arg f="" g="with each others" n="2">ببعضها البعض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="ingredient two" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

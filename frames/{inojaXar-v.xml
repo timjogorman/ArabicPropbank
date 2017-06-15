@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inojaXar</id>
+
+<frameset cdef="" edef="be destroyed or pulled up by the roots" id="01" vncls="">
+<role argnum="1" argrole="the pulled or destroyed thing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انجذر الوباء من البلدة</parse>
+
+<arg f="" g="the epidemic" n="1">انجذر</arg>
+<arg f="" g="from town" n="2">من البلدة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHaZar</id>
+
+<frameset cdef="" edef="to be prohibited" id="01" vncls="">
+<role argnum="1" argrole="entity prohibited" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>,انحظر الجيش عن استعمارالمنطقة</parse>
+
+<arg f="" g="the army" n="1">الجيش</arg>
+<arg f="" g="the colonization of the region" n="2">عن استعمارالمنطقة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="prohibited from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

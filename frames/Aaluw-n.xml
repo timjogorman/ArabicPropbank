@@ -1,0 +1,98 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aaluw</id>
+<comment>EGYPTIAN ARABIC based on {it~aSal</comment>
+    <frameset cdef="" edef="to contact or get in touch with" id="01">
+<role argnum="0" argrole="agent making the contact" />
+<role argnum="1" argrole="entity being contacted - usually maked by PP bi- بِ" />
+<role argnum="2" argrole="The manner with which the contact is being made" />
+<frame>
+<mapping>
+<V />
+<mapitem src="sbj" trg="arg0" />
+</mapping>
+<example>
+<parse>
+((S-NOM
+                                  (VP
+                                    (NOUN.VN+CASE_DEF_ACC رفض)
+                                    (NP-SBJ-9
+                                      (POSS_PRON_3MS ه))
+                                    (NP-OBJ
+                                      (NP
+                                        (NOUN+CASE_INDEF_ACC اقتراحاً))
+                                      (SBAR
+                                        (WHNP-3
+                                          (-NONE- 0))
+                                        (S
+                                          (VP
+                                            (PV+PVSUFF_SUBJ:3MP قدمو)
+                                            (NP-SBJ
+                                              (-NONE- *))
+                                            (NP-OBJ
+                                              (NP
+                                                (PVSUFF_DO:3MS ه))
+                                              (NP
+                                                (-NONE- *T*-3)))))))
+                                    (S-ADV
+                                      (VP
+                                        (ADJ.VN+CASE_INDEF_ACC معتبراً)
+                                        (NP-SBJ
+                                          (-NONE- *-9))
+                                        (SBAR
+                                          (SUB_CONJ ان)
+                                          (S
+                                            (NP-TPC-4
+                                              (PRON_3MS ه))
+                                            (VP
+                                              (IV3MS+IV+IVSUFF_MOOD:I يتصل)
+                                              (NP-SBJ
+                                                (-NONE- *T*-4))
+                                              (PP-CLR
+                                                (PUNC &quot;)
+                                                (PREP ب)
+                                                (NP
+                                                  (NP
+                                                    (NOUN+CASE_INDEF_GEN مسائل))
+                                                  (SBAR
+                                                    (WHNP-8
+                                                      (-NONE- 0))
+                                                    (S
+                                                      (VP
+                                                        (PV_PASS+PVSUFF_SUBJ:3MS اتفق)
+                                                        (NP-SBJ
+                                                          (-NONE- *-5))
+                                                        (PP-CLR
+                                                          (PREP علي)
+                                                          (NP
+                                                            (NP-5
+                                                              (PRON_3FS ها))
+                                                            (NP
+                                                              (-NONE- *T*-8))))
+                                                        (NP-TMP
+                                                          (NOUN+CASE_INDEF_ACC سابقاً))))))
+                                                (PUNC &quot;)))))))))
+</parse>
+<arg f="" g="It" n="0">-NONE- *T*-4&lt;اقتراحاً</arg>
+<arg f="" g="with issues that had previously been agreed on" n="1">بمسائل اتفق عليها</arg>
+<arg f="adv" g="Previously" n="m">سابقاً</arg>
+</example>
+<example>
+<parse>
+{it~aSiluwA X binA EalaY AlArqAm Al~tAliyapi...
+</parse>
+<arg f="" g="" n="0">X</arg>
+<arg f="" g="with us" n="1">binA</arg>
+<arg f="" g="at these following numbers" n="2-mnr">EalaY AlArqAm alt~Aliyapi...</arg>
+</example>
+<example>
+<parse>
+{it~aSiliy X binA Eabr AlhAtif EalaY AlArqAm Alt~Aliyapi...
+</parse>
+<arg f="" g="" n="0">X</arg>
+<arg f="" g="with us" n="1">binA</arg>
+<arg f="" g="by phone" n="2-mnr">Eabr AlhAtif</arg>
+<arg f="mnr" g="" n="m">EalaY AlArqAm Alt~Aliyapi</arg>
+</example>
+</frame>
+<comment>Based on roleset {it~aSal.01</comment></frameset>
+</verb>

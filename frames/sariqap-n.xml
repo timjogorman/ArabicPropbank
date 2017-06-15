@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sariqap</id>
+<comment/>
+<frameset cdef="" edef="stealing" id="01" vncls="">
+<role argnum="0" argrole="thief, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الطفل بسرقة * بعض المال من أبيه</parse>
+<comment/>
+<arg f="" g="the kid" n="0">* الطفل</arg>
+<arg f="" g="some money" n="1">بعض المال</arg>
+<arg f="" g="from his father" n="2">من أبيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing stolen" vncls="" vntheta=""/>
+<role argnum="2" argrole="stolen from" vncls="" vntheta=""/>
+</frameset>
+</verb>

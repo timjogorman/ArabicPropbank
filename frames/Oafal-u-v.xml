@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oafal-u</id>
+<comment/>
+<frameset cdef="" edef="to set, to go down, to sink, to disapear" id="01">
+<role argnum="1" argrole="things going down"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أفل نجم الفنان بعد الفيلم الاخير</parse>
+<comment/>
+<arg f="" g="star" n="1">نجم</arg>
+<arg f="" g="the artist" n="2">الفنان</arg>
+<arg f="tmp" g="after the last film" n="m">بعد الفيلم الاخير</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="beneficiary"/>
+</frameset>
+</verb>

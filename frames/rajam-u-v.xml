@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rajam-u</id>
+
+<frameset cdef="" edef="to stone, to throw stones at" id="01" vncls="">
+<role argnum="0" argrole="entity throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رجم الناس المرأة بالحجارة</parse>
+
+<arg f="" g="the people" n="0">الناس</arg>
+<arg f="" g="the woman" n="2">المرأة</arg>
+<arg f="" g="with rocks" n="1">بالحجارة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to divine or predict, to foretell" id="02" vncls="">
+<role argnum="0" argrole="entity predicting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رجمت العرافة بالغيب</parse>
+
+<arg f="" g="the fortune teller" n="0">العرافة</arg>
+<arg f="" g="with the unknown" n="1">بالغيب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things predicted" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

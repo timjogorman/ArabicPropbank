@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitoyat~im</id>
+<comment>EGYPTIAN ARABIC Framefile based on tayat~am-v</comment>
+<frameset cdef="" edef="become orphaned" id="01">
+<role argnum="1" argrole="entity orphaned" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>وتلك أم حزينة وأخت باكية وزوجة تأرملت وبنت تيتمت
+
+Arg 1: -None- -T-*  (بنت)</parse>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset tayat~am-v.01</comment>
+</frameset>
+</verb>

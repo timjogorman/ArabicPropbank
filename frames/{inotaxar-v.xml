@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotaxar</id>
+
+<frameset cdef="" edef="to be destroyed" id="01" vncls="">
+<role argnum="0" argrole="entity destroying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتخر الحائط بقذيفة</parse>
+
+<arg f="" g="the wall" n="1">الحائط</arg>
+<arg f="" g="with a missile" n="2">بقذيفة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing destroyed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument of destruction" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

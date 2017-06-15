@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IiTolAE</id>
+<comment/>
+<frameset cdef="" edef="informing, briefing" id="01" vncls="">
+<role argnum="0" argrole="informer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرر الأب إطلاع * أولاده على أمر طلاقه</parse>
+<comment/>
+<arg f="" g="the father" n="0">* الأب</arg>
+<arg f="" g="his children" n="1">أولاده</arg>
+<arg f="" g="about his divorce" n="2">على أمر طلاقه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="informed" vncls="" vntheta=""/>
+<role argnum="2" argrole="information, marked with على" vncls="" vntheta=""/>
+</frameset>
+</verb>

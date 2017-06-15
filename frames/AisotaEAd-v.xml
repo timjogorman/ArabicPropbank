@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotaEAd</id>
+<comment>EGYPTIAN ARABIC based on {isotaEAd</comment>
+<frameset cdef="" edef="to regain / recover" id="01" vncls="">
+<role argnum="0" argrole="entity recovering / regaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset {isotaEAd</comment>
+<role argnum="1" argrole="thing recovered" vncls="" vntheta=""/>
+</frameset>
+</verb>

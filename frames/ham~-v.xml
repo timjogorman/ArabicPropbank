@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ham~</id>
+
+    <frameset cdef="" edef="to concern or intereste" id="01" vncls="">
+<role argnum="1" argrole="entity causing concern or interesting thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="entity concerned or entity interested" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (IV3MS+IV+IVSUFF_MOOD:I يهم)
+    (NP-OBJ
+      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الادارة))
+    (S-NOM-SBJ
+      (VP
+        (NOUN.VN+CASE_DEF_NOM ابقاء)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ-1
+          (NOUN_PROP+CASE_INDEF_GEN اسرائيل))
+        (S
+          (NP-SBJ
+            (-NONE- *-1))
+          (ADJP-PRD
+            (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC بعيدة)
+            (PP
+              (PREP عن)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الحرب)))</parse>
+<arg f="" g="Keeping Israel out of the war" n="1">ابقاء اسرائيل بعيدة عن الحرب</arg>
+<arg f="" g="The administration" n="2">الادارة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset ham~-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on ham~-u</comment>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dan~-u</id>
+
+<frameset cdef="" edef="to buzz" id="01" vncls="">
+<role argnum="0" argrole="entity buzzing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دن الذباب حول رأسي</parse>
+
+<arg f="" g="the fly" n="0">الذباب</arg>
+<arg f="loc" g="around my head" n="m">حول رأسي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

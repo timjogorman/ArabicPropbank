@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>sanad</id>
+<comment>EGYPTIAN ARABIC based on sanad-u</comment>
+    <frameset cdef="" edef="to support, to rest" id="02">
+<role argnum="0" argrole="entity supporting" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>سند * الحائط باعمدة اضافية</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the wall" n="1">الحائط</arg>
+<arg f="" g="with extra bars" n="2">باعمدة اضافية</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset sanad-u.02</comment>
+<role argnum="1" argrole="entity or things supported" />
+<role argnum="2" argrole="with what" />
+</frameset>
+</verb>

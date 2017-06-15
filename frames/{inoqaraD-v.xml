@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqaraD</id>
+<comment/>
+<frameset cdef="" edef="to become extinct" id="01" vncls="">
+<role argnum="1" argrole="entity becoming extinct" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انقرض الدينصور منذ زمن بعيد</parse>
+<comment/>
+<arg f="" g="Dinosaurs" n="1">الدينصور</arg>
+<arg f="tmp" g="a long time  ago" n="m">منذ زمن بعيد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

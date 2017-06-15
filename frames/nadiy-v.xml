@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nadiy</id>
+<comment/>
+<frameset cdef="" edef="to become wet or moist" id="01" vncls="">
+<role argnum="1" argrole="entity getting wet" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ندي العشب من الضباب</parse>
+<comment/>
+<arg f="" g="the grass" n="1">العشب</arg>
+<arg f="" g="from the fog" n="2">من الضباب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to get or obtain" id="02" vncls="">
+<role argnum="0" argrole="entity getting things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما نديت * بشيء منه</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="a thing" n="1">بشيء</arg>
+<arg f="" g="from him" n="2">منه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things obtained" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

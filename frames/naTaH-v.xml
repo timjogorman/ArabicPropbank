@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>naTaH</id>
+<comment>EGYPTIAN ARABIC Framefile based on naTaH-a-v</comment>
+<frameset cdef="" edef="to butt" id="01" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>نطح الثور الطفل</parse>
+<comment />
+<arg f="" g="the bull" n="0">الثور</arg>
+<arg f="" g="the kid" n="1">الطفل</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset naTaH-a-v.01</comment>
+<role argnum="1" argrole="entity hit" vncls="" vntheta="" />
+</frameset>
+</verb>

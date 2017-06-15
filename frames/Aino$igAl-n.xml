@@ -1,0 +1,91 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aino$igAl</id>
+<comment/>
+<frameset cdef="" edef="busyness, keeping busy" id="01" vncls="">
+<role argnum="0" argrole="the busy entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NOUN كِدَه)))))
+    (CONJ وِ)
+    (S
+      (NP-TPC-2
+        (DET+NOUN النَبِيّ))
+      (PRN
+        (S
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS صَلَّى)
+              (NP-SBJ
+                (NOUN_PROP اللَّه))
+              (PP-CLR
+                (PREP عَلَى)
+                (NP
+                  (PRON_3MS ُه)))))
+          (CONJ وَ)
+          (S
+            (VP
+              (PV سَلَّم)
+              (NP-SBJ
+                (-NONE- *))))))
+      (VP
+        (TYPO كاب)
+        (VP
+          (IV3MS+IV يِحِبّ)
+          (NP-SBJ
+            (-NONE- *T*-2))
+          (NP-OBJ
+            (NOUN+NSUFF_FEM_PL زَوْجات)
+            (NP
+              (POSS_PRON_3MS ُه))))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3FS+IV تِحِبّ)
+        (NP-OBJ
+          (IVSUFF_DO:3MS ُه))
+        (NP-SBJ
+          (NOUN+NSUFF_FEM_PL زَوْجات)
+          (NP
+            (POSS_PRON_3MS ُه)))))
+    (CONJ وِ)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3MS كان)
+        (NP-3
+          (DET+NOUN النَبِي))
+        (VP
+          (IV3MS+IV يُداعِب)
+          (NP-SBJ
+            (-NONE- *T*-3))
+          (NP-OBJ
+            (NOUN+NSUFF_FEM_PL زَوْجات)
+            (NP
+              (POSS_PRON_3MS ُه)))
+          (NP-ADV
+            (NOUN مَعَ)
+            (S-NOM
+              (VP
+                (NOUN.VN إِنْشِغال)
+                (NP-SBJ
+                  (POSS_PRON_3MS ُه))
+                (PP-CLR
+                  (PREP بِ)
+                  (NP
+                    (NOUN اُمُور)
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG الأُمَّة)))))))))))
+  (S</parse>
+<comment/>
+<arg f="" g="he" n="0">ه</arg>
+<arg f="" g="the nation matters" n="1">أمور الامة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing busy with" vncls="" vntheta=""/>
+</frameset>
+</verb>

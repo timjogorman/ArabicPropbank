@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lavam-i</id>
+<comment/>
+<frameset cdef="" edef="to kiss" id="01">
+<role argnum="0" argrole="kisser"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لثم الشاب الفتاة على خدها</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الشاب</arg>
+<arg f="" g="the girl" n="1">الفتاة</arg>
+<arg f="loc" g="on her cheek" n="m">على خدها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="kissed one"/>
+</frameset>
+<frameset cdef="" edef="to cover the nose and the mouth" id="02">
+<role argnum="0" argrole="agent covering"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لثمت المرأة بالوشاح</parse>
+<comment/>
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="" g="with the scarf" n="1">بالوشاح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what"/>
+</frameset>
+</verb>

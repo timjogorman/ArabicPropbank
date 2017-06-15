@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaraT-u</id>
+<comment/>
+<frameset cdef="" edef="to  smooth or shape" id="01" vncls="">
+<role argnum="0" argrole="entity  shaping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خرط الرجل المعدن</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the metal" n="1">المعدن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things shaped" vncls="" vntheta=""/>
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+<role argnum="3" argrole="as what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to lie" id="02" vncls="">
+<role argnum="0" argrole="entity lying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خرط الرجل في حديثه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his talking" n="1">في حديثه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to hurry" id="03" vncls="">
+<role argnum="0" argrole="entity hurrying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خرط الطفل في عدوه</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="in his running" n="1">في عدوه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

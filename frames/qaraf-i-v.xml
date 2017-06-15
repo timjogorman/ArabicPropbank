@@ -1,0 +1,77 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaraf-i</id>
+<comment/>
+<frameset cdef="" edef="to lie" id="01" vncls="">
+<role argnum="0" argrole="liar" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرف الرجل في كلامه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his words" n="1">في كلامه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="lie" vncls="" vntheta=""/>
+<role argnum="2" argrole="hearer" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to commit or do" id="02" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرف الرجل الذنب</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the guilt" n="1">الذنب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things done" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to blame" id="03" vncls="">
+<role argnum="0" argrole="blamer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرف الرجل المذنب</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the guilty" n="1">المذنب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="blamed" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to peel" id="04" vncls="">
+<role argnum="0" argrole="entity peeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرف العجوز الجلد الميت عن قدمه</parse>
+<comment/>
+<arg f="" g="the old man" n="0">العجوز</arg>
+<arg f="" g="the dead skin" n="1">الجلد الميت</arg>
+<arg f="" g="from his foot" n="2">عن قدمه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things  peeled" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

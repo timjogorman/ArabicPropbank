@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Zafar-i</id>
+<comment/>
+<frameset cdef="" edef="to stick someones nail in" id="01" vncls="">
+<role argnum="0" argrole="entity sticking the nail" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ظفر الخباز العجين</parse>
+<comment/>
+<arg f="" g="the baker" n="0">الخباز</arg>
+<arg f="" g="dough" n="2">العجين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things sticked in" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to see" id="02" vncls="">
+<role argnum="0" argrole="entity seeing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما ظفرت * أخي قبل اليوم</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="my brother" n="1">أخي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things seen" vncls="" vntheta=""/>
+</frameset>
+</verb>

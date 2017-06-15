@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maqAm</id>
+<comment/>
+<frameset cdef="" edef="standing, rank" id="01" vncls="">
+<role argnum="1" argrole="entity in position" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الرجل في مقام * والدي</parse>
+<comment/>
+<arg f="" g="this man" n="1">* هذا الرجل</arg>
+<arg f="" g="my father" n="2">والدي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="the position" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="shrine , sanctuary" id="02" vncls="">
+<role argnum="1" argrole="the sanctuary of" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا هو مقام المهدي رض</parse>
+<comment/>
+<arg f="" g="Al-Mahdi" n="1">المهدي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

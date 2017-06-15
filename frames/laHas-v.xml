@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laHas</id>
+
+    <frameset cdef="" edef="to lick up" id="01" vncls="">
+<role argnum="0" argrole="entity licking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (S
+      (NP-TPC-1
+        (FOREIGN ميكى))
+      (VP
+        (PRT
+          (PROG_PART بِ))
+        (IV3MS+IV يِقُول)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (NOUN كَلام))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يِلحَس)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (IVSUFF_DO:3MS ُه))))
+    (SUB_CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يطنش)</parse>
+
+<arg f="" g="mickey" n="0">* ميكى</arg>
+<arg f="" g="it" n="1">ه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things licked" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment>Based on roleset laHis-a.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on laHis-a</comment>
+</verb>

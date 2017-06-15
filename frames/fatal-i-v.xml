@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fatal-i</id>
+<comment/>
+<frameset cdef="" edef="to twist or twine, to curl" id="01" vncls="">
+<role argnum="0" argrole="twister" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فتلت البنت شعرها</parse>
+<comment/>
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="her hair" n="1">شعرها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity twisted" vncls="" vntheta=""/>
+</frameset>
+</verb>

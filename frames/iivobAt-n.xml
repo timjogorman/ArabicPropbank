@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>iivobAt</id>
+<comment/>
+<frameset cdef="" edef="proving, confirming" id="01" vncls="">
+<role argnum="0" argrole="prover" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كل ما يهمني إثبات * الحقيقة</parse>
+<comment/>
+<arg f="" g="I" n="0">* ني</arg>
+<arg f="" g="the truth" n="1">الحقيقة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="proposition" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Daras-i</id>
+<comment/>
+<frameset cdef="" edef="to bite firmly or strongly" id="01" vncls="">
+<role argnum="0" argrole="biter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ضرس الطفل أصبعه</parse>
+<comment/>
+<arg f="" g="the baby" n="0">الطفل</arg>
+<arg f="" g="his finger" n="1">أصبعه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="bitten" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wakaZ</id>
+<comment/>
+<frameset cdef="" edef="to presist or persevere in" id="01" vncls="">
+<role argnum="0" argrole="persister" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وكظ الرجل على الأمر</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on the matter" n="1">على الأمر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

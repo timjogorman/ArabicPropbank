@@ -1,0 +1,74 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitohay~aO</id>
+
+    <frameset cdef="" edef="to be or become possible or feasible for, to be ready for" id="02" vncls="">
+<role argnum="1" argrole="entity seeing things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (PUNC ,)
+    (CONJ وِ)
+    (ADVP
+      (ADV هِنا))
+    (VP
+      (IV3MS+IV_PASS يُهَيَّأ)
+      (PP
+        (PREP لِ)
+        (NP
+          (PRON_1S ي)))
+      (SBAR-SBJ-2
+        (SUB_CONJ أَنَّ)
+        (S
+          (NP-TPC-1
+            (NOUN_QUANT كُلّ)
+            (NP
+              (NOUN مَصْرِيّ)))
+          (S
+            (VP
+              (IV3MS+IV يصِير)
+              (PP-PRD
+                (PREP مِن)
+                (NP
+                  (NOUN حَقّ)
+                  (NP
+                    (NP
+                      (POSS_PRON_3MS ُه))
+                    (NP
+                      (-NONE- *T*-1)))))
+              (SBAR-SBJ
+                (SUB_CONJ أَنْ)
+                (S
+                  (VP
+                    (IV3MS+IV يِتساءِل)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (WHADVP
+                      (INTERROG_ADV لِماذا)))))))))
+      (NP-OBJ
+        (-NONE- *-2)))
+    (PUNC ?)
+    (PUNC ?)))</parse>
+
+<arg f="" g="to me" n="1">لي</arg>
+<arg f="" g="it is his right to ask why" n="">أن كل مصري يصير من حقه أن يتسأل لماذا</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="things seen" vncls="" vntheta=""/>
+
+<comment>تأتى له‏</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on tahay~aO</comment>
+</verb>

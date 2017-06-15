@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitokas~ar</id>
+<comment/>
+<frameset cdef="" edef="to crash, to break" id="01" vncls="">
+<role argnum="0" argrole="causer of crash, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الصحن اتكسر * لقطع صغيرة</parse>
+<comment/>
+<arg f="" g="the plate" n="1">* الصحن</arg>
+<arg f="" g="into small pieces" n="2">لقطع صغيرة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity crashed" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zalaq-i</id>
+<comment/>
+<frameset cdef="" edef="to slip or stumble, to slide" id="01" vncls="">
+<role argnum="0" argrole="entity slipping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زلق الرجل على قشرة الموز</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on the banana peal" n="1">على قشرة الموز</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to look with anger" id="02" vncls="">
+<role argnum="0" argrole="entity looking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زلق الرجل أخاه ببصره</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="with his eyes" n="2">ببصره</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="at whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to Arg0" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to push away, to put aside, to distance" id="03" vncls="">
+<role argnum="0" argrole="the pusher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زلق الرجل الصورة عن الزوار</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the picture" n="1">الصورة</arg>
+<arg f="" g="from the visitors" n="2">عن الزوار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things pushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

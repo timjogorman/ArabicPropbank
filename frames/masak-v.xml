@@ -1,0 +1,80 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>masak</id>
+
+    <frameset cdef="" edef="catch, to arrest, to controll" id="01" vncls="">
+<role argnum="0" argrole="holder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الأخبار : هل يمسك الأسد بالسلطة في سوريا؟</parse>
+
+<arg f="" g="" n="0">الأسد</arg>
+<arg f="" g="the power" n="1">بالسلطة</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing held" vncls="" vntheta=""/>
+<role argnum="2" argrole="secondary attribute of arg1" vncls="" vntheta=""/>
+
+
+<comment>Based on roleset masak-u.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to rule/reign" id="02" vncls="">
+<role argnum="0" argrole="ruler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (CONJ وِ)
+    (PP
+      (PREP عَلَى)
+      (NP
+        (NOUN+NSUFF_FEM_SG فِكْرَة)))
+    (NP-TMP
+      (NOUN عُمْر))
+    (VP
+      (PRT
+        (SUB_CONJ ما))
+      (PRT
+        (FUT_PART حَ))
+      (IV3MS+IV يِمْسِك)
+      (NP-OBJ
+        (NOUN_PROP مِصْر))
+      (NP-SBJ
+        (NOUN شَخْص)
+        (ADJ مَسِيحِي))</parse>
+
+<arg f="" g="Egypt" n="1">مِصْر</arg>
+<arg f="" g="a Christian person" n="0">شَخْص مَسِيحِي</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="domain" vncls="" vntheta=""/>
+
+<comment>Based on roleset masak-u.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on masak-u</comment>
+</verb>

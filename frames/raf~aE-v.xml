@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raf~aE</id>
+<comment/>
+<frameset cdef="" edef="to make thin" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الست رفعت * حواجبها</parse>
+<comment/>
+<arg f="" g="the lady" n="0">* الست</arg>
+<arg f="" g="her eyebrows" n="1"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things msde thin" vncls="" vntheta=""/>
+</frameset>
+</verb>

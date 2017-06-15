@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munoka$if</id>
+<comment/>
+<frameset cdef="" edef="exposed or revealed" id="01" vncls="">
+<role argnum="1" argrole="entity exposed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا موضوع منكشف * للجميع</parse>
+<comment/>
+<arg f="" g="subject" n="1">* موضوع</arg>
+<arg f="" g="for all" n="2">للجميع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

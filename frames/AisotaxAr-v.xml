@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotaxAr</id>
+<comment/>
+<frameset cdef="" edef="to seek what is the best, to ask God for proper guidance" id="01" vncls="">
+<role argnum="0" argrole="entity asking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل استخار  * الله ليعمل في شركة</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="God" n="1">الله</arg>
+<arg f="" g="to work in a company" n="2">ليعمل في شركة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="from who" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to select, to pick up" id="02" vncls="">
+<role argnum="0" argrole="entity selecting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استخار المدرب الاعب المشارك في الفريق</parse>
+<comment/>
+<arg f="" g="the coach" n="0">المدرب</arg>
+<arg f="" g="the player that will play in the team" n="1">الاعب المشارك في الفريق</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="things or entity selected" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

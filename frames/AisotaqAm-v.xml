@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotaqAm</id>
+
+<frameset cdef="" edef="to become straight" id="01" vncls="">
+<role argnum="1" argrole="thing becoming straight" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استقام الرجل في حياته</parse>
+
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset {isotaqAm.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on {isotaqAm</comment>
+</verb>

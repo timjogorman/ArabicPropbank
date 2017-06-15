@@ -1,31 +1,52 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Eal~aY</id>
-    <frameset cdef="" edef="to raise" id="01">
-        <role argnum="0" argrole="the raiser"/>
-        <role argnum="1" argrole="thing raised"/>
-        <frame>
-            <example>
-                <parse>
-                    (FRAG
-                    (PP
-                    (PREP عن)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الحضيض)
-                    (CONJ و)
-                    (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يعلي)
-                    (NP-SBJ
-                    (-NONE- *)
-                    (NP-OBJ
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC راية)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الادب)
-                </parse>
-                <arg f="" g="" n="0">-NONE- *</arg>
-                <arg f="" g="the standard of literature" n="1">راية الادب</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Eal~aY</id>
+<frameset cdef="" edef="to raise" id="01" vncls="">
+<role argnum="0" argrole="the raiser" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing raised" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(FRAG
+  (PP
+    (PREP عن)
+    (NP
+      (DET+NOUN+CASE_DEF_GEN الحضيض)
+  (CONJ و)
+  (S
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يعلي)
+      (NP-SBJ
+        (-NONE- *)
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC راية)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الادب)</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="the standard of literature" n="1">راية الادب</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to unload, to take down" id="02" vncls="">
+<role argnum="0" argrole="entity unloading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>علَّى الفلاح الحمل عن الدابة</parse>
+<comment/>
+<arg f="" g="the farmer" n="0">الفلاح</arg>
+<arg f="" g="the load" n="1">الحمل</arg>
+<arg f="" g="from the animal" n="2">عن الدابة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things unloaded" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+</frameset>
 </verb>

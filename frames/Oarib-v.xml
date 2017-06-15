@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oarib</id>
+<comment/>
+<frameset cdef="" edef="to need or want" id="01" vncls="">
+<role argnum="1" argrole="entity want" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أرب الرجل إليه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to him" n="1">إليه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="things wanted" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to stick or keep to" id="02" vncls="">
+<role argnum="0" argrole="entity sticking to" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أرب التلميذ بحب القراءة</parse>
+<comment/>
+<arg f="" g="the student" n="0">التلميذ</arg>
+<arg f="" g="in loving reading" n="1">بحب القراءة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

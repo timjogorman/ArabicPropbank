@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IiHosAs</id>
+<comment/>
+<frameset cdef="" edef="feeling, sensation" id="01" vncls="">
+<role argnum="0" argrole="feeler, person experiencing emotion" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ فَ)
+    (NP-SBJ
+      (DEM_PRON_MS دَه))
+    (NP-ADV
+      (NOUN أَكِيد))
+    (PP-PRD
+      (PREP مِن)
+      (S-NOM
+        (VP
+          (NOUN.VN إِحْساس)
+          (NP-SBJ
+            (POSS_PRON_3MS ُه))
+          (PP-CLR
+            (PREP بِ)
+            (NP
+              (DET+NOUN النَقْص))))))
+    (NP-ADV
+      (ADJP
+        (PRT
+          (NEG_PART مِش))
+        (ADJ_COMP أَكْثَر)))))</parse>
+<comment/>
+<arg f="" g="him" n="0">ه</arg>
+<arg f="" g="shortage" n="1">بالنقص</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="emotion or sensation" vncls="" vntheta=""/>
+<role argnum="2" argrole="entity towards or for whom the emotion is" vncls="" vntheta=""/>
+</frameset>
+</verb>

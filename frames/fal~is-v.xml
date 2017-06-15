@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fal~is</id>
+<comment/>
+<frameset cdef="" edef="to have no money, to be broke, declare bankrupt or insolvent" id="01" vncls="">
+<role argnum="1" argrole="entity broke" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا فلست * في أول الشهر</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="tmp" g="in the fbrgining of the month" n="m">في أول الشهر</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

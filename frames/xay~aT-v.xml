@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xay~aT</id>
+<comment/>
+<frameset cdef="" edef="to sew or stich" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو اللي خيط * بدلة العرس لي</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="the wedding dress" n="1">بدلة العرس</arg>
+<arg f="" g="for me" n="3">لي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things made" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<role argnum="3" argrole="for whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

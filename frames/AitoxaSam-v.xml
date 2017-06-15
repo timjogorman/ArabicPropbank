@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoxaSam</id>
+<comment>EGYPTIAN ARABIC Framefile based on xaSam-v</comment>
+    <frameset cdef="" edef="to discount, to deduct" id="01" vncls="">
+<role argnum="0" argrole="discounter" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>خصم البائع خمسة دنانير من سعر القميص</parse>
+<comment />
+<arg f="" g="seller" n="0">البائع</arg>
+<arg f="" g="five dinars" n="2">خمسة دنانير</arg>
+<arg f="" g="from the shirt price" n="1">من سعر القميص</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset xaSam-i.01
+Based on roleset xaSam-v.01</comment>
+<role argnum="1" argrole="commodity" vncls="" vntheta="" />
+<role argnum="2" argrole="EXT, amount of reduction" vncls="" vntheta="" />
+<role argnum="3" argrole="start point" vncls="" vntheta="" />
+<role argnum="4" argrole="end point" vncls="" vntheta="" />
+</frameset>
+</verb>

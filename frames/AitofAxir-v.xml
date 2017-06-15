@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitofAxir</id>
+<comment/>
+<frameset cdef="" edef="boast of , be proud of" id="01" vncls="">
+<role argnum="0" argrole="boaster" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نحن نتفاخر * بأعمالنا</parse>
+<comment/>
+<arg f="" g="we" n="0">نحن</arg>
+<arg f="" g="with our acts" n="1">بأعمالنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing proud of" vncls="" vntheta=""/>
+</frameset>
+</verb>

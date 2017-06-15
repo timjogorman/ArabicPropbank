@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>magad</id>
+<comment/>
+<frameset cdef="" edef="to pluck out, to pull out" id="01" vncls="">
+<role argnum="0" argrole="entity pulling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مغد الرجل الشعر من رأس صاحبه بيديه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the hair" n="1">الشعر</arg>
+<arg f="" g="from his friend's head" n="2">من رأس صاحبه</arg>
+<arg f="" g="with his hands" n="3">بيديه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things pulled" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to live in comfort and luxury, to become fat" id="02" vncls="">
+<role argnum="1" argrole="entity comfort" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مغد الرجل في ناعم العيش</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="in good life" n="2">في ناعم العيش</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to suck or sip" id="03" vncls="">
+<role argnum="0" argrole="entity sipping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مغد الرجل الشراب من الكأس</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the drink" n="1">الشراب</arg>
+<arg f="" g="from the drinking glass" n="2">من الكأس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things sipped" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

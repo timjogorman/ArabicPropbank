@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tafas~aH</id>
+<comment/>
+<frameset cdef="" edef="to go for a picnic, to walk outside" id="01" vncls="">
+<role argnum="0" argrole="entity walking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا خارجة أتفسح * في الريف</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="in the country side" n="1">في الريف</arg>
+</example>
+<comment>ARZ</comment>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

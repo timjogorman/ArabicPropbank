@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eanoqad</id>
+
+<frameset cdef="" edef="to cluster" id="01" vncls="">
+
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عنقد البرعم</parse>
+
+<comment/>
+<arg f="" g="the burgeon" n="1">البرعم</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity clustered" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

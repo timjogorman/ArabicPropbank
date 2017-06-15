@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miEaS~ab</id>
+<comment/>
+<frameset cdef="" edef="innervated" id="01" vncls="">
+<role argnum="0" argrole="aggravator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا معصب * من الكلام ده</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="from what is said" n="0">من الكلام ده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="aggravated" vncls="" vntheta=""/>
+</frameset>
+</verb>

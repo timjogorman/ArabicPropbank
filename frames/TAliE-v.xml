@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TAliE</id>
+
+    <frameset cdef="" edef="to read" id="02" vncls="">
+<role argnum="0" argrole="reader" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing read" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>كنت اطالع * كتاب ريمون اده " جمهورية الضمير " للاستاذ نقولا ناصيف</parse>
+<arg f="" g="I" n="0">*</arg>
+<arg f="" g="Rimon Adde's book &quot;The Republic of Conscience&quot; by prof. Nicola Naasif" n="1">كتاب ريمون اده " جمهورية الضمير " للاستاذ نقولا ناصيف</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on TAlaE</comment>
+</verb>

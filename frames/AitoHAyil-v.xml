@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoHAyil</id>
+<comment>EGYPTIAN ARABIC</comment>
+<frameset cdef="" edef="to invoke" id="01" vncls="">
+<role argnum="0" argrole="invoker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>يعنى انا بالعافية اتحايلت على بتاع القسم إن هو يدينى !إيهي</parse>
+
+<arg f="" g="I" n="0">ت</arg>
+<arg f="" g="department man" n="1">على بتاع القسم</arg>
+<arg f="" g="to give me what?" n="2">إن هو يدينى</arg>
+<comment/>
+</example>
+
+
+</frame>
+
+<role argnum="1" argrole="invoked entity    (marked by  على)" vncls="" vntheta=""/>
+<role argnum="2" argrole="a request" vncls="" vntheta=""/>
+
+</frameset>
+
+</verb>

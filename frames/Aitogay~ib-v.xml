@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitogay~ib</id>
+
+<frameset cdef="" edef="to stay away, to take away" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>غيبت الأم الألعاب عن أولادها حتى انتهاء الامتحانات</parse>
+
+<arg f="" g="mother" n="0">الأم</arg>
+<arg f="" g="games" n="1">الألعاب</arg>
+<arg f="" g="from her children" n="2">عن أولادها</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="thing stayed away" vncls="" vntheta="" />
+<role argnum="2" argrole="away from" vncls="" vntheta="" />
+<comment>Based on roleset gay~ab-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on gay~ab-v</comment>
+</verb>

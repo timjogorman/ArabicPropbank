@@ -1,0 +1,73 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Hajar</id>
+<comment>EGYPTIAN ARABIC Framefile based on Hajar-u</comment>
+<frameset cdef="" edef="to limit someone's legal competence, to place under guardianship" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-ADV
+        (NOUN خَلاص))
+      (VP
+        (IV3MS+IV يِبْقَى)
+        (SBAR-SBJ
+          (-NONE- 0)
+          (S
+            (PP-TMP
+              (PREP مِن)
+              (NP
+                (DET+ADJ الأَوَّل)))
+            (NP-TPC-1
+              (X
+                (NO_FUNC محدش)))
+            (VP
+              (IV3MS+IV يحجِر)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (PP
+                (PREP عَلَى)
+                (NP
+                  (NOUN رَأْي)
+                  (NP
+                    (NOUN حَدّ)))))))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يِقُول)
+        (NP-SBJ
+          (-NONE- *))
+        (S
+          (VP
+            (CV+CVSUFF_SUBJ:2MS خَلِّي)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ-2
+              (NP
+                (DET+NOUN الرَأْي))
+              (CONJ وِ)
+              (NP
+                (DET+NOUN الرَأْي)
+                (DET+ADJ الآخَر)))
+            (S
+              (VP
+                (IV3MS+IV يِنْفَع)
+                (NP-SBJ
+                  (-NONE- *-2))
+                (NP-OBJ
+                  (IVSUFF_DO:2MS َك))))))))))</parse>
+<comment />
+<arg f="" g="nobody" n="0">*T* -1 محدش</arg>
+<arg f="" g="on someones opinion" n="1">على رأي حد</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Hajar-u.01</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta="" />
+<role argnum="2" argrole="where" vncls="" vntheta="" />
+</frameset>
+</verb>

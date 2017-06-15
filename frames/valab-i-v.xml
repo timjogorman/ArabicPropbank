@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>valab-i</id>
+<comment/>
+<frameset cdef="" edef="to criticize or blame, to curse" id="01" vncls="">
+<role argnum="0" argrole="blamer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ثلب الرجل ابنه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his son" n="1">ابنه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="blamed" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to drive away or out, to expel" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ثلب المعلم الطالب من الصف</parse>
+<comment/>
+<arg f="" g="the teacher" n="0">المعلم</arg>
+<arg f="" g="the student" n="1">الطالب</arg>
+<arg f="" g="from the class" n="2">من الصف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity expeled" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+</frameset>
+</verb>

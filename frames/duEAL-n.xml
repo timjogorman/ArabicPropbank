@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>duEAL</id>
+
+<frameset cdef="" edef="call, prayer , invocation (of God), supplication, imprecation, curse" id="01" vncls="">
+<role argnum="1" argrole="caller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كان ساقطا على وجهه اثناء دعائه الى الله من اجل ابنائه</parse>
+
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="to God" n="2">الى الله</arg>
+<arg f="" g="for his sons" n="3">من اجل ابنائه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="called" vncls="" vntheta=""/>
+<role argnum="3" argrole="for what/whom" vncls="" vntheta=""/>
+<role argnum="4" argrole="attributed to ARG 3" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

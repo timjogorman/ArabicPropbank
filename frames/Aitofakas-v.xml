@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitofakas</id>
+
+<frameset cdef="" edef="to be sent as a fax" id="01" vncls="">
+<role argnum="0" argrole="sender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الرسالة اتفكست * لي من صاحبي</parse>
+
+<arg f="" g="the letter" n="1">* الرسالة</arg>
+<arg f="" g="to me" n="2">لي</arg>
+<arg f="" g="from my friend" n="0">من صاحبي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the fax" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

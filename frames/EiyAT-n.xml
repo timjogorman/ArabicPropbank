@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EiyAT</id>
+<comment/>
+<frameset cdef="" edef="to shout, to yell, to cry" id="01" vncls="">
+<role argnum="0" argrole="entity shouting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عياط  الأم على أولادها كان واصل لأخر السما</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="at her kids" n="1">على أولادها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

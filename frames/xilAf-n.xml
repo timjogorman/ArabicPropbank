@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xilAf</id>
+<comment/>
+<frameset cdef="" edef="disagreement, conflict" id="01" vncls="">
+<role argnum="1" argrole="entity disagreeing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حدث خلاف بين الأب وابنه حول السيارة</parse>
+<comment/>
+<arg f="" g="the father" n="1">الأب</arg>
+<arg f="" g="and his son" n="2">وابنه</arg>
+<arg f="" g="about the car" n="3">حول السيارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="about" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="opposite, other than" id="02" vncls="">
+<role argnum="1" argrole="things opposite" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما يحدث هو خلاف * ما اتفقنا عليه حول السيارة</parse>
+<comment/>
+<arg f="" g="what is happening" n="1">* ما يحدث هو</arg>
+<arg f="" g="what we agreed about" n="2">ما اتفقنا عليه</arg>
+<arg f="" g="about the car" n="3">حول السيارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="second thing" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

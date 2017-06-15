@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sAH-i</id>
+<comment/>
+<frameset cdef="" edef="to melt" id="01" vncls="">
+<role argnum="1" argrole="things melted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ساح التلج من الحرارة</parse>
+<comment/>
+<arg f="" g="the Ice" n="1">التلج</arg>
+<arg f="cau" g="because of the heat" n="m">من الحرارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to flow, to run, to stream" id="02" vncls="">
+<role argnum="0" argrole="entity running" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ساح الماء من قمة التلة الى النهر</parse>
+<comment/>
+<arg f="" g="the water" n="0">الماء</arg>
+<arg f="" g="from the top of the hill" n="1">من قمة التلة</arg>
+<arg f="" g="to the river" n="2">الى النهر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to tour or travel" id="03" vncls="">
+<role argnum="0" argrole="entity traveling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ساح الرجل في البلاد مشيا على الاقدام</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in the country" n="1">في البلاد</arg>
+<arg f="" g="walking" n="2">مشيا على الاقدام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+<role argnum="2" argrole="how, method" vncls="" vntheta=""/>
+</frameset>
+</verb>

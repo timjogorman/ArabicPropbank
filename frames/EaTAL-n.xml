@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EaTAL</id>
+<comment/>
+<frameset cdef="" edef="gift, present, giving" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عطاء الناس من المال للفقراء كان عظيما</parse>
+<comment/>
+<arg f="" g="the people" n="0">الناس</arg>
+<arg f="" g="from the money" n="1">من المال</arg>
+<arg f="" g="to the poor" n="2">للفقراء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things given" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

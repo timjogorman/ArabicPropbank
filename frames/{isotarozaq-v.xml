@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotarozaq</id>
+
+<frameset cdef="" edef="to ask for sustenance" id="01" vncls="">
+<role argnum="0" argrole="the asker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اِسْتَرْزَقَ العَبْدُ رَبَّهُ</parse>
+
+<arg f="" g="the servant" n="0">العَبْدُ</arg>
+<arg f="" g="his lord" n="1">رَبَّهُ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity  asked" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

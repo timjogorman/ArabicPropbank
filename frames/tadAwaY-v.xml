@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tadAwaY</id>
+<comment/>
+<frameset cdef="" edef="to be treated, to treat oneself, to take the medicine" id="01">
+<role argnum="0" argrole="entity being treated"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تداوى المريض بالاعشاب</parse>
+<comment/>
+<arg f="" g="the patient" n="0">المريض</arg>
+<arg f="" g="with herbs" n="1">بالاعشاب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what"/>
+</frameset>
+</verb>

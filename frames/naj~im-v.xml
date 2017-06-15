@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naj~im</id>
+<comment/>
+<frameset cdef="" edef="to practice astrology, to tell the future" id="01" vncls="">
+<role argnum="0" argrole="entity telling the future" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (PP-PRP
+    (PREP عَلَى)
+    (NP
+      (NOUN شان)
+      (S
+        (VP
+          (PRT
+            (NEG_PART ما))
+          (IV3MS+IV يِسِيب)
+          (NP-SBJ
+            (-NONE- *))
+          (NP-OBJ
+            (IVSUFF_DO:1P نا))
+          (PRT
+            (NEG_PART ش))
+          (PP
+            (PREP لِ)
+            (NP
+              (NOUN ظُنُونّ)
+              (NP
+                (POSS_PRON_1P نا))))))))
+  (S
+    (NP-TPC-1
+      (PRON_1P إِحْنا))
+    (ADVP
+      (ADV بَرْضُه))
+    (VP
+      (PRT
+        (NEG_PART مِش))
+      (PRT
+        (PROG_PART بِ))
+      (IV1P+IV نِنَجِّم)
+      (NP-SBJ
+        (-NONE- *T*-1)))))</parse>
+<comment/>
+<arg f="" g="we" n="0">*T* -1 إِحْنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lamoHap</id>
+
+<frameset cdef="" edef="a look/glance" id="01" vncls="">
+<role argnum="0" argrole="looker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse/>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="looked at" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="attribute of the glance" vncls="" vntheta=""/>
+</frameset>
+<comment>Based on verb lamaH-a</comment>
+</verb>

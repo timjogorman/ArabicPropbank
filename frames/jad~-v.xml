@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jad~</id>
+
+<frameset cdef="" edef="to strive" id="01" vncls="">
+<role argnum="0" argrole="Agent/Entity Trying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جد الولد لينال اللقب</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="to get the title" n="1">لينال اللقب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing tried" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="occure newly" id="02" vncls="">
+<role argnum="1" argrole="things happening" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الكل يتحدث عن ما جد * في هذا الموضوع</parse>
+
+<arg f="" g="NONE" n="1">*? NONE</arg>
+<arg f="" g="in this subject" n="2">في هذا الموضوع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

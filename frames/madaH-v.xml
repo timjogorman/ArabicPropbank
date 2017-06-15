@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>madaH</id>
+<comment>EGYPTIAN ARABIC Framefile based on madaH-a-v</comment>
+<frameset cdef="" edef="to praise or commend" id="01" vncls="">
+<role argnum="0" argrole="entity praising" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>مدحت الزوجة زوجها على أفكاره</parse>
+<comment />
+<arg f="" g="the wife" n="0">الزوجة</arg>
+<arg f="" g="her husband" n="1">زوجها</arg>
+<arg f="" g="for his thoughts" n="2">على أفكاره</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset madaH-a-v.01</comment>
+<role argnum="1" argrole="entity praised" vncls="" vntheta="" />
+<role argnum="2" argrole="for what" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>DaEaf</id>
+<comment/>
+<frameset cdef="" edef="to become weak" id="01" vncls="">
+<role argnum="1" argrole="entity becoming weakHkh" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا ضعفت * بعد المرض</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="tmp" g="after the sikness" n="m">بعد المرض</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+</frameset>
+</verb>

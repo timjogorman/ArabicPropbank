@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tabAsaT</id>
+<comment/>
+<frameset cdef="" edef="to be nice or kind to, to be  friendly to, to be simple or uncomplicated" id="01" vncls="">
+<role argnum="0" argrole="entity being nice" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يا أخي  تباسط * مع حياتك تكن بسيطه</parse>
+<comment/>
+<arg f="" g="my brother" n="0">* يا أخي</arg>
+<arg f="" g="with your life" n="1">مع حياتك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

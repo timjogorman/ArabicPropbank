@@ -1,0 +1,113 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotAhil</id>
+<comment/>
+<frameset cdef="" edef="to deserve or merit" id="01" vncls="">
+<role argnum="1" argrole="entity deserved" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-SBJ
+        (PRON_3P هُمَّ))
+      (ADJP-PRD
+        (ADJ+NSUFF_MASC_PL غَلطانِين)))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3P+IV+IVSUFF_SUBJ:P يِستاهلُوا)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR-NOM-OBJ
+          (WHNP-1
+            (REL_PRON اللِي))
+          (S
+            (VP
+              (IV3MS+IV يِجْرا)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (PP
+                (PREP لِ)
+                (NP
+                  (PRON_3P هُم)))
+              (PP-PRP
+                (PREP لِ)
+                (SBAR
+                  (SUB_CONJ أَنّ)
+                  (S
+                    (VP
+                      (X
+                        (NO_FUNC مفيش))
+                      (NP-SBJ
+                        (NP
+                          (NOUN+NSUFF_FEM_SG حاجَة))
+                        (SBAR
+                          (WHNP-2
+                            (-NONE- 0))
+                          (S
+                            (NP-SBJ
+                              (NOUN ٱِسْم)
+                              (NP
+                                (NP
+                                  (POSS_PRON_3FS ها))
+                                (NP
+                                  (-NONE- *T*-2))))
+                            (NP-PRD
+                              (NOUN إِقْتْحام)
+                              (NP
+                                (DET+NOUN+NSUFF_FEM_SG الداخِلِيَّة))))))))))))))))
+  (S
+    (NP-SBJ
+      (NP
+        (DEM_PRON_MS دا))
+      (NP
+        (NOUN ٱِسْم)
+        (NP
+          (POSS_PRON_3MS ُه))))
+    (NP-PRD
+      (NOUN إِسْتِهْبال)))
+  (S
+    (SBAR-ADV
+      (PRT
+        (PART حَتَّى))
+      (SUB_CONJ لَو)
+      (S
+        (NP-SBJ
+          (DET+NOUN+NSUFF_FEM_SG الداخِلِيَّة))
+        (ADJP-PRD
+          (ADJ+NSUFF_FEM_SG قَذِرَة))))
+    (VP
+      (X
+        (NO_FUNC مفيش))
+      (NP-SBJ
+        (NP
+          (NOUN+NSUFF_FEM_SG حاجَة))
+        (SBAR
+          (WHNP-4
+            (-NONE- 0))
+          (S
+            (NP-SBJ
+              (NOUN ٱِسْم)
+              (NP
+                (NP
+                  (POSS_PRON_3FS ها))
+                (NP
+                  (-NONE- *T*-4))))
+            (NP-PRD
+              (NOUN إِقْتِحام)
+              (CONJ وَلّا)
+              (NOUN+NSUFF_FEM_SG بَلْطَجَة))))))))</parse>
+<comment/>
+<arg f="" g="them" n="1">* هُم</arg>
+<arg f="" g="what happens to them" n="2">اللي يجرالهم</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="what" vncls="" vntheta=""/>
+</frameset>
+</verb>

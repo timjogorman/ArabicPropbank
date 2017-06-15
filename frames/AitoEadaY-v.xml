@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEadaY</id>
+<comment/>
+<frameset cdef="" edef="to be infected" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الطفل اتعدى * من اخواته</parse>
+<comment/>
+<arg f="" g="the baby" n="1">* الطفل</arg>
+<arg f="" g="from his brothers" n="0">من اخواته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity infected" vncls="" vntheta=""/>
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+</frameset>
+</verb>

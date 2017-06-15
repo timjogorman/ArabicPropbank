@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitosaH~ar</id>
+<comment/>
+<frameset cdef="" edef="eat the 'suhhur', eating at fasting ramadan" id="01" vncls="">
+<role argnum="0" argrole="entity eating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كلنا نتسحر * النهاردة سوة</parse>
+<comment/>
+<arg f="" g="all of us" n="0">* كلنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+</frameset>
+</verb>

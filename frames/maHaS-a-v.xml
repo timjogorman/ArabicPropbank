@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maHaS-a</id>
+<comment/>
+<frameset cdef="" edef="to purify" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>محص الرجل الذهب في النار</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the gold" n="1">الذهب</arg>
+<arg f="" g="in the fire" n="2">في النار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things purified" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to throw or cast" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>محص الرجل بأخيه ارضا</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">بأخيه</arg>
+<arg f="" g="on the floor" n="2">ارضا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

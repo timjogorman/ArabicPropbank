@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ilotimAs</id>
+<comment/>
+<frameset cdef="" edef="request, plea" id="01" vncls="">
+<role argnum="0" argrole="entity asking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما يحدث الأن هو التماس بعض الطلبة من مدرسهم بأعادة الامتحان</parse>
+<comment/>
+<arg f="" g="some students" n="0">بعض الطلبة</arg>
+<arg f="" g="from their teacher" n="1">من مدرسهم</arg>
+<arg f="" g="to repeat the test" n="2">من مدرسهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="asking for" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to find excuse" id="02" vncls="">
+<role argnum="0" argrole="entity finding excuse" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the excuse" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

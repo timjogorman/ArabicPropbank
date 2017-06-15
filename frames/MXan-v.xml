@@ -1,28 +1,69 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>MXan</id>
-    
-    <frameset cdef="" edef="to foreshadow, portend" id="01">
-        <role argnum="1" argrole="thing portending"/>
-        <frame>
-            <mapping>
-                
-                <comment/>
-            </mapping>
-            <example>
-                <parse>بدأنا الاستعداد للرحيل عندما آذنت شمس الأصيل بالغروب</parse>
-                
-                <comment/>
-                <arg f="" g="afternoon sun" n="0">شمس الأصيل</arg>
-                <arg f="" g="with sunset" n="2">بالغروب</arg>
-            </example>
-            
-            <comment/>
-        </frame>
-        
-        <role argnum="2" argrole="sign"/>
-        <role argnum="3" argrole="portend for  (marked by ب)"/>
-        <comment/>
-    </frameset>
-    <comment/>
+<id>MXan</id>
+
+<frameset cdef="" edef="to foreshadow, portend" id="01" vncls="">
+<role argnum="1" argrole="thing portending" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>بدأنا الاستعداد للرحيل عندما آذنت شمس الأصيل بالغروب</parse>
+
+
+<arg f="" g="afternoon sun" n="1">شمس الأصيل</arg>
+<arg f="" g="with sunset" n="2">بالغروب</arg>
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="sign" vncls="" vntheta=""/>
+<role argnum="3" argrole="portend for  (marked by ب)" vncls="" vntheta=""/>
+
+
+
+<comment/>
+</frameset>
+
+
+<frameset cdef="" edef="to inform of or notify" id="02" vncls="">
+<role argnum="0" argrole="informer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>آذن المؤذن بالصلاة</parse>
+
+<arg f="" g="one who calls for prayer" n="0">المؤذن</arg>
+<arg f="" g="with prayer" n="1">بالصلاة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="subject" vncls="" vntheta=""/>
+<role argnum="2" argrole="beneficiary" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

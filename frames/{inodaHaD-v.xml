@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodaHaD</id>
+
+<frameset cdef="" edef="to be ineffective and opposed from achieving apurpose" id="01" vncls="">
+<role argnum="1" argrole="entity ineffective" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اندحضت التهمة بالدلائل</parse>
+
+<arg f="" g="the charge" n="1">التهمة</arg>
+<arg f="" g="with evidences" n="2">بالدلائل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="how , instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

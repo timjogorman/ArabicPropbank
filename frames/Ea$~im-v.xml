@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ea$~im</id>
+<comment/>
+<frameset cdef="" edef="to rise or give hope" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو قاعد يعشم * ها بالزواج</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="she" n="1">ها</arg>
+<arg f="" g="with marriage" n="2">بالزواج</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="reciever" vncls="" vntheta=""/>
+<role argnum="2" argrole="things given" vncls="" vntheta=""/>
+</frameset>
+</verb>

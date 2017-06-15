@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>magaT-a</id>
+
+<frameset cdef="" edef="to stretch or expand" id="01" vncls="">
+<role argnum="0" argrole="entity stretching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مغط الرجل القوس</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the bow" n="1">القوس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things stretched" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

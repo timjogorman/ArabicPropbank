@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taromiym</id>
+<comment/>
+<frameset cdef="" edef="repair or mending, reparation" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قررت المدرسة ترمييم * الصفوف</parse>
+<comment/>
+<arg f="" g="the school" n="0">* المدرسة</arg>
+<arg f="" g="the classes" n="1">الصفوف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things repaired" vncls="" vntheta=""/>
+</frameset>
+</verb>

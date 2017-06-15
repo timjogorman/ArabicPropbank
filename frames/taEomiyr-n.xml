@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEomiyr</id>
+<comment/>
+<frameset cdef="" edef="to build" id="01" vncls="">
+<role argnum="0" argrole="entity building" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قررت الأدارة تعمير * القسم المتهدم من البناية بحجر أحمر</parse>
+<comment/>
+<arg f="" g="the manegment" n="0">* الأدارة</arg>
+<arg f="" g="the destroyed part of the building" n="1">القسم المتهدم من البناية</arg>
+<arg f="" g="with red rocks" n="2">بحجر أحمر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things built" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

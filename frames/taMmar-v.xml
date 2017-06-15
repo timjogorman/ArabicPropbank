@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taMmar</id>
+<comment/>
+<frameset cdef="" edef="to plot or conspire, to confer" id="01" vncls="">
+<role argnum="0" argrole="entity conspiring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تأمر الرجل مع أخيه ضد والده</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with his brother" n="1">مع أخيه</arg>
+<arg f="" g="against his father" n="3">ضد والده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+<role argnum="3" argrole="aginst whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

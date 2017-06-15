@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dalodal</id>
+
+<frameset cdef="" edef="to cause to be dengled" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دلدل الولد الحبل على الأرض</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="the rope" n="1">الحبل</arg>
+<arg f="" g="on the graound" n="2">على الأرض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity dangling" vncls="" vntheta=""/>
+<role argnum="2" argrole="place" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

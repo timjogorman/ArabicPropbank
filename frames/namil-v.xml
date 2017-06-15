@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>namil</id>
+<comment/>
+<frameset cdef="" edef="to prickle or tingle, to become numb" id="01" vncls="">
+<role argnum="1" argrole="entity getting numb" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نملت قدمه من الجلوس</parse>
+<comment/>
+<arg f="" g="his foot" n="">قدمه</arg>
+<arg f="" g="from sitting" n="">من الجلوس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

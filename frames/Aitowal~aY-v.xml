@@ -1,0 +1,111 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitowal~aY</id>
+<frameset cdef="" edef="to take charge of or to seize control" id="01" vncls="">
+<role argnum="0" argrole="the entity in charge or control" vncls="" vntheta=""/>
+<role argnum="1" argrole="the thing taken charge of or controlled" vncls="" vntheta=""/>
+<frame>
+
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+<comment/>
+</mapping>
+<example>
+<parse>و ليس * هناك من استثناءات وستتولى القوى الامنية , من جيش وقوى امن داخلي وامن عام و جهاز امن الدولة تنفيذ تلك الاجراءات , .
+بمشاركة جميع القوات البرية و البحرية و الجوية</parse>
+<arg f="" g="the security forces" n="0">القوى الامنية</arg>
+<arg f="" g="implementing those measures" n="1">تنفيذ تلك الاجراءات</arg>
+<arg f="mnr" g="by having the army, navy, and airforce participate" n="m">بمشاركة جميع القوات البرية و البحرية و الجوية</arg>
+<V/>
+
+<comment/>
+</example>
+
+<comment>استولى / وضع يده على</comment>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="To assume,hold" id="02" vncls="">
+<role argnum="1" argrole="entity acquiring something" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing being acquired" vncls="" vntheta=""/>
+<frame>
+
+<example>
+<parse>(VP
+    (PV+PVSUFF_SUBJ:3MS كان)
+    (NP-2
+      (NP
+        (DET+NOUN+CASE_DEF_NOM الرئيس)
+        (DET+ADJ+CASE_DEF_NOM الباكستاني))
+      (SBAR
+        (WHNP-1
+          (REL_PRON الذي))
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS تولى)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC السلطة))
+            (NP-TMP
+              (NOUN+CASE_DEF_ACC عام)
+              (NP
+                (NOUN_NUM 1999)))</parse>
+<arg f="" g="He" n="1">-NONE- *T*-1&lt;الرئيس الباكستاني</arg>
+<arg f="" g="Governance" n="2">السلطة</arg>
+<arg f="tmp" g="at 1999" n="m">عام 1999</arg>
+
+<comment/>
+</example>
+
+<comment>أخذ على عاتقه</comment>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to turn away from, to avoid" id="03" vncls="">
+<role argnum="0" argrole="entity turning away" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تولى * عنهم وقال يا اسفا على يوسف</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="from them" n="1">عنهم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from whom or what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to take care" id="04" vncls="">
+<role argnum="0" argrole="entity taking care" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الله يتولى * نا برحمته</parse>
+<comment/>
+<arg f="" g="GOD" n="0">* الله</arg>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="with his mercy" n="2">برحمته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity took care of" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

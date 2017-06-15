@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitoram~il</id>
+<comment/>
+<frameset cdef="" edef="to lose one's wife" id="01" vncls="">
+<role argnum="1" argrole="entity losing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل اترمل * بعد خمس سنوات زواج</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

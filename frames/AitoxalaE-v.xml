@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoxalaE</id>
+<comment>EGYPTIAN ARABIC Framefile based on {inoxalaE-v</comment>
+<frameset cdef="" edef="to dislocate,to be luxated, to be disjointed" id="01">
+<role argnum="1" argrole="things dislocated" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>انخلغ كتف أخي عندما سقط من فوق الحصان</parse>
+<comment />
+<arg f="" g="shoulder" n="1">كتف</arg>
+<arg f="" g="my brother" n="2">أخي</arg>
+<arg f="tmp" g="when he fell from the horse" n="m">عندما سقط من فوق الحصان</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {inoxalaE-v.01</comment>
+<role argnum="2" argrole="from whom or from what" />
+</frameset>
+<frameset cdef="" edef="to leave from, to run away" id="02">
+<role argnum="0" argrole="entity running" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>قلت  لأخويا انخلع * من قدامي قبل ما اقتلك</parse>
+<comment />
+<arg f="" g="my brother" n="0">* لأخويا</arg>
+<arg f="" g="from the front of" n="2">من قدام</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {inoxalaE-v.02</comment>
+<role argnum="1" argrole="from whom or from what" />
+<role argnum="2" argrole="start point" />
+<role argnum="3" argrole="final distination" />
+</frameset>
+<frameset cdef="" edef="to be scared (multi word expression)" id="03">
+<role argnum="0" argrole="entity scared" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>انخلع قلبي من الحادث</parse>
+<comment />
+<arg f="" g="my heart" n="0">قلبي</arg>
+<arg f="" g="from the accident" n="1">من الحادث</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {inoxalaE-v.03</comment>
+<role argnum="1" argrole="from what" />
+</frameset>
+</verb>

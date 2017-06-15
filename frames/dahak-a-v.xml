@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dahak-a</id>
+
+<frameset cdef="" edef="to crush or grind, to smash" id="01" vncls="">
+<role argnum="0" argrole="entity crushing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دهك الرجل الحبوب بالمطحنة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the grains" n="1">الحبوب</arg>
+<arg f="" g="with the grinder" n="2">بالمطحنة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things crushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to separate or part" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دهك الفلاح الحبوب بيديه</parse>
+<comment/>
+<arg f="" g="the farmer" n="0">الفلاح</arg>
+<arg f="" g="the grain" n="1">الحبوب</arg>
+<arg f="" g="with his hands" n="3">بيديه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things separated" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what (if not included in ARG1)" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,40 +1,42 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>mAzaH</id>
-    <frameset cdef="" edef="To tease" id="01">
-        <role argnum="0" argrole="agent, teaser"/>
-        <role argnum="1" argrole="patient, teased"/>
-        <role argnum="2" argrole="about what"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (ADVP
-                    (ADV ربما))
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS كان)
-                    (NP-5
-                    (DEM_PRON_MP هؤلاء))
-                    (VP
-                    (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يظنون)
-                    (NP-SBJ
-                    (-NONE- *T*-5))
-                    (SBAR
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (NP-TPC-6
-                    (NOUN_PROP واشنطن))
-                    (VP
-                    (IV3FS+IV+IVSUFF_MOOD:I تمازح)
-                    (NP-SBJ
-                    (-NONE- *T*-6))
-                    (NP-OBJ
-                    (NOUN_PROP+CASE_DEF_ACC بغداد)))))
-                </parse>
-                <arg f="" g="It" n="0">-NONE- *T*-6&amp;lt;واشنطن</arg>
-                <arg f="" g="Baghdad" n="1">بغداد</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>mAzaH</id>
+<frameset cdef="" edef="To tease" id="01" vncls="HaAdava-1">
+<role argnum="0" argrole="agent, teaser" vncls="HaAdava-1" vntheta="actor1"/>
+<role argnum="1" argrole="patient, teased" vncls="HaAdava-1" vntheta="actor2"/>
+<role argnum="2" argrole="about what" vncls="HaAdava-1" vntheta="topic"/>
+<frame>
+<example>
+<parse>(S
+                              (ADVP
+                                (ADV ربما))
+                              (VP
+                                (PV+PVSUFF_SUBJ:3MS كان)
+                                (NP-5
+                                  (DEM_PRON_MP هؤلاء))
+                                (VP
+                                  (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يظنون)
+                                  (NP-SBJ
+                                    (-NONE- *T*-5))
+                                  (SBAR
+                                    (SBAR
+                                      (SUB_CONJ ان)
+                                      (S
+                                        (NP-TPC-6
+                                          (NOUN_PROP واشنطن))
+                                        (VP
+                                          (IV3FS+IV+IVSUFF_MOOD:I تمازح)
+                                          (NP-SBJ
+                                            (-NONE- *T*-6))
+                                          (NP-OBJ
+                                            (NOUN_PROP+CASE_DEF_ACC بغداد)))))</parse>
+<arg f="" g="It" n="0">-NONE- *T*-6&lt;واشنطن</arg>
+<arg f="" g="Baghdad" n="1">بغداد</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
 </verb>

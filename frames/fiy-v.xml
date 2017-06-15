@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fiy</id>
+<comment/>
+<frameset cdef="" edef="to exist" id="01" vncls="">
+<role argnum="1" argrole="entity exist" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما في حاجة نعملها</parse>
+<comment/>
+<arg f="" g="things for us to do" n="1">حاجة نعملها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to Arg1" vncls="" vntheta=""/>
+</frameset>
+</verb>

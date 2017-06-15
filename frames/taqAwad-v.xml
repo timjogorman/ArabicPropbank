@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqAwad</id>
+<comment/>
+<frameset cdef="" edef="to lead or guide" id="01" vncls="">
+<role argnum="0" argrole="entity leading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقاود الرجلان</parse>
+<comment/>
+<arg f="" g="the two men" n="0">الرجلان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity led" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whaere or to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

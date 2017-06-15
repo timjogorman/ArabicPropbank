@@ -1,24 +1,57 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>rax~aS</id>
-    <comment/>
-    <frameset cdef="" edef="to cheapen" id="01">
-        <role argnum="0" argrole="causer, agent"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>ترخص المحال الأسعار في الأعياد</parse>
-                <comment/>
-                <arg f="" g="shops" n="0">المحال</arg>
-                <arg f="" g="prices" n="1">الأسعار</arg>
-                <arg f="" g="in holidays" n="2">في الأعياد</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment>رخص الأسعار</comment>
-        <role argnum="1" argrole="thing losing value"/>
-        <role argnum="2" argrole="instrument"/>
-    </frameset>
+<id>rax~aS</id>
+
+<frameset cdef="" edef="to cheapen" id="01" vncls="">
+<role argnum="0" argrole="causer, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ترخص المحال الأسعار في الأعياد</parse>
+
+<arg f="" g="shops" n="0">المحال</arg>
+<arg f="" g="prices" n="1">الأسعار</arg>
+<arg f="" g="in holidays" n="2">في الأعياد</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing losing value" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+
+<comment>رخص الأسعار</comment>
+</frameset>
+
+<frameset cdef="" edef="to authorize, to licenseو  to allow" id="02" vncls="">
+<role argnum="0" argrole="allower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رخص لهم البواب الدخول الى المبنى</parse>
+
+<arg f="" g="for them" n="1">لهم</arg>
+<arg f="" g="the doorman" n="0">البواب</arg>
+<arg f="" g="entering the building" n="2">الدخول الى المبنى</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity allowed" vncls="" vntheta=""/>
+<role argnum="2" argrole="to do what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

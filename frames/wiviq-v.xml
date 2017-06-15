@@ -1,0 +1,16 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>wiviq</id>
+<frameset cdef="" edef="To trust" id="01">
+<role argnum="0" argrole="truster" />
+<role argnum="1" argrole="trusted" />
+<frame>
+<example>
+<parse>
+هذه ليست **-2 سياستنا الخارجية ولا نزال * نثق * بقدرة شرطتنا الوطنية وجيشنا على مواجهة هذه المخاطر &quot; .
+</parse>
+<arg f="" g="we" n="0">*-</arg>
+<arg f="" g="the ability of our national police and army" n="1">بقدرة شرطتنا الوطنية وجيشنا</arg>
+</example>
+</frame>
+<comment>Based on roleset waviq-ia.01</comment></frameset>
+<comment>Framefile based on waviq-ia</comment></verb>

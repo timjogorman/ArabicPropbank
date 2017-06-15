@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eaniy</id>
+<comment/>
+<frameset cdef="" edef="to take care of, to look after" id="01" vncls="">
+<role argnum="0" argrole="entity taking care" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عني الرجل بالأمر</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with the matter" n="1">بالأمر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="of what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to get tired" id="02" vncls="">
+<role argnum="1" argrole="entity getting tired" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عني العامل من الشغل</parse>
+<comment/>
+<arg f="" g="the worker" n="1">العامل</arg>
+<arg f="" g="from work" n="2">من الشغل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

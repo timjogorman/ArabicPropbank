@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aixotazal</id>
+<frameset cdef="" edef="to summarize, to delete" id="01" vncls="">
+<role argnum="0" argrole="editor, summarizer, agent" vncls="" vntheta="" />
+<role argnum="1" argrole="thing summarized" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (PP
+    (PREP ب)
+    (NP
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN عبارة)
+        (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN مختصرة)
+        (PUNC ,)
+        (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN حادة))
+      (PUNC ,)
+      (SBAR
+        (WHNP-1
+          (-NONE- 0))
+        (S
+          (VP
+            (IV3FS+IV+IVSUFF_MOOD:I تختزل)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC عبقرية)
+              (NP
+                (NOUN+CASE_DEF_GEN مؤلف)
+                (NP
+                  (POSS_PRON_3FS ها)))))))))
+  (PUNC ,)</parse>
+<arg f="" g="-NONE- &lt; A concise and severe word" n="0">*T*-1&lt;عبارة مختصرة حادة</arg>
+<arg f="" g="The genius of its composer" n="1">عبقرية مؤلفها</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {ixotazal.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on {ixotazal</comment>
+</verb>

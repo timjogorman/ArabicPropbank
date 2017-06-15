@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xal~aS</id>
+
+<frameset cdef="" edef="to finish, to end" id="01" vncls="">
+<role argnum="0" argrole="entity finishing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ده اخويا خلص * الكتاب في يومين</parse>
+
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="the book" n="1">الكتاب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things finished" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to save" id="02" vncls="jar~ada-1">
+<role argnum="0" argrole="savior" vncls="jar~ada-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ده اخويا هو اللي خلص * ني من الموت</parse>
+
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="me" n="1">ني</arg>
+<arg f="" g="from death" n="2">من الموت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="saved one" vncls="jar~ada-1" vntheta="theme"/>
+<role argnum="2" argrole="from what" vncls="jar~ada-1" vntheta="source"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Xab~-i</id>
+<comment/>
+<frameset cdef="" edef="to become dry and to wither" id="01">
+<role argnum="1" argrole="entity getting dry"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ذبت شفته من العطش</parse>
+<comment/>
+<arg f="" g="his lips" n="1">شفته</arg>
+<arg f="cau" g="from thirst" n="m">من العطش</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

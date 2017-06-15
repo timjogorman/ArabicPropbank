@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muraj~aH</id>
+<frameset cdef="" edef="likely, probable" id="01" vncls="">
+<role argnum="1" argrole="things that are likely" vncls="" vntheta=""/>
+
+<frame>
+<example>
+<parse>من المرجح ان يفوز الفريق العراقي بالبطولة</parse>
+<arg f="" g="to win" n="2">ان يفوز</arg>
+<comment/>
+<arg f="" g="the Iraqi team" n="1">الفريق العراقي</arg>
+</example>
+<comment/>
+<example>
+<parse>الفريق العراقي هو المرجح * للفوز بالبطولة</parse>
+<comment/>
+<arg f="" g="the Iraqi team" n="1">* الفريق العراقي</arg>
+<arg f="" g="to win the championship" n="">للفوز بالبطولة</arg>
+</example>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

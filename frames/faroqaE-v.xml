@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faroqaE</id>
+
+<frameset cdef="" edef="to crackle" id="01" vncls="">
+
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فرقع الرجل أصابعه</parse>
+
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his fingers" n="1">أصابعه</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="0" argrole="entity cracking" vncls="" vntheta=""/>
+<role argnum="1" argrole="things cracked" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to blow or explode" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فرقع الرجل البيت</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things exploded" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

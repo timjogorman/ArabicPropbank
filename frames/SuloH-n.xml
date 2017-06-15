@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SuloH</id>
+<comment/>
+<frameset cdef="" edef="peace, reconciliation" id="01" vncls="">
+<role argnum="0" argrole="the reconciler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم الصلح بين الأب وأبنه على يد الجد</parse>
+<comment/>
+<arg f="" g="the father" n="1">الأب</arg>
+<arg f="" g="and his son" n="2">وأبنه</arg>
+<arg f="" g="by the grandfather" n="0">على يد الجد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the reconciled" vncls="" vntheta=""/>
+<role argnum="2" argrole="reconciled to/with" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

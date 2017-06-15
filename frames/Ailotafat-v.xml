@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ailotafat</id>
+<comment>Egyptian Arabic based on {ilotafat</comment>
+<frameset cdef="" edef="to turn one's head towards" id="01" vncls="">
+<role argnum="0" argrole="entity turning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>roleset based on {ilotafat.01</comment>
+<role argnum="1" argrole="direction" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to pay attention" id="02" vncls="">
+<role argnum="0" argrole="attentitive entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>based on roleset {ilotafat.02</comment>
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

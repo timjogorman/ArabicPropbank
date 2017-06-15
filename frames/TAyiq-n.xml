@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>TAyiq</id>
+<comment>EGYPTIAN ARABIC based on TAq-i
+Framefile based on TAq</comment>
+    <frameset cdef="" edef="to bear, to stand, to tolerate" id="01">
+<role argnum="0" argrole="entity bearing" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>لم يطق المتهم صبرا فنهض مستغيثا</parse>
+<comment />
+<arg f="" g="accused" n="0">المتهم</arg>
+<arg f="" g="patience" n="1">صبرا</arg>
+</example>
+<comment />
+</frame>
+<comment>تحملَّ
+Based on roleset TAq-i.01
+Based on roleset TAq.01</comment>
+<role argnum="1" argrole="bearing what" />
+</frameset>
+</verb>

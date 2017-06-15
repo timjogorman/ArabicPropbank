@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lam~-u</id>
+
+<frameset cdef="" edef="to collect, to gather" id="01" vncls="">
+<role argnum="0" argrole="entity gathering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ده هو لم * كل حاجة بتاعته من البيت</parse>
+
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="everything" n="1">كل حاجة</arg>
+<arg f="" g="he ownes" n="2">بتاعته</arg>
+<arg f="" g="from the house" n="3">من البيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things gathered" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="from where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="Idiomatic expression (to stop)" id="02" vncls="">
+<role argnum="0" argrole="stopper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment>ARZ</comment>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="stopped" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

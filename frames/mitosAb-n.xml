@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>mitosAb</id>
+<comment>EGYPTIAN ARABIC Framefile based on sAb-v</comment>
+    <frameset cdef="" edef="leave, to let, to let go" id="01" vncls="">
+<role argnum="0" argrole="leaver" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>لا مرحتش الفرح الصراحة اختك مش قادرة * اسيبها</parse>
+
+<arg f="" g="I" n="0">*</arg>
+<arg f="" g="she" n="1">ها</arg>
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="forsaken" vncls="" vntheta="" />
+
+<role argnum="2" argrole="attributed to ARG 1" vncls="" vntheta="" />
+<comment>Based on roleset sAb-i.01
+Based on roleset sAb-v.01</comment>
+</frameset>
+
+</verb>

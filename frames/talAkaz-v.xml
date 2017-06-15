@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>talAkaz</id>
+<comment/>
+<frameset cdef="" edef="to strike with the fist" id="01" vncls="">
+<role argnum="0" argrole="entity hitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلاكز الشخصان</parse>
+<comment/>
+<arg f="" g="the two people" n="0">الشخصان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>XaEat</id>
+<comment/>
+<frameset cdef="" edef="to strangle, to choke to death" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ذعت الرجل عدوه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his enemy" n="1">عدوه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

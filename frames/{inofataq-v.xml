@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofataq</id>
+
+<frameset cdef="" edef="to become splited, open , ripped" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انفتق بطن الثور بالسكين</parse>
+
+<arg f="" g="the cow's stomach" n="1">بطن الثور</arg>
+<arg f="" g="with aknife" n="2">بالسكين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity splited" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

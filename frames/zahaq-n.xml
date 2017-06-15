@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zahaq</id>
+<comment/>
+<frameset cdef="" edef="annoyance, boredom" id="01" vncls="">
+<role argnum="1" argrole="entity  boring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (NOUN.VN زَهَق)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-ADV
+        (ADJ اَوِي)))))</parse>
+<comment/>
+<arg f="" g="NONE" n="1">*? NONE</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

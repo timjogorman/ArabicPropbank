@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ougorim</id>
+<comment/>
+<frameset cdef="" edef="to become very fond of" id="01" vncls="">
+<role argnum="0" argrole="entity loving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(VP
+        (PV_PASS+PVSUFF_SUBJ:3FS أُغْرَمِت)
+        (NP-SBJ-1
+          (-NONE- *))
+        (NP-OBJ
+          (-NONE- *-1))
+        (PP
+          (PREP بِ)
+          (NP
+            (NP
+              (DEM_PRON_F هٰذِهِ))
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG الكِلْمَة))))))
+    (SUB_CONJ فَ)
+    (S
+      (NP-TPC-3
+        (PRON_3FS هِيَّ))
+      (VP
+        (PRT
+          (NEG_PART لا))
+        (IV3FS+IV تِسَمَع)
+        (NP-SBJ
+          (-NONE- *T*-3))
+        (NP-OBJ
+          (IVSUFF_DO:3FS ها))
+        (PP
+          (PRT
+            (PREP إِلّا))
+          (PREP فِي)
+          (NP
+            (DET+NOUN الافْلام)
+            (CONJ وَ)
+            (DET+NOUN+NSUFF_FEM_PL المُسَلْسَلات)))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="with this word" n="1">بهذه الكلمة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity loved" vncls="" vntheta=""/>
+</frameset>
+</verb>

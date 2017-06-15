@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zihiq</id>
+
+<frameset cdef="" edef="to be bored with" id="01" vncls="">
+<role argnum="0" argrole="entity bored" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>إسكت لسه محطوطة على قلبى خلاص زهقت* و و الحرارة دلوقتى بقت فظيعة و الزيت بينقط</parse>
+
+<arg f="" g="I" n="0">*</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with what? (marked with من)" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to die (multi word expression)" id="02" vncls="">
+<role argnum="1" argrole="entity dying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زهقت روح الولد</parse>
+<comment/>
+<arg f="" g="spirit" n="2">روح</arg>
+<arg f="" g="the boy" n="1">الولد</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="attribute to ARG1 (Mostly روحه)" vncls="" vntheta=""/>
+</frameset>
+</verb>

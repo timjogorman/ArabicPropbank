@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AaEAX</id>
+<comment>EGYPTIAN ARABIC based on OaEAX</comment>
+<frameset cdef="" edef="to pray that god protect someone" id="01">
+<role argnum="0" argrole="protector ( mostly God )"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أعاذنا الله وإياكم من هذا</parse>
+<comment/>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="from this" n="2">من هذا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity protected"/>
+<role argnum="2" argrole="from what"/>
+</frameset>
+</verb>

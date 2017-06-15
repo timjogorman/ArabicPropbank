@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoHa$ar</id>
+<comment/>
+<frameset cdef="" edef="to interfere, to get stuck between" id="01" vncls="">
+<role argnum="0" argrole="entity interfering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صباعه اتحشرت * بين الباب والحيطة</parse>
+<comment/>
+<arg f="" g="his finger" n="0">صباعه</arg>
+<arg f="" g="between the door" n="1">بين الباب</arg>
+<arg f="" g="and the door" n="2">والحيطة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<role argnum="2" argrole="second thind if separated from ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

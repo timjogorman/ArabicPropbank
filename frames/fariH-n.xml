@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fariH</id>
+<comment/>
+<frameset cdef="" edef="happy" id="01" vncls="">
+<role argnum="0" argrole="entity happy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>S
+    (VP
+      (CV+CVSUFF_SUBJ:2P اِدْعُوا)
+      (NP-SBJ
+        (-NONE- *))
+      (SBAR
+        (SBAR
+          (SUB_CONJ إِنّ)
+          (S
+            (VP
+              (IV3MS+IV يِلْقَى)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NOUN أَخُو)
+                (NP
+                  (POSS_PRON_3MS ُه)))
+              (PP
+                (PREP عَلَى)
+                (NP
+                  (NOUN خِير)))
+              (S-ADV
+                (S
+                  (VP
+                    (ADJ.VN+NSUFF_MASC_PL فَرِحِين)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (PP
+                      (PREP بِ)
+                      (SBAR-NOM
+                        (WHNP-1
+                          (SUB_CONJ ما))
+                        (S
+                          (VP
+                            (PV+PVSUFF_SUBJ:3MS آتا)
+                            (NP-DTV
+                              (PVSUFF_DO:3MP هُم))
+                            (NP-SBJ
+                              (NOUN_PROP اللَّه))
+                            (NP-OBJ
+                              (-NONE- *T*-1)))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="with what God gave them" n="1">بما اتاهم الله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

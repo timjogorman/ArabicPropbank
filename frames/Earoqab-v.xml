@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Earoqab</id>
+
+<frameset cdef="" edef="to cause to fall down by obstruct one's leg with something" id="01" vncls="">
+<role argnum="0" argrole="entity obstructing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عرقب الولد لأبيه باللعبة</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="his father" n="1">لأبيه</arg>
+<arg f="" g="with the toy" n="2">باللعبة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity falling down" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

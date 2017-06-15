@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaEoTaY</id>
+
+<frameset cdef="" edef="to ask for help, to seek charity" id="01" vncls="">
+<role argnum="0" argrole="the seeker for help" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>يستعطي * صدقةً من أحد الأثرياء</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="charity" n="1">صدقةً</arg>
+<arg f="" g="from one of the rich" n="2">من أحد الأثرياء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing needed" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

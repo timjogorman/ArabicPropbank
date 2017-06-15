@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$AT</id>
+<comment/>
+<frameset cdef="" edef="to kick" id="01" vncls="">
+<role argnum="0" argrole="kicker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الواد شاط * الكورة برجله في الجول</parse>
+<comment/>
+<arg f="" g="the boy" n="0">* الواد</arg>
+<arg f="" g="the ball" n="1">الكورة</arg>
+<arg f="" g="with his foot" n="2">برجله</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things kicked" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="be burned" id="02" vncls="">
+<role argnum="1" argrole="things burned" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الأكل شاط * على النار</parse>
+<comment/>
+<arg f="" g="the food" n="1">* الأكل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

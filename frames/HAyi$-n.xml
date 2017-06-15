@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HAyi$</id>
+<comment/>
+<frameset cdef="" edef="to stop, to prvente" id="01" vncls="">
+<role argnum="0" argrole="stopper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو ده اللي حايش * ك عننا</parse>
+<comment/>
+<arg f="" g="is that" n="0">* هو ده</arg>
+<arg f="" g="you" n="1">ك</arg>
+<arg f="" g="from us" n="2">عننا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity stopped" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

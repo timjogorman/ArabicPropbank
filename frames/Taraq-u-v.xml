@@ -1,45 +1,137 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Taraq-u</id>
-    <frameset cdef="" edef="to knock" id="01">
-        <role argnum="0" argrole="the knocker"/>
-        <role argnum="1" argrole="thing knocked on"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (S
-                    (VP
+<id>Taraq-u</id>
+<frameset cdef="" edef="to knock" id="01" vncls="">
+<role argnum="0" argrole="the knocker" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing knocked on" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+                (S
+                  (VP
                     (PV+PVSUFF_SUBJ:3MS طرق)
                     (NP-SBJ
-                    (-NONE- *))
+                      (-NONE- *))
                     (NP-OBJ
-                    (NOUN+CASE_DEF_ACC باب)
-                    (NP
-                    (NP
-                    (DET+NOUN+NSUFF_MASC_PL_GEN المسؤولين))
-                    (ADJP
-                    (DET+ADJ الاعلى)
-                    (PP
-                    (PREP من)
-                    (NP
-                    (PRON_3MS ه))))))))
-                    (CONJ ف)
-                    (S
-                    (VP
+                      (NOUN+CASE_DEF_ACC باب)
+                      (NP
+                        (NP
+                          (DET+NOUN+NSUFF_MASC_PL_GEN المسؤولين))
+                        (ADJP
+                          (DET+ADJ الاعلى)
+                          (PP
+                            (PREP من)
+                            (NP
+                              (PRON_3MS ه))))))))
+                (CONJ ف)
+                (S
+                  (VP
                     (PRT
-                    (NEG_PART لم))
+                      (NEG_PART لم))
                     (IV3MS+IV+IVSUFF_MOOD:J يلق)
                     (NP-SBJ
-                    (-NONE- *))
+                      (-NONE- *))
                     (NP-OBJ
-                    (NOUN+CASE_INDEF_ACC آذانا)
-                    (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC صاغية)))))))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="" n="0">-NONE- *</arg>
-                <arg f="" g="the door of senior officials" n="1">باب المسؤولين الأعلى منه</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (NOUN+CASE_INDEF_ACC آذانا)
+                      (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC صاغية)))))))))))
+  (PUNC .))</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="the door of senior officials" n="1">باب المسؤولين الأعلى منه</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="hammering, stricking" id="02" vncls="">
+<role argnum="0" argrole="entity hamering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>طرق العامل الحديد بقوة</parse>
+
+<arg f="" g="the worker" n="0">العامل</arg>
+<arg f="" g="the iron" n="1">الحديد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things hammered" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to bring up, to touch up (multi word expression)" id="03" vncls="">
+<role argnum="0" argrole="talker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>طرق المدير موضوعا جديدا مع العمال في الاجتماع</parse>
+
+<arg f="" g="the manager" n="0">المدير</arg>
+<arg f="" g="new subject" n="1">موضوعا جديدا</arg>
+<arg f="" g="with the workers" n="2">مع العمال</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="subject" vncls="" vntheta=""/>
+<role argnum="2" argrole="listner" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to hear, to reach his ears (multi word expression)" id="04" vncls="">
+<role argnum="1" argrole="hearer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>طرق سمعه اخبار من الاهل عن وفاة والده</parse>
+
+<arg f="" g="his hearing or his ears" n="1">سمعه</arg>
+<arg f="" g="news from his family" n="2">اخبار من الاهل</arg>
+<arg f="" g="about the death of his father" n="3">عن وفاة والده</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="news" vncls="" vntheta=""/>
+<role argnum="2" argrole="subject" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to slap or hit" id="05" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طرق الولد صاحبه على وجهه</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<arg f="" g="on his face" n="2">على وجهه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
 </verb>

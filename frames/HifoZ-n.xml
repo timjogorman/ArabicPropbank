@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HifoZ</id>
+<comment/>
+<frameset cdef="" edef="keep, protect, preserve" id="01" vncls="">
+<role argnum="0" argrole="the protector" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم حفظ الكتب من الضياع</parse>
+<comment/>
+<arg f="" g="the books" n="1">الكتب</arg>
+<arg f="" g="from getting lost" n="2">من الضياع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity being protected" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to memorize" id="02" vncls="">
+<role argnum="0" argrole="the entity memorizing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الطالب بحفظ * اربع قصائد</parse>
+<comment/>
+<arg f="" g="the student" n="0">* الطالب</arg>
+<arg f="" g="four poems" n="1">اربع قصائد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing memorized" vncls="" vntheta=""/>
+</frameset>
+</verb>

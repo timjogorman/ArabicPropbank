@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>huduwL</id>
+<comment/>
+<frameset cdef="" edef="calm down , quiet" id="01" vncls="">
+<role argnum="1" argrole="entity becoming calm" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لاحظت هدوء الاطفال بعد دخول والدهم</parse>
+<comment/>
+<arg f="" g="the kids" n="1">الاطفال</arg>
+<arg f="tmp" g="after the coming of their father" n="m">بعد دخول والدهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

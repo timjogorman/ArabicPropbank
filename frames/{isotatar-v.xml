@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotatar</id>
+<comment/>
+<frameset cdef="" edef="to hide, to seek protection, to cover oneself" id="01" vncls="">
+<role argnum="0" argrole="entity hiding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استتر الجنود بالاشجار من العدو</parse>
+<comment/>
+<arg f="" g="soldiers" n="0">الجنود</arg>
+<arg f="" g="with the trees" n="1">بالاشجار</arg>
+<arg f="" g="from the enemy" n="2">من العدو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom or what" vncls="" vntheta=""/>
+</frameset>
+</verb>

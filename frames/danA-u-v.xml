@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>danA-u</id>
+<comment/>
+<frameset cdef="" edef="to approach, to come, to draw near" id="01">
+<role argnum="0" argrole="entity approching"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دنا * منها ليكلمها</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="from her" n="1">منها</arg>
+<arg f="prp" g="to talk to her" n="m">ليكلمها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity approched"/>
+</frameset>
+<frameset cdef="" edef="to be near or close" id="02">
+<role argnum="1" argrole="things becoming near"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دنا أجله</parse>
+<comment/>
+<arg f="" g="moment of death" n="1">أجل</arg>
+<arg f="" g="he" n="0">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="benefactive"/>
+</frameset>
+</verb>

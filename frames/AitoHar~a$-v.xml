@@ -1,0 +1,95 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoHar~a$</id>
+<comment/>
+<frameset cdef="" edef="to molest,to provoke" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SQ
+    (SQ
+      (CONJ وَ)
+      (NP-TPC-1
+        (NP
+          (NP
+            (PRON_3P هُمَّ))
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG الشُرْطَة)))
+        (NP
+          (NP
+            (DET+ADJ+NSUFF_FEM_SG الزِبالَة))
+          (NP
+            (DEM_PRON_FS دِي))))
+      (VP
+        (PRT
+          (FUT_PART حَ))
+        (IV3FS+IV تِتْكِسِف)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (PP
+          (PREP مِن)
+          (NP
+            (PRON_3P هُم)))
+        (NP-ADV
+          (NOUN قَوِي))))
+    (CONJ وَلّا)
+    (SQ
+      (VP
+        (PRT
+          (FUT_PART حَ))
+        (IV3FS+IV تِعْمِل)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP لِ)
+          (NP
+            (PRON_3P هُم)))
+        (NP-OBJ
+          (NOUN حِساب)))))
+  (S
+    (S
+      (PP
+        (PREP بِ)
+        (NP
+          (DET+NOUN العَكْس)))
+      (NP-TPC-2
+        (DEM_PRON_P دَول))
+      (VP
+        (PRT
+          (FUT_PART حَ))
+        (IV3P+IV+IVSUFF_SUBJ:P يِستَهْبِلُوا)
+        (NP-SBJ
+          (-NONE- *T*-2))
+        (NP-ADV
+          (ADJ_COMP أَكْثَر))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يِمْكِن)
+        (SBAR-SBJ
+          (-NONE- 0)
+          (S
+            (VP
+              (IV3P+IV+IVSUFF_SUBJ:P يِتحَرَّشُوا)
+              (NP-SBJ
+                (-NONE- *))
+              (PP
+                (PREP بِ)
+                (NP
+                  (PRON_3P هُم)))
+              (ADVP
+                (ADV كَمان)))))))))</parse>
+<comment/>
+<arg f="" g="the police" n="0">الشُرْطَة</arg>
+<arg f="" g="with them" n="1">بهم</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

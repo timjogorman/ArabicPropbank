@@ -1,0 +1,67 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotixofAf</id>
+<comment/>
+<frameset cdef="" edef="disparaging, making light of" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SQ
+    (NP-SBJ
+      (PRON_3FS هِيَّ))
+    (ADJP-PRD
+      (ADJ+NSUFF_FEM_SG ناقْصَة)
+      (NP
+        (NP
+          (NOUN+NSUFF_FEM_SG مَسْخَرَة))
+        (CONJ وِ)
+        (S-NOM
+          (VP
+            (NOUN.VN اِسْتِخْفاف)
+            (NP-SBJ
+              (-NONE- *))
+            (PP-CLR
+              (PREP بِ)
+              (NP
+                (NOUN عُقُول)
+                (NP
+                  (DET+NOUN البَشَر)))))))))
+  (SQ
+    (NP-SBJ
+      (PRON_3FS هِيَّ))
+    (ADJP-PRD
+      (ADJ+NSUFF_FEM_SG ناقْصَة)
+      (NP
+        (NP
+          (NOUN بَلاوِي))
+        (ADJP
+          (ADJ_COMP أَكثَر)
+          (PP
+            (PREP مِن)
+            (SBAR-NOM
+              (WHNP-1
+                (REL_PRON اللِّي))
+              (S
+                (NP-SBJ
+                  (DET+NOUN الشَباب))
+                (PP-PRD
+                  (PREP فِي)
+                  (NP
+                    (NP
+                      (PRON_3MS ه))
+                    (NP
+                      (-NONE- *T*-1))))))))))))</parse>
+<comment/>
+<arg f="" g="she" n="0">* هِيَّ</arg>
+<arg f="" g="with human brain" n="1">بعقول البشر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

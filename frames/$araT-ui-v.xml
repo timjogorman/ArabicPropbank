@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$araT-ui</id>
+
+<frameset cdef="" edef="to slash, to cut" id="01" vncls="">
+<role argnum="0" argrole="entity splitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شرطت أخته الثوب أربع قطع</parse>
+
+<arg f="" g="his sister" n="0">أخته</arg>
+<arg f="" g="the fabric" n="1">الثوب</arg>
+<arg f="" g="into 4 pieces" n="2">أربع قطع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things torn" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to Arg 1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to impose a condition" id="02" vncls="">
+<role argnum="0" argrole="requirer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شرط الرجل على المشتري الدفع نقدا لبيع سيارته</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on the buyer" n="2">على المشتري</arg>
+<arg f="" g="to pay cash" n="1">الدفع نقدا</arg>
+<arg f="" g="to sell his car" n="3">لبيع سيارته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing required" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="concession" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

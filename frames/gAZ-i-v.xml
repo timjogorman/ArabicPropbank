@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gAZ-i</id>
+<comment/>
+<frameset cdef="" edef="to enrage, to anger" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غاظ الطالب معلمه بتصرفاته</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="his teacher" n="1">معلمه</arg>
+<arg f="" g="with his actions" n="2">بتصرفاته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity getting angry" vncls="" vntheta=""/>
+<role argnum="2" argrole="reason of anger" vncls="" vntheta=""/>
+</frameset>
+</verb>

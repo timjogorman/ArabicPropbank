@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitowas~im</id>
+<comment>EGYPTIAN ARABIC Framefile based on tawas~am-v</comment>
+<frameset cdef="" edef="to see promising signs in" id="01" vncls="">
+<role argnum="0" argrole="entity expecting" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>توسم الرجل في أخيه الخير</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his brother" n="1">في أخيه</arg>
+<arg f="" g="the good" n="2" />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset tawas~am-v.01</comment>
+<role argnum="1" argrole="things expected (usualy الخير)" vncls="" vntheta="" />
+<role argnum="2" argrole="in whom" vncls="" vntheta="" />
+</frameset>
+</verb>

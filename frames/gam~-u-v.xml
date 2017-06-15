@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gam~-u</id>
+<comment/>
+<frameset cdef="" edef="to cover, to conceal" id="01">
+<role argnum="0" argrole="entity covering"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صوموا لرؤيته وأفطروا لرؤيته فإن غمَّ * عليكم فأكملوا عدة شعبان ثلاثين يوماً</parse>
+<comment/>
+<arg f="" g="NONE" n="1">*? NONE</arg>
+<arg f="" g="on you" n="2">عليكم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity covered"/>
+<role argnum="2" argrole="from whom"/>
+</frameset>
+<frameset cdef="" edef="to grieve, to sadden" id="02">
+<role argnum="0" argrole="causer"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غم * عائلته بسبب أعماله</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="his family" n="1">عائلته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity grieved"/>
+</frameset>
+</verb>

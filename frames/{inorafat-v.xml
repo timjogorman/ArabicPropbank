@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inorafat</id>
+
+<frameset cdef="" edef="to be cracked or broke into pieces" id="01" vncls="">
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انرفت الزجاج بالرصاص</parse>
+
+<arg f="" g="the glass" n="1">الزجاج</arg>
+<arg f="" g="with a bullet" n="2">بالرصاص</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity cracked" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

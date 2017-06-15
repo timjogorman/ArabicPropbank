@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>darak</id>
+<comment/>
+<frameset cdef="" edef="to catch up with" id="01" vncls="">
+<role argnum="0" argrole="entity catching with" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>درك الطالب باص المدرسة</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="the school's bus" n="1">باص المدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

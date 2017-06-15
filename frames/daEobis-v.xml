@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daEobis</id>
+<comment/>
+<frameset cdef="" edef="to search for, looking around" id="01" vncls="">
+<role argnum="0" argrole="entity looking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا بدعبس * على حاجة أكلها</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="for something to eat" n="1">على حاجة أكلها</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

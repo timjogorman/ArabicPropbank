@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aaw~il</id>
+<comment/>
+<frameset cdef="" edef="first" id="01" vncls="">
+<role argnum="1" argrole="entity first" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قلتله أول * البس هدومك</parse>
+<comment/>
+<arg f="" g="NONE" n="1">* ? NONE</arg>
+<arg f="" g="put on your clothes" n="2">البس هدومك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what or to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

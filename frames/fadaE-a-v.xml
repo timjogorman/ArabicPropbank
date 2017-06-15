@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fadaE-a</id>
+<comment/>
+<frameset cdef="" edef="to break or smash, to fracture" id="01" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فدع الولد رأس صديقه بالحجر</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الولد</arg>
+<arg f="" g="his friend's head" n="1">رأس صديقه</arg>
+<arg f="" g="with a rock" n="2">بالحجر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

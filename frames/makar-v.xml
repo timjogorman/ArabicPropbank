@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>makar</id>
+<comment>EGYPTIAN ARABIC based on makar-u</comment>
+    <frameset cdef="" edef="to deceive, to delude" id="01">
+<role argnum="0" argrole="deceiver" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>مكر الرجل باخوته</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brothers" n="1">باخوته</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset makar-u.01</comment>
+<role argnum="1" argrole="deceived one" />
+</frameset>
+</verb>

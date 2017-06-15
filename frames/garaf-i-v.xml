@@ -1,24 +1,30 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>garaf-i</id>
-    <comment/>
-    <frameset cdef="" edef="to sweep, sweep" id="01">
-        <role argnum="0" argrole="cause of motion"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>جرف الفيضان الأراضي</parse>
-                <comment/>
-                <arg f="" g="flood" n="0">الفيضان</arg>
-                <arg f="" g="Land" n="1">الأراضي</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="thing in motion"/>
-        <role argnum="2" argrole="location, path"/>
-        <role argnum="3" argrole="destination"/>
-    </frameset>
+<id>garaf-i</id>
+
+<frameset cdef="" edef="to ladle, scoop up" id="01" vncls="">
+<role argnum="0" argrole="scooper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>غرفت * الأكل بالمغرفة</parse>
+
+<arg f="" g="she" n="0">*</arg>
+<arg f="" g="the food" n="1">الأكل</arg>
+<comment/>
+<arg f="" g="with a ladle" n="2">بالمغرفة</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing scooped" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<comment/>
 </verb>

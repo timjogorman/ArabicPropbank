@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ihotadaY</id>
+<comment/>
+<frameset cdef="" edef="to be rightly guided, to be on the right way, to find" id="01">
+<role argnum="1" argrole="entity guided"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اهتدى أخي الى الله عن طريق صديقه</parse>
+<comment/>
+<arg f="" g="my brother" n="1">أخي</arg>
+<arg f="" g="to God" n="2">الى الله</arg>
+<arg f="" g="through his friend" n="3">عن طريق صديقه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what"/>
+<role argnum="3" argrole="instrument"/>
+</frameset>
+</verb>

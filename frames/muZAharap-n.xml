@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muZAharap</id>
+<comment/>
+<frameset cdef="" edef="domenatration" id="01" vncls="">
+<role argnum="0" argrole="demonstrator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مظاهرة الشعب لتأخر الراتب</parse>
+<comment/>
+<arg f="" g="demonstrator" n="0">الشعب</arg>
+<arg f="" g="cause" n="1">لتأخر الراتب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

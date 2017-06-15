@@ -1,0 +1,100 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kAd</id>
+
+    <frameset cdef="" edef="to be on the point of / to be just about" id="01" vncls="">
+<role argnum="1" argrole="thing beeing on the point of" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute of arg1" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+<comment/>
+</mapping>
+<example>
+<parse>(NP
+            (NOUN+CASE_DEF_GEN تثبيت)
+            (NP
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الخطاب)
+                (DET+ADJ+CASE_DEF_GEN السياسي))
+              (SBAR
+                (WHNP-1
+                  (REL_PRON الذي))
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3MS كاد)
+                    (NP-SBJ
+                      (-NONE- *T*-1))
+                    (S
+                      (VP
+                        (IV3MS+IV+IVSUFF_MOOD:I يتهاوى)
+                        (NP-SBJ
+                          (-NONE- *-1))</parse>
+<arg f="" g="It" n="1">-NONE- *-1&lt;الخطاب السياسي</arg>
+<arg f="" g="to collapse" n="2">يتهاوى</arg>
+<V/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset kAd-a.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on kAd-a</comment>
+<frameset cdef="" edef="to plot or conspire against" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-TPC-1
+        (NP
+          (DET+NOUN+NSUFF_MASC_PL المُنافِقِين))
+        (CONJ وِ)
+        (NP
+          (NOUN أَعداء)
+          (NP
+            (DET+NOUN الإِسْلام))))
+      (VP
+        (PRT
+          (NEG_PART مِش))
+        (PRT
+          (FUT_PART حَ))
+        (IV3P+IV+IVSUFF_SUBJ:P يِخَلَّصُوا)
+        (NP-SBJ
+          (-NONE- *T*-1))))
+    (CONJ وَ)
+    (S
+      (VP
+        (PRT
+          (NEG_PART لا))
+        (PRT
+          (FUT_PART حَ))
+        (IV3P+IV+IVSUFF_SUBJ:P يِبَطَّلُوا)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (-NONE- 0)
+          (S
+            (VP
+              (IV3P+IV+IVSUFF_SUBJ:P يَكِيدُوا)
+              (NP-SBJ
+                (-NONE- *))
+              (PP
+                (PREP لِ)
+                (NP
+                  (DET+NOUN الإِسْلام))))))))))</parse>
+<comment/>
+<arg f="" g="Islam enimies" n="0">* أَعداء الإِسْلام</arg>
+<arg f="" g="for Islam" n="1">لِلإِسْلام</arg>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset kAd-i.01</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

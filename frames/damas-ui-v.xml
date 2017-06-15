@@ -1,0 +1,78 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>damas-ui</id>
+<comment/>
+<frameset cdef="" edef="to cover   غطّى" id="01" vncls="">
+<role argnum="0" argrole="entity covering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دمس الرجل الصحن بقطعة من الورق</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the plate" n="1">الصحن</arg>
+<arg f="" g="with a piece of paper" n="2"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity covered" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to reconcile, to make peace between" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دمس القاضي بين الرجل وزوجته</parse>
+<comment/>
+<arg f="" g="the judge" n="0">القاضي</arg>
+<arg f="" g="between the man" n="1">بين الرجل</arg>
+<arg f="" g="and his wife" n="2">وزوجته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="first person reconciled" vncls="" vntheta=""/>
+<role argnum="2" argrole="second person (if separated from ARG1)" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to hide or conceal" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دمس الرجل الخبر عن زوجته</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the news" n="1">الخبر</arg>
+<arg f="" g="from his wife" n="2">عن زوجته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things kept hidden" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to become dark" id="04" vncls="">
+<role argnum="1" argrole="entity becoming dark" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دمس الليل</parse>
+<comment/>
+<arg f="" g="the night" n="1">الليل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

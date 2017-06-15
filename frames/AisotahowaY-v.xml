@@ -1,0 +1,83 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotahowaY</id>
+
+<frameset cdef="" edef="to attract, to impress" id="01" vncls="">
+<role argnum="0" argrole="agent/things  attracting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استهوى الخطيب قلوب الجميع</parse>
+
+<arg f="" g="the speaker" n="0">الخطيب</arg>
+<arg f="" g="everybody's heart" n="1">قلوب الجميع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity atracted" vncls="" vntheta=""/>
+<comment>Based on roleset {isotahowaY-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on {isotahowaY-v</comment>
+<frameset cdef="" edef="to catch chill" id="02" vncls="">
+<role argnum="1" argrole="entity catching chill" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-TPC-1
+        (DET+NOUN_NUM+NSUFF_FEM_SG الواحْدَة))
+      (NP-ADV
+        (NOUN كِدَه))
+      (ADJP-PRD
+        (ADJ مُمْكِن))
+      (SBAR-SBJ
+        (-NONE- 0)
+        (S
+          (VP
+            (IV3FS+IV تِستَهوَى)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (SBAR-TMP
+              (SUB_CONJ لَمّا)
+              (S
+                (NP-TPC-2
+                  (DET+NOUN الشَّمْس))
+                (VP
+                  (IV3FS+IV تِضْرَب)
+                  (NP-SBJ
+                    (-NONE- *T*-2))
+                  (PP
+                    (PREP فِي)
+                    (NP
+                      (NOUN دِماغ)
+                      (NP
+                        (POSS_PRON_3FS ها)))))))))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3FS+IV تِرْجَع)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP لِ)
+          (NP
+            (DET+NOUN التَكْيِيف)))))))</parse>
+<comment/>
+<arg f="" g="she" n="1">*T* -1 الواحْدَة</arg>
+<arg f="tmp" g="when the sun hit her in her head" n="m">لما الشمس تضرب في دماغها</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+</frameset>
+</verb>

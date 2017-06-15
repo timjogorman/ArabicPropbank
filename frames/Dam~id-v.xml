@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Dam~id</id>
+<comment>EGYPTIAN ARABIC based on Dam~ad</comment>
+    <frameset cdef="" edef="to bandage, to dress, to treat" id="01" vncls="">
+<role argnum="0" argrole="entity covering" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(SBAR
+        (SUB_CONJ أَنَّ)
+        (S
+          (NP-SBJ
+            (NOUN_PROP مِصرَ)
+            (NP
+              (POSS_PRON_1P نا)))
+          (PP-PRD
+            (PREP بِ)
+            (NP
+              (NP
+                (NOUN+NSUFF_FEM_SG حاجَة))
+              (PP
+                (PREP لَ)
+                (NP
+                  (NOUN ٱِلْتِفاف)
+                  (NP
+                    (NP
+                      (DET+NOUN الأَيادِي))
+                    (SBAR
+                      (WHNP-2
+                        (-NONE- 0))
+                      (S
+                        (VP
+                          (IV3FS+IV تِضَمِّد)
+                          (NP-SBJ
+                            (-NONE- *T*-2))
+                          (SBAR-NOM-OBJ
+                            (WHNP-1
+                              (REL_PRON ما))
+                            (S
+                              (VP
+                                (PV+PVSUFF_SUBJ:3MS أَصاب)
+                                (NP-OBJ
+                                  (PVSUFF_DO:3FS ها))
+                                (NP-SBJ
+                                  (-NONE- *T*-1)))))((</parse>
+<comment />
+<arg f="" g="the hands" n="0">* الأَيادِي</arg>
+<arg f="" g="what happened to it" n="1">ما اصابها</arg>
+</example>
+<comment />
+</frame>
+<comment />
+<role argnum="1" argrole="things covered" vncls="" vntheta="" />
+<role argnum="2" argrole="for whom" vncls="" vntheta="" />
+</frameset>
+</verb>

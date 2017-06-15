@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mA</id>
+<comment/>
+<frameset cdef="" edef="copular negation" id="01" vncls="">
+<role argnum="1" argrole="topic (SBJ)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (VERB مَ)
+      (PP-PRD
+        (PREP فِي)
+        (NP
+          (PRON_3MS ه)))
+      (PRT
+        (NEG_PART ش))
+      (NP-SBJ
+        (NOUN+NSUFF_FEM_SG مُذاكْرَة)))))</parse>
+<comment/>
+<arg f="" g="exist" n="2">فيه</arg>
+<arg f="" g="studying" n="1">مذاكرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="comment (PRD)" vncls="" vntheta=""/>
+</frameset>
+</verb>

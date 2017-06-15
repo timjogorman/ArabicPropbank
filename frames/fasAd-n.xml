@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fasAd</id>
+<comment/>
+<frameset cdef="" edef="decay, rottenness, corruption" id="01" vncls="">
+<role argnum="1" argrole="entity getting corrupted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كيف يمكننا محاربة فساد الشركات وسرقتها حقوق الموظفين</parse>
+<comment/>
+<arg f="" g="the companies" n="1">الشركات</arg>
+<arg f="" g="and it's stealing the rights of the employees" n="2">وسرقتها حقوق الموظفين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

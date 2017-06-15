@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosaOab</id>
+
+<frameset cdef="" edef="to be or become strangled or chocked or suffocated" id="01" vncls="">
+<role argnum="1" argrole="entity choking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انسأب الكلب بعظمة</parse>
+
+<arg f="" g="the dog" n="1">الكلب</arg>
+<arg f="" g="with a bone" n="2">بعظمة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="because of what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

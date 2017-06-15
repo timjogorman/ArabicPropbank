@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daf~aY</id>
+<comment/>
+<frameset cdef="" edef="to warm up" id="01" vncls="">
+<role argnum="0" argrole="warmer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا حدفي * ك بأيدي</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="you" n="1">ك</arg>
+<arg f="" g="with my hands" n="2">بأيدي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity being warmed" vncls="" vntheta=""/>
+<role argnum="2" argrole="how" vncls="" vntheta=""/>
+</frameset>
+</verb>

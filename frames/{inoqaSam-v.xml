@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqaSam</id>
+
+<frameset cdef="" edef="to be broken, cracked or divided" id="01" vncls="">
+<role argnum="1" argrole="thing being broken" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقصم ظهري من الحمل</parse>
+
+<arg f="" g="my back" n="1">ظهري</arg>
+<arg f="" g="from the load" n="2">من الحمل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

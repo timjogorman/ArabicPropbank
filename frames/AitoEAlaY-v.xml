@@ -1,0 +1,105 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEAlaY</id>
+
+    <frameset cdef="" edef="to come" id="03" vncls="">
+<role argnum="1" argrole="entity in motion" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (VP
+      (CV+CVSUFF_SUBJ:2P تعالو)
+      (NP-SBJ
+        (-NONE- *))
+      (S-ADV
+        (S
+          (VP
+            (IV1P+IV ندور)
+            (NP-SBJ
+              (-NONE- *))
+            (PP
+              (PREP علي)
+              (NP
+                (PRON_3FS ها)))
+            (NP-ADV
+              (NP
+                (NOUN جوا)
+                (NP
+                  (POSS_PRON_1P نا)))
+              (CONJ و)
+              (NP
+                (NOUN حوالي)
+                (NP
+                  (POSS_PRON_1P نا))))))
+        (CONJ و)
+        (S
+          (VP
+            (IV1P+IV نطلع)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (IVSUFF_DO:3FS ها))
+            (PP
+              (PREP ل)
+              (NP
+                (DET+NOUN لنور)))
+            (NP-ADV</parse>
+
+<arg f="" g="NONE" n="1">*? NONE</arg>
+<arg f="" g="to look for her inside us and around us" n="2">ندور * عليها جوانا و حوالينا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<role argnum="3" argrole="start point" vncls="" vntheta=""/>
+<role argnum="4" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on taEAlaY</comment>
+<frameset cdef="" edef="to be proud or arrogant" id="04" vncls="">
+<role argnum="0" argrole="entity being proud" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SQ
+    (CONJ فَ)
+    (PRT
+      (INTERROG_PART هَل))
+    (VP
+      (IV1S+IV أَتعالَى)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP عَلَى)
+        (NP
+          (NP
+            (NOUN شُكْر)
+            (NP
+              (POSS_PRON_3P هُم)))
+          (CONJ وِ)
+          (NP
+            (NOUN تَقبِيل)
+            (NP
+              (NOUN رُوؤس)
+              (NP
+                (POSS_PRON_3P هُم)))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="to thank them or kissing thier heads" n="1">عَلَى شُكْرهُم وتقبيل رؤوسهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

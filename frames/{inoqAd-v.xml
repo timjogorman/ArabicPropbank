@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqAd</id>
+<comment/>
+<frameset cdef="" edef="to be led or guided by, to yield to" id="01">
+<role argnum="1" argrole="entity guided"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انقاد العامل لطلبات رئيسه</parse>
+<comment/>
+<arg f="" g="the worker" n="1">العامل</arg>
+<arg f="" g="to the requests of his manager" n="2">لطلبات رئيسه</arg>
+</example>
+<comment/>
+</frame>
+<comment>انصاع‏</comment>
+<role argnum="2" argrole="to what"/>
+</frameset>
+</verb>

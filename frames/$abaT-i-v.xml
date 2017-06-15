@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$abaT-i</id>
+<comment/>
+<frameset cdef="" edef="to cling to, to hold on to" id="01" vncls="">
+<role argnum="0" argrole="entity clinging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ابني الصغير شبط * في و مش عاوزني اروح الشغل</parse>
+<comment/>
+<arg f="" g="my youngest son" n="0">* ابني الصغير</arg>
+<arg f="" g="in me" n="1">في</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitofataH</id>
+<comment/>
+<frameset cdef="" edef="be open to, be opened" id="01" vncls="">
+<role argnum="0" argrole="openner" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نفسي اتفحت * للأكل</parse>
+<comment/>
+<arg f="" g="my appetite" n="1">نفسي</arg>
+<arg f="" g="for food" n="2">للأكل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity opened" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

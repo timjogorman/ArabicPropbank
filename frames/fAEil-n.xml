@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fAEil</id>
+<frameset cdef="" edef="active /effective" id="01" vncls="">
+<role argnum="1" argrole="active /effective entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what?" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(PP-PRP
+            (PREP ل)
+            (SBAR
+              (SUB_CONJ كي)
+              (S
+                (VP
+                  (IV3MS+IV+IVSUFF_MOOD:S يكون)
+                  (NP-SBJ
+                    (DET+NOUN+CASE_DEF_NOM البحث)
+                    (DET+ADJ+CASE_DEF_NOM الاجتماعي))
+                  (ADJP-PRD
+                    (ADJ+CASE_INDEF_ACC صادقا)
+                    (CONJ و)
+                    (ADJ+CASE_INDEF_ACC فاعلا))))))
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I ينبغي)
+            (SBAR-SBJ
+              (SUB_CONJ ان)
+              (S
+                (VP
+                  (IV3MS+IV+IVSUFF_MOOD:S يكون)
+                  (NP-SBJ-1
+                    (-NONE- *T*))
+                  (NP-PRD
+                    (NP
+                      (NP
+                        (NOUN+CASE_INDEF_ACC عملا)
+                        (CONJ و)
+                        (NOUN+CASE_INDEF_ACC نشاطا))
+                      (ADJP
+                        (ADJ+CASE_INDEF_ACC اجتماعيا)))
+                    (PUNC ,)</parse>
+<arg f="" g="it" n="1">? &lt; البحث الاجتماعي</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="doer /actor" id="02" vncls="">
+<role argnum="0" argrole="doer / actor entity" vncls="" vntheta=""/>
+<role argnum="1" argrole="act or work" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>كل إضرار بالغير يلزم فاعله بتعويض الضرر</parse>
+<arg f="" g="he" n="0">? &lt;</arg>
+<arg f="" g="he" n="1">ه</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

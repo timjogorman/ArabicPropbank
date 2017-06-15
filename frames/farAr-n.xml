@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>farAr</id>
+<comment>Based on verb far~-i</comment>
+<frameset cdef="" edef="escape/getaway" id="01" vncls="">
+<role argnum="0" argrole="escaper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="escaping from" vncls="" vntheta=""/>
+<role argnum="2" argrole="escaping to" vncls="" vntheta=""/>
+</frameset>
+</verb>

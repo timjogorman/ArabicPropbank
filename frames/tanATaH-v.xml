@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanATaH</id>
+<comment/>
+<frameset cdef="" edef="to butt one another" id="01" vncls="">
+<role argnum="0" argrole="entity hitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تناطحت الامواج والصخور</parse>
+<comment/>
+<arg f="" g="the waves" n="0">الامواج</arg>
+<arg f="" g="the rocks" n="1">والصخور</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

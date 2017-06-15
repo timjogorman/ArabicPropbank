@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Harakap</id>
+<comment/>
+<frameset cdef="" edef="movement, motion" id="01" vncls="">
+<role argnum="0" argrole="entity moving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>في الصباح تلاحظ حركة الطلاب من البيوت الى المدرسة</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطلاب</arg>
+<arg f="" g="from the houses" n="1">من البيوت</arg>
+<arg f="" g="to the school" n="2">الى المدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+</verb>

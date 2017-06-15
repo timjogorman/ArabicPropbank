@@ -1,0 +1,268 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xi$iy</id>
+
+    <frameset cdef="" edef="to fear or be afraid of" id="01" vncls="">
+<role argnum="0" argrole="entity afraid" vncls="" vntheta=""/>
+<role argnum="1" argrole="afraid of what" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (IV3FS+IV+IVSUFF_MOOD:I تخشى)
+    (NP-SBJ
+      (NOUN_PROP واشنطن))
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (VP
+          (IV3MS+IV+IVSUFF_MOOD:S يتوجه)
+          (NP-SBJ
+            (NP
+              (NOUN+NSUFF_MASC_PL_ACC_POSS مقاتلي)
+              (NP
+                (PUNC &quot;)
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN القاعدة)
+                (PUNC &quot;)))
+            (SBAR
+              (WHNP-1
+                (REL_PRON الذين))
+              (S
+                (VP
+                  (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يفرون)
+                  (NP-SBJ
+                    (-NONE- *T*-1))
+                  (PP-DIR
+                    (PREP من)
+                    (NP
+                      (NOUN_PROP+CASE_INDEF_GEN افغانستان)))
+                  (PP-DIR
+                    (PREP الى)
+                    (NP
+                      (NP
+                        (NOUN+CASE_DEF_GEN جبال)
+                        (NP
+                          (DET+NOUN_PROP+CASE_DEF_GEN اليمن)))
+                      (ADJP
+                        (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الوعرة))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="Washington" n="0">واشنطن</arg>
+<arg f="" g="that the AlQa'ida fighters that leave Afghanistan flee to Yemen's rugged mountains" n="1-sbar">ان يتوجه مقاتلي القاعدة الذين يفرون من افغانستان الى جبال اليمن الوعرة</arg>
+<V/>
+<comment/>
+</example>
+<example>
+<parse>(S
+          (NP-TPC-1
+            (DET+NOUN+NSUFF_MASC_PL_ACC العراقيين))
+          (VP
+            (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يتوقون)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (PP-CLR
+              (PREP الى)
+              (NP
+                (NOUN+CASE_DEF_GEN سقوط)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN النظام)))))))
+      (NAC
+        (CONJ و)
+        (S
+          (VP
+            (PSEUDO_VERB لكن)
+            (NP-SBJ-2
+              (PRON_3MP هم))
+            (S
+              (VP
+                (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يخشون)
+                (NP-SBJ
+                  (-NONE- *-2))
+                (NP-OBJ
+                  (NP
+                    (DET+NOUN+CASE_DEF_ACC الانضمام))
+                  (PP
+                    (PREP الى)
+                    (NP
+                      (NOUN_QUANT+CASE_DEF_GEN أي)
+                      (NP
+                        (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN انتفاضة)
+                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN جديدة))))
+                  (PP
+                    (PREP من)
+                    (NP
+                      (NOUN+CASE_DEF_GEN دون)
+                      (NP
+                        (NP
+                          (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN ضمانات))
+                        (PP
+                          (PREP ل)
+                          (NP
+                            (NOUN+CASE_INDEF_GEN دعم)
+                            (ADJ+CASE_INDEF_GEN عسكري)
+                            (ADJ+CASE_INDEF_GEN اميركي))))))))))))))</parse>
+<arg f="" g="" n="0">-NONE- *-2&lt;العراقيين</arg>
+<arg f="" g="the joining of a new uprising without any military help from the US" n="1">الانضمام الى أي انتفاضة جديدة من دون ضمانات لدعم عسكري اميركي</arg>
+<comment/>
+</example>
+<example>
+<parse>(VP
+    (IV3MS+IV+IVSUFF_MOOD:I يخشى)
+    (NP-SBJ
+      (DET+NOUN_QUANT+CASE_DEF_NOM الجميع))
+    (PP-CLR
+      (PREP من)
+      (SBAR
+        (SUB_CONJ ان)
+        (S
+          (VP
+            (IV3FS+IV+IVSUFF_MOOD:S تقود)
+            (NP-SBJ
+              (DET+NOUN+CASE_DEF_NOM الرياح))
+            (NP-OBJ
+              (DET+NOUN+CASE_DEF_ACC النار))
+            (PP
+              (PREP في)
+              (NP
+                (NOUN+CASE_DEF_GEN اتجاه)
+                (NP
+                  (NP
+                    (NP
+                      (DET+NOUN الاراضي)
+                      (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الزراعية))
+                    (CONJ و)
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN المنازل)))
+                  (SBAR
+                    (WHNP-1
+                      (REL_PRON التي))
+                    (S
+                      (VP
+                        (IV3MS+IV+IVSUFF_MOOD:I يقع)
+                        (NP-SBJ
+                          (NOUN_QUANT+CASE_DEF_NOM بعض)
+                          (NP
+                            (NP
+                              (POSS_PRON_3FS ها))
+                            (NP
+                              (-NONE- *T*-1))))
+                        (PP
+                          (PREP في)
+                          (NP
+                            (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN محاذاة)
+                            (NP
+                              (NOUN+CASE_DEF_GEN موقع)
+                              (NP
+                                (DET+NOUN+CASE_DEF_GEN الحريق))))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="every one" n="0">الجميع</arg>
+<arg f="مِن" g="from the wind guiding the fire towards farmlands and houses that lie along the area of the fire" n="1">من ان تقود الرياح النار في اتجاه الاراضي الزراعية و المنازل التي يقع بعضها في محاذاة موقع الحريق</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on xa$iy-a</comment>
+<frameset cdef="" edef="to worry about" id="02" vncls="">
+<role argnum="0" argrole="entity worried" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (CONNEC_PART فَ)
+      (NP-TPC-2
+        (DET+NOUN_PROP التَحْرِير))
+      (VP
+        (IV3MS+IV تِغلِب)
+        (PP-CLR
+          (PREP عَلَى)
+          (NP
+            (NP
+              (PRON_3MS ُه))
+            (NP
+              (-NONE- *T*-2))))
+        (NP-SBJ
+          (NOUN+NSUFF_FEM_SG حَماسَة)
+          (NP
+            (DET+NOUN الشَباب)))))
+    (CONJ وِ)
+    (S
+      (NP-TPC-1
+        (DET+NOUN_PROP+NSUFF_FEM_SG العَبّاسِيَّة))
+      (VP
+        (IV3MS+IV تِغلِب)
+        (PP-CLR
+          (PREP عَلَى)
+          (NP
+            (NP
+              (PRON_3MS ُه))
+            (NP
+              (-NONE- *T*-1))))
+        (NP-SBJ
+          (NP
+            (NOUN+NSUFF_FEM_SG رَجاحَة)
+            (NP
+              (DET+NOUN العَقْل)))
+          (SBAR
+            (WHNP-3
+              (REL_PRON الَّتِي))
+            (S
+              (VP
+                (IV3MS+IV تَخْشَى)
+                (NP-SBJ
+                  (-NONE- *T*-3))
+                (PP-CLR
+                  (PREP عَلَى)
+                  (NP
+                    (DET+NOUN البِلاد)))
+                (PP
+                  (PREP مِن)
+                  (NP
+                    (DET+NOUN الفِتَن)))))))))
+    (S
+      (VP
+        (X
+          (NO_FUNC ولابد))
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (SUB_CONJ إِنّ)
+          (S
+            (VP
+              (IV3MS+IV يِتوَحَّد)
+              (NP-SBJ
+                (DET+NOUN+NSUFF_MASC_DU الفَرِيقان))
+              (SBAR-PRP
+                (PREP حَتَّى)
+                (S
+                  (VP
+                    (NO_FUNC تعبر)
+                    (NP-SBJ
+                      (NOUN_PROP مَصْر))
+                    (NP-OBJ
+                      (NP
+                        (DEM_PRON_F هٰذِهِ))
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG الأَزْمَة)))))))))))))</parse>
+<comment/>
+<arg f="" g="the mind wisdom" n="0">رَجاحَة العَقْل</arg>
+<arg f="" g="for the country" n="2">عَلَى البِلاد</arg>
+<arg f="" g="from sedition" n="1">مِن الفِتَن</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

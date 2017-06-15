@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$abah</id>
+<comment>EGYPTIAN ARABIC based on $abah-a</comment>
+<frameset cdef="" edef="to look alike" id="01">
+<role argnum="0" argrole="first entity looking alike"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ويشبه من يفعل ذلك بمن يأكل لحم البشر</parse>
+<comment/>
+<arg f="" g="who does that" n="0">من يفعل ذلك</arg>
+<arg f="" g="with who eats the flesh of human" n="1">بمن يأكل لحم البشر</arg>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset $abah-a.01</comment>
+<role argnum="1" argrole="second entity"/>
+<role argnum="2" argrole="in what"/>
+</frameset>
+</verb>

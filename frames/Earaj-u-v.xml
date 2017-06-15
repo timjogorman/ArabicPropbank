@@ -1,29 +1,52 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Earaj-u</id>
-    <frameset cdef="" edef="" id="01">
-        <role argnum="0" argrole="the passer by"/>
-        <role argnum="1" argrole="the place"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS عرج)
-                    (NP-SBJ
-                    (-NONE- *)
-                    (PP
-                    (PREP على)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الوطن)
-                    (DET+ADJ+CASE_DEF_GEN المصلوب)
-                </parse>
-                <arg f="" g="" n="0">-NONE- *</arg>
-                <arg f="" g="by the crucified homeland" n="1">على الوطن المصلوب</arg>
-            </example>
-        </frame>
-        <comment>
-            pass by, go towards a place for a stop
-        </comment>
-    </frameset>
+<id>Earaj-u</id>
+<frameset cdef="" edef="pass by, go towards a place for a stop" id="01" vncls="">
+<role argnum="0" argrole="the passer by" vncls="" vntheta=""/>
+<role argnum="1" argrole="the place" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS عرج)
+    (NP-SBJ
+      (-NONE- *)
+    (PP
+      (PREP على)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الوطن)
+        (DET+ADJ+CASE_DEF_GEN المصلوب)</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="by the crucified homeland" n="1">على الوطن المصلوب</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to limp or hobble, to go lame" id="02" vncls="">
+<role argnum="1" argrole="entity limping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عرج الرجل في مشيه</parse>
+
+<arg f="" g="the man in his walking" n="1">الرجل في مشيه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
 </verb>

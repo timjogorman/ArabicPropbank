@@ -1,0 +1,166 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitohabal</id>
+<comment/>
+<frameset cdef="" edef="to become crazy or mad" id="01" vncls="">
+<role argnum="1" argrole="entity becoming crazy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SQ
+    (PP
+      (PREP بِ)
+      (NP
+        (DET+NOUN الظَبْط)))
+    (VP
+      (NO_FUNC شوفتوا)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN_QUANT كُلّ)
+        (NP
+          (NP
+            (FOREIGN AlrAk$AnAt))
+          (NP
+            (DEM_PRON دِي))))))
+  (S
+    (S
+      (NP-SBJ
+        (NP
+          (PRON_3MS هُوَّ))
+        (NP
+          (DEM_PRON_MS دَه)))
+      (NP-PRD
+        (NOUN حال)
+        (NP
+          (DET+NOUN الشَعْب)))
+      (NP-TMP
+        (NOUN يُوم)
+        (NP
+          (NP
+            (DET+NOUN النُطْق))
+          (PP
+            (PREP بِ)
+            (NP
+              (DET+NOUN الحُكْم))))))
+    (CONJ وِ)
+    (S
+      (NP-SBJ
+        (DEM_PRON_MS دَه))
+      (NP-PRD
+        (NP
+          (NOUN إِحساس)
+          (NP
+            (POSS_PRON_1S ِي)))
+        (SBAR
+          (WHNP-1
+            (REL_PRON اِللِّي))
+          (S
+            (VP
+              (PRT
+                (PROG_PART بِ))
+              (IV1S+IV اَقُول)
+              (NP-SBJ
+                (-NONE- *))
+              (PP
+                (PREP لِ)
+                (NP
+                  (PRON_2P كُم)))
+              (PP
+                (PREP عَلَى)
+                (NP
+                  (NP
+                    (PRON_3MS ُه))
+                  (NP
+                    (-NONE- *T*-1))))))))))
+  (S
+    (S
+      (ADJP-PRD
+        (ADJ مُمْكِن))
+      (SBAR-SBJ
+        (-NONE- 0)
+        (S
+          (S
+            (NP-TPC-3
+              (DET+NOUN الشَعْب))
+            (VP
+              (IV3MS+IV_PASS يِتْجَنِّن)
+              (NP-SBJ-2
+                (-NONE- *T*-3))
+              (NP-OBJ
+                (-NONE- *-2))))
+          (CONJ وِ)
+          (S
+            (VP
+              (IV3MS+IV_PASS يِتهِبِل)
+              (NP-SBJ-8
+                (-NONE- *))
+              (NP-OBJ
+                (-NONE- *-8)))))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV1S+IV أَعْتَقِد)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (SUB_CONJ إِنّ)
+          (S
+            (PP-PRD
+              (PREP فِي)
+              (NP
+                (PRON_3MS ه)))
+            (NP-SBJ
+              (NP
+                (NOUN ناس))
+              (SBAR
+                (SBAR
+                  (WHNP-4
+                    (-NONE- 0))
+                  (S
+                    (VP
+                      (PRT
+                        (FUT_PART حَ))
+                      (IV3FS+IV تِجِيب)
+                      (NP-SBJ
+                        (-NONE- *T*-4))
+                      (NP-OBJ
+                        (NOUN مُسَدَّس)))))
+                (CONJ وِ)
+                (SBAR
+                  (WHNP-6
+                    (-NONE- 0))
+                  (S
+                    (VP
+                      (IV3MS+IV تْصَوِّب)
+                      (NP-SBJ
+                        (-NONE- *T*-6))
+                      (NP-OBJ
+                        (IVSUFF_DO:3MS ُه))
+                      (PP-CLR
+                        (PREP عَلَى)
+                        (NP
+                          (NOUN دِماغ)
+                          (NP
+                            (POSS_PRON_3FS ها))))
+                      (NP-TMP
+                        (NOUN+NSUFF_FEM_SG ساعَة)
+                        (NP
+                          (NP
+                            (DET+NOUN النُطْق))
+                          (PP
+                            (PREP بِ)
+                            (NP
+                              (DET+NOUN الحُكْم))))))))))))))))</parse>
+<comment/>
+<arg f="" g="people" n="1">* الشَعْب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

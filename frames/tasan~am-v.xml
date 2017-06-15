@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tasan~am</id>
+<comment/>
+<frameset cdef="" edef="to ascend or mount" id="01">
+<role argnum="0" argrole="entity ascending"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هل تبعدني الجرأة عن تسنم * منصب رفيع في القطاع العام؟</parse>
+<comment/>
+<arg f="" g="He" n="0">* NONE</arg>
+<arg f="" g="high position" n="1">منصب رفيع</arg>
+</example>
+<comment/>
+</frame>
+<comment>ارتقى</comment>
+<role argnum="1" argrole="on what"/>
+</frameset>
+</verb>

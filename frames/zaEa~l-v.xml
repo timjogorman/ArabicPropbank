@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>zaEa~l</id>
+<comment>EGYPTIAN ARABIC Framefile based on zaE~al-v</comment>
+<frameset cdef="" edef="to make ungry" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-ADV
+        (NOUN+CASE_INDEF_ACC عُمُوماً))
+      (NP-VOC
+        (PRT
+          (VOC_PART يا))
+        (NOUN أُخْت)
+        (NP
+          (POSS_PRON_1S ِي)))
+      (VP
+        (PV+PVSUFF_SUBJ:3MS جَزاك)
+        (NP-DTV
+          (PVSUFF_DO:2FS ِي))
+        (NP-SBJ
+          (NOUN_PROP اللّٰه))
+        (NP-OBJ
+          (NOUN خِير))
+        (PP
+          (PREP عَلَى)
+          (NP
+            (NOUN مَجْهُود)
+            (NP
+              (POSS_PRON_2FS ِك))))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV1S+IV أَرْجُو)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (SUB_CONJ إِنّ)
+          (S
+            (NP-TPC-1
+              (NOUN رَأْي)
+              (NP
+                (POSS_PRON_1S ِي)))
+            (VP
+              (PRT
+                (NEG_PART ما))
+              (IV3MS+IV يِزَعَّل)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (IVSUFF_DO:2FS ِك))
+              (PRT
+                (NEG_PART ش)))))))))</parse>
+<comment />
+<arg f="" g="my opinion" n="0">رَأْي ِ</arg>
+<arg f="" g="he" n="1">ك</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset zaE~al-v.01</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta="" />
+</frameset>
+</verb>

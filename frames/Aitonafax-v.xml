@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitonafax</id>
+<comment>EGYPTIAN ARABIC based on {inotafax</comment>
+    <frameset cdef="" edef="to be or become puffed up or overproud" id="02" vncls="">
+<role argnum="0" argrole="entity getting overproud" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ده انا كل يوم بقول له ما تتنفخش *  على ربنا</parse>
+<comment />
+<arg f="" g="he" n="0">* ه</arg>
+<arg f="" g="on our God" n="1">على ربنا</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {inotafax.02</comment>
+<role argnum="1" argrole="on whom, victim" vncls="" vntheta="" />
+</frameset>
+</verb>

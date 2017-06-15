@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoDabaA</id>
+<comment/>
+<frameset cdef="" edef="" id="01" vncls="">
+<role argnum="1" argrole="entity scorched" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انضبا الجلد بالحرارة الشمس</parse>
+<comment/>
+<arg f="" g="the skin" n="1">الجلد</arg>
+<arg f="" g="with the sun heat" n="2">بالحرارة الشمس</arg>
+</example>
+<comment/>
+</frame>
+<comment>to be scorched, seared, burned</comment>
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

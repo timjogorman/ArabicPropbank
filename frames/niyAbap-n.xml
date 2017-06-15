@@ -1,0 +1,98 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>niyAbap</id>
+<frameset cdef="" edef="To repreent" id="01" vncls="">
+<role argnum="0" argrole="item / entity taking place of other" vncls="" vntheta="" />
+<role argnum="1" argrole="item / entity being substituted by the other" vncls="" vntheta="" />
+<role argnum="2" argrole="the position" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S-ADV
+      (VP
+        (PSEUDO_VERB لكن)
+        (NP-SBJ
+          (PRON_1P نا))
+        (ADJP-PRD
+          (ADJ+NSUFF_MASC_PL_NOM مصرون)
+          (PP
+            (PREP على)
+            (SBAR
+              (SUB_CONJ ان)
+              (S
+                (S
+                  (VP
+                    (IV1P+IV+IVSUFF_MOOD:S نقول)
+                    (NP-SBJ
+                      (NP
+                        (PRON_1P نحن))
+                      (NP
+                        (DET+NOUN+NSUFF_MASC_PL_ACC الصحافيين)))
+                    (NP-OBJ
+                      (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC كلمت)
+                      (NP
+                        (POSS_PRON_1P نا)))))
+                (PUNC ,)
+                (CONJ و)
+                (S
+                  (VP
+                    (PRT
+                      (NEG_PART لا))
+                    (IV3MS+IV+IVSUFF_MOOD:I ينوب)
+                    (NP-SBJ
+                      (NOUN+CASE_INDEF_NOM احد))
+                    (PP-CLR
+                      (PREP عن)
+                      (NP
+                        (PRON_1P ا)))
+                    (PP
+                      (PREP في)
+                      (NP
+                        (PRON_3FS ها))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="somebody" n="0">احد</arg>
+<arg f="" g="Instead of us" n="1">عنا</arg>
+<arg f="" g="in it" n="3">كلمتنا &gt;فيها</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset nAb-u.01</comment>
+</frameset>
+<comment>Framefile based on nAb-u</comment>
+<frameset cdef="" edef="to happen to" id="02" vncls="">
+<role argnum="1" argrole="things happening" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PRT
+        (NEG_PART ما))
+      (PV+PVSUFF_SUBJ:3MS ناب)
+      (NP-SBJ
+        (DET+NOUN الراجِل))
+      (NP-TMP
+        (NOUN بَعْد)
+        (NP
+          (NOUN مُوت)
+          (NP
+            (POSS_PRON_3MS ُه))))
+      (NP-OBJ
+        (PRT
+          (PREP إِلّا))
+        (DET+NOUN+NSUFF_FEM_SG البَهْدَلَة)
+        (CONJ وَ)
+        (DET+NOUN التَشْرِيح)))))</parse>
+<comment />
+<arg f="" g="the man" n="2">الراجِل</arg>
+<arg f="tmp" g="after his death" n="m">بَعْد مُوته</arg>
+<arg f="" g="only the humiliation" n="1">إِلّا البَهْدَلَة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset nAb-u.02</comment>
+<role argnum="2" argrole="victim" vncls="" vntheta="" />
+</frameset>
+</verb>

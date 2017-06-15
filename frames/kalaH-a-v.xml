@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kalaH-a</id>
+<comment/>
+<frameset cdef="" edef="to frown" id="01" vncls="">
+<role argnum="1" argrole="entity frowned" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كلح وجهه</parse>
+<comment/>
+<arg f="" g="his face" n="1">وجهه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

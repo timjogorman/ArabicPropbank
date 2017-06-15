@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taraq~iy</id>
+<comment/>
+<frameset cdef="" edef="advancement, progress" id="01" vncls="">
+<role argnum="1" argrole="thing moving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جاء خبر ترقيه في العمل من منصب عامل الى مسؤول كالصاعقة على البقية</parse>
+<comment/>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="at work" n="2">في العمل</arg>
+<arg f="" g="from a worker position" n="3">من منصب عامل</arg>
+<arg f="" g="into a manager" n="4">الى مسؤول</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<role argnum="3" argrole="start point" vncls="" vntheta=""/>
+<role argnum="4" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+</verb>

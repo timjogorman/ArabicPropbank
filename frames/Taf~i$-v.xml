@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Taf~i$</id>
+<comment/>
+<frameset cdef="" edef="to make people run or go away" id="01" vncls="">
+<role argnum="0" argrole="entity causing people to go away" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو طفش * الزباين بكلامه</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="the customers" n="1">الزباين</arg>
+<arg f="" g="with his words" n="2">بكلامه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity going away" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

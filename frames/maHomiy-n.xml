@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maHomiy</id>
+<comment/>
+<frameset cdef="" edef="protected, defended" id="01" vncls="">
+<role argnum="1" argrole="entity protected" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>احنا محميين * بقوة ربنا من كل شر</parse>
+<comment/>
+<arg f="" g="we" n="1">* احنا</arg>
+<arg f="" g="with the power of our God" n="2">بقوة ربنا</arg>
+<arg f="" g="from every evil" n="3">من كل شر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+<role argnum="3" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

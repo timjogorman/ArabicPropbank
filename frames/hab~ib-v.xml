@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>hab~ib</id>
+<frameset cdef="" edef="to do something" id="010" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>هو بيعمل  * كده علشان ينجح</parse>
+
+<arg f="" g="hes" n="0">* هو</arg>
+<arg f="" g="like thi" n="1">كده</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="thing done" vncls="" vntheta="" />
+<comment>Based on roleset Eamil-a-v.010</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on Eamil-a-v</comment>
+</verb>

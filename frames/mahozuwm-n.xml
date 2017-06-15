@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mahozuwm</id>
+<comment/>
+<frameset cdef="" edef="defeated" id="01" vncls="">
+<role argnum="0" argrole="entity victorious" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ بَسّ)
+    (VP
+      (PRT
+        (FUT_PART حَ))
+      (IV1P+IV نِبْقَى)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-PRD
+        (NP
+          (DET+NOUN الجِيل))
+        (SBAR
+          (WHNP-1
+            (REL_PRON اللِي))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS رَفَض)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (SBAR
+                (-NONE- 0)
+                (S
+                  (VP
+                    (IV3MS+IV يِعِيش)
+                    (NP-SBJ-3
+                      (-NONE- *))
+                    (S-MNR
+                      (S-ADV
+                        (VP
+                          (ADJ.VN مَهْزُوم)
+                          (NP-SBJ-2
+                            (-NONE- *-3))
+                          (NP-OBJ
+                            (-NONE- *-2))))
+                      (CONJ وَ)
+                      (S-ADV
+                        (VP
+                          (ADJ.VN مُسْتَسْلِم)
+                          (NP-SBJ
+                            (-NONE- *))))
+                      (CONJ وِ)
+                      (S-ADV
+                        (VP
+                          (ADJ.VN فاقِد)
+                          (NP-SBJ
+                            (-NONE- *))
+                          (PP-CLR
+                            (PREP لِ)
+                            (NP
+                              (NOUN+NSUFF_FEM_SG إِرادَة)
+                              (NP
+                                (POSS_PRON_3MS ُه)))))))))))))))</parse>
+<comment/>
+<arg f="" g="the generation" n="1">*-3 الجِيل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity defeated" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

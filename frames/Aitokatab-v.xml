@@ -1,0 +1,185 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitokatab</id>
+
+    <frameset cdef="" edef="to write" id="01" vncls="">
+<role argnum="0" argrole="writer" vncls="" vntheta="" />
+<role argnum="1" argrole="what is written" vncls="" vntheta="" />
+<role argnum="2" argrole="topic" vncls="" vntheta="" />
+<role argnum="3" argrole="audience" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>With ARG 3
+
+
+(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS اعلن)
+    (NP-SBJ
+      (NOUN+CASE_DEF_NOM رئيس)
+      (NP
+        (PUNC &quot;)
+        (DET+NOUN_PROP الفيفا)
+        (PUNC &quot;)))
+    (ADVP
+      (ADV+CASE_INDEF_ACC ايضاً))
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (NP-TPC-1
+          (PRON_3MS ه))
+        (VP
+          (PV+PVSUFF_SUBJ:3MS كتب)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (PP
+            (PREP الى)
+            (NP
+              (NP
+                (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الشركات))
+              (ADJP
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الراعية)
+                (PP
+                  (PREP ل)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN لاتحاد)
+                    (DET+ADJ+CASE_DEF_GEN الدولي))))))
+          (PP-PRP
+            (PREP ل)
+            (SBAR
+              (-NONE- 0)
+              (S
+                (VP
+                  (IV3MS+IV+IVSUFF_MOOD:S يؤكد)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (PP
+                    (PREP ل)
+                    (NP
+                      (PRON_3FS ها)))
+                  (NP-OBJ
+                    (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC سلامة)
+                    (NP
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN الوضع)
+                        (DET+ADJ+CASE_DEF_GEN المالي))
+                      (PP
+                        (PREP ل)
+                        (NP
+                          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN لمؤسسة)))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="-NONE- &lt; the president of FIFA" n="0">*T*-1 &lt; رئيس &quot; الفيفا &quot;</arg>
+<arg f="" g="to the corporate sponsors of the International Federation" n="3">الى الشركات الراعية للاتحاد الدولي</arg>
+<arg f="prp" g="To confirm the integrity of the financial situation of the institution" n="m">ليؤكد لها سلامة الوضع المالي للمؤسسة</arg>
+
+
+<comment />
+</example>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3FS نشرت)
+    (NP-SBJ
+      (PUNC &quot;)
+      (NOUN_PROP معاريف)
+      (PUNC &quot;))
+    (NP-TMP
+      (NOUN امس))
+    (NP-OBJ
+      (NP
+        (NOUN+CASE_INDEF_ACC تقريرا))
+      (SBAR
+        (WHNP-1
+          (-NONE- 0))
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS كتب)
+            (NP-OBJ
+              (NP
+                (PVSUFF_DO:3MS ه))
+              (NP
+                (-NONE- *T*-1)))
+            (NP-SBJ
+              (NOUN_PROP بن)
+              (NOUN_PROP كسبيت))
+            (PP
+              (PREP عن)
+              (NP
+                (NP
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN الوضع))
+                  (PP-LOC
+                    (PREP على)
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجبهة)
+                      (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الشمالية))))
+                (CONJ و)
+                (NP
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN التطورات)
+                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المتوقعة))
+                  (NP-ADV
+                    (NOUN+CASE_DEF_ACC مع)
+                    (NP
+                      (NOUN_PROP سوريا)))))))))))
+  (PUNC ,))</parse>
+<arg f="" g="it *T*-1 &lt; a report" n="1">ه &lt; تقريرا *T*-1</arg>
+<arg f="" g="Ben Kasbiit" n="0">بن كسبيت</arg>
+<arg f="" g="About the situation on the northern border and expected developments with Syria" n="2">عن الوضع على الجبهة الشمالية و التطورات المتوقعة مع سوريا</arg>
+
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+
+<comment>Based on roleset katab-u.01
+Based on roleset katab-v.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to get married (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="agent marrying" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>الراجل كتب * كتابه امبارح</parse>
+
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his book" n="1">كتابه</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="what is written(كتابه)" vncls="" vntheta="" />
+<role argnum="2" argrole="to whom" vncls="" vntheta="" />
+<comment>Based on roleset katab-v.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on katab-v</comment>
+<frameset cdef="" edef="to be fated, predestined" id="03" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>كتب الله عليهم الشقاء</parse>
+<comment />
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="on them" n="1">عليهم</arg>
+<arg f="" g="unhappiness" n="2">الشقاء</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset katab-v.03</comment>
+<role argnum="1" argrole="patient" vncls="" vntheta="" />
+<role argnum="2" argrole="thing arg 1 is predestined for" vncls="" vntheta="" />
+</frameset>
+</verb>

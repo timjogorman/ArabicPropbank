@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitodam~ar</id>
+<comment/>
+<frameset cdef="" edef="to be destroyed" id="01" vncls="">
+<role argnum="0" argrole="destroyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بيوتنا اتدمرت * من وراهم</parse>
+<comment/>
+<arg f="" g="our houses" n="1">* بيوتنا</arg>
+<arg f="" g="because of them" n="0">من وراهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity destroyed" vncls="" vntheta=""/>
+</frameset>
+</verb>

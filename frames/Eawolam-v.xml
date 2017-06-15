@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eawolam</id>
+<comment/>
+<frameset cdef="" edef="to globalize" id="01" vncls="">
+<role argnum="0" argrole="entity globalizing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عولمت الشركات العابرة للقارات الثقافات</parse>
+<comment/>
+<arg f="" g="the companies" n="0">الشركات العابرة للقارات</arg>
+<arg f="" g="cultures" n="1">الثقافات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity globalized" vncls="" vntheta=""/>
+</frameset>
+</verb>

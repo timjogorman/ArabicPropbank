@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wafir</id>
+<comment/>
+<frameset cdef="" edef="to increase, to multiply, to be available" id="01" vncls="">
+<role argnum="0" argrole="supplier" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وفر المال لهم</parse>
+<comment/>
+<arg f="" g="the money" n="1">المال</arg>
+<arg f="" g="to them" n="2">لهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things supplied" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

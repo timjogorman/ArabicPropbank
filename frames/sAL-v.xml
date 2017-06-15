@@ -1,0 +1,109 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>sAL</id>
+<frameset cdef="" edef="To be bad or poor" id="01">
+<role argnum="1" argrole="thing or state became bad" />
+<frame>
+<example>
+<parse>
+(S
+                    (VP
+                      (PV_PASS+PVSUFF_SUBJ:3MS اضطر)
+                      (NP-SBJ-6
+                        (NP
+                          (NOUN+CASE_INDEF_NOM عدد)
+                          (ADJ+CASE_INDEF_NOM كبير))
+                        (PP
+                          (PREP من)
+                          (NP
+                            (NP
+                              (PRON_3MP هم))
+                            (NP
+                              (-NONE- *T*-4)))))
+                      (PP-CLR
+                        (PREP إلى)
+                        (NP
+                          (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN هجرة)
+                          (NP
+                            (NP
+                              (NOUN+CASE_DEF_GEN منازل)
+                              (NP
+                                (POSS_PRON_3MP هم)))
+                            (ADJP
+                              (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN القريبة)
+                              (PP
+                                (PREP من)
+                                (NP
+                                  (DET+NOUN+CASE_DEF_GEN البحر)))))))
+                      (NP-TMP
+                        (NOUN+CASE_DEF_ACC بعد)
+                        (SBAR
+                          (SUB_CONJ ما)
+                          (S
+                            (VP
+                              (PV+PVSUFF_SUBJ:3FS ساءت)
+                              (NP-SBJ
+                                (NP
+                                  (NOUN+CASE_DEF_NOM أحوال)
+                                  (NP
+                                    (POSS_PRON_3MP هم)))
+                                (ADJP
+                                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM الصحية)))))))
+</parse>
+<arg f="" g="Their health" n="1">أحوالهم الصحية</arg>
+</example>
+</frame>
+<comment>Based on roleset sAL-u-v.01</comment></frameset>
+<frameset cdef="" edef="To sadden or grieve" id="02">
+<role argnum="0" argrole="sorrowful entity" />
+<role argnum="1" argrole="whome?" />
+<role argnum="2" argrole="reason" />
+<frame>
+<example>
+<parse>
+(S-ADV
+  (VP
+    (PSEUDO_VERB لكن)
+    (NP-SBJ-4
+      (NOUN+NSUFF_MASC_PL_ACC_POSS مناهضي)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN التطبيع)))
+    (S
+      (VP
+        (PRT
+          (NEG_PART لا))
+        (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يزالون)
+        (NP-SBJ-4
+          (-NONE- *))
+        (S
+          (VP
+            (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يغنّون)
+            (NP-SBJ-4
+              (-NONE- *))
+            (PP-CLR
+              (PREP على)
+              (NP
+                (NOUN+NSUFF_MASC_DU_NOM ليلا)
+                (NP
+                  (POSS_PRON_3MP هم))))
+            (PUNC ,)
+            (S-ADV
+              (VP
+                (IV3MS+IV+IVSUFF_MOOD:I يسوؤ)
+                (NP-OBJ-4
+                  (IVSUFF_DO:3MP هم))
+                (SBAR-SBJ
+                  (SUB_CONJ إن)
+                  (S
+                    (S
+                      (VP
+                        (PV+PVSUFF_SUBJ:3MS اخطأ)
+                        (NP-SBJ
+                          (NOUN+CASE_INDEF_GEN مغنّ)
+                          (NOUN+CASE_INDEF_NOM عربي))))
+</parse>
+<arg f="" g="the mistake of an Arabic singer" n="0">إن اخطأ مغنّ عربي</arg>
+<arg f="" g="Them" n="1">هم</arg>
+</example>
+</frame>
+<comment>Based on roleset sAL-u-v.02</comment></frameset>
+<comment>EGYPTIAN ARABIC Framefile based on sAL-u-v</comment></verb>

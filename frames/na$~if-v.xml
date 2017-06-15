@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>na$~if</id>
+<comment/>
+<frameset cdef="" edef="to dry, to dry out" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل بعد الحمام نشف * جسمه</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his body" n="1">جسمه</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="things dried" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be stubborn (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity stubborn" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل نشف * دماغه</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his mind (brain)" n="1">دماغه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attributed to ARG0" vncls="" vntheta=""/>
+</frameset>
+</verb>

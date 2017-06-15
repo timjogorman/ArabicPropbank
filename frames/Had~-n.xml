@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Had~</id>
+<comment/>
+<frameset cdef="" edef="boundary, limit" id="01" vncls="">
+<role argnum="1" argrole="the entity limited" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا هو حد* ك في البيت</parse>
+<comment/>
+<arg f="" g="he" n="1">* ك</arg>
+<arg f="" g="in the house" n="2">في البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what, with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="penalty, punishment" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وضع القاضي الحد * على القاتل</parse>
+<comment/>
+<arg f="" g="the judge" n="0">* القاضي</arg>
+<arg f="" g="on the killer" n="1">على القاتل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

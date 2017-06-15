@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>barowaz</id>
+
+<frameset cdef="" edef="to frame or decorate" id="01" vncls="">
+<role argnum="0" argrole="Entity decorating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بروز الولد اللوحة بالألوان</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="the board" n="1">اللوحة</arg>
+<arg f="" g="with colors" n="2">بالألوان</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="Entity decorated" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

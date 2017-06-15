@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miHak~im</id>
+<comment/>
+<frameset cdef="" edef="insisting on, closing" id="01" vncls="">
+<role argnum="0" argrole="insister" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل محكم * رأيه</parse>
+<comment/>
+<arg f="" g="the man" n="">* الراجل</arg>
+<arg f="" g="his opinion" n="">رأيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

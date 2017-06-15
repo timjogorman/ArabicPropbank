@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maqoSuwr</id>
+<comment/>
+<frameset cdef="" edef="limited to, restricted to" id="01" vncls="">
+<role argnum="1" argrole="entity limited" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الرياضة دي مقصورة * على الأغنياء فقط</parse>
+<comment/>
+<arg f="" g="this sport" n="1">* الرياضة دي</arg>
+<arg f="" g="for the rich only" n="2">على الأغنياء فقط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

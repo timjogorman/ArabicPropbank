@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoTaraq</id>
+
+<frameset cdef="" edef="to be knocked on or hammered" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انطرق على الباب بالعصا</parse>
+
+<arg f="" g="on the door" n="1">الباب</arg>
+<arg f="" g="with a stick" n="2">بالعصا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity knocked on" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ear~aY</id>
+
+<frameset cdef="" edef="to disrobe or unclothe, to uncover" id="01" vncls="jar~ada-1">
+<role argnum="0" argrole="doer" vncls="jar~ada-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>عرا * ه من ملابسه</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="from his clothes" n="2">من ملابسه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="jar~ada-1" vntheta="theme"/>
+<role argnum="2" argrole="from what" vncls="jar~ada-1" vntheta="source"/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

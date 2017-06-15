@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Dan~-a</id>
+<comment/>
+<frameset cdef="" edef="to be grude, to give too little to" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عندما أحتجت أهلي ضنوا * علي</parse>
+<comment/>
+<arg f="" g="my family" n="0">* أهلي</arg>
+<arg f="" g="on me" n="2">علي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tasaw~al</id>
+<comment/>
+<frameset cdef="" edef="to beg, to ask for alms" id="01" vncls="">
+<role argnum="0" argrole="entity asking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>توسل الرجل الى أخيه أن لا يذهب الى الحفلة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to his brother" n="2">الى أخيه</arg>
+<arg f="" g="not to go to the party" n="1">أن لا يذهب الى الحفلة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things asked" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{iHotaDar</id>
+<comment/>
+<frameset cdef="" edef="by dying, getting close to die" id="01" vncls="">
+<role argnum="1" argrole="entity dying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (S
+      (NP-TPC-1
+        (NOUN_PROP مِصْر))
+      (PP
+        (PREP لِ)
+        (NP
+          (DET+NOUN الأَسَف)))
+      (VP
+        (PRT
+          (PROG_PART بِ))
+        (IV3FS+IV_PASS تِحتِضِر)
+        (NP-SBJ
+          (-NONE- *T*-1))))
+    (CONJ وِ)
+    (S
+      (VP
+        (PRT
+          (PROG_PART بِ))
+        (IV3FS+IV تِستَغِيث)
+        (NP-SBJ
+          (-NONE- *))))</parse>
+<comment/>
+<arg f="" g="Egypt" n="1">*-1  مِصْر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

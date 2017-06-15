@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kalimap</id>
+
+<frameset cdef="" edef="speech (lit. word) - for LVCs" id="01" vncls="">
+<role argnum="0" argrole="speaker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse/>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="subject/type of speech" vncls="" vntheta=""/>
+<role argnum="2" argrole="audience" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="attribute is separate from Arg1" vncls="" vntheta=""/>
+</frameset>
+<comment>based on verb takal~am</comment>
+</verb>

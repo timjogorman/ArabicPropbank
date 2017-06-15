@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinobaTaH</id>
+<comment/>
+<frameset cdef="" edef="to lie face down" id="01" vncls="">
+<role argnum="0" argrole="entity laying down" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-ADV
+        (NOUN+CASE_INDEF_ACC طَبْعاً))
+      (VP
+        (PV_PASS+PVSUFF_SUBJ:3MS اِنْبَطَح)
+        (NP-SBJ
+          (DET+NOUN الناس))))
+    (TYPO و)
+    (S
+      (NP-TPC-1
+        (DET+NOUN+NSUFF_FEM_PL العَرَبِيّات))
+      (VP
+        (PV+PVSUFF_SUBJ:3FS مَرِّت)
+        (NP-SBJ
+          (-NONE- *T*-1))))))</parse>
+<comment/>
+<arg f="" g="the people" n="0">الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attribute to ARG0" vncls="" vntheta=""/>
+</frameset>
+</verb>

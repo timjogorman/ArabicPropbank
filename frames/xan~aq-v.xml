@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xan~aq</id>
+<comment/>
+<frameset cdef="" edef="to put pressure or besiege on someone" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-SBJ
+      (DEM_PRON_MS دَه))
+    (NP-PRD
+      (NOUN غَيْر)
+      (SBAR
+        (SUB_CONJ إِنّ)
+        (S
+          (S
+            (NP-SBJ
+              (PRON_3P هُم))
+            (NP-ADV
+              (NOUN+CASE_INDEF_ACC أَصْلاً))
+            (ADJP-PRD
+              (ADJ+NSUFF_MASC_PL مُحاصِرِين)
+              (NP
+                (DET+NOUN الفِكْر)
+                (DET+ADJ الإِسْلامِيّ))))
+          (CONJ وِ)
+          (S
+            (VP
+              (PRT
+                (PROG_PART بِ))
+              (IV3P+IV+IVSUFF_SUBJ:P يِخَنَّقُوا)
+              (NP-SBJ
+                (-NONE- *))
+              (PP
+                (PREP عَلَى)
+                (NP
+                  (PRON_3MS ُه))))))))))</parse>
+<comment/>
+<arg f="" g="they" n="0">* هُم</arg>
+<arg f="" g="on him" n="1">عليه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

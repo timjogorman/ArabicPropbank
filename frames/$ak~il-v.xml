@@ -1,0 +1,184 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>$ak~il</id>
+<comment>EGYPTIAN ARABIC based on $ak~al</comment>
+    <frameset cdef="" edef="to constitute, form or compose" id="01">
+<role argnum="1" argrole="parts" />
+<role argnum="2" argrole="whole" />
+<frame>
+<example>
+<parse>(TOP
+  (S
+    (CONJ و)
+    (VP
+      (PSEUDO_VERB ان)
+      (NP-SBJ-3
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC القمة))
+        (SBAR
+          (WHNP-1
+            (REL_PRON التي))
+          (S
+            (VP
+              (IV3FS+IV+IVSUFF_MOOD:I تجمع)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (NP
+                  (NOUN_NUM 51)
+                  (NP
+                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC دولة)))
+                (PUNC ,)
+                (SBAR
+                  (WHNP-2
+                    (-NONE- 0))
+                  (S
+                    (VP
+                      (IV3FS+IV+IVSUFF_MOOD:I تشكل)
+                      (NP-SBJ
+                        (-NONE- *T*-2))
+                      (NP-PRD
+                        (NOUN_QUANT+CASE_DEF_ACC ربع)
+                        (NP
+                          (NOUN+CASE_DEF_GEN اعضاء)
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN الامم)
+                            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المتحدة))))))))))))
+      (PUNC ,)
+      (S
+        (VP
+          (IV3FS+IV+IVSUFF_MOOD:I تقدم)
+          (NP-SBJ
+            (-NONE- *-3))
+          (NP-OBJ
+            (NP
+              (NOUN+CASE_INDEF_ACC خطاباً))
+            (ADJP
+              (ADJ+CASE_INDEF_ACC معاكساً)
+              (CONJ او)
+              (ADJ+CASE_INDEF_ACC مغايراً)
+              (PP
+                (PREP ل)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN لخطاب)
+                  (DET+ADJ+CASE_DEF_GEN الاميركي))))))))
+    (PUNC .)))</parse>
+<arg f="" g="-NONE- &gt; the summit that includes 51 nations" n="1">*T*-2 &gt; القمة التي تجمع 51 دولة</arg>
+<arg f="" g="a quarter of the UN's constituency" n="2">تشكل ربع اعضاء الامم المتحدة</arg>
+<comment />
+</example>
+<example>
+<parse>(TOP
+  (S
+    (CONJ و)
+    (VP
+      (IV3FS+IV+IVSUFF_MOOD:I تشكل)
+      (NP-SBJ
+        (NP
+          (DEM_PRON_F هذه))
+        (NP
+          (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_NOM الجماعات)))
+      (SBAR-NOM-OBJ
+        (WHNP-1
+          (REL_PRON ما))
+        (S
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يمكن)
+            (S-NOM-SBJ
+              (VP
+                (NOUN.VN+CASE_DEF_NOM وصف)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (NP
+                    (POSS_PRON_3MS ه))
+                  (NP
+                    (-NONE- *T*-1)))
+                (SBAR
+                  (SUB_CONJ أن)
+                  (S
+                    (NP-SBJ
+                      (PRON_3MS ه))
+                    (NP-PRD
+                      (PUNC ")
+                      (NOUN+CASE_DEF_NOM مجتمع)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN المجتمعات))
+                      (PUNC "))))))))))
+    (PUNC .)))</parse>
+<arg f="" g="these groups" n="1">هذه الجماعات</arg>
+<arg f="" g="what can be described as the society of all societies" n="2-sbar">ما يمكن وصفه أنه " مجتمع المجتمعات</arg>
+<comment />
+</example>
+<example>
+<parse>Passive
+
+
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3MS استمر)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (PP
+                      (PREP ب)
+                      (NP
+                        (NP
+                          (DEM_PRON_MS هذا))
+                        (NP
+                          (DET+NOUN+CASE_DEF_GEN المنصب))))
+                    (PP-TMP
+                      (PREP حتى)
+                      (NP
+                        (NP
+                          (NP
+                            (NOUN_NUM 2))
+                          (PUNC /)
+                          (NP-TMP
+                            (NP
+                              (NOUN_NUM 12))
+                            (PUNC /)
+                            (NP-TMP
+                              (NOUN_NUM 1981))))
+                        (NP-TMP
+                          (NOUN حين)
+                          (S
+                            (VP
+                              (PV_PASS+PVSUFF_SUBJ:3FS شكلت)
+                              (NP-SBJ-6
+                                (NP
+                                  (NOUN+NSUFF_FEM_SG+CASE_INDEF_NOM وزارة)
+                                  (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM جديدة)))
+                              (NP-OBJ
+                                (-NONE- *-6))
+                              (PP
+                                (PREP ب)
+                                (NP
+                                  (NP
+                                    (NP
+                                      (DET+NOUN+CASE_DEF_GEN المرسوم))
+                                    (NP
+                                      (PUNC /)
+                                      (NOUN_NUM 747)
+                                      (PUNC /)))
+                                  (NP-TMP
+                                    (NOUN+CASE_DEF_GEN تاريخ)
+                                    (NP
+                                      (NP
+                                        (NOUN_NUM 3))
+                                      (PUNC /)
+                                      (NP-TMP
+                                        (NP
+                                          (NOUN_NUM 12))
+                                        (PUNC /)
+                                        (NP-TMP
+                                          (NOUN_NUM 1981)))))))
+    (PUNC .)))</parse>
+<arg f="" g="a new ministry" n="2">وزارة جديدة</arg>
+
+<arg f="mnr" g="with the decree /747/ on the date of 3/12/1981" n="m">بالمرسوم / 747 / تاريخ 3 / 12 / 1981 لم يكن في عدادها</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset $ak~al.01</comment>
+</frameset>
+</verb>

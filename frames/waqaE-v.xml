@@ -1,0 +1,331 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waqaE</id>
+
+    <frameset cdef="" edef="to fall down" id="01" vncls="">
+<role argnum="1" argrole="thing falling" vncls="" vntheta=""/>
+<role argnum="2" argrole="source or start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="goal, end point or endstate" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(VP
+    (IV3FS+IV+IVSUFF_MOOD:I تطلب)
+    (NP-SBJ
+      (NP
+        (DEM_PRON_F هذه))
+      (NP
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM المديرية)
+        (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM العامة)))
+    (PP-CLR
+      (PREP من)
+      (NP
+        (NP
+          (DET+NOUN+NSUFF_MASC_PL_GEN المواطنين)
+          (DET+ADJ+CASE_DEF_GEN الكرام))
+        (SBAR
+          (WHNP-1
+            (REL_PRON الذين))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MP وقعوا)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-ADV
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC ضحية)
+                (NP
+                  (NOUN+CASE_DEF_GEN اعمال)
+                  (NP
+                    (POSS_PRON_3MS ه)))))))))
+    (NP-OBJ
+      (NP
+        (NP
+          (DET+NOUN+CASE_DEF_ACC الحضور))
+        (PP
+          (PREP الى)
+          (NP
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مفرزة)
+              (NP
+                (NOUN_PROP صيدا)))
+            (ADJP
+              (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN القضائية)))))</parse>
+<arg f="" g="They" n="1">-NONE- *T*-1&lt;المواطنين</arg>
+<arg f="" g="victims of the two of them's actions" n="3">ضحية اعماله</arg>
+<V/>
+
+
+<comment/>
+</example>
+<example>
+<parse>(S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3MS كان)
+      (NP-1
+        (DET+NOUN_PROP الجميل))
+      (VP
+        (PRT
+          (VERB_PART قد))
+        (PV_PASS+PVSUFF_SUBJ:3MS اصيب)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (-NONE- *-1))
+        (PP-CLR
+          (PREP ب)
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN نزلة)))
+        (NP-TMP
+          (NOUN+CASE_DEF_ACC قبل)
+          (NP
+            (NOUN+NSUFF_MASC_DU_GEN يومين))))))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS عانى)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-TMP
+        (NOUN+CASE_DEF_ACC قبل)
+        (NP
+          (NOUN+CASE_DEF_GEN ظهر)
+          (NP
+            (NOUN امس))))
+      (NP-OBJ
+        (NP
+          (NP
+            (NOUN+CASE_INDEF_ACC ارتفاعاً))
+          (PP
+            (PREP في)
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN حرارت)
+              (NP
+                (POSS_PRON_3MS ه)))))
+        (PUNC ,)
+        (SBAR
+          (WHNP-3
+            (-NONE- 0))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS وقع)
+              (NP-SBJ
+                (-NONE- *))
+              (PP-TMP
+                (PREP على)
+                (NP
+                  (NOUN اثر)
+                  (NP
+                    (NP
+                      (POSS_PRON_3MS ه))
+                    (NP
+                      (-NONE- *T*-3)))))
+              (PP-LOC
+                (PREP في)
+                (NP
+                  (NOUN+CASE_DEF_GEN ارض)
+                  (NP
+                    (NOUN+CASE_DEF_GEN منزل)
+                    (NP
+                      (POSS_PRON_3MS ه))))))))</parse>
+<arg f="" g="He" n="1">-NONE- *&lt;الجميل</arg>
+<arg f="tmp" g="consequently" n="m">EalaY Avrh</arg>
+<arg f="" g="on the floor of his house" n="3">في ارض منزله</arg>
+
+
+<comment/>
+</example>
+<example>
+<parse>waqaEat Alkurapu min OaEolaY AlmabonaY masAfapa 20 mitorAK</parse>
+<arg f="" g="the ball" n="1">Alkurapu</arg>
+<arg f="" g="from the top of the building" n="2">min OaEolaY AlmabonaY</arg>
+<arg f="" g="a distance of 20 meters" n="4">masAfapa 20 mitorAF</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+
+<comment>سقط
+Based on roleset waqaE-a.01</comment>
+</frameset>
+<frameset cdef="" edef="To locate or occur" id="04" vncls="">
+<role argnum="1" argrole="institution, thing located" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(VP
+      (IV3FS+IV+IVSUFF_MOOD:I تقع)
+      (NP-SBJ
+        (NOUN_PROP ميلاك))
+      (NP-LOC
+        (NOUN+CASE_DEF_ACC بين)
+        (NP
+          (NP
+            (NOUN_PROP بلوشستان))
+          (CONJ و)
+          (NP
+            (NP
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN ولاية)
+                (NP
+                  (NOUN_PROP نمروز)))
+              (ADJP
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الافغانية)</parse>
+<arg f="" g="Milak" n="1">ميلاك</arg>
+<arg f="" g="Between Balochistan and the state of Nimruz" n="2">بين بلوشستان وولاية نمروز</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+
+<comment>توجد
+Based on roleset waqaE-a.04</comment>
+</frameset>
+<frameset cdef="" edef="To happen" id="05" vncls="">
+<role argnum="1" argrole="event" vncls="" vntheta=""/>
+<role argnum="2" argrole="benefactive" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(VP
+    (PRT
+      (VERB_PART لقد))
+    (PV+PVSUFF_SUBJ:3MS وقع)
+    (NP-SBJ
+      (NP
+        (NOUN خطأ))
+      (NP
+        (NOUN ما)))
+    (PP
+      (PREP ب)
+      (NP
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN النسبة))
+        (PP
+          (PREP الى)
+          (NP
+            (NOUN+CASE_DEF_GEN موضوع)
+            (NP
+              (NP
+                (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الصلاحيات))
+              (NP-ADV
+                (NOUN+CASE_DEF_ACC بين)
+                (NP
+                  (NP
+                    (NOUN+CASE_DEF_GEN مجلس)
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN الوزراء)))
+                  (CONJ و)
+                  (NP
+                    (NOUN+CASE_DEF_GEN مجلس)
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجامعة)))))))))))
+  (PUNC .))</parse>
+<arg f="" g="Error" n="1">خطأ</arg>
+<arg f="" g="Between the Council of Ministers and the Council of the League" n="2">بين مجلس الوزراء ومجلس الجامعة</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+
+<comment>حدث / جرى
+Based on roleset waqaE-a.05</comment>
+</frameset>
+
+<frameset cdef="" edef="to argue, to ruarrel (multi word expression)" id="06" vncls="">
+<role argnum="1" argrole="entity arguing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الناس ولعت * في بعض</parse>
+
+<arg f="" g="the people" n="1">* الناس</arg>
+<arg f="" g="in each other" n="2">في بعض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="second party" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be captured (multi word expression)" id="07" vncls="">
+<role argnum="1" argrole="entity captured" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (VP
+        (IV3MS+IV_PASS يُحْكَى)
+        (SBAR-SBJ-1
+          (SUB_CONJ أَنْ)
+          (S
+            (NP-TPC-2
+              (NOUN+CASE_INDEF_ACC فِيلاً)
+              (ADJ+CASE_INDEF_ACC صَغِيراً))
+            (VP
+              (PV+PVSUFF_SUBJ:3MS وَقَع)
+              (NP-SBJ
+                (-NONE- *T*-2))
+              (PP
+                (PREP فِي)
+                (NP
+                  (DET+NOUN الأَسْر))))))
+        (NP-OBJ
+          (-NONE- *-1))))</parse>
+
+<arg f="" g="small elephant" n="1">*T* -2 فِيلاً صَغِيراً</arg>
+<arg f="" g="in captivity" n="2">فِي الأَسْر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="in what, captivity" vncls="" vntheta=""/>
+<role argnum="3" argrole="by whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on waqaE-a</comment>
+<frameset cdef="" edef="to end up" id="08" vncls="">
+<role argnum="1" argrole="entity ending up" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>في الأخر حنقع أنا وأنت مع بعض</parse>
+<comment/>
+<arg f="" g="me and you" n="1">أنا وأنت</arg>
+<arg f="" g="together" n="2">مع بعض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="results" vncls="" vntheta=""/>
+</frameset>
+</verb>

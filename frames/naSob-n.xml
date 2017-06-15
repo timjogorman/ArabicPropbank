@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naSob</id>
+<comment/>
+<frameset cdef="" edef="to erect or raise, to set a trap" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الشعب بنصب * تمثالا للاعب</parse>
+<comment/>
+<arg f="" g="the people" n="0">* الشعب</arg>
+<arg f="" g="a statue" n="1">تمثالا</arg>
+<arg f="" g="for the player" n="2">للاعب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things raised" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to put (a noun) in the accusative" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أخطأ الطالب بنصب * الكلمة بدلا من رفعها</parse>
+<comment/>
+<arg f="" g="the student" n="0">* الطالب</arg>
+<arg f="" g="the word" n="1">الكلمة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the word" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to swindle or dupe" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تمت عملية النصب على الرجل من قبل اخيه في موضوع البيت بسهولة</parse>
+<comment/>
+<arg f="" g="on the man" n="1">على الرجل</arg>
+<arg f="" g="by his brother" n="0">من قبل اخيه</arg>
+<arg f="" g="in the house subject" n="2">في موضوع البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

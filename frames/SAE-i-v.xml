@@ -1,0 +1,145 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SAE-i</id>
+
+<frameset cdef="" edef="to separate, to part, to sow dissension among" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>صاع الذئب الغنم</parse>
+
+<arg f="" g="the wolf" n="0">الذئب</arg>
+<arg f="" g="the sheep" n="1">الغنم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be lost, to deviate from" id="02" vncls="">
+<role argnum="0" argrole="entity deviating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الواد ده صاع * عن الحق</parse>
+
+<arg f="" g="this boy" n="0">* الواد ده</arg>
+<arg f="" g="from truth" n="1">عن الحق</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to swindle, to cheat" id="03" vncls="">
+<role argnum="0" argrole="cheater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(FRAG
+    (NP
+      (NOUN_PROP حسنى)
+      (PUNC :))
+    (S
+      (NP-SBJ
+        (PRON_1S انا))
+      (ADJP-PRD
+        (PRT
+          (NEG_PART مِش))
+        (ADJ مَدْيُون)
+        (PP
+          (PREP لِ)
+          (NP
+            (NOUN حد))))
+      (NP-VOC
+        (PRT
+          (VOC_PART يَا))
+        (NOUN وِلاد)))
+    (PUNC .)
+    (PUNC .)
+    (PUNC .)
+    (PUNC .)
+    (PUNC .)
+    (S
+      (VP
+        (IV3MS+IV يَعْنِي)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (-NONE- 0)
+          (S
+            (NP-TPC-6
+              (NOUN_QUANT أى)
+              (NP
+                (NP
+                  (NOUN واحد))
+                (SBAR
+                  (SBAR
+                    (WHNP-1
+                      (-NONE- 0))
+                    (S
+                      (VP
+                        (IV3MS+IV يِصِيع)
+                        (NP-SBJ
+                          (-NONE- *T*-1))
+                        (PP
+                          (PREP عَلَى)
+                          (NP
+                            (PRON_2P كُم))))))
+                  (CONJ وِ)
+                  (SBAR
+                    (WHNP-3
+                      (-NONE- 0))
+                    (S
+                      (VP
+                        (IV3MS+IV يِقُول)
+                        (NP-SBJ
+                          (-NONE- *T*-3))
+                        (PP
+                          (PREP لِ)
+                          (NP
+                            (PRON_2P كُم)))
+                        (S
+                          (NP-TPC-5
+                            (NOUN ابُو)
+                            (NP
+                              (POSS_PRON_2P كُم)))
+                          (VP
+                            (PV+PVSUFF_SUBJ:3MS كان)
+                            (NP-SBJ
+                              (-NONE- *T*-5))
+                            (ADJP-PRD
+                              (ADJ مِستِلِف)
+                              (PP
+                                (PREP مِنّ)
+                                (NP
+                                  (PRON_1S ِي)))
+                              (NP
+                                (NOUN فِلُوس)))))))))))</parse>
+<comment/>
+<arg f="" g="anybody" n="0">* أى واحد</arg>
+<arg f="" g="on you" n="1">عليكم</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="cheated" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

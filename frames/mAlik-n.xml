@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mAlik</id>
+
+<frameset cdef="" edef="owner / holder" id="01" vncls="">
+<role argnum="1" argrole="owner" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ساكن يتهم مالك * عقار بإطلاق النار عليه لرفضه الأدوار المخالفة</parse>
+
+<arg f="" g="he" n="1">*</arg>
+<arg f="" g="real estate" n="2">عقار</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="thign owned" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

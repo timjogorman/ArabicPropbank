@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IiHolAl</id>
+<comment/>
+<frameset cdef="" edef="replacing" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم احلال * قوات الشرطة بدلا من الجيش</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the police forces" n="1">قوات الشرطة</arg>
+<arg f="" g="to substitutethe army" n="2">بدلا من الجيش</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing replacing" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing being replaced, starts with محل" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="placing" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم احلال * السلام في المنطقة</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="peace" n="1">السلام</arg>
+<arg f="" g="in the region" n="2">في المنطقة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing placed" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

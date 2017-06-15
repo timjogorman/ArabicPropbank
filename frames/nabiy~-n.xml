@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nabiy~</id>
+<comment/>
+<frameset cdef="" edef="prophet" id="01" vncls="">
+<role argnum="1" argrole="the prophet" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو نبي * من الله الى العالم أجمع</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="from God" n="2">من الله</arg>
+<arg f="" g="to the whole world" n="3">الى العالم أجمع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from or sent by" vncls="" vntheta=""/>
+<role argnum="3" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

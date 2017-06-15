@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OadomaE</id>
+<comment/>
+<frameset cdef="" edef="to make the eye fill with tears, to fill up" id="01">
+<role argnum="0" argrole="causer"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلا علينا تلاوة تدمع * القلب</parse>
+<comment/>
+<arg f="" g="recital" n="0">* تلاوة</arg>
+<arg f="" g="the heart" n="1">القلب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim"/>
+</frameset>
+</verb>

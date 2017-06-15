@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>walAL</id>
+<comment/>
+<frameset cdef="" edef="loyalty" id="01" vncls="">
+<role argnum="1" argrole="entity loyal" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ وِ)
+                (S
+                  (NP-SBJ
+                    (DEM_PRON_FS هِيَّ))
+                  (NP-PRD
+                    (NOUN اِسْتِمْرار)
+                    (NP
+                      (S-NOM
+                        (VP
+                          (NOUN.VN وَلائ)
+                          (NP-SBJ
+                            (POSS_PRON_3MS ُه))
+                          (PP-CLR
+                            (PREP لِ)
+                            (NP
+                              (NOUN_PROP أَمْرِيكا)))))</parse>
+<comment/>
+<arg f="" g="his" n="1">ه</arg>
+<arg f="" g="to the USA" n="2">لأَمْرِيكا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="recipient of loyalty" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kabat-i</id>
+<comment/>
+<frameset cdef="" edef="to suppress or subdue" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (NP-TPC-1
+        (PRON_1S انا))
+      (VP
+        (PRT
+          (NEG_PART مِش))
+        (PRT
+          (PROG_PART بِ))
+        (IV1S+IV اَكبِت)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (NOUN+NSUFF_FEM_SG حُرِّيَّة)
+          (NP
+            (POSS_PRON_2FS ِك))))
+      (PUNC .)
+      (PUNC .))
+    (CONJ بَسّ)
+    (S
+      (S
+        (NP-TPC-2
+          (PRT
+            (NEG_PART مِش))
+          (NOUN_QUANT كُلّ)
+          (NP
+            (DET+NOUN الناس)))
+        (VP</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="your freedom" n="1">حريتك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to ARG1 (if separated)" vncls="" vntheta=""/>
+</frameset>
+</verb>

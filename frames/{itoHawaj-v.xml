@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{itoHawaj</id>
+<comment/>
+<frameset cdef="" edef="to become needy, to become poor" id="01" vncls="">
+<role argnum="0" argrole="entity in need" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أول مره أقضي أغراض البيت من غير ما اتحوج * للمساعدة من أي واحد</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="for help" n="1">للمساعدة</arg>
+<arg f="" g="from anyone" n="2">من أي واحد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

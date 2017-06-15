@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aahodar</id>
+<frameset cdef="" edef="waste" id="01">
+<role argnum="0" argrole="entity causes wasting" />
+<role argnum="1" argrole="thing wasted" />
+<frame>
+<example>
+<parse>
+(VP
+        (PSEUDO_VERB لكن)
+        (NP-SBJ-2
+          (NOUN+NSUFF_MASC_PL_ACC لاعبي)
+          (NP
+            (POSS_PRON_3FS ها)))
+        (S
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MP افتقدوا)
+              (NP-SBJ
+                (-NONE- *-2))
+              (NP-OBJ
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الفاعلية))
+              (NP-ADV
+                (NOUN+CASE_DEF_ACC أمام)
+                (NP
+                  (DET+NOUN المرمى)
+                  (DET+ADJ+CASE_DEF_GEN اليوغوسلافي)))))
+          (CONJ و)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MP أهدروا)
+              (NP-SBJ
+                (-NONE- *-2))
+              (NP-OBJ
+                (NOUN+CASE_INDEF_ACC فرصاً)
+                (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC عدة))
+              (NP-TMP
+                (ADJP
+                  (ADJ_COMP+CASE_DEF_ACC أواخر)
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المباراة))))))))))
+</parse>
+<arg f="" g="they" n="0">-NONE- *-2 &lt;لاعبيها</arg>
+<arg f="" g="several opportunities" n="1">فرصاً عدة</arg>
+<arg f="adv" g="end of the game" n="m">أواخر المباراة</arg>
+</example>
+</frame>
+<comment>
+أضاع
+
+Based on roleset Oahodar.01</comment>
+</frameset>
+<frameset cdef="" edef="to proscribe or declare killing someone lawful" id="02">
+<role argnum="0" argrole="declarer" />
+<role argnum="1" argrole="(usually his or here blood)" />
+<frame>
+<example>
+<parse>
+مخرج يمني يلجأ للقضاء الفرنسي لمحاكمة برلماني أهدر *دمه.
+</parse>
+<arg f="" g="he" n="0">* &lt; برلماني</arg>
+<arg f="" g="his blood" n="1">دمه</arg>
+</example>
+</frame>
+<comment>
+أهدر دمه : أباح قتله بحيث لا يعاقب من يقتله (Idiomatic expression)
+
+Based on roleset Oahodar.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on Oahodar</comment></verb>

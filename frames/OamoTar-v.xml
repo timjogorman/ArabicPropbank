@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OamoTar</id>
+<comment/>
+<frameset cdef="" edef="to rain" id="01" vncls="">
+<role argnum="1" argrole="entity  rained" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أمطرت السماء ضفادع صغيرة</parse>
+<comment/>
+<arg f="" g="the sky" n="1">السماء</arg>
+<arg f="" g="small frogs" n="2">ضفادع صغيرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tan~aH</id>
+<comment/>
+<frameset cdef="" edef="to become stubborn" id="01" vncls="">
+<role argnum="0" argrole="entity getting stubborn" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل تنح * في مشكلة البيت</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="in the house problem" n="1">في مشكلة البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

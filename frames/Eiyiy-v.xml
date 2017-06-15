@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eiyiy</id>
+<comment/>
+<frameset cdef="" edef="to be sick, to fall ill" id="01" vncls="">
+<role argnum="0" argrole="entity getting sick" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل عيي * بالبرد</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="with cold" n="1">بالبرد</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="sickness" vncls="" vntheta=""/>
+<role argnum="2" argrole="source or from" vncls="" vntheta=""/>
+</frameset>
+</verb>

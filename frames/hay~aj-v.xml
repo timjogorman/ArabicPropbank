@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hay~aj</id>
+
+<frameset cdef="" edef="to agitate or excite, to stir or rouse" id="01" vncls="sal~aY-1">
+<role argnum="0" argrole="agent or causer" vncls="sal~aY-1" vntheta="cause"/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>هيج * الناس بكلماته الناعمة ضد خصمه</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the people" n="1">الناس</arg>
+
+<arg f="" g="with his smooth words" n="2">بكلماته الناعمة</arg>
+
+
+
+<arg f="gol" g="against his opponent" n="m">ضد خصمه</arg>
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity agitated" vncls="sal~aY-1" vntheta="experiencer"/>
+
+<role argnum="2" argrole="with what" vncls="sal~aY-1" vntheta="instrument"/>
+
+
+
+<comment/>
+</frameset>
+
+
+
+<comment/>
+</verb>

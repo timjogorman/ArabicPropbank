@@ -1,0 +1,71 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitofar~aE</id>
+<comment/>
+<frameset cdef="" edef="to ramify or branch out" id="01" vncls="">
+<role argnum="1" argrole="entity branching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (SBAR-ADV
+      (SUB_CONJ حَتَّى)
+      (S
+        (VP
+          (PRT
+            (NEG_PART لا))
+          (IV3MS+IV يِتْفَرَّع)
+          (NP-SBJ
+            (DET+NOUN المَوضُوع)))))
+    (VP
+      (IV1S+IV اَوّعِد)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (IVSUFF_DO:2MS َك))
+      (SBAR
+        (-NONE- 0)
+        (S
+          (VP
+            (PRT
+              (FUT_PART حَ))
+            (IV1S+IV اَحاوِل)
+            (NP-SBJ
+              (-NONE- *))
+            (SBAR
+              (-NONE- 0)
+              (S
+                (VP
+                  (IV1S+IV اَعمِل)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (PP
+                    (PREP لِ)
+                    (NP
+                      (PRON_2MS َك)))
+                  (NP-OBJ
+                    (NOUN مَوضُوع))
+                  (PP
+                    (PREP عَنّ)
+                    (NP
+                      (NP
+                        (PRON_3MS ُه))
+                      (CONJ وِ)
+                      (NP
+                        (NOUN أَمْثال)
+                        (NP
+                          (POSS_PRON_3MS ُه)))))))))))))
+  (S</parse>
+<comment/>
+<arg f="" g="the subject" n="1">المَوضُوع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="extension" vncls="" vntheta=""/>
+</frameset>
+</verb>

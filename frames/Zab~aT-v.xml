@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Zab~aT</id>
+<comment/>
+<frameset cdef="" edef="to adjust or tune" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أحنا اللي ظبطنا * الحاجات دية</parse>
+<comment/>
+<arg f="" g="we" n="0">أحنا</arg>
+<arg f="" g="these things" n="1">الحاجات دية</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things adjusted" vncls="" vntheta=""/>
+</frameset>
+</verb>

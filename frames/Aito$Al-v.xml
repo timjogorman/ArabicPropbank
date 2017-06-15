@@ -1,0 +1,83 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$Al</id>
+
+    <frameset cdef="" edef="to be removed" id="03" vncls="">
+<role argnum="0" argrole="remover" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(SQ
+    (INTJ
+      (INTERJ ايوه))
+    (ADJP-PRD
+      (ADV حقيقى))
+    (SBAR-SBJ
+      (-NONE- 0)
+      (S
+        (NP-TPC-1
+          (NOUN_PROP مصر))
+        (VP
+          (PV+PVSUFF_SUBJ:3FS شالت)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (NP-OBJ
+            (NOUN اسم)
+            (NP
+              (NOUN_PROP اسرائيل)))
+          (PP
+            (NOUN_PROP من)
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG الخريطه))))))))</parse>
+
+<arg f="" g="Egypt" n="0">مصر</arg>
+<arg f="" g="the name of Israiel" n="1">اسم اسرائيل</arg>
+<arg f="" g="from the map" n="2">من الخريطة</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="removed" vncls="" vntheta=""/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+
+
+<comment>ARZ
+Based on roleset $Al-i.03</comment>
+</frameset>
+
+<frameset cdef="" edef="to be carried" id="04" vncls="">
+<role argnum="0" argrole="carrier" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اللاعيبة اتشالوا * على الاكتاف</parse>
+
+<arg f="" g="the players" n="1">* اللاعيبة</arg>
+<arg f="" g="on the shoulders" n="3">على الاكتاف</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things carried" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on $Al-i</comment>
+</verb>

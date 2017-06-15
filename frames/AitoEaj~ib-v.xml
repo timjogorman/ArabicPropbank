@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoEaj~ib</id>
+<comment>EGYPTIAN ARABIC based on taEaj~ab</comment>
+    <frameset cdef="" edef="to wonder or marvel at" id="01">
+<role argnum="0" argrole="entity marveled" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تعجب الرجل من سلوك اخيه</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="from his brother's behavior" n="1">من سلوك اخيه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset taEaj~ab.01</comment>
+<role argnum="1" argrole="about what" />
+</frameset>
+</verb>

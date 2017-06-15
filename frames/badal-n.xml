@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>badal</id>
+<comment/>
+<frameset cdef="" edef="equivalent, in return, exchange" id="01" vncls="">
+<role argnum="1" argrole="things replasment (the new things)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خذ هذا الكتاب بدلا * من الذي ضاع</parse>
+<comment/>
+<arg f="" g="this book" n="1">هذا الكتاب</arg>
+<arg f="" g="replacement for the one that was lost" n="2">من الذي ضاع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="of what ( the old one )" vncls="" vntheta=""/>
+</frameset>
+</verb>

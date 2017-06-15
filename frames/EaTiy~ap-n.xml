@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EaTiy~ap</id>
+<comment/>
+<frameset cdef="" edef="gift, present, bonus" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الخلاص هو عطية * من الله للبشر</parse>
+<comment/>
+<arg f="" g="salvation" n="1">* الخلاص</arg>
+<arg f="" g="from God" n="0">من الله</arg>
+<arg f="" g="for human being" n="2">للبشر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things given" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

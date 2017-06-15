@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faroka$ap</id>
+<comment/>
+<frameset cdef="" edef="destruction" id="01" vncls="">
+<role argnum="0" argrole="destroyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو بيحب فركشة * الحفلات</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="the parties" n="1">الحفلات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing destroyed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

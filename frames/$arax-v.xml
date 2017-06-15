@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$arax</id>
+
+<frameset cdef="" edef="To split, to crack ,to break up" id="01" vncls="">
+<role argnum="0" argrole="entity sliting, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شرخ الولد الباب بالفأس</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="the door" n="1">الباب</arg>
+<arg f="" g="with an ax" n="2">بالفأس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things been splitted" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

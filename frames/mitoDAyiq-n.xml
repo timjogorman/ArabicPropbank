@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitoDAyiq</id>
+<comment/>
+<frameset cdef="" edef="to become annoyed" id="01" vncls="">
+<role argnum="1" argrole="entity annoyed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا متضايق * من  كلامك</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="from what you are saying" n="2">من  كلامك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

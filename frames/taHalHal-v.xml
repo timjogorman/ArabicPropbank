@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taHalHal</id>
+<comment/>
+<frameset cdef="" edef="to move" id="01" vncls="">
+<role argnum="0" argrole="entity moving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تحلحل الحارس من مكانه</parse>
+<comment/>
+<arg f="" g="the guard" n="0">الحارس</arg>
+<arg f="" g="from his place" n="1">من مكانه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from where" vncls="" vntheta=""/>
+<role argnum="2" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+</verb>

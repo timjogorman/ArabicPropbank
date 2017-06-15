@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dabolaj</id>
+
+<frameset cdef="" edef="To dub / transfer (recorded material) onto a new recording medium or language" id="01" vncls="">
+<role argnum="0" argrole="the entity dubbing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دبلج الولد الفلم بسرعة</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="the film" n="1">الفلم</arg>
+<arg f="mnr" g="quickly" n="m">بسرعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the material" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="old language" vncls="" vntheta=""/>
+<role argnum="3" argrole="new language" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

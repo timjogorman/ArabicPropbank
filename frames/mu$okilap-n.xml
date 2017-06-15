@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mu$okilap</id>
+<comment/>
+<frameset cdef="" edef="problem" id="01" vncls="">
+<role argnum="1" argrole="the problem" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أثارت مشكلة جمع القاذورات من الشارع للناس نقاشا كبيرا</parse>
+<comment/>
+<arg f="" g="removing the trash" n="1">جمع القاذورات</arg>
+<arg f="loc" g="from the street" n="m">من الشارع</arg>
+<arg f="" g="for the people" n="2">للناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

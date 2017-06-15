@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodalaq</id>
+
+<frameset cdef="" edef="to be poured , spilled" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اندلق الشاي من الفنجان</parse>
+
+<arg f="" g="tea" n="1">الشاي</arg>
+<arg f="" g="from the cup" n="2">من الفنجان</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="liguid" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

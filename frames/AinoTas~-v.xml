@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinoTas~</id>
+<comment/>
+<frameset cdef="" edef="to be hit" id="01" vncls="">
+<role argnum="1" argrole="entity getting hit" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنطس * في عيني لو أنا بكذب</parse>
+<comment/>
+<arg f="" g="NONE" n="1">* ? NONE</arg>
+<arg f="" g="in my eye" n="2">في عيني</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

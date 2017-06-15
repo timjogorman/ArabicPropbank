@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>galaT</id>
+
+<frameset cdef="" edef="wrong" id="01" vncls="">
+<role argnum="0" argrole="entity doing wrong" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بتاعنا بقى لو عملنا اى حاجة غلط طول حياتنا</parse>
+
+<arg f="" g="we" n="0">نا</arg>
+<comment/>
+<arg f="" g="thing" n="1">حاجة</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing wrong" vncls="" vntheta=""/>
+<comment>Eg</comment>
+<role argnum="2" argrole="in what?" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$id~ap</id>
+<comment/>
+<frameset cdef="" edef="distress, hardship, strenght" id="01" vncls="">
+<role argnum="1" argrole="things that are hard" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما أصعب شدة الحرب على الحياة</parse>
+<comment/>
+<arg f="" g="the war" n="1">الحرب</arg>
+<arg f="" g="on life" n="2">على الحياة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

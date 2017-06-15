@@ -1,0 +1,94 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ai}otaman</id>
+<comment/>
+<frameset cdef="" edef="to trust, to have confidence in" id="01" vncls="">
+<role argnum="0" argrole="truster" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SQ
+    (VP
+      (PV+PVSUFF_SUBJ:2MS عَمَلت)
+      (NP-SBJ
+        (-NONE- *))
+      (WHNP-OBJ
+        (INTERROG_PRON إِيه))
+      (NP-ADV
+        (NOUN أَمام)
+        (NP
+          (NP
+            (NOUN سُلْطان)
+            (NOUN جائِر))
+          (TYPO و)
+          (NP
+            (NOUN حاكِم)
+            (ADJ ظالِم))
+          (TYPO و)
+          (NP
+            (NOUN مَسْئُول)
+            (ADJ فاسِد))
+          (TYPO و)
+          (NP
+            (NP
+              (NOUN صاحِب)
+              (NP
+                (NOUN+NSUFF_FEM_SG أَمانَة)))
+            (SBAR
+              (SBAR
+                (WHNP-4
+                  (-NONE- 0))
+                (S
+                  (VP
+                    (PRT
+                      (PROG_PART بِ))
+                    (IV3MS+IV يِخُون)
+                    (NP-SBJ
+                      (-NONE- *T*-4))
+                    (NP-OBJ
+                      (IVSUFF_DO:3FS ها)))))
+              (TYPO و)
+              (SBAR
+                (WHNP-1
+                  (-NONE- 0))
+                (S
+                  (VP
+                    (PRT
+                      (PROG_PART بِ))
+                    (IV3MS+IV يِعْمِل)
+                    (NP-SBJ
+                      (-NONE- *T*-1))
+                    (NP-OBJ
+                      (NOUN عَكْس)
+                      (SBAR-NOM
+                        (WHNP-3
+                          (REL_PRON اِللِّي))
+                        (S
+                          (VP
+                            (PV+PVSUFF_SUBJ:1P اِئْتَمَننا)
+                            (NP-SBJ
+                              (-NONE- *))
+                            (NP-OBJ
+                              (PVSUFF_DO:3MS ُه))
+                            (PP
+                              (PREP عَلَى)
+                              (NP
+                                (NP
+                                  (PRON_3MS ُه))
+                                (NP
+                                  (-NONE- *T*-3))))))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="with it" n="2">عليه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="trusted" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what or with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

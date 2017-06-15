@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xarat-u</id>
+
+<frameset cdef="" edef="to drill, to hole" id="01" vncls="">
+<role argnum="0" argrole="driller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خرتت الإبرة أذنها</parse>
+
+<arg f="" g="the needle" n="0">الإبرة</arg>
+<arg f="" g="her ear" n="1">أذنها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity drilled" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

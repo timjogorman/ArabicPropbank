@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamah~al</id>
+<comment/>
+<frameset cdef="" edef="to act slowly, to slow" id="01">
+<role argnum="0" argrole="entity slowing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تمهل ابي في اعطاء الايجار لصاحب البيت</parse>
+<comment/>
+<arg f="" g="my father" n="0">ابي</arg>
+<arg f="" g="in paying the rent" n="1">في اعطاء الايجار</arg>
+<arg f="" g="for the house owner" n="2">لصاحب البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what"/>
+<role argnum="2" argrole="on whom"/>
+</frameset>
+</verb>

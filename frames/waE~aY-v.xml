@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waE~aY</id>
+<comment/>
+<frameset cdef="" edef="to warn, to make someone wakeup" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا حروح أوعي * ها من النوم</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="she" n="1">ها</arg>
+<arg f="" g="from sleeping" n="2">من النوم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

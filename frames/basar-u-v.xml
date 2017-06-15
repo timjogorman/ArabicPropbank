@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>basar-u</id>
+<comment/>
+<frameset cdef="" edef="to frown" id="01" vncls="">
+<role argnum="0" argrole="entity frowning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بسر الرجل</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

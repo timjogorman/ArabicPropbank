@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitofAji}</id>
+
+<frameset cdef="" edef="be surprised, shocked" id="01" vncls="">
+<role argnum="1" argrole="cause of shock/surprise" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>متزحلق الجليد يتفاجأ * بدب في النرويج
+̇</parse>
+
+<comment />
+<arg f="" g="by a bear" n="1">بدب</arg>
+<arg f="" g="[none] &gt; ice skater" n="2">* &gt; متزحلق الجليد</arg>
+</example>
+
+<comment />
+</frame>
+
+<role argnum="2" argrole="surprised entity" vncls="" vntheta="" />
+<comment>Based on roleset tafAjaO.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on tafAjaO</comment>
+</verb>

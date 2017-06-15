@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>XaboXab</id>
+
+<frameset cdef="" edef="to cause to vibrate" id="01" vncls="">
+<role argnum="0" argrole="entity causing vibrating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ذبذبت الكهرباء الباب</parse>
+
+<arg f="" g="electricity" n="0">الكهرباء</arg>
+<arg f="" g="the door" n="1">الباب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity vibrated" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

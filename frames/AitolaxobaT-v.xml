@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitolaxobaT</id>
+<comment/>
+<frameset cdef="" edef="to become confused, to get mixed, to make a mistake" id="01" vncls="">
+<role argnum="0" argrole="entity confused" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3FS حاوْلِت)
+      (NP-SBJ
+        (-NONE- *))
+      (SBAR
+        (-NONE- 0)
+        (S
+          (VP
+            (X
+              (NO_FUNC تتلوها))
+            (NP-SBJ
+              (-NONE- *)))))))
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3FS اِتلَغبَطِت)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP فِي)
+        (NP
+          (PRON_3FS ها))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="in it" n="1">فيها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

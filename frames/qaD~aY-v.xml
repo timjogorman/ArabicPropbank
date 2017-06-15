@@ -1,0 +1,96 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaD~aY</id>
+
+    <frameset cdef="" edef="to spend or pass time" id="05" vncls="">
+<role argnum="0" argrole="the spender" vncls="" vntheta=""/>
+<role argnum="1" argrole="action" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+                    (VP
+                      (PV+PVSUFF_SUBJ:3MP كانوا)
+                      (VP
+                        (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يقضون)
+                        (NP-SBJ
+                          (-NONE- *))
+                        (NP-OBJ
+                          (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC عقوبة)
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN السجن)))
+                        (NP-TMP
+                          (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC لحظة)
+                          (NP
+                            (NOUN+CASE_DEF_GEN تجنيس)
+                            (NP
+                              (POSS_PRON_3MP هم))))))))))))))</parse>
+<arg f="" g="they" n="0">*</arg>
+<arg f="" g="the prison sentence" n="1">عقوبة السجن</arg>
+<arg f="tmp" g="when they became citizens" n="m">لحظة تجنيسهم</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+<role argnum="2" argrole="time spent" vncls="" vntheta=""/>
+
+
+<comment>Based on roleset qaDaY-i.05</comment>
+</frameset>
+
+
+<frameset cdef="" edef="to be enough, to suffice" id="06" vncls="">
+<role argnum="1" argrole="things enough" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الكتب دي تقضي * حاجتنا في المدرسة</parse>
+
+<arg f="" g="the books" n="1">الكتب</arg>
+<arg f="" g="our needs at the school" n="2">حاجتنا في المدرسة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="for what or for whom" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on qaDaY-i</comment>
+<frameset cdef="" edef="to carry out, to accomplish" id="07" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ربنا يقضي * ها علينا بالخير</parse>
+<comment/>
+<arg f="" g="our God" n="0">* ربنا</arg>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="gol" g="on us" n="m">علينا</arg>
+<arg f="" g="well" n="2">بالخير</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things done" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

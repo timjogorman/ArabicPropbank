@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>midal~aE</id>
+<comment/>
+<frameset cdef="" edef="spoiling, pampering" id="01" vncls="">
+<role argnum="0" argrole="spoiler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الأم مدلعة * بنتها في كل حاجة</parse>
+<comment/>
+<arg f="" g="the mother" n="0">* الأم</arg>
+<arg f="" g="her girl" n="1">بنتها</arg>
+<arg f="" g="in everything" n="2">في كل حاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="spoiled" vncls="" vntheta=""/>
+<role argnum="2" argrole="method" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kar~ah</id>
+
+<frameset cdef="" edef="to make someone hate something" id="01" vncls="Hab~aba-1">
+<role argnum="0" argrole="causer to hate" vncls="Hab~aba-1" vntheta="cause"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كره * اليكم الكفر و الفسوق</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="to you" n="2">اليكم</arg>
+<arg f="" g="infidelity and immorality" n="1">الكفر و الفسوق</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to whom" vncls="Hab~aba-1" vntheta="experiencer"/>
+<role argnum="2" argrole="thing hated" vncls="Hab~aba-1" vntheta="theme"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

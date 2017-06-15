@@ -1,16 +1,63 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>{inofak~</id>
-    <frameset cdef="" edef="stop / discontinue" id="01">
-        <role argnum="1" argrole="Theme (action or object being stopped)"/>
-        <frame>
-            <example>
-                <parse>
-                    * شراكة لا تنفك
-                </parse>
-                <arg f="neg" g="not" n="m">لا</arg>
-                <arg f="" g="* &amp;lt; a partnership" n="1">* &amp;lt; شراكة</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>{inofak~</id>
+<frameset cdef="" edef="stop / discontinue" id="01" vncls="">
+<role argnum="1" argrole="Theme (action or object being stopped)" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>* شراكة لا تنفك</parse>
+<arg f="neg" g="not" n="m">لا</arg>
+<arg f="" g="* &lt; a partnership" n="1">* &lt; شراكة</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to unravel or untie, to disassemble, to unscrew" id="02" vncls="">
+<role argnum="0" argrole="things untied" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ابتعد القارب بعدما انفك الحبل الذي يربطه بالشجرة</parse>
+
+<arg f="" g="the rope" n="0">الحبل</arg>
+<arg f="" g="that tie it" n="1">الذي يربطه</arg>
+<arg f="" g="with the tree" n="2">بالشجرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="first thing tied" vncls="" vntheta=""/>
+<role argnum="2" argrole="second thing tied" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to keep on doing ( comes after ما)" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لم تنفك الأم من الضغط  على ابنتها لتتزوج</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="to put pressure on her daughter" n="1">من الضغط  على ابنتها</arg>
+<arg f="prp" g="to get married" n="m">لتتزوج</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things to continue" vncls="" vntheta=""/>
+</frameset>
 </verb>

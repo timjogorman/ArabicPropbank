@@ -1,17 +1,55 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>naqaS-u</id>
-    <frameset cdef="" edef="to limit or decrease" id="01">
-        <role argnum="1" argrole="thing missing/limited"/>
-        <role argnum="2" argrole="missing from"/>
-        <frame>
-            <example>
-                <parse>
-                    القرار يتناول **-1 موضوع الدولتين الفلسطينية والاسرائيلية و بالتالي تنقصه الشمولية .
-                </parse>
-                <arg f="" g="it" n="2">ه</arg>
-                <arg f="" g="comprehensiveness" n="1">الشمولية</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>naqaS-u</id>
+<frameset cdef="" edef="to limit or to miss something in" id="01" vncls="">
+<role argnum="1" argrole="thing missing/limited" vncls="" vntheta=""/>
+<role argnum="2" argrole="missing from" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>القرار يتناول **-1 موضوع الدولتين الفلسطينية والاسرائيلية و بالتالي تنقصه الشمولية .</parse>
+<arg f="" g="it" n="2">ه</arg>
+<arg f="" g="comprehensiveness" n="1">الشمولية</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to decrease انخفض" id="02" vncls="">
+<role argnum="1" argrole="entity decreasig" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>نقص سعر الفولاذ من 1000 دولار الى 750 دولار</parse>
+
+<arg f="" g="the steel's price" n="1">سعر الفولاذ</arg>
+<arg f="" g="from 1000 dollar" n="2">من 1000 دولار</arg>
+<arg f="" g="to 750 dollar" n="3">الى 750 دولار</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<role argnum="4" argrole="amount decreased by, EXT or MNR" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

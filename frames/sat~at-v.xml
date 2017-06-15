@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sat~at</id>
+<comment/>
+<frameset cdef="" edef="to marry and support" id="01" vncls="">
+<role argnum="0" argrole="entity supporting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (VP
+        (IV3MS+IV يَتْجَوِّز)
+        (NP-SBJ
+          (-NONE- *))
+        (ADVP
+          (PV+PVSUFF_SUBJ:3MS بَقا))
+        (NP-OBJ
+          (NOUN_NUM+NSUFF_FEM_SG واحْدَة))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يِسَتِّت)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (IVSUFF_DO:3FS ها))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="she" n="1">ها</arg>
+</example>
+<comment>ARZ</comment>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity supported" vncls="" vntheta=""/>
+</frameset>
+</verb>

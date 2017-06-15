@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maqobuwD</id>
+<comment/>
+<frameset cdef="" edef="arrested" id="01" vncls="">
+<role argnum="0" argrole="agent,doing the arrest" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الرجالة لسة مقبوض * عليهم من قبل الجيش</parse>
+<comment/>
+<arg f="" g="on them" n="1">عليهم</arg>
+<arg f="" g="by the Army" n="0">من قبل الجيش</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity arrested" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nataH-a</id>
+<comment/>
+<frameset cdef="" edef="to sweat, to perspire" id="01" vncls="">
+<role argnum="1" argrole="things coming out" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نتح العرق من الجلد</parse>
+<comment/>
+<arg f="" g="the sweat" n="1">العرق</arg>
+<arg f="" g="from the skin" n="2">من الجلد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

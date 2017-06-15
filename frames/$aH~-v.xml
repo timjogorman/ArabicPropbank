@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>$aH~</id>
+<comment>EGYPTIAN ARABIC based on $aH~-u</comment>
+    <frameset cdef="" edef="to run or fall short, to run out" id="01" vncls="">
+<role argnum="1" argrole="things running short" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(VP
+            (IV2MS+IV تِخَلِّي)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NOUN+NSUFF_FEM_SG خِيارَة))
+            (PP-LOC
+              (PREP فِي)
+              (NP
+                (NOUN جِيب)
+                (NP
+                  (NOUN_QUANT كُلّ)
+                  (NP
+                    (NOUN مُواطِن)))))))))
+    (NP-SBJ
+      (ADJ لازِم))
+    (SBAR-PRD
+      (-NONE- 0)
+      (S
+        (S
+          (NP-TPC-1
+            (DET+NOUN الخِيار))
+          (VP
+            (IV3MS+IV يشح)
+            (NP-SBJ
+              (-NONE- *T*-1))))</parse>
+<comment />
+<arg f="" g="cucumber" n="1">* الخِيار</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset $aH~-u.01</comment>
+<role argnum="2" argrole="from where" vncls="" vntheta="" />
+</frameset>
+</verb>

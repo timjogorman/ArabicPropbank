@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mal~aS</id>
+<comment/>
+<frameset cdef="" edef="to pull the ear and rub" id="01" vncls="">
+<role argnum="0" argrole="entity pulling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ملص * ودان ابنه</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his son's ear" n="1">ودان ابنه</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="entity pulled" vncls="" vntheta=""/>
+</frameset>
+</verb>

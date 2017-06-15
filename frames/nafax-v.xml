@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nafax</id>
+
+    <frameset cdef="" edef="to blow or sound a horn" id="01" vncls="">
+<role argnum="0" argrole="blower" vncls="" vntheta=""/>
+<role argnum="1" argrole="instrument" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>أجبت*ها : لأني اعتبرت **-1الصحافة رسالة, والصحافي جندياً 0 لا يبيع * نفسه **-3 لأصحاب النفوذ و السلطان , أياً كانوا * **- , وإلاّ تحوّل * *-7 صوتاً لسيّده , وبوقاً 0 ينفخ فيه **-5 أصحاب المصالح والغايات التي قد تكون **-6 ضد مصلحة الوطن .</parse>
+<arg f="" g="in it &lt; a trumpet" n="1">فيه **-5 &lt; بوقاً</arg>
+<arg f="" g="people whose goals and benefits might go against the interests of the nation" n="0">أصحاب المصالح والغايات التي قد تكون **-6 ضد مصلحة الوطن</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset nafax-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on nafax-u</comment>
+<frameset cdef="" edef="to get mad" id="02" vncls="">
+<role argnum="0" argrole="entity getting mad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أهلي نفخوا * علي</parse>
+<comment/>
+<arg f="" g="my family" n="0">* أهلي</arg>
+<arg f="" g="at me" n="1">علي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="at whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

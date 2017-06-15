@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sahan</id>
+
+<frameset cdef="" edef="to frown, to knit or contract the brows" id="01" vncls="">
+<role argnum="0" argrole="entity frowning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سهن الرجل في وجهي</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in my face" n="1">في وجهي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="attribute to ARG0" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

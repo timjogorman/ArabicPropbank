@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaTorab</id>
+
+<frameset cdef="" edef="to become delighted by a song; to enjoy listening to music or a song" id="01" vncls="">
+<role argnum="0" argrole="the one becoming delighted by listening to the song" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عزفت ومضات فنية استطرب معها الجمهور</parse>
+
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="the audience" n="0">الجمهور</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the song or the music often used with مع" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to request a song from someone" id="02" vncls="">
+<role argnum="0" argrole="the one requesting the song" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اسْتَطْرَبَ* فلانًا : سَأَلَهُ أَن يُطَرَّبَ ويُغَنِّي</parse>
+
+<arg f="" g="He" n="0">?*NONE</arg>
+<arg f="" g="someone anonymous" n="1">فلانًا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the one singing or doing the performance" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

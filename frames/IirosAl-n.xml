@@ -1,55 +1,55 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>IirosAl</id>
-    <frameset cdef="" edef="sending" id="01">
-        <role argnum="0" argrole="sender"/>
-        <role argnum="1" argrole="sent"/>
-        <role argnum="2" argrole="sent to"/>
-        <role argnum="3" argrole="medium"/>
-        <frame>
-            <example>
-                <parse>
-                    (CONJ و)
-                    (SBAR-NOM-TPC-2
-                    (WHNP-1
-                    (REL_PRON ما))
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS أصاب)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (NP-OBJ
-                    (NOUN_PROP بوش)))))
-                    (NP-SBJ
-                    (NOUN+CASE_DEF_NOM سبب)
-                    (NP
-                    (NP
-                    (POSS_PRON_3MS ه))
-                    (NP
-                    (-NONE- *T*-2))))
-                    (S-NOM-PRD
-                    (VP
-                    (NOUN.VN+CASE_DEF_NOM إرسال)
-                    (NP-SBJ
-                    (DET+NOUN+CASE_DEF_GEN الجسم))
-                    (NP-OBJ
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC إشارة))
-                    (PP
-                    (PREP إلى)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN القلب))))
-                    (NP-ADV
-                    (NOUN+CASE_DEF_ACC عبر)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN العصب)
-                    (DET+ADJ+CASE_DEF_GEN الرئوي)))
-                </parse>
-                <arg f="" g="body" n="0">الجسم</arg>
-                <arg f="" g="signal" n="1">إشارة</arg>
-                <arg f="" g="to the heart" n="2">إلى القلب</arg>
-                <arg f="" g="via the lung nerves" n="3">عبر العصب الرئوي</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>IirosAl</id>
+<frameset cdef="" edef="sending" id="01">
+<role argnum="0" argrole="sender"/>
+<role argnum="1" argrole="sent"/>
+<role argnum="2" argrole="sent to"/>
+<role argnum="3" argrole="medium"/>
+<frame>
+<example>
+<parse>
+(CONJ و)
+  (SBAR-NOM-TPC-2
+    (WHNP-1
+      (REL_PRON ما))
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3MS أصاب)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (NOUN_PROP بوش)))))
+  (NP-SBJ
+    (NOUN+CASE_DEF_NOM سبب)
+    (NP
+      (NP
+        (POSS_PRON_3MS ه))
+      (NP
+        (-NONE- *T*-2))))
+  (S-NOM-PRD
+    (VP
+      (NOUN.VN+CASE_DEF_NOM إرسال)
+      (NP-SBJ
+        (DET+NOUN+CASE_DEF_GEN الجسم))
+      (NP-OBJ
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC إشارة))
+        (PP
+          (PREP إلى)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN القلب))))
+      (NP-ADV
+        (NOUN+CASE_DEF_ACC عبر)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN العصب)
+          (DET+ADJ+CASE_DEF_GEN الرئوي)))
+</parse>
+<arg f="" g="body" n="0">الجسم</arg>
+<arg f="" g="signal" n="1">إشارة</arg>
+<arg f="" g="to the heart" n="2">إلى القلب</arg>
+<arg f="" g="via the lung nerves" n="3">عبر العصب الرئوي</arg>
+</example>
+</frame>
+</frameset>
 </verb>

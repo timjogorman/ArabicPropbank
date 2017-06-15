@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naqiy</id>
+
+<frameset cdef="" edef="to become clean or pure" id="01" vncls="">
+<role argnum="0" argrole="entity cleaning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نقي الماء من الشوائب</parse>
+
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="from the dirt" n="2">من الشوائب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things cleaned" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

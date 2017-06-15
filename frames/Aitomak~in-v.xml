@@ -1,0 +1,82 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitomak~in</id>
+
+    <frameset cdef="" edef="to defeat, be able to" id="02" vncls="">
+<role argnum="0" argrole="defeater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(NP
+          (NOUN_PROP إِيران))
+        (SBAR
+          (WHNP-1
+            (REL_PRON اللِّي))
+          (S
+            (NP-TPC
+              (PRON_3FS هِيَّ))
+            (NP-SBJ
+              (NP
+                (NOUN هَدَف)
+                (NP
+                  (POSS_PRON_3FS ها))
+                (NP
+                  (-NONE- *T*-1)))
+              (ADJP
+                (DET+ADJ الأَساسِيّ)))
+            (SBAR-PRD
+              (PSEUDO_VERB إِنَّ)
+              (S
+                (NP-SBJ
+                  (PRON_3FS ها))
+                (NP-PRD
+                  (NP
+                    (DET+NOUN الدُخُول))
+                  (NP-ADV
+                    (NOUN وِسْط)
+                    (NP
+                      (NP
+                        (DET+NOUN الدِوَل)
+                        (DET+ADJ+NSUFF_FEM_SG العَرَبِيَّة))
+                      (CONJ وِ)
+                      (NP
+                        (PV+PVSUFF_SUBJ:3FS فَرَقِت)
+                        (NP
+                          (PVSUFF_DO:3P هُم)))))
+                  (PP-PRP
+                    (PREP عَلَى)
+                    (NP
+                      (NOUN شَأْن)
+                      (S
+                        (VP
+                          (IV3FS+IV تِتمَكِّن)
+                          (NP-SBJ
+                            (PRON_3FS هِيَّ))
+                          (PP
+                            (PREP مِن)
+                            (NP
+                              (PRON_3P هُم)))
+                          (PP-PRP
+                            (PREP لِ)
+                            (NP
+                              (NOUN+NSUFF_FEM_SG مُواجْهَة)
+                              (NP
+                                (NOUN_PROP أَمْرِيكا)))))))))))))))))</parse>
+
+<arg f="" g="it" n="0">هِي</arg>
+<arg f="" g="from them" n="1">مِن هُم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="defeated (Usually comes after من  )" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on tamak~an</comment>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AixoS~</id>
+
+<frameset cdef="" edef="shame on someone, to be bad" id="01" vncls="">
+<role argnum="1" argrole="entity in shame" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أخص عليك على اللي عملته</parse>
+
+<arg f="" g="on you" n="1">عليك</arg>
+<arg f="" g="for what you did" n="2">على اللي عملته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

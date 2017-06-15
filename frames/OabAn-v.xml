@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OabAn</id>
+<comment/>
+<frameset cdef="" edef="to show or demonstrate" id="01">
+<role argnum="0" argrole="entity showing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبان الله لنا عظمته من خلال جمال هذا الكون</parse>
+<comment/>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="to us" n="2">لنا</arg>
+<arg f="" g="his glory" n="1">عظمته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things showed"/>
+<role argnum="2" argrole="to whom"/>
+</frameset>
+<frameset cdef="" edef="to give in marriage" id="02">
+<role argnum="0" argrole="giver"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبان * ابنته لصديقه</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="his daughter" n="1">ابنته</arg>
+<arg f="" g="to his friend" n="2">لصديقه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity given"/>
+<role argnum="2" argrole="to whom"/>
+</frameset>
+<frameset cdef="" edef="to cut or separate" id="03">
+<role argnum="0" argrole="entity cutting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبان * العضو</parse>
+<comment/>
+<arg f="" g="NOONE" n="0">*? NONE</arg>
+<arg f="" g="the member, the organ" n="1">العضو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things cut"/>
+<role argnum="2" argrole="source"/>
+</frameset>
+</verb>

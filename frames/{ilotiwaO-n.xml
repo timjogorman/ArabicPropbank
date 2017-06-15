@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ilotiwaO</id>
+<comment/>
+<frameset cdef="" edef="twist, torsion" id="01" vncls="">
+<role argnum="1" argrole="entity twisted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شدة الضربة أدت الى التواء في قدمه</parse>
+<comment/>
+<arg f="" g="in his foot" n="1">في قدمه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

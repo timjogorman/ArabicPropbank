@@ -1,0 +1,67 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>baEod</id>
+<comment>EGYPTIAN ARABIC Framefile based on buEod-n</comment>
+<frameset cdef="" edef="farness, remoteness" id="01" vncls="">
+<role argnum="1" argrole="entity far" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(NP
+              (NOUN تَدَنِّي)
+              (NP
+                (DET+NOUN الأَخْلاق)))
+            (SBAR
+              (WHNP-4
+                (REL_PRON الَّذِي))
+              (S
+                (VP
+                  (IV1P+IV نِعِيش)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (NP-OBJ
+                    (NP
+                      (IVSUFF_DO:3MS ُه))
+                    (NP
+                      (-NONE- *T*-4)))
+                  (NP-ADV
+                    (ADJ+CASE_INDEF_ACC حالِيّاً))))))
+          (PUNC ,)
+          (CONJ وَ)
+          (NP
+            (NOUN+NSUFF_FEM_SG كَثْرَة)
+            (NP
+              (DET+NOUN الحَوادِث)
+              (CONJ وَ)
+              (DET+NOUN القَضايا))))
+        (SBAR-NOM-PRD
+          (WHNP-6
+            (-NONE- 0))
+          (S
+            (VP
+              (ADJ.VN ناتِج)
+              (NP-SBJ
+                (-NONE- *T*-6))
+              (PP-CLR
+                (PREP عَن)
+                (S-NOM
+                  (VP
+                    (NOUN.VN بُعْد)
+                    (NP-SBJ
+                      (POSS_PRON_1P نا))
+                    (PP-CLR
+                      (PREP عَن)
+                      (NP
+                        (NOUN_PROP اللّٰه)))))))))))</parse>
+<comment />
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="from God" n="2">عن الله</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset buEod-n.01</comment>
+<role argnum="2" argrole="from what" vncls="" vntheta="" />
+<role argnum="3" argrole="the distance" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHaqaf</id>
+<comment/>
+<frameset cdef="" edef="" id="01" vncls="">
+<role argnum="1" argrole="entity curved" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انحذفت السنابل بالرياح</parse>
+<comment/>
+<arg f="" g="spikes" n="1">السنابل</arg>
+<arg f="" g="winds" n="">بالرياح</arg>
+</example>
+<comment/>
+</frame>
+<comment>to have the form of a curve or twisted</comment>
+<role argnum="2" argrole="how, instument" vncls="" vntheta=""/>
+</frameset>
+</verb>

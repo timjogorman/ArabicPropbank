@@ -1,48 +1,50 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>hAl-u</id>
-    <frameset cdef="" edef="To trrify" id="01">
-        <role argnum="0" argrole="Arg0: cause of terrification"/>
-        <role argnum="1" argrole="terrified entity"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (PUNC &amp;quot;)
-                    (VP
-                    (PRT
-                    (VERB_PART لقد))
-                    (PV+PVSUFF_SUBJ:3MS هال)
-                    (NP-OBJ
-                    (PVSUFF_DO:3MP هم))
-                    (NP-SBJ
+<id>hAl-u</id>
+<frameset cdef="" edef="To terrify" id="01" vncls="">
+<role argnum="0" argrole="cause of terrification" vncls="" vntheta=""/>
+<role argnum="1" argrole="terrified entity" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+        (PUNC &quot;)
+        (VP
+          (PRT
+            (VERB_PART لقد))
+          (PV+PVSUFF_SUBJ:3MS هال)
+          (NP-OBJ
+            (PVSUFF_DO:3MP هم))
+          (NP-SBJ
+            (NP
+              (NP
+                (DEM_PRON_MS هذا))
+              (NP
+                (DET+NOUN+CASE_DEF_NOM التأييد)
+                (DET+ADJ+CASE_DEF_NOM الكبير)))
+            (PP
+              (PREP ل)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN لائحت)
+                (NP
+                  (POSS_PRON_1P نا))))
+            (PP
+              (PREP من)
+              (NP
+                (NP
+                  (NOUN+NSUFF_MASC_PL_GEN_POSS خريجي)
+                  (NP
                     (NP
-                    (NP
-                    (DEM_PRON_MS هذا))
-                    (NP
-                    (DET+NOUN+CASE_DEF_NOM التأييد)
-                    (DET+ADJ+CASE_DEF_NOM الكبير)))
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN لائحت)
-                    (NP
-                    (POSS_PRON_1P نا))))
-                    (PP
-                    (PREP من)
-                    (NP
-                    (NP
-                    (NOUN+NSUFF_MASC_PL_GEN_POSS خريجي)
-                    (NP
-                    (NP
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الجامعات))
-                    (ADJP
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاميركية)
-                </parse>
-                <arg f="" g="supporting" n="0">التأييد</arg>
-                <arg f="" g="thim" n="1">هم</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الجامعات))
+                      (ADJP
+                        (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاميركية)</parse>
+<arg f="" g="supporting" n="0">التأييد</arg>
+<arg f="" g="thim" n="1">هم</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
 </verb>

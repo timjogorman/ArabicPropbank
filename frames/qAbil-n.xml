@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qAbil</id>
+
+<frameset cdef="" edef="accessible" id="01" vncls="">
+<role argnum="1" argrole="thing accessible" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كُل شيء قابل لإعادة التدوير مادامت الحياة تسير بوقعها المتتالي</parse>
+
+<arg f="" g="Everything" n="1">كُل شيء</arg>
+<arg f="" g="For recycling" n="2">لإعادة التدوير</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="to what?" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="accepting" id="02" vncls="">
+<role argnum="0" argrole="acceptor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>معرفش ازاي انتم قابلين * كل ده منهم</parse>
+<comment/>
+<arg f="" g="you" n="0">* انتم</arg>
+<arg f="" g="all of this" n="1">كل ده</arg>
+<arg f="" g="from them" n="2">منهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things accepted" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

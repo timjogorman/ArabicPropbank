@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamar~maT</id>
+<comment/>
+<frameset cdef="" edef="to be treated not good, to be insulted, to be tortured" id="01" vncls="">
+<role argnum="1" argrole="entity treated bad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تمرمط هذا الصبي في حياته</parse>
+<comment/>
+<arg f="" g="this boy" n="1">هذا الصبي</arg>
+<arg f="" g="in his life" n="2">في حياته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

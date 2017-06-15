@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ibotadaE</id>
+<comment/>
+<frameset cdef="" edef="to contrive or design or create" id="01" vncls="">
+<role argnum="0" argrole="creator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (FRAG
+    (PUNC ,)
+    (TYPO و)
+    (NP
+      (ADJP
+        (ADJ_COMP خَيْر)
+        (NP
+          (NP
+            (NOUN شاهِد))
+          (PP
+            (PREP عَلَى)
+            (NP
+              (NP
+                (NOUN+NSUFF_FEM_SG كَراهِيَة)
+                (NP
+                  (NOUN أَبْناء)
+                  (NP
+                    (NOUN_PROP مَصْر))))
+              (PP
+                (PREP لِ)
+                (NP
+                  (NP
+                    (DET+NOUN الزِيف))
+                  (CONJ وِ)
+                  (NP
+                    (DET+NOUN الكِذْب))
+                  (CONJ وِ)
+                  (NP
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG البَلْطَجَة))
+                    (SBAR
+                      (WHNP-1
+                        (REL_PRON اِللِّي))
+                      (S
+                        (VP
+                          (PV+PVSUFF_SUBJ:3MS اِبْتَدَع)
+                          (NP-OBJ
+                            (NP
+                              (PVSUFF_DO:3FS ها))
+                            (NP
+                              (-NONE- *T*-1)))
+                          (NP-SBJ
+                            (NP
+                              (DEM_PRON_MS هٰذا))
+                            (NP
+                              (DET+ADJ المَذْكُور))))))))))))))
+    (PUNC ,)))</parse>
+<comment/>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="this mentioned person" n="0">هٰذا المَذْكُور</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things created" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

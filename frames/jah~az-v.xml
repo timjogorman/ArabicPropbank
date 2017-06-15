@@ -1,23 +1,56 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>jah~az</id>
-    <comment/>
-    <frameset cdef="" edef="to prepare" id="01">
-        <role argnum="0" argrole="preparer"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>لن يؤثر عليهم لأننا جهزنا الفريق فنيا ونفسيا بطريقة جيدة</parse>
-                <comment/>
-                <arg f="" g="we" n="0">*</arg>
-                <arg f="" g="the team" n="1">الفريق</arg>
-                <arg f="mnr" g="technically and psychologically" n="m">فنيا ونفسيا</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="thing prepared"/>
-    </frameset>
+<id>jah~az</id>
+
+<frameset cdef="" edef="to prepare" id="01" vncls="">
+<role argnum="0" argrole="preparer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>لن يؤثر عليهم لأننا جهزنا الفريق فنيا ونفسيا بطريقة جيدة</parse>
+
+<arg f="" g="we" n="0">*</arg>
+<arg f="" g="the team" n="1">الفريق</arg>
+<arg f="mnr" g="technically and psychologically" n="m">فنيا ونفسيا</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing prepared" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to epuip with, to provide with" id="02" vncls="jah~aza-1">
+<role argnum="0" argrole="entity providing" vncls="jah~aza-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جهز الملك جنوده بكل انواع الاسلحة لحماية القصر</parse>
+
+<arg f="" g="the king" n="0">الملك</arg>
+<arg f="" g="his soldiers" n="1">جنوده</arg>
+<arg f="" g="with all kind of weapons" n="2">بكل انواع الاسلحة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity provided" vncls="jah~aza-1" vntheta="recipient"/>
+<role argnum="2" argrole="with what" vncls="jah~aza-1" vntheta="theme"/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

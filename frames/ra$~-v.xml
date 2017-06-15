@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>ra$~</id>
+<comment>EGYPTIAN ARABIC based on ra$~-u</comment>
+    <frameset cdef="" edef="to sprinkle, to spray" id="01" vncls="">
+<role argnum="0" argrole="entity or things spraying" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>رشت السيارة الماء على الشارع</parse>
+<comment />
+<arg f="" g="the car" n="0">السيارة</arg>
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="on the street" n="2">على الشارع</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset ra$~-u.01</comment>
+<role argnum="1" argrole="things sprayed" vncls="" vntheta="" />
+<role argnum="2" argrole="on what (Usually comes after على  )" vncls="" vntheta="" />
+</frameset>
+</verb>

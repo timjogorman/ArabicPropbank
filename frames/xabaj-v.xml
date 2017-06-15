@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xabaj</id>
+<comment/>
+<frameset cdef="" edef="to fart loud" id="01" vncls="">
+<role argnum="0" argrole="entity farting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خبج الرجل</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

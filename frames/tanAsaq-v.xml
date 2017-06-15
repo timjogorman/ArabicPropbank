@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanAsaq</id>
+
+<frameset cdef="" edef="to harmonize  or coordinate or match ot" id="01" vncls="">
+<role argnum="1" argrole="entity match" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تناسق الكلام مع الموضوع</parse>
+
+<arg f="" g="the talking" n="1">الكلام</arg>
+<arg f="" g="with the subject" n="2">مع الموضوع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

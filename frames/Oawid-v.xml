@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oawid</id>
+<comment/>
+<frameset cdef="" edef="to bend or twist, to curve" id="01" vncls="">
+<role argnum="1" argrole="entity bend" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أوِد ظهرُه من ثقل الحمل</parse>
+<comment/>
+<arg f="" g="his back" n="1">ظهرُه</arg>
+<arg f="" g="the burden weight" n="2">من ثقل الحمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+</frameset>
+</verb>

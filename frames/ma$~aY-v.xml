@@ -1,0 +1,195 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ma$~aY</id>
+
+<frameset cdef="" edef="to make walk" id="01" vncls="">
+<role argnum="0" argrole="agent, causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>مشى الرجل ابنه في النار</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his son" n="1">ابنه</arg>
+<arg f="loc" g="in the fire" n="m">في النار</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to run a place or work, to take care of (Egyption, Iraqi)" id="02" vncls="">
+<role argnum="0" argrole="entity running things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>يقدر يمشي * المحل لوحده</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the store" n="1">المحل</arg>
+<arg f="mnr" g="alone" n="m">لوحده</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things running" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to make other accept or believe a lie, to make things pass on others" id="03" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>TOP
+  (UCP
+    (S
+      (VP
+        (IV3P+IV+IVSUFF_SUBJ:P يِمْشُوا)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (IVSUFF_DO:3FS ها))
+        (PP-CLR
+          (PREP عَلَى)
+          (NP
+            (NP
+              (NP
+                (DET+NOUN العالَم))
+              (NP
+                (NOUN_QUANT كُلّ)
+                (NP
+                  (POSS_PRON_3MS ُه))))))))
+    (CONJ بَسّ)
+    (FRAG
+      (NP
+        (DET+NOUN العَرَب))
+      (INTJ
+        (NEG_PART لا)))))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="on the whole world" n="2">عَلَى العالَم كُلّه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things made pass" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to expel, to fire" id="04" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (SBAR-ADV
+        (SUB_CONJ إِن)
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS كان)
+            (PP-PRD
+              (PREP فِي)
+              (NP
+                (PRON_3MS ُه)))
+            (NP-SBJ
+              (NOUN تَواطُؤ)))))
+      (PRT
+        (CONJ فَ))
+      (NP-SBJ
+        (DEM_PRON_MS دَه))
+      (NP-ADV
+        (NOUN+CASE_INDEF_ACC غالِباً))
+      (NP-PRD
+        (NOUN تَواطُؤ)
+        (ADJ داخِلِي))
+      (PP-PRP
+        (PREP عَلَى)
+        (NP
+          (NOUN شَأْن)
+          (S
+            (VP
+              (IV3P+IV+IVSUFF_SUBJ:P يِمَشُّوا)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NP
+                  (DET+NOUN_PROP الجَنْزُورِيّ))
+                (CONJ أَو)
+                (NP
+                  (NOUN وَزِير)
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_SG الداخْلِيَّة)))))))))
+    (CONJ وَ)
+    (S
+      (PP
+        (PREP فِي)
+        (NP
+          (NOUN_QUANT كُلّ)
+          (NP
+            (DET+NOUN+NSUFF_FEM_PL الحالات))))
+      (NP-TPC-1
+        (NP
+          (PRT
+            (CONJ لا))
+          (DET+NOUN الجَيش))
+        (CONJ وَ)
+        (NP
+          (PRT
+            (CONJ لا))
+          (DET+NOUN+NSUFF_FEM_SG الحُكُومَة)))
+      (VP
+        (PV+PVSUFF_SUBJ:3FS كانِت)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (ADJP-PRD
+          (ADJ+NSUFF_FEM_SG مَسْؤُولَة)
+          (NP-ADV
+            (ADJ+CASE_INDEF_ACC جِنائِيّاً))
+          (PP
+            (NP
+              (X
+                (NO_FUNC عنه)))))))
+    (PUNC .)
+    (PUNC .)))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="Aljanzoory or the Interior Minister" n="1">الجَنْزُورِيّ أَو وَزِير الداخْلِيَّة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity expeled" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

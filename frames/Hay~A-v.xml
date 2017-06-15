@@ -1,35 +1,62 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Hay~A</id>
-    <frameset cdef="" edef="to hail or recognize" id="01">
-        <role argnum="0" argrole="recognizer"/>
-        <role argnum="1" argrole="recognized"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS حيا)
-                    (NP-SBJ
-                    (NOUN_PROP مراد)
-                    (SBAR-NOM-OBJ
-                    (SBAR-NOM
-                    (WHNP-1
-                    (REL_PRON الذين)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MP قاوموا)
-                    (NP-SBJ
-                    (-NONE- *T*-1)
-                    (NP-OBJ
-                    (DET+NOUN+CASE_DEF_ACC الغزو)
-                    (DET+ADJ+CASE_DEF_ACC الاسرائيلي)
-                    (PUNC .)
-                </parse>
-                <arg f="" g="Murad" n="">مراد</arg>
-                <arg f="" g="those who resisted the Israeli invasion" n="">الذين قاوموا الغزو الاسرائيلي</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Hay~A</id>
+<frameset cdef="" edef="to hail or recognize" id="01" vncls="">
+<role argnum="0" argrole="recognizer" vncls="" vntheta=""/>
+<role argnum="1" argrole="recognized" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS حيا)
+    (NP-SBJ
+      (NOUN_PROP مراد)
+    (SBAR-NOM-OBJ
+      (SBAR-NOM
+        (WHNP-1
+          (REL_PRON الذين)
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MP قاوموا)
+            (NP-SBJ
+              (-NONE- *T*-1)
+            (NP-OBJ
+              (DET+NOUN+CASE_DEF_ACC الغزو)
+              (DET+ADJ+CASE_DEF_ACC الاسرائيلي)
+  (PUNC .)</parse>
+<arg f="" g="Murad" n="">مراد</arg>
+<arg f="" g="those who resisted the Israeli invasion" n="">الذين قاوموا الغزو الاسرائيلي</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to keep alive, to grant long live" id="02" vncls="">
+<role argnum="0" argrole="entity keeping alive" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أقولها لجميع محبي الوطن حياكم*  الله</parse>
+
+<arg f="" g="lovers of the country" n="1">* جميع محبي الوطن</arg>
+<arg f="" g="God" n="0">لله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity kept alive" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

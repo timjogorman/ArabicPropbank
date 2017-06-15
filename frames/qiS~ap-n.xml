@@ -1,0 +1,67 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qiS~ap</id>
+<comment/>
+<frameset cdef="" edef="to tell (a story)" id="01" vncls="">
+<role argnum="0" argrole="story teller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+            (NP-SBJ
+              (PRON_1S انا))
+            (NP-ADV
+              (NOUN+CASE_INDEF_ACC فِعْلاً))
+            (SBAR-NOM-PRD
+              (WHNP-1
+                (-NONE- 0))
+              (S
+                (VP
+                  (ADJ.VN مِسْتَغْرَب)
+                  (NP-SBJ
+                    (-NONE- *T*-1))
+                  (PP-CLR
+                    (PREP مِن)
+                    (S-NOM
+                      (VP
+                        (NOUN.VN+NSUFF_FEM_SG قِصَّة)
+                        (NP-SBJ
+                          (DET+NOUN الكاتِب))
+                        (SBAR
+                          (SUB_CONJ إِنّ)
+                          (S
+                            (NP-TPC-3
+                              (PRON_3P هُم))
+                            (VP
+                              (PV+PVSUFF_SUBJ:3MP ٱِعْتَقَلُوا)
+                              (NP-SBJ
+                                (-NONE- *T*-3))
+                              (NP-OBJ
+                                (NOUN بِنْت))
+                              (PP-PRP
+                                (PREP عَ)
+                                (NP
+                                  (NOUN شَأْن)
+                                  (S
+                                    (S
+                                      (NP-SBJ
+                                        (NOUN أَخُو)
+                                        (NP
+                                          (POSS_PRON_3FS ها)))
+                                      (ADJP-PRD
+                                        (ADJ حاطِط)
+                                        (NP
+                                          (NOUN+NSUFF_FEM_SG كُوفِيَّة)
+                                          (ADJ+NSUFF_FEM_SG فِلَسْطِينِيَّة))))</parse>
+<comment/>
+<arg f="" g="the writer" n="0">الكاتِب</arg>
+<arg f="" g="that they arrested a girl because her brother was wearing a Palestinian Kufiyya" n="1">إِنّ هُم ٱِعْتَقَلُوا بِنْت عَ شَأْن أَخُو ها حاطِط كُوفِيَّة فِلَسْطِينِيَّة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="story" vncls="" vntheta=""/>
+</frameset>
+</verb>

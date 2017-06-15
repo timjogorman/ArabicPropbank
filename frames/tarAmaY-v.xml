@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarAmaY</id>
+<comment/>
+<frameset cdef="" edef="to throw at each other" id="01" vncls="">
+<role argnum="0" argrole="entity throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ترامى الجانبان بالسهام والرماح</parse>
+<comment/>
+<arg f="" g="both sides" n="0">الجانبان</arg>
+<arg f="" g="with arrows and spears" n="1">بالسهام والرماح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to arrive, to reach" id="02" vncls="">
+<role argnum="1" argrole="things reaching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ترامى الى علمنا ان العدو قادم</parse>
+<comment/>
+<arg f="" g="to our knowledge" n="2">الى علمنا</arg>
+<arg f="" g="that the enemy is coming" n="1">ان العدو قادم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to flop, to throw oneself" id="03" vncls="">
+<role argnum="0" argrole="entity throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بمجرد ما رأى أمه ترامى الطفل بين ذراعيها</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="between her arms" n="1">بين ذراعيها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

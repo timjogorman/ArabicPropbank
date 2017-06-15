@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zahar-a</id>
+<comment/>
+<frameset cdef="" edef="to shine or gleam, to ripen or grow" id="01" vncls="">
+<role argnum="1" argrole="entity growing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زهر نبات الحقل</parse>
+<comment/>
+<arg f="" g="the field's plants" n="1">نبات الحقل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHakam</id>
+
+<frameset cdef="" edef="to be judged (with عليه)" id="01" vncls="">
+<role argnum="1" argrole="entity judged" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحكم على  المجرم بالسجن لقتل الضحية</parse>
+
+<arg f="" g="the criminal" n="1">المجرم</arg>
+<arg f="" g="to go to jail" n="2">بالسجن</arg>
+<arg f="" g="because he killed the victim" n="3">لقتل الضحية</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="judgment" vncls="" vntheta=""/>
+<role argnum="3" argrole="why, the reason" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be controlled" id="02" vncls="">
+<role argnum="1" argrole="entity controlled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحكمت الدولة بالسلاح</parse>
+
+<arg f="" g="the country" n="1">الدولة</arg>
+<arg f="" g="with weapons" n="2">بالسلاح</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="how , instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

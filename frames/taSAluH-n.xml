@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>taSAluH</id>
+<comment>Framefile based on taSAlaH</comment>
+<frameset cdef="" edef="to make up, to reconcile" id="01" vncls="">
+<role argnum="0" argrole="first entity" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تصالح الرجل مع زوجته</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with his wife" n="1">مع زوجته</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset taSAlaH.01</comment>
+<role argnum="1" argrole="second entity" vncls="" vntheta="" />
+</frameset>
+</verb>

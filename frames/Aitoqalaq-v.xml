@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitoqalaq</id>
+<comment/>
+<frameset cdef="" edef="to be concerned with or to worry over" id="01" vncls="">
+<role argnum="0" argrole="cause of worry - marked by على" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو اتقلق * من الموضوع ده</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="from this subject" n="0">من الموضوع ده</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="worrier" vncls="" vntheta=""/>
+</frameset>
+</verb>

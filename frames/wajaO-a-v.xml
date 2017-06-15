@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wajaO-a</id>
+<comment/>
+<frameset cdef="" edef="to push by hand in the chest" id="01" vncls="">
+<role argnum="0" argrole="entity pushing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وجأ الرجل صاحبه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity pushed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to hit or strike, to hammer or percuss" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وجأ المقاتل عدوه بالسكين</parse>
+<comment/>
+<arg f="" g="the warior" n="0">المقاتل</arg>
+<arg f="" g="his enemy" n="1">عدوه</arg>
+<arg f="" g="with a knife" n="2">بالسكين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,36 +1,144 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>jam~aE</id>
-    <frameset cdef="" edef="to collect" id="01">
-        <role argnum="0" argrole="entity collects something"/>
-        <role argnum="1" argrole="thing collected"/>
-        <role argnum="2" argrole="Attribute for Argi"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS جمعت)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_ACC التبرعات))
-                    (PP-PRP
-                    (PREP ل)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مساعدة)
-                    (NP
-                    (NOUN+NSUFF_MASC_PL_GEN_POSS منكوبي)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الحرب)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN العالمية)
-                    (DET+ADJ_NUM الاولى)))))))
-                    (PUNC ,)
-                </parse>
-                <arg f="" g="she" n="0">-NONE- *</arg>
-                <arg f="" g="Voluntary" n="1">التبرعات</arg>
-                <arg f="" g="Assistant war victims" n="2">لمساعدة منكوبي الحرب</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>jam~aE</id>
+<frameset cdef="" edef="to collect" id="01" vncls="">
+<role argnum="0" argrole="entity collects something" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing collected" vncls="" vntheta=""/>
+<role argnum="2" argrole="Attribute for Argi" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (VP
+      (PV+PVSUFF_SUBJ:3FS جمعت)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_ACC التبرعات))
+      (PP-PRP
+        (PREP ل)
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مساعدة)
+          (NP
+            (NOUN+NSUFF_MASC_PL_GEN_POSS منكوبي)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الحرب)
+              (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN العالمية)
+              (DET+ADJ_NUM الاولى)))))))
+  (PUNC ,)</parse>
+<arg f="" g="she" n="0">-NONE- *</arg>
+<arg f="" g="Voluntary" n="1">التبرعات</arg>
+<arg f="" g="Assistant war victims" n="2">لمساعدة منكوبي الحرب</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to understand, to comprehend" id="02" vncls="">
+<role argnum="1" argrole="agent not understanding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ده هي عبيطة ما بتجمع * ش</parse>
+
+<arg f="" g="she" n="1">* هي</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment>(Egyption) ما بتجمعش</comment>
+</frameset>
+
+<frameset cdef="" edef="to unite" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(NP-TPC-1
+                  (PRON_3P هُم))
+                (VP
+                  (PRT
+                    (PROG_PART بِ))
+                  (IV3P+IV+IVSUFF_SUBJ:P يهاجْمُوا)
+                  (NP-SBJ
+                    (-NONE- *T*-1))
+                  (NP-OBJ
+                    (IVSUFF_DO:3MS ُه))
+                  (ADVP-TMP
+                    (ADV دِلْوَقْتِي))
+                  (PP-PRP
+                    (PREP لِ)
+                    (SBAR
+                      (SUB_CONJ إِنّ)
+                      (S
+                        (NP-TPC-2
+                          (PRON_3MS ُه))
+                        (VP
+                          (PRT
+                            (PROG_PART بِ))
+                          (IV3MS+IV يِجَمَّع)
+                          (NP-SBJ
+                            (-NONE- *T*-2))
+                          (NP-OBJ
+                            (DET+NOUN الناس))
+                          (PP
+                            (PREP عَلَى)
+                            (NP
+                              (NOUN+NSUFF_FEM_SG فِكْرَة)
+                              (NP
+                                (NP
+                                  (DET+NOUN+NSUFF_FEM_SG المَعُونَة)
+                                  (DET+ADJ+NSUFF_FEM_SG المَصْرِيَّة))
+                                (NP-ADV
+                                  (NOUN ضِدّ)
+                                  (NP
+                                    (DET+NOUN+NSUFF_FEM_SG المَعُونَة)
+                                    (DET+ADJ+NSUFF_FEM_SG الامْرِيكِيَّة)))))))))))))))))))</parse>
+
+<arg f="" g="they" n="0">* هُم</arg>
+<arg f="" g="people" n="1">الناس</arg>
+<arg f="" g="on the idea of ​​Egyptian aid against U.S. aid" n="2">على فكرة المعونة المصرية ضد المعونة الامريكية</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity united" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+<role argnum="3" argrole="second entity united if separated from ARG1" vncls="" vntheta=""/>
+</frameset>
+
+<comment/>
 </verb>

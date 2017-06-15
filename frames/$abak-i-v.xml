@@ -1,0 +1,71 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$abak-i</id>
+
+<frameset cdef="" edef="to knit or interlace or intertwist" id="01" vncls="">
+<role argnum="0" argrole="entity intertwisting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شبكت الفتاة الخيوط</parse>
+
+<arg f="" g="the girl" n="0">الفتاة</arg>
+<arg f="" g="the strings" n="1">الخيوط</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things  itertwisted" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be complicated, to get all mixed up" id="02" vncls="">
+<role argnum="1" argrole="things getting complicated" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شبكت الأمور عليه</parse>
+
+<arg f="" g="the things or matters" n="1">الأمور</arg>
+<arg f="" g="on him" n="2">عليه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to distract or divert from" id="03" vncls="">
+<role argnum="0" argrole="entity distracting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شبك * ه عن عمله</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="from his work" n="2">عن عمله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity distracted" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

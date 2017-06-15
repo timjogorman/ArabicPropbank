@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zahaq-a</id>
+<comment/>
+<frameset cdef="" edef="to vanish or disappear" id="01">
+<role argnum="1" argrole="entity or thing vanishing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زهق الباطل و ظهر الحق</parse>
+<comment/>
+<arg f="" g="falsehood" n="1">الباطل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to die" id="02">
+<role argnum="1" argrole="dead agent  (multi word expression)"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زهقت نفسه</parse>
+<comment/>
+<arg f="" g="his soul" n="1">نفسه</arg>
+</example>
+<comment/>
+</frame>
+<comment>زهقت نفسه</comment>
+</frameset>
+<frameset cdef="" edef="to be or become weary of, to be sick of" id="03">
+<role argnum="0" argrole="entity getting weary"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده انا زهقت * من الشغلانة دية</parse>
+<comment/>
+<arg f="" g="he" n="0">* انا</arg>
+<arg f="" g="from this work" n="1">من الشغلانة دية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="of what"/>
+</frameset>
+</verb>

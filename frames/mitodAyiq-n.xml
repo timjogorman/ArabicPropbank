@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitodAyiq</id>
+<comment/>
+<frameset cdef="" edef="To become annoyed" id="01" vncls="">
+<role argnum="1" argrole="experiencer, annoyed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو اتضايق * من شغله</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="from his work" n="2">من شغله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

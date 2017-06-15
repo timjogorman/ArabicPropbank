@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AirotaEa$</id>
+<comment>EGYPTIAN ARABIC Framefile based on {irotaEa$</comment>
+<frameset cdef="" edef="to tremble/ shake" id="01" vncls="">
+<role argnum="0" argrole="entity trembling" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ارتعش الطالب خوفا</parse>
+<comment />
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="from fear" n="1">خوفا</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {irotaEa$.01</comment>
+<role argnum="1" argrole="from what" vncls="" vntheta="" />
+</frameset>
+</verb>

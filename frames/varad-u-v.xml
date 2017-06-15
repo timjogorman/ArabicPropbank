@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>varad-u</id>
+
+<frameset cdef="" edef="to fragment, to break into pieces" id="01" vncls="">
+<role argnum="0" argrole="the fragmenter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ثردت الأم الخبز اليابس بالملعقة</parse>
+
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="dry bread" n="1">الخبز اليابس</arg>
+<arg f="" g="with a spoon" n="2">بالملعقة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing fragmented" vncls="" vntheta=""/>
+<role argnum="2" argrole="how/ instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to dip, to plunge" id="02" vncls="">
+<role argnum="0" argrole="entity dipping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ثرد الرجل الفرشاة في الماء الساخن</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="a brush" n="1">الفرشاة</arg>
+<arg f="" g="in hot water" n="2">في الماء الساخن</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing dipped" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

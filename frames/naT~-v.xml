@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>naT~</id>
+<comment>EGYPTIAN ARABIC based on naT~-u</comment>
+    <frameset cdef="" edef="to jump o r toleap" id="01" vncls="">
+<role argnum="0" argrole="jumper" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>الواد ده قاعد ينط * من فوق الحيطة للارض</parse>
+<comment />
+<arg f="" g="this boy" n="0">* الواد ده</arg>
+<arg f="" g="from the top of the wall" n="1">من فوق الحيطة</arg>
+<arg f="" g="to the floor" n="2">للارض</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset naT~-u.01</comment>
+<role argnum="1" argrole="from, source" vncls="" vntheta="" />
+<role argnum="2" argrole="goal or endstate" vncls="" vntheta="" />
+</frameset>
+</verb>

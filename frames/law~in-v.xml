@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>law~in</id>
+<comment/>
+<frameset cdef="" edef="to color" id="01" vncls="">
+<role argnum="0" argrole="causer of coloration" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا لونت * الصورة بالأحمر</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="the picture" n="1">الصورة</arg>
+<arg f="" g="with red" n="2">بالأحمر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing with color" vncls="" vntheta=""/>
+<role argnum="2" argrole="the color itself" vncls="" vntheta=""/>
+</frameset>
+</verb>

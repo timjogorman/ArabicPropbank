@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maw~ah-i</id>
+<comment/>
+<frameset cdef="" edef="to camouflage, to fake" id="01" vncls="">
+<role argnum="0" argrole="disguiser, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>موه * عليه الحقيقة</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="on him" n="2">عليه</arg>
+<arg f="" g="the truth" n="1">الحقيقة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing disguised" vncls="" vntheta=""/>
+<role argnum="2" argrole="secondary predication, from whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to paint, to gild" id="02" vncls="">
+<role argnum="0" argrole="painter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>موه الصائغ المعدن بالذهب</parse>
+<comment/>
+<arg f="" g="the jeweler" n="0">الصائغ</arg>
+<arg f="" g="the metal" n="1">المعدن</arg>
+<arg f="" g="with gold" n="2">بالذهب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="painted" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to fill with water" id="03" vncls="">
+<role argnum="0" argrole="filler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>موه * المسبح</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the swiming pool" n="1">المسبح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things filled" vncls="" vntheta=""/>
+</frameset>
+</verb>

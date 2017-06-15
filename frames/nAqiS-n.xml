@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nAqiS</id>
+<frameset cdef="" edef="minus / incomplete / deficient / imperfect" id="01" vncls="">
+<role argnum="1" argrole="minus / incomplete / deficient / imperfect entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what?" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(VP
+              (PV+PVSUFF_SUBJ:3MS تبيّن)
+              (SBAR-SBJ
+                (SBAR
+                  (SUB_CONJ ان)
+                  (S
+                    (NP-SBJ
+                      (NOUN+NSUFF_FEM_PL+CASE_DEF_ACC معطيات)
+                      (NP
+                        (DET+NOUN الشكوى)))
+                    (ADJP-PRD
+                      (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM ناقصة))))
+                (PUNC ,)</parse>
+<arg f="" g="complaint data" n="1">معطيات الشكوى</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="missing" id="02" vncls="">
+<role argnum="1" argrole="entity  missing things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده ناقصه انه ياكل الاكل كله</parse>
+<comment/>
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="to eat the whole food" n="2">انه ياكل الاكل كله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="things missing" vncls="" vntheta=""/>
+</frameset>
+</verb>

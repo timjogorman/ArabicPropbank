@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eakos</id>
+<comment/>
+<frameset cdef="" edef="reversal, inverse" id="01" vncls="">
+<role argnum="1" argrole="things opposite" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حدثت الأمور عكس * ما توقعناه</parse>
+<comment/>
+<arg f="" g="things" n="1">* الأمور</arg>
+<arg f="" g="what we expected" n="2">ما توقعناه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to whatp]ej h" vncls="" vntheta=""/>
+</frameset>
+</verb>

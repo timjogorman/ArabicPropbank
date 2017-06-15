@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inowaSal</id>
+
+<frameset cdef="" edef="to be connected" id="01" vncls="">
+<role argnum="0" argrole="agent, entity doing the connecting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انوصل الحاسوب بالمطبعة بواسطة الموصل</parse>
+
+<arg f="" g="the computer" n="1">الحاسوب</arg>
+<arg f="" g="to the printer" n="2">بالمطبعة</arg>
+<arg f="" g="with a cable" n="3">بواسطة الموصل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing(s) being connected" vncls="" vntheta=""/>
+<role argnum="2" argrole="other thing connected" vncls="" vntheta=""/>
+<role argnum="3" argrole="connecting instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sam~an</id>
+
+<frameset cdef="" edef="to fatten, to make fat or plump" id="01" vncls="other_cos-1">
+<role argnum="0" argrole="agent causer" vncls="other_cos-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+
+
+<example>
+<parse>سمن الرجل طفله بالطعام الدهين</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his baby" n="1">طفله</arg>
+
+<arg f="" g="with greasy food" n="2">بالطعام الدهين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity getting fat" vncls="other_cos-1" vntheta="patient"/>
+
+
+<role argnum="2" argrole="how" vncls="other_cos-1" vntheta="instrument"/>
+<comment/>
+</frameset>
+
+
+<comment/>
+</verb>

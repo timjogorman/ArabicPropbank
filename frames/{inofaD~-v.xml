@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofaD~</id>
+<comment/>
+<frameset cdef="" edef="to break up, to be scattered" id="01" vncls="">
+<role argnum="1" argrole="things bresking up" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(VP
+      (SUB_CONJ اِن)
+      (NP-SBJ
+        (PRON_3MS ُه))
+      (S
+        (SBAR-ADV
+          (SUB_CONJ اِن)
+          (S
+            (VP
+              (PRT
+                (NEG_PART لَن))
+              (IV3FS+IV تَنفَض)
+              (NP-SBJ
+                (DET+NOUN+NSUFF_FEM_PL المُظاهرات)))))
+        (VP
+          (PRT
+            (FUT_PART سَوفَ))
+          (IV3MS+IV يِكُون)
+          (ADVP-PRD
+            (DEM_PRON هِناك))
+          (NP-SBJ
+            (NP
+              (ADJ مَزِيد))
+            (PP
+              (PP
+                (PREP مِن)
+                (NP
+                  (DET+NOUN الدِماء)))
+              (PP
+                (PREP مِن)
+                (NP
+                  (NP
+                    (NOUN اَنصار)
+                    (NP
+                      (DET+NOUN البَقاء)))
+                  (CONJ وِ)
+                  (NP
+                    (NOUN اَنصار)
+                    (NP
+                      (DET+NOUN التَغيِير))))))))))))</parse>
+<comment/>
+<arg f="" g="the demonstrations" n="1">المُظاهرات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

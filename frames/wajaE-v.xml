@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>wajaE</id>
+<comment>EGYPTIAN ARABIC Framefile based on OawojaE-v</comment>
+<frameset cdef="" edef="to hurt, to pain" id="01">
+<role argnum="0" argrole="entity hurting" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>أوجع ابني قلبي بأعماله</parse>
+<comment />
+<arg f="" g="my son" n="0">ابني</arg>
+<arg f="" g="my heart" n="1">قلبي</arg>
+<arg f="" g="with his acts" n="2">بأعماله</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset OawojaE-v.01</comment>
+<role argnum="1" argrole="victim" />
+<role argnum="2" argrole="with what" />
+</frameset>
+</verb>

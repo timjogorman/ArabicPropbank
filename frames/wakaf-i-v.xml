@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wakaf-i</id>
+<comment/>
+<frameset cdef="" edef="to drip or leak" id="01" vncls="">
+<role argnum="1" argrole="entity leaking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وكفت العين بالدمع</parse>
+<comment/>
+<arg f="" g="the eye" n="1">العين</arg>
+<arg f="" g="with tears" n="2">بالدمع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="leaking what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zaxir</id>
+<comment/>
+<frameset cdef="" edef="to be full of, to be filled with" id="01" vncls="">
+<role argnum="1" argrole="entity filled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زخر المكان بالناس</parse>
+<comment/>
+<arg f="" g="the place" n="1">المكان</arg>
+<arg f="" g="with people" n="2">بالناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

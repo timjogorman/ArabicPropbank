@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoxaraq</id>
+
+<frameset cdef="" edef="to be cut or cracked" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انخرق الشراع بالريح</parse>
+
+<comment/>
+<arg f="" g="the sail" n="1">الشراع</arg>
+<arg f="" g="by the wind" n="2">بالريح</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

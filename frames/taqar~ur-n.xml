@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqar~ur</id>
+<comment/>
+<frameset cdef="" edef="to be decided" id="01" vncls="">
+<role argnum="0" argrole="entity deciding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقرر الاجتماع جاء بالإجماع</parse>
+<comment/>
+<arg f="" g="the meeting" n="1">الاجتماع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing decided" vncls="" vntheta=""/>
+</frameset>
+</verb>

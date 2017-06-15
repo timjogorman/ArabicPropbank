@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$ar~id</id>
+<comment/>
+<frameset cdef="" edef="to tramp, to vagabond" id="01" vncls="">
+<role argnum="1" argrole="entity being tramp" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الكثير من الاطفال بيتشردوا * وقت الحرب</parse>
+<comment/>
+<arg f="" g="a lot of kids" n="1">* الكثير من الاطفال</arg>
+<arg f="tmp" g="during war time" n="m">وقت الحرب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

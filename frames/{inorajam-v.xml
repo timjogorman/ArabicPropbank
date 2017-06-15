@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inorajam</id>
+
+<frameset cdef="" edef="to be thrown by stones" id="01" vncls="">
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انرجم الذئب بالحجارة</parse>
+
+<arg f="" g="the wolf" n="1">الذئب</arg>
+<arg f="" g="with stones" n="2">بالحجارة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

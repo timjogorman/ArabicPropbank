@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitobay~aD</id>
+<comment/>
+<frameset cdef="" edef="be bleached, painted white" id="01" vncls="">
+<role argnum="0" argrole="painter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>باب البيت اتبيض * امبارح</parse>
+<comment/>
+<arg f="" g="the house door" n="1">* باب البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="painted" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

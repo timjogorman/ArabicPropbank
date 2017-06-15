@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gamal</id>
+<comment/>
+<frameset cdef="" edef="to accumulate on top each other and become rot" id="01" vncls="">
+<role argnum="1" argrole="entity getting on top each other" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غمل العنب في الزجاجة</parse>
+<comment/>
+<arg f="" g="the grape" n="1">العنب</arg>
+<arg f="loc" g="in the bottle" n="m">في الزجاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

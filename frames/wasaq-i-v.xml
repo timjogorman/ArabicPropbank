@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wasaq-i</id>
+
+<frameset cdef="" edef="to load" id="01" vncls="">
+<role argnum="0" argrole="entity loading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>وسق التاجر البضاعة في السفينة</parse>
+
+<arg f="" g="the merchant" n="0">التاجر</arg>
+<arg f="" g="the merchandise" n="1">البضاعة</arg>
+<arg f="" g="in the ship" n="3">في السفينة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things loaded" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="into what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to drive away or out" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>وسق الراعي الذئاب</parse>
+
+<arg f="" g="the sheperd" n="0">الراعي</arg>
+<arg f="" g="the wolves" n="1">الذئاب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity drove away" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

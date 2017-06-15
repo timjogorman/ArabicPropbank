@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raTan-u</id>
+<comment/>
+<frameset cdef="" edef="to jargonize, to talk in a non understandable words" id="01" vncls="">
+<role argnum="0" argrole="talker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رطن الشاب ببعض الكلمات</parse>
+<comment/>
+<arg f="" g="the young man" n="0">الشاب</arg>
+<arg f="" g="with some words" n="1">ببعض الكلمات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="words" vncls="" vntheta=""/>
+</frameset>
+</verb>

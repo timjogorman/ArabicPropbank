@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nisiy</id>
+<comment/>
+<frameset cdef="" edef="to forget" id="01" vncls="">
+<role argnum="0" argrole="agent that forgot" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا نسيت * كل حاجة</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="every thing" n="1">كل حاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="patient or theme forgotten" vncls="" vntheta=""/>
+</frameset>
+</verb>

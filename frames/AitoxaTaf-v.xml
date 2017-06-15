@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoxaTaf</id>
+<comment/>
+<frameset cdef="" edef="to be abducted or kidnapped" id="01" vncls="">
+<role argnum="0" argrole="kidnapper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل اتخطف * من بيته</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="kidnapped" vncls="" vntheta=""/>
+</frameset>
+</verb>

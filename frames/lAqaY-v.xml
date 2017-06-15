@@ -1,58 +1,87 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>lAqaY</id>
-    <frameset cdef="" edef="encounter" id="01">
-        <role argnum="0" argrole="entity encountering something"/>
-        <role argnum="1" argrole="entity encountered"/>
-        <frame>
-            <example>
-                <parse>
-                    (DEM_PRON_F هذه))
-                    (NP
+<id>lAqaY</id>
+<frameset cdef="" edef="encounter" id="01" vncls="">
+<role argnum="0" argrole="entity encountering something" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity encountered" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(DEM_PRON_F هذه))
+                  (NP
                     (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الحملة)))
-                    (SBAR
-                    (WHNP-3
+                (SBAR
+                  (WHNP-3
                     (REL_PRON التي))
-                    (S
+                  (S
                     (VP
-                    (PV_PASS+PVSUFF_SUBJ:3FS اطلقت)
-                    (NP-SBJ
-                    (-NONE- *T*-3))
-                    (NP-OBJ
-                    (-NONE- *-3))
-                    (NP-ADV
-                    (NOUN+CASE_DEF_ACC تحت)
-                    (NP
-                    (NOUN+CASE_DEF_GEN شعار)
-                    (NP
-                    (NOUN_NUM 206))))))))
-                    (PUNC ,)
-                    (VP
-                    (PRT
-                    (VERB_PART قد))
-                    (PV+PVSUFF_SUBJ:3FS لاقت)
-                    (NP-SBJ
-                    (-NONE- *T*-2))
-                    (NP-OBJ
-                    (NP
+                      (PV_PASS+PVSUFF_SUBJ:3FS اطلقت)
+                      (NP-SBJ
+                        (-NONE- *T*-3))
+                      (NP-OBJ
+                        (-NONE- *-3))
+                      (NP-ADV
+                        (NOUN+CASE_DEF_ACC تحت)
+                        (NP
+                          (NOUN+CASE_DEF_GEN شعار)
+                          (NP
+                            (NOUN_NUM 206))))))))
+              (PUNC ,)
+              (VP
+                (PRT
+                  (VERB_PART قد))
+                (PV+PVSUFF_SUBJ:3FS لاقت)
+                (NP-SBJ
+                  (-NONE- *T*-2))
+                (NP-OBJ
+                  (NP
                     (NOUN+CASE_INDEF_ACC تجاوباً))
-                    (PP
+                  (PP
                     (PREP من)
                     (NP
-                    (NP
-                    (NP
-                    (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN شخصيات)
-                    (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN مرموقة))
-                    (PP
-                    (PREP في)
-                    (NP
-                    (NOUN+CASE_DEF_GEN مجتمع)
-                    (NP
-                    (POSS_PRON_1P نا)))))
-                </parse>
-                <arg f="" g="It" n="0">-NONE- *T*-2&amp;lt;هذه الحملة</arg>
-                <arg f="" g="Response" n="1">تجاوباً</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (NP
+                        (NP
+                          (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN شخصيات)
+                          (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN مرموقة))
+                        (PP
+                          (PREP في)
+                          (NP
+                            (NOUN+CASE_DEF_GEN مجتمع)
+                            (NP
+                              (POSS_PRON_1P نا)))))</parse>
+<arg f="" g="It" n="0">-NONE- *T*-2&lt;هذه الحملة</arg>
+<arg f="" g="Response" n="1">تجاوباً</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to find, to see" id="02" vncls="">
+<role argnum="0" argrole="the entity finding/observing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>إذا لاقيته يصنع هذا فأحبره</parse>
+
+<arg f="" g="(you)" n="0">*</arg>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="do this" n="2">يصنع هذا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the entity found or observed" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing done by Arg1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>ARZ</comment>
 </verb>

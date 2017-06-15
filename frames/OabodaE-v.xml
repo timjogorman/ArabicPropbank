@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OabodaE</id>
+<comment/>
+<frameset cdef="" edef="to excel or to do well" id="01">
+<role argnum="0" argrole="entity doing well"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبدع العامل في عمله</parse>
+<comment/>
+<arg f="" g="the worker" n="0">العامل</arg>
+<arg f="" g="in his work" n="1">في عمله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what"/>
+</frameset>
+<frameset cdef="" edef="to create or design" id="02">
+<role argnum="0" argrole="creator"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنشودة أبدع ربي هذا الكون</parse>
+<comment/>
+<arg f="" g="my God" n="0">ربي</arg>
+<arg f="" g="this universe" n="1">هذا الكون</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things created"/>
+</frameset>
+</verb>

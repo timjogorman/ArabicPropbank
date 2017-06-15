@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ka$~im</id>
+<comment/>
+<frameset cdef="" edef="to frown, to knit or contract the brows" id="01" vncls="">
+<role argnum="1" argrole="entity frowning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NP-ADV
+      (ADJ ماشِي))
+    (NP-VOC
+      (PRT
+        (VOC_PART يا))
+      (NOUN_PROP يُمْنَى))
+    (PUNC .)
+    (SBAR-ADV
+      (SUB_CONJ لَو)
+      (S
+        (VP
+          (PRT
+            (NEG_PART مِش))
+          (PRT
+            (FUT_PART حَ))
+          (IV2FS+IV+IVSUFF_SUBJ:2FS تِكَشِّمِي)
+          (NP-SBJ
+            (-NONE- *))
+          (NP-ADV
+            (NOUN كِدَه)))))
+    (VP
+      (CV+CVSUFF_SUBJ:2FS اِبْقِي)
+      (NP-SBJ-1
+        (-NONE- *))
+      (S
+        (VP
+          (CV+CVSUFF_SUBJ:2FS كَلِّمِي)
+          (NP-SBJ
+            (-NONE- *-1))
+          (NP-OBJ
+            (CVSUFF_DO:1S نِي)))))))</parse>
+<comment/>
+<arg f="" g="Yumna" n="1">* يُمْنَى</arg>
+<arg f="adv" g="like this" n="m">كِدَه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

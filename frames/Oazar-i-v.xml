@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oazar-i</id>
+
+<frameset cdef="" edef="to strenghen or fortify , to aid" id="01" vncls="">
+<role argnum="0" argrole="entity aiding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أزر الرجل أخاه ضد اعدائه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="against his enemy" n="2">ضد اعدائه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity aided" vncls="" vntheta=""/>
+<role argnum="2" argrole="against who" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to surround or encircle" id="02" vncls="">
+<role argnum="1" argrole="entity surrounded" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أزر به الشيء</parse>
+
+<arg f="" g="with it or with him" n="1">به</arg>
+<arg f="" g="the thing" n="2">الشيء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment>أحاط</comment>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taOazar</id>
+<comment/>
+<frameset cdef="" edef="to strenghten, to join in alliance" id="01" vncls="">
+<role argnum="0" argrole="entity united" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تأزر الأخوة فيما بينهم على المشكلة</parse>
+<comment/>
+<arg f="" g="the brothers" n="0">الأخوة</arg>
+<arg f="" g="among themselves" n="1">فيما بينهم</arg>
+<arg f="" g="about the problem" n="2">على المشكلة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity united with (if separated from ARG0)" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

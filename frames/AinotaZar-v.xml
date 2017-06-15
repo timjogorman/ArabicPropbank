@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinotaZar</id>
+
+    <frameset cdef="" edef="to wait" id="01" vncls="">
+<role argnum="0" argrole="person waiting" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing waited for" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+<comment/>
+</mapping>
+<example>
+<parse>(S (VP (it/they/she+expect/wait_for M-tanotaZiru M -تَنْتَظِرُ)
+                           (NP-SBJ (-NONE- X))
+                           (NP-OBJ (some/several MbaEoDa M بَعْضَ)
+                                   (the+details MAlt~afASiyli M التَّفاصِيلِ)
+                                   (the+operational MAlIijorA}iy~api M الإِجْرائِيَّةِ))
+                           (PP-PRP (for Mli- M لِ-)
+                                   (NP (it/them/her_to+enter M-tadoxula M -تَدْخُلَ)
+                                       (NP (scope/domain/sphere MHay~iza M حَيِّزَ)
+                                           (NP (the+implementation/execution/carrying_out MAlt~anofiyXi M التَّنْفِيذِ)))))))))))
+   (PUNC &quot;)</parse>
+<arg f="" g="NP-SBJ (-NONE- *)" n="0">X</arg>
+<arg f="" g="some details on the decisions" n="1">baEoDa Alt~afASiyli AlIijorA}iy~api</arg>
+<arg f="prp" g="in order to be executed" n="m">li- -tadoxula Hay~iza Alt~anofiyXi</arg>
+<V/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset {inotaZar.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on {inotaZar</comment>
+<frameset cdef="" edef="to expcte (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity expecting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لا تنتظر يا أخي شيئا من الاولاد</parse>
+<comment/>
+<arg f="" g="my brother" n="0">يا أخي</arg>
+<arg f="" g="something" n="1">شيئا</arg>
+<arg f="" g="from the kids" n="2">من الاولاد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things expected" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

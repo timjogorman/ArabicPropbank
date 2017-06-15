@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maras-u</id>
+<comment/>
+<frameset cdef="" edef="to macerate, to soak" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مرس الرجل التمر في الماء</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the date" n="1">التمر</arg>
+<arg f="" g="in the water" n="2">في الماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things soaked" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to wipe or touch" id="02" vncls="">
+<role argnum="0" argrole="entity touching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مرس الصبي وجهه بالمنديل</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الصبي</arg>
+<arg f="" g="his face" n="1">وجهه</arg>
+<arg f="" g="with a handkerchief" n="2">بالمنديل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity touched" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

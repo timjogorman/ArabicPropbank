@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitoyaq~in</id>
+
+<frameset cdef="" edef="to ascertain" id="01" vncls="">
+<role argnum="0" argrole="ascertainer" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment>تأكّد</comment>
+</mapping>
+<example>
+<parse>تيقن في الايام الماضية أن المشكلة أكبر بكثير من ظاهرها
+
+Arg 0: _None_*
+Arg 1: أن المشكلة أكبر بكثير من ظاهرها
+Arg Temp: في الايام الماضية</parse>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="topic" vncls="" vntheta="" />
+<comment>ascertain, make sure
+Based on roleset tayaq~an-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on tayaq~an-v</comment>
+</verb>

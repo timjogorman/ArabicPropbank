@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotamonaH</id>
+
+<frameset cdef="" edef="to ask for a grant" id="01" vncls="">
+<role argnum="0" argrole="the asker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أتستمنحه * وهو لا يملك شيئًا ؟</parse>
+
+<arg f="" g="NONE" n="0">*?NONE</arg>
+<arg f="" g="him" n="1">هو</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity  asked" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

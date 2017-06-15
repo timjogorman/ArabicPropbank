@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>XAkir</id>
+
+    <frameset cdef="" edef="to study, to memorize" id="01" vncls="">
+<role argnum="0" argrole="entity studying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كنت بشغل الفيديوهات اللى فى الاسطوانة وكنت * بذاكر الاسئلة اللى فيها</parse>
+
+<arg f="" g="he" n="">*? NONE</arg>
+<arg f="" g="the questions that they were in it" n="">الاسئلة اللى فيها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things studied" vncls="" vntheta=""/>
+<comment>Based on roleset XAkar.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on XAkar</comment>
+<frameset cdef="" edef="to help someone to study, to teach" id="02" vncls="">
+<role argnum="0" argrole="helper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما تيجي تذاكر * لي</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="for me" n="1">لي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity helped" vncls="" vntheta=""/>
+<role argnum="2" argrole="subject" vncls="" vntheta=""/>
+</frameset>
+</verb>

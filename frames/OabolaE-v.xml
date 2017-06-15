@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OabolaE</id>
+
+<frameset cdef="" edef="to make swallow" id="01" vncls="">
+<role argnum="0" argrole="maker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أبلع الرجل ابنه الدواء</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his son" n="1">ابنه</arg>
+<arg f="" g="the medicine" n="2">الدواء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity forced" vncls="" vntheta=""/>
+<role argnum="2" argrole="to swallow what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

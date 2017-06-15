@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aisota$AT</id>
+<comment>EGYPTIAN ARABIC Framefile based on {isota$AT</comment>
+<frameset cdef="" edef="to flame up with rage, to burst with anger" id="01" vncls="">
+<role argnum="0" argrole="entity getting angry" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>استشاط الرجل غضبا من أخيه لاهماله</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="anger" n="1">غضبا</arg>
+<arg f="" g="from his brother" n="2">من أخيه</arg>
+<arg f="cau" g="for negligence" n="m">لاهماله</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {isota$AT.01</comment>
+<role argnum="1" argrole="in what" vncls="" vntheta="" />
+<role argnum="2" argrole="victim" vncls="" vntheta="" />
+</frameset>
+<frameset cdef="" edef="to strive or fight desperately" id="02" vncls="">
+<role argnum="0" argrole="entity striving" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>استشاط  الرجل في حربه من اجل ارضه</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his fight" n="1">في حربه</arg>
+<arg f="" g="for his land" n="2">من اجل ارضه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {isota$AT.02</comment>
+<role argnum="1" argrole="in what" vncls="" vntheta="" />
+<role argnum="2" argrole="for what" vncls="" vntheta="" />
+</frameset>
+</verb>

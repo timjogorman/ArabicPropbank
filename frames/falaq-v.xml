@@ -1,0 +1,85 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>falaq</id>
+<comment>EGYPTIAN ARABIC Framefile based on falaq-i-v</comment>
+<frameset cdef="" edef="to split or cleave, to rip" id="01" vncls="">
+<role argnum="0" argrole="entity spliting" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(S
+    (NP-SBJ
+      (NP
+        (DET+NOUN الاخْبار))
+      (SBAR
+        (WHNP-2
+          (REL_PRON الِّي))
+        (S
+          (VP
+            (IV2MS+IV تِفلق)
+            (NP-SBJ
+              (-NONE- *T*-2))
+            (NP-ADV
+              (ADJP
+                (ADJ_COMP أَكْتَر)
+                (PP
+                  (PREP مِن)
+                  (NP
+                    (ADV كِدَه)))))))))
+    (SBAR-PRD
+      (SUB_CONJ إِنّ)
+      (S
+        (NP-SBJ
+          (NP
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG المِيزانِيَّة))
+            (SBAR
+              (WHNP-1
+                (REL_PRON الِّي))
+              (S
+                (VP
+                  (CV+CVSUFF_SUBJ:2MS خَصَّص)
+                  (NP-OBJ
+                    (NP
+                      (CVSUFF_DO:3FS ها))
+                    (NP
+                      (-NONE- *T*-1)))
+                  (NP-SBJ
+                    (NOUN_PROP عادِل)
+                    (NOUN_PROP اِمام))))))
+          (NP
+            (PRON_3FS هِيَّ)))
+        (NP-PRD
+          (NOUN_NUM 20)
+          (NP
+            (NOUN_NUM مِلْيُون)
+            (NP
+              (NOUN دُولار))))))))</parse>
+<comment />
+<arg f="" g="the news" n="0">الاخْبار</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset falaq-i-v.01</comment>
+<role argnum="1" argrole="things splitted" vncls="" vntheta="" />
+<role argnum="2" argrole="end point" vncls="" vntheta="" />
+</frameset>
+<frameset cdef="" edef="to create" id="02" vncls="">
+<role argnum="0" argrole="creator" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>فلق الله الصباح</parse>
+<comment />
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="the morning" n="1">الصباح</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset falaq-i-v.02</comment>
+<role argnum="1" argrole="things created" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gad~aY</id>
+<comment/>
+<frameset cdef="" edef="to feed" id="01" vncls="">
+<role argnum="0" argrole="causal agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>امبارح ماما غدت * نا دجاج</parse>
+<comment/>
+<arg f="" g="mother" n="0">* ماما</arg>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="chicken" n="2">دجاج</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+<role argnum="2" argrole="eater" vncls="" vntheta=""/>
+</frameset>
+</verb>

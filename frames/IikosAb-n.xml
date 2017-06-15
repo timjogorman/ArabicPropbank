@@ -1,0 +1,85 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IikosAb</id>
+<comment/>
+<frameset cdef="" edef="causing to earn" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ وِ)
+    (VP
+      (IV3FS+IV تِقُول)
+      (NP-SBJ
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG الدُكْتُورَة)
+          (NOUN_PROP فَيْرُوز)
+          (NOUN_PROP عُمَر))
+        (PUNC ,)
+        (NP
+          (NOUN رَئِيس)
+          (NP
+            (NOUN مَجْلِس)
+            (NP
+              (NOUN+NSUFF_FEM_SG إِدارَة)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG الجَمْعِيَّة))))))
+      (PUNC ,)
+      (SBAR
+        (SUB_CONJ أَنَّ)
+        (S
+          (NP-TPC-1
+            (DET+NOUN المَشْرُوع))
+          (VP
+            (IV3MS+IV يَهدِف)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (PP-CLR
+              (PREP لِ)
+              (NP
+                (NOUN تَدْرِيب)
+                (NP
+                  (NOUN_NUM 300)
+                  (NP
+                    (NOUN شابّ)
+                    (CONJ وَ)
+                    (NOUN+NSUFF_FEM_SG فَتاَة)))))
+            (PP-PRP
+              (PREP فِي)
+              (NP
+                (NP
+                  (NOUN+NSUFF_FEM_SG مُحاوَلَة))
+                (PP
+                  (PREP لِ)
+                  (S-NOM
+                    (VP
+                      (NOUN.VN إِكساب)
+                      (NP-SBJ
+                        (-NONE- *))
+                      (NP-DTV
+                        (POSS_PRON_3P هُم))
+                      (NP-OBJ
+                        (NP
+                          (NOUN+NSUFF_FEM_PL مَهارات)
+                          (NP
+                            (NOUN ٱِخْتِيار)
+                            (NP
+                              (NP
+                                (NOUN شِرِيك)
+                                (NP
+                                  (DET+NOUN+NSUFF_FEM_SG الحَياَة)))</parse>
+<comment/>
+<arg f="" g="try" n="0">* مُحاوَلَة</arg>
+<arg f="" g="them" n="2">هُم</arg>
+<arg f="" g="skills to pick the life partner" n="1">مهارات اختيار شريك الحياة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing earned" vncls="" vntheta=""/>
+<role argnum="2" argrole="benefactor" vncls="" vntheta=""/>
+<role argnum="3" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

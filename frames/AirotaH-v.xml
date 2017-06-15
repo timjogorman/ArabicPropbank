@@ -1,0 +1,93 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AirotaH</id>
+<frameset cdef="" edef="Be pelased with, be satisfied with" id="01" vncls="">
+<role argnum="0" argrole="entity pleased" vncls="" vntheta="" />
+<role argnum="1" argrole="entity pleased with" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>مثال ذلك الرئيس الأسد كان يرتاح *  لكل شيء</parse>
+<arg f="" g="-NONE- &lt;The president Asad" n="0">* &lt;الرئيس الأسد</arg>
+<arg f="" g="by anything" n="1">لكل شيء</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {irotAH.01</comment>
+</frameset>
+<frameset cdef="" edef="to take rest" id="02" vncls="">
+<role argnum="0" argrole="entity taking the rest" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>لاجئ إريتري يرتاح * عند الحدود المصرية</parse>
+<arg f="" g="-NONE- &lt; An Eritrean refugee" n="0">* &lt; لاجئ إريتري</arg>
+<arg f="loc" g="At the egyptian border" n="m">عند الحدود المصرية</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {irotAH.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on {irotAH</comment>
+<frameset cdef="" edef="to be relieved of/from" id="03" vncls="">
+<role argnum="0" argrole="experiencer/entity relieved" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (SQ
+    (PRT
+      (INTERROG_PART هَل))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS تَمَنَّى)
+      (NP-SBJ
+        (NOUN أَهْل)
+        (NP
+          (POSS_PRON_2MS َك)))
+      (NP-OBJ
+        (DET+NOUN المَوت))
+      (NP-TMP
+        (NOUN_QUANT كُلّ)
+        (NP
+          (NOUN يُوم)))
+      (PP-PRP
+        (PREP لِ)
+        (SBAR
+          (SUB_CONJ كَيْ)
+          (S
+            (VP
+              (IV3P+IV+IVSUFF_SUBJ:P يِرتاحُوا)
+              (NP-SBJ
+                (-NONE- *))
+              (PP
+                (PREP مِن)
+                (NP
+                  (NOUN عَذاب)
+                  (NP
+                    (NOUN عَدَم)
+                    (S-NOM
+                      (VP
+                        (NOUN.VN+NSUFF_FEM_SG مِعْرِفِت)
+                        (NP-SBJ
+                          (POSS_PRON_3P هُم))
+                        (SQ
+                          (PRT
+                            (INTERROG_PART هَل))
+                          (NP-SBJ
+                            (PRON_2MS أَنْتَ))
+                          (ADJP-PRD
+                            (ADJ حَيّ)
+                            (CONJ أَمْ)
+                            (NOUN مَيِّت)))))))))))))
+    (PUNC ?)))</parse>
+<comment />
+<arg f="" g="-NONE- &gt; your family" n="0">* &gt; أَهْلك</arg>
+<arg f="" g="from the torture of not knowing whether you are alive or dead" n="1">مِن عَذاب عَدَم مِعْرِفِتهُم هَل أَنْتَ حَيّ أَمْ مَيِّت</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {irotAH.03</comment>
+<role argnum="1" argrole="from what/torture" vncls="" vntheta="" />
+</frameset>
+</verb>

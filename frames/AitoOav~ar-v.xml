@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoOav~ar</id>
+<comment>EGYPTIAN ARABIC based on taOav~ar</comment>
+    <frameset cdef="" edef="To be affected" id="01">
+<role argnum="1" argrole="thing affected" />
+<role argnum="2" argrole="instrument or event" />
+<frame>
+<example>
+<parse>
+(S
+            (NP-TPC-1
+              (NP
+                (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_ACC العلاقات))
+              (ADJP
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_ACC اللبنانية)
+                (PUNC -)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_ACC الاميركية)))
+            (VP
+              (PRT
+                (NEG_PART لن))
+              (IV3FS+IV+IVSUFF_MOOD:S تتأثر)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (PP-CLR
+                (PREP ب)
+                (NP
+                  (NP
+                    (NOUN+CASE_DEF_GEN تباين)
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN الآراء)))
+                  (NP
+                    (NOUN+CASE_DEF_ACC حول)
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN الارهاب)))))))))))
+  (PUNC .))
+</parse>
+<arg f="" g="It" n="1">-NONE- *T*-1&lt;العلاقات اللبنانية الاميركية</arg>
+<arg f="" g="The differences in views on terrorism" n="2">بتباين الآراء حول الارهاب</arg>
+</example>
+</frame>
+<comment>Based on roleset taOav~ar.01</comment></frameset>
+</verb>

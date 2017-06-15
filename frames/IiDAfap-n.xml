@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IiDAfap</id>
+<comment/>
+<frameset cdef="" edef="adding" id="01" vncls="">
+<role argnum="0" argrole="adder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(VP
+                (NOUN.VN+NSUFF_FEM_SG إِعادَة)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (DET+NOUN الدِين))
+                (PP-CLR
+                  (PREP لِ)
+                  (NP
+                    (NOUN+NSUFF_FEM_SG حَياَت)
+                    (NP
+                      (POSS_PRON_1P نا))))
+                (PP
+                  (-NONE- *ICH*))))
+            (CONJ وَ)
+            (NP
+              (NP
+                (NOUN تَدْرِيس)
+                (NP
+                  (NOUN+NSUFF_FEM_SG مادَّة)
+                  (NP
+                    (DET+NOUN الدِين))))
+              (PP-LOC
+                (PREP فِي)
+                (NP
+                  (DET+NOUN المَدارِس))))
+            (CONJ وَ)
+            (S-NOM
+              (VP
+                (NOUN.VN+NSUFF_FEM_SG إِضافَة)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (NOUN+NSUFF_FEM_PL دَرَجات)
+                  (NP
+                    (POSS_PRON_3FS ها)))
+                (PP-CLR
+                  (PREP لِ)
+                  (NP
+                    (DET+NOUN المَجْمُوع))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="her marks" n="1">درجاتها</arg>
+<arg f="" g="to the total" n="2">للمجموع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing being added" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing being added to" vncls="" vntheta=""/>
+</frameset>
+</verb>

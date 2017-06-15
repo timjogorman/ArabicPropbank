@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>radaE</id>
+<comment>EGYPTIAN ARABIC Framefile based on radaE-a-v</comment>
+<frameset cdef="" edef="to deter or prevent from" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(X
+        (NO_FUNC لابد))
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP مِن)
+        (SBAR-NOM
+          (WHNP-2
+            (REL_PRON ما))
+          (S
+            (VP
+              (IV3MS+IV يَرْدَع)
+              (NP-SBJ
+                (-NONE- *T*-2))
+              (NP-OBJ
+                (DET+NOUN الناس))
+              (PP-CLR
+                (PREP عَن)
+                (NP
+                  (NP
+                    (DET+NOUN الخُرُوج))</parse>
+<comment />
+<arg f="" g="NONE" n="0">*T* -2 NONE</arg>
+<arg f="" g="the people" n="1">الناس</arg>
+<arg f="" g="from going out" n="2">عَن الخُرُوج</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset radaE-a-v.01</comment>
+<role argnum="1" argrole="entity prevented" vncls="" vntheta="" />
+<role argnum="2" argrole="from what" vncls="" vntheta="" />
+</frameset>
+</verb>

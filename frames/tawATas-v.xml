@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tawATas</id>
+<comment/>
+<frameset cdef="" edef="to exchange blows, toslap or strike one another" id="01" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تواطس القوم فيما بينهم بالأيادي</parse>
+<comment/>
+<arg f="" g="the people" n="0">القوم</arg>
+<arg f="" g="among themselves" n="1">فيما بينهم</arg>
+<arg f="" g="with hands" n="2">بالأيادي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to clash or collide, to popple (waves)" id="02" vncls="">
+<role argnum="1" argrole="entity clashing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تواطس الموج على الصخور</parse>
+<comment/>
+<arg f="" g="the wave" n="1">الموج</arg>
+<arg f="" g="on the rocks" n="2">على الصخور</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="into what" vncls="" vntheta=""/>
+</frameset>
+</verb>

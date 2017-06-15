@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qamas</id>
+<comment/>
+<frameset cdef="" edef="to dive or submerge" id="01" vncls="">
+<role argnum="0" argrole="entity diving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قمس الرجل في النهر</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in the river" n="1">في النهر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="into what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to throw in the water and sink" id="02" vncls="">
+<role argnum="0" argrole="entity throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قمس الرجل الحديد في الماء</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the iron" n="1">الحديد</arg>
+<arg f="" g="in the water" n="2">في الماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="into what (mostly water)" vncls="" vntheta=""/>
+</frameset>
+</verb>

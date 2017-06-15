@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kasad-u</id>
+<comment/>
+<frameset cdef="" edef="to be unmarketable or unsold, did not make profit" id="01" vncls="">
+<role argnum="1" argrole="things unsold" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كسدت البضاعة</parse>
+<comment/>
+<arg f="" g="the merchandise" n="1">البضاعة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

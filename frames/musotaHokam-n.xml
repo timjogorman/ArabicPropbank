@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>musotaHokam</id>
+<comment/>
+<frameset cdef="" edef="intense, strong, forceful" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه القلعة مستحكمة * بالصخور</parse>
+<comment/>
+<arg f="" g="this castle" n="1">* هذه القلعة</arg>
+<arg f="" g="with rocks" n="2">بالصخور</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity strong" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

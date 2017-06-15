@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitosaw~aq</id>
+<comment/>
+<frameset cdef="" edef="to go shoping" id="01" vncls="">
+<role argnum="0" argrole="buyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>امبارح أنا اتسوقت * بخمسين دولار من السوق</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="with fifty dollars" n="3">بخمسين دولار</arg>
+<arg f="" g="from the market" n="2">من السوق</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="goods" vncls="" vntheta=""/>
+<role argnum="2" argrole="seller" vncls="" vntheta=""/>
+<role argnum="3" argrole="price" vncls="" vntheta=""/>
+</frameset>
+</verb>

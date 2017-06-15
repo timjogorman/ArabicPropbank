@@ -1,53 +1,235 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>mAl-i</id>
-    <frameset cdef="" edef="to incline" id="01">
-        <role argnum="0" argrole="wanter"/>
-        <role argnum="1" argrole="action wanted"/>
-        <frame>
-            <example>
-                <parse>
-                    (PUNC ,)
-                    (S-ADV
-                    (VP
-                    (ADJ.VN+CASE_INDEF_ACC مؤكدا)
-                    (NP-SBJ
-                    (-NONE- *-1))
+<id>mAl-i</id>
+<frameset cdef="" edef="to incline" id="01" vncls="">
+<role argnum="0" argrole="wanter" vncls="" vntheta=""/>
+<role argnum="1" argrole="action wanted" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(PUNC ,)
+    (S-ADV
+      (VP
+        (ADJ.VN+CASE_INDEF_ACC مؤكدا)
+        (NP-SBJ
+          (-NONE- *-1))
+        (SBAR
+          (SUB_CONJ ان)
+          (S
+            (PUNC &quot;)
+            (S
+              (NP-TPC-3
+                (NP
+                  (NOUN+CASE_DEF_ACC اختيار)
+                  (NP
+                    (NP
+                      (NP
+                        (NOUN+CASE_INDEF_GEN ناد))
+                      (NP
+                        (NOUN ذي)
+                        (NP
+                          (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN حساسية))))
                     (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (PUNC &amp;quot;)
-                    (S
-                    (NP-TPC-3
-                    (NP
-                    (NOUN+CASE_DEF_ACC اختيار)
-                    (NP
-                    (NP
-                    (NP
-                    (NOUN+CASE_INDEF_GEN ناد))
-                    (NP
-                    (NOUN ذي)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN حساسية))))
-                    (SBAR
-                    (WHNP-2
-                    (-NONE- 0))
-                    (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يميل)
+                      (WHNP-2
+                        (-NONE- 0))
+                      (S
+                        (VP
+                          (IV3MS+IV+IVSUFF_MOOD:I يميل)
+                          (NP-SBJ
+                            (-NONE- *T*-2))
+                          (PP-CLR
+                            (PREP الى)
+                            (NP
+                              (DET+NOUN+CASE_DEF_GEN اليسار)
+                              (CONJ و)
+                              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN العلمانية))))))))
+                (PUNC ,)</parse>
+<arg f="" g="It" n="0">-NONE- *T*-2&lt;ناد</arg>
+<arg f="" g="To the left" n="1">الى اليسار</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to deviate from" id="02" vncls="">
+<role argnum="0" argrole="entity deviating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>مال الرجل عن الطريق</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="from the road" n="1">عن الطريق</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+
+<comment>مال عن : انحرف , حاد</comment>
+</frameset>
+<frameset cdef="" edef="to decline, to sink, to be about to set" id="03" vncls="">
+<role argnum="0" argrole="entity about to set" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>مالت الشمس</parse>
+
+<arg f="" g="the sun" n="0">الشمس</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to intimidate / exert pressure on" id="04" vncls="">
+<role argnum="0" argrole="intimidator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (PRN
+        (S
+          (VP
+            (IV3MS+IV يَعْنِي)
+            (NP-SBJ
+              (-NONE- *)))))
+      (NP-VOC
+        (PRT
+          (VOC_PART يَا))
+        (NOUN_PROP كِيمُو))
+      (NP-TPC-1
+        (DET+NOUN الجَيش))
+      (VP
+        (PV+PVSUFF_SUBJ:3MS خَلّا)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (DET+NOUN الشَعْب))
+        (S
+          (NP-SBJ-3
+            (PRON_3MS هُوَّ))
+          (SBAR-NOM-PRD
+            (WHNP-2
+              (REL_PRON اللِّي))
+            (S
+              (VP
+                (IV3MS+IV يِسَقَّط)
+                (NP-SBJ
+                  (-NONE- *T*-2))
+                (NP-OBJ
+                  (DET+NOUN النِظام))))))
+        (SBAR-TMP
+          (SUB_CONJ لَمّا)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS عَرَف)
+              (NP-SBJ
+                (-NONE- *))
+              (SBAR
+                (SUB_CONJ إِنّ)
+                (S
+                  (NP-TPC-4
+                    (PRON_3FS ها))
+                  (VP
+                    (PV+PVSUFF_SUBJ:3FS بَقِت)
                     (NP-SBJ
-                    (-NONE- *T*-2))
-                    (PP-CLR
-                    (PREP الى)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN اليسار)
-                    (CONJ و)
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN العلمانية))))))))
-                    (PUNC ,)
-                </parse>
-                <arg f="" g="It" n="0">-NONE- *T*-2&amp;lt;ناد</arg>
-                <arg f="" g="To the left" n="1">الى اليسار</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (-NONE- *-4))
+                    (NP-PRD
+                      (NOUN+NSUFF_FEM_SG بَلُوظَة))))))))))
+    (CONJ وِ)
+    (S
+      (NP-TMP
+        (NOUN بَعْدِين))
+      (VP
+        (PV+PVSUFF_SUBJ:3MS لَقَف)
+        (NP-OBJ
+          (DET+NOUN+NSUFF_FEM_SG الكُورَة))
+        (NP-SBJ
+          (PRON_3MS هُوَّ))))
+    (CONJ وِ)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3FS بَقِت)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-PRD
+          (NOUN+NSUFF_FEM_SG لِعْبَة)
+          (NP
+            (NOUN+NSUFF_FEM_PL تَوازُنات)))))
+    (S
+      (VP
+        (IV1P+IV نِيْجِي)
+        (NP-SBJ
+          (-NONE- *))
+        (PP-CLR
+          (PREP عَلَى)
+          (NP
+            (DEM_PRON_P دُول)))
+        (NP-ADV
+          (NOUN+NSUFF_FEM_SG شُوَيَّة))))
+    (CONJ و)
+    (S
+      (VP
+        (IV1P+IV نمِيل)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP عَلَى)
+          (NP
+            (NO_FUNC دوكهما)))
+        (NP-ADV
+          (NOUN+NSUFF_FEM_SG شُوَيَّة))))
+    (CONJ وِ)
+    (S
+      (NP-TPC-5
+        (DET+NOUN المَرْكِب))
+      (VP
+        (IV3FS+IV تِمْشِي)
+        (NP-SBJ
+          (-NONE- *T*-5))))
+    (PUNC ?)))</parse>
+
+<arg f="" g="(we)" n="0">*</arg>
+<arg f="" g="on them" n="1">عَلَى دوكهما</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="intimidated" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

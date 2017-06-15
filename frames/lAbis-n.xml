@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lAbis</id>
+
+<frameset cdef="" edef="wearing" id="01" vncls="">
+<role argnum="0" argrole="wearer" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing worn" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الواد كان لابس * قميص ابيض</parse>
+
+<arg f="" g="the boy" n="0">* الواد</arg>
+<comment/>
+<arg f="" g="white shirt" n="1">قميص ابيض</arg>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

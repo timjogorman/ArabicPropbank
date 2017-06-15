@@ -1,29 +1,123 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>TaraH-a</id>
-    <frameset cdef="" edef="to propose / suggest" id="01">
-        <role argnum="0" argrole="entity proposing"/>
-        <role argnum="1" argrole="thing proposed, proposition"/>
-        <role argnum="2" argrole="benefactive or entity proposed to"/>
-        <frame>
-            <example>
-                <parse>
-                    (S (S (SBAR-TMP (WHADVP-1 (when MEinodamA M عِنْدَما))
-                    (S (VP (submit/suggest/propose+we MTaraHnA- M طَرَحنا-)
-                    (NP-SBJ (-NONE- X))
-                    (NP-OBJ (it/them/her M-hA M -ها))
-                    (PP-CLR (on/above MEalaY M عَلَى)
-                    (NP (the+colleagues/associates/companions MAlz~umalALi M الزُّمَلاءِ)))
-                    (ADVP-TMP-1 (-NONE- XTX)))))
-                </parse>
-                <arg f="" g="NP-SBJ (-NONE- *" n="0">X</arg>
-                <arg f="" g="it" n="1">hA</arg>
-                <arg f="" g="to the colleagues" n="2">EalaY Alz~umalALi</arg>
-                <arg f="tmp" g="ADVP-TMP-1 (-NONE- *T*)" n="m">XTX</arg>
-            </example>
-        </frame>
-        <comment>
-            عرض / اقترح
-        </comment>
-    </frameset>
+<id>TaraH-a</id>
+<frameset cdef="" edef="to propose / suggest / to ask/ to cover" id="01" vncls="">
+<role argnum="0" argrole="entity proposing" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing proposed, proposition" vncls="" vntheta=""/>
+<role argnum="2" argrole="benefactive or entity proposed to" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S (S (SBAR-TMP (WHADVP-1 (when MEinodamA M عِنْدَما))
+                (S (VP (submit/suggest/propose+we MTaraHnA- M طَرَحنا-)
+                       (NP-SBJ (-NONE- X))
+                       (NP-OBJ (it/them/her M-hA M -ها))
+                       (PP-CLR (on/above MEalaY M عَلَى)
+                               (NP (the+colleagues/associates/companions MAlz~umalALi M الزُّمَلاءِ)))
+                       (ADVP-TMP-1 (-NONE- XTX)))))</parse>
+<arg f="" g="NP-SBJ (-NONE- *" n="0">X</arg>
+<arg f="" g="it" n="1">hA</arg>
+<arg f="" g="to the colleagues" n="2">EalaY Alz~umalALi</arg>
+<arg f="tmp" g="ADVP-TMP-1 (-NONE- *T*)" n="m">XTX</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+
+<comment>عرض / اقترح</comment>
+</frameset>
+
+<frameset cdef="" edef="to throw or cast" id="02" vncls="">
+<role argnum="0" argrole="entity throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>طرح المقاتل خصمه أرضا</parse>
+
+<arg f="" g="the fighter" n="0">المقاتل</arg>
+<arg f="" g="his opponent" n="1">خصمه</arg>
+<arg f="" g="to the ground" n="2">أرضا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="where, end position" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to subtract or deduct" id="03" vncls="">
+<role argnum="0" argrole="entity subtracting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>طرح البائع المباع من العدد الأصلي</parse>
+
+<arg f="" g="the seller" n="0">البائع</arg>
+<arg f="" g="the sold" n="1">المباع</arg>
+<arg f="" g="from the original number" n="2">من العدد الأصلي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things subtract" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to forget about (multi word expression)" id="04" vncls="">
+<role argnum="0" argrole="entity forgetting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>طرح المدير موضوع العمال جانبا</parse>
+
+<arg f="" g="the manager" n="0">المدير</arg>
+<arg f="" g="the workers subject" n="1">موضوع العمال</arg>
+<arg f="" g="on the side" n="2">جانبا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things forgotten" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to Arg 1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to miscarry, to have a miscarriage" id="05" vncls="">
+<role argnum="0" argrole="entity having a miscarriage" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>طرحت الأنثى الجنين</parse>
+
+<arg f="" g="the female" n="0">الأنثى</arg>
+<arg f="" g="fetus" n="1">الجنين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="attributed to Arg 0" vncls="" vntheta=""/>
+<comment>أجهضت‏</comment>
+</frameset>
+<comment/>
 </verb>

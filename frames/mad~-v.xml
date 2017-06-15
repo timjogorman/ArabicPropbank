@@ -1,0 +1,106 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mad~</id>
+
+    <frameset cdef="" edef="To extend" id="01" vncls="">
+<role argnum="0" argrole="agent, entity making something be longer" vncls="" vntheta=""/>
+<role argnum="1" argrole="patient, thing getting longer" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+        (VP
+          (IV1P+IV+IVSUFF_MOOD:I نمد)
+          (NP-SBJ
+            (-NONE- *))
+          (NP-OBJ
+            (NOUN+CASE_DEF_ACC ايدي)
+            (NP
+              (POSS_PRON_1P نا)))
+          (PP-PRP
+            (PREP ل)
+            (SBAR
+              (-NONE- 0)
+              (S
+                (VP
+                  (IV1P+IV+IVSUFF_MOOD:S نتعاون)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (PP
+                    (PREP في)
+                    (SBAR-NOM
+                      (WHNP-1
+                        (REL_PRON ما))
+                      (S
+                        (NP-SBJ
+                          (-NONE- *T*-1))
+                        (NP-PRD
+                          (NOUN+CASE_DEF_ACC بين)
+                          (NP
+                            (PRON_1P نا))))))))))))</parse>
+<arg f="" g="We" n="0">-NONE- *</arg>
+<arg f="" g="Our hands" n="1">ايدينا</arg>
+<arg f="pnc" g="To cooperate" n="m">لنتعاون</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset mad~-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on mad~-u</comment>
+<frameset cdef="" edef="to hit (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(SBARQ
+    (WHNP-1
+      (INTERROG_PRON أَيْه))
+    (S
+      (ADJP-PRD
+        (DET+NOUN المَطْلُوب))
+      (NP-SBJ
+        (-NONE- *T*-1))))
+  (SQ
+    (VP
+      (IV1P+IV نِعْمِل)
+      (NP-SBJ
+        (-NONE- *))
+      (WHNP-OBJ
+        (INTERROG_ADV أِيْه))))
+  (SQ
+    (SQ
+      (VP
+        (IV1P+IV نِقْتِل)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (IVSUFF_DO:3MS ُه))))
+    (CONJ وَلّا)
+    (SQ
+      (VP
+        (IV1P+IV نِمِدّ)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (IVSUFF_DO:3MS ُه))
+        (PP
+          (PREP عَلَى)
+          (NP
+            (NOUN رِجْلِي)
+            (NP
+              (POSS_PRON_3MS ه))))))
+    (PUNC ?)))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="on his feet" n="2">على رجليه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity got hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what part" vncls="" vntheta=""/>
+</frameset>
+</verb>

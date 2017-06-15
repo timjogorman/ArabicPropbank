@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xazal-i</id>
+
+<frameset cdef="" edef="to cut" id="01" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خزل الرجل الخشبة بضربة واحدة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the wood" n="1">الخشبة</arg>
+<arg f="" g="with one hit" n="2">بضربة واحدة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to find fault with" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عاب الرجل على أخيه أخلاقه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on his brother" n="2">على أخيه</arg>
+<arg f="" g="His manners" n="1">أخلاقه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the fault" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

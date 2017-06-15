@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Majir</id>
+<comment>EGYPTIAN ARABIC based on Majar</comment>
+    <frameset cdef="" edef="to protect or help" id="01" vncls="">
+<role argnum="0" argrole="protector" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(SBAR-ADV
+          (SUB_CONJ إِنْ)
+          (S
+            (NP-TPC-2
+              (NP
+                (NOUN أَحَد))
+              (PP
+                (PREP مِن)
+                (NP
+                  (NO_FUNC المشركين))))
+            (VP
+              (PV+PVSUFF_SUBJ:3MS ٱِسْتَجارَ)
+              (NP-SBJ
+                (-NONE- *T*-2))
+              (NP-OBJ
+                (PVSUFF_DO:2MS كَ)))))
+        (PRT
+          (CONNEC_PART فَ))
+        (VP
+          (CV+CVSUFF_SUBJ:2MS آجِر)
+          (NP-SBJ
+            (-NONE- *))
+          (NP-OBJ
+            (CVSUFF_DO:3MS ُه))
+          (PP
+            (PREP حَتَّى)
+            (S
+              (VP
+                (IV3MS+IV يِسْمَع)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (NOUN كَلام)
+                  (NP
+                    (NOUN_PROP اللّٰه))))))))</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="him" n="1">ه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Majar.01</comment>
+<role argnum="1" argrole="protected" vncls="" vntheta="" />
+<role argnum="2" argrole="from" vncls="" vntheta="" />
+</frameset>
+</verb>

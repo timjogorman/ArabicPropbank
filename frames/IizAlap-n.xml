@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IizAlap</id>
+<comment/>
+<frameset cdef="" edef="to remove" id="01" vncls="">
+<role argnum="0" argrole="the remover" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم ازالة كل القطع المكسورة من الشارع من قبل الناس</parse>
+<comment/>
+<arg f="" g="all the broken parts" n="1">كل القطع المكسورة</arg>
+<arg f="" g="from the street" n="2">من الشارع</arg>
+<arg f="" g="by the people" n="0">من قبل الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing removed" vncls="" vntheta=""/>
+<role argnum="2" argrole="place removed from" vncls="" vntheta=""/>
+</frameset>
+</verb>

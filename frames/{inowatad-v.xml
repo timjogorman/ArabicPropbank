@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inowatad</id>
+
+<frameset cdef="" edef="to be staked (with a stake)" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انوتدت الخيمة بعمودين على الحديقة</parse>
+
+<arg f="" g="the tent" n="1">الخيمة</arg>
+<arg f="" g="with two poles" n="2">بعمودين</arg>
+<arg f="" g="in the back yard" n="3">على الحديقة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things staked" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument  (stakes)" vncls="" vntheta=""/>
+<role argnum="3" argrole="location" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

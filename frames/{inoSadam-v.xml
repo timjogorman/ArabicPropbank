@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoSadam</id>
+
+<frameset cdef="" edef="to be shocked" id="01" vncls="">
+<role argnum="1" argrole="the shocked" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انصدمت البنت بالخبر</parse>
+
+<arg f="" g="the girl" n="1">البنت</arg>
+<arg f="" g="by the news" n="2">بالخبر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="the cause" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be hit" id="02" vncls="">
+<role argnum="1" argrole="experiencer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انصدمت السيارة بالشجرة</parse>
+
+<arg f="" g="the car" n="1">السيارة</arg>
+<arg f="" g="by the tree" n="2">بالشجرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

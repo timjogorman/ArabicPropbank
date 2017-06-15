@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AifohAm</id>
+<comment/>
+<frameset cdef="" edef="making understand or realize" id="01" vncls="">
+<role argnum="0" argrole="entity explaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صعب جدا افهام * هذا الرجل بأنه على خطأ</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="this man" n="2">هذا الرجل</arg>
+<arg f="" g="that he is wrong" n="1">بأنه على خطأ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things explained" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

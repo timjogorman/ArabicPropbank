@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHajab</id>
+
+<frameset cdef="" edef="to be to concealed, veiled" id="01" vncls="">
+<role argnum="1" argrole="entity concealed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحجب الضوء عن الغرفة</parse>
+
+<arg f="" g="the light" n="1">الضوء</arg>
+<arg f="" g="the room" n="2">عن الغرفة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

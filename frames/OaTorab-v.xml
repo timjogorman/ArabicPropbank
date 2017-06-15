@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaTorab</id>
+<comment/>
+<frameset cdef="" edef="to delight, to transport with joy" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أطربتنا البنت بغنائها</parse>
+<comment/>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="with her singing" n="2">بغنائها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity having joy" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

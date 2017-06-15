@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waH~a$</id>
+<comment/>
+<frameset cdef="" edef="make unpleasant or ugly" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الدنيا وحشت * ك زي ما أنا شايف</parse>
+<comment/>
+<arg f="" g="thw world" n="0">* الدنيا</arg>
+<arg f="" g="you" n="1">ك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity becoming ugly" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AixotAr</id>
+<comment>EGYPTIAN ARABIC based on {ixotAr</comment>
+    <frameset cdef="" edef="to choose" id="01" vncls="">
+<role argnum="0" argrole="chooser" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>الراجل اختار * أخوه حتى يسكن معه من بين عشرة اشخاص</parse>
+
+
+<comment />
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his brother" n="1">أخوه</arg>
+<arg f="prp" g="to live with him" n="m">حتى يسكن معه</arg>
+<arg f="" g="from ten people" n="3">من بين عشرة اشخاص</arg>
+</example>
+
+
+<comment />
+</frame>
+
+
+<role argnum="1" argrole="thing chosen" vncls="" vntheta="" />
+<role argnum="2" argrole="position" vncls="" vntheta="" />
+<role argnum="3" argrole="from group" vncls="" vntheta="" />
+<comment>Based on roleset {ixotAr.01</comment>
+</frameset>
+
+</verb>

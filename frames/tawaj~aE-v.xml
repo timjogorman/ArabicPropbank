@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tawaj~aE</id>
+<comment/>
+<frameset cdef="" edef="to feel pain, to suffer pain" id="01">
+<role argnum="0" argrole="entity feeling"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>توجع قلبي من فراقهم</parse>
+<comment/>
+<arg f="" g="my heart" n="0">قلبي</arg>
+<arg f="" g="from thier separation" n="1">من فراقهم</arg>
+</example>
+<comment/>
+</frame>
+<comment>تألم</comment>
+<role argnum="1" argrole="for what or because of what"/>
+</frameset>
+</verb>

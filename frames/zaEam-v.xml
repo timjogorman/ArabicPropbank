@@ -1,0 +1,159 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zaEam</id>
+<frameset cdef="" edef="to purport, claim, pretend" id="01" vncls="">
+<role argnum="0" argrole="claimer" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing claimed" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (PP
+    (PREP في)
+    (NP
+      (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مقدمة)
+      (NP
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الكتاب))
+        (SBAR
+          (WHNP-2
+            (-NONE- 0))
+          (S
+            (VP
+              (DET+ADJ.VN+CASE_DEF_GEN الموسوم)
+              (NP-SBJ
+                (-NONE- *T*-2))
+              (NP-OBJ
+                (-NONE- *-2))
+              (PP-CLR
+                (PREP ب)
+                (NP
+                  (NOUN+CASE_INDEF_GEN غضب)
+                  (ADJ+CASE_INDEF_GEN فكري)
+                  (ADJ+CASE_INDEF_GEN مكبوت)))))))))
+  (VP
+    (IV1P+IV+IVSUFF_MOOD:I نقرأ)
+    (NP-SBJ
+      (-NONE- *))
+    (PUNC :)
+    (SQ
+      (PUNC &quot;)
+      (PRT
+        (INTERROG_PART هل))
+      (ADVP-PRD
+        (ADV ثمة))
+      (NP-SBJ
+        (NP
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_INDEF_NOM امة))
+          (PP
+            (PREP في)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN العالم))))
+        (SBAR
+          (WHNP-1
+            (-NONE- 0))
+          (S
+            (VP
+              (IV3FS+IV+IVSUFF_MOOD:I تستطيع)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (SBAR
+                (SUB_CONJ ان)
+                (S
+                  (VP
+                    (IV3FS+IV+IVSUFF_MOOD:S تزعم)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (NP
+                        (DET+NOUN+CASE_DEF_ACC السير))
+                      (PP
+                        (PREP في)
+                        (NP
+                          (NOUN+CASE_DEF_GEN طريق)
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN التقدم))))
+                      (PP-MNR
+                        (PREP من)
+                        (NP
+                          (NOUN+CASE_DEF_GEN دون)
+                          (SBAR
+                            (SUB_CONJ ان)
+                            (S
+                              (VP
+                                (IV3FS+IV+IVSUFF_MOOD:S تسمح)
+                                (NP-SBJ
+                                  (-NONE- *))
+                                (PP-CLR
+                                  (PREP ب)
+                                  (NP
+                                    (NOUN+CASE_DEF_GEN تطور)
+                                    (NP
+                                      (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN فردانية)
+                                      (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN ناقدة)))))))))))))))))
+      (PUNC ?))))</parse>
+<arg f="" g="-NONE- &lt; a nation in the world" n="0">* &lt; امة في العالم</arg>
+<arg f="" g="moving toward progress without promoting the developpment of the individual critic" n="1">السير في طريق التقدم من دون ان تسمح بتطور فردانية ناقدة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset zaEam-u-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on zaEam-u-v</comment>
+<frameset cdef="" edef="to rule over" id="02" vncls="">
+<role argnum="0" argrole="ruler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (UCP
+    (CONJ وِ)
+    (NP
+      (NP
+        (NOUN ناس))
+      (SBAR
+        (WHNP-3
+          (-NONE- 0))
+        (S
+          (VP
+            (X
+              (NO_FUNC ملهمش)
+              (NP
+                (-NONE- *T*-3)))
+            (NP-SBJ
+              (NOUN+NSUFF_FEM_SG حَرَكَة))))))
+    (CONJ وَ)
+    (S
+      (PP-PRD
+        (PRT
+          (NEG_PART لا))
+        (PREP لِ)
+        (NP
+          (PRON_3P هُم)))
+      (NP-SBJ
+        (NP
+          (NOUN رَئِيس))
+        (SBAR
+          (WHNP-1
+            (-NONE- 0))
+          (S
+            (VP
+              (IV3MS+IV يَزْعَم)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (IVSUFF_DO:3P هُم)))))))))</parse>
+<comment/>
+<arg f="" g="presedent" n="0">*T*-1 رَئِيس</arg>
+<arg f="" g="them" n="1">هُم</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="over whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

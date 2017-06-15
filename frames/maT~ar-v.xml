@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>maT~ar</id>
+<comment>EGYPTIAN ARABIC Framefile based on maTar-u-v</comment>
+<frameset cdef="" edef="to rain" id="01" vncls="">
+<role argnum="1" argrole="entity raining" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>مطرت السماء حجارة</parse>
+<comment />
+<arg f="" g="the sky" n="1">السماء</arg>
+<arg f="" g="stones" n="2">حجارة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset maTar-u-v.01</comment>
+<role argnum="2" argrole="attributed to" vncls="" vntheta="" />
+</frameset>
+</verb>

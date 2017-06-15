@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$aj~aE</id>
+
+<frameset cdef="" edef="to pluck up courage, to brave" id="01" vncls="">
+<role argnum="0" argrole="entity becoming brave" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>المقاتل اتشجع * أمام أعدائه</parse>
+
+<comment/>
+<arg f="" g="the warior" n="0">* المقاتل</arg>
+<arg f="" g="in front of his enemies" n="1">أمام أعدائه</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what, to do what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

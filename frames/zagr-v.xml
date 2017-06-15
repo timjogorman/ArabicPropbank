@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>zagr</id>
+<comment>EGYPTIAN ARABIC based on zagar</comment>
+    <frameset cdef="" edef="to look at in anger" id="01" vncls="">
+<role argnum="0" argrole="entity looking" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(VP
+              (PV+PVSUFF_SUBJ:3MS قال)
+              (NP-SBJ
+                (DET+NOUN السَوّاق))
+              (NP-OBJ
+                (-NONE- *T*-3))
+              (SBAR-ADV
+                (CONJ وَ)
+                (S
+                  (NP-TPC-2
+                    (PRON_3MS هُوَّ))
+                  (VP
+                    (PRT
+                      (PROG_PART بِ))
+                    (IV3MS+IV يُزغُر)
+                    (NP-SBJ
+                      (-NONE- *T*-2))
+                    (PP
+                      (PREP لِ)
+                      (NP
+                        (PRON_1S ِي))))))))))
+      (S
+        (VP</parse>
+<comment />
+<arg f="" g="the driver" n="0">السَوّاق</arg>
+<arg f="" g="to me" n="1">لِي</arg>
+</example>
+<comment />
+</frame>
+<comment>ARZ
+Based on roleset zagar.01</comment>
+<role argnum="1" argrole="looking at" vncls="" vntheta="" />
+</frameset>
+</verb>

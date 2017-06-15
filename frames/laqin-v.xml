@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laqin</id>
+<comment/>
+<frameset cdef="" edef="to understand" id="01" vncls="">
+<role argnum="0" argrole="entity understanding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لقن الولد الدرس</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="the lesson" n="1">الدرس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things understood" vncls="" vntheta=""/>
+</frameset>
+</verb>

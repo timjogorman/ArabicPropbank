@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>manoTaq</id>
+
+<frameset cdef="" edef="to cause someone to put a girdle on" id="01" vncls="">
+<role argnum="0" argrole="person causing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>منطقت الأم ابنتها بالحزام</parse>
+
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="her girl" n="1">ابنتها</arg>
+<arg f="" g="with the girdle" n="2">بالحزام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="person putting the girdle on" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotihAL</id>
+<comment/>
+<frameset cdef="" edef="to be ended / finished" id="01" vncls="">
+<role argnum="1" argrole="Thing ending" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أعلن الحكم انتهاء المباراة بفوز الفريق العراقي</parse>
+<comment/>
+<arg f="" g="the game" n="1">المباراة</arg>
+<arg f="" g="with the wining" n="2">بفوز الفريق العراقي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG 1" vncls="" vntheta=""/>
+</frameset>
+</verb>

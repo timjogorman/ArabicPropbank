@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>mutalah~if</id>
+
+<frameset cdef="" edef="desire, yearn for" id="01" vncls="">
+<role argnum="0" argrole="desirer" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>قلبي يتلهف حتى اضمن طفلي بين احضاني
+
+
+Arg 0: -None- -T-* (قلبي)
+Arg 1: حتى اضمن طفلي بين احضاني</parse>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="thing desired" vncls="" vntheta="" />
+<comment>Based on roleset talah~af.01</comment>
+</frameset>
+<comment>Framefile based on talah~af</comment>
+</verb>

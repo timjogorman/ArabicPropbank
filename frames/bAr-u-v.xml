@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bAr-u</id>
+<comment/>
+<frameset cdef="" edef="to remain uncultivated or unsown, to be unsalable" id="01" vncls="">
+<role argnum="1" argrole="entity uncultivated" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شافوا ان الاراضي كلها بارت * بعد هذه السنين</parse>
+<comment/>
+<arg f="" g="all the lands" n="1">الاراضي كلها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

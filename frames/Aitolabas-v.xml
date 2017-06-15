@@ -1,0 +1,202 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitolabas</id>
+
+    <frameset cdef="" edef="wear, put on" id="01" vncls="">
+<role argnum="0" argrole="entity putting on" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>(S
+                                                      (VP
+                                                        (PV+PVSUFF_SUBJ:3FS لبست)
+                                                        (NP-SBJ
+                                                          (-NONE- *T*-5))
+                                                        (NP-OBJ
+                                                          (NOUN+CASE_DEF_ACC ثياب)
+                                                          (NP
+                                                            (DET+NOUN+CASE_DEF_GEN الشعر)))
+                                                        (PUNC ,)
+                                                        (PP-PRP
+                                                          (PREP ل)
+                                                          (SBAR
+                                                            (-NONE- 0)
+                                                            (S
+                                                              (VP
+                                                                (IV3FS+IV+IVSUFF_MOOD:S تصبح)
+                                                                (NP-SBJ
+                                                                  (-NONE- *))
+                                                                (NP-PRD
+                                                                  (NP
+                                                                    (NOUN+CASE_INDEF_ACC ملكاً))
+                                                                  (PP
+                                                                    (PREP ل)
+                                                                    (NP
+                                                                      (NOUN_QUANT+CASE_DEF_GEN كل)
+                                                                      (NP
+                                                                        (DET+NOUN+CASE_DEF_GEN الناس)))))))))))))))))))))))))))</parse>
+
+<arg f="" g="" n="0">-NONE- *T*-5</arg>
+<arg f="" g="the garment of poetry" n="1">ثياب الشعر</arg>
+<arg f="prp" g="to become an angel to all people" n="m">لتصبح ملكاً لكل الناس</arg>
+
+
+
+<comment />
+</example>
+
+
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="clothing" vncls="" vntheta="" />
+
+
+
+<comment>Based on roleset labis-a.01
+Based on roleset libis-v.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to fall into it or to put up with something (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity falling in" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>(VOC_PART يا))
+                (NOUN سَلام))
+              (PP
+                (PREP عَلَى)
+                (NP
+                  (NP
+                    (NP
+                      (NOUN مَواهب)
+                      (NP
+                        (POSS_PRON_1S ِي)))
+                    (SBAR
+                      (WHNP-1
+                        (PREP اِللِّي))
+                      (S
+                        (VP
+                          (PRT
+                            (PROG_PART بِ))
+                          (IV3FS+IV تِطْلَع)
+                          (NP-SBJ
+                            (-NONE- *T*-1))
+                          (NP-TMP
+                            (NOUN_QUANT كُلّ)
+                            (NP
+                              (NOUN يُوم)))))))
+                  (NP
+                    (DEM_PRON دِي)))))))))
+    (CONJ وِ)
+    (S
+      (NP-SBJ
+        (PRON_2P إِنْتُو))
+      (SBAR-PRD
+        (WHNP-2
+          (REL_PRON اِللِّي))
+        (S
+          (VP
+            (PRT
+              (PROG_PART بِ))
+            (IV2P+IV+IVSUFF_SUBJ:P تِلْبِسُوا)
+            (NP-SBJ
+              (-NONE- *T*-2))
+            (NP-OBJ
+              (IVSUFF_DO:3FS ها))
+            (NP-VOC</parse>
+
+<arg f="" g="them" n="0">*T*-2 إِنْتُو</arg>
+<arg f="" g="it" n="1">ها</arg>
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta="" />
+
+<comment>Based on roleset libis-v.02</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC Framefile based on libis-v</comment>
+<frameset cdef="" edef="to collide or clash into (multi word expression)" id="03" vncls="">
+<role argnum="1" argrole="entity clashing" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(S
+    (VP
+      (X
+        (NO_FUNC ليلاقى))
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NP
+          (NP
+            (NOUN أَسَد))
+          (ADJP
+            (ADJ داخِل)
+            (PP
+              (PREP عَل)
+              (NP
+                (PRON_3MS ِيه)))))
+        (CONJ وَلّا)
+        (NP
+          (NP
+            (NOUN غُراب))
+          (SBAR
+            (WHNP-5
+              (-NONE- 0))
+            (S
+              (VP
+                (IV3MS+IV يِلْبِس)
+                (NP-SBJ
+                  (-NONE- *T*-5))
+                (PP
+                  (PREP فِي)
+                  (NP
+                    (NOUN وِشّ)
+                    (NP
+                      (POSS_PRON_3MS ُه))))))))
+        (CONJ وَلّا)
+        (NP
+          (NP
+            (NOUN خُفّاش))
+          (SBAR
+            (WHNP-7
+              (-NONE- 0))
+            (S
+              (VP
+                (IV3MS+IV يِلْزَق)
+                (NP-SBJ
+                  (-NONE- *T*-7))
+                (PP-CLR
+                  (PREP فِي)
+                  (NP
+                    (PRON_3MS هِ)))))))))))</parse>
+<comment />
+<arg f="" g="crow" n="1">*T*-5 غُراب</arg>
+<arg f="" g="in his face" n="2">في وشه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset libis-v.03</comment>
+<role argnum="2" argrole="entity hit" vncls="" vntheta="" />
+</frameset>
+</verb>

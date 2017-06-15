@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jazaE</id>
+<comment/>
+<frameset cdef="" edef="to worry, to concern" id="01" vncls="">
+<role argnum="0" argrole="entity worried" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أحنا بنجزع * من أي حاجة</parse>
+<comment/>
+<arg f="" g="we" n="0">* أحنا</arg>
+<arg f="" g="from anything" n="1">من أي حاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="about or from" vncls="" vntheta=""/>
+</frameset>
+</verb>

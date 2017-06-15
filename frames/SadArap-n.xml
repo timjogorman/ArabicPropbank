@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SadArap</id>
+<comment/>
+<frameset cdef="" edef="front, forefront, leading" id="01" vncls="">
+<role argnum="1" argrole="entity leading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يقف الفريق العراقي في صدارة * البطولة</parse>
+<comment/>
+<arg f="" g="the Iraqi team" n="1">* الفريق العراقي</arg>
+<arg f="" g="the championship" n="2">البطولة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="leading what" vncls="" vntheta=""/>
+<role argnum="3" argrole="attribute to ARG2" vncls="" vntheta=""/>
+</frameset>
+</verb>

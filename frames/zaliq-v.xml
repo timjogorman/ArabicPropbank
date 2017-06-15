@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zaliq</id>
+<comment/>
+<frameset cdef="" edef="to slip or stumble" id="01" vncls="">
+<role argnum="1" argrole="entity slipping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زلق الرجل في حفرة الطين</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="in a mud hole" n="2">في حفرة الطين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what or where" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

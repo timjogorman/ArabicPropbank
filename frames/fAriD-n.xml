@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fAriD</id>
+<comment/>
+<frameset cdef="" edef="imposer, dictate" id="01" vncls="">
+<role argnum="0" argrole="imposer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم فارضين * نفسهم علينا</parse>
+<comment/>
+<arg f="" g="them" n="0">* هم</arg>
+<arg f="" g="themselves" n="1">نفسهم</arg>
+<arg f="" g="on us" n="2">علينا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing imposed" vncls="" vntheta=""/>
+<role argnum="2" argrole="imposed on" vncls="" vntheta=""/>
+</frameset>
+</verb>

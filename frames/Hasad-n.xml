@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hasad</id>
+<comment/>
+<frameset cdef="" edef="to begrudge or resent" id="01" vncls="">
+<role argnum="0" argrole="begrudger" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حسد الأنسان لأخيه في ماله أمر شائع</parse>
+<comment/>
+<arg f="" g="humanbeing" n="0">الأنسان</arg>
+<arg f="" g="to his brother" n="1">لأخيه</arg>
+<arg f="" g="because of his money" n="2">في ماله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="begrudged" vncls="" vntheta=""/>
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

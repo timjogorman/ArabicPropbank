@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raDab-u</id>
+<comment/>
+<frameset cdef="" edef="to suck or sip" id="01" vncls="">
+<role argnum="0" argrole="entity sipping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رضب الرجل ريقه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his saliva" n="1">ريقه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things sipped" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to pour forth or down, to fall heavily" id="02" vncls="">
+<role argnum="1" argrole="entity pouring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رضب المطر</parse>
+<comment/>
+<arg f="" g="the rain" n="1">المطر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG0" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>qal~ib</id>
+<comment>EGYPTIAN ARABIC based on qal~ab</comment>
+    <frameset cdef="" edef="to stir, to turn over" id="01" vncls="">
+<role argnum="0" argrole="entity stirring" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>قلب الرجل ما في الصحن</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="what is in the plate" n="1">ما في الصحن</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset qal~ab.01</comment>
+<role argnum="1" argrole="things stirred" vncls="" vntheta="" />
+</frameset>
+</verb>

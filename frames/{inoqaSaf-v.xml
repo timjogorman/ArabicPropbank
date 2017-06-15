@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqaSaf</id>
+
+<frameset cdef="" edef="to be bombarded" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقصفت المدينة بأسلحة موجهة دقيقة التهديف</parse>
+
+<arg f="" g="the city" n="1">المدينة</arg>
+<arg f="" g="with precision guided weapons" n="2">بأسلحة موجهة دقيقة التهديف</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="target" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

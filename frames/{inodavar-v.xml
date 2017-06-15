@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodavar</id>
+
+<frameset cdef="" edef="to be effaced or wiped out" id="01" vncls="">
+<role argnum="1" argrole="entity wiped out" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>اندثر الملف من الحاسوب</parse>
+
+<arg f="" g="the file" n="1">الملف</arg>
+<arg f="" g="from the computer" n="2">من الحاسوب</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

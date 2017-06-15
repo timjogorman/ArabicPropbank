@@ -1,21 +1,225 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>daw~ar</id>
-    <comment/>
-    <frameset cdef="" edef="to search" id="01">
-        <role argnum="0" argrole="searcher"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse/>
-                <comment/>
-            </example>
-            <comment/>
-        </frame>
-        <comment>Eg</comment>
-        <role argnum="1" argrole="thing searched"/>
-        <role argnum="2" argrole="location"/>
-    </frameset>
+<id>daw~ar</id>
+
+<frameset cdef="" edef="to search" id="01" vncls="">
+<role argnum="0" argrole="searcher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الواد كان بيدور * على حاجة في العربية</parse>
+
+
+
+<arg f="" g="the boy" n="0">* الواد</arg>
+<arg f="" g="for something" n="1">على حاجة</arg>
+<arg f="" g="in the car" n="2">في العربية</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing searched for" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+
+
+
+
+
+
+<comment>Eg</comment>
+</frameset>
+
+<frameset cdef="" edef="to invest, to use" id="02" vncls="">
+<role argnum="0" argrole="invester" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (IV3MS+IV يِبْقَى)
+      (SBAR-SBJ
+        (-NONE- 0)
+        (S
+          (S
+            (NP-TPC-1
+              (PRON_1S انا))
+            (VP
+              (PV+PVSUFF_SUBJ:1S وَفَّرت)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (PP
+                (PREP لِ)
+                (NP
+                  (NOUN نَفْس)
+                  (NP
+                    (POSS_PRON_1S ِي))))))
+          (CONJ وِ)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:1S دَوَّرت)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (DET+NOUN الفِلُوس))
+              (PP
+                (PREP فِي)
+                (NP
+                  (NOUN اِقْتِصاد)
+                  (NP
+                    (NOUN بَلَد)
+                    (NP
+                      (POSS_PRON_1S ِي)))))))
+          (CONJ وِ)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:1S دَخَّلت)
+              (NP-SBJ
+                (-NONE- *))
+              (PP
+                (PREP لِ)
+                (NP
+                  (DET+NOUN البَلَد)))
+              (NP-OBJ
+                (NP
+                  (NOUN فِلُوس))
+                (NP
+                  (PRT
+                    (NEG_PART مِش))
+                  (NOUN مَواد)
+                  (ADJ+NSUFF_FEM_SG اِسْتِهْلاكِيَّة))))))))))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the money" n="1">الفِلُوس</arg>
+<arg f="" g="in my contry economy" n="2">فِي اِقْتِصاد بَلَد ِي</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+<example>
+<parse>هو * قاعد يدور على مصلحته</parse>
+
+<arg f="" g="him" n="0">* هو</arg>
+<arg f="" g="for his interest" n="1">على مصلحته</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="invested" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+
+
+
+
+
+<comment/>
+</frameset>
+
+
+<frameset cdef="" edef="to make go in circle, to make something turn" id="03" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الراجل دور * المشروب على الحاضرين</parse>
+
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="the drink" n="1">المشروب</arg>
+<arg f="" g="on the guests" n="2">على الحاضرين</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things going around" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+
+
+
+<comment/>
+</frameset>
+
+
+<frameset cdef="" edef="to start a car (multi word expression)" id="04" vncls="">
+<role argnum="0" argrole="starter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا دورت * العربية</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="the car" n="1">العربية</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things started" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+
+<comment/>
 </verb>

@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAwiz</id>
+
+<frameset cdef="" edef="to want or desire" id="01" vncls="">
+<role argnum="0" argrole="wanter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ركاب عاوزين يركبوا ببلاش</parse>
+
+<arg f="" g="passengers" n="0">ركاب</arg>
+<arg f="" g="to ride" n="1">يركبوا</arg>
+<arg f="mnr" g="for free" n="m">ببلاش</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing wanted" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<comment>Egyptian dialect</comment>
+</verb>

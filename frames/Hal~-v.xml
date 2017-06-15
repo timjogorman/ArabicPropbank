@@ -1,101 +1,347 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Hal~</id>
-    <frameset cdef="" edef="to replace or substitute for" id="01">
-        <role argnum="1" argrole="old thing"/>
-        <role argnum="2" argrole="new thing"/>
-        <frame>
-            <example>
-                <parse>
-                </parse>
-                <arg f="" g="" n="">...</arg>
-            </example>
-        </frame>
-        <comment>
-            حل محله: اتخذ موقعه
-        </comment>
-    </frameset>
-    <frameset cdef="" edef="to solve or resolve" id="02">
-        <role argnum="0" argrole="solver"/>
-        <role argnum="1" argrole="the problem"/>
-        <frame>
-            <example>
-                <parse>
-                </parse>
-                <arg f="" g="" n="">...</arg>
-            </example>
-        </frame>
-        <comment>
-            حل أو المشكلة أو المسألة
-        </comment>
-    </frameset>
-    <frameset cdef="" edef="to break up or dissolve" id="03">
-        <role argnum="0" argrole="causer, agent"/>
-        <role argnum="1" argrole="thing dissolving (usually an organization or company)"/>
-        <frame>
-            <example>
-                <parse>
-                </parse>
-                <arg f="" g="" n="">...</arg>
-            </example>
-        </frame>
-        <comment>
-            فض
-        </comment>
-    </frameset>
-    <frameset cdef="" edef="to happen to, occure to or descend upon" id="04">
-        <role argnum="1" argrole="thing happening"/>
-        <role argnum="2" argrole="occure for"/>
-        <frame>
-            <example>
-                <parse>
-                </parse>
-                <arg f="" g="" n="">...</arg>
-            </example>
-        </frame>
-        <comment>
-            حل بـ : أصاب أو حصل لـ
-        </comment>
-    </frameset>
-    <frameset cdef="" edef="to set in, arraive or begin" id="05">
-        <role argnum="1" argrole="thing set (usually season / chapter / weather)"/>
-        <frame>
-            <example>
-                <parse>
-                </parse>
-                <arg f="" g="" n="">...</arg>
-            </example>
-        </frame>
-        <comment>
-            الموسم / الفصل بدأ / أتى
-        </comment>
-    </frameset>
-    <frameset cdef="" edef="to become lawful or legal / permitted/ allowable" id="06">
-        <role argnum="1" argrole="thing became legal /permitted/ allowable"/>
-        <role argnum="2" argrole="for whom?"/>
-        <frame>
-            <example>
-                <parse>
-                </parse>
-                <arg f="" g="" n="">...</arg>
-            </example>
-        </frame>
-        <comment>
-            كان حلالا
-        </comment>
-    </frameset>
-    <frameset cdef="" edef="to halt at, stop at or reside" id="07">
-        <role argnum="0" argrole="entity residing"/>
-        <role argnum="1" argrole="location"/>
-        <frame>
-            <example>
-                <parse>
-                </parse>
-                <arg f="" g="" n="">...</arg>
-            </example>
-        </frame>
-        <comment>
-            نزل / أقام
-        </comment>
-    </frameset>
+<id>Hal~</id>
+
+    <frameset cdef="" edef="to substitute" id="02" vncls="">
+<role argnum="1" argrole="new thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="old thing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3MS تحدث)
+        (NP-SBJ
+          (DET+NOUN+CASE_DEF_NOM الشيخ)
+          (NOUN_PROP قاسم))
+        (PP-CLR
+          (PREP عن)
+          (NP
+            (NP
+              (NOUN+CASE_DEF_GEN عالم)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الدين)))
+            (NP-ADV
+              (NOUN+CASE_DEF_ACC بين)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الديني)
+                (CONJ و)
+                (DET+ADJ+CASE_DEF_GEN السياسي)))))))
+    (PUNC ,)
+    (CONJ و)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3MS قال)
+        (NP-SBJ
+          (-NONE- *))
+        (PUNC :)
+        (S
+          (PUNC ")
+          (S
+            (NP-TMP
+              (NP
+                (NOUN+CASE_DEF_ACC مع)
+                (NP
+                  (NP
+                    (NOUN+CASE_DEF_GEN تراجع)
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN الحضور)
+                      (DET+ADJ+CASE_DEF_GEN الاسلامي)))
+                  (PP-PRP
+                    (PREP ب)
+                    (NP
+                      (NOUN+CASE_DEF_GEN سبب)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN السيطرة)
+                        (DET+ADJ+NSUFF_FEM_SG الاستكبارية))))))
+              (PUNC ,)
+              (CONJ و)
+              (NP-ADV
+                (NOUN+CASE_DEF_ACC مع)
+                (NP
+                  (NP
+                    (NOUN+CASE_DEF_GEN سقوط)
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الدولة)
+                      (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN العثمانية)))
+                  (PP
+                    (PREP ك)
+                    (NP
+                      (ADJP
+                        (ADJ_COMP+CASE_DEF_GEN آخر)
+                        (NP
+                          (NOUN+CASE_INDEF_GEN معقل))
+                        (PP
+                          (PREP من)
+                          (NP
+                            (NOUN+CASE_DEF_GEN معاقل)
+                            (NP
+                              (DET+NOUN+CASE_DEF_GEN الحكم)
+                              (DET+ADJ+CASE_DEF_GEN الاسلامي))))))))))
+            (PUNC ,)
+            (VP
+              (PV+PVSUFF_SUBJ:3MS ساد)
+              (NP-SBJ
+                (NP
+                  (NOUN+CASE_INDEF_NOM جو))
+                (PP
+                  (PREP من)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN الاحباط)
+                    (CONJ و)
+                    (DET+NOUN+CASE_DEF_GEN التراجع))))))
+          (PUNC ,)
+          (CONJ و)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS حل)
+              (NP-SBJ
+                (DET+NOUN+CASE_DEF_NOM التغريب))
+              (NP-ADV
+                (NOUN+CASE_DEF_ACC محل)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الاسلمة)))))
+          ...
+    (PUNC .)))</parse>
+<arg f="" g="the expatriation" n="1">التغريب</arg>
+<arg f="" g="The Islamification" n="2">الاسلمة</arg>
+
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset Hal~-u.02</comment>
+</frameset>
+<frameset cdef="" edef="to find a solution / solve" id="03" vncls="">
+<role argnum="0" argrole="solver" vncls="" vntheta=""/>
+<role argnum="1" argrole="the problem" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3FS كتبت)
+      (NP-SBJ
+        (PUNC ")
+        (DET+NOUN_PROP الفيغارو)
+        (PUNC "))
+      (SBAR
+        (SUB_CONJ ان)
+        (S
+          (S
+            (NP-TPC-1
+              (NP
+                (DET+NOUN+CASE_DEF_ACC القرار))
+              (PUNC ")
+              (PP
+                (PREP في)
+                (NP
+                  (NOUN+CASE_DEF_GEN ذات)
+                  (NP
+                    (POSS_PRON_3MS ه)))))
+            (VP
+              (PRT
+                (NEG_PART لا))
+              (IV3MS+IV+IVSUFF_MOOD:I يحل)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (NOUN_QUANT+CASE_DEF_ACC اي)
+                (NP
+                  (NOUN+CASE_INDEF_GEN شيء)))))
+          (PUNC -LRB-)
+          (PUNC .)
+          (PUNC .)
+          (PUNC .)
+          (PUNC -RRB-)
+          (CONJ بل)
+          (S
+            (VP
+              (IV3MS+IV+IVSUFF_MOOD:I يكتفي)
+              (NP-SBJ
+                (-NONE- *))
+              (PP-CLR
+                (PREP ب)
+                (NP
+                  (NOUN+CASE_DEF_GEN ذكر)
+                  (NP
+                    (NOUN+CASE_INDEF_GEN مبادىء))))
+              (ADVP
+                (ADV فقط)))))
+    (PUNC .)))</parse>
+<arg f="" g="the decision in itself" n="0">القرار  في ذاته</arg>
+<arg f="" g="anything" n="1">اي شيء</arg>
+
+
+
+<comment/>
+</example>
+
+<example>
+<parse>Passive
+
+
+(TOP
+  (S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3FS رأت)
+      (NP-SBJ
+        (-NONE- *))
+      (SBAR
+        (SUB_CONJ ان)
+        (S
+          (PUNC ")
+          (NP-TPC-1
+            (NP
+              (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_ACC المشكلات))
+            (ADJP
+              (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_ACC القائمة)
+              (NP-ADV
+                (NOUN+CASE_DEF_ACC بين)
+                (NP
+                  (DET+NOUN+NSUFF_MASC_DU_GEN البلدين)))))
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يجب)
+            (SBAR-SBJ
+              (SUB_CONJ ان)
+              (S
+                (VP
+                  (IV3FS+IV_PASS+IVSUFF_MOOD:S تُحل)
+                  (NP-SBJ
+                    (-NONE- *T*-1))
+                  (NP-OBJ
+                    (-NONE- *-1))
+                  (UCP-MNR
+                    (PP
+                      (PREP ب)
+                      (NP
+                        (NP
+                          (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN قرارات)
+                          (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN سياسية))
+                        (PP
+                          (PREP من)
+                          (NP
+                            (NOUN+CASE_DEF_GEN دون)
+                            (NP
+                              (NOUN+CASE_INDEF_GEN ابطاء))))
+                        (NP-TMP
+                          (ADJP
+                            (ADJ_NUM+CASE_DEF_ACC اوائل)
+                            (NP
+                              (NP
+                                (DEM_PRON_MS هذا))
+                              (NP
+                                (DET+NOUN+CASE_DEF_GEN القرن)))))))
+                    (NP-MNR
+                      (NOUN+CASE_DEF_ACC عبر)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN التفاهم)
+                        (DET+ADJ+CASE_DEF_GEN المشترك))))))))
+          (PUNC "))))
+    (PUNC .)))</parse>
+
+<arg f="" g="-NONE- &gt; the issues between the two countries" n="1">*T*-1 &gt; المشكلات القائمة بين البلدين</arg>
+<arg f="mnr" g="via undelayed political decisions early this century through mutual understanding" n="m">بقرارات سياسية من دون ابطاء اوائل هذا القرن عبر التفاهم المشترك</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset Hal~-u.03</comment>
+</frameset>
+<frameset cdef="" edef="to dissolve / cause to come apart" id="04" vncls="">
+<role argnum="0" argrole="causer, agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing dissolving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>عندما حلت القوات الأمريكية حزب البعث و الجيش العراقي وقعت الكارثة و دخل العراق في الحرب الأهلية</parse>
+<arg f="" g="the U.S. forces" n="0">القوات الأمريكية</arg>
+
+
+
+<arg f="" g="the Ba'th party and the Iraqi army" n="1">حزب البعث و الجيش العراقي</arg>
+
+<comment>from http://www.elaph.com/Web/news/2011/1/625507.html?entry=technologymostvisitedtoday on Feb 2, 2011</comment>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset Hal~-u.04</comment>
+</frameset>
+
+<frameset cdef="" edef="to stay at, to camp at" id="05" vncls="">
+<role argnum="0" argrole="entity staying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حل الرجل في الفندق الليلة الماضية</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in the hotel" n="1">في الفندق</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+<comment>Based on roleset Hal~-u.05</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Hal~-u</comment>
+<frameset cdef="" edef="to go away from, to let go of someone (multi word expression)" id="06" vncls="">
+<role argnum="0" argrole="entity letting go" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يا راجل حل * عني</parse>
+<comment/>
+<arg f="" g="man" n="0">* راجل</arg>
+<arg f="" g="from me" n="1">عني</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="of whom" vncls="" vntheta=""/>
+</frameset>
 </verb>

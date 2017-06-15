@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>libos</id>
+<comment/>
+<frameset cdef="" edef="wearing , putting on" id="01" vncls="">
+<role argnum="0" argrole="entity putting on" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لبس * الحجاب ضروري للبنت</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* ? NONE</arg>
+<arg f="" g="veil" n="1">الحجاب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="clothing" vncls="" vntheta=""/>
+</frameset>
+</verb>

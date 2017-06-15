@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rAziE</id>
+<comment/>
+<frameset cdef="" edef="beating, striking, hitting" id="01" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده راح رازع * ني بقلم</parse>
+<comment/>
+<arg f="" g="this man" n="0">* الراجل ده</arg>
+<arg f="" g="me" n="1">ني</arg>
+<arg f="" g="with his hand" n="2">بقلم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity got hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

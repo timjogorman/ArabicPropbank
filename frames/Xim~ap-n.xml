@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Xim~ap</id>
+<comment/>
+<frameset cdef="" edef="protection, custody" id="01" vncls="">
+<role argnum="1" argrole="entity under the custody" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أوقف الرجل تحت ذمة * التحقيق</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الرجل</arg>
+<arg f="" g="the investigation" n="2">التحقيق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="of what" vncls="" vntheta=""/>
+</frameset>
+</verb>

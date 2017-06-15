@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oaz~im</id>
+<comment/>
+<frameset cdef="" edef="to aggravate, to worsen" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو دايما بيأزم * الأمور علينا</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="things" n="1">الأمور</arg>
+<arg f="" g="for us" n="2">علينا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things becoming hard" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

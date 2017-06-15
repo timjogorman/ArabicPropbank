@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>gal~it</id>
+<comment>EGYPTIAN ARABIC based on gal~aY</comment>
+    <frameset cdef="" edef="to rise up the price" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وِ)
+    (ADVP
+      (ADV كَمان))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS غَلِّت)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN مِتْرُو)
+        (NP
+          (DET+NOUN الانْفاق))))))</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the subway" n="1">مترو الانفاق</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset gal~aY.01</comment>
+<role argnum="1" argrole="things that went up" vncls="" vntheta="" />
+<role argnum="2" argrole="starting point" vncls="" vntheta="" />
+<role argnum="3" argrole="end point or the increase" vncls="" vntheta="" />
+</frameset>
+</verb>

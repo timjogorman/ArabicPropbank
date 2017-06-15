@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inokama$</id>
+
+<frameset cdef="" edef="to constrict or contract" id="01" vncls="">
+<role argnum="1" argrole="entity constricting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انكمش القميص بالماء</parse>
+
+<arg f="" g="the shirt" n="1">القميص</arg>
+<arg f="" g="water" n="2">بالماء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

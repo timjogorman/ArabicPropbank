@@ -1,50 +1,154 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>basaT-u</id>
-    <frameset cdef="" edef="to delight, make happy" id="01">
-        <role argnum="0" argrole="entity causing delight"/>
-        <role argnum="1" argrole="entity delighted"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (PUNC &amp;quot;)
-                    (NP-SBJ
-                    (NOUN مرحى))
-                    (PP-PRD
-                    (PREP ل)
-                    (SBAR-NOM
-                    (WHNP-1
-                    (REL_PRON لذي))
-                    (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يبسط)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (NP-OBJ
-                    (NOUN+CASE_DEF_ACC قلب)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الانسان)))
-                    (PP
-                    (PREP على)
-                    (NP
-                    (NOUN+CASE_DEF_GEN قدر)
-                    (NP
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN حياة))
-                    (PP
-                    (PREP ب)
-                    (NP
+<id>basaT-u</id>
+<frameset cdef="" edef="to delight, make happy" id="01" vncls="">
+<role argnum="0" argrole="entity causing delight" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity delighted" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (PUNC &quot;)
+  (NP-SBJ
+    (NOUN مرحى))
+  (PP-PRD
+    (PREP ل)
+    (SBAR-NOM
+      (WHNP-1
+        (REL_PRON لذي))
+      (S
+        (VP
+          (IV3MS+IV+IVSUFF_MOOD:I يبسط)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (NP-OBJ
+            (NOUN+CASE_DEF_ACC قلب)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الانسان)))
+          (PP
+            (PREP على)
+            (NP
+              (NOUN+CASE_DEF_GEN قدر)
+              (NP
+                (NP
+                  (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN حياة))
+                (PP
+                  (PREP ب)
+                  (NP
                     (NOUN+CASE_DEF_GEN كامل)
                     (NP
-                    (POSS_PRON_3FS ها)))))))))))
-                    (PUNC &amp;quot;)
-                    (PUNC .))
-                </parse>
-                <arg f="" g="" n="0">-NONE- *T*-1</arg>
-                <arg f="" g="the heart of man" n="1">قلب الانسان</arg>
-                <arg f="ext" g="throughout a whole life" n="m">على قدر حياة بكاملها</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (POSS_PRON_3FS ها)))))))))))
+  (PUNC &quot;)
+  (PUNC .))</parse>
+<arg f="" g="NONE" n="0">-NONE- *T*-1</arg>
+<arg f="" g="the heart of man" n="1">قلب الانسان</arg>
+<arg f="ext" g="throughout a whole life" n="m">على قدر حياة بكاملها</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to spread out to stretch out, to dominate (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity stretching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>بسط الرجل يده لصاحبه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his hand" n="1">يده</arg>
+<arg f="" g="to his friend" n="2">لصاحبه</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things stretched" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom or on what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to present, to lay open (multi word expression)" id="03" vncls="">
+<role argnum="0" argrole="entity presenting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>بسط الرجل أفكاره لزوجته</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his thoughts" n="1">أفكاره</arg>
+<arg f="" g="to his wife" n="2">لزوجته</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things presented" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+
+
+<comment>عرض ، كشف</comment>
+</frameset>
+
+<frameset cdef="" edef="to level off, to flat" id="04" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>بسط المزارع الأرض بالمسحاة</parse>
+
+<arg f="" g="the farmer" n="0">المزارع</arg>
+<arg f="" g="the ground" n="1">الأرض</arg>
+<arg f="" g="with a shovel" n="2">بالمسحاة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things made flat" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

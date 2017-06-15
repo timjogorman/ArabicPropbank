@@ -1,22 +1,30 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>OajolaY</id>
-    <comment/>
-    <frameset cdef="" edef="evacuate" id="01">
-        <role argnum="0" argrole="causer of emptiness"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse/>
-                <comment/>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="evacuated people"/>
-        <role argnum="2" argrole="start point / enclosure, building  (marked by  من )"/>
-        <role argnum="3" argrole="end point (marked by إلى )"/>
-    </frameset>
+<id>OajolaY</id>
+
+<frameset cdef="" edef="evacuate" id="01" vncls="">
+<role argnum="0" argrole="causer of emptiness" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أجلى رجال الاطفاء الناس من البناية</parse>
+
+<comment/>
+<arg f="" g="fire men" n="0">رجال الاطفاء</arg>
+<arg f="" g="people" n="1">الناس</arg>
+<arg f="" g="from the building" n="2">من البناية</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="evacuated people" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point / enclosure, building  (marked by  من )" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point (marked by إلى )" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

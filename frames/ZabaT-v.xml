@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ZabaT</id>
+
+    <frameset cdef="" edef="control or restrain" id="02" vncls="">
+<role argnum="0" argrole="controller" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing controlled" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>فابيو كابيلو يخطط لإجراء محادثات مع اللاعب روني لكي يحثه على أن يضبط*  أعصابه أثناء اللعب</parse>
+<arg f="" g="He" n="0">* &lt; اللاعب روني</arg>
+<arg f="" g="his temper" n="1">أعصابه</arg>
+<arg f="adv" g="while playing" n="m">أثناء اللعب</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<comment>كبح / تحكم في
+
+Based on roleset DabaT-ui.02</comment>
+</frameset>
+<frameset cdef="" edef="accurate or correct, to match" id="03" vncls="">
+<role argnum="0" argrole="entity correct" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing corrected" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>ضبط المهندس الألة</parse>
+<arg f="" g="engineer" n="0">المهندس</arg>
+<arg f="" g="machine" n="1">الألة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<comment>دقق / صحح / أصلح
+
+Based on roleset DabaT-ui.03</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on DabaT-ui</comment>
+</verb>

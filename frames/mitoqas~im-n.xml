@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitoqas~im</id>
+<comment>EGYPTIAN ARABIC</comment>
+<frameset cdef="" edef="to be divided or be distributed" id="01" vncls="">
+<role argnum="0" argrole="divider/provider (pp)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NP-SBJ
+        (DET+NOUN+NSUFF_FEM_SG السَنَة))
+      (SBAR-NOM-PRD
+        (WHNP-2
+          (-NONE- 0))
+        (S
+          (VP
+            (ADJ.VN+NSUFF_FEM_SG مِتقَسِّمَة)
+            (NP-SBJ-1
+              (-NONE- *T*-2))
+            (NP-OBJ
+              (-NONE- *-1))
+            (PP-DTV
+              (PREP عَلَى)
+              (NP
+                (ADJ_NUM 4)
+                (NP
+                  (NOUN+NSUFF_FEM_PL فَترات))))))))</parse>
+<comment/>
+<arg f="" g="[NONE] &gt; this year" n="1">*-1 &gt; السَنَة</arg>
+<arg f="" g="onto four periods" n="2">عَلَى 4 فَترات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity divided/thing provided" vncls="" vntheta=""/>
+<role argnum="2" argrole="divisions" vncls="" vntheta=""/>
+</frameset>
+</verb>

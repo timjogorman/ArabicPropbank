@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>sixin</id>
+<comment>EGYPTIAN ARABIC Framefile based on saxin-a-v</comment>
+<frameset cdef="" edef="to become hot" id="01" vncls="">
+<role argnum="1" argrole="entity becoming hot" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>سخن الماء الى درجة كبيرة</parse>
+<comment />
+<arg f="" g="the water" n="1">الماء</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset saxin-a-v.01</comment>
+</frameset>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$aHab-u</id>
+<comment/>
+<frameset cdef="" edef="to be or turn pale, to fade, to pine away" id="01" vncls="">
+<role argnum="1" argrole="tnigs becoming pale" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شحب لون وجهه عندما رأني</parse>
+<comment/>
+<arg f="" g="his face color" n="1">لون وجهه</arg>
+<arg f="tmp" g="when he saw me" n="m">عندما رأني</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

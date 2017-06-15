@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kaw~a$</id>
+<comment/>
+<frameset cdef="" edef="to take over or get everything" id="01" vncls="">
+<role argnum="0" argrole="entity getting things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (NP-SBJ
+        (PRON_1P اِحْنا))
+      (PRN
+        (S
+          (VP
+            (NEG_PART ما)
+            (PP-PRD
+              (PREP فِي)
+              (NP
+                (PRON_3MS ه))
+              (PRT
+                (NEG_PART ش)))
+            (NP-SBJ
+              (NOUN+NSUFF_FEM_SG فايْدَة)))))
+      (SBAR-NOM-PRD
+        (WHNP-3
+          (-NONE- 0))
+        (S
+          (VP
+            (ADJ.VN+NSUFF_MASC_PL عاوْزِين)
+            (NP-SBJ
+              (-NONE- *T*-3))
+            (SBAR
+              (-NONE- 0)
+              (S
+                (VP
+                  (IV1P+IV نِكوش)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (PP-CLR
+                    (PREP عَلَى)
+                    (NP
+                      (DET+NOUN الدِنْيا)
+                      (CONJ وِ)
+                      (DET+NOUN+NSUFF_FEM_SG الآَخِرَة))))))))))</parse>
+<comment/>
+<arg f="" g="we" n="">* اِحْنا</arg>
+<arg f="" g="on this world and the hereafter" n="">على الدنيا والاخرة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thingsd obtaine" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofalaq</id>
+
+<frameset cdef="" edef="be opened forcibly; split or puncture" id="01" vncls="">
+<role argnum="1" argrole="experiencer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انفلقت السماء بالبرق</parse>
+
+<arg f="" g="the sky" n="1">السماء</arg>
+<arg f="" g="thunderbolt" n="2">بالبرق</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="the cause" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

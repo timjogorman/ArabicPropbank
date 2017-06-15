@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jalaf-u</id>
+<comment/>
+<frameset cdef="" edef="to peel or skin, to scrape off , to remove" id="01" vncls="">
+<role argnum="0" argrole="peeler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جلف الفلاح القشر عن الشجرة</parse>
+<comment/>
+<arg f="" g="the farmer" n="0">الفلاح</arg>
+<arg f="" g="the skin" n="">القشر</arg>
+<arg f="" g="from the tree" n="">عن الشجرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things peeled" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to hit with a sword and cut a piece" id="02" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جلف الرجل خصمه بالسيف</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his opponent" n="1">خصمه</arg>
+<arg f="" g="with a sword" n="2">بالسيف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity got hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

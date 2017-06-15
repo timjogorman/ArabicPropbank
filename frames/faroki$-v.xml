@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faroki$</id>
+<comment/>
+<frameset cdef="" edef="scatter , disperse , destroy" id="01" vncls="">
+<role argnum="0" argrole="destroyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو جاي عشان يفركش * الحفلة</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="the party" n="1">الحفلة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things destroyed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

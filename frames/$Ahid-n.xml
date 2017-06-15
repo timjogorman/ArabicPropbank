@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$Ahid</id>
+<comment/>
+<frameset cdef="" edef="witness" id="01" vncls="">
+<role argnum="0" argrole="witness" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا كنت شاهدٌ للجريمة</parse>
+<comment/>
+<arg f="" g="I" n="">* &gt; أنا</arg>
+<arg f="" g="the crime" n="">للجريمة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing seen" vncls="" vntheta=""/>
+</frameset>
+</verb>

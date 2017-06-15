@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitano$in</id>
+<comment/>
+<frameset cdef="" edef="tense / nervous / strained" id="01" vncls="">
+<role argnum="1" argrole="strained entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا كنت متنشن * قوي</parse>
+<comment/>
+<arg f="" g="I" n="1">* انا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="2" argrole="with who?" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what?" vncls="" vntheta=""/>
+</frameset>
+</verb>

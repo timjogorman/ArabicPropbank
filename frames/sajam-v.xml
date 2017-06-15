@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sajam</id>
+<comment/>
+<frameset cdef="" edef="to flow or stream" id="01" vncls="">
+<role argnum="1" argrole="things flowing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سجم المطر من السحاب</parse>
+<comment/>
+<arg f="" g="the rain" n="1">المطر</arg>
+<arg f="" g="from the clouds" n="2">من السحاب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to shed, to pour forth" id="02" vncls="">
+<role argnum="0" argrole="thing that causes the flow" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سجم العين المطر</parse>
+<comment/>
+<arg f="" g="the eye" n="0">العين</arg>
+<arg f="" g="the rain" n="1">المطر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the liquid" vncls="" vntheta=""/>
+</frameset>
+</verb>

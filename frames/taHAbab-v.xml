@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taHAbab</id>
+<comment>EGYPTIAN ARABIC based on taHAb~</comment>
+<frameset cdef="" edef="to love each, mutual love" id="01" vncls="">
+<role argnum="0" argrole="entity loving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>TOP
+  (S
+    (S
+      (CONJ وَ)
+      (SBAR-ADV
+        (SUB_CONJ إِن)
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS جَلَس)
+            (NP-SBJ
+              (DET+NOUN الأَشِقّاء)))))
+      (VP
+        (IV3P+IV+IVSUFF_SUBJ:P تَحابُّوا)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-PRP
+          (NP
+            (NOUN+CASE_INDEF_ACC إكراماً))
+          (PP
+            (PREP لِ)
+            (NP
+              (NP
+                (DET+NOUN الأَخّ))
+              (NP
+                (ADJ مُطْلِق)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG المُبادْرَة))))))
+        (PUNC ,)</parse>
+<comment/>
+<arg f="" g="the brothers" n="0">* الأَشِقّاء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="second loved" vncls="" vntheta=""/>
+</frameset>
+</verb>

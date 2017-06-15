@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitoxay~aT</id>
+<comment/>
+<frameset cdef="" edef="to be sewed or stitched" id="01" vncls="">
+<role argnum="0" argrole="tailor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>القماش ممكن يتخيط * فستان للعرس</parse>
+<comment/>
+<arg f="" g="the fabric" n="1">* القماش</arg>
+<arg f="" g="a dress" n="2">فستان</arg>
+<arg f="" g="for the wedding" n="3">للعرس</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things stitched" vncls="" vntheta=""/>
+<role argnum="2" argrole="into what" vncls="" vntheta=""/>
+<role argnum="3" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

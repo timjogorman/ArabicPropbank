@@ -1,22 +1,50 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>laqaY</id>
-    <comment/>
-    <frameset cdef="" edef="to find" id="01">
-        <role argnum="0" argrole="finder"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>لحد ما يقطعوا السكة مش معقولة اصل مش حتلاقى * زى ده تانى يعنى</parse>
-                <comment/>
-                <arg f="" g="you" n="0">*</arg>
-                <arg f="" g="like that" n="1">زى ده</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment>Eg</comment>
-        <role argnum="1" argrole="Thing found"/>
-    </frameset>
+<id>laqaY</id>
+
+<frameset cdef="" edef="to find, to see" id="01" vncls="">
+<role argnum="0" argrole="finder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>لحد ما يقطعوا السكة مش معقولة اصل مش حتلاقى * زى ده تانى يعنى</parse>
+
+<arg f="" g="you" n="0">*</arg>
+<arg f="" g="like that" n="1">زى ده</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="Thing found" vncls="" vntheta=""/>
+
+<comment>Eg</comment>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+
+<frameset cdef="" edef="aspectual meaning do not tag" id="02" vncls="">
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اه طبعا تلاقيك عمال تدوق في الملوخية والارانب</parse>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
 </verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faDofaD</id>
+<comment/>
+<frameset cdef="" edef="to talk whats in the heart, to speak honestly" id="01">
+<role argnum="0" argrole="entity talking"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده فضفض * كل حاجة في قلبه لي</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="evrything in his heart" n="1">كل حاجة في قلبه</arg>
+<arg f="" g="to me" n="2">لي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="utterance"/>
+<role argnum="2" argrole="audience"/>
+</frameset>
+<frameset cdef="" edef="to expand or widen" id="02">
+<role argnum="0" argrole="entity making wide"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الجيل الجديد مشغول يفضفض * في ملابسه</parse>
+<comment/>
+<arg f="" g="new genaration" n="0">* NONE</arg>
+<arg f="" g="in his clothes" n="1">في ملابسه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things made wide"/>
+</frameset>
+</verb>

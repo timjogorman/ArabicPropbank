@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miSaH~iy</id>
+<comment/>
+<frameset cdef="" edef="to make someone to wake up" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أيه اللي مصحي * ك لحد دلوقت</parse>
+<comment/>
+<arg f="" g="what" n="0">* أيه</arg>
+<arg f="" g="you" n="1">ك</arg>
+<arg f="tmp" g="till now" n="m">لحد دلوقت</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity waking up" vncls="" vntheta=""/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="watchful" id="02" vncls="">
+<role argnum="0" argrole="entity watchful" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو مصحي * للحاجات دية</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="for those things" n="1">للحاجات دية</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

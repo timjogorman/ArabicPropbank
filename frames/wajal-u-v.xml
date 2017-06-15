@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wajal-u</id>
+
+<frameset cdef="" edef="to suck, to sip, to suck up" id="01" vncls="">
+<role argnum="0" argrole="entity sipping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>وجل الرضيع الحليب من الرضاعة</parse>
+
+<arg f="" g="the baby" n="0">الرضيع</arg>
+<arg f="" g="milk" n="1">الحليب</arg>
+<arg f="" g="from a baby bottle" n="2">من الرضاعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things sipped" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

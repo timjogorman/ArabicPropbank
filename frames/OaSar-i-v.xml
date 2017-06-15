@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaSar-i</id>
+<comment/>
+<frameset cdef="" edef="to confine or jail" id="01" vncls="">
+<role argnum="0" argrole="the confiner" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أصر الرجل أولاده</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his children" n="1"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the confined" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to bend or twist" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أصر الرجل الغصن</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the branch" n="1">الغصن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things bent" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

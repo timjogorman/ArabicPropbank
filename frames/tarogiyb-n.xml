@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarogiyb</id>
+<comment/>
+<frameset cdef="" edef="arousal of an interest" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت الشركة بترغيب * الناس بشراء أسهمها</parse>
+<comment/>
+<arg f="" g="the company" n="0">* الشركة</arg>
+<arg f="" g="the people" n="1">الناس</arg>
+<arg f="" g="to buy it's shares" n="2">بشراء أسهمها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

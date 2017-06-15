@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gaDan-u</id>
+
+<frameset cdef="" edef="to hindle, to stand in the way of" id="01" vncls="">
+<role argnum="0" argrole="the entity causing the delay" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ما غضن * ك عنا</parse>
+
+<arg f="" g="NONE" n="0">*?</arg>
+<arg f="" g="he" n="1">ك</arg>
+<arg f="" g="from us" n="2">عنا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the entity being delayed" vncls="" vntheta=""/>
+<role argnum="2" argrole="the delay itself" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

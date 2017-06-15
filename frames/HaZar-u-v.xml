@@ -1,55 +1,84 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>HaZar-u</id>
-    <frameset cdef="" edef="to ban, prohibit, forbid" id="01">
-        <role argnum="0" argrole="the prohibitor"/>
-        <role argnum="1" argrole="entity prohibited"/>
-        <role argnum="2" argrole="prohibited from what"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (S
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS ذكّر)
-                    (NP-SBJ
-                    (-NONE- *)
-                    (PP-CLR
-                    (PREP ب)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الاتفاقات)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الدولية)
-                    (PUNC ,)
-                    (CONJ و)
-                    (S
-                    (PP-PRD
-                    (PREP من)
-                    (NP
-                    (PRON_3FS ها)
-                    (NP-SBJ
-                    (NP
-                    (NOUN+CASE_DEF_NOM اتفاق)
-                    (NP
-                    (NOUN_PROP جنيف)
-                    (SBAR
-                    (WHNP-1
-                    (REL_PRON الذي)
-                    (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يحظر)
-                    (NP-SBJ
-                    (-NONE- *T*-1)
-                    (NP-OBJ
-                    (NOUN+CASE_DEF_ACC استعمار)
-                    (NP
-                    (DET+NOUN الأراضي)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المحتلة)
-                    (PUNC .)
-                </parse>
-                <arg f="" g="" n="0">-NONE- *T*-1</arg>
-                <arg f="" g="the colonization of the occupied territories" n="2">استعمار الأراضي المحتلة</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>HaZar-u</id>
+<frameset cdef="" edef="to ban, prohibit, forbid" id="01" vncls="">
+<role argnum="0" argrole="the prohibitor" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity prohibited" vncls="" vntheta=""/>
+<role argnum="2" argrole="prohibited from what" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3MS ذكّر)
+      (NP-SBJ
+        (-NONE- *)
+      (PP-CLR
+        (PREP ب)
+        (NP
+          (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الاتفاقات)
+          (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الدولية)
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (PP-PRD
+      (PREP من)
+      (NP
+        (PRON_3FS ها)
+    (NP-SBJ
+      (NP
+        (NOUN+CASE_DEF_NOM اتفاق)
+        (NP
+          (NOUN_PROP جنيف)
+      (SBAR
+        (WHNP-1
+          (REL_PRON الذي)
+        (S
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يحظر)
+            (NP-SBJ
+              (-NONE- *T*-1)
+            (NP-OBJ
+              (NOUN+CASE_DEF_ACC استعمار)
+              (NP
+                (DET+NOUN الأراضي)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المحتلة)
+  (PUNC .)</parse>
+<arg f="" g="Geneva Accord" n="0">*T*-1 اتفاق جنيف</arg>
+<arg f="" g="the colonization of the occupied territories" n="2">استعمار الأراضي المحتلة</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to pen up, to impound" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حظر الراعي الماشية في الحظيرة</parse>
+
+<arg f="" g="the shepherd" n="0">الراعي</arg>
+<arg f="" g="the cattle" n="1">الماشية</arg>
+<arg f="" g="in the barn" n="2">في الحظيرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

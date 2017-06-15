@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jalobab</id>
+
+<frameset cdef="" edef="put a garment or a gown on a person" id="01" vncls="">
+<role argnum="0" argrole="person putting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جلبب الرجل زوجته بالجلباب</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his wife" n="2">زوجته</arg>
+<arg f="" g="with the garment" n="1">بالجلباب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the garment" vncls="" vntheta=""/>
+<role argnum="2" argrole="person dressing" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

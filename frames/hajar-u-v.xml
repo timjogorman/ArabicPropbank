@@ -1,84 +1,105 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>hajar-u</id>
-    <frameset cdef="" edef="to  abandon" id="01">
-        <role argnum="0" argrole="abandoner"/>
-        <role argnum="1" argrole="thing abandoned, left behind"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
+<id>hajar-u</id>
+<frameset cdef="" edef="to  abandon or forsake" id="01" vncls="">
+<role argnum="0" argrole="abandoner" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing abandoned, left behind" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+                  (VP
                     (IV1P+IV+IVSUFF_MOOD:I نهجر)
                     (NP-SBJ
-                    (-NONE- *))
+                      (-NONE- *))
                     (NP-OBJ
-                    (NP
-                    (NOUN+NSUFF_FEM_PL+CASE_DEF_ACC شهوات)
-                    (NP
-                    (POSS_PRON_1P نا)))
-                    (CONJ و)
-                    (NP
-                    (NOUN+CASE_DEF_ACC غرائز)
-                    (NP
-                    (POSS_PRON_1P نا))))
+                      (NP
+                        (NOUN+NSUFF_FEM_PL+CASE_DEF_ACC شهوات)
+                        (NP
+                          (POSS_PRON_1P نا)))
+                      (CONJ و)
+                      (NP
+                        (NOUN+CASE_DEF_ACC غرائز)
+                        (NP
+                          (POSS_PRON_1P نا))))
                     (ADVP
-                    (-NONE- *T*-6)))))
-                    (CONJ و)
-                    (SBAR
-                    (WHADVP-7
-                    (-NONE- 0))
-                </parse>
-                <arg f="" g="we" n="0">-NONE- *&amp;lt;نا</arg>
-                <arg f="" g="our Desires and instincts Desires and instincts" n="1">شهواتنا وغرائزنا</arg>
-            </example>
-            <example>
-                <parse>
-                    (PP
-                    (PREP من)
-                    (NP
-                    (NOUN+CASE_DEF_GEN اجل)
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN فتح)
-                    (NP
+                      (-NONE- *T*-6)))))
+              (CONJ و)
+              (SBAR
+                (WHADVP-7
+                  (-NONE- 0))</parse>
+<arg f="" g="we" n="0">-NONE- *&lt;نا</arg>
+<arg f="" g="our Desires and instincts Desires and instincts" n="1">شهواتنا وغرائزنا</arg>
+<comment/>
+</example>
+<example>
+<parse>(PP
+            (PREP من)
+            (NP
+              (NOUN+CASE_DEF_GEN اجل)
+              (NP
+                (NP
+                  (NOUN+CASE_DEF_GEN فتح)
+                  (NP
                     (NOUN+CASE_DEF_GEN باب)
                     (NP
-                    (DET+NOUN+CASE_DEF_GEN الامل))))
-                    (NP-ADV
-                    (NOUN+CASE_DEF_ACC امام)
-                    (NP
+                      (DET+NOUN+CASE_DEF_GEN الامل))))
+                (NP-ADV
+                  (NOUN+CASE_DEF_ACC امام)
+                  (NP
                     (DET+NOUN+CASE_DEF_GEN الشباب))))))))))
-                    (CONJ ف)
-                    (S
-                    (VP
-                    (PRT
-                    (NEG_PART لا))
-                    (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يهجرون)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (NOUN_PROP+CASE_DEF_ACC لبنان))
-                    (NP-PRP
-                    (NP
-                    (NOUN+CASE_INDEF_ACC بحثاً))
-                    (PP
-                    (PREP عن)
-                    (NP
-                    (NOUN+CASE_INDEF_GEN غد)
-                    (ADJ_COMP+CASE_INDEF_GEN افضل)))
-                    (PP-LOC
-                    (PREP في)
-                    (NP
-                    (NOUN+CASE_DEF_GEN بلاد)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الاغتراب)))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="they" n="0">-NONE- *&amp;lt; الشباب</arg>
-                <arg f="" g="Lebanon" n="1">لبنان</arg>
-                <arg f="cau" g="To search for..." n="m">بحثاً عن</arg>
-            </example>
-        </frame>
-    </frameset>
+  (CONJ ف)
+  (S
+    (VP
+      (PRT
+        (NEG_PART لا))
+      (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يهجرون)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN_PROP+CASE_DEF_ACC لبنان))
+      (NP-PRP
+        (NP
+          (NOUN+CASE_INDEF_ACC بحثاً))
+        (PP
+          (PREP عن)
+          (NP
+            (NOUN+CASE_INDEF_GEN غد)
+            (ADJ_COMP+CASE_INDEF_GEN افضل)))
+        (PP-LOC
+          (PREP في)
+          (NP
+            (NOUN+CASE_DEF_GEN بلاد)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الاغتراب)))))))
+  (PUNC .))</parse>
+<arg f="" g="they" n="0">-NONE- *&lt; الشباب</arg>
+<arg f="" g="Lebanon" n="1">لبنان</arg>
+<arg f="cau" g="To search for..." n="m">بحثاً عن</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to emigrate" id="02" vncls="">
+<role argnum="0" argrole="entity emigrating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هجر الرجل بلده الى بلد أخر طلبا  للأمان</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his country" n="1">بلده</arg>
+<arg f="" g="to another country" n="2">الى بلد أخر</arg>
+<arg f="prp" g="seeking safety" n="m">طلبا  للأمان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+</frameset>
 </verb>

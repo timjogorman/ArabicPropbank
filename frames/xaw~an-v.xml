@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaw~an</id>
+
+<frameset cdef="" edef="to charge with treason or treachery" id="01" vncls="">
+<role argnum="0" argrole="charger" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خون الرجل صاحبه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity charged" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

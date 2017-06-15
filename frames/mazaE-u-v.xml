@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mazaE-u</id>
+<comment/>
+<frameset cdef="" edef="to trot, to walk or run fast" id="01" vncls="">
+<role argnum="0" argrole="entity running" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مزع الفرس</parse>
+<comment/>
+<arg f="" g="the horse" n="0">الفرس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="toward what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to tease or pick, to pluck" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مزعت المرأة القطن بأصابعها</parse>
+<comment/>
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="" g="the cotton" n="1">القطن</arg>
+<arg f="" g="with her fingers" n="2">بأصابعها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things plucked" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

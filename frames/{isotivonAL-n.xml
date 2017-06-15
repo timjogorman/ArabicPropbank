@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotivonAL</id>
+<comment/>
+<frameset cdef="" edef="exception, exclusion" id="01" vncls="">
+<role argnum="0" argrole="eleaser, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرر الأب استثناء * أبنه من القائمة</parse>
+<comment/>
+<arg f="" g="the father" n="0">الأب</arg>
+<arg f="" g="his son" n="1">أبنه</arg>
+<arg f="" g="from the list" n="2">من القائمة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity exempted" vncls="" vntheta=""/>
+<role argnum="2" argrole="exempted from" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="except, with the exception of (usualy comes with بـ)" id="02" vncls="">
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نجح جميع الطلبة باستثناء واحد</parse>
+<comment/>
+<arg f="" g="one" n="1">واحد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity exempted" vncls="" vntheta=""/>
+</frameset>
+</verb>

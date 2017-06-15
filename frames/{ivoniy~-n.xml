@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ivoniy~</id>
+
+<frameset cdef="" edef="ethnographic" id="01" vncls="">
+<role argnum="1" argrole="thing related to ethnology" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ينبغي أن يتم التعامل مع الجميع بغض النظر إلى الجوانب الإثنية</parse>
+
+<arg f="" g="aspects" n="1">الجوانب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="in what?" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

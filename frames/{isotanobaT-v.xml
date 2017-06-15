@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotanobaT</id>
+
+<frameset cdef="" edef="to deduce" id="01" vncls="">
+<role argnum="0" argrole="entity deducng" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اِسْتَنْبَطَ *مَعْنىً حَسَناً وَرَأْياً صائِباً</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="a good meaning and a correct opinion" n="1">مَعْنىً حَسَناً وَرَأْياً صائِباً</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the meaning deduced" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

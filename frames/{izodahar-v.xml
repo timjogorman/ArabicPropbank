@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{izodahar</id>
+<comment/>
+<frameset cdef="" edef="to flourish or thrive, to gleam" id="01">
+<role argnum="1" argrole="entity thriving"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ازدهر العلم في عالمنا</parse>
+<comment/>
+<arg f="" g="science" n="1">العلم</arg>
+<arg f="loc" g="in our world" n="m">في عالمنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to keep" id="02">
+<role argnum="0" argrole="keeper"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ازدهر * بماله</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="with his money" n="1">بماله</arg>
+</example>
+<comment/>
+</frame>
+<comment>احتفظ</comment>
+<role argnum="1" argrole="things kept"/>
+<role argnum="2" argrole="for who or what"/>
+</frameset>
+</verb>

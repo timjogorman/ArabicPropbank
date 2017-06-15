@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jAyiz</id>
+<comment/>
+<frameset cdef="" edef="permissible, allowable, possible" id="01" vncls="">
+<role argnum="1" argrole="permissible thing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رأي جايز * يكون أحسن من رأيك</parse>
+<comment/>
+<arg f="" g="my opinion" n="1">* رأي</arg>
+<arg f="" g="better than your opinion" n="2">أحسن من رأيك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="for whom?" vncls="" vntheta=""/>
+</frameset>
+</verb>

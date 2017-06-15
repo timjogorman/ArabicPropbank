@@ -1,0 +1,92 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotajoraY</id>
+<comment>EGYPTIAN ARABIC based on {ijotaraO</comment>
+<frameset cdef="" edef="to dare, to take the risk of, to be bold enough to" id="01" vncls="">
+<role argnum="0" argrole="entity bold" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NP
+        (DET+NOUN الراجِل))
+      (NP
+        (DEM_PRON_MS دَه)))
+    (ADJP-PRD
+      (ADJ عامِل)
+      (NP-ADV
+        (NOUN زَيّ)
+        (NP
+          (DET+NOUN السِتّ)
+          (DET+ADJ+NSUFF_FEM_SG المستحيَة))))
+    (PUNC .)
+    (PUNC .)
+    (PUNC .)
+    (PUNC .))
+  (S
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (SBAR-NOM-PRD
+        (WHNP-2
+          (-NONE- 0))
+        (S
+          (VP
+            (ADJ.VN حاطِط)
+            (NP-SBJ
+              (-NONE- *T*-2))
+            (NP-OBJ
+              (NOUN وِشّ)
+              (NP
+                (POSS_PRON_3MS ُه)))
+            (PP-CLR
+              (PREP فِي)
+              (NP
+                (DET+NOUN الأَرْض)))
+            (PP
+              (X
+                (PREP عَلَى)
+                (PRON_1S ِي))
+              (NP
+                (NOUN طُول)))))))
+    (CONJ وِ)
+    (S
+      (NP-ADV
+        (NOUN عُمْر)
+        (NP
+          (POSS_PRON_3MS ُه)))
+      (VP
+        (PRT
+          (NEG_PART ما))
+        (PV+PVSUFF_SUBJ:3MS اِستَجرَى)
+        (NP-SBJ
+          (-NONE- *T*))
+        (SBAR
+          (-NONE- 0)
+          (S
+            (VP
+              (IV3MS+IV يِرفع)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NOUN عِين)
+                (NP
+                  (POSS_PRON_3MS ُه)))
+              (PP
+                (PREP فِي)
+                (NP
+                  (PRON_1P يا))))))))
+    (PUNC .)
+    (PUNC .)</parse>
+<comment/>
+<arg f="" g="this man" n="0">* الراجل ده</arg>
+<arg f="" g="to look at me" n="1">يرفع عينيه فيا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to do what" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

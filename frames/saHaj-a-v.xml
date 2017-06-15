@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saHaj-a</id>
+
+<frameset cdef="" edef="scratch,to rub, to peel" id="01" vncls="">
+<role argnum="0" argrole="entity rubbing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سحجت البنت يدها بالمشط</parse>
+
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="her hand" n="1">يدها</arg>
+<arg f="" g="with a comb" n="2">بالمشط</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity \ thing \ area rubbed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

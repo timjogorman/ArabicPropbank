@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naEab</id>
+<comment/>
+<frameset cdef="" edef="to shoout with loud voice (animal voice)" id="01" vncls="">
+<role argnum="0" argrole="entity shouting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نعب الغراب</parse>
+<comment/>
+<arg f="" g="the crow" n="0">الغراب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to walk fast" id="02" vncls="">
+<role argnum="0" argrole="entity walking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نعب الجمل</parse>
+<comment/>
+<arg f="" g="the camel" n="0">الجمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="toward what" vncls="" vntheta=""/>
+</frameset>
+</verb>

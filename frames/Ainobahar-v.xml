@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ainobahar</id>
+<comment/>
+<frameset cdef="" edef="to be dazzled, to be overhelmed" id="01" vncls="">
+<role argnum="1" argrole="entity getting dazzled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انبهر الرجل بجمال البنت</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="with the girl beauty" n="2">بجمال البنت</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

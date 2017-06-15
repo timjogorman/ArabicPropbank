@@ -1,0 +1,83 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Iino$AL</id>
+<comment/>
+<frameset cdef="" edef="establishing, building" id="01" vncls="">
+<role argnum="0" argrole="agent, setter, builder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (NP
+    (NP
+      (NOUN+CASE_INDEF_ACC شُكْراً))
+    (PP
+      (PREP لِ)
+      (NP
+        (DET+NOUN+NSUFF_FEM_SG الحُكُومَة)))
+    (PP-PRP
+      (PREP عَلَى)
+      (S-NOM
+        (VP
+          (NOUN.VN إِنْشاء)
+          (NP-SBJ
+            (POSS_PRON_3FS ها))
+          (NP-OBJ
+            (NP
+              (DET+ADJ الكَثِير))
+            (PP
+              (PREP مِن)
+              (NP
+                (DET+NOUN الطُرُق)
+                (DET+ADJ+NSUFF_FEM_SG الجَدِيدَة)))
+            (PP-LOC
+              (PREP عَلَى)
+              (NP
+                (NOUN مُسْتَوَى)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG المُحافَظَة)))))
+          (NAC
+            (CONJP
+              (CONJ وَ)
+              (CONJ لَكِنْ))
+            (NP-ADV
+              (NOUN دُون)
+              (NP
+                (NP
+                  (NOUN وَضْع)
+                  (NP
+                    (TYPO قبد)
+                    (CONJ أَوْ)
+                    (NOUN رابِط)))
+                (PP
+                  (PREP عَلَى)
+                  (NP
+                    (NOUN تَحْدِيد)
+                    (NP
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_PL المُواصَفات)
+                        (TYPO القباسيه))
+                      (PP
+                        (PREP لِ)
+                        (NP
+                          (NP
+                            (DET+NOUN المَطَبّ)
+                            (DET+ADJ الصِناعِيّ))
+                          (PP
+                            (PREP لِ)
+                            (NP
+                              (NOUN تَأْمِين)
+                              (NP
+                                (DET+NOUN الطَرِيق)))))))))))))))))</parse>
+<comment/>
+<arg f="" g="it" n="0">ها</arg>
+<arg f="" g="a lot of the new roads" n="1">الكثير من الطرق الجديدة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing established, set, built" vncls="" vntheta=""/>
+</frameset>
+</verb>

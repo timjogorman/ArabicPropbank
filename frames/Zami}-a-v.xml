@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Zami}-a</id>
+
+<frameset cdef="" edef="to be thirsty, to suffer thirst, to long for" id="01" vncls="">
+<role argnum="0" argrole="entity longing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ضمئت نفسه اليه</parse>
+
+<arg f="" g="his soul" n="0">نفسه</arg>
+<arg f="" g="to him" n="1">اليه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="longing for what" vncls="" vntheta=""/>
+
+<comment>عطش‏, اشتاق</comment>
+</frameset>
+
+<comment/>
+</verb>

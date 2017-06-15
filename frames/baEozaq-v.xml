@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>baEozaq</id>
+
+<frameset cdef="" edef="to scatter  or squander" id="01" vncls="">
+<role argnum="0" argrole="entity scattering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بعزق الرجل أمواله على القمار</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his money" n="1">أمواله</arg>
+<arg f="" g="on gambling" n="2">على القمار</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity scattered" vncls="" vntheta=""/>
+<role argnum="2" argrole="places, to whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>razam-u</id>
+<comment/>
+<frameset cdef="" edef="to parcle" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رزم الرجل الاوراق في ملف صغير</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the papers" n="1">الاوراق</arg>
+<arg f="" g="in a small file" n="2">في ملف صغير</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things parceled" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

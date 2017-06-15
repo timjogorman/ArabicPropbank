@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>raf~</id>
+<comment>EGYPTIAN ARABIC Framefile based on raf~-i-v</comment>
+<frameset cdef="" edef="to quiver,to tremble,  to twitch" id="01">
+<role argnum="1" argrole="entity trembling or moving" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>رفت اوراق الشجر</parse>
+<comment />
+<arg f="" g="the tree leaves" n="1">اوراق الشجر</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset raf~-i-v.01</comment>
+</frameset>
+<frameset cdef="" edef="to flap the wings, to glide over" id="02">
+<role argnum="0" argrole="entity gliding" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>رف الطائر فوق البيت</parse>
+<comment />
+<arg f="" g="the bird" n="0">الطائر</arg>
+<arg f="" g="above the house" n="1">فوق البيت</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset raf~-i-v.02</comment>
+<role argnum="1" argrole="over what" />
+</frameset>
+<frameset cdef="" edef="to shiver, to pulse (multi word expression)" id="03">
+<role argnum="1" argrole="entity pulsing" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>رف قلبه من الفرح</parse>
+<comment />
+<arg f="" g="his heart" n="1">قلبه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset raf~-i-v.03</comment>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OamotaE</id>
+<comment/>
+<frameset cdef="" edef="to make enjoy" id="01">
+<role argnum="0" argrole="entity making enjoiment"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أمتع المطرب الجمهور بأغانيه</parse>
+<comment/>
+<arg f="" g="the singer" n="0">المطرب</arg>
+<arg f="" g="audience" n="1">الجمهور</arg>
+<arg f="" g="with his songs" n="2">بأغانيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity enjoying"/>
+<role argnum="2" argrole="with what"/>
+</frameset>
+</verb>

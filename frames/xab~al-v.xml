@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xab~al</id>
+<comment/>
+<frameset cdef="" edef="to madden, to derange, to make insane" id="01">
+<role argnum="0" argrole="entity driving crazy"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تجننوا و أصبحوا يخبلون * الناس بأفعالهم</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the people" n="1">الناس</arg>
+<arg f="" g="with their actions" n="2">بأفعالهم</arg>
+</example>
+<comment/>
+</frame>
+<comment>سلب العقل , جنن‏</comment>
+<role argnum="1" argrole="entity driven crazy"/>
+<role argnum="2" argrole="with what"/>
+</frameset>
+</verb>

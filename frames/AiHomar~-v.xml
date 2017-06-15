@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AiHomar~</id>
+<comment/>
+<frameset cdef="" edef="to turn red, burn red" id="01" vncls="">
+<role argnum="1" argrole="entity becoming red" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وشه احمر * من الخجل</parse>
+<comment/>
+<arg f="" g="his face" n="1">* وشه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

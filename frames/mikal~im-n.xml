@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mikal~im</id>
+<comment/>
+<frameset cdef="" edef="talker" id="01" vncls="">
+<role argnum="0" argrole="talker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>راح الواد مكلم * أمه في موضوع البنت</parse>
+<comment/>
+<arg f="" g="the boy" n="0">* الواد</arg>
+<arg f="" g="his mother" n="1">أمه</arg>
+<arg f="" g="about the girl" n="2">في موضوع البنت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity talked to" vncls="" vntheta=""/>
+<role argnum="2" argrole="subject" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,77 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>DagoT</id>
+<comment/>
+<frameset cdef="" edef="putting pressure on" id="01" vncls="">
+<role argnum="0" argrole="entity putting pressure" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ فَ)
+    (S
+      (VP
+        (PRT
+          (PSEUDO_VERB لا))
+        (NO_FUNC يمكن)
+        (SBAR-SBJ
+          (SUB_CONJ إِنّ)
+          (S
+            (VP
+              (IV3MS+IV يَصْمُت)
+              (NP-SBJ
+                (NP
+                  (DET+NOUN العَرَب))
+                (CONJ أَو)
+                (NP
+                  (PRT
+                    (PART حَتَّى))
+                  (DET+NOUN الغَرْب)))
+              (PP-CLR
+                (PREP عَن)
+                (NP
+                  (NOUN تَجْوِيع)
+                  (NP
+                    (NOUN_PROP+NSUFF_FEM_SG غَزَّة))))
+              (PP-PRP
+                (PREP مِن)
+                (SBAR-NOM
+                  (WHNP-1
+                    (REL_PRON ما))
+                  (S
+                    (VP
+                      (PRT
+                        (VERB_PART قَدْ))
+                      (IV3MS+IV يُؤَدِّي)
+                      (NP-SBJ
+                        (-NONE- *T*-1))
+                      (PP-CLR
+                        (PREP إِلَى)
+                        (S-NOM
+                          (VP
+                            (NOUN.VN ضَغْط)
+                            (NP-SBJ
+                              (-NONE- *))
+                            (PP-CLR
+                              (PREP عَلَى)
+                              (NP
+                                (NOUN_PROP إِسْرائِيل)))
+                            (PP
+                              (PREP بِ)
+                              (NP
+                                (NOUN حَلّ)
+                                (ADJ جِذْرِي)))))))))))))))
+    (RC_PART فَ)</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="on Israeal" n="1">عَلَى إِسْرائِيل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom or what" vncls="" vntheta=""/>
+</frameset>
+</verb>

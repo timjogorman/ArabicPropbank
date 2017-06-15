@@ -1,45 +1,47 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>$ab~ah</id>
-    <frameset cdef="" edef="to liken something to something else" id="01">
-        <role argnum="0" argrole="the agent"/>
-        <role argnum="1" argrole="the copy"/>
-        <role argnum="2" argrole="the original"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS شبه)
-                    (NP-SBJ
-                    (-NONE- *)
-                    (NP-OBJ
-                    (DET+NOUN+CASE_DEF_ACC الوضع)
-                    (DET+ADJ+CASE_DEF_ACC الحالي)
-                    (PP-CLR
-                    (PUNC &amp;quot;)
-                    (PREP ب)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN كارثة)
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN خروج)
-                    (NP
-                    (NOUN+CASE_INDEF_GEN قطار)
-                    (PP
-                    (PREP عن)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN سكت)
-                    (NP
-                    (POSS_PRON_3MS ه)
-                    (PUNC &amp;quot;)
-                    (PUNC .)
-                </parse>
-                <arg f="" g="" n="0">-NONE- *</arg>
-                <arg f="" g="the current situation" n="1">الوضع الحالي</arg>
-                <arg f="" g="to a desaster caused by a derailed train" n="2">بكارثة خروج قطار عن سكته</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>$ab~ah</id>
+<frameset cdef="" edef="to liken something to something else" id="01" vncls="">
+<role argnum="0" argrole="the agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="the copy" vncls="" vntheta=""/>
+<role argnum="2" argrole="the original (Usually comes after بـ   )" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS شبه)
+    (NP-SBJ
+      (-NONE- *)
+    (NP-OBJ
+      (DET+NOUN+CASE_DEF_ACC الوضع)
+      (DET+ADJ+CASE_DEF_ACC الحالي)
+    (PP-CLR
+      (PUNC &quot;)
+      (PREP ب)
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN كارثة)
+        (NP
+          (NP
+            (NOUN+CASE_DEF_GEN خروج)
+            (NP
+              (NOUN+CASE_INDEF_GEN قطار)
+          (PP
+            (PREP عن)
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN سكت)
+              (NP
+                (POSS_PRON_3MS ه)
+      (PUNC &quot;)
+  (PUNC .)</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="the current situation" n="1">الوضع الحالي</arg>
+<arg f="" g="to a desaster caused by a derailed train" n="2">بكارثة خروج قطار عن سكته</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
 </verb>

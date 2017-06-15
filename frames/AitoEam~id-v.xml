@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEam~id</id>
+<frameset cdef="" edef="To intend or purpose" id="01" vncls="">
+<role argnum="0" argrole="intender" vncls="" vntheta=""/>
+<role argnum="1" argrole="intent, thing planned" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يتعمد)
+      (NP-SBJ
+        (DET+NOUN+CASE_DEF_NOM الكاتب))
+      (NP-OBJ
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC لغة))
+        (ADJP
+          (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC مترعة)
+          (PP
+            (PREP ب)
+            (NP
+              (NOUN التوريات)
+              (CONJ و)
+              (DET+NOUN+CASE_DEF_GEN التشابيه)
+              (CONJ و)
+              (DET+ADJ+NSUFF_FEM_PL+CASE_DEF_GEN المجازات)))))</parse>
+<arg f="" g="" n="0">الكاتب</arg>
+<arg f="" g="filled metaphors" n="1">لغة مترعة بالتوريات والتشابيه و المجازات</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset taEam~ad.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on taEam~ad</comment>
+<frameset cdef="" edef="to be baptized" id="02" vncls="">
+<role argnum="0" argrole="baptizer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده أخويا اتعمد * قبل سنتين على ايد قسيس</parse>
+<comment/>
+<arg f="" g="my brother" n="1">أخويا</arg>
+<arg f="tmp" g="two years ago" n="m">قبل سنتين</arg>
+<arg f="" g="by a pastor" n="0">على ايد قسيس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity getting baptized" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bahaj-a</id>
+<comment/>
+<frameset cdef="" edef="to gladden or delight" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بهجه خبر زواج أبنه</parse>
+<comment/>
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="his son's wedding news" n="0">خبر زواج أبنه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity delight" vncls="" vntheta=""/>
+</frameset>
+</verb>

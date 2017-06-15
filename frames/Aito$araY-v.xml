@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$araY</id>
+<comment/>
+<frameset cdef="" edef="to be bought" id="01" vncls="">
+<role argnum="0" argrole="buyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أحسن حاجة تتشرى * و بعشرة دولار</parse>
+<comment/>
+<arg f="" g="thing" n="1">* حاجة</arg>
+<arg f="" g="for ten dollars" n="3">بعشرة دولار</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="goods" vncls="" vntheta=""/>
+<role argnum="2" argrole="seller" vncls="" vntheta=""/>
+<role argnum="3" argrole="price" vncls="" vntheta=""/>
+</frameset>
+</verb>

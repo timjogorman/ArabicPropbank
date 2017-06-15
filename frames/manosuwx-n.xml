@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>manosuwx</id>
+<comment/>
+<frameset cdef="" edef="copied, transcribed" id="01" vncls="">
+<role argnum="0" argrole="copier" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الكتاب منسوخ * من كتاب أطفال</parse>
+<comment/>
+<arg f="" g="this book" n="1">* هذا الكتاب</arg>
+<arg f="" g="from a children book" n="2">من كتاب أطفال</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the copy" vncls="" vntheta=""/>
+<role argnum="2" argrole="the original" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="abrogated, invalidated" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا القانون منسوخ * بقانون جديد</parse>
+<comment/>
+<arg f="" g="this law" n="1">* هذا القانون</arg>
+<arg f="" g="with a new law" n="2">بقانون جديد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things replaced" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

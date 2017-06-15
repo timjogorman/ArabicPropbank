@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ya}is</id>
+<comment/>
+<frameset cdef="" edef="to despair, to lose hope" id="01">
+<role argnum="0" argrole="entity loosing hope"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يئس الطالب من النجاح</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="from success" n="1">من النجاح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what"/>
+</frameset>
+</verb>

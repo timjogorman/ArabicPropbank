@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eaqolan</id>
+<comment/>
+<frameset cdef="" edef="to rationalize" id="01" vncls="">
+<role argnum="0" argrole="entity rationalize" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عقلن المؤلف الدين بكتاباته</parse>
+<comment/>
+<arg f="" g="the author" n="0">المؤلف</arg>
+<arg f="" g="the religon" n="1">الدين</arg>
+<arg f="" g="with his writings" n="2">بكتاباته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing being rationalized" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinoSalaH</id>
+<comment/>
+<frameset cdef="" edef="to become good or repaired" id="01" vncls="">
+<role argnum="0" argrole="fixer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الست دي أنصلح حالها بعد الجواز</parse>
+<comment/>
+<arg f="" g="her situation" n="1">حالها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things fidxe" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

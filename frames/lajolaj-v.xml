@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lajolaj</id>
+
+<frameset cdef="" edef="stammer or falter in speech" id="01" vncls="">
+<role argnum="1" argrole="person stammering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لجلج الرجل في كلامه</parse>
+
+<arg f="" g="the man" n="1">الرجل</arg>
+
+<comment/>
+<arg f="" g="in his speech" n="2">في كلامه</arg>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

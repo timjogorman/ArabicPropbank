@@ -1,0 +1,101 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taxaS~aS</id>
+<comment/>
+<frameset cdef="" edef="to specialize in, to major in" id="01" vncls="">
+<role argnum="1" argrole="entity specializing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (NP-TPC-5
+        (DEM_PRON_F هٰذِهِ))
+      (VP
+        (PV+PVSUFF_SUBJ:3FS لَيْسَت)
+        (NP-SBJ
+          (-NONE- *T*-5))
+        (NP-PRD
+          (NOUN+NSUFF_FEM_SG نُكْتَة))))
+    (CONJ فَ)
+    (S
+      (ADVP-PRD
+        (ADV هُناكَ))
+      (NP-SBJ
+        (NP
+          (NOUN أَماكِن))
+        (SBAR
+          (WHNP-6
+            (-NONE- 0))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3FS تَخَصَّصِت)
+              (NP-SBJ
+                (-NONE- *T*-6))
+              (PP-CLR
+                (PREP فِي)
+                (NP
+                  (NP
+                    (NP
+                      (NOUN بِيع)
+                      (NP
+                        (NOUN+NSUFF_FEM_PL مُخَلَّفات)
+                        (NP
+                          (NP
+                            (DET+NOUN المَطاعِم)
+                            (CONJ وِ)
+                            (DET+NOUN الفَنادِق))
+                          (PP
+                            (PREP مِن)
+                            (NP
+                              (DET+NOUN+NSUFF_FEM_SG الأَغْذِيَة))))))
+                    (CONJ وِ)
+                    (NP
+                      (PP
+                        (PREP كَ)
+                        (NP
+                          (DEM_PRON_MS ذٰلِك)))
+                      (NOUN بِيع)
+                      (NP
+                        (NP
+                          (DET+NOUN السِلَع)
+                          (DET+ADJ+NSUFF_FEM_SG الغِذائِيَّة))
+                        (ADJP
+                          (DET+ADJ+NSUFF_FEM_SG المُنْتَهِيَة)
+                          (NP
+                            (DET+NOUN+NSUFF_FEM_SG الصَلاحِيَّة))))))
+                  (PP
+                    (PREP بِ)
+                    (NP
+                      (NP
+                        (NOUN اسْعار))
+                      (SBAR
+                        (WHNP-8
+                          (-NONE- 0))
+                        (S
+                          (VP
+                            (IV3FS+IV تِقِلّ)
+                            (NP-SBJ
+                              (-NONE- *T*-8))
+                            (NP-ADV
+                              (ADJ+CASE_INDEF_ACC كَثِيراً))
+                            (PP
+                              (PREP عَن)
+                              (NP
+                                (NP
+                                  (NOUN سِعْر)
+                                  (NP
+                                    (POSS_PRON_3FS ها)))
+                                (ADJP
+                                  (DET+ADJ الحَقِيقِيّ))))))))))))))))))</parse>
+<comment/>
+<arg f="" g="places" n="1">* أَماكِن</arg>
+<arg f="" g="in selling the left over of food from restursnts and hotels" n="2">فِي بِيع مُخَلَّفات المَطاعِم وِ الفَنادِق مِن الأَغْذِيَة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

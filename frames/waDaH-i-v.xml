@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waDaH-i</id>
+<comment/>
+<frameset cdef="" edef="to be or become clear" id="01" vncls="">
+<role argnum="1" argrole="things becoming clear" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-TPC-1
+      (DET+NOUN+NSUFF_FEM_SG اللِعْبَة))
+    (NP-TMP
+      (NOUN_PROP كُلّ)
+      (NP
+        (NOUN يَوم)))
+    (VP
+      (PRT
+        (PROG_PART بِ))
+      (IV3FS+IV تِوْضَح)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-ADV
+        (ADJ_COMP أَكثَر)))))</parse>
+<comment/>
+<arg f="" g="the game" n="1">-NONE- *T*-1 اللِعْبَة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

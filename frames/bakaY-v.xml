@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bakaY</id>
+
+    <frameset cdef="" edef="to cry, weep" id="01" vncls="">
+<role argnum="0" argrole="entity crying" vncls="" vntheta=""/>
+<role argnum="1" argrole="reason for crying, crying over what" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (NP-TPC-1
+    (PRON_1P نحن))
+  (VP
+    (IV1P+IV+IVSUFF_MOOD:I نبكي)
+    (NP-SBJ
+      (-NONE- *T*-1))
+    (PP-CLR
+      (PREP على)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الاطلال)
+        (CONJ و)
+        (DET+NOUN+CASE_DEF_GEN الخرب)))))</parse>
+<arg f="" g="" n="0">-NONE- *T*-1</arg>
+<arg f="" g="over the ruins and destruction" n="1">على الأطلال و الخرب</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset bakaY-i.01</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on bakaY-i</comment>
+<frameset cdef="" edef="to deeply  regret, to be sad (multi word expression)(يبكي دم)" id="02" vncls="">
+<role argnum="0" argrole="entity crying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+                    (NP-TPC-4
+                      (NOUN عنِين)
+                      (NP
+                        (POSS_PRON_1P نا)))
+                    (VP
+                      (PRT
+                        (PROG_PART بِ))
+                      (IV3FS+IV تِبكِى)
+                      (NP-SBJ
+                        (-NONE- *T*-4))
+                      (NP-OBJ
+                        (NOUN دَمّ))))
+                  (CONJ وِ)
+                  (S
+                    (NP-SBJ
+                      (-NONE- *))
+                    (ADJP-PRD
+                      (ADJ+NSUFF_MASC_PL عاوْزِين)
+                      (NP
+                        (DET+NOUN السَماح))
+                      (PP</parse>
+<comment/>
+<arg f="" g="our Eyes (we)" n="0">* عنِيننا</arg>
+<arg f="" g="blood" n="1">دَمّ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="crying what" vncls="" vntheta=""/>
+</frameset>
+</verb>

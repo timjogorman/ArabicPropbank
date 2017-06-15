@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosaOat</id>
+<comment/>
+<frameset cdef="" edef="to be strangled , to be chocked" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انسأت الرجل بالحبل</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="with a rope" n="2">بالحبل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity chocked" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

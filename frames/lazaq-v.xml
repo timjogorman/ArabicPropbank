@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>lazaq</id>
+<comment>EGYPTIAN ARABIC based on laziq-a</comment>
+    <frameset cdef="" edef="to stick to, to adhere to" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>(X
+          (NO_FUNC يقولهم))
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (SUB_CONJ إِنّ)
+          (S
+            (NP-TPC
+              (PRON_3MS ُه))
+            (NP-TPC-2
+              (NOUN وِشّ)
+              (NP
+                (POSS_PRON_3MS ُه)))
+            (VP
+              (PV+PVSUFF_SUBJ:3MS لَزَّق)
+              (NP-SBJ
+                (-NONE- *T*-2))
+              (PP-CLR
+                (PREP فِي)
+                (NP
+                  (NOUN رِجْل)
+                  (NP
+                    (POSS_PRON_3MS ُه))))
+              (PP
+                (PREP مِن)
+                (NP
+                  (NP
+                    (DET+NOUN الشُنَط))
+                  (SBAR
+                    (WHNP-3
+                      (REL_PRON الِّي))
+                    (S
+                      (VP
+                        (PV+PVSUFF_SUBJ:3FS كانِت)
+                        (NP-SBJ
+                          (-NONE- *T*-3))
+                        (PP-PRD
+                          (PREP فِي)
+                          (NP
+                            (NP
+                              (NOUN+NSUFF_FEM_SG عَرَبِيَّة)
+                              (NP
+                                (POSS_PRON_3P هُم)))</parse>
+
+<arg f="" g="his face" n="1">وشه</arg>
+<arg f="" g="in his foot" n="2">في رجله</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="entity sticking" vncls="" vntheta="" />
+<comment>Based on roleset laziq-a.01</comment>
+<role argnum="2" argrole="to what" vncls="" vntheta="" />
+</frameset>
+</verb>

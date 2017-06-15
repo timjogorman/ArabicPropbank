@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SiHiy</id>
+<comment/>
+<frameset cdef="" edef="to awake up, to get up, to sober up" id="01" vncls="">
+<role argnum="1" argrole="entity waking up" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صحا الرجل من النوم</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="from sleeping" n="2">من النوم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

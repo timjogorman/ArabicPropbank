@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aam~ar</id>
+<comment/>
+<frameset cdef="" edef="to heat or warm (multi word expression)" id="01" vncls="">
+<role argnum="0" argrole="entity heating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الناس رجعوا من الملعب و قفاهم يأمر * عيش</parse>
+<comment/>
+<arg f="" g="their back" n="0">* قفاهم</arg>
+<arg f="" g="bread" n="1">عيش</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things heated" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotabodaE</id>
+
+<frameset cdef="" edef="to find strange, odd or to find amazing" id="01" vncls="">
+<role argnum="0" argrole="amazed entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استبدع الرجل قرار المحكمة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the decision of the court" n="1">قرار المحكمة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="target of amazement" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

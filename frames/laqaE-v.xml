@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laqaE</id>
+<comment/>
+<frameset cdef="" edef="to throw" id="01" vncls="">
+<role argnum="0" argrole="entity throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لقع الرجل الاطفال  بالحجارة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the kids" n="2">الاطفال</arg>
+<arg f="" g="with stones" n="1">بالحجارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to sting or bite" id="02" vncls="">
+<role argnum="0" argrole="biter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لقعت الحية الرجل في يده</parse>
+<comment/>
+<arg f="" g="the snake" n="0">الحية</arg>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="in his hand" n="2">في يده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+</frameset>
+</verb>

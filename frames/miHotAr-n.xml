@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miHotAr</id>
+<comment/>
+<frameset cdef="" edef="becoming confused" id="01" vncls="">
+<role argnum="1" argrole="entity confused" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا محتار * العب مع أخوي ولا اروح أنام</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="to play with my brother or go to sleep" n="2">العب مع أخوي ولا اروح أنام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEAqid</id>
+<comment/>
+<frameset cdef="" edef="to contract" id="01" vncls="">
+<role argnum="0" argrole="causer of contract" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>النجار اتعاقد * مع صاحب البيت عشان يصلح الباب المكسور</parse>
+<comment/>
+<arg f="" g="the carpenter" n="0">* النجار</arg>
+<arg f="" g="with the house owner" n="1">مع صاحب البيت</arg>
+<arg f="" g="to fix the broken door" n="2">عشان يصلح الباب المكسور</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="contracted with" vncls="" vntheta=""/>
+<role argnum="2" argrole="reason, purpose" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,18 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muwATiniy~ap</id>
+<frameset cdef="" edef="citizenship, nationality" id="01" vncls="">
+<role argnum="1" argrole="agent having the citizenship" vncls="" vntheta=""/>
+
+<frame>
+<example>
+<parse>دورة علمية بعنوان مقاربة نفسية اجتماعية لتربية مواطنية سليمة للطفل</parse>
+<arg f="" g="safe for the baby" n="1">سليمة للطفل</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

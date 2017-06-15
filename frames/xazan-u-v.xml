@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xazan-u</id>
+<comment/>
+<frameset cdef="" edef="to store or stock" id="01" vncls="">
+<role argnum="0" argrole="entity storing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خزنت الأم الطعام في المخزن</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="the food" n="1">الطعام</arg>
+<arg f="" g="in the storage" n="2">في المخزن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things stored" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to keep a secret" id="02" vncls="">
+<role argnum="0" argrole="keeper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خزن الأب السر عن أولاده</parse>
+<comment/>
+<arg f="" g="the father" n="0">الأب</arg>
+<arg f="" g="the secret" n="1">السر</arg>
+<arg f="" g="from his children" n="2">عن أولاده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things kept secret" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

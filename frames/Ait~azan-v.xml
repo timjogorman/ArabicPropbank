@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ait~azan</id>
+<comment/>
+<frameset cdef="" edef="to behave, to be balanced" id="01" vncls="">
+<role argnum="1" argrole="entity behaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البنت اتزنت * بعد ما دخلت الجامعة</parse>
+<comment/>
+<arg f="" g="the girl" n="1">* البنت</arg>
+<arg f="tmp" g="after she went to university" n="m">بعد ما دخلت الجامعة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="Attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

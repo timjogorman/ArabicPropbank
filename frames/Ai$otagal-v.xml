@@ -1,0 +1,103 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ai$otagal</id>
+
+    <frameset cdef="" edef="to work" id="01" vncls="">
+<role argnum="0" argrole="worker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>و الحمد_لله و بيشتغل * كويس يعنى و احواله ماشية تمام</parse>
+
+<arg f="" g="he" n="0">*</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="work" vncls="" vntheta=""/>
+
+
+<comment>Eg
+Based on roleset {i$otagal.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to start (multi word expression)" id="02" vncls="">
+<role argnum="1" argrole="things started" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أول ما الراجل فتح بقه الضرب * اشتغل عليه</parse>
+
+<arg f="" g="beating" n="1">* الضرب</arg>
+<arg f="" g="on him" n="2">عليه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+
+<frameset cdef="" edef="to fool someone (multi word expresion)" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انت قاعد تشتغل * ني</parse>
+
+<arg f="" g="you" n="0">* انت</arg>
+<arg f="" g="me" n="1">ني</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on {i$otagal</comment>
+<frameset cdef="" edef="to gain (multi word expresion)" id="04" vncls="">
+<role argnum="1" argrole="entity gaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده أنا كل اللي بشتغل  *  به من المحل بيروح تاني يوم</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="with it" n="2">به</arg>
+<arg f="" g="from the store" n="3">من المحل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="things gained" vncls="" vntheta=""/>
+<role argnum="3" argrole="from" vncls="" vntheta=""/>
+</frameset>
+</verb>

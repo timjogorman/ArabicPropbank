@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>manoSuwb</id>
+<comment/>
+<frameset cdef="" edef="erected, raised" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا العمود منصوب * في هذا المكان من فترة طويلة</parse>
+<comment/>
+<arg f="" g="this pool" n="1">* هذا العمود</arg>
+<arg f="loc" g="in this place" n="m">في هذا المكان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things raised" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to put (a noun) in the accusative" id="02" vncls="">
+<role argnum="1" argrole="the word" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه الكلمة منصوبة * بسبب موقعها في الجملة</parse>
+<comment/>
+<arg f="" g="this word" n="1">هذه الكلمة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to made fool of" id="03" vncls="">
+<role argnum="0" argrole="cheater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الشخص منصوب عليه منذ طفولته</parse>
+<comment/>
+<arg f="" g="on him" n="1">عليه</arg>
+<arg f="tmp" g="since his childhood" n="m">منذ طفولته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity fooled" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotawoSaf</id>
+
+<frameset cdef="" edef="to ask a doctor a treatment or medicine" id="01" vncls="">
+<role argnum="0" argrole="unhealthy person" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استوصف الرجل الطبيب دواء للمرض</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the doctor" n="1">الطبيب</arg>
+<arg f="" g="medicine" n="2">دواء</arg>
+<arg f="" g="for his disease" n="3">للمرض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="doctor" vncls="" vntheta=""/>
+<role argnum="2" argrole="medicine" vncls="" vntheta=""/>
+<role argnum="3" argrole="sickness" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wazon</id>
+<comment/>
+<frameset cdef="" edef="To weigh, to measure" id="01" vncls="">
+<role argnum="0" argrole="measurer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت الشركة بوزن * البضاعة قبل أرسالها</parse>
+<comment/>
+<arg f="" g="the company" n="0">* الشركة</arg>
+<arg f="" g="the merchandise" n="1">البضاعة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing measured" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

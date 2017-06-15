@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taSAdaf</id>
+<comment/>
+<frameset cdef="" edef="to come across, to bump into, to encounter" id="01" vncls="">
+<role argnum="1" argrole="entity coming across" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تصادفت زيارته مع وقت المباراة</parse>
+<comment/>
+<arg f="" g="his visitation" n="1">زيارته</arg>
+<arg f="" g="with the game time" n="2">مع وقت المباراة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

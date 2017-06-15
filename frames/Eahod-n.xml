@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eahod</id>
+<comment/>
+<frameset cdef="" edef="covenant, treaty" id="01" vncls="">
+<role argnum="1" argrole="the covenant" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه الاتفاقية هي عهد * بين الطرف الأول و الطرف الثاني بعدم الدخول في الحرب</parse>
+<comment/>
+<arg f="" g="this agreement" n="1">هذه الاتفاقية</arg>
+<arg f="" g="between the first party" n="2">بين الطرف الأول</arg>
+<arg f="" g="and the second party" n="3">و الطرف الثاني</arg>
+<arg f="" g="not going into a war" n="4">بعدم الدخول في الحرب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="first party" vncls="" vntheta=""/>
+<role argnum="3" argrole="second party ( if separated from ARG2 )" vncls="" vntheta=""/>
+<role argnum="4" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

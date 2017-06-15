@@ -1,0 +1,65 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotahobil</id>
+<comment/>
+<frameset cdef="" edef="to act like a fool" id="01" vncls="">
+<role argnum="0" argrole="entity acting fool" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (PP-PRP
+    (PREP لِ)
+    (SBAR
+      (SUB_CONJ إِنّ)
+      (S
+        (S
+          (NP-SBJ
+            (DEM_PRON_P دُول)
+            (CONJ أَوْ)
+            (DEM_PRON_MS دَه))
+          (NP-PRD
+            (NP
+              (NOUN شَخْص))
+            (SBAR
+              (WHNP-1
+                (-NONE- 0))
+              (S
+                (VP
+                  (PRT
+                    (PROG_PART بِ))
+                  (IV3MS+IV يِسْتَهْبِل)
+                  (NP-SBJ
+                    (-NONE- *T*-1)))))))
+        (CONJ وِ)
+        (S
+          (NP-SBJ
+            (-NONE- *))
+          (SBAR-NOM-PRD
+            (WHNP-3
+              (-NONE- 0))
+            (S
+              (VP
+                (ADJ.VN قاصِد)
+                (NP-SBJ
+                  (-NONE- *T*-3))
+                (SBAR
+                  (-NONE- 0)
+                  (S
+                    (VP
+                      (IV3MS+IV يِشَوِّه)
+                      (NP-SBJ
+                        (-NONE- *))
+                      (NP-OBJ
+                        (DET+NOUN التَيّار)
+                        (DET+ADJ الإِسْلامِي)))))))))))))</parse>
+<comment/>
+<arg f="" g="person" n="0">*T* -1 شَخْص</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

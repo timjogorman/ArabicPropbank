@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taDAd~</id>
+<comment/>
+<frameset cdef="" edef="contradiction, opposition" id="01" vncls="">
+<role argnum="1" argrole="first entity contradict" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تضاد قانون الدولة مع القانون الجديد في المعنى غير مفهوم</parse>
+<comment/>
+<arg f="" g="the government" n="1">قانون الدولة</arg>
+<arg f="" g="with the new law" n="2">مع القانون الجديد</arg>
+<arg f="" g="in the meaning" n="3">في المعنى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="second entity" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inokatam</id>
+
+<frameset cdef="" edef="to be hidden, concealed, repressed" id="01" vncls="">
+<role argnum="0" argrole="hider" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>انكتم السر عن الإخوة الصغار</parse>
+
+<arg f="" g="the secret" n="1">السر</arg>
+<arg f="" g="from the younger brothers" n="2">عن الإخوة الصغار</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing hidden" vncls="" vntheta=""/>
+
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+
+<comment/>
+</verb>

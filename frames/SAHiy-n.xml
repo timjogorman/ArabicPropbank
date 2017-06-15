@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SAHiy</id>
+<comment/>
+<frameset cdef="" edef="awake, aware off, watchful" id="01" vncls="">
+<role argnum="1" argrole="entity awake" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبويا صاحي * من ساعة ستة الصبح</parse>
+<comment/>
+<arg f="" g="my father" n="1">أبويا</arg>
+<arg f="tmp" g="from 6:00 AM" n="m">من ساعة ستة الصبح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

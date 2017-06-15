@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oavim~-i</id>
+<comment/>
+<frameset cdef="" edef="to sin, to commit a sin" id="01">
+<role argnum="0" argrole="sinner"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قد أثم بعض كُتـابنا سهواً أو عمدا في كتاباتهم بحق الشعب أثما كبيرا</parse>
+<comment/>
+<arg f="" g="some of our writers" n="0">بعض كُتـابنا</arg>
+<arg f="mnr" g="inattentionly or on purpose" n="m">سهواً أو عمدا</arg>
+<arg f="loc" g="in their writings" n="m">في كتاباتهم</arg>
+<arg f="" g="in the right of the people" n="2">بحق الشعب</arg>
+<arg f="" g="a big sin" n="1">أثما كبيرا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the sin"/>
+<role argnum="2" argrole="beneficiary"/>
+</frameset>
+</verb>

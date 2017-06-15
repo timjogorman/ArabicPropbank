@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taSofiyap</id>
+<comment/>
+<frameset cdef="" edef="to purify or clear out" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت الأم بتصفية * الماء من العوالق</parse>
+<comment/>
+<arg f="" g="the mother" n="0">* الأم</arg>
+<arg f="" g="the water" n="2">الماء</arg>
+<arg f="" g="from the plankton" n="1">من العوالق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing being cleared out" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what (usually comes after من )" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to dissolve or liquidate, to eliminate" id="02" vncls="">
+<role argnum="0" argrole="ntity eliminating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الرئيس العراقي بتصفية * أعدائه</parse>
+<comment/>
+<arg f="" g="the Iraqi president" n="0">الرئيس العراقي</arg>
+<arg f="" g="his enemies" n="1">أعدائه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things eliminated" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to get even with (multi word expression)" id="03" vncls="">
+<role argnum="0" argrole="entity getting even" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فكر الرجل في تصفية * حسابه مع أخيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="his account with his brother" n="1">حسابه مع أخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="whith whom (Usually comes with حساب)" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gam~aY</id>
+<comment/>
+<frameset cdef="" edef="to cover, to conceal" id="01" vncls="">
+<role argnum="0" argrole="entity covering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ وَلّا)
+    (S
+      (VP
+        (IV1P+IV نِعِيش)
+        (NP-SBJ-2
+          (-NONE- *))
+        (S-ADV
+          (VP
+            (ADJ.VN+NSUFF_MASC_PL مِغَمِّيِّين)
+            (NP-OBJ
+              (NOUN عِين)
+              (NP
+                (POSS_PRON_1P نا)))
+            (NP-SBJ
+              (-NONE- *-2))))
+        (NP-ADV
+          (ADJ_COMP أَحْسَن))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="our eyes" n="1">عينينا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity covered" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

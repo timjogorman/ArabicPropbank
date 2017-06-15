@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ham~Am</id>
+
+<frameset cdef="" edef="to take bath" id="01" vncls="">
+<role argnum="0" argrole="entity taking bath" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا استحميت * قبل ماجي</parse>
+
+<arg f="" g="I" n="0">أنا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kitAbap</id>
+<comment>Based on verb: katab-u</comment>
+<frameset cdef="" edef="Writing" id="01" vncls="">
+<role argnum="0" argrole="writer" vncls="" vntheta=""/>
+<comment/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<role argnum="1" argrole="written" vncls="" vntheta=""/>
+<role argnum="2" argrole="topic (is separate from arg1)" vncls="" vntheta=""/>
+<role argnum="3" argrole="audience" vncls="" vntheta=""/>
+</frameset>
+</verb>

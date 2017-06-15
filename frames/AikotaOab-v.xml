@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AikotaOab</id>
+<comment/>
+<frameset cdef="" edef="to be depressed" id="01" vncls="">
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو لما يشوف اللي حصل حيكتئب * و يزعل</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity becoming depressed" vncls="" vntheta=""/>
+</frameset>
+</verb>

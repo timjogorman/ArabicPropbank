@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inokafan</id>
+
+<frameset cdef="" edef="to be wrapped with a winding-sheet for burial" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انكفن الجثة  اليوم</parse>
+
+<arg f="" g="the corpse" n="1">الجثة</arg>
+<arg f="tmp" g="today" n="m">اليوم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="corpse" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

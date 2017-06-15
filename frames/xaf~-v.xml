@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaf~</id>
+
+    <frameset cdef="" edef="to decrease" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing decreasing" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS خف)
+    (NP-SBJ
+      (NP
+        (DET+NOUN+CASE_DEF_NOM الطلب))
+      (PP
+        (PREP على)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الدولار)
+          (DET+ADJ+CASE_DEF_GEN الاميركي))))
+    (NP-TMP
+      (NOUN امس))</parse>
+<arg f="" g="demand for the U.S. Dollar" n="1">الطلب على الدولار الاميركي</arg>
+<arg f="tmp" g="Yesterday" n="m">امس</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<role argnum="2" argrole="amount decreased, attribute of arg1s" vncls="" vntheta=""/>
+
+<comment>خفض
+Based on roleset xaf~-i.01</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on xaf~-i</comment>
+<frameset cdef="" edef="to be well or healed" id="02" vncls="">
+<role argnum="0" argrole="healer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الطفل * خف من  مرضه</parse>
+<comment/>
+<arg f="" g="the baby" n="1">* الطفل</arg>
+<arg f="" g="from his sickness" n="2">من  مرضه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="healed" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

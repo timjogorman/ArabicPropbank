@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raqaE</id>
+<comment/>
+<frameset cdef="" edef="to hit, to slap" id="01" vncls="">
+<role argnum="0" argrole="entity hitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده رقع * صاحبه بالقلم على وشه وهرب</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<arg f="" g="with his hand" n="2">بالقلم</arg>
+<arg f="" g="on his face" n="3">على وشه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tasoxiyr</id>
+<comment/>
+<frameset cdef="" edef="To exploit , utilize or use" id="01" vncls="">
+<role argnum="0" argrole="User" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت الدولة بتسخير * كل طاقاتها لأنجاز المشروع</parse>
+<comment/>
+<arg f="" g="the government" n="0">* الدولة</arg>
+<arg f="" g="all it's power" n="1">كل طاقاتها</arg>
+<arg f="" g="to finish the project" n="2">لأنجاز المشروع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing used" vncls="" vntheta=""/>
+<role argnum="2" argrole="purpose" vncls="" vntheta=""/>
+</frameset>
+</verb>

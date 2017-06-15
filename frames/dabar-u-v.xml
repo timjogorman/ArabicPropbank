@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dabar-u</id>
+
+<frameset cdef="" edef="to pass or elapse, to become old" id="01" vncls="">
+<role argnum="1" argrole="entity elapsing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دبر النهار</parse>
+
+<arg f="" g="the day" n="1">النهار</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="be the successor of" id="02" vncls="">
+<role argnum="1" argrole="successor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دبر الصبي والده في البيت</parse>
+
+<arg f="" g="the kid" n="1">الصبي</arg>
+<arg f="" g="his father" n="2">والده</arg>
+<arg f="" g="in the house" n="3">في البيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to follow from behind" id="03" vncls="">
+<role argnum="0" argrole="follower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دبر الولد أخاه في الليل الى البيت</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="tmp" g="at night" n="m">في الليل</arg>
+<arg f="" g="to the house" n="3">الى البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="followed" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+</verb>

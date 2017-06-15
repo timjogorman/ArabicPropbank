@@ -1,0 +1,151 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rikib</id>
+
+    <frameset cdef="" edef="ride, seat onself on, get aboard" id="01" vncls="">
+<role argnum="0" argrole="rider, person seated" vncls="" vntheta=""/>
+<role argnum="1" argrole="vehicule ,steed" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (S
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يعرف)
+      (NP-SBJ
+        (DET+NOUN+CASE_DEF_NOM الرئيس))
+      (NP-OBJ
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC قدرة)
+          (NP
+            (PUNC &quot;)
+            (PUNC &quot;)))
+        (PP
+          (PREP على)
+          (NP
+            (NP
+              (NP
+                (NOUN+CASE_DEF_GEN ابلاغ)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN الرسائل)))
+              (CONJ و)
+              (NP
+                (NOUN+CASE_DEF_GEN تسلم)
+                (NP
+                  (POSS_PRON_3FS ها))))
+            (PP-TMP
+              (PREP في)
+              (NP
+                (NOUN+CASE_INDEF_GEN آن)
+                (ADJ+CASE_INDEF_GEN واحد))))))))
+  (PUNC ,)
+  (CONJ ف)
+  (S
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يقول)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NP
+          (NOUN+CASE_INDEF_ACC رأيا)
+          (ADJ+CASE_INDEF_ACC نهائيا))
+        (SBAR
+          (WHNP-2
+            (-NONE- 0))
+          (S
+            (NP-SBJ
+              (NP
+                (PRON_3MS هو))
+              (NP
+                (-NONE- *T*-2)))
+            (NP-PRD
+              (NP
+                (NOUN استراتيجيا)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الدولة)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN اللبنانية)))
+              (PP
+                (PREP في)
+                (NP
+                  (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مواجهة)
+                  (NP
+                    (NP
+                      (NP
+                        (NOUN+CASE_INDEF_GEN حرب))
+                      (ADJP
+                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN اميركية)
+                        (PUNC -)
+                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN اسرائيلية)))
+                    (SBAR
+                      (WHNP-1
+                        (-NONE- 0))
+                      (S
+                        (VP
+                          (IV3FS+IV+IVSUFF_MOOD:I تركب)
+                          (NP-SBJ
+                            (-NONE- *T*-1))
+                          (NP-OBJ
+                            (NP
+                              (NOUN+CASE_DEF_ACC فرس)
+                              (NP
+                                (DET+NOUN+CASE_DEF_GEN الريح)))
+                            (ADJP
+                              (DET+ADJ+CASE_DEF_GEN الهوجاء)))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="-NONE- &lt; an US- Isreali war" n="0">*T* &lt; حرب اميركية اسرائيلية</arg>
+<arg f="" g="The wild wind horse" n="1">فرس الريح الهوجاء</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset rakib-a.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to control (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="controller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتم ركبكم الغرور</parse>
+
+<arg f="" g="you" n="0">كم</arg>
+<arg f="" g="the pride" n="1">الغرور</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="controlled" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on rakib-a</comment>
+<frameset cdef="" edef="to oppose or risist (multi word exoression)" id="03" vncls="">
+<role argnum="0" argrole="entity opposing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البنت راكبة * دماغها في موضوع البيت</parse>
+<comment/>
+<arg f="" g="the girl" n="0">* البنت</arg>
+<arg f="" g="her mind" n="1">دماغها</arg>
+<arg f="" g="about the house subject" n="2">في موضوع البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attribute to ARG0 (usually دماغ )" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

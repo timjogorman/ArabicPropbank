@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laTaf</id>
+
+    <frameset cdef="" edef="to protect" id="01" vncls="">
+<role argnum="0" argrole="agent cause of protection" vncls="" vntheta=""/>
+<role argnum="1" argrole="entety  protected" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing protected from" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>SUB_CONJ ان)
+        (S
+          (NP-TPC-1
+            (NOUN_PROP+CASE_DEF_ACC الله))
+          (VP
+            (PV+PVSUFF_SUBJ:3MS لطف)
+            (NP-SBJ
+              (-NONE- *T*-1)))))))
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS تم)
+      (NP-SBJ
+        (NOUN+CASE_DEF_NOM لفت)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN النظر)))))
+  (PUNC ,)</parse>
+<arg f="" g="He" n="0">-NONE- *T*-1&lt;الله</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset laTaf-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on laTaf-u</comment>
+</verb>

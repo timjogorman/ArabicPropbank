@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TaboTab</id>
+<comment/>
+<frameset cdef="" edef="to pat on, to stroke gently or lovingly on the back" id="01" vncls="">
+<role argnum="0" argrole="entity patting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طبطبت الام على كتف ابنتها</parse>
+<comment/>
+<arg f="" g="the mather" n="0">الام</arg>
+<arg f="" g="on her daughter s shoulder" n="1">على كتف ابنتها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to dribble" id="02" vncls="">
+<role argnum="0" argrole="dribbler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طبطب اللاعب الكرة بمهارة</parse>
+<comment/>
+<arg f="" g="the player" n="0">اللاعب</arg>
+<arg f="" g="the ball" n="1">الكرة</arg>
+<arg f="mnr" g="with skill" n="m">بمهارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things dribbled" vncls="" vntheta=""/>
+</frameset>
+</verb>

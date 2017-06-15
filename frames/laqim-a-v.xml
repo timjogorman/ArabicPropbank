@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laqim-a</id>
+<comment/>
+<frameset cdef="" edef="to devour or gobble" id="01" vncls="">
+<role argnum="0" argrole="eater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لقم الطفل الطعام</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="the food" n="1">الطعام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+</frameset>
+</verb>

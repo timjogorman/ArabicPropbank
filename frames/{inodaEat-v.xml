@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodaEat</id>
+<comment/>
+<frameset cdef="" edef="to be pushed" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اندعتت الصخرة الى الحفرة</parse>
+<comment/>
+<arg f="" g="the rock" n="1">الصخرة</arg>
+<arg f="" g="to a pit" n="2">الى الحفرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity pushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="direction" vncls="" vntheta=""/>
+</frameset>
+</verb>

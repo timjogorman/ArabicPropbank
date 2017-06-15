@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosaraT</id>
+
+<frameset cdef="" edef="to be gulpped easily" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انسرط الطعام بسهولة</parse>
+
+<arg f="" g="food" n="1">الطعام</arg>
+<arg f="mnr" g="easily" n="m">بسهولة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

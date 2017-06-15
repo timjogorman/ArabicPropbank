@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taHAyal</id>
+<comment/>
+<frameset cdef="" edef="to trick or dupe, to bluff" id="01" vncls="">
+<role argnum="0" argrole="entity bluffing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده قعد يتحايل * علينا حتى نبيع البيت</parse>
+<comment/>
+<arg f="" g="this man" n="0">الراجل ده</arg>
+<arg f="" g="on us" n="1">علينا</arg>
+<arg f="" g="so we will sell the house" n="2">حتى نبيع البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

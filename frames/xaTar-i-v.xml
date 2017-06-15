@@ -1,47 +1,114 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>xaTar-i</id>
-    <frameset cdef="" edef="to occur" id="01">
-        <role argnum="1" argrole="event or idea"/>
-        <role argnum="2" argrole="mind"/>
-        <frame>
-            <comment>
-                جال
-            </comment>
-            <example>
-                <parse>
-                    (S
-                    (PUNC &amp;quot;)
-                    (CONJ و)
-                    (SBAR-ADV
-                    (SUB_CONJ ان)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS خطر)
-                    (PP
-                    (PREP في)
-                    (NP
-                    (NOUN بال)
-                    (NP
-                    (POSS_PRON_1S ي))))
-                    (SBAR-SBJ
-                    (SUB_CONJ ان)
-                    (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:S يكون)
-                    (NP-SBJ
-                    (NOUN_PROP+CASE_DEF_NOM لبنان))
-                    (NP-PRD
-                    (NP
-                    (NOUN مشروع)
-                    (NP
+<id>xaTar-i</id>
+<frameset cdef="" edef="to occur" id="01" vncls="">
+<role argnum="1" argrole="event or idea" vncls="" vntheta=""/>
+<role argnum="2" argrole="mind" vncls="" vntheta=""/>
+<frame>
+
+<example>
+<parse>(S
+  (PUNC &quot;)
+  (CONJ و)
+  (SBAR-ADV
+    (SUB_CONJ ان)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3MS خطر)
+        (PP
+          (PREP في)
+          (NP
+            (NOUN بال)
+            (NP
+              (POSS_PRON_1S ي))))
+        (SBAR-SBJ
+          (SUB_CONJ ان)
+          (S
+            (VP
+              (IV3MS+IV+IVSUFF_MOOD:S يكون)
+              (NP-SBJ
+                (NOUN_PROP+CASE_DEF_NOM لبنان))
+              (NP-PRD
+                (NP
+                  (NOUN مشروع)
+                  (NP
                     (POSS_PRON_1S ي)))
-                    (ADJP
-                    (DET+ADJ+CASE_DEF_ACC المقبل)))))))))
-                </parse>
-                <arg f="" g="that Lebanon will be my next project" n="1">ان يكون لبنان مشروعي المقبل</arg>
-                <arg f="" g="in my thinking" n="2">في بالي</arg>
-            </example>
-        </frame>
-    </frameset>
+                (ADJP
+                  (DET+ADJ+CASE_DEF_ACC المقبل)))))))))</parse>
+<arg f="" g="that Lebanon will be my next project" n="1">ان يكون لبنان مشروعي المقبل</arg>
+<arg f="" g="in my thinking" n="2">في بالي</arg>
+
+<comment/>
+</example>
+
+<comment>جال</comment>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to bring or delever, to insert" id="02" vncls="">
+<role argnum="0" argrole="entity bringing things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خطر الشيطان بين الانسان و قلبه</parse>
+
+<arg f="" g="satan" n="0">الشيطان</arg>
+<arg f="" g="between the man and his heart" n="1">بين الانسان و قلبه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="deleverd to" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to strut , to prance" id="03" vncls="">
+<role argnum="0" argrole="entity walking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خطرت في مشيتها</parse>
+
+<arg f="" g="she" n="0">ت</arg>
+<arg f="" g="in her walk" n="1">في مشيتها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to brandish, to swing, to wave" id="04" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خطر * بيده</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="with his hand" n="1">بيده</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+<comment>لوح بـ , هز , أرجح</comment>
+</frameset>
+<comment/>
 </verb>

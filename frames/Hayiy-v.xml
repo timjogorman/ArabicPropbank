@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hayiy</id>
+<comment/>
+<frameset cdef="" edef="to live, to exist" id="01" vncls="">
+<role argnum="0" argrole="entity living" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أراد الرجل  أن يحيا * حياة بسيطة في بلده</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="mnr" g="simple life" n="m">حياة بسيطة</arg>
+<arg f="" g="in his country" n="1">في بلده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to long live" id="02" vncls="">
+<role argnum="1" argrole="entity or things long living" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هتف الجميع ليحيا الملك</parse>
+<comment/>
+<arg f="" g="the king" n="1">الملك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

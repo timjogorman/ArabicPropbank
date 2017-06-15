@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaTab-i</id>
+<comment/>
+<frameset cdef="" edef="to frown, to knit or contract the brows" id="01" vncls="">
+<role argnum="0" argrole="entety frowning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قطب الرجل حاجبيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his eyes brows" n="1">حاجبيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attributed to ARG0" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to gather or collect" id="02" vncls="">
+<role argnum="0" argrole="entity collecting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قطب الرجل حاجياته</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his belongings" n="1">حاجياته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things collected" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to fill" id="03" vncls="">
+<role argnum="0" argrole="entity fillings" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قطب الرجل الإناء بالماء</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the vessel" n="1">الإناء</arg>
+<arg f="" g="with water" n="2">بالماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity filled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

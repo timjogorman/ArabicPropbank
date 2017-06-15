@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qahoqar</id>
+
+<frameset cdef="" edef="to cause to move backwards; give up; yield; withdraw from" id="01" vncls="">
+<role argnum="0" argrole="entity causing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قهقر الرجل زميله عن العمل</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his colleague" n="1">زميله</arg>
+<arg f="" g="from work" n="2">عن العمل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity moving backwards" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

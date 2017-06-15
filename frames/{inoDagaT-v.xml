@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoDagaT</id>
+
+<frameset cdef="" edef="to be pressed" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انضغط الزر بالإبهام</parse>
+
+<arg f="" g="the button" n="1">الزر</arg>
+<arg f="" g="with the thumb" n="2">بالإبهام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing pressed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be under pressure (with على)" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انضغط على الوزير ليستقيل</parse>
+
+<arg f="" g="the minister" n="1">الوزير</arg>
+<arg f="" g="to quit" n="2">ليستقيل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity under pressure" vncls="" vntheta=""/>
+<role argnum="2" argrole="purpose" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

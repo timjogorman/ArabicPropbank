@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofirAd</id>
+<comment/>
+<frameset cdef="" edef="isolation, privacy" id="01" vncls="">
+<role argnum="1" argrole="entity having privacy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جلس الرجل على انفراد * في الزاوية</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الرجل</arg>
+<arg f="loc" g="in the corner" n="m">في الزاوية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="autocracy, monocracy" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انفراد صدام بالحكم كان كباقي حكام الدول العربية</parse>
+<comment/>
+<arg f="" g="Saddam" n="0">صدام</arg>
+<arg f="" g="with the government" n="1">بالحكم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things controlled" vncls="" vntheta=""/>
+</frameset>
+</verb>

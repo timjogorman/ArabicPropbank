@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarah~ab</id>
+<comment/>
+<frameset cdef="" edef="to become a monk, to take the  vow" id="01" vncls="">
+<role argnum="0" argrole="entity becoming a monk" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ترهبت البنت بعد وفاة والدتها</parse>
+<comment/>
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="tmp" g="after her mother's death" n="m">بعد وفاة والدتها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to threaten or menace" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ترهب الرجل أخاه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

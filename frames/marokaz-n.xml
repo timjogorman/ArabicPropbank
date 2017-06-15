@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>marokaz</id>
+<comment/>
+<frameset cdef="" edef="center, position, station" id="01" vncls="">
+<role argnum="1" argrole="entity being the center" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يعتبر هذا المبنى مركزا *  للدراسات</parse>
+<comment/>
+<arg f="" g="this building" n="1">* هذا المبنى</arg>
+<arg f="" g="for studies" n="2">للدراسات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="of what, what for" vncls="" vntheta=""/>
+</frameset>
+</verb>

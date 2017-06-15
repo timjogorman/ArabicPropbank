@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$A}iE</id>
+<comment/>
+<frameset cdef="" edef="widespread, current" id="01" vncls="">
+<role argnum="1" argrole="things spread" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه القصة شائعة * بين الشباب</parse>
+<comment/>
+<arg f="" g="this story" n="1">* هذه القصة</arg>
+<arg f="" g="among the teenagers" n="2"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="where or audience" vncls="" vntheta=""/>
+</frameset>
+</verb>

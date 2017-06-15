@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitowajaE</id>
+<comment/>
+<frameset cdef="" edef="to be hurt" id="01" vncls="">
+<role argnum="0" argrole="entity feelin pain" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قلبي اتوجع * من المشاكل</parse>
+<comment/>
+<arg f="" g="my heart" n="0">* قلبي</arg>
+<arg f="" g="from the problems" n="1">من المشاكل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="because of what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,194 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mi$iy</id>
+
+<frameset cdef="" edef="to walk, to continue in (multi word expression)" id="01" vncls="">
+<role argnum="0" argrole="walker" vncls="" vntheta=""/>
+<role argnum="1" argrole="path" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>اما المطران فوقف **-1 ومشى * بخطوات بطيئة الى الداخل, واضعا *-2 يده على وجهه, ولم ينبس * باي كلمة .</parse>
+<arg f="" g="-NONE- &lt; the bishop" n="0">* &lt; المطران</arg>
+<arg f="mnr" g="using slow steps" n="m">بخطوات بطيئة</arg>
+<arg f="" g="inside" n="1">الى الداخل</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to go, be in motion" id="02" vncls="">
+<role argnum="0" argrole="entity in motion" vncls="" vntheta=""/>
+<role argnum="1" argrole="extent" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>من جهته قال وليد علي: "امشي * بسيارتي مسافة 300 كيلومتر في اليوم و اجمع * نحو 40 الف ليرة.</parse>
+<arg f="" g="-NONE- &lt; Waliid Alii" n="0">* &lt; وليد علي</arg>
+<arg f="" g="with my car" n="m">بسيارتي</arg>
+<arg f="" g="the distance of 300 km" n="1">مسافة 300 كيلومتر</arg>
+<arg f="tmp" g="in a day" n="m">في اليوم</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to rule over, to be obeyed" id="03" vncls="">
+<role argnum="1" argrole="things to be obeyed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-TPC-1
+        (NOUN+NSUFF_FEM_SG سِيادَة)
+        (NP
+          (NOUN قانُون)
+          (NP
+            (NOUN_PROP مَصْر))))
+      (VP
+        (IV3MS+IV يِمْشِي)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-ADV
+          (NOUN فُوق)
+          (NP
+            (DET+NOUN الكُلّ)))))
+    (CONJ وِ)
+    (S
+      (ADJP-PRD
+        (ADJ_NUM أَوَّل)
+        (NP
+          (POSS_PRON_3P هُم)))
+      (NP-SBJ
+        (DET+ADJ الأَمْرِيكان)))
+    (PUNC .)
+    (PUNC .)))</parse>
+
+<arg f="" g="Authority of the Egyption law" n="1">*T*-1 سِيادَة قانُون مَصْر</arg>
+<arg f="" g="above everyone" n="2">فُوق الكُلّ</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="by whom" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to leave a place" id="04" vncls="">
+<role argnum="0" argrole="entity leaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-TPC-1
+        (DET+NOUN الثُوّار))
+      (VP
+        (PV+PVSUFF_SUBJ:3P مَشُّوا)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (PP
+          (NOUN_PROP مِن)
+          (NP
+            (DET+NOUN المِيدان)))
+        (PP-TMP
+          (PREP مِن)
+          (NP
+            (NOUN زَمان)))))
+    (CONJ وَ)
+    (S
+      (NP-SBJ
+        (-NONE- *))
+      (PP-PRD
+        (PREP فِي)
+        (NP
+          (NOUN أَشْغال)
+          (NP
+            (POSS_PRON_3P هِم))))
+      (NP-TMP
+        (ADV دِلْوَقْتِي)))))</parse>
+
+<arg f="" g="the rebel" n="0">*T*-1 الثُوّار</arg>
+<arg f="" g="from the square" n="1">مِن المِيدان</arg>
+<arg f="tmp" g="a long time ago" n="m">مِن زَمان</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to become good (multi word expresion)" id="05" vncls="">
+<role argnum="1" argrole="things becoming good" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>إنشاء الله يمشي الحال مع أخوك</parse>
+
+<arg f="" g="the situation" n="1">الحال</arg>
+<arg f="" g="with your brother" n="2">مع أخوك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on ma$aY-i</comment>
+</verb>

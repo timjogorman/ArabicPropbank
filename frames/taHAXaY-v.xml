@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taHAXaY</id>
+<comment/>
+<frameset cdef="" edef="to face to each other, to be parallel to each other" id="01" vncls="">
+<role argnum="1" argrole="entity facing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تحاذى منزلي مع منزل أخي</parse>
+<comment/>
+<arg f="" g="my house" n="1">منزلي</arg>
+<arg f="" g="with my brothers hoouse" n="2">مع منزل أخي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="facing what" vncls="" vntheta=""/>
+</frameset>
+</verb>

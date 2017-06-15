@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rakam-u</id>
+
+<frameset cdef="" edef="to accumulate, to stack or pile up" id="01" vncls="">
+<role argnum="0" argrole="entity accumulating something" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ركم الطفل الحجارة فوق بعضها</parse>
+
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="the rocks" n="1">الحجارة</arg>
+<arg f="" g="on top each other" n="2">فوق بعضه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing/stuff accumulated" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

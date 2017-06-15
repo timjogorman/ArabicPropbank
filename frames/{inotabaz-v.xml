@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotabaz</id>
+
+<frameset cdef="" edef="to call somebody ''names''" id="01" vncls="">
+<role argnum="0" argrole="assigner of name" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتبز الطفل صديقه إسما مضحكا</parse>
+
+<arg f="" g="the boy" n="0">الطفل</arg>
+<arg f="" g="his friend" n="1">his friend</arg>
+<arg f="" g="a funny name" n="2">إسما مضحكا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity named" vncls="" vntheta=""/>
+<role argnum="2" argrole="name (if it exists)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

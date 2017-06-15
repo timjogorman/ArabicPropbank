@@ -1,23 +1,29 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>ma$aH-a</id>
-    <comment/>
-    <frameset cdef="" edef="to administer extreme unction to" id="01">
-        <role argnum="0" argrole="agent"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>امشحني برحمتك يا الله</parse>
-                <comment/>
-                <arg f="" g="you" n="0">*</arg>
-                <arg f="" g="me" n="1">ي</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="recipient"/>
-        <role argnum="2" argrole="with what?"/>
-    </frameset>
+<id>ma$aH-a</id>
+
+<frameset cdef="" edef="to administer extreme unction to" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>امشح * ني برحمتك يا الله</parse>
+
+<arg f="" g="you" n="0">*</arg>
+<arg f="" g="me" n="1">ي</arg>
+<comment/>
+<arg f="" g="with your mercy" n="2">برحمتك</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="recipient" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what?" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

@@ -1,0 +1,87 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IisomAE</id>
+<comment/>
+<frameset cdef="" edef="making someone hear a sound" id="01" vncls="">
+<role argnum="0" argrole="entity making the sound/ utterance" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (IV3FS+IV تَهْدِف)
+      (NP-SBJ
+        (NOUN+NSUFF_FEM_PL تَجَمُّعات)
+        (NP
+          (NOUN سَبْت)
+          (NP
+            (DET+NOUN الزَئِير))))
+      (PP-CLR
+        (PREP إِلَى)
+        (S-NOM
+          (VP
+            (NOUN.VN إِسماع)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-DTV
+              (NP
+                (DET+NOUN العالَم)
+                (DET+ADJ الغَربِي))
+              (CONJ وَ)
+              (NP
+                (NP-ADV
+                  (NOUN+CASE_INDEF_ACC تَحْدِيداً))
+                (NOUN_PROP أَمْرِيكا)))
+            (NP-OBJ
+              (NP
+                (ADJP
+                  (ADJ_COMP أَعْلَى)
+                  (NP
+                    (NOUN صُوت))))
+              (PP
+                (PREP لِ)
+                (NP
+                  (NP
+                    (NP
+                      (DET+NOUN العَرَب))
+                    (CONJ وِ)
+                    (NP
+                      (DET+NOUN+NSUFF_MASC_PL المُسْلِمِين))
+                    (CONJ وِ)
+                    (NP
+                      (NOUN احْرار)
+                      (NP
+                        (DET+NOUN العالَم))))
+                  (ADJP
+                    (DET+ADJ+NSUFF_MASC_PL الغاضِبِين)
+                    (PP
+                      (PREP عَلَى)
+                      (NP
+                        (NOUN+NSUFF_FEM_SG مُواصَلَة)
+                        (NP
+                          (NP
+                            (NOUN اِحْتِلال)
+                            (NP
+                              (NOUN_PROP فِلِسْطِين)))
+                          (CONJ وِ)
+                          (NP
+                            (NOUN تَشْرِيد)
+                            (NP
+                              (NOUN_NUM مَلايِين)
+                              (NP
+                                (DET+ADJ+NSUFF_MASC_PL اللاجِئِين)))))))))))))))
+    (PUNC .)))</parse>
+<comment/>
+<arg f="" g="the Arab world and especialy America" n="1">العالم العربي وتحديدا أمريكا</arg>
+<arg f="" g="the highest voice for Arab and Muslims" n="2">أعلى صوت للعرب و المسلمين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the hearing entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="the utterance / sound" vncls="" vntheta=""/>
+</frameset>
+</verb>

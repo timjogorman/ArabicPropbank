@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waEaY</id>
+<comment>EGYPTIAN ARABIC based on waEaY-i</comment>
+<frameset cdef="" edef="to be careful, not to do" id="01" vncls="">
+<role argnum="1" argrole="agent being careful" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>إوع حد يعمل كده</parse>
+<comment>ARZ</comment>
+<arg f="" g="any body" n="1">حد</arg>
+<arg f="" g="do like this" n="2">يعمل كده</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="action" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="To perceive or understand" id="02">
+<role argnum="0" argrole="understander"/>
+<role argnum="1" argrole="thing understood"/>
+<frame>
+<comment>
+أدرك/  فهم
+</comment>
+<example>
+<parse>
+فقد يكون مفيدا ان يعي الرئيس العراقي انه لن يحصل **-1 من العرب - حتى من اشدهم حماسة قوميا - الا على بيانات اع\
+لامية .
+</parse>
+<arg f="" g="Iraqi President" n="0">الرئيس العراقي</arg>
+<arg f="" g="that he will not get from the Arabs, but just media statements." n="1">انه لن يحصل من العرب الا \
+على بيانات اعلامية .</arg>
+</example>
+</frame>
+<comment>Based on roleset waEaY-i.01</comment>
+</frameset>
+</verb>

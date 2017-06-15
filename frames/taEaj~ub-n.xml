@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEaj~ub</id>
+
+<frameset cdef="" edef="to wonder or marvel at" id="01" vncls="">
+<role argnum="0" argrole="entity marveled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تعجب الرجل من سلوك اخيه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="from his brother's behavior" n="1">من سلوك اخيه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="about what" vncls="" vntheta=""/>
+<comment>Based on roleset taEaj~ab.01</comment>
+</frameset>
+<comment>Framefile based on taEaj~ab</comment>
+</verb>

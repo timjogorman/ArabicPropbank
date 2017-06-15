@@ -1,0 +1,137 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wiSil</id>
+
+    
+
+<frameset cdef="" edef="to become, to reach, to get to" id="02" vncls="">
+<role argnum="1" argrole="thing becoming or reaching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(PRT
+          (VOC_PART يا))
+        (NOUN+NSUFF_FEM_SG جَماعَة))
+      (NP-SBJ
+        (NOUN_PROP مَصْر))
+      (ADJP-PRD
+        (ADJ+NSUFF_FEM_SG مُسْتَهْدَفَة)))
+    (CONJ وِ)
+    (S
+      (NP-SBJ
+        (NP
+          (DEM_PRON_MS دَه))
+        (NP
+          (NOUN مُخَطَّط)))
+      (PP-PRD
+        (PREP عَ)
+        (NP
+          (NOUN شان)
+          (S
+            (S
+              (NP-TPC-1
+                (NOUN_QUANT كُلّ)
+                (NP
+                  (POSS_PRON_1P نا)))
+              (VP
+                (IV1P+IV نُقَع)
+                (NP-SBJ
+                  (-NONE- *T*-1))
+                (PP
+                  (PREP فِي)
+                  (NP
+                    (NOUN_QUANT بَعْض)))))
+            (CONJ وِ)
+            (S
+              (VP
+                (IV3FS+IV تِحْصَل)
+                (NP-SBJ
+                  (NOUN+NSUFF_FEM_SG فِتْنَة))))
+            (CONJ وِ)
+            (S
+              (VP
+                (IV3FS+IV تِوْصَل)
+                (NP-SBJ
+                  (-NONE- *))
+                (PP
+                  (PREP لِ)
+                  (NP
+                    (NOUN حَرْب)
+                    (ADJ+NSUFF_FEM_SG أَهْلِيَّة)))))))))))</parse>
+
+<arg f="" g="NONE" n="1">*? NONE</arg>
+<arg f="" g="to a civil war" n="2">لحرب اهلية</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="come to, arrive" id="03" vncls="">
+<role argnum="0" argrole="entity in motion /comer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (IV3MS+IV يِحْفَظ)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (IVSUFF_DO:1P نا))
+      (PP
+        (PREP لِ)
+        (NP
+          (NOUN حَدّ)
+          (SBAR
+            (SUB_CONJ ما)
+            (S
+              (VP
+                (IV1P+IV نِوْصَل)
+                (NP-SBJ
+                  (-NONE- *))
+                (PP
+                  (PREP لَ)
+                  (NP
+                    (NOUN بَرّ)
+                    (NP
+                      (DET+NOUN الأَمان))))))))))))</parse>
+
+<arg f="" g="we" n="0">* نا</arg>
+<arg f="" g="the safety side" n="1">بَرّ الأَمان</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="source" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point, destination" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on waS~al</comment>
+</verb>

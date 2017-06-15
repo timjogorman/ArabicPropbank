@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maw~in</id>
+
+<frameset cdef="" edef="to provision, to supply with provisions" id="01" vncls="">
+<role argnum="0" argrole="entity suplying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الجيش كان بيمون * الناس  بالاسلحة</parse>
+
+<arg f="" g="the army" n="0">* الجيش</arg>
+<arg f="" g="the people" n="1">الناس</arg>
+<arg f="" g="with weapons" n="2">بالاسلحة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity suplied" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,90 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>taq~il</id>
+<comment>EGYPTIAN ARABIC Framefile based on vaq~al-v</comment>
+<frameset cdef="" edef="to burden, weight down" id="01" vncls="">
+<role argnum="0" argrole="loader" vncls="" vntheta="" />
+<role argnum="1" argrole="carrier" vncls="" vntheta="" />
+<role argnum="2" argrole="load" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS أثقل)
+    (NP-SBJ
+      (-NONE- *))
+    (NP-OBJ
+      (NP
+        (DET+NOUN+NSUFF_MASC_PL_ACC الآتين))
+      (PP
+        (PREP ل)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN لسلم))))))</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="the seekers of peace" n="1">الآتين للسلم</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset vaq~al-v.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to make boring" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>(SUB_CONJ إِنّ)
+          (S
+            (NP-TPC-1
+              (PRON_3MS ُه))
+            (VP
+              (PV+PVSUFF_SUBJ:3MS كان)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-PRD
+                (NOUN توُبِيك)
+                (NP
+                  (NP
+                    (NOUN دَمّ)
+                    (NP
+                      (POSS_PRON_3MS ُه)))
+                  (ADJP
+                    (ADJ خَفِيف)))))))))
+    (CONJ وَ)
+    (S
+      (NP-TPC-2
+        (PRON_1S انا))
+      (VP
+        (PV+PVSUFF_SUBJ:1S تَقَّلت)
+        (NP-SBJ
+          (-NONE- *T*-2))
+        (NP-OBJ
+          (PVSUFF_DO:3MS ُه))))
+    (CONJ بَسّ)
+    (S
+      (PP
+        (PREP بِ)
+        (NP
+          (NOUN+NSUFF_FEM_SG صَراحَة)))
+      (ADJP-PRD</parse>
+
+<arg f="" g="he" n="0">* انا</arg>
+<arg f="" g="it" n="1">ه</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="things made boring" vncls="" vntheta="" />
+<comment>ARZ
+Based on roleset vaq~al-v.02</comment>
+</frameset>
+<comment />
+</verb>

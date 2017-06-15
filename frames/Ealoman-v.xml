@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ealoman</id>
+<comment/>
+<frameset cdef="" edef="to secularize" id="01" vncls="">
+<role argnum="0" argrole="entity secularizeing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>علمنت الدولة المجتمع</parse>
+<comment/>
+<arg f="" g="the government" n="0">الدولة</arg>
+<arg f="" g="the society" n="1">المجتمع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity secularized" vncls="" vntheta=""/>
+</frameset>
+</verb>

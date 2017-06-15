@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inogamad</id>
+
+<frameset cdef="" edef="to be put in a sheath (or in a person to kill him)" id="01" vncls="">
+<role argnum="1" argrole="entity sheathed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انغمد السيف في الغمد</parse>
+
+<arg f="" g="the sword" n="1">السيف</arg>
+<arg f="" g="in the sheath" n="2">في الغمد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

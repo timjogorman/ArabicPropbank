@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lALam</id>
+<comment/>
+<frameset cdef="" edef="to suit or fit" id="01" vncls="">
+<role argnum="1" argrole="entity fitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الرداء لا يلاءم * هذه المناسبة</parse>
+<comment/>
+<arg f="" g="this dress" n="1">* هذا الرداء</arg>
+<arg f="" g="this occasion" n="2">هذه المناسبة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to harmonize, to reconcile" id="02" vncls="">
+<role argnum="0" argrole="entity harmonizinge" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لاءم الفنان بين اللون الاحمر و الازرق بطريقة رائعة</parse>
+<comment/>
+<arg f="" g="the artist" n="0">الفنان</arg>
+<arg f="" g="between the red color" n="1">بين اللون الاحمر</arg>
+<arg f="" g="and the blue" n="2">و الازرق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="first entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="second entity" vncls="" vntheta=""/>
+</frameset>
+</verb>

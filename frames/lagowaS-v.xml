@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lagowaS</id>
+<comment/>
+<frameset cdef="" edef="to dirty or stain" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مالك با أخي قاعد تلغوص * في كلامك بكلمات وسخة</parse>
+<comment/>
+<arg f="" g="my brother" n="0">* أخي</arg>
+<arg f="" g="in your words" n="1">في كلامك</arg>
+<arg f="" g="with dirty words" n="2">بكلمات وسخة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things made dirty" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Sab~ar</id>
+
+<frameset cdef="" edef="to ask to be patient, to ask to have patience, to confort" id="01" vncls="sal~aY-1">
+<role argnum="0" argrole="entity asking" vncls="sal~aY-1" vntheta="cause"/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>صبر الاب ابنه على خسارته للمباراة</parse>
+
+<arg f="" g="the father" n="0">الاب</arg>
+<arg f="" g="his son" n="1">ابنه</arg>
+<arg f="" g="for loosing the game" n="2">على خسارته للمباراة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="asked entity" vncls="sal~aY-1" vntheta="experiencer"/>
+<role argnum="2" argrole="for with what (Usually comes after على  )" vncls="sal~aY-1" vntheta="instrument"/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to embalm, to mummify" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>صبر الصياد الدب الذي اصطاده</parse>
+
+<arg f="" g="the hunter" n="0">الصياد</arg>
+<arg f="" g="the bear that he hunted" n="1">الدب الذي اصطاده</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+
+<comment>حَنَّط</comment>
+</frameset>
+
+<comment/>
+</verb>

@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inogaraA</id>
+
+<frameset cdef="" edef="to be guled, pasted" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انغرت الصورة على الحائط بالغراء</parse>
+
+<arg f="" g="the poster" n="1">الصورة</arg>
+<arg f="" g="on the wall" n="2">على الحائط</arg>
+<arg f="" g="with a glue" n="3">بالغراء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="1st things guled, pasted" vncls="" vntheta=""/>
+<role argnum="2" argrole="2nd things glued or place" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument  (glue)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

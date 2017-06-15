@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gAzal</id>
+<comment/>
+<frameset cdef="" edef="to flirt with, to speak words of love to" id="01" vncls="">
+<role argnum="0" argrole="entity flirting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قال له ابوه أن لا يغازل  * البنات</parse>
+<comment/>
+<arg f="" g="he" n="0">* ه</arg>
+<arg f="" g="the girls" n="1">البنات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

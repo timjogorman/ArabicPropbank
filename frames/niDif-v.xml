@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>niDif</id>
+
+<frameset cdef="" edef="to be or become clean or neat" id="01" vncls="">
+<role argnum="1" argrole="entity becoming clean" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>ان شاء الله البلد حتنظف * من الزبالة</parse>
+
+<arg f="" g="the country" n="1">* البلد</arg>
+<arg f="" g="from the trash" n="2">من الزبالة</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta="" />
+<comment>Based on roleset naZuf-u-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on naZuf-u-v</comment>
+</verb>

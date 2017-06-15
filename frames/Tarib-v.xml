@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Tarib</id>
+<comment/>
+<frameset cdef="" edef="to be or become delighted" id="01" vncls="">
+<role argnum="0" argrole="entity getelightedting d" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طرب الولد بصوت والدته</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الولد</arg>
+<arg f="" g="with his mother voice" n="1">بصوت والدته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>DaEoDaE</id>
+
+<frameset cdef="" edef="to impair or weak" id="01" vncls="">
+<role argnum="0" argrole="cause" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ضعضع الرجل العدو بالكلام</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the emeny" n="1">العدو</arg>
+<arg f="" g="with speech" n="2">بالكلام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity being impaired" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to destroy" id="02" vncls="">
+<role argnum="0" argrole="entity destroying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ضعضع الرجل البيت بالجرافة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="with the harrow" n="2">بالجرافة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity destroyed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with waht" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

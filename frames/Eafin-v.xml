@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eafin</id>
+<comment/>
+<frameset cdef="" edef="to rot or decay, to mold" id="01" vncls="">
+<role argnum="1" argrole="entity becoming decayed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عفن الخبز</parse>
+<comment/>
+<arg f="" g="the bread" n="1">الخبز</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,81 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitoqalab</id>
+
+<frameset cdef="" edef="to change into" id="03" vncls="">
+<role argnum="1" argrole="entity changing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(NP-SBJ
+      (DET+NOUN السُؤال)
+      (DET+ADJ_COMP الأَهَمّ))
+    (SQ-PRD
+      (ADJP-PRD
+        (ADJ مُمْكِن))
+      (SBAR-SBJ
+        (-NONE- 0)
+        (S
+          (VP
+            (IV3MS+IV يِتقِلِّب)
+            (NP-SBJ
+              (-NONE- *))
+            (PP-CLR
+              (PREP اِلَى)
+              (NP
+                (NP
+                  (NOUN مَوضُوع)
+                  (ADJ سِياسِي))
+                (NP-ADV
+                  (NOUN بَين)
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_DU الدَوْلِتِين)))))))))</parse>
+
+<arg f="" g="the important question" n="1">السُؤال الأَهَمّ</arg>
+<arg f="" g="into a political subject between the two countries" n="3">اِلَى مَوضُوع سِياسِي بَين الدَوْلِتِين</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+
+<role argnum="3" argrole="into what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to turn upside down" id="04" vncls="">
+<role argnum="1" argrole="entity turning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>السيارة اتقلبت * في الشارع</parse>
+
+<arg f="" g="the car" n="1">* السيارة</arg>
+<arg f="" g="in the street" n="2">في الشارع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="where or on what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC</comment>
+</verb>

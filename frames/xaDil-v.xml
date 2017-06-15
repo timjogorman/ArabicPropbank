@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaDil</id>
+<comment/>
+<frameset cdef="" edef="to wet through, to moisten,  to become soft" id="01" vncls="">
+<role argnum="1" argrole="entity becoming wet" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خضل العشب</parse>
+<comment/>
+<arg f="" g="the grass" n="1">العشب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daEat-a</id>
+
+<frameset cdef="" edef="to push hard (physicaly), to thrust forward" id="01" vncls="">
+<role argnum="0" argrole="the pusher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دعتت أختي الكرسي إلى المطبخ</parse>
+
+<arg f="" g="my sister" n="0">أختي</arg>
+<arg f="" g="the chair" n="1">الكرسي</arg>
+<arg f="" g="toward the kichen" n="2">إلى المطبخ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity pushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="direction" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

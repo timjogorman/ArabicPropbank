@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tawAS</id>
+<comment/>
+<frameset cdef="" edef="to will, to entrust, to encourage" id="01">
+<role argnum="0" argrole="entity entrusting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وتواصوا *  بالحق وتواصوا بالصبر</parse>
+<comment/>
+<arg f="" g="they" n="0">*? NONE</arg>
+<arg f="" g="by right or justice" n="2">بالحق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="second entity"/>
+<role argnum="2" argrole="with what"/>
+</frameset>
+</verb>

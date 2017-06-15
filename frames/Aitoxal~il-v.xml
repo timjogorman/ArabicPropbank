@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitoxal~il</id>
+<comment/>
+<frameset cdef="" edef="to punctuate or interrupt" id="01" vncls="">
+<role argnum="0" argrole="interruptor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لازم يتخلل الحفل شوية غنى</parse>
+<comment/>
+<arg f="" g="the party" n="1">الحفل</arg>
+<arg f="" g="a little of singing" n="0">شوية غنى</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing interrupted" vncls="" vntheta=""/>
+</frameset>
+</verb>

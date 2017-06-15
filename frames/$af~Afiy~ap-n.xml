@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$af~Afiy~ap</id>
+<comment/>
+<frameset cdef="" edef="transparency, thinness" id="01" vncls="">
+<role argnum="1" argrole="entity transparent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>درس في شفافية الصورة في الفوتوشوب</parse>
+<comment/>
+<arg f="" g="the picture" n="1">الصورة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

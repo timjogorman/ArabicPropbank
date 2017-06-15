@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munoHaSir</id>
+<comment/>
+<frameset cdef="" edef="kept within bounds, limited" id="01" vncls="">
+<role argnum="1" argrole="entity limited between" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الأمر منحصر * بيني وبينك</parse>
+<comment/>
+<arg f="" g="this thing" n="1">هذا الأمر</arg>
+<arg f="" g="between me" n="2">بيني</arg>
+<arg f="" g="and you" n="3">وبينك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="first entity" vncls="" vntheta=""/>
+<role argnum="3" argrole="second entity ( if separated from ARG 2 )" vncls="" vntheta=""/>
+</frameset>
+</verb>

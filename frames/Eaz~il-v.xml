@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Eaz~il</id>
+<comment>EGYPTIAN ARABIC Framefile based on Eaz~al</comment>
+<frameset cdef="" edef="to move from house to another" id="01" vncls="">
+<role argnum="0" argrole="entity moving" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>الراجل ده عزل * من بيته القديم للقاهرة</parse>
+<comment />
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="from his old house" n="1">من بيته القديم</arg>
+<arg f="" g="to Cairo" n="2">للقاهرة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Eaz~al.01</comment>
+<role argnum="1" argrole="start point" vncls="" vntheta="" />
+<role argnum="2" argrole="end point" vncls="" vntheta="" />
+</frameset>
+</verb>

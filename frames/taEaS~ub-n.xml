@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEaS~ub</id>
+<comment/>
+<frameset cdef="" edef="fanaticism, bigorty" id="01" vncls="">
+<role argnum="0" argrole="entity fanatic" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لا أفهم سبب تعصب بعض الناس لأمور سخيفة</parse>
+<comment/>
+<arg f="" g="some people" n="0">بعض الناس</arg>
+<arg f="" g="for stupid things" n="1">لأمور سخيفة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+<role argnum="2" argrole="against what" vncls="" vntheta=""/>
+</frameset>
+</verb>

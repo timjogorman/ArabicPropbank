@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laSiq-a</id>
+<comment/>
+<frameset cdef="" edef="to stick or adhere to" id="01" vncls="">
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لصِق الطِّينُ بحذائه</parse>
+<comment/>
+<arg f="" g="the mud" n="1">الطِّينُ</arg>
+<arg f="" g="with his shoe" n="2">بحذائه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity glued" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

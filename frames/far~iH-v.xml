@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>far~iH</id>
+
+<frameset cdef="" edef="making happy" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>فرَّح * نا بمجيئه</parse>
+
+<arg f="" g="NONE" n="0">-NONE- * ?</arg>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="by his coming" n="2">بمجيئه</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="entity happy" vncls="" vntheta="" />
+<role argnum="2" argrole="with what" vncls="" vntheta="" />
+<comment>Based on roleset far~aH.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on far~aH</comment>
+</verb>

@@ -1,0 +1,127 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tasam~ar</id>
+<comment/>
+<frameset cdef="" edef="to be nailed" id="01" vncls="">
+<role argnum="1" argrole="entity nailed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تسمر اللوح</parse>
+<comment/>
+<arg f="" g="the wooden tablet" n="1">اللوح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to stand as a pinned to the ground" id="02" vncls="">
+<role argnum="0" argrole="entity standing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (FRAG
+    (NP-ADV
+      (ADJ_NUM 3))
+    (PUNC .)
+    (S
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:3MS أَعَدّ)
+          (NP-SBJ
+            (DET+NOUN الإِعْلام)
+            (DET+ADJ المَصْرِي))
+          (NP-OBJ
+            (DET+NOUN الجَماهِير))
+          (PP
+            (PREP بِ)
+            (NP
+              (NP
+                (NOUN شَكْل))
+              (SBAR
+                (WHNP-1
+                  (-NONE- 0))
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3MS جَعَل)
+                    (SBAR
+                      (-NONE- *ICH*-3))
+                    (NP-SBJ
+                      (-NONE- *T*-1))
+                    (S
+                      (NP-SBJ
+                        (-NONE- *-3))
+                      (PP-PRD
+                        (PREP مِن)
+                        (NP
+                          (ADJP
+                            (DET+ADJ الصَعْب)
+                            (NOUN+CASE_INDEF_ACC جِدّاً))))
+                      (SBAR-3
+                        (-NONE- 0)
+                        (S
+                          (VP
+                            (IV3FS+IV تِقْبَل)
+                            (NP-SBJ
+                              (-NONE- *))
+                            (NP-OBJ
+                              (DET+NOUN+NSUFF_FEM_SG الهَزِيمَة)))))))))))))
+      (PUNC :)
+      (S
+        (VP
+          (PRT
+            (VERB_PART لَقَدْ))
+          (PV+PVSUFF_SUBJ:3MS تَسَمَّرَ)
+          (NP-SBJ
+            (DET+NOUN الجَمِيع))
+          (NP-LOC
+            (NOUN أَمام)
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG الشاشَة)))
+          (NP-ADV
+            (NOUN مَعَ)
+            (NP
+              (NOUN+NSUFF_FEM_SG صُفّارَة)
+              (NP
+                (DET+NOUN الحَكَم))))
+          (PP
+            (PREP بِ)
+            (NP
+              (NP
+                (NOUN صَرْف)
+                (DET+NOUN النَظَر))
+              (PP
+                (PREP عَن)
+                (SBAR-NOM
+                  (WHNP-4
+                    (REL_PRON ما))
+                  (S
+                    (VP
+                      (PV+PVSUFF_SUBJ:3MS حَدَث)
+                      (NP-SBJ
+                        (-NONE- *T*-4))
+                      (PP-LOC
+                        (PREP فِي)
+                        (NP
+                          (DET+NOUN_PROP الخَرْطُوم)))
+                      (NP-TMP
+                        (NOUN بَعْد)
+                        (NP
+                          (DET+NOUN المُباراة))))))))))))))</parse>
+<comment/>
+<arg f="" g="every body" n="0">الجَمِيع</arg>
+<arg f="" g="in front of the screen" n="">أَمام الشاشَة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

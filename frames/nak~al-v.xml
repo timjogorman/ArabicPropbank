@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nak~al</id>
+<comment/>
+<frameset cdef="" edef="to punish severely, to make an example of" id="01" vncls="">
+<role argnum="0" argrole="entity punishing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وِ)
+    (PP-PRD
+      (PREP لِي)
+      (NP
+        (PRON_3FS ها)))
+    (NP-SBJ
+      (NP
+        (NP
+          (NOUN حَقّ)
+          (SBAR
+            (-NONE- *ICH*-5)))
+        (ADJP
+          (NOUN_QUANT أَكثَر)))
+      (SBAR-5
+        (SUB_CONJ إِنّ)
+        (S
+          (NP-TPC-1
+            (PRON_3FS ها))
+          (VP
+            (IV3FS+IV تِنَكِّل)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (PP-CLR
+              (PREP بِ)
+              (SBAR-NOM
+                (WHNP-2
+                  (REL_PRON مِن))
+                (S
+                  (VP
+                    (IV3MS+IV يِقُول)
+                    (NP-SBJ
+                      (-NONE- *T*-2))
+                    (SBAR
+                      (SUB_CONJ إِنّ)
+                      (S
+                        (NP-TPC-4
+                          (PRON_1P نا))
+                        (VP
+                          (PRT
+                            (PROG_PART بِ))
+                          (IV1P+IV_PASS نِتْسِرِق)
+                          (NP-SBJ-3
+                            (-NONE- *T*-4))
+                          (NP-OBJ
+                            (-NONE- *-3)))))))))))))))</parse>
+<comment/>
+<arg f="" g="it" n="0">* -1 ها</arg>
+<arg f="" g="who says wev'e been mugged" n="1">بمن يقول بأننا بنتسرق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity punished" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zabad-u</id>
+<comment/>
+<frameset cdef="" edef="to feed yogurt" id="01" vncls="">
+<role argnum="0" argrole="feeder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زبد الرجل ضيوفه اللبن</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his guests" n="1">ضيوفه</arg>
+<arg f="" g="the yogurt" n="2">اللبن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="eater" vncls="" vntheta=""/>
+<role argnum="2" argrole="food (usually yogurt)" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to churn the yogurt" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things shooked" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,217 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Hamal</id>
+<comment>EGYPTIAN ARABIC based on Hamal-i</comment>
+    <frameset cdef="" edef="to carry, transport." id="01" vncls="">
+<role argnum="0" argrole="carrier" vncls="" vntheta="" />
+<role argnum="1" argrole="thing carried" vncls="" vntheta="" />
+<role argnum="2" argrole="start point" vncls="" vntheta="" />
+<role argnum="3" argrole="end point" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (NP-ADV
+    (NOUN+CASE_DEF_ACC مع)
+    (NP
+      (DET+NOUN+CASE_DEF_GEN التأكيد)
+      (CONJ و)
+      (DET+NOUN+CASE_DEF_GEN الحسم)
+      (CONJ و)
+      (DET+NOUN+CASE_DEF_GEN الجزم)))
+  (NP-TPC-1
+    (NOUN+NSUFF_MASC_PL_NOM موفدون)
+    (ADJ+NSUFF_MASC_PL_NOM لبنانيون))
+  (VP
+    (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يحملون)
+    (NP-SBJ
+      (-NONE- *T*-1))
+    (PP-DIR
+      (PREP الى)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الملوك)
+        (CONJ و)
+        (DET+NOUN+CASE_DEF_GEN الرؤساء)
+        (CONJ و)
+        (DET+NOUN+CASE_DEF_GEN الامراء)))
+    (NP-OBJ
+      (NP
+        (NOUN+CASE_INDEF_ACC قراراً)
+        (ADJ+CASE_INDEF_ACC لبنانياً)
+        (ADJ+CASE_INDEF_ACC نادراً))
+      (SBAR
+        (WHNP-2
+          (-NONE- 0))
+        (S
+          (VP
+            (PRT
+              (NEG_PART ما))
+            (PV+PVSUFF_SUBJ:3MP حملوا)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NOUN+CASE_DEF_ACC مثل)
+              (NP
+                (NP
+                  (POSS_PRON_3MS ه))
+                (NP
+                  (-NONE- *T*-2)))))))))
+  (PUNC .))</parse>
+<arg f="" g="Lebanese delegates" n="0">*T*-1 موفدون لبنانيون</arg>
+<arg f="" g="to the kings, presidents and princes" n="3">إلى الملوك و الرؤساء و الأمراء</arg>
+<arg f="" g="a rare and unprecedented Lebanese decree" n="1">قرارا لبنانيا نادرا ما حملوا مثله</arg>
+<comment />
+</example>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PRT
+      (VERB_PART قد))
+    (PV+PVSUFF_SUBJ:3MS حمل)
+    (NP-SBJ
+      (NP
+        (NOUN_QUANT+CASE_INDEF_NOM كل))
+      (PP
+        (PREP من)
+        (NP
+          (PRON_3MP هم))))
+    (NP-OBJ
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC وردة)
+        (ADJ+CASE_INDEF_ACC حمراء))
+      (SBAR
+        (SBAR
+          (WHNP-1
+            (-NONE- 0))
+          (S
+            (VP
+              (IV3FS+IV+IVSUFF_MOOD:I ترمز)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (PP-CLR
+                (PREP الى)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN الحب)
+                  (CONJ و)
+                  (DET+NOUN+CASE_DEF_GEN التكريم))))))</parse>
+<arg f="" g="each of them" n="0">كل منهم</arg>
+<arg f="" g="a red rose to symbolize love and honor" n="1">وردة حمراء ترمز إلى الحب و التكريم</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Hamal-i.01</comment>
+</frameset>
+<frameset cdef="" edef="contain, include" id="04" vncls="">
+<role argnum="0" argrole="entity containing" vncls="" vntheta="" />
+<role argnum="1" argrole="entity contained" vncls="" vntheta="" />
+<role argnum="2" argrole="place of containment" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (CONJ بل)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS كان)
+    (NP-SBJ
+      (-NONE- *))
+    (NP-PRD
+      (NOUN_PROP+CASE_DEF_NOM فلسطين))
+    (PUNC ,)
+    (PP
+      (PREP ب)
+      (NP
+        (NP
+          (NOUN_QUANT+CASE_DEF_GEN كل)
+          (NP
+            (DET+NOUN المعاني)))
+        (SBAR
+          (WHNP-1
+            (REL_PRON التي))
+          (S
+            (VP
+              (IV2MS+IV+IVSUFF_MOOD:I تحمل)
+              (NP-OBJ
+                (NP
+                  (IVSUFF_DO:3FS ها))
+                (NP
+                  (-NONE- *T*-1)))
+              (NP-SBJ
+                (NP
+                  (DEM_PRON_F هذه))
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الكلمة)))))))))
+  (PUNC .))</parse>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="this word" n="0">هذه الكلمة</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Hamal-i.04</comment>
+</frameset>
+<frameset cdef="" edef="hold, like hold a position" id="05" vncls="">
+<role argnum="0" argrole="entity holding" vncls="" vntheta="" />
+<role argnum="1" argrole="thing being held" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3FS كانت)
+    (NP-1
+      (NOUN_PROP عمان))
+    (VP
+      (PV+PVSUFF_SUBJ:3FS نأت)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (PP
+        (PREP ب)
+        (NP
+          (NOUN+CASE_DEF_GEN نفس)
+          (NP
+            (POSS_PRON_3FS ها))))
+      (PP-CLR
+        (PREP عن)
+        (NP
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مشاركة)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الامير)
+              (NOUN_PROP حسن)))
+          (PP
+            (PREP في)
+            (NP
+              (NOUN+CASE_DEF_GEN مؤتمر)
+              (NP
+                (NOUN_PROP لندن))))))
+      (S-ADV
+        (VP
+          (ADJ.VN+NSUFF_FEM_SG+CASE_INDEF_ACC مؤكدة)
+          (NP-SBJ
+            (-NONE- *-1))
+          (SBAR
+            (SUB_CONJ ان)
+            (S
+              (NP-TPC-2
+                (PRON_3MS ه))
+              (VP
+                (PUNC &quot;)
+                (PRT
+                  (NEG_PART لا))
+                (IV3MS+IV+IVSUFF_MOOD:I يحمل)
+                (NP-SBJ
+                  (-NONE- *T*-2))
+                (NP-OBJ
+                  (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC صفة)
+                  (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC رسمية))
+                (PUNC &quot;))))))))
+  (PUNC .))</parse>
+<arg f="" g="he" n="0">*T*-2 ه</arg>
+<arg f="" g="an official status" n="1">صفة رسمية</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Hamal-i.05</comment>
+</frameset>
+</verb>

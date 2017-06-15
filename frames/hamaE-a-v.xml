@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hamaE-a</id>
+<comment/>
+<frameset cdef="" edef="to shed tears" id="01" vncls="">
+<role argnum="0" argrole="entity sheding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>همعت العين دمعا</parse>
+<comment/>
+<arg f="" g="the eye" n="0">العين</arg>
+<arg f="" g="tears" n="1">دمعا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things shed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to flow or run or stream" id="02" vncls="">
+<role argnum="1" argrole="things flowing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>همع الندى على الشجرة</parse>
+<comment/>
+<arg f="" g="the dew" n="1">الندى</arg>
+<arg f="" g="on the tree" n="3">على الشجرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+</verb>

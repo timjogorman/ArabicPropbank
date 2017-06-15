@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>javam-ui</id>
+
+<frameset cdef="" edef="to crouch, to roost" id="01" vncls="">
+<role argnum="0" argrole="entity crouching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جثم القرد على ركبتيه</parse>
+
+<arg f="" g="the monkey" n="0">القرد</arg>
+<arg f="" g="on his knees" n="1">على ركبتيه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="manner (on hands, on knees..)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to physically stay in the same place, to sit" id="02" vncls="">
+<role argnum="0" argrole="entity staying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جثم القط وراء الباب ليفاجئ الفأر</parse>
+
+<arg f="" g="the cat" n="0">القط</arg>
+<arg f="" g="behind the door" n="1">وراء الباب</arg>
+<arg f="prp" g="to surprise the mouse" n="m">ليفاجئ الفأر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="place" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

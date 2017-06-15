@@ -1,0 +1,86 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoHam~is</id>
+<frameset cdef="" edef="To enthuse" id="01" vncls="">
+<role argnum="0" argrole="Enthusiastic entity" vncls="" vntheta=""/>
+<role argnum="1" argrole="Enthusiastic to what" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+          (NP-TPC-2
+            (NP
+              (NOUN+CASE_DEF_ACC معيار)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الاستقرار)
+                (DET+ADJ+CASE_DEF_GEN الحكومي)))
+            (CONJ و)
+            (NP
+              (NOUN+CASE_DEF_ACC اضطراب)
+              (NP
+                (POSS_PRON_3MS ه))))
+          (VP
+            (PV+PVSUFF_SUBJ:3MS استمر)
+            (NP-SBJ
+              (-NONE- *T*-2))
+            (NP-PRD
+              (NOUN+CASE_DEF_ACC رهن)
+              (NP
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN العلاقة)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الشخصية))
+                (NP-ADV
+                  (NOUN+CASE_DEF_ACC بين)
+                  (NP
+                    (NP
+                      (NOUN_PROP لحود)
+                      (CONJ و)
+                      (DET+NOUN_PROP الحريري))
+                    (SBAR
+                      (WHNP-3
+                        (REL_PRON اللذين))
+                      (S
+                        (VP
+                          (PRT
+                            (NEG_PART لم))
+                          (IV3MD+IV+IVSUFF_SUBJ:D_MOOD:SJ يتحمسا)
+                          (NP-SBJ
+                            (-NONE- *T*-3))
+                          (PP-CLR
+                            (PREP ل)
+                            (NP
+                              (NP
+                                (NOUN+CASE_INDEF_GEN اقتراح))
+                              (SBAR
+                                (WHNP-4
+                                  (-NONE- 0))
+                                (S
+                                  (VP
+                                    (IV3MS+IV+IVSUFF_MOOD:I يجعل)
+                                    (NP-SBJ
+                                      (-NONE- *T*-4))
+                                    (NP-OBJ-5
+                                      (NOUN+CASE_DEF_ACC مرسوم)
+                                      (NP
+                                        (NOUN+CASE_DEF_GEN تنظيم)
+                                        (NP
+                                          (NOUN+CASE_DEF_GEN اعمال)
+                                          (NP
+                                            (NOUN+CASE_DEF_GEN مجلس)
+                                            (NP
+                                              (DET+NOUN+CASE_DEF_GEN الوزراء))))))
+                                    (S
+                                      (NP-SBJ
+                                        (-NONE- *-5))
+                                      (NP-PRD
+                                        (NOUN+CASE_INDEF_ACC قانوناً))))))))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="they" n="0">-NONE- *T*-3&lt;اللذين</arg>
+<arg f="" g="For the proposal to make the decree regulating the cabinet law" n="1">لاقتراح يجعل مرسوم  تنظيم اعمال مجلس الوزراء قانوناً</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset taHam~as.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on taHam~as</comment>
+</verb>

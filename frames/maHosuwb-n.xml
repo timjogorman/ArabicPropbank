@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maHosuwb</id>
+
+<frameset cdef="" edef="calculated, computed" id="01" vncls="">
+<role argnum="1" argrole="calculated thing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>برنامج حفل زواج كيت ميدلتون والأمير ويليام يتبع برنامجا محسوبا بالدقائق</parse>
+
+<arg f="" g="a program" n="1">برنامجا</arg>
+<arg f="" g="per minute" n="2">بالدقائق</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="in what?" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to be considlered belonging to other group" id="02" vncls="">
+<role argnum="1" argrole="entity consedered" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دي هي محسوبة * علينا</parse>
+<comment/>
+<arg f="" g="she" n="1">* دي</arg>
+<arg f="" g="on us" n="2">علينا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="which group" vncls="" vntheta=""/>
+</frameset>
+</verb>

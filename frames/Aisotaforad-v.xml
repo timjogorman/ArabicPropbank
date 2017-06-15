@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotaforad</id>
+<comment/>
+<frameset cdef="" edef="to perform singlehandedly, to be alone with" id="01" vncls="">
+<role argnum="0" argrole="entity being alone" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو عايز يستفرد * بيك</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="with you" n="1">بيك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARz</comment>
+<role argnum="1" argrole="with what or whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

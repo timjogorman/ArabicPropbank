@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Sanodaq</id>
+
+<frameset cdef="" edef="to put into a box/ to package" id="01" vncls="">
+<role argnum="0" argrole="entity putting/packaging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>صندق الرجل حاجياته</parse>
+
+
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his belongings" n="1">حاجياته</arg>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity boxed" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

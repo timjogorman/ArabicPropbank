@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inojamaE</id>
+
+<frameset cdef="" edef="to become combined" id="01" vncls="">
+<role argnum="0" argrole="agent, entity causing some grouping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انجمع المحرك بالسيارة</parse>
+
+<arg f="" g="the engine" n="1">المحرك</arg>
+<arg f="" g="with the car body" n="2">بالسيارة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things combined or collected" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what (if seperate from ARG1) or for what purpose" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be collected" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انجمع الأثاث بسرعة</parse>
+
+<arg f="" g="the furnitures" n="1">الأثاث</arg>
+<arg f="mnr" g="quickly" n="m">بسرعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing collected" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

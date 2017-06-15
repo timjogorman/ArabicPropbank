@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Halab-u</id>
+<comment/>
+<frameset cdef="" edef="to milk" id="01" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حلب المزارع البقرة</parse>
+<comment/>
+<arg f="" g="the farmer" n="0">المزارع</arg>
+<arg f="" g="the cow" n="1">البقرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity milked" vncls="" vntheta=""/>
+</frameset>
+</verb>

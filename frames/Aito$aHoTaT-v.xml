@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$aHoTaT</id>
+<comment/>
+<frameset cdef="" edef="be made homeless" id="01" vncls="">
+<role argnum="1" argrole="entity becoming homeless" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل اتشحطط * في الشوارع</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="loc" g="in thge street" n="m">في الشوارع</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

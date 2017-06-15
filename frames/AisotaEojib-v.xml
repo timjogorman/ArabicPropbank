@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotaEojib</id>
+<comment/>
+<frameset cdef="" edef="to wonder at or to marvel at" id="01" vncls="">
+<role argnum="1" argrole="entity wondring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا باستعجب * من اللي بيحصل</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="from what is happening" n="2">من اللي بيحصل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

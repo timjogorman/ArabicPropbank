@@ -1,0 +1,161 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faraq</id>
+
+<frameset cdef="" edef="to separate" id="01" vncls="">
+<role argnum="0" argrole="entity separating" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity separated" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (IV3FS+IV+IVSUFF_MOOD:I تجري)
+    (NP-SBJ
+      (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM عملية)
+      (NP
+        (NOUN+CASE_DEF_GEN اصلاح)
+        (NP
+          (NP
+            (NP
+              (DET+NOUN+CASE_DEF_GEN السكك))
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الحديد)))
+          (CONJ و)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الطرق)))))
+    (PP-MNR
+      (PREP ب)
+      (NP
+        (NP
+          (DET+NOUN+CASE_DEF_GEN التزامن))
+        (NP-ADV
+          (NOUN+CASE_DEF_ACC مع)
+          (NP
+            (NP
+              (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN مناقشات))
+            (NP-ADV
+              (NOUN+CASE_DEF_ACC بين)
+              (NP
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN الصليب)
+                  (DET+ADJ+CASE_DEF_GEN الاحمر))
+                (PP-LOC
+                  (PREP في)
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_DU_GEN الكوريتين)))))
+            (PP
+              (PREP ب)
+              (NP
+                (NOUN+CASE_DEF_GEN خصوص)
+                (NP
+                  (NP
+                    (NOUN+CASE_DEF_GEN بناء)
+                    (NP
+                      (NP
+                        (NOUN+CASE_INDEF_GEN مركز)
+                        (ADJ+CASE_INDEF_GEN دائم))
+                      (PP
+                        (PREP ل)
+                        (NP
+                          (NOUN+CASE_DEF_GEN جمع)
+                          (NP
+                            (NOUN+CASE_DEF_GEN شمل)
+                            (NP
+                              (NP
+                                (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN العائلات))
+                              (SBAR
+                                (WHNP-1
+                                  (REL_PRON التي))
+                                (S
+                                  (VP
+ (PV+PVSUFF_SUBJ:3FS فرقت)
+                                    (NP-OBJ
+                                      (NP
+                                        (PVSUFF_DO:3FS ها))
+                                      (NP
+                                        (-NONE- *T*-1)))
+                                    (NP-SBJ
+                                      (DET+NOUN+CASE_DEF_NOM الحرب)
+                                      (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM الكورية)))))))))))
+                  (NP-LOC
+                    (NOUN+CASE_DEF_ACC بين)
+                    (NP
+                      (NOUN+NSUFF_MASC_DU_GEN_POSS جانبي)
+                      (NP
+                        (NOUN+CASE_DEF_GEN شبه)
+                        (NP
+                          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجزيرة)
+                          (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الكورية)))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="the Korean war" n="0">الحرب الكورية</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+
+<comment>Based on roleset far~aq.01</comment>
+</frameset>
+
+
+    <frameset cdef="" edef="to matter / make a difference / be of importance" id="03" vncls="">
+<role argnum="1" argrole="thing that matters" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الموضوع ما بيفرقش * معي</parse>
+
+<arg f="" g="-NONE- &gt; the subject" n="1">* &gt; الموضوع</arg>
+<arg f="" g="to me" n="2">معي</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="matters to whom" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+
+
+<frameset cdef="" edef="to be diferent" id="04" vncls="">
+<role argnum="1" argrole="first entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الكتاب ده مش حيفرق * عن الأولاني</parse>
+
+<arg f="" g="this book" n="1">* الكتاب ده</arg>
+<arg f="" g="from the first one" n="2">عن الأولاني</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="second entity" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on far~aq and faraq-u</comment>
+</verb>

@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>xazaY</id>
+<frameset cdef="" edef="subjugate" id="01" vncls="">
+<role argnum="0" argrole="subjugator" vncls="" vntheta="" />
+<role argnum="1" argrole="subjugated" vncls="" vntheta="" />
+<role argnum="2" argrole="instrument" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>أذل الفريق منافسه بهزيمة قاسية</parse>
+<arg f="" g="the team" n="0">الفريق</arg>
+<arg f="" g="competitor" n="1">منافسه</arg>
+<arg f="" g="by a crushing defeat" n="2">بهزيمة قاسية</arg>
+<comment />
+</example>
+<comment />
+</frame>
+
+<comment>قهر / اخضع/  استعبد
+Based on roleset OaXal~-v.01</comment>
+</frameset>
+<frameset cdef="" edef="degrade" id="02" vncls="">
+<role argnum="0" argrole="causer of degradation" vncls="" vntheta="" />
+<role argnum="1" argrole="entity degraded" vncls="" vntheta="" />
+<role argnum="2" argrole="instrument, if separate from arg 0" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (NP-SBJ
+    (PRON_3MS هو))
+  (NP-PRD
+    (NP
+      (DET+NOUN+CASE_DEF_NOM الشاعر))
+    (SBAR
+      (WHNP-1
+        (REL_PRON الذي))
+      (S
+        (VP
+          (PRT
+            (NEG_PART لم))
+          (IV3MS+IV+IVSUFF_MOOD:J يستطع)
+          (NP-SBJ
+            (DET+NOUN+CASE_DEF_NOM المال))
+          (SBAR
+            (SUB_CONJ أن)
+            (S
+              (VP
+                (IV3MS+IV+IVSUFF_MOOD:S يذل)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (NP
+                    (IVSUFF_DO:3MS ّه))
+                  (NP
+                    (-NONE- *T*-1))))))))))
+  (PUNC :))</parse>
+<arg f="" g="it" n="0">-NONE- *&lt; المال</arg>
+<arg f="" g="he" n="1">ه</arg>
+<comment />
+</example>
+<comment />
+</frame>
+
+<comment>أهان / أخزى
+Based on roleset OaXal~-v.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on OaXal~-v</comment>
+</verb>

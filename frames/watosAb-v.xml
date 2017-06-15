@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>watosAb</id>
+<comment/>
+<frameset cdef="" edef="to use wat'sup to contact someone" id="01" vncls="">
+<role argnum="0" argrole="caller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (NP-TPC-1
+      (NOUN مُوبايْل)
+      (NP
+        (POSS_PRON_1S ِي)))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS فَصَل)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-TMP
+        (NOUN بَعْد)
+        (SBAR
+          (SUB_CONJ ما)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:1S وَتسابت)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (PVSUFF_DO:2FS ِك)))))))))</parse>
+<comment/>
+<arg f="" g="me" n="0">* ي</arg>
+<arg f="" g="you" n="1">ك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="second party" vncls="" vntheta=""/>
+</frameset>
+</verb>

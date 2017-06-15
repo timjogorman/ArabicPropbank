@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaboTal</id>
+
+<frameset cdef="" edef="to annul, to cancle, to revoke, to neutralize" id="01" vncls="">
+<role argnum="0" argrole="entity canceling or revoking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أبطل رجال الامن القنبلة التي كانت داخل المبنى</parse>
+
+<arg f="" g="security men" n="0">رجال الامن</arg>
+<arg f="" g="the bomb" n="1">القنبلة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things cancled" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="how" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

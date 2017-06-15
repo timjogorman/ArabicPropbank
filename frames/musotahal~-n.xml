@@ -1,0 +1,18 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>musotahal~</id>
+<frameset cdef="" edef="beginning, start" id="01" vncls="">
+<role argnum="1" argrole="beginning of what" vncls="" vntheta=""/>
+
+<frame>
+<example>
+<parse>وفي مستهل الحفلة، وجّه خليفة «تحية خاصة إلى الشعب التونسي العظيم» الذي فجر أولى ثورات الربيع العربي</parse>
+<arg f="" g="the party" n="1">الحفلة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

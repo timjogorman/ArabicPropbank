@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wamaD-i</id>
+<comment/>
+<frameset cdef="" edef="to shine or glitter, to glisten" id="01" vncls="">
+<role argnum="1" argrole="entity shining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ومض البرق في السماء</parse>
+<comment/>
+<arg f="" g="the lightning" n="1">البرق</arg>
+<arg f="loc" g="in the sky" n="m">في السماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>faraz</id>
+<comment>EGYPTIAN ARABIC based on faraz-i</comment>
+    <frameset cdef="" edef="to separate, to isolate" id="01" vncls="">
+<role argnum="0" argrole="entity separating" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>فرزت المرأة الحجر عن العدس</parse>
+<comment />
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="" g="the stones" n="1">الحجر</arg>
+<arg f="" g="the lentils" n="2">عن العدس</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset faraz-i.01</comment>
+<role argnum="1" argrole="things separated" vncls="" vntheta="" />
+<role argnum="2" argrole="from what" vncls="" vntheta="" />
+</frameset>
+</verb>

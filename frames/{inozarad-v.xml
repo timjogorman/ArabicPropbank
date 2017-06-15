@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inozarad</id>
+
+<frameset cdef="" edef="to be gulpped" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انزرد الطعام بسرعة</parse>
+
+<arg f="" g="food" n="1">الطعام</arg>
+<arg f="mnr" g="very fast" n="m">بسرعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="food or drink" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be strangled" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انزرد الرجل بالحبل</parse>
+
+<arg f="" g="the man" n="1"/>
+<arg f="" g="with a rope" n="2"/>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity strangled" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to be weaved or knitted" id="03" vncls="">
+<role argnum="0" argrole="entity weaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كانت المرأة تزرد * الثوب من خيوط الصوف</parse>
+<comment/>
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="" g="the dress" n="1">الثوب</arg>
+<arg f="" g="from the wool strings" n="2">من خيوط الصوف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things weaved" vncls="" vntheta=""/>
+<role argnum="2" argrole="material" vncls="" vntheta=""/>
+</frameset>
+</verb>

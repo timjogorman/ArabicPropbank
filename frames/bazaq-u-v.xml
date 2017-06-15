@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bazaq-u</id>
+<comment/>
+<frameset cdef="" edef="to spit" id="01" vncls="">
+<role argnum="0" argrole="entity spitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بزق الرجل على الأرض</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on the floor" n="1">على الأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim, or where" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ham~ar</id>
+<comment/>
+<frameset cdef="" edef="to redden, to make red" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وَ)
+    (NP-ADV
+      (ADJ_NUM أَوَّل)
+      (SBAR
+        (SUB_CONJ ما)
+        (S
+          (NP-TPC-1
+            (NOUN_PROP أَمْرِيكا))
+          (VP
+            (PV+PVSUFF_SUBJ:3FS حَمَّرِت)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (NOUN عِين)
+              (NP
+                (POSS_PRON_3FS ها)))))))
+    (VP
+      (X
+        (PV+PVSUFF_SUBJ:3P عَمَلُوا)
+        (PVSUFF_DO:3MS ُه))
+      (NP-SBJ-2
+        (-NONE- *))
+      (PP
+        (PREP فِي)
+        (NP
+          (PRON_3FS ها)))
+      (S
+        (NP-SBJ
+          (-NONE- *-2))
+        (NP-PRD
+          (NOUN قُطَط))))))</parse>
+<comment/>
+<arg f="" g="America" n="0">*T* -1 أَمْرِيكا</arg>
+<arg f="" g="it's eye" n="1">عِينها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

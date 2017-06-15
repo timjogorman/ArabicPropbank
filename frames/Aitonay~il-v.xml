@@ -1,0 +1,89 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitonay~il</id>
+<frameset cdef="" edef="to fail" id="01" vncls="">
+<role argnum="0" argrole="entity failing" vncls="" vntheta=""/>
+<role argnum="1" argrole="failing at what" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(NP-TPC-1
+      (DET+NOUN+CASE_DEF_NOM الجليد))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS سيطر)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (PP-CLR
+        (PREP على)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الطرق)))))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS أعاق)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (DET+NOUN+CASE_DEF_ACC المرور))))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS أحكم)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NP
+          (NOUN+CASE_DEF_ACC اقفال)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN المدارس)))
+        (PP
+          (PREP في)
+          (NP
+            (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_ACC المرتفعات))))
+      (PUNC ,)
+      (NP-TMP
+        (NOUN+CASE_DEF_ACC بعد)
+        (SBAR
+          (SUB_CONJ ما)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS فشل)
+              (NP-SBJ
+                (DET+NOUN+CASE_DEF_NOM الطلاب))
+              (PP-CLR
+                (PREP في)
+                (NP
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN الوصول))
+                  (PP
+                    (PREP الى)
+                    (NP
+                      (PRON_3FS ها)))</parse>
+<arg f="" g="Student" n="0">الطلاب</arg>
+<arg f="" g="in reach to it" n="1">في الوصول اليها</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset fa$il-a-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on fa$il-a-v</comment>
+<frameset cdef="" edef="to shut up (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity not talking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو أتنيل * على عينه ووقع</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="and fell down" n="1">على عينه ووقع</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="attribute to ARG0" vncls="" vntheta=""/>
+</frameset>
+</verb>

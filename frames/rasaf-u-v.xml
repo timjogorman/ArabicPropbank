@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rasaf-u</id>
+<comment/>
+<frameset cdef="" edef="to walk slowley in chains" id="01">
+<role argnum="0" argrole="entity walking"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رسف السجين في القيد</parse>
+<comment/>
+<arg f="" g="prisoner" n="0">السجين</arg>
+<arg f="" g="in chain" n="1">في القيد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what"/>
+</frameset>
+</verb>

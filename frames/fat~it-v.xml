@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>fat~it</id>
+<frameset cdef="" edef="to fragment, break into pieces" id="01" vncls="">
+<role argnum="0" argrole="the fragmenter" vncls="" vntheta="" />
+<role argnum="1" argrole="thing fragmented" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS اضاف)
+    (NP-SBJ
+      (NOUN_PROP خوري))
+    (PUNC :)
+    (S
+      (PUNC &quot;)
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:1P اضطررنا)
+          (NP-SBJ
+            (-NONE- *))
+          (PP-LOC
+            (PREP في)
+            (NP
+              (DET+NOUN_PROP الشام)))
+          (PP-CLR
+            (PREP ل)
+            (SBAR
+              (SUB_CONJ أن)
+              (S
+                (VP
+                  (IV1P+IV+IVSUFF_MOOD:S نشهد)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (NP-OBJ
+                    (NP
+                      (NOUN+CASE_INDEF_ACC أمرا)
+                      (ADJ+CASE_INDEF_ACC فظيعا))
+                    (SBAR
+                      (SBAR
+                        (WHNP-1
+                          (-NONE- 0))
+                        (S
+                          (VP
+                            (IV3MS+IV+IVSUFF_MOOD:I يفتت)
+                            (NP-SBJ
+                              (-NONE- *T*-1))
+                            (NP-OBJ
+                              (DET+NOUN+CASE_DEF_ACC الاكباد)))))</parse>
+<arg f="" g="bad thing" n="0">-NONE- *T*-1أمرا فظيعا</arg>
+<arg f="" g="the heart" n="1">الاكباد</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset fat~at-v.01</comment>
+<role argnum="2" argrole="how, instrument" vncls="" vntheta="" />
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on fat~at-v</comment>
+</verb>

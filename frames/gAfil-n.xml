@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gAfil</id>
+<comment/>
+<frameset cdef="" edef="inattentive, unmindful" id="01" vncls="">
+<role argnum="0" argrole="entity not paying attention" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كل هذا والأب غافل * عما يجري في بيته</parse>
+<comment/>
+<arg f="" g="the father" n="0">* والأب</arg>
+<arg f="" g="about what was going in his house" n="1">عما يجري في بيته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinoHal~</id>
+
+<frameset cdef="" edef="to be solved" id="01" vncls="">
+<role argnum="0" argrole="solver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الموضوع انحل * قبل ما نيجي</parse>
+
+<arg f="" g="the subject" n="1">* الموضوع</arg>
+<arg f="tmp" g="before we came" n="m">قبل ما نيجي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the problem" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="to be dissolve / to come apart" id="02" vncls="">
+<role argnum="0" argrole="causer, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الجيش انحل * امبارح</parse>
+
+<arg f="" g="the army" n="1">* الجيش</arg>
+<arg f="tmp" g="yesterday" n="m">امبارح</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing dissolving" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

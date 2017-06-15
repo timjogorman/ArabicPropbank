@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taHAmaY</id>
+<comment/>
+<frameset cdef="" edef="to guard against, to avoid, to shun" id="01">
+<role argnum="0" argrole="entity guarding"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تحامى الرجل ارتكاب الاثم</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="commiting a sin" n="1">ارتكاب الاثم</arg>
+</example>
+<comment/>
+</frame>
+<comment>اتقى ,  توقى‏</comment>
+<role argnum="1" argrole="against what"/>
+</frameset>
+</verb>

@@ -1,0 +1,99 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fiDil</id>
+
+<frameset cdef="" edef="to remain, to be left over" id="01" vncls="">
+<role argnum="1" argrole="left over one" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فضل هذا المبلغ من المبلغ الكلي</parse>
+
+<arg f="" g="this amount of money" n="1">هذا المبلغ</arg>
+<arg f="" g="from the original money" n="2">من المبلغ الكلي</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="the origin" vncls="" vntheta=""/>
+
+<comment>Based on roleset faDal-u-v.01</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC Framefile based on faDal-u-v</comment>
+<frameset cdef="" edef="to become" id="02" vncls="">
+<role argnum="1" argrole="entity becoming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PRT
+        (FUT_PART حَ))
+      (IV3MS+IV يِفضَل)
+      (NP-SBJ
+        (DET+NOUN الدَمّ)
+        (DET+ADJ العَرَبِي))
+      (ADJP-PRD
+        (ADJ رِخِيص))
+      (NP-ADV
+        (NOUN قُدّام)
+        (NP
+          (NOUN_QUANT أَيّ)
+          (NP
+            (ADJ أَجْنَبِي)))))))</parse>
+<comment/>
+<arg f="" g="the Arab blood" n="1">الدم العربي</arg>
+<arg f="" g="cheap" n="2">رِخِيص</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="2" argrole="new state" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to continue doing something" id="03" vncls="">
+<role argnum="1" argrole="entity continuing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده أحنا حنفضل * نغني</parse>
+<comment/>
+<arg f="" g="we" n="1">* أحنا</arg>
+<arg f="" g="singing" n="2">نغني</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="2" argrole="doing what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to stay at a place" id="04" vncls="">
+<role argnum="1" argrole="entity staying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هي فضلت * في العربية</parse>
+<comment/>
+<arg f="" g="she" n="1">* هي</arg>
+<arg f="" g="in the car" n="2">في العربية</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

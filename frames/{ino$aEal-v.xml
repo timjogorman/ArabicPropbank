@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ino$aEal</id>
+<comment/>
+<frameset cdef="" edef="" id="01" vncls="">
+<role argnum="1" argrole="entity started" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انشعل المحرك بالمفتاح</parse>
+<comment/>
+<arg f="" g="the engine" n="1">المحرك</arg>
+<arg f="" g="with the key" n="2">بالمفتاح</arg>
+</example>
+<comment/>
+</frame>
+<comment>to be sparked or started</comment>
+<role argnum="2" argrole="instrument, how" vncls="" vntheta=""/>
+</frameset>
+</verb>

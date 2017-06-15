@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daniO</id>
+<comment/>
+<frameset cdef="" edef="to become mean or lowly" id="01" vncls="">
+<role argnum="1" argrole="entity becoming lowly" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دنأ الرجل</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

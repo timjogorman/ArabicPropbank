@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>yabis</id>
+<comment/>
+<frameset cdef="" edef="dried up, to become dry or hard" id="01" vncls="">
+<role argnum="1" argrole="entity get dry" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يبس الغصن بعد قطعه بسرعة</parse>
+<comment/>
+<arg f="" g="the tree branch" n="1">الغصن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

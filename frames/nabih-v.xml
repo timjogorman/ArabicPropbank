@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nabih</id>
+<comment/>
+<frameset cdef="" edef="to notice, to pay attention to" id="01" vncls="">
+<role argnum="0" argrole="entity noticing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نبه الرجل للخطر</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to the danger" n="1">للخطر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things noticed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to wake up" id="02" vncls="">
+<role argnum="1" argrole="sleeper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نبه الطفل من النوم</parse>
+<comment/>
+<arg f="" g="the baby" n="1">الطفل</arg>
+<arg f="" g="from sleeping" n="2">من النوم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="sleep (often metaphorical)" vncls="" vntheta=""/>
+</frameset>
+</verb>

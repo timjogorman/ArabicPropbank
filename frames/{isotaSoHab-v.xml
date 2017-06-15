@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaSoHab</id>
+
+<frameset cdef="" edef="to keep company with" id="01" vncls="">
+<role argnum="0" argrole="accompanier (agent)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استصحب الأب إبنته إلى حديقة الحيوانات</parse>
+
+<arg f="" g="the father" n="0"/>
+<arg f="" g="his daughter" n="1"/>
+<arg f="" g="to zoo" n="3"/>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="accompanied (patient)" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<role argnum="4" argrole="accompany in what, task" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

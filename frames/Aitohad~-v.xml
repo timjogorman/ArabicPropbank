@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitohad~</id>
+
+<frameset cdef="" edef="To be destroyed, get tired" id="01" vncls="">
+<role argnum="1" argrole="thing destroyed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>البيوت اتهدت  *  و اتحرقت</parse>
+
+<arg f="" g="the houses" n="1">* البيوت</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="instrument of destruction" vncls="" vntheta=""/>
+
+<comment>Egyptian</comment>
+</frameset>
+
+<comment/>
+</verb>

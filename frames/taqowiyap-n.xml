@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqowiyap</id>
+<comment/>
+<frameset cdef="" edef="strengthening" id="01" vncls="">
+<role argnum="0" argrole="giver of power" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يجب علينا تقوية * علاقاتنا  مع أخوتنا</parse>
+<comment/>
+<arg f="" g="us" n="0">* علينا</arg>
+<arg f="" g="our relationship" n="1">علاقاتنا</arg>
+<arg f="com" g="with our brothers" n="m">مع أخوتنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="empowered entity" vncls="" vntheta=""/>
+</frameset>
+</verb>

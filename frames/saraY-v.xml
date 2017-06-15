@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>saraY</id>
+<comment>EGYPTIAN ARABIC based on saraY-i</comment>
+    <frameset cdef="" edef="To come into  force or in operation" id="01">
+<role argnum="1" argrole="enforcer" />
+<role argnum="2" argrole="rule(s)  or agreement" />
+<frame>
+<example>
+<parse>
+(S
+        (SBAR-ADV
+          (SUB_CONJ ان)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS شاء)
+              (NP-SBJ
+                (NOUN_PROP+CASE_DEF_NOM الله)))))
+        (NP-TMP
+          (NOUN+CASE_DEF_ACC بعد)
+          (NP
+            (NOUN_NUM 3)
+            (CONJ او)
+            (NOUN_NUM 4)
+            (NP
+              (NOUN+CASE_INDEF_GEN اشهر))))
+        (VP
+          (IV3MS+IV+IVSUFF_MOOD:I يسري)
+          (NP-SBJ
+            (NOUN+CASE_DEF_NOM مفعول)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الاتفاق)))))
+</parse>
+<arg f="" g="force of the Agreement" n="1">مفعول الاتفاق</arg>
+</example>
+</frame>
+<comment>Based on roleset saraY-i.01</comment></frameset>
+</verb>

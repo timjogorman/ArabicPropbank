@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoTaw~ar</id>
+<comment/>
+<frameset cdef="" edef="To develop or evolve" id="01" vncls="">
+<role argnum="1" argrole="thing changing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البلد اتطور * في كل حاجة</parse>
+<comment/>
+<arg f="" g="the country" n="1">البلد</arg>
+<arg f="" g="in everything" n="2">في كل حاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="developed in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

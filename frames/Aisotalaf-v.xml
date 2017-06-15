@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotalaf</id>
+<comment/>
+<frameset cdef="" edef="to take in advance, to borrow" id="01" vncls="">
+<role argnum="0" argrole="borrower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا رايح أستلف * كتاب من أخويا</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="book" n="1">كتاب</arg>
+<arg f="" g="from my brother" n="2">من أخويا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing borrowed" vncls="" vntheta=""/>
+<role argnum="2" argrole="loaner" vncls="" vntheta=""/>
+<role argnum="3" argrole="collateral" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SalAH</id>
+<comment>Hugkj ./hvm hg</comment>
+<frameset cdef="" edef="fitness , suitability" id="01" vncls="">
+<role argnum="1" argrole="entity suitable" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أعلنت وزارة الصحة صلاح هذه الاطعمة المجففة للأكل</parse>
+<comment/>
+<arg f="" g="those dry food" n="1">هذه الاطعمة المجففة</arg>
+<arg f="" g="for eating" n="2">للأكل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="righteousness" id="02" vncls="">
+<role argnum="1" argrole="entity good" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سَلاَمَةُ الأُمَّةِ بِصَلاَحِ إِمَامِهَا</parse>
+<comment/>
+<arg f="" g="it's Imam" n="1">إِمَامِهَا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

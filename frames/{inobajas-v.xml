@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobajas</id>
+
+<frameset cdef="" edef="to come out, to originate" id="01" vncls="">
+<role argnum="1" argrole="entity coming out" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبجس الماءُ من الأرض</parse>
+
+<arg f="" g="water" n="1">الماءُ</arg>
+<arg f="" g="from the ground" n="2">من الأرض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

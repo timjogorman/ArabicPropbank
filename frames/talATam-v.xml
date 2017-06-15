@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>talATam</id>
+
+<frameset cdef="" edef="to exchange blows, to slap or strike one another" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تلاطم الناس فيما بينهم بالأيادي</parse>
+
+<arg f="" g="the people" n="0"/>
+<arg f="" g="with each other" n="1"/>
+<arg f="" g="with hands" n="2"/>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<role argnum="3" argrole="where, part hit" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to clash, to collide" id="02" vncls="">
+<role argnum="1" argrole="entity clashing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تلاطمت الأمواج بالصخور</parse>
+
+<arg f="" g="the waves" n="1">الأمواج</arg>
+<arg f="" g="with the rocks" n="2">بالصخور</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="into what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

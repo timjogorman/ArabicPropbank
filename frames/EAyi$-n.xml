@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAyi$</id>
+<comment/>
+<frameset cdef="" edef="living" id="01" vncls="">
+<role argnum="0" argrole="alive entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو عايش * برات البلد</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="outside the country" n="2">برات البلد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="a state or location" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="experiencing" id="02" vncls="">
+<role argnum="0" argrole="experiencer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>احنا عايشين * في الحزن</parse>
+<comment/>
+<arg f="" g="we" n="0">* احنا</arg>
+<arg f="" g="in sadness" n="1">في الحزن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="experience" vncls="" vntheta=""/>
+</frameset>
+</verb>

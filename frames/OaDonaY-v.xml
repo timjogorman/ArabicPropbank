@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaDonaY</id>
+<comment/>
+<frameset cdef="" edef="to exhaust, to wear out" id="01">
+<role argnum="0" argrole="causer"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أضناه المرض</parse>
+<comment/>
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="the sikness" n="0">المرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim"/>
+</frameset>
+</verb>

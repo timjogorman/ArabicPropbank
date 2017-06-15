@@ -1,30 +1,52 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>OaHoraz</id>
-    <frameset edef="to obtain / get" id="01">
-        <role argnum="0" argrole="receiver"/>
-        <role argnum="1" argrole="thing gotten"/>
-        <frame>
-            <mapping>
-                <V/>
-                <mapitem src="sbj" trg="arg0"/>
-            </mapping>
-            <example>
-                <parse>
-                    (S (and/so Mfa- M فَ-)
-                    (VP (VP (PRT ( M-qad M -قَد))
-                    (gain/win/preserve+he/it MOaHoraza M أَحْرَزَ)
-                    (NP-SBJ=1 (club/association MnAdiy M نادِي)
-                    (the+Maadi_ MAlmaEAdiy M المَعادِي))
-                    (NP-OBJ=2 (title/nickname Mlaqaba M لَقَبَ)
-                    (NP (groups/teams/troupes Mfiraqi M فِرَقِ)
-                    (NP (the+men/people MAlr~ijAli M الرِّجالِ)))))
-                </parse>
-                <arg g="Al Maadi Club" n="0">nAdiy AlmaEAdiy</arg>
-                <arg g="the mens championship" n="1">laqaba firaqi Alr~ijAli</arg>
-                <arg f="dis" g="indeed" n="m">-qad</arg>
-                <V/>
-            </example>
-        </frame>
-    </frameset>
+<id>OaHoraz</id>
+<frameset cdef="" edef="to obtain / get" id="01" vncls="">
+<role argnum="0" argrole="receiver" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing gotten" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+<comment/>
+</mapping>
+<example>
+<parse>(S (and/so Mfa- M فَ-)
+   (VP (VP (PRT ( M-qad M -قَد))
+           (gain/win/preserve+he/it MOaHoraza M أَحْرَزَ)
+           (NP-SBJ=1 (club/association MnAdiy M نادِي)
+                     (the+Maadi_ MAlmaEAdiy M المَعادِي))
+           (NP-OBJ=2 (title/nickname Mlaqaba M لَقَبَ)
+                     (NP (groups/teams/troupes Mfiraqi M فِرَقِ)
+                         (NP (the+men/people MAlr~ijAli M الرِّجالِ)))))</parse>
+<arg f="" g="Al Maadi Club" n="0">nAdiy AlmaEAdiy</arg>
+<arg f="" g="the mens championship" n="1">laqaba firaqi Alr~ijAli</arg>
+<arg f="dis" g="indeed" n="m">-qad</arg>
+<V/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to score" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أحرز اللاعب سامر هدفا قاتلا في مرمى الفريق الاخر</parse>
+<comment/>
+<arg f="" g="the player Samer" n="0">اللاعب سامر</arg>
+<arg f="" g="a killing goal" n="1">هدفا قاتلا</arg>
+<arg f="" g="in the goal of the other team" n="2">في مرمى الفريق الاخر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="scoring what" vncls="" vntheta=""/>
+<role argnum="2" argrole="opponent" vncls="" vntheta=""/>
+</frameset>
 </verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maXAq</id>
+<comment/>
+<frameset cdef="" edef="taste , flavor" id="01" vncls="">
+<role argnum="1" argrole="entity having the test" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مذاق بعض الناس في الأفلام سيء جدا</parse>
+<comment/>
+<arg f="" g="some people" n="1">بعض الناس</arg>
+<arg f="" g="in movies" n="2">في الأفلام</arg>
+<arg f="" g="very bad" n="3">سيء جدا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<role argnum="3" argrole="the test" vncls="" vntheta=""/>
+</frameset>
+</verb>

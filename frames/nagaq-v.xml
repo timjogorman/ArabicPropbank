@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nagaq</id>
+<comment/>
+<frameset cdef="" edef="to shout , to craw" id="01" vncls="">
+<role argnum="0" argrole="entity shouting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نغق الغراب</parse>
+<comment/>
+<arg f="" g="the craw" n="0">الغراب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

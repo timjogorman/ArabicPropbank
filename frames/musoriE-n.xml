@@ -1,0 +1,87 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>musoriE</id>
+<comment>EGYPTIAN ARABIC Framefile based on OasoraE</comment>
+<frameset cdef="" edef="to hurry, to hasten" id="01" vncls="">
+<role argnum="1" argrole="entity hurrying" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(NP
+          (DET+NOUN الرَجُل))
+        (ADJP
+          (DET+ADJ المُجْرِم)
+          (PP
+            (PREP بِ)
+            (NP
+              (NOUN+NSUFF_FEM_SG نَشْأِت)
+              (NP
+                (POSS_PRON_3MS ُه))))))
+      (NAC
+        (CONJ وِ)
+        (SBAR
+          (SBAR
+            (WHNP-1
+              (REL_PRON الَّذِي))
+            (S
+              (VP
+                (IV3FS+IV تِرتِسِم)
+                (PP-CLR
+                  (PREP عَلَى)
+                  (NP
+                    (NOUN وَجْه)
+                    (NP
+                      (NP
+                        (POSS_PRON_3MS ُه))
+                      (NP
+                        (-NONE- *T*-1)))))
+                (NP-SBJ
+                  (NOUN+NSUFF_FEM_PL آيات)
+                  (NP
+                    (NP
+                      (DEM_PRON_MS هٰذا))
+                    (NP
+                      (DET+NOUN الإِجْرام)))))))
+          (CONJ وِ)
+          (SBAR
+            (SBAR
+              (WHNP-2
+                (REL_PRON الَّذِي))
+              (S
+                (VP
+                  (PV+PVSUFF_SUBJ:3MS كان)
+                  (VP
+                    (IV3MS+IV يِخْطِف)
+                    (NP-SBJ
+                      (-NONE- *T*-2))
+                    (PP
+                      (PREP مِنّ)
+                      (NP
+                        (PRON_2MS َك)))
+                    (NP-OBJ
+                      (NOUN شَئ))))))
+            (CONJ وَ)
+            (SBAR
+              (WHNP-6
+                (-NONE- 0))
+              (S
+                (VP
+                  (IV3MS+IV يُسْرِع)
+                  (NP-SBJ-5
+                    (-NONE- *T*-6))
+                  (S-ADV
+                    (VP
+                      (ADJ.VN+CASE_INDEF_ACC هارِباً)
+                      (NP-SBJ
+                        (-NONE- *-5)))))))</parse>
+<comment />
+<arg f="" g="the man" n="1">* T -6 الرَجُل</arg>
+<arg f="" g="to run away" n="2">هارِباً</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset OasoraE.01</comment>
+<role argnum="2" argrole="to what" vncls="" vntheta="" />
+</frameset>
+</verb>

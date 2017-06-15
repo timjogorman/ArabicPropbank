@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitomaroqaE</id>
+<comment/>
+<frameset cdef="" edef="make faces, play the dandy" id="01" vncls="">
+<role argnum="0" argrole="entity making faces" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبني قاعد يتمرقع * اليومين دول</parse>
+<comment/>
+<arg f="" g="my son" n="0">* أبني</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

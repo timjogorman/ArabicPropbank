@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaxaf~</id>
+<comment/>
+<frameset cdef="" edef="to find light, to disparage, to under value" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<comment/>
+<example>
+<parse>استخف الرجل الحمل</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the load" n="1">الحمل</arg>
+</example>
+<example>
+<parse>استخف الرجل بكلامي</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with my words" n="1">بكلامي</arg>
+</example>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing seems light" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to carry away, to ravish" id="02" vncls="">
+<role argnum="0" argrole="entity carrying away" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استخفه الغناء والطرب</parse>
+<comment/>
+<arg f="" g="he" n="0">ه</arg>
+<arg f="" g="singing and joy" n="1">الغناء والطرب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to provoke or excite" id="03" vncls="">
+<role argnum="0" argrole="agent, causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استخف الرجل أخاه بكلامه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="with his talking" n="2">بكلامه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity proveked" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

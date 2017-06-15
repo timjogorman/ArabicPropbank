@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotalaX~</id>
+<comment/>
+<frameset cdef="" edef="find delightful, take pleasure in" id="01" vncls="">
+<role argnum="0" argrole="enjoyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البنت استلذت * قعدة البيت</parse>
+<comment/>
+<arg f="" g="the girl" n="0">* البنت</arg>
+<arg f="" g="sitting at home" n="1">قعدة البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing enjoyed" vncls="" vntheta=""/>
+</frameset>
+</verb>

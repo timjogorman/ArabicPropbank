@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rajal-u</id>
+<comment/>
+<frameset cdef="" edef="to go on feet" id="01" vncls="">
+<role argnum="0" argrole="entity walking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رجل الرجل الى بيته</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to his house" n="1">الى بيته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to hang by foot" id="02" vncls="">
+<role argnum="0" argrole="hanger" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رجل القصاب الشاة</parse>
+<comment/>
+<arg f="" g="the butcher" n="0">القصاب</arg>
+<arg f="" g="the sheep" n="1">الشاة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="hanged" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

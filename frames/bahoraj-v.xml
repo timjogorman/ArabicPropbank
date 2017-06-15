@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bahoraj</id>
+<comment/>
+<frameset cdef="" edef="to decorate something" id="01" vncls="">
+<role argnum="0" argrole="entity decorating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بهرجت الأم البيت بالازهار</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="with flowers" n="2">بالازهار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity decorated" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

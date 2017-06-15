@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mu$Ahadap</id>
+<comment/>
+<frameset cdef="" edef="seeing, watching, witnessing" id="01" vncls="">
+<role argnum="0" argrole="watcher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا احب مشاهدة * افلام الكرتون</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="the animated movies" n="1">افلام الكرتون</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing looked at" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute of arg 1" vncls="" vntheta=""/>
+</frameset>
+</verb>

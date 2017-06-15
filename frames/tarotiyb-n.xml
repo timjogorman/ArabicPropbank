@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarotiyb</id>
+<comment/>
+<frameset cdef="" edef="preparing, organizing, making ready" id="01" vncls="">
+<role argnum="0" argrole="organizer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الطلبة بترتيب * الكتب</parse>
+<comment/>
+<arg f="" g="the students" n="0">الطلبة</arg>
+<arg f="" g="the books" n="1">الكتب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing organized" vncls="" vntheta=""/>
+</frameset>
+</verb>

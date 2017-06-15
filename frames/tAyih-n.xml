@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tAyih</id>
+<comment/>
+<frameset cdef="" edef="missing, wasted or lost" id="01" vncls="">
+<role argnum="1" argrole="entity missing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل تايه * في شغله</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="loc" g="in his work" n="m">في شغله</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

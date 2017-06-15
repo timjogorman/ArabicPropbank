@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>naqaT</id>
+<comment>EGYPTIAN ARABIC based on naq~aT</comment>
+    <frameset cdef="" edef="to drive someone crazy" id="04" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>الواد ده عايز ينضرب ده حينقط * ني باللي بيعمله</parse>
+
+<arg f="" g="the boy" n="0">* الواد</arg>
+<arg f="" g="me" n="1">ني</arg>
+<arg f="" g="with what he is doing" n="2">باللي بيعمله</arg>
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="entity driven crazy" vncls="" vntheta="" />
+<role argnum="2" argrole="with what" vncls="" vntheta="" />
+
+<comment>Based on roleset naq~aT.04</comment>
+</frameset>
+
+</verb>

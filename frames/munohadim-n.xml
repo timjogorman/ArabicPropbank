@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munohadim</id>
+<comment/>
+<frameset cdef="" edef="torn down, wrecked" id="01" vncls="">
+<role argnum="0" argrole="destroyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البيت منهدم * من أساسه</parse>
+<comment/>
+<arg f="" g="the house" n="1">* البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="destroyed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with" vncls="" vntheta=""/>
+</frameset>
+</verb>

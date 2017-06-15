@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>masotuwr</id>
+<comment>EGYPTIAN ARABIC Framefile based on satar-v</comment>
+    <frameset cdef="" edef="to cover, screen" id="01" vncls="">
+<role argnum="0" argrole="coverer" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>فاستر عورات الناس يسترك الله</parse>
+
+<arg f="" g="Allah" n="0">الله</arg>
+<arg f="" g="you" n="1">ك</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="thing covered" vncls="" vntheta="" />
+<role argnum="2" argrole="instrument, covered by" vncls="" vntheta="" />
+<comment>Based on roleset satar-ui.01
+Based on roleset satar-v.01</comment>
+<role argnum="3" argrole="from what" vncls="" vntheta="" />
+</frameset>
+</verb>

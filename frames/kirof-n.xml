@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kirof</id>
+
+    <frameset cdef="" edef="bow, bend at waist" id="01" vncls="">
+<role argnum="0" argrole="bower" vncls="" vntheta=""/>
+<role argnum="1" argrole="bowed to" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (VP
+    (IV3FS+IV+IVSUFF_MOOD:I تنحني)
+    (NP-SBJ
+      (-NONE- *))
+    (PP
+      (PREP في)
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN حمأة)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN التاريخ))))))</parse>
+<arg f="" g="-NONE-" n="0">*</arg>
+<arg f="loc" g="In the mud of history" n="m">في حمأة التاريخ</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>ARZ English Borrowed ( curve )</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on {inoHanaY</comment>
+</verb>

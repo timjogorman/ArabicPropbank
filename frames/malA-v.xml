@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>malA</id>
+<comment/>
+<frameset cdef="" edef="to fill" id="01" vncls="">
+<role argnum="0" argrole="agent, causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا قاعد بأملي * القناني مية</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="the bottles" n="2">القناني</arg>
+<arg f="" g="water" n="1">مية</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="substance, content" vncls="" vntheta=""/>
+<role argnum="2" argrole="container, path" vncls="" vntheta=""/>
+</frameset>
+</verb>

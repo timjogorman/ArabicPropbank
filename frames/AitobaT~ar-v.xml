@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitobaT~ar</id>
+<comment/>
+<frameset cdef="" edef="to be ungrateful or unthankful, to be thankless" id="01" vncls="">
+<role argnum="0" argrole="entity ungrateful" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(PUNC ,)
+    (CONJ وِ)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:1P كُننا)
+        (VP
+          (PRT
+            (PROG_PART بِ))
+          (IV1P+IV نِتبَطَّر)
+          (NP-SBJ
+            (-NONE- *))
+          (PP-CLR
+            (PREP عَلَى)
+            (NP
+              (NOUN_PROP عَمْرو)
+              (NOUN_PROP خالِد))))))
+    (PUNC ?))
+  (S
+    (PP
+      (PREP عَلَى)
+      (NP
+        (DET+ADJ_COMP الأَقَلّ)))
+    (NP-TPC-4
+      (NOUN عِيال)
+      (NP
+        (POSS_PRON_3MS ُه)))
+    (VP
+      (PV+PVSUFF_SUBJ:3P كانُوا)
+      (NP-SBJ
+        (-NONE- *T*-4))
+      (ADJP-PRD
+        (ADJ+NSUFF_MASC_PL مِتْرَبِّيِين)))
+    (PUNC .)))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="on Amro Khalid" n="1">على عمرو خالد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom or on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

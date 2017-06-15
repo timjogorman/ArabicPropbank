@@ -1,17 +1,24 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Oaholak</id>
-    <frameset cdef="" edef="to destroy" id="01">
-        <role argnum="0" argrole="destroyer"/>
-        <role argnum="1" argrole="thing destroyed"/>
-        <frame>
-            <example>
-                <parse>
-                    أبوا الاستسلام لمرض يهلك *-1 الكبار
-                </parse>
-                <arg f="" g="a disease" n="0">مرض</arg>
-                <arg f="" g="the elderly" n="1">الكبار</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Oaholak</id>
+<frameset cdef="" edef="to destroy" id="01" vncls="">
+<role argnum="0" argrole="destroyer" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing destroyed" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>أبوا الاستسلام لمرض يهلك *-1 الكبار</parse>
+<arg f="" g="a disease" n="0">مرض</arg>
+<arg f="" g="the elderly" n="1">الكبار</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="how" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

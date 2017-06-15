@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munoEaqad</id>
+<frameset cdef="" edef="convened, in session" id="01" vncls="">
+<role argnum="1" argrole="things in session" vncls="" vntheta=""/>
+<role argnum="2" argrole="by whom" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>كانت الجلسة المنعقدة * من قبل الوزارة حول موضوع الكهرباء قصيرة جدا</parse>
+<arg f="" g="the meeting" n="1">* الجلسة</arg>
+<comment/>
+<arg f="" g="by the ministry" n="2">من قبل الوزارة</arg>
+<arg f="" g="about the electricity subject" n="3">حول موضوع الكهرباء</arg>
+<arg f="mnr" g="very short" n="m">قصيرة جدا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="3" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

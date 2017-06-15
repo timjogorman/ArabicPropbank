@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>halAk</id>
+<comment/>
+<frameset cdef="" edef="to die" id="01" vncls="">
+<role argnum="1" argrole="entity died" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اسفر الحادث عن هلاك اربعة أشخاص</parse>
+<comment/>
+<arg f="" g="four people" n="1">اربعة أشخاص</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

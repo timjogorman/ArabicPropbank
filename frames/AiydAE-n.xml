@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AiydAE</id>
+<comment/>
+<frameset cdef="" edef="depositing" id="01" vncls="">
+<role argnum="0" argrole="depositor, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (FRAG
+    (NP-ADV
+      (ADV+CASE_INDEF_ACC ثالِثاً))
+    (NP
+      (NP
+        (DET+NOUN المُتَّهَم))
+      (NP
+        (NOUN_PROP حَبِيب)
+        (DET+NOUN_PROP العادِلِيّ)))
+    (PP
+      (PREP بِ)
+      (S-NOM
+        (VP
+          (NOUN.VN اِيداع)
+          (NP-SBJ
+            (-NONE- *))
+          (NP-OBJ
+            (NP
+              (POSS_PRON_3MS ُه))
+            (NAC
+              (-NONE- *ICH*-1)))
+          (NP-DTV
+            (NOUN مُسْتَشْفَى)
+            (DET+NOUN+NSUFF_MASC_PL المَجانِين))
+          (PP-PRP
+            (PREP لِ)
+            (NP
+              (NOUN عَدَم)
+              (NP
+                (NOUN+NSUFF_FEM_SG سَلامَة)
+                (NP
+                  (NP
+                    (NOUN قُوا)
+                    (NP
+                      (POSS_PRON_3MS ه)))
+                  (ADJP
+                    (TYPO العقليةهو))))))
+          (NAC-1
+            (X
+              (NO_FUNC ومعاونية))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="mental hospital" n="2">مستشفى المجانين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing deposited" vncls="" vntheta=""/>
+<role argnum="2" argrole="where, location" vncls="" vntheta=""/>
+</frameset>
+</verb>

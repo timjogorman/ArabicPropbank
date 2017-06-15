@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tabAwas</id>
+
+<frameset cdef="" edef="to kiss" id="01" vncls="">
+<role argnum="0" argrole="kisser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تباوس الرجل مع زوجته عند اللقاء</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his wife" n="1">مع زوجته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity kissed" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

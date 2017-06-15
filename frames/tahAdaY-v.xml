@@ -1,0 +1,86 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tahAdaY</id>
+
+<frameset cdef="" edef="to exchange presents" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تهادى الحبيبان بهدايا صغيرة</parse>
+
+<arg f="" g="the lovers" n="0">الحبيبان</arg>
+<arg f="" g="with small gifts" n="1">بهدايا صغيرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things given" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to walk with a swinging gait" id="02" vncls="">
+<role argnum="0" argrole="walker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تهادت المرأة في مشيتها</parse>
+
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="" g="in her walking" n="1">في مشيتها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="attributed to ARG0" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to lean on (because of weakness or sickness)" id="03" vncls="">
+<role argnum="0" argrole="entity leaning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جاء المريض يتهادى * بين أخويه</parse>
+
+<arg f="" g="the patient" n="0">المريض</arg>
+<arg f="" g="between his brothers" n="1">بين أخويه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="on what or on whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to flap the wings, to flutter" id="04" vncls="">
+<role argnum="1" argrole="entity fluttering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تهادى الطير فوق المنزل</parse>
+<comment/>
+<arg f="" g="the bird" n="1">الطير</arg>
+<arg f="loc" g="above the house" n="m">فوق المنزل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

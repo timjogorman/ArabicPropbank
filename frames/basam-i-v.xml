@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>basam-i</id>
+<comment/>
+<frameset cdef="" edef="to smile" id="01" vncls="">
+<role argnum="0" argrole="entity smiling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بسم الرجل لزوجته</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to his wife" n="1">لزوجته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom, for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

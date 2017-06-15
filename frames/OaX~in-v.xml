@@ -1,0 +1,17 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaX~in</id>
+<comment>EGYPTIAN ARABIC based on OaX~an</comment>
+    <frameset cdef="" edef="to call for prayer" id="02">
+<role argnum="0" argrole="caller (muezzin)" />
+<frame>
+<example>
+<parse>
+هل يجوز أن يؤذن للصلاة شخص ويقيم الصلاة شخص آخر؟
+</parse>
+<arg f="prp" g="for prayer" n="m">للصلاة</arg>
+<arg f="" g="a person" n="0">شخص</arg>
+</example>
+</frame>
+</frameset>
+</verb>

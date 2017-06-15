@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xarAb</id>
+<comment/>
+<frameset cdef="" edef="ruin, destruction" id="01" vncls="">
+<role argnum="0" argrole="destroyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم خراب المدينة على يد العدو</parse>
+<comment/>
+<arg f="" g="the city" n="1">المدينة</arg>
+<arg f="" g="by the enemy" n="0">على يد العدو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing destroyed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

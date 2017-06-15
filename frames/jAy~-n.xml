@@ -1,0 +1,85 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jAy~</id>
+
+<frameset cdef="" edef="coming / forthcoming / incoming" id="01" vncls="">
+<role argnum="0" argrole="coming / forthcoming / incoming entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الراجل جاي * من بعيد لبيتنا حتى ياكل معانا لقمة</parse>
+
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="from far away" n="1">من بعيد</arg>
+<arg f="" g="to our house" n="2">لبيتنا</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from / start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="to / end point" vncls="" vntheta=""/>
+
+
+<comment>ARZ</comment>
+</frameset>
+
+<frameset cdef="" edef="matching, suitable, fit" id="02" vncls="">
+<role argnum="1" argrole="entity matching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>مش كل حاجة جاية * على هواه</parse>
+
+<arg f="" g="every thing" n="1">كل حاجة</arg>
+<arg f="" g="like he want" n="2">على هواه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+
+<frameset cdef="" edef="to happen" id="03" vncls="">
+<role argnum="1" argrole="things happened" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>راحت جيا له الجلطة</parse>
+
+<arg f="" g="for him" n="2">له</arg>
+<arg f="" g="the stroke" n="1">الجلطة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="to whom, victim" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

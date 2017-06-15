@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>MuEotaSim</id>
+<comment/>
+<frameset cdef="" edef="person who siting-in in order to protest" id="01" vncls="">
+<role argnum="0" argrole="entity doing the sit-in , agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو مازال معتصم * في الميدان</parse>
+<comment/>
+<arg f="" g="*" n="0">*</arg>
+<arg f="" g="in the field" n="1">في الميدان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="location" vncls="" vntheta=""/>
+</frameset>
+</verb>

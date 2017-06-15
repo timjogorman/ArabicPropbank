@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bAHiv</id>
+<comment/>
+<frameset cdef="" edef="scholar, researcher" id="01">
+<role argnum="0" argrole="entity searching"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نقدر نقول ان الانسان هو اول باحث * عن اصل الخليقة</parse>
+<comment/>
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="for the origin of creation" n="1">عن اصل الخليقة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what"/>
+</frameset>
+</verb>

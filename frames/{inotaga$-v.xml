@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotaga$</id>
+<comment/>
+<frameset cdef="" edef="" id="01" vncls="">
+<role argnum="1" argrole="entity moved or excited" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تنتغش الدار بالأطفال</parse>
+<comment/>
+<arg f="" g="the house" n="1">الدار</arg>
+<arg f="" g="with kids" n="2">بالأطفال</arg>
+</example>
+<comment/>
+</frame>
+<comment>be moved or be excited</comment>
+<role argnum="2" argrole="instrument/ reason" vncls="" vntheta=""/>
+</frameset>
+</verb>

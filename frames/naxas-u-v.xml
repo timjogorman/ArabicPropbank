@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naxas-u</id>
+<comment/>
+<frameset cdef="" edef="to goad, to prod, to urge on" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نخس الرجل الحمار بالعصا في بطنه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the donkey" n="1">الحمار</arg>
+<arg f="" g="with the stick" n="2">بالعصا</arg>
+<arg f="" g="in his belly" n="3">في بطنه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

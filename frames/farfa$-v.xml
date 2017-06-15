@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>farfa$</id>
+<comment/>
+<frameset cdef="" edef="to make someone have a good time" id="01" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (WHADVP
+    (INTERROG_ADV لَيْه))
+  (S
+    (S
+      (NP-TPC-1
+        (DEM_PRON_MS دَه))
+      (VP
+        (PRT
+          (PART حَتَّى))
+        (PRT
+          (PROG_PART بِ))
+        (IV1S+IV اَيِفرِفش)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (IVSUFF_DO:1S نِي))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يِخَلِّي)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ-2
+          (IVSUFF_DO:1S نِي))
+        (S
+          (VP
+            (IV1S+IV أَمُوت)
+            (NP-SBJ
+              (-NONE- *-2))
+            (PP-PRP
+              (PREP مِن)
+              (NP
+                (DET+NOUN الضَحْك)))))))))</parse>
+<comment/>
+<arg f="" g="this" n="0">* دَه</arg>
+<arg f="" g="me" n="1">نِي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity getting happy" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

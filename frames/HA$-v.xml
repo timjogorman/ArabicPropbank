@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>HA$</id>
+<comment>EGYPTIAN ARABIC based on HA$-u</comment>
+    <frameset cdef="" edef="stopped somedoby, arrested" id="01">
+<role argnum="0" argrole="arrester" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>حاش الشرطي اللص</parse>
+<comment />
+<arg f="" g="the policeman" n="0">الشرطي</arg>
+<arg f="" g="the thief" n="1">اللص</arg>
+</example>
+<comment />
+</frame>
+<comment>منعه و امسكه
+Based on roleset HA$-u.01</comment>
+<role argnum="1" argrole="arrested" />
+</frameset>
+</verb>

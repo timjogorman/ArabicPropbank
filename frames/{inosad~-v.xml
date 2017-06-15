@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosad~</id>
+
+<frameset cdef="" edef="to be mecor be blocked or  closed or sealed" id="01" vncls="Iinodahana-1">
+<role argnum="1" argrole="things closed" vncls="Iinodahana-1" vntheta="theme"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انسدت المواسير بقطعة من اللحمة</parse>
+
+<arg f="" g="the pipes" n="1">المواسير</arg>
+<arg f="" g="with a piece of meat" n="2">بقطعة من اللحمة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="Iinodahana-1" vntheta="destination"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

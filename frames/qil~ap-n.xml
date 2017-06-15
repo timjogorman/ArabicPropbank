@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qil~ap</id>
+<comment/>
+<frameset cdef="" edef="littleness, smallness, some" id="01" vncls="">
+<role argnum="1" argrole="things that are little" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اليوم تجد قلة من الناس الذين يؤمنون بهذا الشيء</parse>
+<comment/>
+<arg f="" g="" n="1">من الناس</arg>
+<arg f="" g="" n="2">الذين يؤمنون بهذا الشيء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

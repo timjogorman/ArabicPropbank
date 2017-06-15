@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HaSoHaS</id>
+<comment/>
+<frameset cdef="" edef="to appear or become known" id="01" vncls="">
+<role argnum="1" argrole="entity appearing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حصحص الحق</parse>
+<comment/>
+<arg f="" g="the truth" n="1">الحق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to move something back and forth to fit in a certain place" id="02" vncls="">
+<role argnum="0" argrole="entity moving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity moved" vncls="" vntheta=""/>
+<role argnum="2" argrole="place" vncls="" vntheta=""/>
+</frameset>
+</verb>

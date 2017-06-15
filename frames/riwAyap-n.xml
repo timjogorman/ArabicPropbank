@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>riwAyap</id>
+<comment/>
+<frameset cdef="" edef="narration, telling, story" id="01" vncls="">
+<role argnum="0" argrole="speaker, writer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لا ينام أبني ان لم ينتهي والده من روايته لقصة الحسناء و الوحش له</parse>
+<comment/>
+<arg f="" g="he" n="0">ه</arg>
+<arg f="" g="the beauty and the beast story" n="1">لقصة الحسناء و الوحش</arg>
+<arg f="" g="to him" n="2">له</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="utterance , title" vncls="" vntheta=""/>
+<role argnum="2" argrole="audience" vncls="" vntheta=""/>
+</frameset>
+</verb>

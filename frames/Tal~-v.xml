@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Tal~</id>
+<comment>EGYPTIAN ARABIC based on Tal~-u</comment>
+    <frameset cdef="" edef="to appear, emerge" id="02">
+<role argnum="0" argrole="entity appearing" />
+<role argnum="1" argrole="emerging new entity" />
+<frame>
+<example>
+<parse>
+(S
+  (PP
+    (PREP في)
+    (NP
+      (NP
+        (DEM_PRON_MS هذا))
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الكتاب))))
+  (VP
+    (IV3MS+IV+IVSUFF_MOOD:I يطل)
+    (NP-SBJ
+      (DET+NOUN+CASE_DEF_NOM البطريرك)
+      (NOUN_PROP اغناطيوس)
+      (DET+ADJ_NUM+CASE_DEF_NOM الرابع))
+    (PP-MNR
+      (PP
+        (PREP ك)
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN كتلة)
+          (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN طهرانية)
+          (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN منسجمة)))
+      (PUNC ,)
+      (CONJ و)
+      (PP
+        (PREP ك)
+        (NP
+          (NOUN+CASE_DEF_GEN أحد)
+          (NP
+            (NP
+              (NOUN+CASE_DEF_GEN آباء)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الكنيسة)))
+            (ADJP
+              (DET+ADJ+CASE_DEF_GEN الكبار))))))
+</parse>
+<arg f="" g="the Patriarch Ignatius IV" n="0">البطريرك اغناطيوس الرابع</arg>
+<arg f="" g="like a pure and harmonious unit and as one of the big church patriarchs" n="1">ككتلة طهرانية منسجمة , و كأحد آباء الكنيسة الكبار</arg>
+</example>
+</frame>
+<comment>Based on roleset Tal~-u.02</comment></frameset>
+</verb>

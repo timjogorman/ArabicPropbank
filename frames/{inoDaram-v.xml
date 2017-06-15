@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoDaram</id>
+
+<frameset cdef="" edef="to be burned , set on fire" id="01" vncls="">
+<role argnum="1" argrole="burned entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انضرم المنزل بالحريق</parse>
+
+<arg f="" g="the house" n="1">المنزل</arg>
+<arg f="" g="with fire" n="2">بالحريق</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="cause , instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

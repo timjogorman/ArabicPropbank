@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Saqal-u</id>
+
+<frameset cdef="" edef="to polish, to burnish, to refine, to devlope" id="01" vncls="">
+<role argnum="0" argrole="entity polishing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>صقل الرجل الإناء</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the vessel" n="1">الإناء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things polished" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

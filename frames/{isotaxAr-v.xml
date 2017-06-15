@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaxAr</id>
+<comment/>
+<frameset cdef="" edef="to seek what is the best, to ask God for proper guidance" id="01">
+<role argnum="0" argrole="entity asking"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استخار  * الله ليعمل في شركة</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="GOD" n="1">الله</arg>
+<arg f="" g="to work in a company" n="2">ليعمل في شركة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from who"/>
+<role argnum="2" argrole="for what"/>
+</frameset>
+<frameset cdef="" edef="to select, to pick up" id="02">
+<role argnum="0" argrole="entity selecting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استخار  * الفريق الذي سيشارك في البطولة</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the team" n="1">الفريق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things or entity selected"/>
+<role argnum="2" argrole="from what"/>
+</frameset>
+</verb>

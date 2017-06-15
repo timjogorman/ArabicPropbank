@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaforag</id>
+
+<frameset cdef="" edef="to puke, to vomit" id="01" vncls="">
+<role argnum="0" argrole="entity vomiting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استفرغ الولد الطعام الذي أكله في العشاء</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="the food that he had for dinner" n="1">الطعام الذي أكله في العشاء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things vomited" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to use the whole thing to get something done" id="02" vncls="">
+<role argnum="0" argrole="entity using something" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استفرغ الطالب كل طاقته لإنجاز المشروع</parse>
+
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="all his energy" n="1">كل طاقته</arg>
+<arg f="" g="to get the project done" n="2">لإنجاز المشروع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things used" vncls="" vntheta=""/>
+<role argnum="2" argrole="purpose" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

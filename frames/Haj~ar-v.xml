@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Haj~ar</id>
+<comment/>
+<frameset cdef="" edef="to turn hard as a rock, to petrify" id="01" vncls="">
+<role argnum="1" argrole="entity hardening" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الخبز تحجر * من زمان</parse>
+<comment/>
+<arg f="" g="the bread" n="1">* الخبز</arg>
+<arg f="tmp" g="a long time ago" n="m">من زمان</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="to be stubborn" id="02" vncls="">
+<role argnum="1" argrole="entity stubborn" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انتي اتحجري * مش زي زمان</parse>
+<comment/>
+<arg f="" g="you" n="1">* انتي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

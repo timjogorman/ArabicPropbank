@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitoEar~af</id>
+<comment/>
+<frameset cdef="" edef="to know or recognize" id="01" vncls="">
+<role argnum="1" argrole="knower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم متعرفين * على بعض من زمان</parse>
+<comment/>
+<arg f="" g="they" n="1">* هم</arg>
+<arg f="" g="to each other" n="2">على بعض</arg>
+<arg f="" g="a long time ago" n="3">من زمان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="thing known or thought" vncls="" vntheta=""/>
+</frameset>
+</verb>

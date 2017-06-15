@@ -1,0 +1,85 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotaEobad</id>
+<comment/>
+<frameset cdef="" edef="to enslave" id="01" vncls="">
+<role argnum="0" argrole="entity taking slave" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SBARQ
+    (CONJ فَ)
+    (NP-ADV
+      (NOUN+CASE_INDEF_ACC مَثَلاً))
+    (WHADVP-4
+      (INTERROG_ADV اِزاي))
+    (S
+      (VP
+        (IV3MS+IV يِبْقَى)
+        (NP-SBJ
+          (-NONE- *))
+        (S
+          (NP-TPC-1
+            (NP
+              (NOUN رَبّ)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG المَسِيحِيَّة)))
+            (SBAR
+              (WHNP-3
+                (REL_PRON اِللِّي))
+              (S
+                (VP
+                  (PRT
+                    (PROG_PART بِ))
+                  (IV3MS+IV يامُر)
+                  (NP-SBJ
+                    (-NONE- *T*-3))
+                  (PP-CLR
+                    (PREP بِ)
+                    (NP
+                      (DET+NOUN العَدْل)))
+                  (NP-ADV
+                    (NOUN بِين)
+                    (NP
+                      (NOUN_QUANT كُلّ)
+                      (NP
+                        (DET+NOUN البَشَر))))))))
+          (VP
+            (IV3MS+IV يامُر)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (NOUN_PROP بَنِي)
+              (NP
+                (NOUN_PROP اِسْرائِيل)))
+            (PP-CLR
+              (PREP بِ)
+              (SBAR
+                (SUB_CONJ انَّ)
+                (S
+                  (NP-TPC-2
+                    (PRON_3P هُم))
+                  (VP
+                    (IV3P+IV+IVSUFF_SUBJ:P يِستَعبِدُوا)
+                    (NP-SBJ
+                      (-NONE- *T*-2))
+                    (NP-OBJ
+                      (NOUN غِير)
+                      (NP
+                        (DET+NOUN اليَهُود)))))))
+            (ADVP
+              (-NONE- *T*-4)))))
+      (PUNC ?))))</parse>
+<comment/>
+<arg f="" g="them" n="0">* -2 هُم</arg>
+<arg f="" g="non Jews" n="1">غير اليهود</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

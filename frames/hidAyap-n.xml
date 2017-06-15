@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hidAyap</id>
+<comment/>
+<frameset cdef="" edef="guidance, guiding" id="01" vncls="">
+<role argnum="0" argrole="entity guiding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لولا هداية الله لعباده في حياتهم لهلكوا</parse>
+<comment/>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="to his people" n="1">لعباده</arg>
+<arg f="" g="in thier life" n="2">في حياتهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity guided" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what, path" vncls="" vntheta=""/>
+</frameset>
+</verb>

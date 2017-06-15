@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jA}iz</id>
+<comment/>
+<frameset cdef="" edef="permissible, permited" id="01" vncls="">
+<role argnum="0" argrole="entity permiting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الأمر جائز * للأطفال من قبل الوالدين</parse>
+<comment/>
+<arg f="" g="this matter" n="1">* هذا الأمر</arg>
+<arg f="" g="for the kids" n="2">للأطفال</arg>
+<arg f="" g="by thier parents" n="0">من قبل الوالدين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things permited" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="possible" id="02" vncls="">
+<role argnum="1" argrole="things possible" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الشيء جائز * أن يحدث في بعض الأيام</parse>
+<comment/>
+<arg f="" g="this thing" n="1">* هذا الشيء</arg>
+<arg f="" g="to happen in some days" n="2">أن يحدث في بعض الأيام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

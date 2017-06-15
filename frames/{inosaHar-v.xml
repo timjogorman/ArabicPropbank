@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosaHar</id>
+
+<frameset cdef="" edef="to be attracted, facinated or affected by sorcery" id="01" vncls="">
+<role argnum="1" argrole="patient" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انسحر الأمير ضفدعة بعصا الساحرة</parse>
+
+<arg f="" g="the prince" n="">الأمير</arg>
+<arg f="" g="frog" n="">ضفدعة</arg>
+<arg f="" g="by the witch's stick" n="">بعصا الساحرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="product or result" vncls="" vntheta=""/>
+<role argnum="3" argrole="cause" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>takAlab</id>
+<comment/>
+<frameset cdef="" edef="to rush madly upon, to ontend for, to be greedy for, to show anger" id="01">
+<role argnum="0" argrole="entity rushing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عذرا أهلنا في سوريا فقط  تكالبت عليكم الامم من شرقها لغربها</parse>
+<comment/>
+<arg f="" g="on you" n="1">عليكم</arg>
+<arg f="" g="the nations" n="0">الامم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="toward who"/>
+</frameset>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eaqil</id>
+<comment/>
+<frameset cdef="" edef="to become ratioanal" id="01" vncls="">
+<role argnum="0" argrole="entity becoming rational" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عقل الولد</parse>
+<comment/>
+<arg f="" g="the boy" n="1">الولد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things understood" vncls="" vntheta=""/>
+</frameset>
+</verb>

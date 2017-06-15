@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$aHaX-a</id>
+
+<frameset cdef="" edef="to whet or sharpen" id="01" vncls="">
+<role argnum="0" argrole="entity sharpening" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شحذ القصاب السكين بالمبرد</parse>
+
+<arg f="" g="the butcher" n="0">القصاب</arg>
+<arg f="" g="the knife" n="1">السكين</arg>
+<arg f="" g="with the file" n="2">بالمبرد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity sharped" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to beg , to ask for alms" id="02" vncls="">
+<role argnum="0" argrole="entity asking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شحذ الفقير خبزا من الناس</parse>
+
+<arg f="" g="the poor" n="0">الفقير</arg>
+<arg f="" g="bread" n="1">خبزا</arg>
+<arg f="" g="from the people" n="2">من الناس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muEAhadap</id>
+<comment/>
+<frameset cdef="" edef="treaty, pact" id="01" vncls="">
+<role argnum="1" argrole="the treaty" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كانت هذه معاهدة سلام بين العراق و أيران بوقف الحرب</parse>
+<comment/>
+<arg f="" g="peace" n="1">سلام</arg>
+<arg f="" g="between Iraq" n="2">بين العراق</arg>
+<arg f="" g="and Iran" n="3">و أيران</arg>
+<arg f="" g="to stop the war" n="4">بوقف الحرب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="first party" vncls="" vntheta=""/>
+<role argnum="3" argrole="second party" vncls="" vntheta=""/>
+<role argnum="4" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

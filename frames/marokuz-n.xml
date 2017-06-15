@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>marokuz</id>
+<comment/>
+<frameset cdef="" edef="to be fixed or fastened, planted" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا المسمار مركوز * في الخشب بقوة</parse>
+<comment/>
+<arg f="" g="this nail" n="1">* هذا المسمار</arg>
+<arg f="" g="in the wood" n="2">في الخشب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things fixed" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

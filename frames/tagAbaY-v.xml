@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tagAbaY</id>
+
+<frameset cdef="" edef="to act fool" id="01" vncls="">
+<role argnum="0" argrole="entity acting fool" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تغابى الرجل لكي لا يعاقب</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="prp" g="so he will not be punished" n="m">لكي لا يعاقب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to ignore or overlook" id="02" vncls="">
+<role argnum="0" argrole="entity ignoring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تغابى الكسول عن واجبه</parse>
+
+<arg f="" g="the lazy one" n="0">الكسول</arg>
+<arg f="" g="from his homework" n="1">عن واجبه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things ignored" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jaXam-i</id>
+<comment/>
+<frameset cdef="" edef="to cut or chop off, to remove" id="01" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جذم الحطاب الشجرة بالفأس</parse>
+<comment/>
+<arg f="" g="the lumberjack" n="0">الحطاب</arg>
+<arg f="" g="the tree" n="1">الشجرة</arg>
+<arg f="" g="with the ax" n="3">بالفأس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what, instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

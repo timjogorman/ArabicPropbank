@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitolay~if</id>
+<comment/>
+<frameset cdef="" edef="rub with palm fibers" id="01" vncls="">
+<role argnum="0" argrole="entity rubbing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا تليفت * وجيت</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

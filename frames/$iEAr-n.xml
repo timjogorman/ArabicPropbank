@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$iEAr</id>
+<comment/>
+<frameset cdef="" edef="slogan, motto" id="01" vncls="">
+<role argnum="1" argrole="entity having the slogan" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شعار الفريق العراقي في البطولة هو الفوز</parse>
+<comment/>
+<arg f="" g="the Iraqi team" n="1">الفريق العراقي</arg>
+<arg f="" g="in the championship" n="3">في البطولة</arg>
+<arg f="" g="is to win" n="2">هو الفوز</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="the slogan" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

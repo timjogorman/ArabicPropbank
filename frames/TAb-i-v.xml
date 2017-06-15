@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TAb-i</id>
+<comment/>
+<frameset cdef="" edef="to be or become good or pleasant" id="01">
+<role argnum="1" argrole="things becoming good"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طابت الحياة له</parse>
+<comment/>
+<arg f="" g="life" n="1">الحياة</arg>
+<arg f="" g="to him" n="2">له</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for whom"/>
+</frameset>
+<frameset cdef="" edef="to give up (multi word expression)" id="02">
+<role argnum="0" argrole="entity giving up something"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طاب * عنه نفسا</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="from it" n="1">عنه</arg>
+</example>
+<comment/>
+</frame>
+<comment>طاب نفسا عن : ترك‏</comment>
+<role argnum="1" argrole="things left"/>
+</frameset>
+</verb>

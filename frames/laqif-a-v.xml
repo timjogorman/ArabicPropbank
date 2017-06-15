@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laqif-a</id>
+
+<frameset cdef="" edef="to snatch, to snap , to grasp, to understand" id="01" vncls="">
+<role argnum="0" argrole="catcher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لقف اللاعب الكرة بسرعة</parse>
+
+<arg f="" g="the player" n="0">اللاعب</arg>
+<arg f="" g="the ball" n="1">الكرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things catched" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

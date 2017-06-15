@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taxAXal</id>
+<comment/>
+<frameset cdef="" edef="to fail or weaken, to lose strenght to do something" id="01" vncls="">
+<role argnum="0" argrole="entity failing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نحن تخاذلنا  * عن الدفاع عنكم</parse>
+<comment/>
+<arg f="" g="we" n="0">نحن</arg>
+<arg f="" g="from defending you" n="1">عن الدفاع عنكم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

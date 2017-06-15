@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rahif</id>
+<comment/>
+<frameset cdef="" edef="to thin out , to become sharp" id="01" vncls="">
+<role argnum="1" argrole="entity becoming thin or sharp" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رهف السيف</parse>
+<comment/>
+<arg f="" g="the sword" n="1">السيف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ilotifAt</id>
+<comment/>
+<frameset cdef="" edef="to heed , to pay attention to, to consider" id="01" vncls="">
+<role argnum="0" argrole="attentive entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نبه الجميع الى الالتفات * الى موضوع الامطار</parse>
+<comment/>
+<arg f="" g="everybody" n="0">* الجميع</arg>
+<arg f="" g="to the subject of the rain" n="1">الى موضوع الامطار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity considered" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="turning around" id="02" vncls="">
+<role argnum="0" argrole="entity turning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الشيء ادى الى التفات الرؤوس نحوه</parse>
+<comment/>
+<arg f="" g="the heads" n="">الرؤوس</arg>
+<arg f="" g="toward him" n="">نحوه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="direction" vncls="" vntheta=""/>
+</frameset>
+</verb>

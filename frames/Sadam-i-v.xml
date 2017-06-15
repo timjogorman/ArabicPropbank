@@ -1,17 +1,36 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Sadam-i</id>
-    <frameset cdef="" edef="to crash into or ram" id="01">
-        <role argnum="0" argrole="entity hitting"/>
-        <role argnum="1" argrole="entity hit"/>
-        <frame>
-            <example>
-                <parse>
-                    صدمت شاحنة سيارة مرسيدس
-                </parse>
-                <arg f="" g="truck" n="0">شاحنة</arg>
-                <arg f="" g="a Mercedes car" n="1">سيارة مرسيدس</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Sadam-i</id>
+<frameset cdef="" edef="to crash into or ram" id="01" vncls="">
+<role argnum="0" argrole="entity hitting" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>صدمت شاحنة سيارة مرسيدس</parse>
+<arg f="" g="truck" n="0">شاحنة</arg>
+<arg f="" g="a Mercedes car" n="1">سيارة مرسيدس</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to affect or influence" id="02" vncls="">
+<role argnum="1" argrole="things affecting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صدم الخبر الرجل</parse>
+<comment/>
+<arg f="" g="the news" n="1">الخبر</arg>
+<arg f="" g="the man" n="2">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
 </verb>

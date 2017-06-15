@@ -1,0 +1,109 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoTAwil</id>
+<frameset cdef="" edef="To encroach or affect" id="01" vncls="">
+<role argnum="0" argrole="thing affecting" vncls="" vntheta="" />
+<role argnum="1" argrole="entity  Affected" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+            (NP-SBJ
+              (PRON_3FS هي))
+            (NP-PRD
+              (NP
+                (NP
+                  (NOUN+NSUFF_FEM_SG+CASE_INDEF_NOM قضية))
+                (ADJP
+                  (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM انسانية)
+                  (CONJ و)
+                  (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM وطنية)))
+              (SBAR
+                (WHNP-2
+                  (-NONE- 0))
+                (S
+                  (VP
+                    (PRT
+                      (VERB_PART قد))
+                    (PV+PVSUFF_SUBJ:3MS تطاول)
+                    (NP-SBJ
+                      (-NONE- *T*-2))
+                    (NP-OBJ
+                      (NP
+                        (NOUN_QUANT+CASE_DEF_NOM كل)
+                        (NP
+                          (NOUN+CASE_INDEF_GEN واحد)))
+                      (PP
+                        (PREP من)
+                        (NP
+                          (PRON_1P ا))))
+                    (PP-MNR
+                      (PREP في)
+                      (NP
+                        (NP
+                          (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN غفلة))
+                        (PP
+                          (PREP من)
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN القانون)
+                            (CONJ و)
+                            (DET+NOUN+CASE_DEF_GEN الامن))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="it" n="0">-NONE- *T*-2&lt;هي قضية</arg>
+<arg f="" g="Each one of us" n="1">كل واحد منا</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset taTAwal.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to dare on someone, to take heart" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>(NOUN قَوي)
+        (SBAR
+          (SUB_CONJ إِنّ)
+          (S
+            (NP-TPC-3
+              (DET+NOUN_PROP العلِيمي))
+            (VP
+              (PV+PVSUFF_SUBJ:3MS تَطاوَلَ)
+              (NP-SBJ
+                (-NONE- *T*-3))
+              (PP
+                (PREP عَلَى)
+                (NP
+                  (PRON_3MS ُه)))
+              (PP
+                (PREP بِ)
+                (NP
+                  (NP
+                    (NOUN لَفْظ)
+                    (ADJ جارِح))
+                  (SBAR
+                    (WHNP-4
+                      (-NONE- 0))
+                    (S</parse>
+
+<arg f="" g="Al-Eileemy" n="0">* العلِيمي</arg>
+<arg f="" g="on him" n="1">عليه</arg>
+<arg f="" g="with an insulting word" n="2">بلفظ جارح</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta="" />
+<role argnum="2" argrole="with what" vncls="" vntheta="" />
+<comment>Based on roleset taTAwal.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on taTAwal</comment>
+</verb>

@@ -1,36 +1,55 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>OafonaY</id>
-    <frameset cdef="" edef="to spend (time) bide time" id="01">
-        <role argnum="0" argrole="spender, bidder"/>
-        <role argnum="1" argrole="time interval"/>
-        <role argnum="2" argrole="activity"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:1S أفنيتُ)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (NOUN أيام)
-                    (NP
-                    (POSS_PRON_1S ي)))
-                    (PP-MNR
-                    (PREP ب)
-                    (NP
-                    (NOUN+CASE_DEF_GEN وصف)
-                    (NP
-                    (NOUN+CASE_DEF_GEN جمال)
-                    (NP
-                    (POSS_PRON_3FS ها)))))))
-                </parse>
-                <arg f="" g="I" n="0">-NONE-</arg>
-                <arg f="" g="my days" n="1">أيامي</arg>
-                <arg f="" g="describing her beauty" n="2">بوصف جمالها</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>OafonaY</id>
+<frameset cdef="" edef="to spend (time) bide time" id="01">
+<role argnum="0" argrole="spender, bidder"/>
+<role argnum="1" argrole="time interval"/>
+<role argnum="2" argrole="activity"/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:1S أفنيتُ)
+    (NP-SBJ
+      (-NONE- *))
+    (NP-OBJ
+      (NOUN أيام)
+      (NP
+        (POSS_PRON_1S ي)))
+    (PP-MNR
+      (PREP ب)
+      (NP
+        (NOUN+CASE_DEF_GEN وصف)
+        (NP
+          (NOUN+CASE_DEF_GEN جمال)
+          (NP
+            (POSS_PRON_3FS ها)))))))</parse>
+<arg f="" g="I" n="0">-NONE-</arg>
+<arg f="" g="my days" n="1">أيامي</arg>
+<arg f="" g="describing her beauty" n="2">بوصف جمالها</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to annihilate, exterminate" id="02">
+<role argnum="0" argrole="the exterminater"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أفنى الملك أعدائه بالقوة</parse>
+<comment/>
+<arg f="" g="the king" n="0">الملك</arg>
+<arg f="" g="his enemies" n="1">أعدائه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity or things exterminated"/>
+</frameset>
 </verb>

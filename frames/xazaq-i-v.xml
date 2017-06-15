@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xazaq-i</id>
+
+<frameset cdef="" edef="to pierce or stab" id="01" vncls="">
+<role argnum="0" argrole="stabber" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>خزق المقاتل خصمه بالحربة</parse>
+
+<arg f="" g="the warior" n="0">المقاتل</arg>
+<arg f="" g="his opponent" n="1">خصمه</arg>
+<arg f="" g="with the spear" n="2">بالحربة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing stabbed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to get through, to penetrate" id="02" vncls="">
+<role argnum="0" argrole="entity getting through" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خزقت الرصاصة الحائط</parse>
+
+<arg f="" g="the bullet" n="0">الرصاصة</arg>
+<arg f="" g="the wall" n="1">الحائط</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="through what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

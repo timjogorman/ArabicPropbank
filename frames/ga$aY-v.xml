@@ -1,0 +1,131 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ga$aY</id>
+
+<frameset cdef="" edef="to mist , to fog, to obscure, to cover" id="01" vncls="">
+<role argnum="1" argrole="things or intity getting fogged" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حزن غشى * النفس والخاطر عليل</parse>
+
+<arg f="" g="sadness" n="2">* حزن</arg>
+<arg f="" g="the soul" n="1">النفس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to overlay, to coat" id="02" vncls="">
+<role argnum="0" argrole="entity coating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>غشى النحات التمثال بالذهب</parse>
+
+<arg f="" g="the sculptor" n="0">النحات</arg>
+<arg f="" g="the statue" n="1">التمثال</arg>
+<arg f="" g="with gold" n="2">بالذهب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things coated" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to faint (multi word expression) (يغشى عليه)" id="03" vncls="">
+<role argnum="1" argrole="what cause faint" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وِ)
+    (VP
+      (PV+PVSUFF_SUBJ:3FS كانِت)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-PRD
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG المُفاجأَة))
+        (SBAR
+          (SBAR
+            (WHNP-1
+              (REL_PRON الَّتِي))
+            (S
+              (VP
+                (PRT
+                  (NEG_PART لا))
+                (X
+                  (NO_FUNC يضاهيها)
+                  (NP
+                    (-NONE- *T*-1)))
+                (NP-SBJ
+                  (NOUN+NSUFF_FEM_SG مُفاجْأَة)))))
+          (SBAR
+            (WHNP-2
+              (-NONE- 0))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS جَعَلِت)
+                (NP-SBJ
+                  (-NONE- *T*-2))
+                (NP-OBJ-4
+                  (PVSUFF_DO:1S نِي))
+                (S
+                  (S
+                    (VP
+                      (IV1S+IV اَضْحَك)
+                      (NP-SBJ
+                        (-NONE- *-4))))
+                  (CONJ وِ)
+                  (S
+                    (VP
+                      (IV1S+IV اَضْحَك)
+                      (NP-SBJ
+                        (-NONE- *))
+                      (PP-TMP
+                        (PREP حَتَّى)
+                        (SBAR
+                          (-NONE- 0)
+                          (S
+                            (VP
+                              (PV+PVSUFF_SUBJ:3MS كاد)
+                              (SBAR-SBJ
+                                (SUB_CONJ أَنّ)
+                                (S
+                                  (VP
+                                    (IV3MS+IV يِغشَى)
+                                    (NP-SBJ
+                                      (-NONE- *))
+                                    (PP-CLR
+                                      (PREP عَلَى)
+                                      (NP
+                                        (PRON_1S ِي)))))))))))))))))))
+    (PUNC .)))</parse>
+<comment/>
+<arg f="" g="NONE" n="1">*? NONE</arg>
+<arg f="" g="on him" n="2">عليه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="entity fainting" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotahodaY</id>
+<comment/>
+<frameset cdef="" edef="to seek guidance" id="01">
+<role argnum="0" argrole="entity seeking guidance"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ياجماعة الخير استهدوا * بالله وفي الأول والأخير نحن أخوة من بيت واحد</parse>
+<comment/>
+<arg f="" g="good group" n="0">جماعة الخير</arg>
+<arg f="" g="by God" n="1">بالله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from whom"/>
+</frameset>
+</verb>

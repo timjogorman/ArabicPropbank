@@ -1,0 +1,108 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Haj~ab</id>
+<comment/>
+<frameset cdef="" edef="to veil, to cover" id="01" vncls="">
+<role argnum="0" argrole="entity covering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-SBJ
+        (PRON_1S إَنا))
+      (ADJP-PRD
+        (NOUN آَسِف)))
+    (CONJ بَس)
+    (S
+      (NP-SBJ
+        (DEM_PRON_MS دَه))
+      (NP-PRD
+        (NOUN كَلام)
+        (NP
+          (ADJ مُتَطَرِّف))))
+    (PUNC ,))
+  (S
+    (NP-SBJ
+      (DET+NOUN الحِجاب))
+    (NP-PRD
+      (NP
+        (NP
+          (NOUN أَمْر))
+        (PP
+          (PP
+            (PREP لِ)
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG المَرْأَة)))
+          (PP
+            (PREP مِن)
+            (NP
+              (NOUN رَبّ)
+              (NP
+                (POSS_PRON_1P نا))))))
+      (NP
+        (NP
+          (PRT
+            (NEG_PART مِش))
+          (NOUN أَمْر))
+        (PP
+          (PP
+            (PREP مِن)
+            (NP
+              (NOUN رَبّ)
+              (NP
+                (POSS_PRON_1P نا))))
+          (PP
+            (PREP لِ)
+            (NP
+              (DET+NOUN الناس)
+              (S-PRP
+                (VP
+                  (IV3FS+IV تَحَجِّب)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (NP-OBJ
+                    (IVSUFF_DO:3FS ها))
+                  (PP-MNR
+                    (PREP بِ)
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG العافْيَة))))))))))
+    (NP-ADV
+      (NOUN مَعَ)
+      (SBAR
+        (SUB_CONJ إَنّ)
+        (S
+          (NP-TPC-1
+            (NOUN رَبّ)
+            (NP
+              (POSS_PRON_1P نا)))
+          (VP
+            (NOUN.VN أَمْر)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (POSS_PRON_1P نا))
+            (PP
+              (PREP بِ)
+              (NP
+                (NOUN غَضّ)
+                (NP
+                  (DET+NOUN البَصَر))))))))
+    (PUNC !)
+    (PUNC !)
+    (PUNC !)))</parse>
+<comment/>
+<arg f="" g="people" n="0">الناس</arg>
+<arg f="" g="she" n="1">ها</arg>
+<arg f="mnr" g="by force" n="m">بِالعافْيَة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity coverd" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

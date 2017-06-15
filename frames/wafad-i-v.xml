@@ -1,22 +1,22 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>wafad-i</id>
-    <frameset cdef="" edef="To arrive" id="01">
-        <role argnum="0" argrole="entity in motion / 'comer'"/>
-        <role argnum="1" argrole="start point -- also rare)"/>
-        <role argnum="2" argrole="end point, destination"/>
-        <frame>
-            <comment>
-                جاء
-            </comment>
-            <example>
-                <parse>
-                    وزراء الخارجية وشؤون الفرنكوفونية يفدون **-1 تباعاً الى بيروت
-                </parse>
-                <arg f="" g="They" n="0">**-1&amp;lt;وزراء الخارجية وشؤون الفرنكوفونية</arg>
-                <arg f="" g="To Beirut" n="1">الى بيروت</arg>
-                <arg f="" g="Successively" n="2">تباعاً</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>wafad-i</id>
+<comment/>
+<frameset cdef="" edef="to come to or arrive at, to get to" id="01" vncls="">
+<role argnum="0" argrole="entity coming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وفد اليهم قوم من مصر</parse>
+<comment/>
+<arg f="" g="to them" n="1">اليهم</arg>
+<arg f="" g="people from Egypt" n="0">قوم من مصر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what or to whom" vncls="" vntheta=""/>
+</frameset>
 </verb>

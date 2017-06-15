@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muhay~aO</id>
+<comment/>
+<frameset cdef="" edef="prepared, ready" id="01" vncls="">
+<role argnum="0" argrole="preparer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الجيش مهيأ * من قبل الدولة للدفاع عن البلد</parse>
+<comment/>
+<arg f="" g="this Army" n="1">* هذا الجيش</arg>
+<arg f="" g="by the government" n="0">من قبل الدولة</arg>
+<arg f="" g="to protect the country" n="2"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing preparerd" vncls="" vntheta=""/>
+<role argnum="2" argrole="preparerd for, ready for" vncls="" vntheta=""/>
+</frameset>
+</verb>

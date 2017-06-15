@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ainotadab</id>
+
+<frameset cdef="" edef="to delegate or deputize, to depute" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>انتدب المدير مساعده لادارة الشركة</parse>
+
+<arg f="" g="the manager" n="0">المدير</arg>
+<arg f="" g="his assistant" n="1">مساعده</arg>
+<arg f="" g="to run the company" n="2">لادارة الشركة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity deputized" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

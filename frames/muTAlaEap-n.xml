@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muTAlaEap</id>
+<comment/>
+<frameset cdef="" edef="reading , studying" id="01" vncls="">
+<role argnum="0" argrole="reader" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان الابن مشغول بمطالعة * كتابه حين رأيته</parse>
+<comment/>
+<arg f="" g="the son" n="0">* الابن</arg>
+<arg f="" g="his book" n="1">كتابه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things read" vncls="" vntheta=""/>
+</frameset>
+</verb>

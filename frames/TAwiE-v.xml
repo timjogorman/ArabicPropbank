@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TAwiE</id>
+<comment/>
+<frameset cdef="" edef="acquiesce with" id="01" vncls="">
+<role argnum="0" argrole="entity accepting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قلبي ما طاوع * ني اسافر لوحدي</parse>
+<comment/>
+<arg f="" g="my heart" n="0">* قلبي</arg>
+<arg f="" g="me" n="2">ني</arg>
+<arg f="" g="to travel alone" n="1">اسافر لوحدي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things accepted" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

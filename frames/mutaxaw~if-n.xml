@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>mutaxaw~if</id>
+<frameset cdef="" edef="To Fear" id="01">
+<role argnum="0" argrole="entity afraid" />
+<role argnum="1" argrole="afraid of what?" />
+<frame>
+<comment>
+خاف / خشي
+</comment>
+<example>
+<parse>
+وتخوّف متعاملون من توقف الصادرات من ساحل العاج
+</parse>
+<arg f="" g="Traders" n="0">متعاملون</arg>
+<arg f="" g="The suspension of exports from the Ivory Coast" n="1">من توقف الصادرات من ساحل العاج</arg>
+</example>
+</frame>
+<comment>Based on roleset taxaw~af.01</comment></frameset>
+<comment>Framefile based on taxaw~af</comment></verb>

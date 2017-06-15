@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>furoSap</id>
+<comment/>
+<frameset cdef="" edef="opportunity or chance" id="01" vncls="">
+<role argnum="1" argrole="the chance" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كانت هذه العطلة فرصة * لهم للدراسة</parse>
+<comment/>
+<arg f="" g="this holiday" n="1">* هذه العطلة</arg>
+<arg f="" g="for them" n="2">لهم</arg>
+<arg f="" g="to study" n="3">للدراسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="to do what" vncls="" vntheta=""/>
+</frameset>
+</verb>

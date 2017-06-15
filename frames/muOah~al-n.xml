@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muOah~al</id>
+<comment/>
+<frameset cdef="" edef="qualified for, fit for" id="01" vncls="">
+<role argnum="1" argrole="entity qualified" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا اللاعب مؤهل * للفوز في بطولة السباحة</parse>
+<comment/>
+<arg f="" g="this player" n="1">* هذا اللاعب</arg>
+<arg f="" g="to win" n="2">للفوز</arg>
+<arg f="" g="in the swiming championship" n="3">في بطولة السباحة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what if separated from ARG2" vncls="" vntheta=""/>
+</frameset>
+</verb>

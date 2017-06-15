@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faOam-a</id>
+<comment/>
+<frameset cdef="" edef="to quench one's thirst, to drink one's fill" id="01" vncls="">
+<role argnum="0" argrole="entity drink" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فأم الرجل الماء</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the water" n="1">الماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the drink" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotako$af</id>
+
+<frameset cdef="" edef="to explore" id="01" vncls="">
+<role argnum="0" argrole="explorer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>يستكشف العلماء المريخ</parse>
+
+<arg f="" g="scientists" n="0">العلماء</arg>
+<arg f="" g="Mars" n="1">المريخ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things explored" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

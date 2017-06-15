@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotaqaf</id>
+<comment/>
+<frameset cdef="" edef="to be hollowed out or to be excavated." id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انتقف الصحن بالمطرقة</parse>
+<comment/>
+<arg f="" g="the dish" n="1">الصحن</arg>
+<arg f="" g="with a hammer" n="2">بالمطرقة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing hollowed out" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

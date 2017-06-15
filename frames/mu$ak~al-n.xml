@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mu$ak~al</id>
+
+<frameset cdef="" edef="consisting of" id="01" vncls="">
+<role argnum="1" argrole="whole thing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>اعتمدت   المشكلة من وزارة الخدمة المدنية ووزارة المالية ضوابط وإجراءات تنفيذ الأمر الملكي</parse>
+
+<arg f="" g="committee" n="1">اللجنة</arg>
+<arg f="" g="of the Ministry of Civil Service and the Ministry of Finance" n="2">من وزارة الخدمة المدنية ووزارة المالية</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="components (marked by  من)" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

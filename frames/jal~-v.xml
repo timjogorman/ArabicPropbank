@@ -1,0 +1,15 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>jal~</id>
+<comment>EGYPTIAN ARABIC based on jal~-i</comment>
+    <frameset cdef="" edef="to be majestic" id="01">
+<role argnum="0" argrole="entity being majestic" />
+<frame>
+<example>
+<parse>
+انما يقوم **-4 به مرضاة لله 0 عزّ **-2 و 0 جلّ **-3
+</parse>
+<arg f="" g="-NONE- &lt; God" n="0">**-3 &lt; الله</arg>
+</example>
+</frame>
+<comment>Based on roleset jal~-i.01</comment></frameset>
+</verb>

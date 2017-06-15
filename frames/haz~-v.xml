@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>haz~</id>
+<comment>EGYPTIAN ARABIC based on haz~-u</comment>
+    <frameset cdef="" edef="to shake" id="01">
+<role argnum="0" argrole="causer of trembling motion" />
+<role argnum="1" argrole="thing trembling" />
+<frame>
+<example>
+<parse>
+(S
+        (VP
+          (IV3MS+IV+IVSUFF_MOOD:I يزيد)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (PP-CLR
+            (PREP على)
+            (NP
+              (NP
+                (NOUN_QUANT+CASE_DEF_GEN نصف)
+                (NP
+                  (NOUN+CASE_INDEF_GEN قرن)))
+              (PP
+                (PREP من)
+                (NP
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN الزلازل))
+                  (SBAR
+                    (SBAR
+                      (WHNP-2
+                        (REL_PRON التي))
+                      (S
+                        (VP
+                          (PV+PVSUFF_SUBJ:3FS هزت)
+                          (NP-SBJ
+                            (-NONE- *T*-2))
+                          (NP-OBJ
+                            (-NONE- *RNR*-4)))))
+                    (CONJ و)
+                    (SBAR
+                      (WHNP-3
+                        (-NONE- 0))
+                      (S
+                        (VP
+                          (IV3FS+IV+IVSUFF_MOOD:I تهز)
+                          (NP-SBJ
+                            (-NONE- *T*-3))
+                          (NP-OBJ
+                            (-NONE- *RNR*-4)))))
+                    (NP-4
+                      (DET+NOUN+CASE_DEF_ACC العالم)
+                      (DET+ADJ+CASE_DEF_ACC العربي)))))))))))
+  (PUNC ,)
+</parse>
+<arg f="" g="it" n="0">-NONE- *T*-2 &lt; الزلازل</arg>
+<arg f="" g="Arabic world" n="1">العالم العربي</arg>
+</example>
+</frame>
+<comment>Based on roleset haz~-u.01</comment></frameset>
+</verb>

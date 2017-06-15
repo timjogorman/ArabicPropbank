@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Has~in</id>
+<frameset cdef="" edef="to improve or better" id="01" vncls="">
+<role argnum="0" argrole="agent, entity making things better" vncls="" vntheta="" />
+<role argnum="1" argrole="patient, thing getting better" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS قال)
+    (NP-SBJ
+      (NP
+        (NOUN+CASE_DEF_NOM وزير)
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الخارجية)
+          (CONJ و)
+          (DET+NOUN+NSUFF_MASC_PL_GEN المغتربين)
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (S
+          (NP-TPC-1
+            (NOUN+CASE_DEF_ACC اتفاق)
+            (NP
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الشراكة)
+              (ADJP
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN اللبنانية)
+                (PUNC -)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاوروبية)
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يحسّن)
+            (NP-SBJ
+              (-NONE- *)
+            (NP-OBJ
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC قدرة)
+                (NP
+                (NOUN_PROP+CASE_INDEF_GEN لبنان)
+              (ADJP
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_ACC التنافسية)
+  (PUNC &quot;)
+  (PUNC .)</parse>
+<arg f="" g="* &lt; the European-Lebanese cooperation agreement" n="0">-1 اتفاق الشراكة اللبنانية الاوروبية</arg>
+<arg f="" g="Lebanon's ability to compete" n="1">قدرة لبنان التنافسية</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset Has~an.01</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC Framefile based on Has~an</comment>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faras-i</id>
+
+<frameset cdef="" edef="to raven, to prey upon, to break the neck after killing" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فرس الأسد فريسته</parse>
+
+<arg f="" g="the lion" n="0">الأسد</arg>
+<arg f="" g="it's  prey" n="1">فريسته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

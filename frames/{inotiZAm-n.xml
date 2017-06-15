@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotiZAm</id>
+<comment/>
+<frameset cdef="" edef="to be organized or arranged" id="01" vncls="">
+<role argnum="1" argrole="things getting organized" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ساعد الهدوء على انتظام الدراسة في العراق</parse>
+<comment/>
+<arg f="" g="studying" n="1">الدراسة</arg>
+<arg f="" g="in Iraq" n="2">في العراق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="where or location" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gamaD-i</id>
+<comment/>
+<frameset cdef="" edef="to be or become obscure or vague" id="01" vncls="">
+<role argnum="1" argrole="things becoming vague" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غمض الموضوع علينا</parse>
+<comment/>
+<arg f="" g="the subject" n="1">الموضوع</arg>
+<arg f="" g="on us" n="2">علينا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to close (eye)" id="02" vncls="">
+<role argnum="1" argrole="entity closing (usualy the eye)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غمضت عيني من التعب</parse>
+<comment/>
+<arg f="" g="my eye" n="1">عيني</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

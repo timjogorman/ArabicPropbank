@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Mbiq</id>
+
+<frameset cdef="" edef="fugitive, runaway, escapee" id="01" vncls="">
+<role argnum="0" argrole="slave escapee" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تم العثور العبد الآبق</parse>
+
+<arg f="" g="slave" n="0">العبد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="escape from ?" vncls="" vntheta=""/>
+<role argnum="2" argrole="escape to" vncls="" vntheta=""/>
+<comment>only for slave</comment>
+</frameset>
+<comment/>
+</verb>

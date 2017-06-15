@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laHad-a</id>
+<comment/>
+<frameset cdef="" edef="to bury" id="01" vncls="">
+<role argnum="0" argrole="entity burrying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لحد الرجل الميت</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the dead" n="1">الميت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity burried" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to dig a grave" id="02" vncls="">
+<role argnum="0" argrole="entity digging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لحد الرجل اللحد</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the grave" n="1">اللحد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things digged" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to have doubt in ( religion )" id="03" vncls="">
+<role argnum="0" argrole="entity having the doubt" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لحد الرجل في دينه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his religion" n="1">في دينه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

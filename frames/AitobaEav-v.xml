@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitobaEav</id>
+<comment/>
+<frameset cdef="" edef="to be sent" id="01" vncls="">
+<role argnum="0" argrole="agent sending" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الرسالة اتبعثت * للمدرسة</parse>
+<comment/>
+<arg f="" g="the letter" n="1">* الرسالة</arg>
+<arg f="" g="to the school" n="2">للمدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="thing sent or emitted" vncls="" vntheta=""/>
+<role argnum="2" argrole="goal" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument - frequently marked with ب" vncls="" vntheta=""/>
+</frameset>
+</verb>

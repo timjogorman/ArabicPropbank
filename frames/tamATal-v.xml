@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamATal</id>
+<comment/>
+<frameset cdef="" edef="to procrtinate or stall" id="01" vncls="">
+<role argnum="0" argrole="entity stalling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تماطل أخي في وعوده</parse>
+<comment/>
+<arg f="" g="my brother" n="0">أخي</arg>
+<arg f="" g="in his promises" n="1">في وعوده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maliyL</id>
+<comment/>
+<frameset cdef="" edef="to be filled" id="01" vncls="">
+<role argnum="1" argrole="entity being filled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+              (NP-ADV
+                (X
+                  (ADV عِنْدَما))
+                (SBAR
+                  (-NONE- 0)
+                  (S
+                    (VP
+                      (IV3MS+IV يَتَحَدَّث)
+                      (NP-SBJ
+                        (-NONE- *))))))
+              (VP
+                (IV3FS+IV تُخْرُج)
+                (NP-SBJ-11
+                  (NOUN_QUANT كُلّ)
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_PL الكَلِمات)))
+                (PP
+                  (PREP مِن)
+                  (NP
+                    (NOUN فَم)
+                    (NP
+                      (NP
+                        (POSS_PRON_3MS ُه))
+                      (NP
+                        (-NONE- *T*-9)))))
+                (S-ADV
+                  (VP
+                    (ADJ.VN+NSUFF_FEM_SG مَلِيئَة)
+                    (NP-SBJ
+                      (-NONE- *-11))
+                    (PP-CLR
+                      (PREP بِ)
+                      (NP
+                        (DET+NOUN الكِبَر)
+                        (TYPO و)
+                        (DET+NOUN+NSUFF_FEM_SG الغَطْرَسَة))))))))))
+      (NP-SBJ
+        (-NONE- *))
+      (NP-PRD
+        (-NONE- *T*-8)))))</parse>
+<comment/>
+<arg f="" g="-NONE- &gt; the words from his mouth" n="1">الكَلِمات مِن فَمه&lt; *-11</arg>
+<arg f="" g="with arrogance and hubris" n="2">بِالكِبَر والغَطْرَسَة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what substance" vncls="" vntheta=""/>
+</frameset>
+</verb>

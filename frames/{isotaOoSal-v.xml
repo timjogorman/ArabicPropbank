@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaOoSal</id>
+
+<frameset cdef="" edef="to resect, to uproot" id="01" vncls="">
+<role argnum="0" argrole="entity resecting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استأصل الجراح الورم من الرئة</parse>
+
+<arg f="" g="The surgeon" n="0">الجراح</arg>
+<arg f="" g="the tumor" n="1">الورم</arg>
+<arg f="" g="from the lung" n="2">من الرئة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things resected" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what (sourse)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

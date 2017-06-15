@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitowAqiH</id>
+<comment>EGYPTIAN ARABIC Framefile based on wAqaH-v</comment>
+<frameset cdef="" edef="to curse" id="01">
+<role argnum="0" argrole="speaker" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>واقح المجرمون الشرطة</parse>
+<comment />
+<arg f="" g="criminals" n="0">المجرمون</arg>
+<arg f="" g="police" n="1" />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset wAqaH-v.01</comment>
+<role argnum="1" argrole="listener" />
+<role argnum="2" argrole="utterance" />
+</frameset>
+</verb>

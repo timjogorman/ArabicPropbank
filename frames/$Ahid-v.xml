@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$Ahid</id>
+
+    <frameset cdef="" edef="to watch, observe or witness" id="01" vncls="">
+<role argnum="0" argrole="watcher" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing looked at" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute of arg 1" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ملايين من الناس شاهدوا  الماتش ده</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="million" n="1">ملايين</arg>
+<arg f="loc" g="this match" n="2">الماتش ده</arg>
+<V/>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset $Ahad.01</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on $Ahad</comment>
+</verb>

@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lasaE</id>
+<comment/>
+<frameset cdef="" edef="to sting or bite" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لو قربت مني حلسع * ك بسناني</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="you" n="1">ك</arg>
+<arg f="" g="with my teeth" n="2">بسناني</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="where" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to hurt with words, to offend" id="02" vncls="">
+<role argnum="0" argrole="gent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لسع الرجل صاحبه بكلمات قاسية</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<arg f="" g="with harsh words" n="2">بكلمات قاسية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

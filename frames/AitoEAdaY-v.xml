@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEAdaY</id>
+<comment/>
+<frameset cdef="" edef="be hostile towards;;be treated with hostility" id="01" vncls="">
+<role argnum="0" argrole="first entity being hostile" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اتعادى الناس من أجل الدنيا</parse>
+<comment/>
+<arg f="" g="people" n="0">الناس</arg>
+<arg f="cau" g="because of life" n="m">من أجل الدنيا</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptain Arabic</comment>
+<role argnum="1" argrole="second entity" vncls="" vntheta=""/>
+</frameset>
+</verb>

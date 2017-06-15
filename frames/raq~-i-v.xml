@@ -1,0 +1,67 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raq~-i</id>
+
+<frameset cdef="" edef="to become thin or delicate" id="01" vncls="">
+<role argnum="0" argrole="entity or things becoming thin" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رقت عظام الطفل نتيجة مرضه</parse>
+
+<arg f="" g="bones" n="1">عظام</arg>
+<arg f="" g="the baby" n="2">الطفل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="affected entity" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to pity (multi word expression)" id="02" vncls="">
+<role argnum="1" argrole="entity having pity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رق قلبه على أخيه</parse>
+
+<arg f="" g="his heart" n="1">قلبه</arg>
+<arg f="" g="on his brother" n="2">على أخيه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="beneficiary" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to become bad (multi word expression)" id="03" vncls="">
+<role argnum="1" argrole="things getting bad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رق حال الرجل</parse>
+
+<arg f="" g="the man's conditions" n="1">حال الرجل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>ساء و قل ماله</comment>
+</frameset>
+<comment/>
+</verb>

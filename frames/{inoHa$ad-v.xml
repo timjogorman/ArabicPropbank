@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHa$ad</id>
+
+<frameset cdef="" edef="to be gathered or mobilized" id="01" vncls="">
+<role argnum="1" argrole="entity being mobilized" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحشد الناس في الملعب</parse>
+
+<arg f="" g="people" n="1">الناس</arg>
+<arg f="" g="in the stadium" n="2">في الملعب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="place" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

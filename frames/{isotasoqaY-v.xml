@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotasoqaY</id>
+<comment/>
+<frameset cdef="" edef="to ask fro a drink" id="01">
+<role argnum="0" argrole="entity asking"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وأوحينا إِلى موسى إِذ استسقاه قَومه أن اضرب بعصاك الحجر</parse>
+<comment/>
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="his people" n="0">قَومه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from"/>
+<role argnum="2" argrole="the drink"/>
+</frameset>
+</verb>

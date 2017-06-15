@@ -1,33 +1,55 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>OajAb</id>
-    <frameset edef="to reply/answer" id="01">
-        <role argnum="0" argrole="replier"/>
-        <role argnum="1" argrole="in response to"/>
-        <role argnum="2" argrole="answer/manner/attitude"/>
-        <frame>
-            <mapping>
-                <V/>
-                <mapitem src="sbj" trg="arg0"/>
-            </mapping>
-            <example>
-                <parse>
-                    (S (VP (answer/reply/comply+he/it M-OajAba M -أَجابَ)
-                    (NP-SBJ (-NONE- X))
-                    (SBAR (that MOan~a- M أَنَّ-)
-                    (S (NP-TPC-2 (it/he M-hu M -هُ))
-                    (VP (PRT (no/not/non- MlA M لا))
-                    (he/it+want/desire/intend Myuriydu M يُرِيدُ)
-                    (NP-SBJ-2 (-NONE- XTX))
-                    (NP-OBJ (NP (the+comment/remark/commentary MAlt~aEoliyqa M التَّعْلِيقَ))
-                    (PP (on/above MEalaY M عَلَى)
-                    (NP (assumptions/suppositions/hypotheses MAifotirADAtK M اِفْتِراضاتٍ)))))))))
-                    (PUNC .))
-                </parse>
-                <arg g="NP-SBJ=1" n="0">X</arg>
-                <arg g="that he does not intend to comment any assumptions" n="2">Oan~a- -hu lA yuriydu XTX Alt~aEoliyqa EalaY AifotirADAtK</arg>
-                <V/>
-            </example>
-        </frame>
-    </frameset>
+<id>OajAb</id>
+<frameset cdef="" edef="to reply/answer" id="01">
+<role argnum="0" argrole="replier"/>
+<role argnum="1" argrole="in response to"/>
+<role argnum="2" argrole="answer/manner/attitude"/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+<comment/>
+</mapping>
+<example>
+<parse>(S (VP (answer/reply/comply+he/it M-OajAba M -أَجابَ)
+          (NP-SBJ (-NONE- X))
+          (SBAR (that MOan~a- M أَنَّ-)
+                (S (NP-TPC-2 (it/he M-hu M -هُ))
+                   (VP (PRT (no/not/non- MlA M لا))
+                       (he/it+want/desire/intend Myuriydu M يُرِيدُ)
+                       (NP-SBJ-2 (-NONE- XTX))
+                       (NP-OBJ (NP (the+comment/remark/commentary MAlt~aEoliyqa M التَّعْلِيقَ))
+                               (PP (on/above MEalaY M عَلَى)
+                                   (NP (assumptions/suppositions/hypotheses MAifotirADAtK M اِفْتِراضاتٍ)))))))))
+   (PUNC .))</parse>
+<arg f="" g="NP-SBJ=1" n="0">X</arg>
+<arg f="" g="that he does not intend to comment any assumptions" n="2">Oan~a- -hu lA yuriydu XTX Alt~aEoliyqa EalaY AifotirADAtK</arg>
+<V/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to grant, to fulfil" id="02">
+<role argnum="0" argrole="entity granting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اجاب الرئيس مطالب الشعب بعد المظاهرات</parse>
+<comment/>
+<arg f="" g="the presedent" n="0">الرئيس</arg>
+<arg f="" g="demands" n="1">مطالب</arg>
+<arg f="" g="the people" n="2">الشعب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things granted"/>
+<role argnum="2" argrole="to whom"/>
+</frameset>
 </verb>

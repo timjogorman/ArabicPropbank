@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dak~-u</id>
+<comment/>
+<frameset cdef="" edef="to tear down or pull down, to crush, to level off" id="01">
+<role argnum="0" argrole="entity tearing down"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دك الجيش حصون العدو</parse>
+<comment/>
+<arg f="" g="the army" n="0">الجيش</arg>
+<arg f="" g="the enemy forts" n="1">حصون العدو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things torn down"/>
+</frameset>
+<frameset cdef="" edef="to fill or load" id="02">
+<role argnum="0" argrole="entity filling"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دك * البئر بالتراب</parse>
+<comment/>
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="the well" n="1">البئر</arg>
+<arg f="" g="with dirt" n="2">بالتراب</arg>
+</example>
+<comment/>
+</frame>
+<comment>طما، طمر</comment>
+<role argnum="1" argrole="things filled"/>
+<role argnum="2" argrole="with what"/>
+</frameset>
+</verb>

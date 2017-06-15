@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>talAsaE</id>
+
+<frameset cdef="" edef="to sting, to hurt with words" id="01" vncls="">
+<role argnum="0" argrole="entity stinging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تلاسع الرجل وزوجته بكلمات قاسية</parse>
+
+<arg f="" g="the husbsand" n="0">الرجل</arg>
+<arg f="" g="and his wife" n="1">وزوجته</arg>
+<arg f="" g="with harsh word" n="2">بكلمات قاسية</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity stinged" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

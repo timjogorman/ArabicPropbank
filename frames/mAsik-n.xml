@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mAsik</id>
+
+<frameset cdef="" edef="holder" id="01" vncls="">
+<role argnum="0" argrole="holder entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ماسكانى* مقاولة من اول الجواز</parse>
+
+<arg f="" g="she" n="0">*</arg>
+<arg f="" g="me" n="1">ى</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing held" vncls="" vntheta=""/>
+<comment>Eg</comment>
+</frameset>
+<comment/>
+</verb>

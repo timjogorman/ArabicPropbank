@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>samal-u</id>
+<comment/>
+<frameset cdef="" edef="to rip or slit open" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سمل الرجل عين أخاه بالخطأ</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother's eye" n="1">عين أخاه</arg>
+<arg f="mnr" g="by mistake" n="m">بالخطأ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things opened" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to become worn" id="02" vncls="">
+<role argnum="1" argrole="entity becoming worn" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سمل الثوب</parse>
+<comment/>
+<arg f="" g="the dress" n="1">الثوب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

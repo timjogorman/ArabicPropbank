@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fatorap</id>
+<comment/>
+<frameset cdef="" edef="period of time" id="01" vncls="">
+<role argnum="1" argrole="the period of time" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا قعدت هناك فترة خمس دقائق</parse>
+<comment/>
+<arg f="" g="five minutes" n="1">خمس دقائق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

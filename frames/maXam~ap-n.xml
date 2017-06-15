@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maXam~ap</id>
+<comment/>
+<frameset cdef="" edef="dispraise, to vilify" id="01" vncls="">
+<role argnum="0" argrole="entity disprasing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أكمل العبارة التالية: إذا أتتك مذمة من جاهل .... كامل</parse>
+<comment/>
+<arg f="" g="from an ignorant" n="0">من جاهل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things dispraised" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

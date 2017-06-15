@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotanofaE</id>
+<comment>EGYPTIAN ARABIC Framefile based on {inotafaE-v</comment>
+<frameset cdef="" edef="to make use of, to take advantage of" id="01" vncls="">
+<role argnum="1" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>المثل بيقول نفع و استنفع * مثل غيرك</parse>
+<comment/>
+<arg f="" g="NONE" n="1">*?  NONE</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<role argnum="3" argrole="things got" vncls="" vntheta=""/>
+</frameset>
+</verb>

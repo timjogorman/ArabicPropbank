@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EadaY</id>
+<comment/>
+<frameset cdef="" edef="to infect" id="01" vncls="">
+<role argnum="0" argrole="entity infecting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو اللي عدانا * بالبرد</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="with cold" n="2">بالبرد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="infected" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

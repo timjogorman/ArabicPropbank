@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEAyi$</id>
+<comment/>
+<frameset cdef="" edef="To coexist or live in peace with others" id="01" vncls="">
+<role argnum="0" argrole="entity lives with coexistence" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا اليوم ممكن أتعايش * مع أي واحد في أي مكان</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="with anyone" n="1">مع أي واحد</arg>
+<arg f="" g="in anywhere" n="2">في أي مكان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity coexist with" vncls="" vntheta=""/>
+<role argnum="2" argrole="common home" vncls="" vntheta=""/>
+</frameset>
+</verb>

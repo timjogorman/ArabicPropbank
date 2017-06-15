@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaraY</id>
+<comment/>
+<frameset cdef="" edef="to show to demonstrate" id="01" vncls="">
+<role argnum="0" argrole="shower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (CONJ وِ)
+      (VP
+        (CV+CVSUFF_SUBJ:2MS ار)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-DTV
+          (CVSUFF_DO:3P هُم))
+        (NP-OBJ
+          (DET+NOUN الحَقّ))
+        (NP-ADV
+          (NOUN حَقّ))))
+    (CONJ وِ)
+    (S
+      (VP
+        (CV+CVSUFF_SUBJ:2MS ارزق)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (CVSUFF_DO:3P هُم))
+        (NP-DTV
+          (NOUN ٱِتِّباع)
+          (NP
+            (POSS_PRON_3MS ُه)))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="they" n="2">هُم</arg>
+<arg f="" g="the truth" n="1">الحَقّ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things showed" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

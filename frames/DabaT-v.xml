@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>DabaT</id>
+
+<frameset cdef="" edef="catch, arrest, hold, stop or capture, to controll, to correct or fix" id="01" vncls="">
+<role argnum="0" argrole="causer of stopping or controlling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>يا ناس اضبطوا * أعصابكم</parse>
+
+<arg f="" g="people" n="0">* ناس</arg>
+<arg f="" g="your temper" n="1">أعصابكم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing stopping" vncls="" vntheta=""/>
+<comment>ERZ</comment>
+</frameset>
+<comment/>
+</verb>

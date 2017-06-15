@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>naf~aD</id>
+<comment>EGYPTIAN ARABIC based on nafaD-u</comment>
+    <frameset cdef="" edef="to shake off" id="01">
+<role argnum="0" argrole="agent" />
+<role argnum="1" argrole="thing being shaken off" />
+<role argnum="2" argrole="shaken off from what" />
+<frame>
+<example>
+<parse>
+وتحاول صنعاء ان تنفض * عن نفسها صورتها كملاذ آمن للاسلاميين المتشددين واعتقلت * عشرات ممن يشتبه *-2 في انهم **-1 اعضاء في تنظيم &quot;القاعدة&quot; في حملة ضخمة في اطار الحرب التي تقودها **-3 الولايات المتحدة ضد &quot;الارهاب&quot;.
+</parse>
+<arg f="" g="-NONE- &lt; San'aa'" n="0">* &lt; صنعاء</arg>
+<arg f="" g="as a safe haven for Islamic extremists" n="1">كملاذ آمن للاسلاميين المتشددين</arg>
+</example>
+<example>
+<parse>
+وتحاول صنعاء ان تنفض * عن نفسها صورتها كملاذ آمن للاسلاميين المتشددين
+</parse>
+<arg f="" g="Sanaa" n="0">* &lt; صنعاء</arg>
+<arg f="" g="from itself" n="2">عن نفسها</arg>
+<arg f="" g="its image as a safe haven for Islamic extremists" n="1">صورتها كملاذ آمن للاسلاميين المتشددين</arg>
+</example>
+</frame>
+<comment>Based on roleset nafaD-u.01</comment></frameset>
+</verb>

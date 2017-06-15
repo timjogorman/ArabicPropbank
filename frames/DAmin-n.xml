@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>DAmin</id>
+<comment/>
+<frameset cdef="" edef="guarantor, warrantor" id="01" vncls="">
+<role argnum="0" argrole="entity givin the assurance" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>محدش ضامن * عمره</parse>
+<comment/>
+<arg f="" g="nobody" n="0">محدش</arg>
+<arg f="" g="his life" n="1">عمره</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing assured" vncls="" vntheta=""/>
+</frameset>
+</verb>

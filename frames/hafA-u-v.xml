@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hafA-u</id>
+<comment/>
+<frameset cdef="" edef="to long or yearn for" id="01" vncls="">
+<role argnum="0" argrole="entity longing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هفا الشيخ الى أيام الشباب</parse>
+<comment/>
+<arg f="" g="the old man" n="0">الشيخ</arg>
+<arg f="" g="to the days of yought" n="1">الى أيام الشباب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

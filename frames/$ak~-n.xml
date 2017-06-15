@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$ak~</id>
+<comment/>
+<frameset cdef="" edef="doubt, suspicion" id="01" vncls="">
+<role argnum="0" argrole="entity doubting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-SBJ
+      (NOUN_PROP مَصْر))
+    (NP-PRD
+      (NOUN أُمّ)
+      (NP
+        (DET+NOUN الدُنْيا))))
+  (S
+    (VP
+      (PP-PRD
+        (X
+          (NO_FUNC مفيش)))
+      (S-SBJ-NOM
+        (VP
+          (NOUN.VN شَكّ)
+          (NP-SBJ
+            (-NONE- *))
+          (PP-CLR
+            (PREP فِي)
+            (NP
+              (NP
+                (DET+NOUN الكَلام))
+              (NP
+                (DEM_PRON_MS دَه)))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* ? NONE</arg>
+<arg f="" g="in these words" n="1">في الكلام ده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

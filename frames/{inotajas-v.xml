@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotajas</id>
+
+<frameset cdef="" edef="to be stepped  on , crushed, treaded" id="01" vncls="">
+<role argnum="0" argrole="agent treading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتجست الأزهار بعجلات السيارة</parse>
+
+<arg f="" g="flowers" n="1">الأزهار</arg>
+<arg f="" g="with the car tires" n="2">بعجلات السيارة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing stepped on" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

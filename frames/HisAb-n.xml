@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HisAb</id>
+
+<frameset cdef="" edef="consideration, accounting" id="01" vncls="">
+<role argnum="0" argrole="entity taking consideratoion" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عملت حسابي *للوضوع</parse>
+
+<arg f="" g="*" n="0">*</arg>
+<arg f="" g="for the matter" n="0">للوضوع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing to be considered" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to Arg1" vncls="" vntheta=""/>
+<comment>Egyptian Arabic</comment>
+</frameset>
+<comment/>
+</verb>

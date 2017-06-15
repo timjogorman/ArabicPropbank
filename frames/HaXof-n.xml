@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HaXof</id>
+<comment/>
+<frameset cdef="" edef="canceling, eliminating" id="01" vncls="">
+<role argnum="0" argrole="the canceler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم حذف * اسمه من الكتب</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="his name" n="1">اسمه</arg>
+<arg f="" g="from the books" n="2">من الكتب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing canceled" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gadir</id>
+<comment/>
+<frameset cdef="" edef="to betray or double-cross" id="01" vncls="">
+<role argnum="0" argrole="entity betraying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غدر الرجل بأخاه في حصته</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to his brother" n="1">بأخاه</arg>
+<arg f="" g="in his share" n="2">في حصته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity betrayed" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

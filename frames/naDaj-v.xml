@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naDaj</id>
+
+<frameset cdef="" edef="to ripen, to mature, to become fully mature" id="01" vncls="">
+<role argnum="1" argrole="entity getting mature, things to be ripe" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ومتى نضج المحصول فأجمعوه في سلال</parse>
+
+<arg f="" g="the harvest" n="1">المحصول</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

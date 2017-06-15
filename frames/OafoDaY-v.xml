@@ -1,45 +1,91 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>OafoDaY</id>
-    <frameset cdef="" edef="to become" id="01">
-        <role argnum="0" argrole="entity changing"/>
-        <role argnum="1" argrole="goal or end state"/>
-        <frame>
-            <example>
-                <parse>
-                    (CONJ و)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS كان)
-                    (NP-SBJ
+<id>OafoDaY</id>
+<frameset cdef="" edef="to become, to arrive at, to become wide" id="01" vncls="">
+<role argnum="0" argrole="entity changing" vncls="" vntheta=""/>
+<role argnum="1" argrole="goal or end state" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS كان)
+      (NP-SBJ
+        (NP
+          (NOUN+CASE_INDEF_NOM حديث))
+        (NP-ADV
+          (NOUN+CASE_DEF_ACC حول)
+          (SBAR-NOM
+            (WHNP-2
+              (REL_PRON ما))
+            (S
+              (VP
+                (PRT
+                  (FUT_PART س))
+                (IV3FS+IV+IVSUFF_MOOD:I تفضي)
+                (PP-CLR
+                  (PREP الي)
+                  (NP
                     (NP
-                    (NOUN+CASE_INDEF_NOM حديث))
-                    (NP-ADV
-                    (NOUN+CASE_DEF_ACC حول)
-                    (SBAR-NOM
-                    (WHNP-2
-                    (REL_PRON ما))
-                    (S
-                    (VP
-                    (PRT
-                    (FUT_PART س))
-                    (IV3FS+IV+IVSUFF_MOOD:I تفضي)
-                    (PP-CLR
-                    (PREP الي)
+                      (PRON_3MS ه))
                     (NP
-                    (NP
-                    (PRON_3MS ه))
-                    (NP
-                    (-NONE- *T*-2))))
-                    (NP-SBJ
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM القمة)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM العربية)))))))))
-                    (PUNC &amp;quot;)
-                    (PUNC .))
-                </parse>
-                <arg f="" g="to it" n="1">اليه</arg>
-                <arg f="" g="the Arab Summit" n="0">القمة العربية</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (-NONE- *T*-2))))
+                (NP-SBJ
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM القمة)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM العربية)))))))))
+  (PUNC &quot;)
+  (PUNC .))</parse>
+<arg f="" g="to it" n="1">اليه</arg>
+<arg f="" g="the Arab Summit" n="0">القمة العربية</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to inform of or about, to tell about, to reveal one's secret" id="02" vncls="">
+<role argnum="0" argrole="teller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أفضى * اليه بسر لم يعلمه غيره</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="to him" n="1">اليه</arg>
+<arg f="" g="with a secret" n="2">بسر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity told or listener" vncls="" vntheta=""/>
+<role argnum="2" argrole="utterance" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to lead to, to cause (أدى الى)" id="03" vncls="">
+<role argnum="0" argrole="things causing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كلامه أفضى * الى نتائج سلبية</parse>
+<comment/>
+<arg f="" g="his words" n="0">كلامه</arg>
+<arg f="" g="to negative results" n="1"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+</frameset>
 </verb>

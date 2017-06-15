@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maDomuwn</id>
+
+<frameset cdef="" edef="guaranteed" id="01" vncls="">
+<role argnum="0" argrole="agent,entity making guarantee" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هذا التلفزيون مضمون * من قبل الشركة أن يعمل لعشر سنوات</parse>
+
+<arg f="" g="this TV" n="1">* هذا التلفزيون</arg>
+<arg f="" g="by the company" n="0">من قبل الشركة</arg>
+<arg f="" g="to work for ten years" n="2">أن يعمل لعشر سنوات</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the garantee" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="content, meaning" id="02" vncls="">
+<role argnum="1" argrole="meaning of what" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مضمون الكتاب أن المحبة هي كل شيء</parse>
+<comment/>
+<arg f="" g="the book" n="1">الكتاب</arg>
+<arg f="" g="that love is every thing" n="2">أن المحبة هي كل شيء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

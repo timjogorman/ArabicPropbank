@@ -1,0 +1,18 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>misotagoniy</id>
+<frameset cdef="" edef="to manage with out, to not need" id="01" vncls="">
+<role argnum="0" argrole="the satisfied one" vncls="" vntheta="" />
+<role argnum="1" argrole="satisfied with" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>استغنى العامل بوظيفته</parse>
+<arg f="" g="the worker" n="0">العامل</arg>
+<arg f="" g="with his job" n="1">بوظيفته</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {isotagonaY.01</comment>
+</frameset>
+<comment>Framefile based on {isotagonaY</comment>
+</verb>

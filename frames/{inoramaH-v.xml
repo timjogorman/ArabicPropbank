@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoramaH</id>
+
+<frameset cdef="" edef="to be pierced with a lance" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انرمح المصارع بالرمح</parse>
+
+<arg f="" g="the gladiator" n="1">المصارع</arg>
+<arg f="" g="with a spear" n="2">بالرمح</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity pierced" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument, lance" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoxAbiv</id>
+<comment/>
+<frameset cdef="" edef="to be or become wicked, to behave maliciously or wickedly" id="01" vncls="">
+<role argnum="0" argrole="entity behaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو بيتخابس * في شغله</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="in his work" n="1">في شغله</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

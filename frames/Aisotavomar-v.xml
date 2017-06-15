@@ -1,0 +1,143 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aisotavomar</id>
+<comment>EGYPTIAN ARABIC based on {isotavomar</comment>
+    <frameset cdef="" edef="to invest" id="01">
+<role argnum="0" argrole="investor" />
+<role argnum="1" argrole="thing invested" />
+<role argnum="2" argrole="invested in" />
+<frame>
+<example>
+<parse>
+(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS ابدى)
+    (NP-SBJ
+      (-NONE- *))
+    (S-NOM-OBJ
+      (VP
+        (PUNC &quot;)
+        (NOUN.VN+CASE_DEF_ACC استعداد)
+        (NP-SBJ
+          (NP
+            (DET+NOUN+CASE_DEF_GEN المكتب)
+            (DET+ADJ+CASE_DEF_GEN اللبناني))
+          (PP
+            (PREP ل)
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN لتجارة)
+              (CONJ و)
+              (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN المعلومات))))
+        (PP
+          (PREP ل)
+          (NP
+            (NP
+              (NP
+                (DET+NOUN+CASE_DEF_GEN لتعاون))
+              (NP-ADV
+                (NOUN+CASE_DEF_ACC مع)
+                (NP
+                  (NP
+                    (NOUN_QUANT+CASE_DEF_GEN اي)
+                    (NP
+                      (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN مؤسسة)
+                      (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN لبنانية)))
+                  (SBAR
+                    (WHNP-1
+                      (-NONE- 0))
+                    (S
+                      (NP-PRD
+                        (NOUN لدي)
+                        (NP
+                          (NP
+                            (PRON_3FS ها))
+                          (NP
+                            (-NONE- *T*-1))))
+                      (NP-SBJ
+                        (NP
+                          (NOUN+CASE_INDEF_NOM مشروع))
+                        (SBAR
+                          (WHNP-2
+                            (-NONE- 0))
+                          (S
+                            (VP
+                              (IV3MS+IV+IVSUFF_MOOD:I يمكن)
+                              (SBAR-SBJ
+                                (SUB_CONJ ان)
+                                (S
+                                  (VP
+                                    (IV3FS+IV+IVSUFF_MOOD:S تتوافر)
+                                    (PP
+                                      (PREP ل)
+                                      (NP
+                                        (NP
+                                          (PRON_3MS ه))
+                                        (NP
+                                          (-NONE- *T*-2))))
+                                    (NP-SBJ
+                                      (NOUN+CASE_DEF_NOM فرص)
+                                      (NP
+                                        (DET+NOUN+CASE_DEF_GEN النجاح)))))))))))))))
+            (CONJ و)
+            (NP
+              (NP
+                (PV+PVSUFF_SUBJ:3MS ربط)
+                (NP
+                  (PVSUFF_DO:3FS ها)))
+              (NP-ADV
+                (NOUN+CASE_DEF_ACC مع)
+                (NP
+                  (NP
+                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN مؤسسة)
+                    (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN اميركية))
+                  (SBAR
+                    (SBAR
+                      (WHNP-4
+                        (-NONE- 0))
+                      (S
+                        (VP
+                          (IV3FS+IV+IVSUFF_MOOD:I تقترض)
+                          (NP-SBJ
+                            (-NONE- *T*-4))
+                          (PP-MNR
+                            (PREP على)
+                            (NP
+                              (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مسؤوليت)
+                              (NP
+                                (NP
+                                  (POSS_PRON_3FS ها))
+                                (NP-3
+                                  (-NONE- *T*))))))))
+                    (CONJ و)
+                    (SBAR
+                      (WHNP-5
+                        (-NONE- 0))
+                      (S
+                        (VP
+                          (IV3FS+IV+IVSUFF_MOOD:I تستثمر)
+                          (NP-SBJ
+                            (-NONE- *T*-5))
+                          (NP-OBJ
+                            (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC قيمة)
+                            (NP
+                              (DET+NOUN+CASE_DEF_GEN القرض)))
+                          (PP
+                            (PREP في)
+                            (NP
+                              (NP
+                                (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN شراكة))
+                              (NP-ADV
+                                (NOUN+CASE_DEF_ACC مع)
+                                (NP
+                                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المؤسسة)
+                                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN اللبنانية))))))))))))))
+        (PUNC &quot;))))
+  (PUNC .))
+</parse>
+<arg f="" g="-NONE- &lt; an american organization" n="0">*T*-5 &lt; مؤسسة اميركية</arg>
+<arg f="" g="the value of the credit" n="1">قيمة القرض</arg>
+<arg f="" g="in a cooperation with the lebanse company" n="2">في شراكة مع المؤسسة اللبنانية</arg>
+</example>
+</frame>
+<comment>Based on roleset {isotavomar.01</comment></frameset>
+</verb>

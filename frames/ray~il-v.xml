@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ray~il</id>
+<comment/>
+<frameset cdef="" edef="dribble, drool" id="01" vncls="">
+<role argnum="0" argrole="entity drooling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ريل * على الطاولة</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="loc" g="on the table" n="m">على الطاولة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

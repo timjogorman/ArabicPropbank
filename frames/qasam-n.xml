@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qasam</id>
+<comment/>
+<frameset cdef="" edef="oath" id="01" vncls="">
+<role argnum="0" argrole="swearer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان قسم الشباب على المصحف بعدم التوقف حتى النصر رائعا</parse>
+<comment/>
+<arg f="" g="the youth" n="0">الشباب</arg>
+<arg f="" g="on the Kuran" n="1">على المصحف</arg>
+<arg f="" g="not to stop untill the victory" n="2">بعدم التوقف حتى النصر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="promise" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what ? (marked by بـ)" vncls="" vntheta=""/>
+</frameset>
+</verb>

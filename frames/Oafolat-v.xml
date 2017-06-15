@@ -1,33 +1,104 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Oafolat</id>
-    <frameset cdef="" edef="to escape" id="01">
-        <role argnum="0" argrole="escapee"/>
-        <role argnum="1" argrole="escaped from"/>
-        <frame>
-            <example>
-                <parse>
-                    (PUNC ,)
-                    (CONJ ف)
+<id>Oafolat</id>
+<frameset cdef="" edef="to escape" id="01" vncls="">
+<role argnum="0" argrole="escapee" vncls="" vntheta=""/>
+<role argnum="1" argrole="escaped from" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(PUNC ,)
+                                (CONJ ف)
+                                (S
+                                  (VP
+                                    (PRT
+                                      (NEG_PART لا))
+                                    (IV3MS+IV+IVSUFF_MOOD:I يفلت)
+                                    (NP-SBJ
+                                      (NOUN+CASE_INDEF_NOM أحد))
+                                    (PP
+                                      (PREP من)
+                                      (NP
+                                        (NOUN+CASE_DEF_GEN عقاب)
+                                        (NP
+                                          (POSS_PRON_3MS ه)))))))))))))))))))))
+  (PUNC .))</parse>
+<arg f="neg" g="not" n="m">لا</arg>
+<arg f="" g="anyone" n="0">أحد</arg>
+<arg f="" g="from their punishment" n="1">من عقابه</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to release" id="02" vncls="">
+<role argnum="0" argrole="releaser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (PP
+      (PREP وَ)
+      (NP
+        (NOUN_PROP اللَّه)))
+    (NP-ADV
+      (NOUN+CASE_INDEF_ACC فِعْلاً))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS صَدَق)
+      (NP-SBJ
+        (NP
+          (NOUN كَلام)
+          (NP
+            (DET+NOUN النَبِي)))
+        (S
+          (VP
+            (PSEUDO_VERB إِنَّ)
+            (NP-SBJ-1
+              (NOUN_PROP اللَّه))
+            (S
+              (VP
+                (X
+                  (NO_FUNC ليملي))
+                (NP-SBJ
+                  (-NONE- *T*-1))
+                (PP
+                  (PREP لِ)
+                  (NP
+                    (DET+NOUN الظالِم)))
+                (PP
+                  (PREP حَتَّى)
+                  (SBAR
+                    (-NONE- 0)
                     (S
-                    (VP
-                    (PRT
-                    (NEG_PART لا))
-                    (IV3MS+IV+IVSUFF_MOOD:I يفلت)
-                    (NP-SBJ
-                    (NOUN+CASE_INDEF_NOM أحد))
-                    (PP
-                    (PREP من)
-                    (NP
-                    (NOUN+CASE_DEF_GEN عقاب)
-                    (NP
-                    (POSS_PRON_3MS ه)))))))))))))))))))))
-                    (PUNC .))
-                </parse>
-                <arg f="neg" g="not" n="m">لا</arg>
-                <arg f="" g="anyone" n="0">أحد</arg>
-                <arg f="" g="from their punishment" n="1">من عقابه</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (SBAR-ADV
+                        (SUB_CONJ إِذا)
+                        (S
+                          (VP
+                            (PV+PVSUFF_SUBJ:3MS أَخَذَ)
+                            (NP-SBJ
+                              (-NONE- *))
+                            (NP-OBJ
+                              (PVSUFF_DO:3MS هُ)))))
+                      (VP
+                        (PRT
+                          (NEG_PART لَمْ))
+                        (IV3MS+IV+IVSUFF_MOOD:J يُفْلِتْ)
+                        (NP-SBJ
+                          (-NONE- *))
+                        (NP-OBJ
+                          (IVSUFF_DO:3MS هُ))))))))))))))</parse>
+<comment/>
+<arg f="" g="God" n="0">* اللَّه</arg>
+<arg f="" g="he" n="1">هُ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="released" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
 </verb>

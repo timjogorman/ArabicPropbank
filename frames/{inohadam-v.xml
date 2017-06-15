@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inohadam</id>
+
+<frameset cdef="" edef="to fall down or be destroyed" id="01" vncls="">
+<role argnum="1" argrole="entity destroyed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انهدم الجدار بالمطر الغزير</parse>
+
+<arg f="" g="the wall" n="1">الجدار</arg>
+<arg f="" g="heavy rain" n="2">بالمطر الغزير</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lahij</id>
+<comment/>
+<frameset cdef="" edef="to attach oneself to, to be very fond of, to speak constantly of or about" id="01" vncls="">
+<role argnum="0" argrole="entity speaking or attached" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لهج الرجل بها</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="by her" n="1">بها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what or with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoEaraj</id>
+<comment/>
+<frameset cdef="" edef="" id="01" vncls="">
+<role argnum="1" argrole="things curving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انعرجت السيارة   حول الشجرة</parse>
+<comment/>
+<arg f="" g="the car" n="1">السيارة</arg>
+<arg f="" g="around the tree" n="2">حول الشجرة</arg>
+</example>
+<comment/>
+</frame>
+<comment>to curve, to make a turn</comment>
+<role argnum="2" argrole="location/direction" vncls="" vntheta=""/>
+</frameset>
+</verb>

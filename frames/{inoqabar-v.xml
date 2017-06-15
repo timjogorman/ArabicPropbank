@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqabar</id>
+
+<frameset cdef="" edef="to be buried" id="01" vncls="">
+<role argnum="1" argrole="dead" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقبر الجندي في القبر</parse>
+
+<arg f="" g="the soldier" n="1">الجندي</arg>
+<arg f="" g="in the grave" n="2">في القبر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="where(the grave)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be hidden" id="02" vncls="">
+<role argnum="1" argrole="hidden entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقبر الملف عن المفتش تحت المكتب</parse>
+
+<arg f="" g="the file" n="1">الملف</arg>
+<arg f="" g="from the inspector" n="2">عن المفتش</arg>
+<arg f="" g="under the desk" n="3">تحت المكتب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

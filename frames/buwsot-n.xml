@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>buwsot</id>
+<comment/>
+<frameset cdef="" edef="to send a memo to" id="01" vncls="">
+<role argnum="0" argrole="sender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو عمل بوست * للكل</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="for everyone" n="1">للكل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="sent to" vncls="" vntheta=""/>
+<role argnum="2" argrole="about" vncls="" vntheta=""/>
+</frameset>
+</verb>

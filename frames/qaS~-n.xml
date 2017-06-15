@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaS~</id>
+<frameset cdef="" edef="to cut" id="01" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing being cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>ثم قص الوزير فرنجيه الشريط و تفقد * مع الفاعليات و الحضور اقسام المستشفى .</parse>
+<arg f="" g="Minister Faranje" n="0">الوزير فرنجيه</arg>
+<arg f="" g="the tape" n="1">الشريط</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset qaS~-u.01</comment>
+</frameset>
+<frameset cdef="" edef="to narrate or tell a story" id="02" vncls="">
+<role argnum="0" argrole="story teller" vncls="" vntheta=""/>
+<role argnum="1" argrole="story" vncls="" vntheta=""/>
+<role argnum="2" argrole="audience - usually marked by على" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>في تلك الليلة قصت عليهم شهرزاد قصة لم تنهها</parse>
+<arg f="" g="on them" n="2">عليهم</arg>
+<arg f="" g="Scheherazade" n="0">شهرزاد</arg>
+<arg f="" g="a story which she never finished" n="1">قصة لم تنهها</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<comment>مرادف: حكى
+
+Based on roleset qaS~-u.02</comment>
+</frameset>
+<comment>Framefile based on qaS~-u</comment>
+</verb>

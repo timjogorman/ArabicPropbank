@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>naf~is</id>
+<comment>EGYPTIAN ARABIC based on naf~as</comment>
+    <frameset cdef="" edef="to relieve the sorrow of, to cheer up, to release" id="01" vncls="">
+<role argnum="0" argrole="entity relieving" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-SBJ
+        (PRON_1S انا))
+      (ADJP-PRD
+        (NOUN آسِف))
+      (PP-PRP
+        (PREP فِي)
+        (NP
+          (NOUN تَطْوِيل)
+          (NP
+            (DET+NOUN الكَلام)))))
+    (CONJ بَسّ)
+    (S
+      (NP-TPC-1
+        (PRON_1S انا))
+      (VP
+        (PRT
+          (PROG_PART ب))
+        (IV1S+IV أَنَفِّس)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (PP-CLR
+          (PREP عَن)
+          (NP
+            (NP
+              (NP
+                (NOUN غَضَب)
+                (NP
+                  (POSS_PRON_1S ِي)))
+              (CONJ وِ)
+              (NP
+                (NOUN ياس)
+                (NP
+                  (POSS_PRON_1S ِي))))
+            (PP
+              (PREP مِن)
+              (NP
+                (NP
+                  (DET+NOUN البَلَد))
+                (NP
+                  (DEM_PRON_FS دِيَّة))))))))))</parse>
+<comment />
+<arg f="" g="me" n="0">* انا</arg>
+<arg f="" g="from my anger" n="1">عن غضبي</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset naf~as.01</comment>
+<role argnum="1" argrole="things relieved" vncls="" vntheta="" />
+</frameset>
+</verb>

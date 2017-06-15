@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oazab</id>
+<comment/>
+<frameset cdef="" edef="to flow or run, to stream" id="01" vncls="">
+<role argnum="1" argrole="things flow" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أزب الماء من القدح على الأرض</parse>
+<comment/>
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="from the cup" n="2">من القدح</arg>
+<arg f="" g="on the ground" n="3">على الأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+</verb>

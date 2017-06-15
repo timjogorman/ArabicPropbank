@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitodab~is</id>
+<comment/>
+<frameset cdef="" edef="To be Involved or implicate" id="01" vncls="">
+<role argnum="1" argrole="entity implicated" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا اتدبست * في الجوازة دي</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="in this marriage" n="2">في الجوازة دي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="involved in what?" vncls="" vntheta=""/>
+</frameset>
+</verb>

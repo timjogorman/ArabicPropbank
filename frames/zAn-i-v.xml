@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zAn-i</id>
+<comment/>
+<frameset cdef="" edef="to adorn or ornament, to make look good" id="01">
+<role argnum="0" argrole="entity making things look good"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زان الرجل كلامه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his words" n="1">كلامه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things made look good"/>
+</frameset>
+</verb>

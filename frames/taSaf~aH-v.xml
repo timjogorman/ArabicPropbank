@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taSaf~aH</id>
+<comment/>
+<frameset cdef="" edef="to skim (through or over), to browse through" id="01">
+<role argnum="0" argrole="entity brousing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تصفح * الكتاب من البداية الى النهاية</parse>
+<comment/>
+<arg f="" g="NONE" n="0">NONE</arg>
+<arg f="" g="the book" n="1">الكتاب</arg>
+<arg f="" g="from beginning" n="2">من البداية</arg>
+<arg f="" g="to the end" n="3">الى النهاية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="through what"/>
+<role argnum="2" argrole="start point"/>
+<role argnum="3" argrole="end point"/>
+</frameset>
+</verb>

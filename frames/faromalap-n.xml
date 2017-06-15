@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faromalap</id>
+<comment/>
+<frameset cdef="" edef="makeing stop/ break" id="01" vncls="">
+<role argnum="0" argrole="entity makeing break/ stop" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سينم فرملة * الأولاد عن اللعب كثير بالألعاب الإلكترونية</parse>
+<comment/>
+<arg f="" g="*" n="0">*</arg>
+<arg f="" g="the boys" n="1">الأولاد</arg>
+<arg f="" g="from playing the electronic games alot" n="1">عن اللعب كثير بالألعاب الإلكترونية</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian Arabic</comment>
+<role argnum="1" argrole="entity stopped" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

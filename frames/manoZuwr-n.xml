@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>manoZuwr</id>
+<comment/>
+<frameset cdef="" edef="seen , viewed, visible" id="01" vncls="">
+<role argnum="0" argrole="entity looking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>من منظور الناس اليه كبطل فهذا شيء جميل</parse>
+<comment/>
+<arg f="" g="the people" n="0">الناس</arg>
+<arg f="" g="at him" n="1">اليه</arg>
+<arg f="" g="as a hero" n="2">كبطل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things looked at" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

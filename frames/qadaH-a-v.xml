@@ -1,46 +1,127 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>qadaH-a</id>
-    
-    <frameset cdef="" edef="to slander" id="01">
-        <role argnum="0" argrole="defamer, agent"/>
-        <frame>
-            <mapping>
-                
-                <comment/>
-            </mapping>
-            <example>
-                <parse>لا يحبه الزملاء لأنه يقدح * في زملائه في غيابهم</parse>
-                
-                <arg f="" g="he" n="0">* &gt; ـه</arg>
-                <arg f="" g="of his colleagues" n="1">في زملائه</arg>
-                <comment/>
-            </example>
-            
-            <comment/>
-        </frame>
-        
-        <role argnum="1" argrole="entity defamed"/>
-        <comment/>
-    </frameset>
-    <comment/>
-    <frameset cdef="" edef="to strike fire" id="02">
-        <role argnum="0" argrole="agent"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>قدح الراعي الحجر  في الحطب  ليستدفئ</parse>
-                <comment/>
-                <arg f="" g="Shepherd" n="0">الراعي</arg>
-                <arg f="" g="Stone" n="1">الحجر</arg>
-                <arg f="" g="in the wood" n="2">في الحطب</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="instrument"/>
-        <role argnum="2" argrole="substance"/>
-    </frameset>
+<id>qadaH-a</id>
+
+<frameset cdef="" edef="to slander" id="01" vncls="">
+<role argnum="0" argrole="defamer, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>لا يحبه الزملاء لأنه يقدح * في زملائه في غيابهم</parse>
+
+<arg f="" g="he" n="0">* &gt; ـه</arg>
+<arg f="" g="of his colleagues" n="1">في زملائه</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity defamed" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to strike fire (with a flint)" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>قدح الراعي الحجر  في الحطب  ليستدفئ</parse>
+
+<arg f="" g="Shepherd" n="0">الراعي</arg>
+<arg f="" g="Stone" n="1">الحجر</arg>
+<arg f="" g="in the wood" n="2">في الحطب</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="instrument" vncls="" vntheta=""/>
+<role argnum="2" argrole="substance" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to get mad or angry (multi word expression)" id="03" vncls="">
+<role argnum="1" argrole="things getting spark (Usually عين)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ازداد غضب الأستاذ عدنان ، فاصفر وجهه ، و قدحت عيناه شررا ، و علا صوته أكثر و أكثر</parse>
+
+<arg f="" g="his eyes" n="1">عيناه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to think deeply" id="04" vncls="">
+<role argnum="0" argrole="entity thinking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قدح الرجل ذهنه في المسألة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his mind" n="1">ذهنه</arg>
+<arg f="" g="in the matter" n="2">في المسألة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="attributed to Arg 0 (mostly his mind)" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to contest, to challenge as false" id="05" vncls="">
+<role argnum="0" argrole="challenger" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قدح المحامي في شهادة الشهود</parse>
+
+<arg f="" g="the lawyer" n="0">المحامي</arg>
+<arg f="" g="in the testimony of witnesses" n="1">في شهادة الشهود</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things challenged" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

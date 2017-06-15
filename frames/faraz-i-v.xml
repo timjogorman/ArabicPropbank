@@ -1,0 +1,97 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faraz-i</id>
+
+<frameset cdef="" edef="to separate, to isolate" id="01" vncls="">
+<role argnum="0" argrole="entity separating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فرزت المرأة الحجر عن العدس</parse>
+
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="" g="the stones" n="1">الحجر</arg>
+<arg f="" g="the lentils" n="2">عن العدس</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things separated" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to count" id="02" vncls="">
+<role argnum="0" argrole="entity counting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فرز المكتب بطاقات  الناخبين</parse>
+
+<arg f="" g="the office" n="0">المكتب</arg>
+<arg f="" g="the voters cards" n="1">بطاقات  الناخبين</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things counted" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to secrete or excrete" id="03" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>افرزت مسام الجسم العرق</parse>
+
+<arg f="" g="the body pores" n="0">مسام الجسم</arg>
+<arg f="" g="the sweat" n="1">العرق</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things excreted" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+
+<comment/>
+</verb>

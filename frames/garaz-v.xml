@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>garaz</id>
+<comment/>
+<frameset cdef="" edef="to stick into, to prick" id="01" vncls="">
+<role argnum="0" argrole="entity sticking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غرز الطبيب الأبرة في جلد المريض</parse>
+<comment/>
+<arg f="" g="the doctor" n="0">الطبيب</arg>
+<arg f="" g="the needle" n="1">الأبرة</arg>
+<arg f="" g="in the paient skin" n="2">في جلد المريض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things sticked" vncls="" vntheta=""/>
+<role argnum="2" argrole="into what" vncls="" vntheta=""/>
+</frameset>
+</verb>

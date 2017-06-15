@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoxalaE</id>
+
+<frameset cdef="" edef="to dislocate,to be luxated, to be disjointed" id="01" vncls="zaAla-1">
+<role argnum="1" argrole="things dislocated" vncls="zaAla-1" vntheta="theme"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انخلغ كتف أخي عندما سقط من فوق الحصان</parse>
+
+<arg f="" g="shoulder" n="1">كتف</arg>
+<arg f="" g="my brother" n="2">أخي</arg>
+<arg f="tmp" g="when he fell from the horse" n="m">عندما سقط من فوق الحصان</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from whom or from what" vncls="zaAla-1" vntheta="source"/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to leave from, to run away" id="02" vncls="">
+<role argnum="0" argrole="entity running" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قلت  لأخويا انخلع * من قدامي قبل ما اقتلك</parse>
+
+<arg f="" g="my brother" n="0">* لأخويا</arg>
+<arg f="" g="from the front of" n="2">من قدام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from whom or from what" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="final distination" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be scared (multi word expression)" id="03" vncls="">
+<role argnum="0" argrole="entity scared" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انخلع قلبي من الحادث</parse>
+
+<arg f="" g="my heart" n="0">قلبي</arg>
+<arg f="" g="from the accident" n="1">من الحادث</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

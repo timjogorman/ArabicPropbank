@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotamokan</id>
+
+<frameset cdef="" edef="to can , to be able to do something" id="01" vncls="">
+<role argnum="1" argrole="entity that is able or capable" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استمكن المدير الجديد من الحصول على القرض</parse>
+
+<arg f="" g="the new manager" n="1">المدير الجديد</arg>
+<arg f="" g="to get the loan" n="2">من الحصول على القرض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="attribute that ARG0 is capable of doing" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to ennoble , to value, to gain mastery of" id="02" vncls="">
+<role argnum="0" argrole="entity ennobling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استمكن الموظفون المدير الجديد</parse>
+
+<arg f="" g="employees" n="0">الموظفون</arg>
+<arg f="" g="the new manager" n="1">المدير الجديد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity ennobled" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

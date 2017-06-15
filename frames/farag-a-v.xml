@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>farag-a</id>
+
+<frameset cdef="" edef="to become empty, to finish (doing something)" id="01" vncls="">
+<role argnum="1" argrole="entity becoming empty" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فرغ القدح من الماء</parse>
+
+<arg f="" g="the cup" n="1">القدح</arg>
+<arg f="" g="from the water" n="2">من الماء</arg>
+<comment/>
+</example>
+
+<example>
+<parse>فرغ التلميذ من القراءة</parse>
+
+<arg f="" g="the student" n="1">التلميذ</arg>
+<arg f="" g="from studying" n="2">من القراءة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<role argnum="2" argrole="of what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to go to, to seek, to head for" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سأفرغ * لموضوع البيت</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="for the house subject" n="1">لموضوع البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things seeked" vncls="" vntheta=""/>
+</frameset>
+</verb>

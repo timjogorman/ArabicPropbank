@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ibotagaY</id>
+<comment/>
+<frameset cdef="" edef="to seek or aim at, to want" id="01">
+<role argnum="0" argrole="entity wanting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ابتغى الرجل محبة زوجته</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the love" n="1">محبة</arg>
+<arg f="" g="his wife" n="2">زوجته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things wanted"/>
+<role argnum="2" argrole="source"/>
+</frameset>
+</verb>

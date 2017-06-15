@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kAXib</id>
+<frameset cdef="" edef="false, lier" id="01" vncls="">
+<role argnum="0" argrole="entity lying" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(VP
+      (PV+PVSUFF_SUBJ:3MS وصف)
+      (NP-OBJ
+        (PVSUFF_DO:3FS ها))
+      (NP-SBJ
+        (NOUN+NSUFF_MASC_PL_NOM مسؤولون)
+        (ADJ+NSUFF_MASC_PL_NOM اردنيون))
+      (PP-CLR
+        (PREP ب)
+        (SBAR
+          (SUB_CONJ أن)
+          (S
+            (NP-SBJ
+              (PRON_3FS ها))
+            (ADJP-PRD
+              (PUNC &quot;)
+              (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM كاذبة)
+              (PUNC &quot;)))))))</parse>
+<arg f="" g="they" n="0">?&lt; ها</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<comment>مكذوب</comment>
+<role argnum="1" argrole="faulse thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom, listener" vncls="" vntheta=""/>
+<role argnum="3" argrole="about what, topic" vncls="" vntheta=""/>
+</frameset>
+
+<comment/>
+</verb>

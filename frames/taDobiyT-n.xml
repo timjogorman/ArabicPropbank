@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taDobiyT</id>
+<comment/>
+<frameset cdef="" edef="arranging, making deal (multi word expression)" id="01" vncls="">
+<role argnum="0" argrole="entity arranging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم قاموا بتضبيط * كل حاجة مع الاولاد</parse>
+<comment/>
+<arg f="" g="they" n="0">* هم</arg>
+<arg f="" g="every thing" n="1">كل حاجة</arg>
+<arg f="" g="with the kids" n="2">مع الاولاد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things arranged" vncls="" vntheta=""/>
+<role argnum="2" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

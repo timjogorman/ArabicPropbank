@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maHosuws</id>
+<comment/>
+<frameset cdef="" edef="felt, sensed" id="01" vncls="">
+<role argnum="0" argrole="entity feeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الأعمى يقرأ بنقاط محسوسة بأصابعه</parse>
+<comment/>
+<arg f="" g="the blind" n="0">الأعمى</arg>
+<arg f="" g="points" n="1">بنقاط</arg>
+<arg f="mnr" g="with his fingers" n="m">بأصابعه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things felt" vncls="" vntheta=""/>
+</frameset>
+</verb>

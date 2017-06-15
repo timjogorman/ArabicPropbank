@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dafar</id>
+<comment/>
+<frameset cdef="" edef="to push, to cick" id="01" vncls="">
+<role argnum="0" argrole="pusher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دفر الرجل زميله</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">زميله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="pushed" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IiHATap</id>
+<comment/>
+<frameset cdef="" edef="to encircle" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم احاطة البناء بالحجر من قبل رجال الشرطة</parse>
+<comment/>
+<arg f="" g="the building" n="2">البناء</arg>
+<arg f="" g="with rock" n="1">بالحجر</arg>
+<arg f="" g="by the police" n="0">من قبل رجال الشرطة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing encircling" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing encircled" vncls="" vntheta=""/>
+<role argnum="3" argrole="material used to encircle (rare)" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to inform" id="02" vncls="">
+<role argnum="0" argrole="Informer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم احاطة المدير بما يجري من قبل مساعده</parse>
+<comment/>
+<arg f="" g="the manager" n="1">المدير</arg>
+<arg f="" g="with what is hapening" n="2">بما يجري</arg>
+<arg f="" g="by his assistant" n="0">من قبل مساعده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="Informed" vncls="" vntheta=""/>
+<role argnum="2" argrole="Information, marked with ب" vncls="" vntheta=""/>
+</frameset>
+</verb>

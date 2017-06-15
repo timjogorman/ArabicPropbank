@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotawozar</id>
+
+<frameset cdef="" edef="to make somebody a minister" id="01" vncls="">
+<role argnum="0" argrole="the person who's granting the position of minister" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استوزر الملك سلمى</parse>
+
+<arg f="" g="the king" n="0">الملك</arg>
+<arg f="" g="Salma" n="1">سلمى</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the person becoming a minister" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="position" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,67 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ead~aY</id>
+
+<frameset cdef="" edef="To go by or pass, to go beyond" id="01" vncls="">
+<role argnum="0" argrole="entity passing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>هو حيعدي * علينا بكرة</parse>
+
+
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="on us" n="1">علينا</arg>
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="place or thing being passed or medium going through" vncls="" vntheta=""/>
+
+
+
+<comment>Egyptian</comment>
+</frameset>
+
+
+<frameset cdef="" edef="to make cross over" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse/>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity helped" vncls="" vntheta=""/>
+<role argnum="2" argrole="over what" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+
+<comment>Egyptian</comment>
+</frameset>
+
+<comment/>
+</verb>

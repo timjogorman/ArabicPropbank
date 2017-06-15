@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zam~al</id>
+<comment/>
+<frameset cdef="" edef="to wpap up, to cover" id="01">
+<role argnum="0" argrole="entity hiding or covered"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زمل الرجل الطفل بثوبه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the baby" n="1">الطفل</arg>
+<arg f="" g="with his dress" n="2">بثوبه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things hidden or covered"/>
+<role argnum="2" argrole="in what or with what"/>
+</frameset>
+</verb>

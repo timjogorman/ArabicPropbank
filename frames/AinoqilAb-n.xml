@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinoqilAb</id>
+<comment/>
+<frameset cdef="" edef="coup d'etat, overthrow" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الشعب بأنقلاب * ضد الرئيس</parse>
+<comment/>
+<arg f="" g="the people" n="0">الشعب</arg>
+<arg f="" g="against the presedent" n="1">ضد الرئيس</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="against who" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="changing" id="02" vncls="">
+<role argnum="1" argrole="entity changint" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انقلاب لون الجلد من الأصفر الى الاحمر</parse>
+<comment/>
+<arg f="" g="skin color" n="1">لون الجلد</arg>
+<arg f="" g="from yellow" n="2">من الأصفر</arg>
+<arg f="" g="to red" n="3">الى الاحمر</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<role argnum="3" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to turn over" id="03" vncls="">
+<role argnum="1" argrole="entity turning over" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انقلاب الزورق في الماء</parse>
+<comment/>
+<arg f="" g="the boat" n="1">الزورق</arg>
+<arg f="" g="in the water" n="2">في الماء</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+</frameset>
+</verb>

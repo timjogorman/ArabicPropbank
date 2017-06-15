@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Iiro$Ad</id>
+<comment/>
+<frameset cdef="" edef="to guide, direct, lead, instruct" id="01" vncls="">
+<role argnum="0" argrole="entity guiding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت البنت بإرشاد * الشرطة الى الجاني</parse>
+<comment/>
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="the police" n="1">الشرطة</arg>
+<arg f="" g="to the attacker" n="2">الى الجاني</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity guided" vncls="" vntheta=""/>
+<role argnum="2" argrole="what arg1 is guided to do" vncls="" vntheta=""/>
+</frameset>
+</verb>

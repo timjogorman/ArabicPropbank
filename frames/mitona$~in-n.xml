@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitona$~in</id>
+<comment/>
+<frameset cdef="" edef="aiming at, directing" id="01" vncls="">
+<role argnum="0" argrole="entity aiming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا متنشن * عالعربية دي</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="for this car" n="1">عالعربية دي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="at what" vncls="" vntheta=""/>
+</frameset>
+</verb>

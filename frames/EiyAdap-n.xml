@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EiyAdap</id>
+<comment/>
+<frameset cdef="" edef="visiting a patient" id="01" vncls="">
+<role argnum="0" argrole="visitor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الطبيب بعيادة * المريض مرتين في اليوم</parse>
+<comment/>
+<arg f="" g="" n="0">* الطبيب</arg>
+<arg f="" g="" n="1">المريض</arg>
+<arg f="tmp" g="two time a day" n="m">مرتين في اليوم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="patient" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="clinic" id="02" vncls="">
+<role argnum="1" argrole="the clinic" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الرئيس بزيارة عيادة المقاتلين للأمراض المستعصية</parse>
+<comment/>
+<arg f="" g="the wariors" n="1">المقاتلين</arg>
+<arg f="" g="for the Incurable diseases" n="2">للأمراض المستعصية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what (if separated from ARG1)" vncls="" vntheta=""/>
+</frameset>
+</verb>

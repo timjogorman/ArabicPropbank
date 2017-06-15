@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoZAhir</id>
+
+    <frameset cdef="" edef="To demonstrate" id="01" vncls="">
+<role argnum="0" argrole="demonstrator" vncls="" vntheta=""/>
+<role argnum="1" argrole="cause" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS تأخر)
+      (NP-SBJ
+        (DET+NOUN+NSUFF_MASC_PL_NOM اللبنانيون))
+      (PP-CLR
+        (PREP عن)
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مشاركة)
+          (NP
+            (NOUN+CASE_DEF_GEN طلاب)
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجامعة)))))
+      (NP-TMP
+        (NOUN+CASE_DEF_ACC يوم)
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MP تظاهروا)
+            (NP-SBJ-1
+              (-NONE- *T*))
+            (NP-ADV
+              (NOUN+CASE_DEF_ACC ضد)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الضريبة)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المضافة))))))</parse>
+<arg f="" g="They" n="0">-NONE- *T*&lt;طلاب الجامعة</arg>
+<arg f="" g="Against the value-added tax" n="1">ضد الضريبة المضافة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset taZAhar.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on taZAhar</comment>
+<frameset cdef="" edef="To pretend" id="02" vncls="">
+<role argnum="0" argrole="pretender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو اتظاهر * بأنه رايح هناك</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="that he is going there" n="1">بأنه رايح هناك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="premise , thing being acquired" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

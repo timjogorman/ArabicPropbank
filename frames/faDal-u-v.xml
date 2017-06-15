@@ -1,0 +1,65 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faDal-u</id>
+
+<frameset cdef="" edef="to remain, to be left over" id="01" vncls="">
+<role argnum="1" argrole="left over one" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فضل هذا المبلغ من المبلغ الكلي</parse>
+
+<arg f="" g="this amount of money" n="1">هذا المبلغ</arg>
+<arg f="" g="from the original money" n="2">من المبلغ الكلي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="the origin" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to excel or surpass in generosity" id="02" vncls="">
+<role argnum="0" argrole="entity surpassing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فضل الرجل صاحبه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity surpassed" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to continue" id="03" vncls="">
+<role argnum="1" argrole="continuer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هى حترخصهم بس على الاقل حيفضلوا * لسه ينفعوا يتباعوا يعنى</parse>
+<comment/>
+<arg f="" g="they" n="1">*</arg>
+<arg f="" g="still fit for sale" n="2">لسه ينفعوا يتباعوا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="action" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$axar-i</id>
+
+<frameset cdef="" edef="to snort, to neigh, to bray" id="01" vncls="">
+<role argnum="0" argrole="entity snorting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شخر الرجل أثناء نومه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="tmp" g="while sleeping" n="m">أثناء نومه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

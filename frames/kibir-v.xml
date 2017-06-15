@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kibir</id>
+
+    <frameset cdef="" edef="to grow" id="01" vncls="">
+<role argnum="1" argrole="thing grown" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (S
+    (CONJ و)
+    (SBAR-TMP
+      (WHADVP-1
+        (REL_ADV كلما))
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:3FS قويت)
+          (NP-SBJ
+            (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM ارادة)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الانسان)))
+          (ADVP-TMP
+            (-NONE- *T*-1)))))
+    (VP
+      (PV+PVSUFF_SUBJ:3FS ازدادت)
+      (NP-SBJ
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM ثقت)
+          (NP
+            (POSS_PRON_3MS ه)))
+        (PP
+          (PREP ب)
+          (NP
+            (NOUN+CASE_DEF_GEN نفس)
+            (NP
+              (POSS_PRON_3MS ه)))))))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS كبر)
+      (NP-SBJ
+        (NOUN+CASE_DEF_NOM امل)
+        (NP
+          (POSS_PRON_3MS ه)))))
+  (PUNC ,)</parse>
+<arg f="" g="His hope" n="1">امله</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset kabar-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on kabar-u</comment>
+</verb>

@@ -1,0 +1,162 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamar</id>
+
+    <frameset cdef="" edef="to yield, lead to" id="01" vncls="">
+<role argnum="0" argrole="entity yielding" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity yielded" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3FS أفادت)
+      (NP-SBJ
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الامانة)
+          (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM العامة))
+        (PP
+          (PREP ل)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN لاتحاد)
+            (DET+ADJ+CASE_DEF_GEN اللبناني))))
+      (SBAR
+        (SUB_CONJ ان)
+        (S
+          (NP-TPC-1
+            (NOUN_PROP بلاتر))
+          (VP
+            (PV+PVSUFF_SUBJ:3MS استهل)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (DET+NOUN+CASE_DEF_ACC الاجتماع))
+            (PP-MNR
+              (PREP ب)
+              (NP
+                (NP
+                  (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN تهنئة)
+                  (NP
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN اللجنة)
+                      (DET+ADJ_COMP العليا))
+                    (PP
+                      (PREP ل)
+                      (NP
+                        (NP
+                          (DET+NOUN+CASE_DEF_GEN لاتحاد)
+                          (DET+ADJ+CASE_DEF_GEN اللبناني))
+                        (PP
+                          (PREP ل)
+                          (NP
+                            (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN كرة)
+                            (NP
+                              (DET+NOUN+CASE_DEF_GEN القدم))))))))
+                (PP
+                  (PREP ب)
+                  (NP
+                    (NOUN+CASE_DEF_GEN انتخاب)
+                    (NP
+                      (POSS_PRON_3FS ها)))))))))))
+  (PUNC ,)
+  (CONJ ثم)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS كان)
+      (NP-SBJ
+        (NP
+          (NOUN+CASE_INDEF_NOM عرض))
+        (PP
+          (PREP ل)
+          (NP
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN لازمة))
+            (SBAR
+              (SBAR
+                (WHNP-2
+                  (REL_PRON التي))
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3FS مرت)
+                    (PP
+                      (PREP ب)
+                      (NP
+                        (NP
+                          (PRON_3FS ها))
+                        (NP
+                          (-NONE- *T*-2))))
+                    (NP-SBJ
+                      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM اللعبة))
+                    (PP-LOC
+                      (PREP في)
+                      (NP
+                        (NOUN_PROP+CASE_INDEF_GEN لبنان)))
+                    (NP-TMP
+                      (NOUN+CASE_DEF_ACC قبل)
+                      (NP
+                        (NOUN+CASE_INDEF_GEN أشهر))))))
+              (CONJ و)
+              (SBAR
+                (WHNP-3
+                  (REL_PRON التي))
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3FS اثمرت)
+                    (NP-SBJ
+                      (-NONE- *T*-3))
+                    (NP-OBJ
+                      (NP
+                        (NOUN+NSUFF_FEM_PL+CASE_INDEF_ACC انتخابات))
+                      (ADJP
+                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC ديموقراطية)
+                        (CONJ و)
+                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC نزيهة))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="" n="0">-NONE- *T*-3</arg>
+<arg f="" g="honest democratic elections" n="1">إنتخابات ديمقراطية نزيهة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset Oavomar.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Oavomar</comment>
+<frameset cdef="" edef="to feed dates" id="02" vncls="">
+<role argnum="0" argrole="feeder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تمر الرجل ضيفه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his guest" n="1">ضيفه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="eater" vncls="" vntheta=""/>
+<role argnum="2" argrole="food" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to cut into small pieces" id="03" vncls="">
+<role argnum="0" argrole="entity cutting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تمر الرجل اللحم</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the meat" n="1">اللحم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

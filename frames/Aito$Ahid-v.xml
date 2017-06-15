@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$Ahid</id>
+<comment/>
+<frameset cdef="" edef="to announce that God is one (preparing to die)" id="01" vncls="">
+<role argnum="0" argrole="announcer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اول ما سمعنا بالخبر اتشاهد * نا على ارواحنا</parse>
+<comment/>
+<arg f="" g="we" n="0">نا</arg>
+<arg f="" g="on our soul" n="1">على ارواحنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attributed to Arg0" vncls="" vntheta=""/>
+</frameset>
+</verb>

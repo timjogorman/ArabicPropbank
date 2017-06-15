@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naqa$-u</id>
+
+<frameset cdef="" edef="to engrave or carve" id="01" vncls="">
+<role argnum="0" argrole="entity carving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نقش الفنان أسمه في الصخر بالمعول</parse>
+
+<arg f="" g="the artist" n="0">الفنان</arg>
+<arg f="" g="his name" n="1">أسمه</arg>
+<arg f="" g="in the rock" n="2">في الصخر</arg>
+<arg f="" g="with a pick" n="3">بالمعول</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things carved" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to pluck out, to pull out, to look for" id="02" vncls="">
+<role argnum="0" argrole="puller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نقش الشاب الشعر من أنفه بالمنقاش</parse>
+
+<arg f="" g="the young boy" n="0">الشاب</arg>
+<arg f="" g="the hair" n="1">الشعر</arg>
+<arg f="" g="from his nose" n="2">من أنفه</arg>
+<arg f="" g="with a tweezer" n="3"/>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things pulled" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>layot</id>
+<comment/>
+<frameset cdef="" edef="to wish or hope" id="01">
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ليتك تعرف مقدار محبتي لك</parse>
+<comment/>
+<arg f="" g="he" n="2">ك</arg>
+<arg f="" g="would know how much is my love for you" n="1">تعرف مقدار محبتي لك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things wished for"/>
+<role argnum="2" argrole="from whom"/>
+</frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaromad</id>
+
+<frameset cdef="" edef="to build something using brick" id="01" vncls="">
+<role argnum="0" argrole="entity bricking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قرمد الرجل البيت بالقرميد</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="with brick" n="2">بالقرميد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity built with brick" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

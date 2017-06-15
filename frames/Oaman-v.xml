@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oaman</id>
+<comment>EGYPTIAN ARABIC based on Oamin-a</comment>
+<comment/>
+<frameset cdef="" edef="to be or become safe, to feel safety" id="01">
+<role argnum="0" argrole="entity feeling safe"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ببقائه قرب أهله امن * غدر الاعداء</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="betrayel" n="2">غدر</arg>
+<arg f="" g="the enemy" n="1">الاعداء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from whom or what"/>
+<role argnum="2" argrole="in what"/>
+</frameset>
+<frameset cdef="" edef="to entrust" id="02">
+<role argnum="0" argrole="entity entrusting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أمن * الرجل على بيته</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="on his house" n="2">على بيته</arg>
+</example>
+<comment>يأتمن</comment>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity entrusted"/>
+<role argnum="2" argrole="with what"/>
+</frameset>
+</verb>

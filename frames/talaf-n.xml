@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>talaf</id>
+<comment/>
+<frameset cdef="" edef="damage, harm" id="01" vncls="">
+<role argnum="0" argrole="the destroyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سبب الحر في تلف * الأطعمة</parse>
+<comment/>
+<arg f="" g="the heat" n="0">* الحر</arg>
+<arg f="" g="the food" n="1">الأطعمة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity destroyed" vncls="" vntheta=""/>
+</frameset>
+</verb>

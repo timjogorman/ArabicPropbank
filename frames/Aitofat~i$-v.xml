@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitofat~i$</id>
+
+    <comment>EGYPTIAN ARABIC Framefile based on fat~i$-v</comment>
+<frameset cdef="" edef="to check or search (فتش الشيء)" id="02" vncls="">
+<role argnum="0" argrole="entity checking" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>الجيش كان بيفتش * كل عربية تمر من هناك</parse>
+<comment />
+<arg f="" g="the Army" n="0">* الجيش</arg>
+<arg f="" g="every car that pass by there" n="1">كل عربية تمر من هناك</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset fat~i$-v.02</comment>
+<role argnum="1" argrole="entity checked" vncls="" vntheta="" />
+</frameset>
+</verb>

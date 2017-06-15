@@ -1,0 +1,18 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Ait~aEaZ</id>
+<comment>EGYPTIAN ARABIC based on {it~aEaZ</comment>
+    <frameset cdef="" edef="to ponder after , get lesson" id="01">
+<role argnum="1" argrole="thinker" />
+<role argnum="2" argrole="thought" />
+<frame>
+<example>
+<parse>
+اتعظ بغيرك تكن اسعد الناس
+</parse>
+<arg f="" g="*" n="1">*</arg>
+<arg f="" g="with the others" n="2">بغيرك</arg>
+<arg f="prp" g="you will become the happiest person" n="m">تكن اسعد الناس</arg>
+</example>
+</frame>
+<comment>Based on roleset {it~aEaZ.01</comment></frameset>
+</verb>

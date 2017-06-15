@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naDax-a</id>
+<comment/>
+<frameset cdef="" edef="to sprinkle or spray" id="01" vncls="">
+<role argnum="0" argrole="entity spraying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نضخت البنت الثوب بالماء</parse>
+<comment/>
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="the dress" n="1">الثوب</arg>
+<arg f="" g="with water" n="2">بالماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity sprayed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to pump out" id="02" vncls="">
+<role argnum="1" argrole="entity pumpud out" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نضخ الماء من الينبوع</parse>
+<comment/>
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="from the spring" n="2">من الينبوع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what or where" vncls="" vntheta=""/>
+</frameset>
+</verb>

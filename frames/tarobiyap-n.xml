@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarobiyap</id>
+<comment/>
+<frameset cdef="" edef="edjucating or upbringing" id="01" vncls="">
+<role argnum="0" argrole="teacher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت الأم بتربية * أولادها على قول الحق</parse>
+<comment/>
+<arg f="" g="the mother" n="0">* الأم</arg>
+<arg f="" g="her children" n="1">أولادها</arg>
+<arg f="" g="to tell the truth" n="2">على قول الحق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="student" vncls="" vntheta=""/>
+<role argnum="2" argrole="lesson" vncls="" vntheta=""/>
+</frameset>
+</verb>

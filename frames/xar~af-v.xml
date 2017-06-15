@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xar~af</id>
+<comment/>
+<frameset cdef="" edef="to dote, to become a dotard" id="01" vncls="">
+<role argnum="1" argrole="entity becoming crazy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده بيخرف * بصحيح</parse>
+<comment/>
+<arg f="" g="this man" n="1">الراجل ده</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+</frameset>
+</verb>

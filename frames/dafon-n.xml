@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dafon</id>
+<comment/>
+<frameset cdef="" edef="to bury, to put, to forget (multi word expresion)" id="01" vncls="">
+<role argnum="0" argrole="entity burying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الجيش * بدفن القتلى في أرض المعركة</parse>
+<comment/>
+<arg f="" g="the Army" n="0">* الجيش</arg>
+<arg f="" g="the deadbattle field" n="1">القتلى</arg>
+<arg f="" g="in the" n="2">في أرض المعركة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity buried" vncls="" vntheta=""/>
+<role argnum="2" argrole="burial place" vncls="" vntheta=""/>
+</frameset>
+</verb>

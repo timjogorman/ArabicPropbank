@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jalojil</id>
+
+    <frameset cdef="" edef="to rattle, to clank, to jingle" id="01" vncls="">
+<role argnum="1" argrole="entity ringing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جلجل الرعد في السماء</parse>
+
+<arg f="" g="the thunder" n="1">الرعد</arg>
+<arg f="loc" g="in the sky" n="m">في السماء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset jalojal.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on jalojal</comment>
+<frameset cdef="" edef="to put Gel on hair (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity putting gel" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده بقاله ساعة قدام المراية بيجلجل * في شعره</parse>
+<comment/>
+<arg f="" g="he" n="0">* ده</arg>
+<arg f="" g="in his hair" n="1">في شعره</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what (rare)" vncls="" vntheta=""/>
+</frameset>
+</verb>

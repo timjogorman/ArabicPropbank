@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>juhod</id>
+<comment/>
+<frameset cdef="" edef="effort, endeavor, attempt" id="01" vncls="">
+<role argnum="0" argrole="entity trying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بذل الطالب جهده للنجاح</parse>
+<comment/>
+<arg f="" g="he" n="0">ه</arg>
+<arg f="" g="to succcess" n="1">للنجاح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to do what" vncls="" vntheta=""/>
+</frameset>
+</verb>

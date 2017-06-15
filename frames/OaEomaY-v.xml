@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaEomaY</id>
+<comment/>
+<frameset cdef="" edef="to make blind" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أعمى الله عيونهم</parse>
+<comment/>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="thier eyes" n="1">عيونهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

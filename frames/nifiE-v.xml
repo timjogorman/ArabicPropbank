@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nifiE</id>
+<comment/>
+<frameset cdef="" edef="to help or benefit" id="01" vncls="">
+<role argnum="1" argrole="help" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لم تنفعنا كل القرارات والندوات والبيانات</parse>
+<comment/>
+<arg f="" g="us" n="2">نا</arg>
+<arg f="" g="all the resolutions, conferences and statements" n="1">كل القرارات والندوات والبيانات</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="2" argrole="benefactive" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be usefull" id="02" vncls="">
+<role argnum="1" argrole="things usefull" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NP-TPC-3
+      (DEM_PRON دي))
+    (VP
+      (IV3FS+IV تنفع)
+      (NP-SBJ
+        (-NONE- *T*-3))
+      (NP-PRD
+        (NOUN+NSUFF_FEM_SG نكته))))
+  (S
+    (S
+      (PP
+        (PREP على)
+        (NP
+          (NOUN+NSUFF_FEM_SG فكرة)))
+      (NP-TPC-4
+        (DEM_PRON_FS دي))
+      (VP
+        (PV+PVSUFF_SUBJ:3FS كانت)
+        (NP-SBJ
+          (-NONE- *T*-4))
+        (NP-PRD
+          (NOUN حرب))))
+    (CONJ و)</parse>
+<comment/>
+<arg f="" g="it" n="1">دي</arg>
+<arg f="" g="joke" n="2">نكته</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="2" argrole="as what" vncls="" vntheta=""/>
+<role argnum="3" argrole="for whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

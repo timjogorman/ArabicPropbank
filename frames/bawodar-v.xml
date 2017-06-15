@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bawodar</id>
+
+<frameset cdef="" edef="to powder" id="01" vncls="">
+<role argnum="0" argrole="entity using pwoder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بودرت الأم ابنتها</parse>
+
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="her girl" n="1">ابنتها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="powder" vncls="" vntheta=""/>
+<role argnum="2" argrole="place" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

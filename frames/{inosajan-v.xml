@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosajan</id>
+
+<frameset cdef="" edef="to be enclosed or put in the prison" id="01" vncls="">
+<role argnum="1" argrole="encolsed one" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انسجن المجرم في السجن</parse>
+
+<arg f="" g="the criminal" n="1">المجرم</arg>
+<arg f="" g="ine the prison" n="2">في السجن</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

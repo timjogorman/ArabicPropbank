@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inokaZam</id>
+
+<frameset cdef="" edef="to be suppressed, contained or repressed" id="01" vncls="">
+<role argnum="1" argrole="entity suppress" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انكظم غضبه</parse>
+
+<arg f="" g="his anger" n="1"/>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be silent" id="02" vncls="">
+<role argnum="1" argrole="entity becoming silent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انكظمت الطفلة</parse>
+
+<arg f="" g="the girl" n="1">الطفلة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be closed" id="03" vncls="">
+<role argnum="1" argrole="entity closed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انكظم الباب</parse>
+
+<arg f="" g="the door" n="1">الباب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

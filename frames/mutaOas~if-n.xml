@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mutaOas~if</id>
+<comment/>
+<frameset cdef="" edef="sorry, regretful, sad, apologize" id="01" vncls="">
+<role argnum="0" argrole="entity apolocizing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا متأسف * يا أخي على اللي حصل</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="my brother" n="1">يا أخي</arg>
+<arg f="" g="for what happened" n="2">على اللي حصل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

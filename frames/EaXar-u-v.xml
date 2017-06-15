@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EaXar-u</id>
+
+<frameset cdef="" edef="to excuse, to forgive" id="01" vncls="">
+<role argnum="0" argrole="forgiver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (VP
+      (CV+CVSUFF_SUBJ:2FS اعذرِي)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (CVSUFF_DO:1S نِي))))
+  (S
+    (NP-SBJ
+      (NOUN شَكْل)
+      (NP
+        (POSS_PRON_1S ِي)))
+    (ADJP-PRD
+      (PRT
+        (NEG_PART مِش))
+      (ADJ+NSUFF_FEM_SG مِرَكِّزَة))))</parse>
+
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="me" n="1">نِي</arg>
+<comment/>
+<arg f="" g="for i am not paying attention" n="2">شكلي مش مركزة</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="forgived" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

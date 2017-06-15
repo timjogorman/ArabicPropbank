@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodaEas</id>
+
+<frameset cdef="" edef="to be crushed or squeezed into the floor by foot" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اندعس الصرصار بالحذاء</parse>
+
+<arg f="" g="Cockroach" n="1">الصرصار</arg>
+<arg f="" g="with the shoe" n="2">بالحذاء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things crushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

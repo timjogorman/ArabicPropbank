@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muHASarap</id>
+<comment/>
+<frameset cdef="" edef="to besiege, surround" id="01" vncls="">
+<role argnum="0" argrole="the besieger" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت قوات الجيش بمحاصرة * العدو في الصحراء</parse>
+<comment/>
+<arg f="" g="the army forces" n="0">* قوات الجيش</arg>
+<arg f="" g="the enemy" n="1">العدو</arg>
+<arg f="" g="in the desert" n="2">في الصحراء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the besieged" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+</frameset>
+</verb>

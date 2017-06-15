@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinosAq</id>
+<comment>EGYPTIAN ARABIC based on {inosAq</comment>
+    <frameset cdef="" edef="to drift, to be carried away, to be driven" id="01" vncls="">
+<role argnum="1" argrole="entity drifted" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>VP
+      (X
+        (PV+PVSUFF_SUBJ:3MS أَصْبَح)
+        (PVSUFF_DO:1P نا))
+      (NP-SBJ
+        (-NONE- *))
+      (PP-PRD
+        (PREP كَ)
+        (NP
+          (DET+NOUN العَبِيد)))
+      (S
+        (S
+          (VP
+            (IV1P+IV_PASS نِنساق)
+            (NP-SBJ
+              (-NONE- *))
+            (PP
+              (PREP بِ)
+              (NP
+                (NOUN+NSUFF_FEM_SG كِلْمَة)))))
+        (CONJ وِ)
+        (S
+          (VP
+            (IV1P+IV_PASS نِتفَرّق)
+            (NP-SBJ
+              (-NONE- *))
+            (PP
+              (PREP بِ)
+              (NP
+                (NOUN عَصا))))))))</parse>
+<comment />
+<arg f="" g="we" n="1">* نا</arg>
+<arg f="" g="by a word" n="2">بكلمة</arg>
+</example>
+<comment />
+</frame>
+<comment />
+<role argnum="2" argrole="by what" vncls="" vntheta="" />
+</frameset>
+</verb>

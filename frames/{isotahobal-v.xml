@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotahobal</id>
+<comment/>
+<frameset cdef="" edef="to play or act fool" id="01" vncls="">
+<role argnum="0" argrole="entity playing fool" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل قاعد بيستهبل * علشان ميدفعش فاتورة  الميه</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="cau" g="so he will not pay the water bill" n="m">علشان ميدفعش فاتورة الميه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

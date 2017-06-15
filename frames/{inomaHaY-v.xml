@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inomaHaY</id>
+
+<frameset cdef="" edef="to be erased or deleted" id="01" vncls="">
+<role argnum="1" argrole="the earsed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انمحت الكتابة من الورقة</parse>
+
+<arg f="" g="the writing" n="1">الكتابة</arg>
+<arg f="" g="the paper" n="2">من الورقة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

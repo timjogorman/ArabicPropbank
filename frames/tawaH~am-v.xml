@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tawaH~am</id>
+<comment/>
+<frameset cdef="" edef="crave for, feel appetite for" id="01" vncls="">
+<role argnum="0" argrole="entity craving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا باتوحم * على برتقالة</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="for an orrange" n="1">على برتقالة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

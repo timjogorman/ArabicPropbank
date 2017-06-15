@@ -1,0 +1,17 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hamiym</id>
+<frameset cdef="" edef="intimate" id="01" vncls="">
+<role argnum="1" argrole="intimate entity" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>*ادفع بالتي هي أحسن فإذا الذي بينك وبينه عداوة كأنه ولي حميم</parse>
+<arg f="" g="the one that between you and his there is enmity" n="1">* &lt; الذي بينك وبينه عداوة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

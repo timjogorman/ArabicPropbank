@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kalAm</id>
+<comment/>
+<frameset cdef="" edef="talk, speech" id="01" vncls="">
+<role argnum="0" argrole="talker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كلامك لي عن البنت مش عاجبني</parse>
+<comment/>
+<arg f="" g="you" n="0">ك</arg>
+<arg f="" g="to me" n="2">لي</arg>
+<arg f="" g="about the girl" n="1">عن البنت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="subject" vncls="" vntheta=""/>
+<role argnum="2" argrole="audience" vncls="" vntheta=""/>
+</frameset>
+</verb>

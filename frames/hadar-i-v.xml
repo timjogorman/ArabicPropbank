@@ -1,33 +1,128 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>hadar-i</id>
-    <frameset cdef="" edef="to yell or bellow" id="01">
-        <role argnum="0" argrole="thing yelling loudly"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS هدرت)
-                    (NP-SBJ-1
-                    (NOUN+CASE_DEF_ACC جزر)
-                    (NP
+<id>hadar-i</id>
+<frameset cdef="" edef="to yell or roar, to make the sound of pigeon (to coo)" id="01" vncls="">
+<role argnum="0" argrole="thing yelling loudly" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS هدرت)
+                (NP-SBJ-1
+                  (NOUN+CASE_DEF_ACC جزر)
+                  (NP
                     (DET+NOUN_PROP القمر)))
-                    (S-ADV
-                    (S
+                (S-ADV
+                  (S
                     (VP
-                    (ADJ.VN+NSUFF_FEM_SG+CASE_INDEF_ACC غاضبة)
-                    (NP-SBJ
-                    (-NONE- *-1))))
-                    (S
+                      (ADJ.VN+NSUFF_FEM_SG+CASE_INDEF_ACC غاضبة)
+                      (NP-SBJ
+                        (-NONE- *-1))))
+                  (S
                     (VP
-                    (ADJ.VN+NSUFF_FEM_SG+CASE_INDEF_ACC محتجَّة)
-                    (NP-SBJ
-                    (-NONE- *-1)))))))
-                </parse>
-                <arg f="" g="The Comoros Islands" n="0">جزر القمر</arg>
-                <arg f="mnr" g="angrily and arguingly" n="m">غاضبة *-1 محتجَّة *-1</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (ADJ.VN+NSUFF_FEM_SG+CASE_INDEF_ACC محتجَّة)
+                      (NP-SBJ
+                        (-NONE- *-1)))))))</parse>
+<arg f="" g="The Comoros Islands" n="0">جزر القمر</arg>
+<arg f="mnr" g="angrily and arguingly" n="m">غاضبة *-1 محتجَّة *-1</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to be spent uselessly" id="02" vncls="">
+<role argnum="0" argrole="entity spenting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ وَ)
+    (S
+      (VP
+        (PRT
+          (NEG_PART لا))
+        (IV2MS+IV تُهدِر)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (X
+            (NO_FUNC كرامتنا)))
+        (PP
+          (PREP عَلَى)
+          (NP
+            (NOUN أَيْدِي)
+            (NP
+              (NOUN نِظام)
+              (NP
+                (POSS_PRON_2MS َك)))))))
+    (CONJ فَ)
+    (S
+      (VP
+        (IV1P+IV نِهُون)
+        (NP-SBJ
+          (-NONE- *))
+        (PP-CLR
+          (PREP عَلَى)
+          (NP
+            (NP
+              (NOUN غِير)
+              (NP
+                (POSS_PRON_1P نا)))</parse>
+
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="our dignity" n="1">كرامتنا</arg>
+<arg f="" g="on the hands of your regime" n="2">على ايدي نظامك</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things spent" vncls="" vntheta=""/>
+<role argnum="2" argrole="manner or how" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+
+<comment/>
+<frameset cdef="" edef="to snarl or growl" id="03" vncls="">
+<role argnum="0" argrole="agentL" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هدرت الأم بكلمات غير واضحة عن زوجها</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="with unclear words" n="1">بكلمات غير واضحة</arg>
+<arg f="" g="about her husband" n="2">عن زوجها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="utterance" vncls="" vntheta=""/>
+<role argnum="2" argrole="subject" vncls="" vntheta=""/>
+</frameset>
 </verb>

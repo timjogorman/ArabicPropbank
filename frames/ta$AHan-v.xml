@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ta$AHan</id>
+<comment/>
+<frameset cdef="" edef="to spat or hassle, to quarrel" id="01" vncls="">
+<role argnum="0" argrole="a person engaged in a quarrel" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تشاحن الاب مع ابنه بسبب سلوكه</parse>
+<comment/>
+<arg f="" g="the father" n="0">الاب</arg>
+<arg f="" g="with his son" n="1">مع ابنه</arg>
+<arg f="" g="because of his behavior" n="2">بسبب سلوكه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="other person quarreling" vncls="" vntheta=""/>
+<role argnum="2" argrole="topic" vncls="" vntheta=""/>
+</frameset>
+</verb>

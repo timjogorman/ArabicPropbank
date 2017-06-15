@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaf~il</id>
+<comment/>
+<frameset cdef="" edef="to close" id="01" vncls="">
+<role argnum="0" argrole="entity closing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا قفلت * الموضوع</parse>
+<comment/>
+<arg f="" g="I" n="0">أنا</arg>
+<arg f="" g="the subject" n="1">الموضوع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things closed" vncls="" vntheta=""/>
+</frameset>
+</verb>

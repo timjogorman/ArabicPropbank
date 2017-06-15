@@ -1,0 +1,84 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>madobuwH</id>
+<comment/>
+<frameset cdef="" edef="slaughtered, slained" id="01" vncls="">
+<role argnum="0" argrole="the slaughterer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (VP
+        (X
+          (NO_FUNC وسابو))
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN ٱِبْن)
+          (NP
+            (POSS_PRON_3MS هُ)))
+        (PP-LOC
+          (PREP عَ)
+          (NP
+            (DET+ADJ الدائِرِي)))
+        (S-ADV
+          (VP
+            (ADJ.VN مَدبُوح)
+            (NP-SBJ-1
+              (-NONE- *))
+            (NP-OBJ
+              (-NONE- *-1))))))
+    (CONJ وِ)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3P اِتَّصَلُوا)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP بِ)
+          (NP
+            (PRON_3MS ه))))))
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3P قالُوا)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP لِ)
+        (NP
+          (PRON_3MS ُه)))
+      (S
+        (S
+          (VP
+            (CV+CVSUFF_SUBJ:2MS تَعال)
+            (NP-SBJ
+              (-NONE- *))))
+        (S
+          (VP
+            (CV+CVSUFF_SUBJ:2MS خُد)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NOUN ٱِبْن)
+              (NP
+                (POSS_PRON_2MS َك)))
+            (PP-LOC
+              (PREP مِن)
+              (NP
+                (PREP عَ)
+                (NP
+                  (DET+ADJ الدائِرِي))))))))))</parse>
+<comment/>
+<arg f="" g="his son" n="1">ابنه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the slaughtered" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

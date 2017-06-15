@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>murat~ab</id>
+<comment/>
+<frameset cdef="" edef="well arranged, well ordered, prepaired" id="01" vncls="">
+<role argnum="0" argrole="organizer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه الخطة مرتبة * من قبل القادة الكبار</parse>
+<comment/>
+<arg f="" g="this plan" n="1">هذه الخطة</arg>
+<arg f="" g="by the big leaders" n="0">من قبل القادة الكبار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing organized" vncls="" vntheta=""/>
+</frameset>
+</verb>

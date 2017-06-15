@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoEadal</id>
+
+<frameset cdef="" edef="to change, to become better or straight" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انعدلت قرارت الوزير</parse>
+
+<arg f="" g="the decisions of the minister" n="1">قرارت الوزير</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing changing" vncls="" vntheta=""/>
+<role argnum="2" argrole="start state" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="end state" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maworid</id>
+<comment/>
+<frameset cdef="" edef="resource, source" id="01" vncls="">
+<role argnum="1" argrole="the source" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه القصة هي المورد لكل الأخبار</parse>
+<comment/>
+<arg f="" g="this story" n="1">هذه القصة</arg>
+<arg f="" g="for all news" n="2">لكل الأخبار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="income, revenue" id="02" vncls="">
+<role argnum="1" argrole="the income" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا المبلغ هو المورد * لهذه العائلة من بيع الخبز</parse>
+<comment/>
+<arg f="" g="this amount of money" n="1">* هذا المبلغ</arg>
+<arg f="" g="for this family" n="2">لهذه العائلة</arg>
+<arg f="" g="from selling bread" n="3">من بيع الخبز</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

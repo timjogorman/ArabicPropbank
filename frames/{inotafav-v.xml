@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotafav</id>
+
+<frameset cdef="" edef="to become dirty" id="01" vncls="">
+<role argnum="1" argrole="thing dirty" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتفث الرجل بالغبار</parse>
+
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="with dust" n="2">بالغبار</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

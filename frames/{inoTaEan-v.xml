@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoTaEan</id>
+
+<frameset cdef="" edef="to be stabbed or injured" id="01" vncls="">
+<role argnum="1" argrole="the stabbed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انطعن الحارس بالسكين في ظهره</parse>
+
+<arg f="" g="the guard" n="1">الحارس</arg>
+<arg f="" g="with a knife" n="2">بالسكين</arg>
+<arg f="" g="in his back" n="3">في ظهره</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="where (in the body)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be insulted or abused" id="02" vncls="">
+<role argnum="1" argrole="the insulted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انطعن الموظف في سلوكه</parse>
+
+<arg f="" g="the employee" n="1">الموظف</arg>
+<arg f="" g="in his behavior" n="2">في سلوكه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="how" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be considered false,impeached or appealed (judgment or decision)" id="03" vncls="">
+<role argnum="1" argrole="the judgment" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انطعن الحكم</parse>
+
+<arg f="" g="the judgemnt" n="1">الحكم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naOam</id>
+
+<frameset cdef="" edef="to sound or ring, to groan or moan" id="01" vncls="">
+<role argnum="0" argrole="entity sounding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نأم الرجل أثناء نومه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="tmp" g="while sleeping" n="m">أثناء نومه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

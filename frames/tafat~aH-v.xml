@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tafat~aH</id>
+<comment/>
+<frameset cdef="" edef="to open up, to unfold" id="01" vncls="">
+<role argnum="1" argrole="entity opened" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تفتحت الزهرة صباحا</parse>
+<comment/>
+<arg f="" g="the flower" n="1">الزهرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

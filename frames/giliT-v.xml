@@ -1,0 +1,80 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>giliT</id>
+
+    <frameset cdef="" edef="to make or commit a mistake, to err" id="01" vncls="">
+<role argnum="0" argrole="entity making the mistake" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انا غلطت * في المجموع</parse>
+
+<arg f="" g="he" n="0">* انا</arg>
+<arg f="" g="in the total" n="1">في المجموع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<comment>Based on roleset galiT-a.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on galiT-a</comment>
+<frameset cdef="" edef="to insult or offend" id="02" vncls="">
+<role argnum="0" argrole="entity insulting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NOUN.VN حَسْب)
+        (NP-PRD
+          (POSS_PRON_1S ِي))
+        (NP-SBJ
+          (NOUN_PROP اللَّه))
+        (PP
+          (-NONE- *RNR*-3))))
+    (CONJ وَ)
+    (S
+      (VP
+        (VERB نِعمَ)
+        (NP-SBJ
+          (DET+NOUN الوَكِيل))
+        (PP
+          (-NONE- *RNR*-3))))
+    (PP-3
+      (PREP فِي)
+      (NP
+        (NOUN_QUANT كُلّ)
+        (NP
+          (NP
+            (NOUN_NUM+NSUFF_FEM_SG واحْدَة))
+          (SBAR
+            (WHNP-1
+              (-NONE- 0))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS غِلْطِت)
+                (NP-SBJ
+                  (-NONE- *T*-1))
+                (PP
+                  (PREP فِي)
+                  (NP
+                    (DET+NOUN الشِيخ))))))))))
+  (S
+    (NP-SBJ</parse>
+<comment/>
+<arg f="" g="someone" n="0">* -1 واحْدَة</arg>
+<arg f="" g="the Shiek" n="1">فِي الشِيخ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity insulted" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

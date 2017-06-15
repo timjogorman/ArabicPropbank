@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jamohar</id>
+
+<frameset cdef="" edef="to gather people" id="01" vncls="">
+<role argnum="0" argrole="entity gathering people" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جمهر الرجل الناس حوله</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="people" n="1">الناس</arg>
+<arg f="" g="around him" n="2">حوله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="people" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

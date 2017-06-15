@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dasar-u</id>
+<comment/>
+<frameset cdef="" edef="to drive forward or insert by force, to push" id="01" vncls="">
+<role argnum="0" argrole="entity inserting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دسر الرجل الدسار في الحائط بالمطرقة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the nail" n="1">الدسار</arg>
+<arg f="" g="in the wall" n="2">في الحائط</arg>
+<arg f="" g="with the hammer" n="3">بالمطرقة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity inserted" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to stab, thrust, to pierce" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دسر المقاتل عدوه بالحربة</parse>
+<comment/>
+<arg f="" g="the warior" n="0">المقاتل</arg>
+<arg f="" g="his enemy" n="1">عدوه</arg>
+<arg f="" g="with the spear" n="2"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

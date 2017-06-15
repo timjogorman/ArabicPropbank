@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taforiyq</id>
+
+<frameset cdef="" edef="separating, dissipating" id="01" vncls="">
+<role argnum="0" argrole="entity separating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قتل شخصان وجرح تسعة أثناء تفريق قوات الأمن في عدن بجنوبي اليمن مسيرة دعت إليها ما تعرف بقوى الحراك الجنوبي</parse>
+
+<arg f="" g="security forces" n="0">قوات الأمن</arg>
+<arg f="loc" g="in Aden southern Yemen" n="m">في عدن بجنوبي اليمن</arg>
+<arg f="" g="demonstration" n="1">مسيرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity separated" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="differentiation, distinction" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بعد اصابته في عينه لم يعد يستطيع التفريق * بين اللون الاسود و الازرق</parse>
+<comment/>
+<arg f="" g="he" n="">* ه</arg>
+<arg f="" g="between the black color" n="">بين اللون الاسود</arg>
+<arg f="" g="and the blue" n="">و الازرق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="first thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="second thing" vncls="" vntheta=""/>
+</frameset>
+</verb>

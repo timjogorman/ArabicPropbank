@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taZal~um</id>
+<comment/>
+<frameset cdef="" edef="complaint of" id="01" vncls="">
+<role argnum="0" argrole="entity complaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تذمرت المدير من تظلم الناس من سوء معاملنة لدى القاضي</parse>
+<comment/>
+<arg f="" g="people" n="0">الناس</arg>
+<arg f="" g="bad treatment" n="1">من سوء معاملنة</arg>
+<arg f="" g="to the judge" n="2">لدى القاضي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="about what" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

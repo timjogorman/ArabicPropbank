@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitAHap</id>
+<comment/>
+<frameset cdef="" edef="allowing, permitting" id="01" vncls="">
+<role argnum="0" argrole="allower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ فَ)
+    (VP
+      (PRT
+        (VERB_PART قَدْ))
+      (PV+PVSUFF_SUBJ:3MS تَمّ)
+      (NP-SBJ
+        (NP
+          (NOUN تَغْيِير)
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG المادَّة)))
+        (NP-ADV
+          (ADJ+CASE_INDEF_ACC خِصِّيصاً))
+        (PP-PRP
+          (PREP لِ)
+          (S-NOM
+            (VP
+              (NOUN.VN+NSUFF_FEM_SG اِتاحَة)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (DET+NOUN+NSUFF_FEM_SG الفُرْصَة))
+              (PP-CLR
+                (NP
+                  (X
+                    (NO_FUNC لإحدهما))))
+              (PP
+                (PREP بِ)
+                (NP
+                  (NOUN تَرْشِيح)
+                  (NP
+                    (NOUN نَفْس)
+                    (NP
+                      (POSS_PRON_3MS ُه))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the chance" n="1">الفرصة</arg>
+<arg f="" g="for one of them" n="2">لأحدهما</arg>
+<arg f="prp" g="to nominate himself" n="m">بترشيح نفسه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing allowed" vncls="" vntheta=""/>
+<role argnum="2" argrole="allowed to" vncls="" vntheta=""/>
+</frameset>
+</verb>

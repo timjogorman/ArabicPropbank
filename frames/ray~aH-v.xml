@@ -1,24 +1,80 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>ray~aH</id>
-    <comment/>
-    <frameset cdef="" edef="to ease, relieve" id="01">
-        <role argnum="0" argrole="reliever"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>ريحت القوانين الجديدة الشعب من العناء</parse>
-                <comment/>
-                <arg f="" g="new laws" n="0">القوانين الجديدة</arg>
-                <arg f="" g="people" n="1">الشعب</arg>
-                <arg f="" g="from suffering" n="2">من العناء</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment>Egyptian dialect</comment>
-        <role argnum="1" argrole="patient, relieved"/>
-        <role argnum="2" argrole="from what"/>
-    </frameset>
+<id>ray~aH</id>
+
+<frameset cdef="" edef="to relax, to give rest to" id="01" vncls="">
+<role argnum="0" argrole="entity giving rest" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>انا خلاص ريحت * دماغي من مشاكلهم</parse>
+
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="my mind" n="1">دماغي</arg>
+<arg f="" g="from thier problems" n="2">من مشاكلهم</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to what or whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+
+<comment>أراح</comment>
+</frameset>
+<frameset cdef="" edef="to use perfume, to perfume oneself" id="02" vncls="">
+<role argnum="0" argrole="entity using perfume" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ده بيتريح * بالكولونيا ييجي عشرمرات باليوم</parse>
+
+<arg f="" g="*NONE" n="0">*? NONE</arg>
+<arg f="" g="with cologne" n="1">بالكولونيا</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="perfume" vncls="" vntheta=""/>
+
+<comment>تعطر</comment>
+</frameset>
+
+<frameset cdef="" edef="to relax" id="03" vncls="">
+<role argnum="0" argrole="relaxer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا رايح أريح * شوية من الشغل</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="a little from work" n="1">شوية من الشغل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

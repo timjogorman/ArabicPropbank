@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>masoWuwliy~ap</id>
+<comment/>
+<frameset cdef="" edef="responsibility, liability" id="01" vncls="">
+<role argnum="1" argrole="entity responsible" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اعلنت حركة حماس مسئولية ها عن العملية</parse>
+<comment/>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="for the operation" n="2">عن العملية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="of what" vncls="" vntheta=""/>
+</frameset>
+</verb>

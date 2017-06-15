@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHirAf</id>
+<comment/>
+<frameset cdef="" edef="To deviate from, to depart from, To go astray" id="01" vncls="">
+<role argnum="1" argrole="entity departing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أدى انحراف السيارة عن الطريق الى أصابة السائق</parse>
+<comment/>
+<arg f="" g="the car" n="1">السيارة</arg>
+<arg f="" g="from the road" n="2">عن الطريق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="To incline, to turn to/toward" id="02" vncls="">
+<role argnum="1" argrole="entity leaning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أدى الثلج الى انحراف السيارة يمينا نحو الرصيف</parse>
+<comment/>
+<arg f="" g="the car" n="1">السيارة</arg>
+<arg f="" g="to the right" n="2">يمينا</arg>
+<arg f="" g="toward the curb" n="3">نحو الرصيف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="direction" vncls="" vntheta=""/>
+<role argnum="3" argrole="toward/away from" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be sickly/ indisposed, to change his mood" id="03" vncls="">
+<role argnum="1" argrole="entity getting sick" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لاحظ الطبيب انحراف صحة الرجل</parse>
+<comment/>
+<arg f="" g="health" n="2">صحة</arg>
+<arg f="" g="the man" n="1">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="things getting bad" vncls="" vntheta=""/>
+</frameset>
+</verb>

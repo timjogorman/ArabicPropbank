@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarodiyd</id>
+<comment/>
+<frameset cdef="" edef="repetition, reiteration" id="01" vncls="">
+<role argnum="0" argrole="repeater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ترديد الناس الله أكبر</parse>
+<comment/>
+<arg f="" g="the people" n="0">الناس</arg>
+<arg f="" g="God is great" n="1">الله أكبر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="utterance" vncls="" vntheta=""/>
+<role argnum="2" argrole="listener" vncls="" vntheta=""/>
+</frameset>
+</verb>

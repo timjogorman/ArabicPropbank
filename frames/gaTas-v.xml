@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gaTas</id>
+<comment/>
+<frameset cdef="" edef="to dive under water, to sink" id="01" vncls="">
+<role argnum="0" argrole="entity diving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غطس الرجل حوالي مئة قدم</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="about one hundred feet" n="1">حوالي مئة قدم</arg>
+<arg f="" g="under the water" n="3">تحت الماء</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="extent" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+</verb>

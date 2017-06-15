@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xafAO</id>
+<comment/>
+<frameset cdef="" edef="disappearance, hiddenness" id="01" vncls="">
+<role argnum="1" argrole="things hidden" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خفاء هذه المعلومات عن الناس أدت الى مشاكل</parse>
+<comment/>
+<arg f="" g="these information" n="1">هذه المعلومات</arg>
+<arg f="" g="from the people" n="2">عن الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

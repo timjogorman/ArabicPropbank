@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ealaf-i</id>
+<comment/>
+<frameset cdef="" edef="to feed" id="01" vncls="">
+<role argnum="0" argrole="feeder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>علف الفلاح البعير</parse>
+<comment/>
+<arg f="" g="the farmer" n="0">الفلاح</arg>
+<arg f="" g="the camel" n="1">البعير</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="eater" vncls="" vntheta=""/>
+<role argnum="2" argrole="food" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to drink or eat a lot" id="02" vncls="">
+<role argnum="0" argrole="entity drinking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>علف الرجل الكثير من الخمر</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="a lot of wine" n="1">الكثير من الخمر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the drink" vncls="" vntheta=""/>
+</frameset>
+</verb>

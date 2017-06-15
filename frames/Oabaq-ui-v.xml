@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oabaq-ui</id>
+<comment/>
+<frameset cdef="" edef="to escape or flee, to run away" id="01" vncls="">
+<role argnum="0" argrole="entity escaping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبق الرجل الى أهله</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to his family" n="2">الى أهله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from" vncls="" vntheta=""/>
+<role argnum="2" argrole="toward" vncls="" vntheta=""/>
+</frameset>
+</verb>

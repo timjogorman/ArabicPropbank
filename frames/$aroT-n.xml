@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$aroT</id>
+<comment/>
+<frameset cdef="" edef="condition, term" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وضع الرجل شرطاً * على أخيه بأن لا يلعب</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="on his brother" n="2">على أخيه</arg>
+<arg f="" g="not to play" n="1">بأن لا يلعب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the condition" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

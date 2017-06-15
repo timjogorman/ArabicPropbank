@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ait~aroyaq</id>
+
+<frameset cdef="" edef="to make fun of" id="01" vncls="">
+<role argnum="0" argrole="entity making fun" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الراجل قاعد يتّريأ * علينا</parse>
+
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="on us" n="1">علينا</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="of whom" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+
+<comment/>
+</verb>

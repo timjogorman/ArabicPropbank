@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanASar</id>
+<comment/>
+<frameset cdef="" edef="to aid or support" id="01" vncls="">
+<role argnum="0" argrole="supporter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تناصرت كل الفئات ضد العدو</parse>
+<comment/>
+<arg f="" g="all the groups" n="0">كل الفئات</arg>
+<arg f="" g="against the enemy" n="2">ضد العدو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="supported" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what or against what" vncls="" vntheta=""/>
+</frameset>
+</verb>

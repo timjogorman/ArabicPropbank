@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maraj-u</id>
+<comment/>
+<frameset cdef="" edef="to rise" id="01" vncls="">
+<role argnum="1" argrole="entity rising" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مرج  اللهيب من الخشب المحترق</parse>
+<comment/>
+<arg f="" g="the flame" n="1">اللهيب</arg>
+<arg f="" g="from the burning flame" n="2">من الخشب المحترق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to come suddenly" id="02" vncls="">
+<role argnum="0" argrole="entity coming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مرج الشخص علينا من حيث لا ندري</parse>
+<comment/>
+<arg f="" g="the person" n="0">الشخص</arg>
+<arg f="" g="on us" n="2">علينا</arg>
+<arg f="" g="from nowhere" n="1">من حيث لا ندري</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from where" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to mix" id="03" vncls="">
+<role argnum="0" argrole="mixer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مرج الطبيب الأعشاب ببعضها</parse>
+<comment/>
+<arg f="" g="the doctor" n="0">الطبيب</arg>
+<arg f="" g="the herbs" n="1">الأعشاب</arg>
+<arg f="" g="with each other" n="2">ببعضها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things mixed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what (if separated from ARG1)" vncls="" vntheta=""/>
+</frameset>
+</verb>

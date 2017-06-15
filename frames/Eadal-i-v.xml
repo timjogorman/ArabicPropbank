@@ -1,0 +1,123 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eadal-i</id>
+
+<frameset cdef="" edef="turning back in doing something" id="01" vncls="">
+<role argnum="0" argrole="entity turning back" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>عدل * عن قراره في اللحظة الاخيرة</parse>
+
+<arg f="" g="NONE" n="0">-NONE- *?</arg>
+<arg f="" g="from his decision" n="1">عن قراره</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what (mostly comes after عن)" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be  just" id="02" vncls="">
+<role argnum="0" argrole="entity being just" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>عدل القاضي في قراره</parse>
+
+<arg f="" g="the judge" n="0">القاضي</arg>
+<arg f="" g="in his resolution" n="1">في قراره</arg>
+
+
+<comment/>
+<arg f="" g="to whom (if separated from ARG1)" n="2"/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="equalize" id="03" vncls="">
+<role argnum="0" argrole="entity equalizing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>عدل * ولده بصديقه</parse>
+
+<arg f="" g="NONE" n="0">-NONE- * ?</arg>
+<arg f="" g="his son" n="1">ولده</arg>
+<arg f="" g="with his friend" n="2">بصديقه</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="first thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="second thing" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to make something straight" id="04" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>مستحيل نقدر أحنا نعدل * البلد</parse>
+
+<arg f="" g="we" n="0">* أحنا</arg>
+<arg f="" g="the country" n="1">البلد</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things made straight" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

@@ -1,35 +1,95 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Oaboraz</id>
-    <frameset cdef="" edef="to highlight" id="01">
-        <role argnum="0" argrole="emphasizer"/>
-        <role argnum="1" argrole="message"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (CONJ و)
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يبرز)
-                    (NP-SBJ
-                    (DET+NOUN+CASE_DEF_NOM المعرض))
-                    (NP-OBJ
-                    (NP
-                    (NOUN+CASE_DEF_ACC دور)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN القوات)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الخاصة)))
-                    (PP
-                    (PREP في)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مكافحة)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الارهاب))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="the exhibit" n="0">المعرض</arg>
-                <arg f="" g="the role of the special forces in combatting terrorism" n="1">دور القوات الخاصة في مكافحة الارهاب</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Oaboraz</id>
+<frameset cdef="" edef="to highlight" id="01" vncls="taEar~aqa-1">
+<role argnum="0" argrole="emphasizer" vncls="taEar~aqa-1" vntheta="agent"/>
+<role argnum="1" argrole="message" vncls="taEar~aqa-1" vntheta="theme"/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (IV3MS+IV+IVSUFF_MOOD:I يبرز)
+    (NP-SBJ
+      (DET+NOUN+CASE_DEF_NOM المعرض))
+    (NP-OBJ
+      (NP
+        (NOUN+CASE_DEF_ACC دور)
+        (NP
+          (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN القوات)
+          (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الخاصة)))
+      (PP
+        (PREP في)
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مكافحة)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الارهاب))))))
+  (PUNC .))</parse>
+<arg f="" g="the exhibit" n="0">المعرض</arg>
+<arg f="" g="the role of the special forces in combatting terrorism" n="1">دور القوات الخاصة في مكافحة الارهاب</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to publish" id="02" vncls="">
+<role argnum="0" argrole="publisher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أبرز الفنان كتابا عن الرسم</parse>
+
+<arg f="" g="the artist" n="0">الفنان</arg>
+<arg f="" g="a book" n="1">كتابا</arg>
+<arg f="" g="about drawing" n="2">عن الرسم</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="what" vncls="" vntheta=""/>
+<role argnum="2" argrole="subject" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to show or demonstrate" id="03" vncls="">
+<role argnum="0" argrole="the shower or demonstrator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أبرز المعلم الموضوع لطلابه</parse>
+
+<arg f="" g="the teacher" n="0">المعلم</arg>
+<arg f="" g="the subject" n="1">الموضوع</arg>
+<arg f="" g="for his students" n="2">لطلابه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing being shown or demonstrated" vncls="" vntheta=""/>
+<role argnum="2" argrole="benefactive or audience" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

@@ -1,0 +1,117 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$aEar</id>
+
+    <frameset cdef="" edef="to feel or be aware of" id="01" vncls="">
+<role argnum="0" argrole="feeler" vncls="" vntheta=""/>
+<role argnum="1" argrole="emotion" vncls="" vntheta=""/>
+<role argnum="2" argrole="entity to or for whom the emotion is directed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+<comment/>
+</mapping>
+<example>
+<parse>أنا بشعر بإحباط كل ما أشوف حال البلد</parse>
+<arg f="" g="I" n="0">-NONE- *</arg>
+<arg f="" g="very  despairing" n="1">بإحباط</arg>
+<comment/>
+</example>
+<example>
+<parse>هو يشعر إن إجله قرب عشان كده جمع ولاده</parse>
+<arg f="" g="He" n="0">-NONE- *</arg>
+<arg f="" g="that his death approached so he called his sons" n="1-sbar">إن إجله قرب عشان كده جمع ولاده</arg>
+<V/>
+<comment/>
+</example>
+<example>
+<parse>يشعر شابلن نحو هتلر بالانجذاب والعداء معا</parse>
+<arg f="" g="NP-SBJ-1" n="0">-NONE- *T*-1&lt;شابلن</arg>
+<arg f="نَحْوَ" g="towards Hitler" n="2">نحو هتلر</arg>
+<arg f="بِ-" g="an attraction and a hatred" n="1">بالانجذاب والعداء</arg>
+<arg f="tmp" g="simultaneously" n="m">معاً</arg>
+<comment/>
+</example>
+<example>
+<parse>(NP
+          (DET+NOUN+CASE_DEF_ACC الاحراج))
+        (SBAR
+          (WHNP-1
+            (REL_PRON الذي))
+          (S
+            (VP
+              (IV3FS+IV+IVSUFF_MOOD:I تشعر)
+              (PP-CLR
+                (PREP ب)
+                (NP
+                  (NP
+                    (PRON_3MS ه))
+                  (NP
+                    (-NONE- *T*-1))))
+              (NP-SBJ
+                (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_NOM السلطات)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM اللبنانية))
+              (NP-ADV
+                (NOUN+CASE_DEF_ACC تجاه)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN السلطات)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN السورية)))
+              (PP
+                (PREP في)
+                (NP
+                  (NOUN+CASE_DEF_GEN موضوع)
+                  (NP
+                    (DET+NOUN+NSUFF_MASC_PL_GEN المعتقلين))))))))
+      (NP
+        (PRON_3MS هو)))
+    (ADJP-PRD
+      (ADJ_COMP+CASE_DEF_NOM اخف)
+      (NP-ADV
+        (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC وطأة))
+      (PP
+        (PREP ب)
+        (NP
+          (NOUN+CASE_INDEF_GEN كثير)))
+      (PP
+        (PREP من)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الاحراج))
+          (NP-ADV
+            (NOUN+CASE_DEF_ACC تجاه)
+            (NP
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الجرح)
+                (DET+ADJ الدامي))
+              (SBAR
+                (WHNP-3
+                  (REL_PRON الذي))
+                (S
+                  (VP
+                    (IV3MS+IV+IVSUFF_MOOD:I يدمي)
+                    (NP-SBJ
+                      (-NONE- *T*-3))
+                    (NP-OBJ
+                      (NP
+                        (NOUN+CASE_DEF_ACC قلوب))
+                      (NP
+                        (NP
+                          (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN المئات))
+                        (PP
+                          (PREP من)
+                          (NP
+                            (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN العائلات)
+                            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN اللبنانية))))))))))))))
+  (PUNC .))</parse>
+<arg f="بِ-" g="it" n="1">به</arg>
+<arg f="" g="the Lebanese officials" n="0">السلطات اللبنانية</arg>
+<arg f="تُجاهَ" g="towards the Syrian officials" n="2">تجاه السلطات السورية</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset $aEar-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on $aEar-u</comment>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rajoraj</id>
+
+<frameset cdef="" edef="to shake/concuss" id="01" vncls="">
+<role argnum="0" argrole="entity shaking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رجرج الولد العلبة</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="the can" n="1">العلبة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity shaked" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

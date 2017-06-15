@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naq~aY</id>
+<comment/>
+<frameset cdef="" edef="to select or pick" id="01" vncls="">
+<role argnum="0" argrole="agentd" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نقي ياراجل حاجة من الحاجات دي</parse>
+<comment/>
+<arg f="" g="man" n="0">ياراجل</arg>
+<arg f="" g="something" n="1">حاجة</arg>
+<arg f="" g="from these things" n="2">من الحاجات دي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things selecte" vncls="" vntheta=""/>
+<role argnum="2" argrole="source, from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

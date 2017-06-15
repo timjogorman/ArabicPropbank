@@ -1,0 +1,126 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>janaY</id>
+<comment>EGYPTIAN ARABIC based on janaY-i</comment>
+    <frameset cdef="" edef="to gather, to earn , to get" id="01" vncls="">
+<role argnum="0" argrole="agent or causer" vncls="" vntheta="" />
+<role argnum="1" argrole="entity gathered" vncls="" vntheta="" />
+<role argnum="2" argrole="source, gathered from" vncls="" vntheta="" />
+<role argnum="3" argrole="beneficiary" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+          (VP
+            (IV1P+IV+IVSUFF_MOOD:S نجني)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NP
+                (NOUN_QUANT+CASE_DEF_ACC كل)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الدولارات)))
+              (SBAR
+                (WHNP-3
+                  (-NONE- 0))
+                (S
+                  (ADJP-PRD
+                    (DET+ADJ+CASE_DEF_GEN الممكن))
+                  (NP-SBJ
+                    (NOUN+CASE_DEF_NOM جني)
+                    (NP
+                      (NP
+                        (POSS_PRON_3FS ها))
+                      (NP
+                        (-NONE- *T*-3)))))))
+            (PP
+              (PREP من)
+              (NP
+                (NP
+                  (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN ساعات)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN البث)))</parse>
+<arg f="" g="We" n="0">-NONE- *</arg>
+<arg f="" g="many Dolars" n="1">كل الدولارات</arg>
+<arg f="" g="from Broadcasting hours" n="2">من ساعات البث</arg>
+
+<comment />
+</example>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3FS سألت)
+    (NP-OBJ
+      (PVSUFF_DO:1S ني))
+    (NP-SBJ
+      (NP
+        (NOUN+NSUFF_FEM_SG حفيدت)
+        (NP
+          (POSS_PRON_1S ي)))
+      (NP
+        (NOUN_PROP نادين)))
+    (PUNC :)
+    (SBARQ
+      (WHNP-4
+        (INTERROG_PRON ماذا))
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:2MS جنيت)
+          (NP-SBJ
+            (-NONE- *))
+          (NP-OBJ
+            (-NONE- *T*-4))
+          (PP
+            (PREP من)
+            (NP
+              (NP
+                (NP
+                  (NOUN+CASE_DEF_GEN عمل)
+                  (NP
+                    (POSS_PRON_2MS ك)))
+                (ADJP
+                  (DET+ADJ+CASE_DEF_GEN الصحافي)))
+              (SBAR
+                (WHNP-1
+                  (REL_PRON الذي))
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3MS استمر)
+                    (NP-SBJ
+                      (-NONE- *T*-1))
+                    (NP-TMP
+                      (NOUN_QUANT+CASE_DEF_ACC نصف)
+                      (NP
+                        (NOUN+CASE_INDEF_GEN قرن))))))))
+          (PUNC ,)</parse>
+<arg f="" g="You" n="0">-NONE- *</arg>
+<arg f="" g="what" n="1">-NONE- *T*-4&lt;ماذا</arg>
+<arg f="" g="press work" n="2">عملك الصحافي</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset janaY-i.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to wrong or to harm" id="02" vncls="">
+<role argnum="0" argrole="entity harming" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>جنت الدولة على الشعب باعماها</parse>
+<comment />
+<arg f="" g="the government" n="0">الدولة</arg>
+<arg f="" g="on the people" n="1">على الشعب</arg>
+<arg f="" g="with it's act" n="2">باعماها</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset janaY-i.02</comment>
+<role argnum="1" argrole="entity harmed" vncls="" vntheta="" />
+<role argnum="2" argrole="in or with what" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaHaf-a</id>
+
+<frameset cdef="" edef="to gulp or swallow" id="01" vncls="">
+<role argnum="0" argrole="gulper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قحف الرجل الطعام بسرعة بسسب تأخره عن العمل</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the food" n="1">الطعام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="food or drink" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to sweep away, to scoop جرف , to scrape off" id="02" vncls="">
+<role argnum="0" argrole="sweeper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قحف الماء السفينة من اليابسة</parse>
+
+<arg f="" g="the water" n="0">الماء</arg>
+<arg f="" g="the ship" n="1">السفينة</arg>
+<arg f="" g="from the land" n="2">من اليابسة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things swept" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

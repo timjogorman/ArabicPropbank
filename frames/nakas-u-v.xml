@@ -1,0 +1,71 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nakas-u</id>
+
+<frameset cdef="" edef="to turn over, to invert" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نكس الرجل الوعاء على الطاولة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the container" n="1">الوعاء</arg>
+<arg f="" g="on the table" n="2">على الطاولة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things turned over" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to bow, to duck (one's head), to bring down (flag)" id="02" vncls="">
+<role argnum="0" argrole="entity bowing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نكس الرجل رأسه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his head" n="1">رأسه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things bowed" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to cause a relapse" id="03" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نكس الطعام داء المريض</parse>
+
+<arg f="" g="the food" n="0">الطعام</arg>
+<arg f="" g="the patient sickness" n="1">داء المريض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things going worse" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

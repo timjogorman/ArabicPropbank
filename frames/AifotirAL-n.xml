@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AifotirAL</id>
+<comment/>
+<frameset cdef="" edef="fabricating lie, falsehood" id="01" vncls="">
+<role argnum="0" argrole="lier" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صعب جدا فهم افتراء البعض بأن الفريق العراقي فريق خاسر</parse>
+<comment/>
+<arg f="" g="some" n="0">البعض</arg>
+<arg f="" g="that the Iraqi team" n="2">بأن الفريق العراقي</arg>
+<arg f="" g="is a looser team" n="1">فريق خاسر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="lie" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what or whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

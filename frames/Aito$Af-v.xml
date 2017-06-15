@@ -1,0 +1,283 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aito$Af</id>
+
+    <frameset cdef="" edef="to see" id="01" vncls="">
+<role argnum="0" argrole="seer" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>ارتاحت و خلاص بقى أدت رسالتها فى الحياة و من ساعتها مشوفتهاش</parse>
+
+<arg f="" g="I" n="0">*</arg>
+<arg f="" g="her" n="1">ها</arg>
+
+
+
+
+
+
+
+<comment />
+</example>
+
+
+
+
+
+
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="thing seen" vncls="" vntheta="" />
+
+
+<role argnum="2" argrole="attributed to ARG 1" vncls="" vntheta="" />
+
+
+
+
+
+<comment>ARZ
+Based on roleset $Af-u.01
+Based on roleset $Af-v.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to find" id="02" vncls="">
+<role argnum="0" argrole="finder" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+
+
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>(CONJ و)
+      (VP
+        (IV1P+IV نشوف)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP ل)
+          (NP
+            (PRON_1P نا)))
+        (NP-OBJ
+          (NP
+            (NP
+              (NP
+                (NOUN حزب))
+              (NP-ADV
+                (NOUN كدا)))
+            (ADJP
+              (ADJ نضيف)))
+          (SBAR
+            (WHNP-1
+              (-NONE- 0))
+            (S
+              (VP
+                (IV1P+IV نشترك)
+                (NP-SBJ
+                  (-NONE- *))
+                (PP-CLR
+                  (PREP في)
+                  (NP
+                    (NP
+                      (PRON_3MS ه))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="gol" g="" n="m">لنا</arg>
+<arg f="" g="a clean party" n="1">حزب كده نضيف</arg>
+<arg f="" g="to join" n="2">نشترك فيه</arg>
+
+
+
+
+
+
+<comment />
+</example>
+
+
+
+
+
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="found" vncls="" vntheta="" />
+<role argnum="2" argrole="for what" vncls="" vntheta="" />
+
+
+
+
+
+
+<comment>ARZ
+Based on roleset $Af-u.02
+Based on roleset $Af-v.02</comment>
+</frameset>
+
+<frameset cdef="" edef="to see himself better than others (multi word expression)" id="03" vncls="">
+<role argnum="1" argrole="entity proud" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>هو شاف * نفسه علينا عشان معاه فلوس</parse>
+
+<arg f="" g="him" n="1">* هو</arg>
+<arg f="" g="himself" n="2">نفسه</arg>
+<arg f="" g="on us" n="3">علينا</arg>
+<arg f="cau" g="because he has money" n="m">عشان معاه فلوس</arg>
+
+
+
+
+<comment />
+</example>
+
+
+
+
+
+<comment />
+</frame>
+
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta="" />
+<role argnum="3" argrole="over whom" vncls="" vntheta="" />
+
+
+
+
+<comment>ARZ
+Based on roleset $Af-v.03</comment>
+</frameset>
+
+<frameset cdef="" edef="to start doing something" id="04" vncls="">
+<role argnum="0" argrole="entity starting" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>(NP-ADV
+        (ADJP
+          (ADJ أَوَّل)
+          (SBAR
+            (SUB_CONJ ما)
+            (S
+              (NP-TPC-2
+                (DET+NOUN الطَرَف)
+                (DET+ADJ الثانِي))
+              (VP
+                (IV3MS+IV يِدِّي)
+                (NP-SBJ
+                  (-NONE- *T*-2))
+                (NP-DTV
+                  (IVSUFF_DO:3MS ه))
+                (NP-OBJ
+                  (NOUN+NSUFF_FEM_SG رَنَّة)))))))
+      (PUNC .)
+      (PUNC .)
+      (VP
+        (PRT
+          (PROG_PART بِ))
+        (IV3MS+IV يِشُوف)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN شُغْل)
+          (NP
+            (POSS_PRON_3MS ُه)))))
+    (CONJ وَ)
+    (S
+      (VP
+        (IV3MS+IV يِعْمِل)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (DET+ADJ اللازِم))))
+    (PUNC .)</parse>
+
+<arg f="" g="he" n="0">* ه</arg>
+<arg f="" g="his work" n="1">شُغْله</arg>
+
+
+
+<comment />
+</example>
+
+
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="things started (Usually شغل )" vncls="" vntheta="" />
+
+
+
+<comment>Based on roleset $Af-v.04</comment>
+</frameset>
+
+<frameset cdef="" edef="listen (multi word expression)" id="05" vncls="">
+<role argnum="0" argrole="listener" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>شوفوا * بقى الموضوع كبر</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the subject is getting bigger" n="1">بقى الموضوع كبر</arg>
+
+
+<comment />
+</example>
+
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="utterance, sound" vncls="" vntheta="" />
+
+
+<comment>Based on roleset $Af-v.05</comment>
+</frameset>
+
+
+<comment>EGYPTIAN ARABIC Framefile based on $Af-v</comment>
+</verb>

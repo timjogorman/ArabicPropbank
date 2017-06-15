@@ -1,20 +1,37 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>taqAEad</id>
-    <frameset cdef="" edef="To retire" id="01">
-        <role argnum="0" argrole="retiree"/>
-        <role argnum="1" argrole="former job marked by  عن"/>
-        <frame>
-            <comment>
-                اعتزل العمل
-            </comment>
-            <example>
-                <parse>
-                    ومعلوم انه يتقاعد اكثر من الف استاذ سنويا
-                </parse>
-                <arg f="" g="More than one thousand teachers" n="0">اكثر من الف استاذ</arg>
-                <arg f="tmp" g="annually" n="m">سنويا</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>taqAEad</id>
+<frameset cdef="" edef="To retire" id="01" vncls="">
+<role argnum="0" argrole="retiree" vncls="" vntheta=""/>
+<role argnum="1" argrole="former job marked by  عن" vncls="" vntheta=""/>
+<frame>
+
+<example>
+<parse>ومعلوم انه يتقاعد اكثر من الف استاذ سنويا</parse>
+<arg f="" g="More than one thousand teachers" n="0">اكثر من الف استاذ</arg>
+<arg f="tmp" g="annually" n="m">سنويا</arg>
+<comment/>
+</example>
+<comment>اعتزل العمل</comment>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to neglect or omit, to fail to" id="02" vncls="">
+<role argnum="0" argrole="neglector" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقاعد الرجل عن الأمر</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="from the matter" n="1">عن الأمر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things neglected" vncls="" vntheta=""/>
+</frameset>
 </verb>

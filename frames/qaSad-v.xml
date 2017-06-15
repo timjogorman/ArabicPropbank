@@ -1,0 +1,247 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>qaSad</id>
+<comment>EGYPTIAN ARABIC based on qaSad-i</comment>
+    <frameset cdef="" edef="to intend or mean" id="01" vncls="">
+<role argnum="0" argrole="the intendor" vncls="" vntheta="" />
+<role argnum="1" argrole="the intention" vncls="" vntheta="" />
+<role argnum="2" argrole="benefactive" vncls="" vntheta="" />
+<frame>
+<mapping>
+<V />
+<mapitem src="sbj" trg="arg0" />
+<comment />
+</mapping>
+<example>
+<parse>(DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM العبارة))
+      (SBAR
+        (SBAR
+          (WHNP-2
+            (REL_PRON التي))
+          (S
+            (VP
+              (IV3MS+IV+IVSUFF_MOOD:I يقصد)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NP
+                  (IVSUFF_DO:3FS ها))
+                (NP
+                  (-NONE- *T*-2))))))
+        (PUNC ,)
+        (CONJ و)
+        (SBAR
+          (WHNP-3
+            (REL_PRON التي))
+          (S
+            (VP
+              (IV3MS+IV+IVSUFF_MOOD:I يسوق)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NP
+                  (IVSUFF_DO:3FS ها))
+                (NP
+                  (-NONE- *T*-3)))
+              (PP
+                (PREP في)
+                (NP
+                  (NOUN+CASE_DEF_GEN صدر)
+                  (NP
+                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مقالت)
+                    (NP
+                      (POSS_PRON_3MS ه))))))))))
+    (PUNC ,)
+    (NP
+      (PRON_3FS هي)))
+  (UCP-PRD
+    (NP
+      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الآتية))
+    (PUNC :)
+    (S
+      (PUNC &quot;)
+      (VP
+        (PSEUDO_VERB ان)
+        (NP-PRD
+          (NOUN لدى)
+          (NP
+            (NOUN_PROP سوريا)))
+        (NP-SBJ
+          (NP
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_INDEF_NOM خبرة))
+            (PP
+              (PREP في)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مكافحة)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN الارهاب)))))</parse>
+<arg f="" g="He" n="0">-NONE- *</arg>
+<arg f="" g="it" n="1">ها</arg>
+<V />
+<comment />
+</example>
+<example>
+<parse>lam yaqSud Almujorimu bi-nA Ail~A Al$~ar~a</parse>
+<arg f="" g="NEG" n="m">lam</arg>
+<arg f="" g="the criminal" n="0">Almujorimu</arg>
+<arg f="bi-" g="for us" n="2">bi-nA</arg>
+<arg f="" g="nothing but evil" n="1">Ail~A Al$~ar~a</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset qaSad-i.01</comment>
+</frameset>
+<frameset cdef="" edef="to aim at , to specify, to pick on" id="03" vncls="">
+<role argnum="0" argrole="entity aiming at" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(NP-SBJ
+      (NP
+        (NOUN+NSUFF_MASC_PL مُدَرِّسِين))
+      (NP
+        (PRON_3P هُمَّ)))
+    (SBAR-NOM-PRD
+      (WHNP-3
+        (REL_PRON اِللِّي))
+      (S
+        (VP
+          (PRT
+            (PROG_PART بِ))
+          (IV3P+IV+IVSUFF_SUBJ:P يِدِيرُوا)
+          (NP-SBJ
+            (-NONE- *T*-3))
+          (NP-OBJ
+            (DET+NOUN الأَمْر))))))
+  (S
+    (VP
+      (PP-PRD
+        (X
+          (NO_FUNC ومفيش)))
+      (NP-SBJ
+        (NP
+          (NOUN+NSUFF_FEM_SG حاجَة))
+        (SBAR
+          (WHNP-5
+            (-NONE- 0))
+          (S
+            (NP-SBJ
+              (NOUN اِسْم)
+              (NP
+                (NP
+                  (POSS_PRON_3FS ها))
+                (NP
+                  (-NONE- *T*-5))))
+            (SBAR-PRD
+              (-NONE- 0)
+              (S
+                (S
+                  (NP-TPC-4
+                    (NOUN مُدَرِّس))
+                  (VP
+                    (IV3MS+IV يِستَقصَد)
+                    (NP-SBJ
+                      (-NONE- *T*-4))
+                    (NP-OBJ
+                      (NOUN تِلْمِيذ))))
+                (CONJ وِ)
+                (S
+                  (VP
+                    (IV3MS+IV يِسَقَّط)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (IVSUFF_DO:3MS ُه))
+                    (PP
+                      (PREP فِي)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG المادَّة)))))))))))))</parse>
+<comment />
+<arg f="" g="teacher" n="0">مُدَرِّس</arg>
+<arg f="" g="student" n="1">تِلْمِيذ</arg>
+</example>
+<comment />
+</frame>
+<comment>ARZ
+Based on roleset qaSad-i.03</comment>
+<role argnum="1" argrole="entity aimed at" vncls="" vntheta="" />
+</frameset>
+<frameset cdef="" edef="to go to or visit" id="02" vncls="">
+<role argnum="0" argrole="visitor" vncls="" vntheta="" />
+<role argnum="1" argrole="location visited" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+    (VP
+      (IV3FS+IV+IVSUFF_MOOD:I تعمد)
+      (NP-SBJ
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM ادارة)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الفندق)))
+      (PP-CLR
+        (PREP الى)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN التعاقد))
+          (NP-ADV
+            (NOUN+CASE_DEF_ACC مع)
+            (NP
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN فرقة)
+                (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN موسيقية))
+              (SBAR
+                (WHNP-1
+                  (-NONE- 0))
+                (S
+                  (VP
+                    (IV3FS+IV+IVSUFF_MOOD:I تعزف)
+                    (NP-SBJ
+                      (-NONE- *T*-1))
+                    (PP-TMP
+                      (PREP على)
+                      (NP
+                        (NOUN+CASE_DEF_GEN امتداد)
+                        (NP
+                          (NOUN+CASE_DEF_GEN نهار)
+                          (NP
+                            (NOUN_QUANT+CASE_DEF_GEN كل)
+                            (NP
+                              (NOUN+CASE_INDEF_GEN احد))))))
+                    (PUNC ,)
+                    (PP-LOC
+                      (PREP في)
+                      (NP
+                        (NP
+                          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الحديقة)
+                          (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الفسيحة))
+                        (SBAR
+                          (WHNP-3
+                            (REL_PRON التي))
+                          (S
+                            (VP
+                              (IV3MS+IV+IVSUFF_MOOD:I يقصد)
+                              (NP-OBJ
+                                (NP
+                                  (IVSUFF_DO:3FS ها))
+                                (NP
+                                  (-NONE- *T*-3)))
+                              (NP-SBJ
+                                (NP
+                                  (NP
+                                    (DET+NOUN+CASE_DEF_NOM السياح))
+                                  (NP
+                                    (NOUN+CASE_DEF_NOM نزلاء)
+                                    (NP
+                                      (DET+NOUN+CASE_DEF_GEN الفندق))))</parse>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="the tourists who stay in the hotel" n="0">السياح نزلاء الفندق</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset qaSad-i.02</comment>
+</frameset>
+</verb>

@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqaHam</id>
+
+<frameset cdef="" edef="to be squeezed" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقحمت الليمونة بسهولة</parse>
+
+<arg f="" g="the lemon" n="1">الليمونة</arg>
+<arg f="mnr" g="easily" n="m">بسهولة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity squeezed" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to go into something without asking" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقحم الرجل في موضوع البيت</parse>
+
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="tmp" g="in the house matter" n="m">في موضوع البيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="into what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

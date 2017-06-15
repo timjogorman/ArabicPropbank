@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ifotakar</id>
+<comment/>
+<frameset cdef="" edef="to think, to remmember, to assume" id="01">
+<role argnum="0" argrole="entity remembering"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جصريا وجامد العب اتارى السيجا على موبيلك افتكر * ايام زمان</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="old days" n="1">ايام زمان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity remembered"/>
+<role argnum="2" argrole="attributed ti Arg1"/>
+</frameset>
+</verb>

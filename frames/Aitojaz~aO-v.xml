@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitojaz~aO</id>
+<comment/>
+<frameset cdef="" edef="be divided, be separated" id="01" vncls="">
+<role argnum="1" argrole="thing being divided" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الكتاب ده ما بيتجزأش * الى قصص</parse>
+<comment/>
+<arg f="" g="This book" n="1">* الكتاب ده</arg>
+<arg f="" g="into stories" n="2">الى قصص</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="divided among/between, if separate from arg1" vncls="" vntheta=""/>
+</frameset>
+</verb>

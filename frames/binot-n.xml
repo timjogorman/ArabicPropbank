@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>binot</id>
+<comment/>
+<frameset cdef="" edef="girl" id="01" vncls="">
+<role argnum="1" argrole="the girl" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هي بنت * كويسة</parse>
+<comment/>
+<arg f="" g="she" n="1">* هي</arg>
+<arg f="" g="nice" n="2">كويسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

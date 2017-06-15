@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eaqar-i</id>
+<comment/>
+<frameset cdef="" edef="to slaughter or butcher, to cut one of the animal legs" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عقر الرجل الشاة بالسكين</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the sheep" n="1">الشاة</arg>
+<arg f="" g="the knife" n="2">بالسكين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to bite" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عقر الكلب الطفل</parse>
+<comment/>
+<arg f="" g="the dog" n="0">الكلب</arg>
+<arg f="" g="the kid" n="1">الطفل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+</frameset>
+</verb>

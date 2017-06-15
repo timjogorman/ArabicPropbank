@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rad~</id>
+
+<frameset cdef="" edef="response, reaction" id="01" vncls="">
+<role argnum="0" argrole="replier" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أحد الاخوة كتب ردة * على كلامي</parse>
+
+<arg f="" g="NONE" n="1">* ? NONE</arg>
+<arg f="" g="because of my talk" n="2">على كلامي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="answer" vncls="" vntheta=""/>
+<role argnum="2" argrole="in response to" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="turning something back to" id="02" vncls="">
+<role argnum="0" argrole="returner" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الاولاد قاموا برد * الكتب الى المكتبة</parse>
+<comment/>
+<arg f="" g="the kids" n="0">* الاولاد</arg>
+<arg f="" g="the books" n="1">الكتب</arg>
+<arg f="" g="to the library" n="2">الى المكتبة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things returned" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

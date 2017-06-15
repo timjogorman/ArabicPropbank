@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zaxam-a</id>
+<comment/>
+<frameset cdef="" edef="to stink" id="01" vncls="">
+<role argnum="1" argrole="entity stinking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زخم اللحم</parse>
+<comment/>
+<arg f="" g="the meat" n="1">اللحم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to impel or propel, to push" id="02" vncls="">
+<role argnum="0" argrole="pusher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زخم الطفل صاحبه على الأرض</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<arg f="" g="on the ground" n="2">على الأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="pushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="direction or location" vncls="" vntheta=""/>
+</frameset>
+</verb>

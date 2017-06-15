@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Say~if</id>
+<comment/>
+<frameset cdef="" edef="to go on vacation in summer" id="01" vncls="">
+<role argnum="0" argrole="entity going" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا حصيف  * السنة دي في الشمال</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="tmp" g="this year" n="m">السنة دي</arg>
+<arg f="" g="in the north" n="1">في الشمال</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

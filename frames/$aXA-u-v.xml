@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$aXA-u</id>
+
+<frameset cdef="" edef="to fragranced or perfumed" id="01" vncls="">
+<role argnum="1" argrole="entity getting perfumed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شذت المرأة</parse>
+
+<arg f="" g="the woman" n="1">المرأة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to spread" id="02" vncls="">
+<role argnum="1" argrole="thing spreaded" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شذا المسك في أرجاء البيت</parse>
+
+<arg f="" g="musk" n="1">المسك</arg>
+<arg f="loc" g="around the house" n="m">في أرجاء البيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

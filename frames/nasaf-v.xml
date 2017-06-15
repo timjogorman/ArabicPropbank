@@ -1,0 +1,17 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>nasaf</id>
+<frameset cdef="" edef="to destroy" id="01">
+<role argnum="0" argrole="destroyer" />
+<role argnum="1" argrole="thing destroyed" />
+<frame>
+<example>
+<parse>
+لماذا ينسف عرفات جسوره **-1 ?
+</parse>
+<arg f="" g="'Arafaat" n="0">عرفات</arg>
+<arg f="" g="his bridges" n="1">جسوره</arg>
+<arg f="cau" g="-NONE- &lt; why" n="m">**-1 &lt; لماذا</arg>
+</example>
+</frame>
+<comment>Based on roleset nasaf-i-v.01</comment></frameset>
+<comment>EGYPTIAN ARABIC Framefile based on nasaf-i-v</comment></verb>

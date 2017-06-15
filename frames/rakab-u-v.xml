@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rakab-u</id>
+
+<frameset cdef="" edef="to hit someone with the knee" id="01" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ركب الولد صاحبه</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

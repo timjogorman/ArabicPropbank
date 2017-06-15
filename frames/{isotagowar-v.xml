@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotagowar</id>
+
+<frameset cdef="" edef="to explore, to scout" id="01" vncls="">
+<role argnum="0" argrole="entity exploring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استغور الرجل  الجزيرة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the island" n="1">الجزيرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity explored" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

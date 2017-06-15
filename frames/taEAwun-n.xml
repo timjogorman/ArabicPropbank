@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEAwun</id>
+<comment/>
+<frameset cdef="" edef="To cooperate" id="01" vncls="">
+<role argnum="0" argrole="ne cooperator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طلبت الحكومة تعاون الجيش والناس في وقف مياه الفيضان</parse>
+<comment/>
+<arg f="" g="the Army" n="0">الجيش</arg>
+<arg f="" g="and the people" n="1">والناس</arg>
+<arg f="" g="in stoping the flood water" n="2">في وقف مياه الفيضان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="other cooperator(s)" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

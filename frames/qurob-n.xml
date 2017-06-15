@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qurob</id>
+<comment/>
+<frameset cdef="" edef="close to, beside" id="01" vncls="">
+<role argnum="1" argrole="entity close" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وقع الحادث قرب * المدرسة</parse>
+<comment/>
+<arg f="" g="the accedent" n="1">* الحادث</arg>
+<arg f="" g="the hoolsc" n="2">المدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

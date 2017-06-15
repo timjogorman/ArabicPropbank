@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mabosuwT</id>
+<comment/>
+<frameset cdef="" edef="happy" id="01" vncls="">
+<role argnum="1" argrole="entity happy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا مبسوط  * بحضورك</parse>
+<comment/>
+<arg f="" g="I" n="1">* انا</arg>
+<arg f="" g="by your coming" n="2">بحضورك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

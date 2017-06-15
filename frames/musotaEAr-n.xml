@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>musotaEAr</id>
+<comment/>
+<frameset cdef="" edef="borrowed" id="01" vncls="">
+<role argnum="0" argrole="taker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الكتاب مستعار * من المكتبة</parse>
+<comment/>
+<arg f="" g="this book" n="1">* هذا الكتاب</arg>
+<arg f="" g="from the library" n="2">من المكتبة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things taken" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="false, fake" id="02" vncls="">
+<role argnum="1" argrole="things that are false" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا شعر مستعار * وليس حقيقي</parse>
+<comment/>
+<arg f="" g="hair" n="1">* شعر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

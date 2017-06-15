@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>vAbir</id>
+<comment>EGYPTIAN ARABIC Framefile based on vAbar-v</comment>
+<frameset cdef="" edef="to persevere, to persist in" id="01" vncls="">
+<role argnum="0" argrole="entity persisting" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ثابر الرجل على الدراسة</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on studying" n="1">على الدراسة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset vAbar-v.01</comment>
+<role argnum="1" argrole="on what" vncls="" vntheta="" />
+</frameset>
+</verb>

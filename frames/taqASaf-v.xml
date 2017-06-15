@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqASaf</id>
+<comment/>
+<frameset cdef="" edef="to bombard eachother, to open artillery fire at" id="01" vncls="">
+<role argnum="0" argrole="entity attacking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقاصف الجانبان بالمدفعية</parse>
+<comment/>
+<arg f="" g="both sides" n="0">الجانبان</arg>
+<arg f="" g="with artillery" n="2">بالمدفعية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="second party" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

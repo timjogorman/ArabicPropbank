@@ -1,0 +1,146 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>fAd</id>
+<frameset cdef="" edef="to benefit from" id="02">
+<role argnum="0" argrole="entity benefiting" />
+<role argnum="1" argrole="source" />
+<frame>
+<example>
+<parse>
+(S
+  (S
+    (CONJ و)
+    (VP
+      (IV3FS+IV_PASS+IVSUFF_MOOD:I تقدر)
+      (NP-SBJ-1
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM كمية)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN المياه)))
+        (SBAR
+          (WHNP-2
+            (REL_PRON التي))
+          (S
+            (VP
+              (IV3MS+IV+IVSUFF_MOOD:I يفيد)
+              (PP
+                (PREP من)
+                (NP
+                  (NP
+                    (PRON_3FS ها))
+                  (NP
+                    (-NONE- *T*-2))))
+              (NP-SBJ
+                (NOUN_PROP+CASE_DEF_NOM لبنان))
+              (PP-TMP
+                (PREP منذ)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN التحرير)))))))
+      (NP-OBJ
+        (-NONE- *-1))
+      (PP-CLR
+        (PREP ب)
+        (SBAR-NOM
+          (WHNP-3
+            (REL_PRON ما))
+          (S
+            (VP
+              (IV3MS+IV+IVSUFF_MOOD:I يقارب)
+              (NP-SBJ
+                (-NONE- *T*-3))
+              (NP-OBJ
+                (NOUN_NUM 7)
+                (NP
+                  (NOUN_NUM+CASE_DEF_GEN ملايين)
+                  (NP
+                    (NOUN+CASE_INDEF_GEN متر)
+                    (ADJ+CASE_INDEF_GEN مكعب))))
+              (NP-TMP
+                (NOUN+CASE_INDEF_ACC سنويا))))))))
+  (PUNC .))
+</parse>
+<arg f="" g="from it &lt; amount of water" n="0">منها</arg>
+<arg f="" g="Lebanon" n="1">لبنان</arg>
+<arg f="tmp" g="since independance" n="m">منذ التحرير</arg>
+</example>
+</frame>
+<comment>Based on roleset OafAd-v.02</comment></frameset>
+<frameset cdef="" edef="to benefit others" id="03">
+<role argnum="0" argrole="entity donating" />
+<role argnum="1" argrole="type of benefit" />
+<role argnum="2" argrole="benefactive" />
+<frame>
+<example>
+<parse>
+(S
+  (S
+    (CONJ ف)
+    (SBAR-ADV
+      (SUB_CONJ اذا)
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:3FS كانت)
+          (NP-SBJ
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM المأساة)
+              (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM الفلسطينية))
+            (NP
+              (PRON_3FS هي)))
+          (NP-ADV
+            (NOUN+CASE_INDEF_ACC حقاً))
+          (SBAR-NOM-PRD
+            (WHNP-2
+              (REL_PRON ما))
+            (S
+              (VP
+                (IV3MS+IV+IVSUFF_MOOD:I يحرك)
+                (NP-SBJ
+                  (-NONE- *T*-2))
+                (NP-OBJ
+                  (DEM_PRON_MP هؤلاء))))))))
+    (PUNC ,)
+    (PRT
+      (RC_PART ف))
+    (VP
+      (PRT
+        (JUS_PART ل))
+      (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ يتبرعوا)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP ل)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN لهلال)
+          (DET+ADJ+CASE_DEF_GEN الأحمر)))
+      (PP
+        (PREP ب)
+        (NP
+          (NP
+            (DEM_PRON_F هذه))
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الطريقة))))
+      (PUNC ,)
+      (S-ADV
+        (VP
+          (PSEUDO_VERB عل)
+          (NP-SBJ-1
+            (PRON_3MP هم))
+          (S
+            (VP
+              (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يفيدون)
+              (NP-SBJ
+                (-NONE- *-1))
+              (NP-OBJ
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC القضية))
+              (PP
+                (PREP في)
+                (NP
+                  (NOUN+CASE_INDEF_GEN شيء)))))))))
+  (PUNC .))
+</parse>
+<arg f="" g="-NONE- &lt; they" n="0">*-1 &lt; هم</arg>
+<arg f="" g="the situation" n="2">القضية</arg>
+<arg f="" g="with something" n="1">في شيء</arg>
+</example>
+</frame>
+<comment>Based on roleset OafAd-v.03</comment></frameset>
+<comment>EGYPTIAN ARABIC Framefile based on OafAd-v</comment></verb>

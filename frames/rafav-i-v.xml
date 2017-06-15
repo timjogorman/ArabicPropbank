@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rafav-i</id>
+<comment/>
+<frameset cdef="" edef="to be or become obscene, to use obscene language" id="01">
+<role argnum="0" argrole="agent"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رفث الرجل في كلامه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment>بذؤ‏</comment>
+</frameset>
+<frameset cdef="" edef="to have sex, to make love" id="02">
+<role argnum="0" argrole="entity having sex"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رفث الرجل بزوجته</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to his wife" n="1">بزوجته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom"/>
+</frameset>
+</verb>

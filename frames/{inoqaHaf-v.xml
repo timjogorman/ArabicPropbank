@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqaHaf</id>
+
+<frameset cdef="" edef="to be removed or smoothed by rubbing with a tool." id="01" vncls="">
+<role argnum="1" argrole="entity removed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقحف الصوف عن جلد الكبش</parse>
+
+<arg f="" g="wool" n="1">الصوف</arg>
+<arg f="" g="from the sheep's skin" n="2">عن جلد الكبش</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

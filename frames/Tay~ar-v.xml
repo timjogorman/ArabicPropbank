@@ -1,0 +1,80 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Tay~ar</id>
+
+<frameset cdef="" edef="to make fly" id="01" vncls="">
+<role argnum="0" argrole="agent forcing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ده قاعد بيطير * الطيور كل يوم</parse>
+
+
+<arg f="" g="he" n="0">* ده</arg>
+<arg f="" g="the doves" n="1">الطيور</arg>
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity flying" vncls="" vntheta=""/>
+
+<role argnum="2" argrole="starting point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to drive crazy, to keep someone awake" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(PP
+      (PREP ب)
+      (NP
+        (NOUN جد)))
+    (NP-TPC-1
+      (NOUN+NSUFF_FEM_SG حاجة))
+    (VP
+      (IV3FS+IV تطير)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (DET+NOUN العقل))
+      (PP
+        (PREP من)
+        (NP
+          (DET+NOUN الواحد))))))</parse>
+
+<arg f="" g="thing" n="0">* 1 حاجة</arg>
+<arg f="" g="the mind" n="1">العقل</arg>
+<arg f="" g="from someone" n="2">من الواحد</arg>
+<comment/>
+</example>
+
+<example>
+<parse>الافلام ديه بتطير * النوم من عينين الواحد</parse>
+
+<arg f="" g="movies" n="0">* الافلام</arg>
+<arg f="" g="sleep" n="1">النوم</arg>
+<arg f="" g="fromsomeone's eyes" n="2">من عينين الواحد</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things going crazy" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

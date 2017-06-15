@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AiHotasab</id>
+<comment>EGYPTIAN ARABIC based on {iHotasab</comment>
+<frameset cdef="" edef="take into consideration, calculate, reckon, think" id="01" vncls="">
+<role argnum="0" argrole="thinker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>roleset based on {iHotasab.01</comment>
+<role argnum="1" argrole="thought" vncls="" vntheta=""/>
+</frameset>
+</verb>

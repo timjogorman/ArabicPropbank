@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>xaD~</id>
+<comment>EGYPTIAN ARABIC based on xaD~-u</comment>
+    <frameset cdef="" edef="to frighten" id="02" vncls="">
+<role argnum="0" argrole="entity scaring" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (SBAR-ADV
+      (SUB_CONJ إِن)
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:3MS شاء)
+          (NP-SBJ
+            (NOUN_PROP اللَّه)))))
+    (VP
+      (PRT
+        (NEG_PART مِش))
+      (PRT
+        (FUT_PART حَ))
+      (IV3MS+IV يُخُضّ)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN بِلاد)
+        (NP
+          (DET+NOUN_PROP الإِسْلام)))
+      (NP-ADV
+        (NOUN+CASE_INDEF_ACC طَبْعاً)))))</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="Islamic countries of course" n="1">بِلاد الإِسْلام طَبْعاً</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset xaD~-u.02</comment>
+<role argnum="1" argrole="entity scared" vncls="" vntheta="" />
+<role argnum="2" argrole="with what" vncls="" vntheta="" />
+</frameset>
+</verb>

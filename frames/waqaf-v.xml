@@ -1,0 +1,168 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waqaf</id>
+
+    <frameset cdef="" edef="to help or to make stand" id="03" vncls="">
+<role argnum="0" argrole="helper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أوقف الرجل أخاه على قدميه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="on his feet" n="2">على قدميه</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity helped" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+
+
+<comment>Based on roleset Oawoqaf.03</comment>
+</frameset>
+
+<frameset cdef="" edef="to stop doing something" id="04" vncls="">
+<role argnum="0" argrole="entity stoping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لن نقف * ساكتين أمام هذه المشاكل</parse>
+
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="silent" n="1">ساكتين</arg>
+<arg f="" g="in front of these problems" n="2">أمام هذه المشاكل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed for ARG1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to take a stance or a position for or against something" id="05" vncls="">
+<role argnum="0" argrole="entity standing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (VP
+        (IV3P+IV+IVSUFF_SUBJ:P يِحَكِّمُوا)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN ضَمِير)
+          (NP
+            (POSS_PRON_3P هُم)))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3P+IV+IVSUFF_SUBJ:P يُقَفُوا)
+        (NP-SBJ
+          (-NONE- *))
+        (PP-CLR
+          (PREP فِي)
+          (NP
+            (NOUN وَجْه)
+            (NP
+              (DET+NOUN الظُلْم))))))))</parse>
+
+<arg f="" g="them" n="">* هُم</arg>
+<arg f="" g="in the face of injustice" n="">في وجه الظلم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="against what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to stand/be in vertical position" id="06" vncls="">
+<role argnum="1" argrole="entity standing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (PRT
+      (FOCUS_PART اما))
+    (NP-TPC-1
+      (DET+NOUN+CASE_DEF_NOM الطلاب))
+    (PRT
+      (CONNEC_PART ف))
+    (VP
+      (PRT
+        (VERB_PART قد))
+      (PV+PVSUFF_SUBJ:3MS وقف)
+      (NP-SBJ
+        (NP
+          (NOUN+CASE_INDEF_NOM عدد))
+        (PP
+          (PREP من)
+          (NP
+            (NP
+              (PRON_3MP هم))
+            (NP
+              (-NONE- *T*-1)))))
+      (NP-LOC
+        (NOUN+CASE_DEF_ACC عند)
+        (NP
+          (NOUN+CASE_DEF_GEN مدخل)
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجامعة))))))</parse>
+
+<arg f="" g="some of them" n="1">عدد منهم</arg>
+<arg f="" g="at the university entrance" n="2">عند مدخل الجامعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="position/purpose/manner/location" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Oawoqaf</comment>
+<frameset cdef="" edef="to meet (multi word expression)" id="07" vncls="">
+<role argnum="0" argrole="entity meeting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نحن نقف * بعدد من السكارى في الليل</parse>
+<comment/>
+<arg f="" g="we" n="0">* نحن</arg>
+<arg f="" g="a number of drunks" n="1">بعدد من السكارى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity met (comes after  بـ)" vncls="" vntheta=""/>
+</frameset>
+</verb>

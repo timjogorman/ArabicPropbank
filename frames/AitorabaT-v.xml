@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitorabaT</id>
+
+<frameset cdef="" edef="be associated with" id="01" vncls="">
+<role argnum="1" argrole="theme, thing being associated" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أسمه ارتبط * بالموضوع</parse>
+
+<arg f="" g="his name" n="1">* أسمه</arg>
+<arg f="" g="with the subject" n="2">بالموضوع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="entity associated-with" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="be commited , to bind oneself with" id="02" vncls="">
+<role argnum="1" argrole="thing bound" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هو حيرتبط * مع فريق ميلانو</parse>
+
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="with Milano team" n="2">مع فريق ميلانو</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="bound to what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Tan~i$</id>
+<comment/>
+<frameset cdef="" edef="to ignore, disregard" id="01" vncls="">
+<role argnum="0" argrole="ignorer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طنش الولد عن الذهاب إلى المدرسة اليوم</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="from going to school" n="1">عن الذهاب إلى المدرسة اليوم</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing ignored" vncls="" vntheta=""/>
+</frameset>
+</verb>

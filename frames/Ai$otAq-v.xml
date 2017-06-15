@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ai$otAq</id>
+<comment/>
+<frameset cdef="" edef="to long or yearn for, to hunger for" id="01" vncls="">
+<role argnum="0" argrole="entity longing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اشتاق الجندي لعائلته</parse>
+<comment/>
+<arg f="" g="the soldier" n="0">الجندي</arg>
+<arg f="" g="for his family" n="1">لعائلته</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="to whom or what" vncls="" vntheta=""/>
+</frameset>
+</verb>

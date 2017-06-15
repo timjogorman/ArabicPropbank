@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoTamas</id>
+
+<frameset cdef="" edef="to be wiped out or forgotten" id="01" vncls="">
+<role argnum="1" argrole="entity wiped out or forgotten" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انطمس الغبار بالمكنسة</parse>
+
+<arg f="" g="dust" n="1">الغبار</arg>
+<arg f="" g="with a broom" n="2">بالمكنسة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

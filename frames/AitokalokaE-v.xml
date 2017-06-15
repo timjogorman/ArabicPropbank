@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitokalokaE</id>
+<comment/>
+<frameset cdef="" edef="made complecated" id="01" vncls="">
+<role argnum="1" argrole="things becoming complicated" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الحاجة لما تكلكع * مصيبة</parse>
+<comment/>
+<arg f="" g="things" n="1">* الحاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

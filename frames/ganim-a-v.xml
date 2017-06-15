@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ganim-a</id>
+<comment/>
+<frameset cdef="" edef="to take as booty, to capture, to gain" id="01">
+<role argnum="0" argrole="taker"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غنم الجنود ذهبا كثيرا من المدينة</parse>
+<comment/>
+<arg f="" g="the soldiers" n="0">الجنود</arg>
+<arg f="" g="a lot of gold" n="1">ذهبا كثيرا</arg>
+<arg f="" g="from the city" n="2">من المدينة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things taken"/>
+<role argnum="2" argrole="from whom"/>
+</frameset>
+</verb>

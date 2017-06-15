@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{iqotat</id>
+<comment/>
+<frameset cdef="" edef="to feed on, to live on" id="01" vncls="">
+<role argnum="0" argrole="entity eating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اقتات الرجل التمر من الشجرة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the dates" n="1">التمر</arg>
+<arg f="" g="from the tree" n="2">من الشجرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things ate" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faziE</id>
+<comment/>
+<frameset cdef="" edef="to be afraid or scared of" id="01" vncls="">
+<role argnum="0" argrole="entity scared" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فزع الطفل من ظله</parse>
+<comment/>
+<arg f="" g="the child" n="0">الطفل</arg>
+<arg f="" g="from his shadow" n="1">من ظله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

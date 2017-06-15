@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>magofirap</id>
+<comment/>
+<frameset cdef="" edef="to forgive" id="01" vncls="">
+<role argnum="0" argrole="forgiver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الله يريد مغفرة * خطايا التائب</parse>
+<comment/>
+<arg f="" g="God" n="0">* الله</arg>
+<arg f="" g="the sins" n="1">خطايا</arg>
+<arg f="" g="the repentant" n="2">التائب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="blame" vncls="" vntheta=""/>
+<role argnum="2" argrole="forgiven" vncls="" vntheta=""/>
+</frameset>
+</verb>

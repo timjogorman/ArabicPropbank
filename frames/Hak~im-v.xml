@@ -1,0 +1,83 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hak~im</id>
+
+    <frameset cdef="" edef="to arbiter or judge" id="01" vncls="">
+<role argnum="0" argrole="agent - arbiter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ويكفيك من ذلك رجاحة عقله عندما حكم بين القبائل قبل البعثة عندما أرادوا إعادة بناء الكعبة فاختلفوا فيمن يرفع الحجر الأسود إلى مكانه</parse>
+
+<arg f="" g="he" n="0">*</arg>
+<arg f="" g="between the tribes" n="1">بين القبائل</arg>
+<arg f="tmp" g="before he became the messenger" n="m">قبل البعثة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the parties" vncls="" vntheta=""/>
+<role argnum="2" argrole="case" vncls="" vntheta=""/>
+
+<comment>Based on roleset Hak~am.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Hak~am</comment>
+<frameset cdef="" edef="to empower, to put someone in autrityho" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>TOP
+  (S
+    (NP-VOC
+      (PRT
+        (VOC_PART يا))
+      (NOUN رَبّ))
+    (NP-TPC-1
+      (DET+NOUN الشَعْب))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS تِعِب)
+      (NP-SBJ
+        (-NONE- *T*-1))))
+  (S
+    (NP-VOC
+      (PRT
+        (VOC_PART يا))
+      (NOUN رَبّ))
+    (VP
+      (CV+CVSUFF_SUBJ:2MS حَكِّم)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP عَلِي)
+        (NP
+          (PRON_1P نا)))
+      (NP-OBJ
+        (ADJP
+          (ADJ_COMP خِيار)
+          (NP
+            (POSS_PRON_1P نا)))))))
+
+ حكم *</parse>
+<comment/>
+<arg f="" g="O God" n="0">* يا رب</arg>
+<arg f="" g="on us" n="2">علينا</arg>
+<arg f="" g="our best" n="1">خيارنا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity put in power" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

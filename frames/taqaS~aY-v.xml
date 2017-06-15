@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqaS~aY</id>
+<comment/>
+<frameset cdef="" edef="to examine or investigate, to study" id="01" vncls="">
+<role argnum="0" argrole="entity invetigating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقصى المحقق الأدلة حول الحادث</parse>
+<comment/>
+<arg f="" g="the detective" n="0">المحقق</arg>
+<arg f="" g="the evidance" n="1">الأدلة</arg>
+<arg f="" g="about the accident" n="2"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things invetigated" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to ask for one by one" id="02" vncls="">
+<role argnum="0" argrole="entity asking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقصى الأمير الجنود</parse>
+<comment/>
+<arg f="" g="the prince" n="0">الأمير</arg>
+<arg f="" g="the soldiers" n="1">الجنود</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="asking for" vncls="" vntheta=""/>
+</frameset>
+</verb>

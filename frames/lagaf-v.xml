@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lagaf</id>
+<comment/>
+<frameset cdef="" edef="to east fast, to lick up" id="01" vncls="">
+<role argnum="0" argrole="entity eating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لغف الطفل الطعام من الصحن</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="the food" n="1">الطعام</arg>
+<arg f="" g="from the plate" n="2">من الصحن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the food" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

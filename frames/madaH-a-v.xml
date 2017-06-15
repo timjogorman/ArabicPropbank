@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>madaH-a</id>
+
+<frameset cdef="" edef="to praise or commend" id="01" vncls="">
+<role argnum="0" argrole="entity praising" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مدحت الزوجة زوجها على أفكاره</parse>
+
+<arg f="" g="the wife" n="0">الزوجة</arg>
+<arg f="" g="her husband" n="1">زوجها</arg>
+<arg f="" g="for his thoughts" n="2">على أفكاره</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity praised" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

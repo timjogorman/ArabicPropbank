@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SaEiq</id>
+<comment/>
+<frameset cdef="" edef="to be struck or hit by electric or lightning, to be stunned or shocked" id="01" vncls="">
+<role argnum="1" argrole="entity shocked" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صعق الرجل بخبر وفاة والده</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="with his father's death news" n="2">بخبر وفاة والده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what, causer" vncls="" vntheta=""/>
+</frameset>
+</verb>

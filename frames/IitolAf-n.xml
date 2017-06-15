@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IitolAf</id>
+<comment/>
+<frameset cdef="" edef="to destroy, destroying" id="01" vncls="">
+<role argnum="0" argrole="the destroyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الرجال بإتلاف * جميع الأسلحة</parse>
+<comment/>
+<arg f="" g="the men" n="0">* الرجال</arg>
+<arg f="" g="all the weapons" n="1">جميع الأسلحة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity destroyed" vncls="" vntheta=""/>
+</frameset>
+</verb>

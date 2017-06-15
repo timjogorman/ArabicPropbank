@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEAqub</id>
+<comment/>
+<frameset cdef="" edef="succession, one after the other, rotate" id="01" vncls="">
+<role argnum="1" argrole="agent, thing rotating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مللنا من تعاقب نفس الحزب في هذا المنصب</parse>
+<comment/>
+<arg f="" g="the same party" n="1">نفس الحزب</arg>
+<arg f="" g="in this position" n="3">في هذا المنصب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="second agent ( if separated from ARG1)" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what, thing rotated on" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="following" id="02" vncls="">
+<role argnum="1" argrole="thing following, coming after" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الناس في خوف من تعاقب الامور بهذا الشكل</parse>
+<comment/>
+<arg f="" g="the matters" n="1">الامور</arg>
+<arg f="mnr" g="in this way" n="m">بهذا الشكل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="thing followed, coming before" vncls="" vntheta=""/>
+</frameset>
+</verb>

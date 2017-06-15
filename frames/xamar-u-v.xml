@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xamar-u</id>
+<comment/>
+<frameset cdef="" edef="to make someone drunk by wine, to add yeast to the dough" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خمر الرجل صاحبه بالخمر</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<arg f="" g="with wine" n="2">بالخمر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity drunk" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be ashamed of" id="02" vncls="">
+<role argnum="0" argrole="entity ashamed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خمر الرجل من صاحبه من أفعاله</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="fromhis friend" n="1">من صاحبه</arg>
+<arg f="" g="because of his acts" n="2">من أفعاله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

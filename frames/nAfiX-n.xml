@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nAfiX</id>
+<comment/>
+<frameset cdef="" edef="valid, effective" id="01" vncls="">
+<role argnum="1" argrole="things that are valid" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يعتبر هذا القرار نافذا * إعتبارا من اليوم</parse>
+<comment/>
+<arg f="" g="this dicision" n="1">هذا القرار</arg>
+<arg f="tmp" g="starting from today" n="m">إعتبارا من اليوم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to permeate" id="02" vncls="">
+<role argnum="0" argrole="entity spreading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الكلمات كانت نافذة * الى المخ</parse>
+<comment/>
+<arg f="" g="the words" n="0">* الكلمات</arg>
+<arg f="" g="to the brain" n="1">الى المخ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity permeated" vncls="" vntheta=""/>
+</frameset>
+</verb>

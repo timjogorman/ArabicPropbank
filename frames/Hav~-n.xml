@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hav~</id>
+<comment/>
+<frameset cdef="" edef="to urge or encourage" id="01" vncls="">
+<role argnum="0" argrole="compeller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام المدرس بحث * الطلبة على الدراسة</parse>
+<comment/>
+<arg f="" g="the teacher" n="0">* المدرس</arg>
+<arg f="" g="the students" n="1">الطلبة</arg>
+<arg f="" g="for studying" n="2">على الدراسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="compelled" vncls="" vntheta=""/>
+<role argnum="2" argrole="action" vncls="" vntheta=""/>
+</frameset>
+</verb>

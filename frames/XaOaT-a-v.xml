@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>XaOaT-a</id>
+
+<frameset cdef="" edef="to fill" id="01" vncls="">
+<role argnum="0" argrole="entity filling, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ذأطت البنت الكأس حليبا</parse>
+
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="the cup" n="2">الكأس</arg>
+<arg f="" g="milk" n="1">حليبا</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="substance, content" vncls="" vntheta=""/>
+<role argnum="2" argrole="container, path" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to strangle" id="02" vncls="">
+<role argnum="0" argrole="strangelr, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ذأطت الخادمة مخدومتها بيدها</parse>
+
+<arg f="" g="housemaid" n="0">الخادمة</arg>
+<arg f="" g="Mistress" n="1">مخدومتها</arg>
+<arg f="" g="by her hand" n="2">بيدها</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity strangled" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

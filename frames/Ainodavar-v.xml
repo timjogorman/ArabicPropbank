@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ainodavar</id>
+<comment/>
+<frameset cdef="" edef="to be effaced or wiped out" id="01" vncls="">
+<role argnum="1" argrole="entity wiped out" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(REL_PRON اِللِّي))
+        (S
+          (ADJP-PRD
+            (ADJ مُمْكِن))
+          (SBAR-SBJ
+            (-NONE- 0)
+            (S
+              (VP
+                (IV1P+IV نِتْكَلِّم)
+                (NP-SBJ
+                  (-NONE- *))
+                (PP
+                  (PREP عَلَى)
+                  (NP
+                    (NP
+                      (PRON_3MS ُه))
+                    (NP
+                      (-NONE- *T*-1)))))))))
+      (NP
+        (PRON_3MS هُوَّ)))
+    (NP-PRD
+      (NOUN إِحياء)
+      (NP
+        (NP
+          (NOUN+NSUFF_FEM_PL ثَقافات))
+        (SBAR
+          (WHNP-2
+            (-NONE- 0))
+          (S
+            (VP
+              (PV_PASS+PVSUFF_SUBJ:3FS اِندَثَرِت)
+              (NP-SBJ
+                (-NONE- *T*-2)))))))
+    (PP</parse>
+<comment/>
+<arg f="" g="cultures" n="1">* -2 ثَقافات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

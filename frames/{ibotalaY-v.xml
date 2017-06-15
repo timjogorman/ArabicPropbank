@@ -1,0 +1,71 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ibotalaY</id>
+
+<frameset cdef="" edef="to test, to try" id="01" vncls="">
+<role argnum="0" argrole="tester" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ابتلى * امور الحياة</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="life matters" n="1">امور الحياة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things tested" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be afflicted" id="02" vncls="">
+<role argnum="1" argrole="entity afflicted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الحمد لله الذي عافانا مما ابتلى به كثيراً من خلقه</parse>
+
+<arg f="" g="with it" n="2">به</arg>
+<arg f="" g="a lot of his creation" n="1">كثيراً من خلقه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to afflict" id="03" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ابتلى * أخيه بمشاكله</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="his brother" n="1">أخيه</arg>
+<arg f="" g="with his problems" n="2">بمشاكله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

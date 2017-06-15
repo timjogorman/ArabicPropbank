@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>haf~</id>
+<comment/>
+<frameset cdef="" edef="to come to, to gather around (multi word expression)" id="01" vncls="">
+<role argnum="0" argrole="things coming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أول ما اتكلم بدأت تهف * عليه البنات</parse>
+<comment/>
+<arg f="" g="on him" n="1">عليه</arg>
+<arg f="" g="the girls" n="0">البنات</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

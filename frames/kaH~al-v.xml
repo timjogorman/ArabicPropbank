@@ -1,0 +1,67 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kaH~al</id>
+
+<frameset cdef="" edef="to darken the eyes with khol or paint" id="01" vncls="Halaqa-1">
+<role argnum="0" argrole="entity darkening" vncls="Halaqa-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>كحل الاهل عيني العروس</parse>
+
+<arg f="" g="the family" n="0">الاهل</arg>
+<arg f="" g="the bride eyes" n="1">عيني العروس</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="whose eyes" vncls="Halaqa-1" vntheta="patient"/>
+
+
+<role argnum="2" argrole="instrument" vncls="Halaqa-1" vntheta="instrument"/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to feast one's eyes on, to enjoy (multi word expression)" id="02" vncls="">
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>كحل عينيه بالمنظر</parse>
+
+<arg f="" g="he" n="0">ه</arg>
+<arg f="" g="with the view" n="1">بالمنظر</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment>كحل عينيه بمشهد أو منظر</comment>
+</frame>
+
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+
+<comment/>
+</verb>

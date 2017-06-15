@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tabin</id>
+<comment/>
+<frameset cdef="" edef="to look deep into matters, to pay attention to" id="01" vncls="">
+<role argnum="0" argrole="entity looking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تبن الرجل في الموضوع بدقة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in the subject" n="1">في الموضوع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="into what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,74 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rakaz-u</id>
+
+<frameset cdef="" edef="to fix or fasten or settle, to be sober" id="01" vncls="">
+<role argnum="1" argrole="entity settels" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-VOC
+        (PRT
+          (VOC_PART يَا))
+        (NOUN عَمّ))
+      (VP
+        (CV+CVSUFF_SUBJ:2MS أُقْعُد)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-ADV
+          (ADV كِدَه))))
+    (CONJ وِ)
+    (S
+      (VP
+        (CV+CVSUFF_SUBJ:2MS إِركَز)
+        (NP-SBJ
+          (-NONE- *))))
+    (CONJ وِ)
+    (S
+      (VP
+        (CV+CVSUFF_SUBJ:2MS اِسْتَهْدِي)
+        (NP-SBJ
+          (-NONE- *))
+        (PP-CLR
+          (PREP بِ)
+          (NP
+            (NOUN_PROP اللّٰه)))))
+    (CONJ وِ)
+    (S
+      (VP
+        (CV+CVSUFF_SUBJ:2MS اِكْتِب)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN+NSUFF_FEM_DU كِلمِتِين))))
+    (S
+      (VP
+        (NEG_PART بَلاش)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN شُغْل)
+          (NP
+            (NP
+              (DET+NOUN الطَفَشان))
+            (NP
+              (DEM_PRON_MS دَه))))))))</parse>
+
+<arg f="" g="NONE" n="1">*? NONE</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

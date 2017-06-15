@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoHaram</id>
+<comment/>
+<frameset cdef="" edef="be outlawed;be forbidden" id="01" vncls="">
+<role argnum="0" argrole="disallower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>احنا اتحرمنا * من الاغاني الهادئة</parse>
+<comment/>
+<arg f="" g="we" n="2">* احنا</arg>
+<arg f="" g="from the slow songs" n="1">من الاغاني الهادئة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="action" vncls="" vntheta=""/>
+<role argnum="2" argrole="recipient" vncls="" vntheta=""/>
+</frameset>
+</verb>

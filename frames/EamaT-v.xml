@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EamaT</id>
+<comment/>
+<frameset cdef="" edef="to find fault with, to blame" id="01" vncls="">
+<role argnum="0" argrole="" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عمط الجاهل نعمة الله</parse>
+<comment/>
+<arg f="" g="the ignorant" n="0">الجاهل</arg>
+<arg f="" g="God's grace" n="1">نعمة الله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="" vncls="" vntheta=""/>
+<role argnum="2" argrole="" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lam~</id>
+
+    <frameset cdef="" edef="to collect, to gather" id="01" vncls="">
+<role argnum="0" argrole="entity gathering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ده هو لم * كل حاجة بتاعته من البيت</parse>
+
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="everything" n="1">كل حاجة</arg>
+<arg f="" g="he ownes" n="2">بتاعته</arg>
+<arg f="" g="from the house" n="3">من البيت</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things gathered" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="from where" vncls="" vntheta=""/>
+
+<comment>Based on roleset lam~-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on lam~-u</comment>
+<frameset cdef="" edef="to respect or to behave good" id="02" vncls="">
+<role argnum="0" argrole="entity behaving good" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يا راجل لم * نفسك شوية</parse>
+<comment/>
+<arg f="" g="man" n="0">* يا راجل</arg>
+<arg f="" g="your self" n="1">نفسك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="attributed to ARG0" vncls="" vntheta=""/>
+</frameset>
+</verb>

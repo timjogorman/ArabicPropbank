@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoxatam</id>
+
+<frameset cdef="" edef="to be stamped" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انختم العقد بطابع حكومي</parse>
+
+<arg f="" g="the contract" n="1">العقد</arg>
+<arg f="" g="with a governmental stamp" n="2">بطابع حكومي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity stamped" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what (stamp)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be concluded, ended" id="02" vncls="">
+<role argnum="0" argrole="concluder agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انختم المهرجان بعرض مسرحي</parse>
+
+<arg f="" g="the festival" n="1">المهرجان</arg>
+<arg f="" g="with a stage show" n="2">بعرض مسرحي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing concluded" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument, thing ended with" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

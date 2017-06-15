@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HAsis</id>
+<comment/>
+<frameset cdef="" edef="feeling about" id="01" vncls="">
+<role argnum="0" argrole="entity feeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا حاسس * بالخوف عليهم</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="fear" n="1">بالخوف</arg>
+<arg f="" g="for them" n="2">عليهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="feeling" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom or what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,20 +1,95 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>fAt-u</id>
-    <comment/>
-    <frameset cdef="" edef="past" id="01">
-        <role argnum="1" argrole="thing past"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>بالظبط هو هو كان و كان !إيه مش عايزة اقول_لك إن كتير قوى كان نازل من غير الدبلة ده يوم الجمعة اللى فاتت * جه_لى اساسا مكانش لابس الدبلة</parse>
-                <comment/>
-                <arg f="" g="friday" n="1">*&gt; الجمعة</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment>Eg</comment>
-    </frameset>
+<id>fAt-u</id>
+
+<frameset cdef="" edef="past" id="01" vncls="">
+<role argnum="1" argrole="thing past" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>بالظبط هو هو كان و كان !إيه مش عايزة اقول_لك إن كتير قوى كان نازل من غير الدبلة ده يوم الجمعة اللى فاتت * جه_لى اساسا مكانش لابس الدبلة</parse>
+
+<arg f="" g="friday" n="1">*&gt; الجمعة</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+<comment>ARZ</comment>
+</frameset>
+
+<frameset cdef="" edef="to miss, to forget" id="02" vncls="">
+<role argnum="0" argrole="entity forgeting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فاته أن يأخذ معه الرسائل</parse>
+
+<arg f="" g="he" n="0">ه</arg>
+<arg f="" g="to take the letters with him" n="1">أن يأخذ معه الرسائل</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="forgetting what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to enter" id="03" vncls="">
+<role argnum="0" argrole="entity entering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الراجل فات * جوه عشان يجيب حاجة</parse>
+
+
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="inside" n="1">جوه</arg>
+<arg f="prp" g="to bring something" n="m">عشان يجيب حاجة</arg>
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="destination" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

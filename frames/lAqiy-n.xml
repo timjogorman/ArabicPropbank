@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lAqiy</id>
+<comment/>
+<frameset cdef="" edef="finding" id="01" vncls="">
+<role argnum="0" argrole="finder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا مش لاقي * حاجة حلوة في المحل ده</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="something sweet" n="1">حاجة حلوة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="found" vncls="" vntheta=""/>
+</frameset>
+</verb>

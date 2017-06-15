@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Ailotabas</id>
+
+<frameset cdef="" edef="To be ambiguous, to be obscure, to be dubious,to be confused" id="01" vncls="">
+<role argnum="1" argrole="cause of confusion" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>التبس عليه الامر</parse>
+
+<arg f="" g="on him" n="2">ا عليه</arg>
+<arg f="" g="the matter" n="1">لامر</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="2" argrole="for whom" vncls="" vntheta="" />
+<comment>Based on roleset {ilotabas.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on {ilotabas</comment>
+</verb>

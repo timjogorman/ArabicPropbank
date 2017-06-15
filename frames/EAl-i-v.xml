@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAl-i</id>
+<comment/>
+<frameset cdef="" edef="to provide for,support" id="01">
+<role argnum="0" argrole="supporter"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عال الاب اطفاله بعد وفاة والدتهم</parse>
+<comment/>
+<arg f="" g="the father" n="0">الاب</arg>
+<arg f="" g="his children" n="2">اطفاله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what"/>
+<role argnum="2" argrole="entity supported"/>
+</frameset>
+<frameset cdef="" edef="to be in need" id="02">
+<role argnum="0" argrole="entity in need"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما عال من اقتصد</parse>
+<comment/>
+<arg f="" g="who saves" n="0">من اقتصد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what"/>
+</frameset>
+<frameset cdef="" edef="to have many kids" id="03">
+<role argnum="1" argrole="entity having the kids"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عال الرجل</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

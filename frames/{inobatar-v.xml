@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobatar</id>
+
+<frameset cdef="" edef="to be cut off, to be curtailed" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبتر اسم الوزير من محضر الشرطة</parse>
+
+<arg f="" g="the minister's name" n="1">اسم الوزير</arg>
+<arg f="" g="from the police report" n="2">من محضر الشرطة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity curtailed" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

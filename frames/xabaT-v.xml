@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>xabaT</id>
+<comment>EGYPTIAN ARABIC based on Darab</comment>
+    <frameset cdef="" edef="to hit" id="01" vncls="">
+<role argnum="0" argrole="agent, hitter - animate only!" vncls="" vntheta="" />
+<role argnum="1" argrole="thing hit" vncls="" vntheta="" />
+<role argnum="2" argrole="place hit" vncls="" vntheta="" />
+<role argnum="3" argrole="instrument, thing hit by or with" vncls="" vntheta="" />
+<frame>
+<mapping>
+<V />
+<mapitem src="sbj" trg="arg0" />
+
+
+
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>(S (S (VP (pull/attract+he/it MjaXaba- M جَذَبَ-)
+                                               (NP-SBJ (-NONE- X))
+                                               (NP-OBJ (it/them/her M-hA M -ها))))
+                                        (and Mwa- M وَ-)
+                                        (S (VP (strike/hit+he/it M-Daraba- M -ضَرَبَ-)
+                                               (NP-SBJ (-NONE- X))
+                                               (NP-OBJ (it/them/her M-hA M -ها))
+                                               (PP (in Mfiy M فِي)
+                                                   (NP (face/front Mwajohi- M وَجْهِ-)
+                                                       (its/their/her M-hA M -ها)))
+                                               (PP (with/by Mbi- M بِ-)
+                                                   (NP (the+handcuffs/shackles M-AlOagolAli M -الأَغْلالِ)))))))))))))
+   (PUNC &quot;)</parse>
+<arg f="" g="NP-SBJ (-NONE- *" n="0">X</arg>
+<arg f="" g="her" n="1">-hA</arg>
+<arg f="" g="in her face" n="2">fiy wajohi- -hA</arg>
+<arg f="" g="with the shackles" n="3">bi- -AlOagolAli</arg>
+<V />
+
+
+
+
+
+
+<comment />
+</example>
+
+
+
+
+
+
+<comment />
+</frame>
+
+
+
+
+
+
+<comment>Based on roleset Darab.01</comment>
+</frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAdaY</id>
+
+<frameset cdef="" edef="to antagonize, to feud with" id="01" vncls="HaAraba-1">
+<role argnum="0" argrole="person engaged in quarrel" vncls="HaAraba-1" vntheta="actor1"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عادى * صاحبه من أجل المال</parse>
+
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<arg f="" g="for the money" n="2">من أجل المال</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="second person" vncls="HaAraba-1" vntheta="actor2"/>
+<role argnum="2" argrole="topic" vncls="HaAraba-1" vntheta="topic"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

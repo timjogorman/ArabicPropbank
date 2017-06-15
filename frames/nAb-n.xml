@@ -1,0 +1,99 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nAb</id>
+
+<frameset cdef="" edef="To sleep" id="01" vncls="">
+<role argnum="0" argrole="thing experiencing sleep" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(NP
+                  (DET+NOUN_PROP+CASE_DEF_GEN الامام)
+                  (NOUN_PROP علي)
+                  (NOUN_PROP بن)
+                  (NOUN_PROP ابي)
+                  (NOUN_PROP طالب)
+                  (PRN
+                    (PUNC -LRB-)
+                    (NP
+                      (ABBREV ع))
+                    (PUNC -RRB-))))
+              (SBAR
+                (WHNP-2
+                  (REL_PRON الذي))
+                (S
+                  (S
+                    (VP
+                      (PV+PVSUFF_SUBJ:3MS افتدى)
+                      (NP-SBJ
+                        (-NONE- *T*-2))
+                      (NP-OBJ
+                        (NOUN+CASE_DEF_ACC رسول)
+                        (NP
+                          (NOUN_PROP+CASE_DEF_GEN الله)))
+                      (PP
+                        (PREP ب)
+                        (NP
+                          (NOUN+CASE_DEF_GEN نفس)
+                          (NP
+                            (POSS_PRON_3MS ه))))))
+                  (CONJ و)
+                  (S
+                    (VP
+                      (PV+PVSUFF_SUBJ:3MS نام)
+                      (NP-SBJ-3
+                        (-NONE- *))
+                      (PP-LOC
+                        (PREP في)
+                        (NP
+                          (NOUN+CASE_DEF_GEN فراش)
+                          (NP
+                            (POSS_PRON_3MS ه))))</parse>
+<arg f="" g="He" n="0">-NONE- *</arg>
+<arg f="loc" g="In his bed" n="m">في فراشه</arg>
+<V/>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+<frame>
+<example>
+<parse>nAmat maryamu nawmAF haniy}AF</parse>
+<arg f="" g="Mary" n="0">maryamu</arg>
+<arg f="cog" g="sleep" n="m">nawmAF</arg>
+<arg f="mnr" g="sound" n="m">haniy}AF</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+
+<comment>Based on roleset nAm-a.01</comment>
+</frameset>
+
+
+
+
+<comment>EGYPTIAN ARABIC based on nAm-a</comment>
+</verb>

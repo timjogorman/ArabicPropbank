@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>walaf-i</id>
+<comment/>
+<frameset cdef="" edef="to run fast" id="01" vncls="">
+<role argnum="0" argrole="entity running" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ولف الفرس</parse>
+<comment/>
+<arg f="" g="the horse" n="0">الفرس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

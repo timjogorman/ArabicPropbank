@@ -1,40 +1,60 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>laf~-u</id>
-    <frameset cdef="" edef="To encompass" id="01">
-        <role argnum="0" argrole="entity encompassing"/>
-        <role argnum="1" argrole="entity encompassed"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (IV1S+IV+IVSUFF_MOOD:S اسير)
-                    (NP-SBJ
+<id>laf~-u</id>
+<frameset cdef="" edef="To encompass" id="01" vncls="">
+<role argnum="0" argrole="entity encompassing" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity encompassed" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+                (VP
+                  (IV1S+IV+IVSUFF_MOOD:S اسير)
+                  (NP-SBJ
                     (-NONE- *))
-                    (NP-MNR
+                  (NP-MNR
                     (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC مشرقة)
                     (CONJ و)
                     (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC سعيدة))
-                    (PP-TMP
+                  (PP-TMP
                     (PREP في)
                     (NP
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الليل))
-                    (SBAR
-                    (WHNP-2
-                    (REL_PRON الذي))
-                    (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يلف)
-                    (NP-SBJ
-                    (-NONE- *T*-2))
-                    (NP-OBJ
-                    (IVSUFF_DO:1S ني)))))))))))))))
-                </parse>
-                <arg f="" g="She" n="0">-NONE- *T*-2</arg>
-                <arg f="" g="Me" n="1">ني</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN الليل))
+                      (SBAR
+                        (WHNP-2
+                          (REL_PRON الذي))
+                        (S
+                          (VP
+                            (IV3MS+IV+IVSUFF_MOOD:I يلف)
+                            (NP-SBJ
+                              (-NONE- *T*-2))
+                            (NP-OBJ
+                              (IVSUFF_DO:1S ني)))))))))))))))</parse>
+<arg f="" g="it" n="0">-NONE- *T*-2</arg>
+<arg f="" g="Me" n="1">ني</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to spin, to go around" id="02" vncls="">
+<role argnum="0" argrole="entity or thing spinning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لف الرجل حول البناية</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="around the building" n="1">حول البناية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="around what" vncls="" vntheta=""/>
+</frameset>
 </verb>

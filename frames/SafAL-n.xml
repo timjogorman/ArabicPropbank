@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SafAL</id>
+<comment/>
+<frameset cdef="" edef="clearness, clarity" id="01" vncls="">
+<role argnum="1" argrole="entity pure" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أعلنت النشرة الجوية صفاء الجو من الغبار اليوم</parse>
+<comment/>
+<arg f="" g="the weather" n="1">الجو</arg>
+<arg f="" g="from the dust" n="2">من الغبار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

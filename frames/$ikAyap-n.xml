@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$ikAyap</id>
+<comment/>
+<frameset cdef="" edef="complaint, protest, grievance" id="01" vncls="">
+<role argnum="0" argrole="the complainer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لا احد يسمع لشكاية * الناس حول موضوع الزبالة</parse>
+<comment/>
+<arg f="" g="noone" n="2">لا احد</arg>
+<arg f="" g="the people" n="0">الناس</arg>
+<arg f="" g="about the trash matter" n="1">حول موضوع الزبالة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the complaint" vncls="" vntheta=""/>
+<role argnum="2" argrole="audience" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,110 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaOonas</id>
+
+<frameset cdef="" edef="to domesticate (usually an animal)" id="01" vncls="">
+<role argnum="1" argrole="entity becoming domestic" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>إستأنس الأسد بعد أسبوعين</parse>
+
+<arg f="" g="the lion" n="1">الأسد</arg>
+<arg f="tmp" g="after two weeks" n="m">بعد أسبوعين</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to seek permission" id="02" vncls="">
+<role argnum="0" argrole="person asking for permission" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>إستأنست البنت أمها الخروج</parse>
+
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="her mother" n="1">أمها</arg>
+<arg f="" g="to go out" n="2">الخروج</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity asked" vncls="" vntheta=""/>
+<role argnum="2" argrole="permission" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to become familiar, get used to" id="03" vncls="">
+<role argnum="1" argrole="the entity getting habituated" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>إستأنست المرأة بالعمل الجديد</parse>
+
+<arg f="" g="the woman" n="1">المرأة</arg>
+<arg f="" g="the new job" n="2">بالعمل الجديد</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="thing arg1 is getting used to" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to take something in consideration, to consult" id="04" vncls="">
+<role argnum="0" argrole="consulter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>إستأنس الرجل أباه في الزواج</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his father" n="1">أباه</arg>
+<arg f="" g="about his wedding" n="2">في الزواج</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="consulted with" vncls="" vntheta=""/>
+<role argnum="2" argrole="in regards to" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodirAj</id>
+<comment/>
+<frameset cdef="" edef="inclusion, embodiment" id="01" vncls="">
+<role argnum="1" argrole="things included" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم مناقشة كيفية اندراج هذه المعلومات في المقالة</parse>
+<comment/>
+<arg f="" g="this information" n="1">هذه المعلومات</arg>
+<arg f="" g="in the article" n="2">في المقالة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

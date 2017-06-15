@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tafotiy$</id>
+<comment/>
+<frameset cdef="" edef="searching, hunting for,frisking" id="01" vncls="">
+<role argnum="0" argrole="entity searching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت الشرطة بتفتيش * البيت بحثا عن المخدرات</parse>
+<comment/>
+<arg f="" g="the police" n="0">* الشرطة</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="searching for drugs" n="2">بحثا عن المخدرات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity searched" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

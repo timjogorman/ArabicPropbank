@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qurobAn</id>
+<comment/>
+<frameset cdef="" edef="sacrifice, offering" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الخروف هو قربان * لله منا من أجل سلامة أولادنا</parse>
+<comment/>
+<arg f="" g="this sheep" n="1">* هذا الخروف</arg>
+<arg f="" g="to God" n="2">لله</arg>
+<arg f="" g="from us" n="0">منا</arg>
+<arg f="" g="for the safety of our children" n="3">من أجل سلامة أولادنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the sacrifice" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

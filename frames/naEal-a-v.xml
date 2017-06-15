@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naEal-a</id>
+<comment/>
+<frameset cdef="" edef="to help putting on shoes or slippers" id="01" vncls="">
+<role argnum="0" argrole="helper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نعلت الأم أبنها حذائه الجديد</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="her son" n="1">أبنها</arg>
+<arg f="" g="his new shoes" n="2">حذائه الجديد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity wearing the shoe" vncls="" vntheta=""/>
+<role argnum="2" argrole="the shoe" vncls="" vntheta=""/>
+</frameset>
+</verb>

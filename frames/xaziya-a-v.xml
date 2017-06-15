@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaziya-a</id>
+<comment/>
+<frameset cdef="" edef="to be or become low or despicable, to feel ashame" id="01">
+<role argnum="0" argrole="entity becoming low"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خزي الرجل من عمله</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="from his work" n="1">من عمله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what or causer"/>
+</frameset>
+</verb>

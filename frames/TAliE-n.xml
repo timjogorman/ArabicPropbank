@@ -1,0 +1,155 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TAliE</id>
+<frameset cdef="" edef="rising / going up /ascending" id="01" vncls="">
+<role argnum="0" argrole="entity rising" vncls="" vntheta=""/>
+<role argnum="1" argrole="from" vncls="" vntheta=""/>
+<role argnum="2" argrole="to" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يبرع)
+      (NP-SBJ
+        (-NONE- *))
+      (PP-CLR
+        (PREP ب)
+        (NP
+          (DEM_PRON_F هذه)
+          (CONJ و)
+          (DEM_PRON_FS تلك)))
+      (PUNC ,)
+      (PP-PRP
+        (PREP ل)
+        (SBAR
+          (SUB_CONJ أن)
+          (S
+            (NP-SBJ
+              (PRON_3MS C))
+            (ADJP-PRD
+              (ADJ+CASE_INDEF_NOM طالع)
+              (PP
+                (PREP من)
+                (NP
+                  (NP
+                    (NOUN+CASE_DEF_GEN جذور)
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الاصالة)))</parse>
+<arg f="" g="he" n="0">? &lt; ـه</arg>
+<arg f="" g="from the roots of the nobility" n="1">من جذور الاصالة</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to be tired from doing something , to work hard (طلعت عينه) (multi word expression)" id="02" vncls="">
+<role argnum="1" argrole="entity tired (mostly عينه)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>طلعت عينه من الشغل</parse>
+
+<arg f="" g="Him (his eye)" n="1">عينه</arg>
+<arg f="" g="from work" n="2">من الشغل</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="of what" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="to come out or go to do something" id="03" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا طالع * أصرخ في الشارع</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="to shout in the street" n="1">أصرخ في الشارع</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from where, things done" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="be able to, want to" id="04" vncls="">
+<role argnum="1" argrole="things able to do" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>مش طالع * بأيدينا نعمل حاجة</parse>
+
+<arg f="" g="NONE" n="1">*? NONE</arg>
+<arg f="" g="for us" n="2">بأيدينا</arg>
+<arg f="" g="to do something" n="3">نعمل حاجة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="entity able" vncls="" vntheta=""/>
+<role argnum="3" argrole="attribute to ARG1" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+
+<frameset cdef="" edef="to become like" id="05" vncls="">
+<role argnum="1" argrole="entity becoming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>طالع الولد على أبوه في كل حاجة</parse>
+
+<arg f="" g="the boy" n="1">الولد</arg>
+<arg f="" g="like his father" n="2">على أبوه</arg>
+<arg f="" g="in every thing" n="3">في كل حاجة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="like what" vncls="" vntheta=""/>
+<role argnum="3" argrole="attribute to ARG1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

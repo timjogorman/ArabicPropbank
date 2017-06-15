@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nawom</id>
+<comment/>
+<frameset cdef="" edef="sleeping" id="01" vncls="">
+<role argnum="0" argrole="entity sleeping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا رجت في النوم * امبارح</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

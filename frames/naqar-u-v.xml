@@ -1,17 +1,138 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>naqar-u</id>
-    <frameset cdef="" edef="to peck or click" id="01">
-        <role argnum="0" argrole="pecker/click"/>
-        <role argnum="1" argrole="thing pecked/ place clicked"/>
-        <frame>
-            <example>
-                <parse>
-                    وتنزرع * عميقا , اغوَر من ان تلفحها شمس , او ينقرها طير ,
-                </parse>
-                <arg f="" g="it" n="1">ها</arg>
-                <arg f="" g="bird" n="0">طير</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>naqar-u</id>
+<frameset cdef="" edef="to peck or click" id="01" vncls="">
+<role argnum="0" argrole="pecker/click" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing pecked/ place clicked" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>وتنزرع * عميقا , اغوَر من ان تلفحها شمس , او ينقرها طير ,</parse>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="bird" n="0">طير</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to carve or engrave" id="02" vncls="">
+<role argnum="0" argrole="entity carving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>نقر الرسام صورته في الحجر</parse>
+
+<arg f="" g="the artist" n="0">الرسام</arg>
+<arg f="" g="his picture" n="1">صورته</arg>
+<arg f="" g="in the rock" n="2">في الحجر</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things carved" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to search" id="03" vncls="">
+<role argnum="0" argrole="entity searching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>نقر الرجل عن السر</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="for the secret" n="1">عن السر</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to play music" id="04" vncls="">
+<role argnum="0" argrole="player" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>نقر الفنان على الدف</parse>
+
+<arg f="" g="the artist" n="0">الفنان</arg>
+<arg f="" g="on the tambourine" n="1">على الدف</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="instrument" vncls="" vntheta=""/>
+<role argnum="2" argrole="music" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to eat a little of food with the finger" id="05" vncls="">
+<role argnum="0" argrole="entity eating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نقر الرجل شيئا من الطعام</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="some of the food" n="1">شيئا من الطعام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the food" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

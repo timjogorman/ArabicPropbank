@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoOaSar</id>
+
+<frameset cdef="" edef="to be forbidden to do something" id="01" vncls="">
+<role argnum="0" argrole="disallower, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انأصر الطفل عن التحدث الى الصحافيين</parse>
+
+<arg f="" g="the boy" n="1">الطفل</arg>
+<arg f="" g="from speaking to the journalists" n="2">عن التحدث الى الصحافيين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the forbidden one" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

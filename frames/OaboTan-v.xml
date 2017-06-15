@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaboTan</id>
+<comment/>
+<frameset cdef="" edef="to hide or conceal" id="01" vncls="">
+<role argnum="0" argrole="hider" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وِ)
+    (VP
+      (CV+CVSUFF_SUBJ:2MS اِجعَل)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ-1
+        (CVSUFF_DO:1P نا))
+      (S
+        (VP
+          (IV1P+IV نُبْطِن)
+          (NP-SBJ
+            (-NONE- *-1))
+          (NP-OBJ
+            (NOUN+CASE_INDEF_ACC خَيْراً))
+          (NP-ADV
+            (ADJP
+              (ADJ_COMP أَكْثَر)
+              (PP
+                (PREP مِن)
+                (SBAR-NOM
+                  (WHNP-2
+                    (REL_PRON ما))
+                  (S
+                    (VP
+                      (IV1P+IV نِظْهِر)
+                      (NP-SBJ
+                        (-NONE- *))
+                      (NP-OBJ
+                        (-NONE- *T*-2)))))))))))))</parse>
+<comment/>
+<arg f="" g="we" n="0">*T*-1  نا</arg>
+<arg f="" g="good" n="1">خَيْراً</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things hidden" vncls="" vntheta=""/>
+</frameset>
+</verb>

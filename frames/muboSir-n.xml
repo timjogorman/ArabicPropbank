@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muboSir</id>
+<comment/>
+<frameset cdef="" edef="endowed with eyesight, knowing, familiar" id="01" vncls="">
+<role argnum="0" argrole="entity seeing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان هو مبصرا* لما يحصل من حوله</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="for what was hapenning around him" n="">لما يحصل من حوله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things seen" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,54 +1,43 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>mak~an</id>
-    <frameset cdef="" edef="To strengthen" id="01">
-        <role argnum="0" argrole="causal, agent"/>
-        <role argnum="1" argrole="thing strengthening"/>
-        <role argnum="2" argrole="for what?"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (NP-TPC-1
-                    (DET+NOUN+CASE_DEF_ACC القانون))
-                    (VP
-                    (PUNC &amp;quot;)
-                    (PRT
-                    (FUT_PART س))
-                    (IV3MS+IV+IVSUFF_MOOD:I يمكن)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (NP-OBJ
-                    (NOUN+CASE_DEF_ACC وطن)
-                    (NP
-                    (POSS_PRON_1P نا)))
-                    (PP-CLR
-                    (PREP من)
-                    (NP
-                    (NOUN+CASE_DEF_GEN امتلاك)
-                    (NP
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الادوات))
-                    (SBAR
-                    (WHNP-2
-                    (REL_PRON التي))
-                    (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يحتاج)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (PP-CLR
-                    (PREP الي)
-                    (NP
-                    (NP
-                    (PRON_3FS ها))
-                    (NP
-                    (-NONE- *T*-2))))
-                </parse>
-                <arg f="" g="It" n="0">-NONE- *T*-1&amp;lt;القانون</arg>
-                <arg f="" g="our country" n="1">وطننا</arg>
-                <arg f="" g="To possess the instruments" n="2">من امتلاك الادوات</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>mak~an</id>
+<comment/>
+<frameset cdef="" edef="to enable to, to give power or authority to, to strengthen" id="01">
+<role argnum="0" argrole="entity enabiling"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وقالوا: مكانك تحذّره شيئاً من خلفه. الجوهري: مكنه الله من الشيء</parse>
+<comment/>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="from the thing" n="1">من الشيء</arg>
+<arg f="" g="he" n="2">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="action allowed"/>
+<role argnum="2" argrole="entity enabled"/>
+</frameset>
+<frameset cdef="" edef="to firm, to cement, to settle" id="02">
+<role argnum="0" argrole="causer"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مكن الكشافة الوتد بالمطرقة</parse>
+<comment/>
+<arg f="" g="the scouts" n="0">الكشافة</arg>
+<arg f="" g="the peg or the pin" n="1">الوتد</arg>
+<arg f="" g="with the hammer" n="2">بالمطرقة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things firmed"/>
+<role argnum="2" argrole="instrument"/>
+</frameset>
 </verb>

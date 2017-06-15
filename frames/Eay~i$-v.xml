@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Eay~i$</id>
+<comment>EGYPTIAN ARABIC based on Eay~a$</comment>
+    <frameset cdef="" edef="to make live, to aid someone to live" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta="" />
+<role argnum="1" argrole="person made live" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>هم عيشونا * على الخبز والماية</parse>
+<arg f="" g="they" n="0">* هم</arg>
+<arg f="" g="we" n="1">نا</arg>
+
+<arg f="" g="on bread and water" n="">على الخبز والماية</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="2" argrole="with what or on what" vncls="" vntheta="" />
+<comment>Based on roleset Eay~a$.01</comment>
+</frameset>
+
+</verb>

@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AinoTawaY</id>
+<comment>EGYPTIAN ARABIC based on {inoTawaY</comment>
+    <frameset cdef="" edef="to contain, include or harbor" id="01">
+<role argnum="1" argrole="container" />
+<role argnum="2" argrole="contents - usually marked with على" />
+<frame>
+<example>
+<parse>
+(S
+  (VP
+    (PRT
+      (NEG_PART لا))
+    (IV3MS+IV+IVSUFF_MOOD:I ينطوي)
+    (NP-SBJ
+      (NP
+        (DEM_PRON_MS هذا))
+      (NP
+        (DET+NOUN+CASE_DEF_NOM التصور)
+        (DET+ADJ+CASE_DEF_NOM الرمزي)))
+    (PP-CLR
+      (PREP على)
+      (NP
+        (NOUN_QUANT+CASE_DEF_GEN اي)
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN مبالغة)))))
+  (PUNC .))
+</parse>
+<arg f="neg" g="not" n="m">لا</arg>
+<arg f="" g="this metaphorical imagery" n="1">هذا التصور الرمزي</arg>
+<arg f="" g="any exaggeration" n="2">على اي مبالغة</arg>
+</example>
+</frame>
+<comment>Based on roleset {inoTawaY.01</comment></frameset>
+</verb>

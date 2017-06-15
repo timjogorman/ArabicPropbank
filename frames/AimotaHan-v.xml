@@ -1,0 +1,134 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AimotaHan</id>
+<comment/>
+<frameset cdef="" edef="to examine, to test (اختبر )" id="01" vncls="">
+<role argnum="0" argrole="entity testing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>امتحن المدرس الطلبة في مادة الرسم</parse>
+<comment/>
+<arg f="" g="the teacher" n="0">المدرس</arg>
+<arg f="" g="the students" n="1">الطلبة</arg>
+<arg f="" g="in the art subject" n="2">في مادة الرسم</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things tested" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to have test" id="02" vncls="">
+<role argnum="1" argrole="entity having test" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-SBJ
+      (NOUN نِظام)
+      (NP
+        (DET+FOREIGN المِيد)
+        (NOUN+NSUFF_FEM_PL تِيرْمات)))
+    (NP-PRD
+      (NP
+        (NP
+          (NOUN نِظام))
+        (PP
+          (PREP لِ)
+          (NP
+            (DET+NOUN التَقْيِيم))))
+      (PUNC .)
+      (PUNC .)
+      (NP
+        (NOUN نِظام)
+        (ADJ عالَمِي)))
+    (PUNC .)
+    (PUNC .))
+  (S
+    (NP-ADV
+      (NOUN بَدَل)
+      (SBAR
+        (SUB_CONJ ما)
+        (S
+          (VP
+            (IV2MS+IV تِمْتِحِن)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-ADV
+              (NOUN+NSUFF_FEM_SG مَرَّة)
+              (ADJ_NUM+NSUFF_FEM_SG واحْدَة))))))
+    (ADVP
+      (ADV رُبَّما))
+    (VP
+      (IV3MS+IV يِكُون)
+      (NP-PRD
+        (NOUN عِنْد)
+        (NP
+          (POSS_PRON_2MS َك)))
+      (NP-SBJ
+        (NOUN ظَرْف))
+      (NP-ADV
+        (NOUN وَقْت)
+        (NP
+          (POSS_PRON_3FS ها)))))
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:2MS تَعَبت)
+      (NP-SBJ
+        (-NONE- *))))
+  (S
+    (VP
+      (PV_PASS+PVSUFF_SUBJ:2MS اِنْشَغَلت)
+      (NP-SBJ-5
+        (-NONE- *))
+      (NP-OBJ
+        (-NONE- *-5))
+      (NP-ADV
+        (NOUN بِتاع)))
+    (PUNC .)
+    (PUNC .))
+  (S
+    (S
+      (VP
+        (IV2MS+IV_PASS تُمْتَحَن)
+        (NP-SBJ-1
+          (-NONE- *))
+        (NP-OBJ
+          (-NONE- *-1))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV2MS+IV_PASS تُقَيَّم)
+        (NP-SBJ-3
+          (-NONE- *))
+        (NP-OBJ
+          (-NONE- *-3))
+        (PP
+          (PREP عَلَى)
+          (NP
+            (NP
+              (NOUN ادائ)
+              (NP
+                (POSS_PRON_2MS َك)))
+            (NP-ADV
+              (NOUN طُول)
+              (NP
+                (DET+NOUN العام)))))))
+    (PUNC .)
+    (PUNC .)))</parse>
+<comment/>
+<arg f="" g="NONE" n="1">* NONE</arg>
+<arg f="tmp" g="one time" n="m">مرة وحدة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

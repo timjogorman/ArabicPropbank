@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ran~ap</id>
+<comment/>
+<frameset cdef="" edef="ring, tinkle" id="01" vncls="">
+<role argnum="1" argrole="things ringing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سمعت رنة الجرس من بعيد</parse>
+<comment/>
+<arg f="" g="the bell" n="1">الجرس</arg>
+<arg f="" g="from far away" n="2">من بعيد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

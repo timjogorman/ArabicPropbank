@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoEiqAd</id>
+<comment/>
+<frameset cdef="" edef="assembly, convention" id="01" vncls="">
+<role argnum="1" argrole="things assembeled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم انعقاد مؤتمر بغداد الشهر الماضي</parse>
+<comment/>
+<arg f="" g="Baghdad conference" n="1">مؤتمر بغداد</arg>
+<arg f="tmp" g="last month" n="m">الشهر الماضي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

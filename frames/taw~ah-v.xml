@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taw~ah</id>
+<comment/>
+<frameset cdef="" edef="to misled, to lead astray" id="01" vncls="">
+<role argnum="0" argrole="entity mileading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو حاول يتوه * ني</parse>
+<comment/>
+<arg f="" g="he" n="">* هو</arg>
+<arg f="" g="me" n="">ني</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity misled" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

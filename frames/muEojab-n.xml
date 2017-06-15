@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muEojab</id>
+<comment/>
+<frameset cdef="" edef="admirer, to like" id="01" vncls="">
+<role argnum="0" argrole="admirer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو معجب * بالفتاة من كل ناحية</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="with the girl" n="1">بالفتاة</arg>
+<arg f="" g="in every thing" n="2">من كل ناحية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thinks liked" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

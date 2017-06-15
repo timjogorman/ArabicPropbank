@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EiZap</id>
+
+<frameset cdef="" edef="Sermon/lecture" id="01" vncls="">
+<role argnum="0" argrole="Preacher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse/>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="Lecture/topic" vncls="" vntheta=""/>
+<role argnum="m" argrole="Audience" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

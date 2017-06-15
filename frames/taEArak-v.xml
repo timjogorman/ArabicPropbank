@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEArak</id>
+
+<frameset cdef="" edef="to fight one another, to battle" id="01" vncls="">
+<role argnum="0" argrole="entity fighting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تعارك الأب مع أبنه</parse>
+
+<arg f="" g="the father" n="0">الأب</arg>
+<arg f="" g="with his son" n="1">مع أبنه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AiHAlap</id>
+<frameset cdef="" edef="referring / commitment" id="01" vncls="">
+<role argnum="0" argrole="causal agent" vncls="" vntheta="" />
+<role argnum="1" argrole="entity committed" vncls="" vntheta="" />
+<role argnum="2" argrole="committed to (usually marked by: على or إلى )" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(NP
+                                          (NOUN+CASE_DEF_GEN اعداد)
+                                          (NP
+                                            (NOUN+CASE_DEF_GEN مشاريع)
+                                            (NP
+                                              (DET+NOUN+CASE_DEF_GEN القوانين))))
+                                        (NP-TMP
+                                          (NOUN+CASE_DEF_ACC قبل)
+                                          (S-NOM
+                                            (VP
+                                              (NOUN.VN+NSUFF_FEM_SG+CASE_DEF_GEN احالت)
+                                              (NP-SBJ
+                                                (-NONE- *))
+                                              (NP-OBJ
+                                                (POSS_PRON_3FS ها))
+                                              (PP-CLR
+                                                (PREP على)
+                                                (NP
+                                                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الحكومة)))))))))))))))))
+                  (PUNC &quot;)))))))))</parse>
+<arg f="" g="NONE" n="0">-NONE- *</arg>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="to the government" n="2">على الحكومة</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset IiHAlap.01</comment>
+</frameset>
+<comment>Framefile based on IiHAlap</comment>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitojarojar</id>
+<comment>EGYPTIAN ARABIC Framefile based on jar~-v</comment>
+    <frameset cdef="" edef="to pull" id="02" vncls="">
+<role argnum="0" argrole="entity pulling" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ده كان بيجر * وراه بالحبل صندوق كبير من البيت  للشغل</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="loc" g="after him" n="m">وراه</arg>
+<arg f="" g="with rope" n="2">بالحبل</arg>
+<arg f="" g="a big box" n="1">صندوق كبير</arg>
+<arg f="" g="from the house" n="3">من البيت</arg>
+<arg f="" g="to work" n="4">للشغل</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset jar~-u.02
+Based on roleset jar~-v.02</comment>
+<role argnum="1" argrole="entity or things pulled" vncls="" vntheta="" />
+<role argnum="2" argrole="tool used" vncls="" vntheta="" />
+<role argnum="3" argrole="start point" vncls="" vntheta="" />
+<role argnum="4" argrole="end point" vncls="" vntheta="" />
+</frameset>
+</verb>

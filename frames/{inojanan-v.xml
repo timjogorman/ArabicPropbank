@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inojanan</id>
+
+<frameset cdef="" edef="to be covered" id="01" vncls="">
+<role argnum="1" argrole="entity covered" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انجننت السيارة بالثلج</parse>
+
+<arg f="" g="the car" n="1">السيارة</arg>
+<arg f="" g="with snow" n="2">بالثلج</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

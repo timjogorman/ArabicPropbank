@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dAriy</id>
+<comment/>
+<frameset cdef="" edef="knowing, aware of" id="01" vncls="">
+<role argnum="0" argrole="knower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ وِ)
+            (S
+              (NP-TPC-1
+                (DEM_PRON_MS دَه))
+              (VP
+                (IV3MS+IV يِصاحِب)
+                (NP-SBJ
+                  (-NONE- *T*-1))
+                (NP-OBJ
+                  (DEM_PRON_FS دِي))))
+            (CONJ وِ)
+            (S
+              (VP
+                (IV3FS+IV تِبْقَى)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-PRD
+                  (NOUN+NSUFF_FEM_SG هِيصَة))))
+            (PUNC .)
+            (PUNC .)
+            (CONJ وِ)
+            (S
+              (VP
+                (NEG_PART ما)
+                (NP-SBJ
+                  (NOUN حَدّ))
+                (PRT
+                  (NEG_PART ش))
+                (SBAR-NOM-PRD
+                  (WHNP-2
+                    (-NONE- 0))
+                  (S
+                    (VP
+                      (ADJ.VN دارِي)
+                      (NP-SBJ
+                        (-NONE- *T*-2))
+                      (PP-CLR
+                        (PREP بِ)
+                        (NP
+                          (NOUN+NSUFF_FEM_SG حاجَة))))))))))))))</parse>
+<comment/>
+<arg f="" g="anybody" n="0">*T*-2 حَدّ</arg>
+<arg f="" g="with anything" n="1">بحاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing known" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>watad-i</id>
+<comment/>
+<frameset cdef="" edef="to make fast, to make stable" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وتد الرجل الوتد في الأرض</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the peg" n="1">الوتد</arg>
+<arg f="" g="in the ground" n="2">في الأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things fastened" vncls="" vntheta=""/>
+<role argnum="2" argrole="location or where" vncls="" vntheta=""/>
+</frameset>
+</verb>

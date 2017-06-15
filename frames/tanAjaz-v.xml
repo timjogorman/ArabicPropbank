@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanAjaz</id>
+
+<frameset cdef="" edef="to fight one another, to combat" id="01" vncls="">
+<role argnum="0" argrole="entity fighting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تناجز القوم فيما بينهم</parse>
+
+<arg f="" g="the people" n="0">القوم</arg>
+<arg f="" g="between them selves" n="1">فيما بينهم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

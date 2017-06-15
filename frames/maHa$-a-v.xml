@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maHa$-a</id>
+
+<frameset cdef="" edef="to skin, to flay or to pare" id="01" vncls="">
+<role argnum="0" argrole="remover" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>محش الجزار الجلد عن الخروف</parse>
+
+<arg f="" g="butcher" n="0">الجزار</arg>
+<arg f="" g="skin" n="1">الجلد</arg>
+<arg f="" g="from the sheep" n="2">عن الخروف</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things removed" vncls="" vntheta=""/>
+<role argnum="2" argrole="removed from" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to eat very fast" id="02" vncls="">
+<role argnum="0" argrole="hungry entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>محش الولد الطعام بسرعة</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="food" n="1">الطعام</arg>
+<arg f="mnr" g="very fast" n="m">بسرعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaSur-u</id>
+<comment/>
+<frameset cdef="" edef="to become short" id="01" vncls="">
+<role argnum="1" argrole="entity becoming short" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(PP-PRP
+    (PREP لِ)
+    (SBAR
+      (SUB_CONJ إِنّ)
+      (S
+        (NP-TPC
+          (PRON_3MS ُه))
+        (PRN
+          (S
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3MS طال)
+                (NP-SBJ
+                  (DET+NOUN الزَمان))))
+            (CONJ أَو)
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3MS قِصِر)
+                (NP-SBJ
+                  (-NONE- *))))))
+        (VP
+          (NEG_PART لا)
+          (NP-SBJ
+            (NOUN بُدّ))
+          (SBAR
+            (SUB_CONJ إِنّ)
+            (S
+              (S
+                (VP
+                  (IV3MS+IV يِكْشِف)
+                  (NP-SBJ
+                    (NOUN نُور)
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG الحَقِيقَة)))
+                  (NP-OBJ
+                    (CV+CVSUFF_SUBJ:2MS زَيِّف)
+                    (NP
+                      (NP
+                        (NOUN قِناع)
+                        (NP
+                          (POSS_PRON_2MS َك)))
+                      (NP
+                        (DEM_PRON_MS هٰذا))))))</parse>
+<comment/>
+<arg f="" g="the time" n="1">* الزَمان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

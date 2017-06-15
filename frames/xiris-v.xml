@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>xiris</id>
+<comment>EGYPTIAN ARABIC based on xaris-a</comment>
+    <frameset cdef="" edef="to be or become mute, t be dumb" id="01" vncls="">
+<role argnum="1" argrole="entity becoming mute" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(VP
+                (PV+PVSUFF_SUBJ:3MS كان)
+                (NP-SBJ
+                  (-NONE- *T*-3))
+                (NP-ADV
+                  (NOUN_PROP+CASE_INDEF_ACC يَوْماً))
+                (S-PRD
+                  (SBAR-ADV
+                    (SUB_CONJ اِذا)
+                    (S
+                      (VP
+                        (PV+PVSUFF_SUBJ:3MS نَطَق)
+                        (NP-SBJ
+                          (-NONE- *)))))
+                  (VP
+                    (PV+PVSUFF_SUBJ:3FS خرسِت)
+                    (NP-SBJ
+                      (NOUN باقِي)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_PL الأَصْوات)))
+                    (NP-ADV
+                      (NP
+                        (NOUN+CASE_INDEF_ACC إِجْلالاً)
+                        (CONJ وَ)
+                        (NOUN+CASE_INDEF_ACC تَعْظِيماً))
+                      (PP
+                        (PREP لَ)
+                        (NP
+                          (NOUN دَوْر)
+                          (NP
+                            (NOUN_PROP مِصْر)))))))))))
+        (NP-OBJ
+          (-NONE- *-2))))))</parse>
+<comment />
+<arg f="" g="rest of the voices" n="1">باقِي الأَصْوات</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset xaris-a.01</comment>
+</frameset>
+</verb>

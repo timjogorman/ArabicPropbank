@@ -1,126 +1,199 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>sAr-i</id>
-    <frameset cdef="" edef="to walk/move" id="01">
-        <role argnum="0" argrole="walker"/>
-        <role argnum="1" argrole="path"/>
-        <role argnum="2" argrole="start point"/>
-        <role argnum="3" argrole="end point"/>
-        <role argnum="4" argrole="distance"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS سار)
-                    (NP-SBJ
-                    (DET+NOUN+NSUFF_MASC_PL_NOM المشيعون))
-                    (PP-LOC
-                    (PREP في)
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN احد)
-                    (NP
-                    (NOUN+CASE_DEF_GEN شوارع)
-                    (NP
-                    (NOUN_PROP+CASE_INDEF_GEN طهران))))
-                    (ADJP
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الرئيسية))))
-                </parse>
-                <arg f="" g="the mourners" n="0">المشيعون</arg>
-                <arg f="" g="in one of the main Tehran streets" n="1">في احد شوارع طهران</arg>
-                <V/>
-            </example>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يسير)
-                    (NP-SBJ
-                    (DET+NOUN_QUANT+CASE_DEF_NOM الجميع))
-                    (NP-DIR
-                    (NOUN+CASE_DEF_ACC نحو)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الكنيسة)))
-                </parse>
-                <arg f="" g="all" n="0">الجميع</arg>
-                <arg f="" g="towards the church" n="3">نحو الكنيسة</arg>
-            </example>
-        </frame>
-    </frameset>
-    <frameset cdef="" edef="to behave / proceed" id="02">
-        <role argnum="0" argrole="agent, entity behaving"/>
-        <role argnum="1" argrole="topic or situation"/>
-        <frame>
-            <mapping>
-                <V/>
-                <mapitem src="sbj" trg="arg0"/>
-            </mapping>
-            <example>
-                <parse>
-                    (S
-                    (ADVP-PRD
-                    (ADV ثمة))
-                    (NP-SBJ
-                    (NP
-                    (NOUN+NSUFF_MASC_DU_NOM ملفان))
-                    (SBAR
-                    (WHNP-2
-                    (-NONE- 0))
-                    (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يبدو)
-                    (SBAR-SBJ
-                    (SUB_CONJ ان)
-                    (S
-                    (S
-                    (NP-TPC-1
+<id>sAr-i</id>
+<frameset cdef="" edef="to walk/move" id="01" vncls="">
+<role argnum="0" argrole="walker" vncls="" vntheta=""/>
+<role argnum="1" argrole="path" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<role argnum="4" argrole="distance" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS سار)
+      (NP-SBJ
+        (DET+NOUN+NSUFF_MASC_PL_NOM المشيعون))
+      (PP-LOC
+        (PREP في)
+        (NP
+          (NP
+            (NOUN+CASE_DEF_GEN احد)
+            (NP
+              (NOUN+CASE_DEF_GEN شوارع)
+              (NP
+                (NOUN_PROP+CASE_INDEF_GEN طهران))))
+          (ADJP
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الرئيسية))))</parse>
+<arg f="" g="the mourners" n="0">المشيعون</arg>
+<arg f="" g="in one of the main Tehran streets" n="1">في احد شوارع طهران</arg>
+<V/>
+<comment/>
+</example>
+<example>
+<parse>(S
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يسير)
+      (NP-SBJ
+        (DET+NOUN_QUANT+CASE_DEF_NOM الجميع))
+      (NP-DIR
+        (NOUN+CASE_DEF_ACC نحو)
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الكنيسة)))</parse>
+<arg f="" g="all" n="0">الجميع</arg>
+<arg f="" g="towards the church" n="3">نحو الكنيسة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to behave / proceed" id="02" vncls="">
+<role argnum="0" argrole="agent, entity behaving" vncls="" vntheta=""/>
+<role argnum="1" argrole="topic or situation" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (ADVP-PRD
+      (ADV ثمة))
+    (NP-SBJ
+      (NP
+        (NOUN+NSUFF_MASC_DU_NOM ملفان))
+      (SBAR
+        (WHNP-2
+          (-NONE- 0))
+        (S
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يبدو)
+            (SBAR-SBJ
+              (SUB_CONJ ان)
+              (S
+                (S
+                  (NP-TPC-1
                     (NOUN_PROP شارون))
-                    (VP
+                  (VP
                     (IV3MS+IV+IVSUFF_MOOD:I يسير)
                     (NP-SBJ
-                    (-NONE- *T*-1))
+                      (-NONE- *T*-1))
                     (PP-CLR
-                    (PREP على)
-                    (NP
-                    (NOUN+CASE_DEF_GEN وقع)
-                    (NP
-                    (NP
-                    (POSS_PRON_3D هما))
-                    (NP
-                    (-NONE- *T*-2)))))))
-                </parse>
-                <arg f="" g="He" n="0">-NONE- *T*-1</arg>
-                <arg f="" g="based on it" n="1">على وقعهما</arg>
-                <V/>
-            </example>
-        </frame>
-    </frameset>
-    <frameset cdef="" edef="To progress" id="03">
-        <role argnum="1" argrole="thing moving, progressing"/>
-        <role argnum="2" argrole="start point"/>
-        <role argnum="3" argrole="end point"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (NP-TPC-2
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC عملية)
-                    (NP
+                      (PREP على)
+                      (NP
+                        (NOUN+CASE_DEF_GEN وقع)
+                        (NP
+                          (NP
+                            (POSS_PRON_3D هما))
+                          (NP
+                            (-NONE- *T*-2)))))))</parse>
+<arg f="" g="He" n="0">-NONE- *T*-1</arg>
+<arg f="" g="based on it" n="1">على وقعهما</arg>
+<V/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="To progress" id="03" vncls="">
+<role argnum="1" argrole="thing moving, progressing" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+                (NP-TPC-2
+                  (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC عملية)
+                  (NP
                     (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الامتحانات)))
-                    (VP
-                    (IV3FS+IV+IVSUFF_MOOD:I تسير)
-                    (NP-SBJ
+                (VP
+                  (IV3FS+IV+IVSUFF_MOOD:I تسير)
+                  (NP-SBJ
                     (-NONE- *T*-2))
-                    (PP-MNR
+                  (PP-MNR
                     (PP
-                    (PREP ب)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN دقة)
-                </parse>
-                <arg f="" g="It" n="1">-NONE- *T*-2&amp;lt;عملية الامتحانات</arg>
-                <arg f="mnr" g="Accurately" n="m">بدقة</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (PREP ب)
+                      (NP
+                        (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN دقة)</parse>
+<arg f="" g="It" n="1">-NONE- *T*-2&lt;عملية الامتحانات</arg>
+<arg f="mnr" g="Accurately" n="m">بدقة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to lead" id="04" vncls="">
+<role argnum="0" argrole="leader" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-TPC-1
+        (NOUN حِزْب))
+      (VP
+        (IV3MS+IV يَستَطِيع)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (SBAR
+          (SUB_CONJ أَنْ)
+          (S
+            (VP
+              (IV3MS+IV يِحِلّ)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-ADV
+                (NOUN مَحَلّ)
+                (NP
+                  (DET+NOUN الحِزْب)
+                  (DET+ADJ الحاكِم)
+                  (DET+ADJ الحالِي))))))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يأخُذ)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN+NSUFF_FEM_SG مَكانَة))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يِسِير)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP بِ)
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG الدَولَة)))
+        (PP-DIR
+          (X
+            (REL_PRON الي))
+          (NP
+            (NOUN طَرِيق)
+            (NP
+              (DET+NOUN التَقَدُّم)
+              (CONJ وِ)
+              (DET+NOUN التَطَوُّر))))))
+    (PUNC .)))</parse>
+<comment/>
+<arg f="" g="-NONE-" n="0">*</arg>
+<arg f="" g="with the country" n="1">بِالدَولَة</arg>
+<arg f="" g="to the road of progress and modernity" n="3">الِي طَرِيق التَقَدُّم وِ التَطَوُّر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity lead (usually marked by بِ)" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+</frameset>
 </verb>

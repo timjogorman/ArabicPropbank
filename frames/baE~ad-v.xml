@@ -1,0 +1,89 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>baE~ad</id>
+<comment>EGYPTIAN ARABIC based on OaboEad</comment>
+    <frameset cdef="" edef="to deport or expel" id="01">
+<role argnum="0" argrole="entity removing" />
+<role argnum="1" argrole="entity being removed" />
+<role argnum="2" argrole="source" />
+<role argnum="3" argrole="goal" />
+<frame>
+<example>
+<parse>
+(SBAR
+            (SUB_CONJ ان)
+            (S
+              (NP-TPC-1
+                (NOUN_PROP ايران))
+              (VP
+                (PRT
+                  (FUT_PART س))
+                (IV3FS+IV+IVSUFF_MOOD:I تبعد)
+                (NP-SBJ
+                  (-NONE- *T*-1))
+                (NP-OBJ
+                  (NP
+                    (NOUN_QUANT+CASE_DEF_ACC كل)
+                    (NP
+                      (NOUN+CASE_DEF_GEN افراد)
+                      (NP
+                        (PUNC &quot;)
+                        (DET+NOUN_PROP+NSUFF_FEM_SG+CASE_DEF_GEN القاعدة)
+                        (PUNC &quot;))))
+                (PP-DIR
+                  (PREP الى)
+                  (NP
+                    (NP
+                      (NOUN+CASE_DEF_GEN بلاد)
+                      (NP
+                        (POSS_PRON_3MP هم)))
+                    (ADJP
+                      (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاصلية)))))))))))
+  (PUNC .))
+</parse>
+<arg f="" g="It" n="0">-NONE- *T*-1&lt; ايران</arg>
+<arg f="" g="all the members of al-Qaidah" n="1">كل افراد القاعدة</arg>
+<arg f="" g="to their native countries" n="3">الى بلادهم الاصلية</arg>
+</example>
+</frame>
+<comment>Based on roleset OaboEad.01</comment></frameset>
+<frameset cdef="" edef="to remove" id="02">
+<role argnum="0" argrole="entity removing" />
+<role argnum="1" argrole="thing being removed" />
+<role argnum="2" argrole="removed from" />
+<frame>
+<example>
+<parse>
+(S
+  (CONJ و)
+  (PP
+    (PREP ع)
+    (SBAR
+      (SUB_CONJ ما)
+      (SUB_CONJ اذا)
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:3MS كان)
+          (NP-1
+            (NP
+              (DET+NOUN+CASE_DEF_NOM الالتزام))
+            (PP
+              (PREP ب)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN القرار))))
+          (VP
+            (PRT
+              (FUT_PART س))
+            (IV3MS+IV+IVSUFF_MOOD:I يبعد)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (NOUN+CASE_DEF_ACC شبح)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الحرب))))))))
+</parse>
+<arg f="" g="*T*-1 &lt; the committment to the decision" n="0">-NONE- &lt; الالتزام بالقرار</arg>
+<arg f="" g="the ghost of war" n="1">شبح الحرب</arg>
+</example>
+</frame>
+<comment>Based on roleset OaboEad.02</comment></frameset>
+</verb>

@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fA}iz</id>
+
+<frameset cdef="" edef="to win, to have victory" id="01" vncls="">
+<role argnum="0" argrole="winner" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>وخرج الاهلي  فائزا * في المباراة الختامية ضد الزمالك بهدفين مقابل لا شيء</parse>
+
+<arg f="" g="al-Ahli" n="0">-NONE- * الاهلي</arg>
+<arg f="" g="in the final game" n="2">في المباراة الختامية</arg>
+<arg f="" g="against Zamalik" n="1">ضد الزمالك</arg>
+<arg f="" g="two goals to none" n="3">بهدفين مقابل لا شيء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="looser" vncls="" vntheta=""/>
+<role argnum="2" argrole="event" vncls="" vntheta=""/>
+<role argnum="3" argrole="score" vncls="" vntheta=""/>
+<role argnum="4" argrole="trophy" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

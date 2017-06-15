@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HabiT</id>
+<comment/>
+<frameset cdef="" edef="to be or become null or void" id="01" vncls="">
+<role argnum="1" argrole="things failing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حبطت خطته لسرقة الخاتم</parse>
+<comment/>
+<arg f="" g="his plan" n="1">خطته</arg>
+<arg f="" g="to steal the ring" n="2">لسرقة الخاتم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be healed" id="02" vncls="">
+<role argnum="1" argrole="entity healing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حبط الجرح</parse>
+<comment/>
+<arg f="" g="the wound" n="1">الجرح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

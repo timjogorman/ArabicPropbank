@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taSAraE</id>
+<comment/>
+<frameset cdef="" edef="to wrestle or struggle, to fight" id="01">
+<role argnum="0" argrole="entity wrestling"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أكد المرشح الرئاسي الدكتور عبد المنعم أبو الفتوح , أن الثورة لازالت تصارع * النظام السابق</parse>
+<comment/>
+<arg f="" g="the revolution" n="0">* الثورة</arg>
+<arg f="" g="the old regime" n="1">النظام السابق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom"/>
+</frameset>
+</verb>

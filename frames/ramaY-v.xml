@@ -1,0 +1,117 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ramaY</id>
+
+    <frameset cdef="" edef="to throw" id="01" vncls="">
+<role argnum="0" argrole="thrower" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="destination/location" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S (VP (throw/fling/shoot+it/they/she Mramat- M رَمَت-)
+          (NP-SBJ (-NONE- X))
+          (NP-OBJ (it/them/her M-hA M -ها))
+          (NP-LOC (earth/territory/land MOaroDAF M أَرْضاً))</parse>
+<arg f="" g="NP-SBJ (-NONE- *)" n="0">X</arg>
+<arg f="" g="her" n="1">-hA</arg>
+<arg f="" g="in the ground" n="2">OaroDAF</arg>
+<V/>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset ramaY-i.01</comment>
+</frameset>
+<frameset cdef="" edef="to insult" id="04" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (SBAR-ADV
+      (SUB_CONJ لَو)
+      (S
+        (NP-SBJ
+          (-NONE- *))
+        (ADJP-PRD
+          (PRT
+            (NEG_PART مِش))
+          (ADJ+NSUFF_FEM_SG مِتابْعَة))))
+    (VP
+      (PSEUDO_VERB يارَيْت)
+      (SBAR-SBJ
+        (-NONE- 0)
+        (S
+          (VP
+            (PRT
+              (NEG_PART ما))
+            (IV2FS+IV+IVSUFF_SUBJ:2FS تِرْمِي)
+            (PRT
+              (NEG_PART ش))
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (DET+NOUN الناس))
+            (PP
+              (PREP بِ)
+              (NP
+                (DET+NOUN الباطِل)))))))))</parse>
+
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="people" n="1">الناس</arg>
+<arg f="" g="with false accusation" n="2">بِالباطِل</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="insulted entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+
+<comment>Based on roleset ramaY-i.04</comment>
+</frameset>
+
+<frameset cdef="" edef="to purpose to / aim at, to give up (multi word expression)" id="05" vncls="">
+<role argnum="0" argrole="aimer, entity giving up" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ليس هذا ما أرمي * اليه</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="to it" n="1">اليه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="plan, on what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on ramaY-i</comment>
+</verb>

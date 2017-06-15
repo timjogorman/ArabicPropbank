@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>hafA</id>
+<comment>EGYPTIAN ARABIC Framefile based on hafA-u-v</comment>
+<frameset cdef="" edef="to long or yearn for" id="01" vncls="">
+<role argnum="0" argrole="entity longing" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>هفا الشيخ الى أيام الشباب</parse>
+<comment />
+<arg f="" g="the old man" n="0">الشيخ</arg>
+<arg f="" g="to the days of yought" n="1">الى أيام الشباب</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset hafA-u-v.01</comment>
+<role argnum="1" argrole="to what" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotadar~</id>
+<comment/>
+<frameset cdef="" edef="to draw forth, to evoke, to flow" id="01">
+<role argnum="0" argrole="entity drawing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استدر الطفل محبة والديه</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="the love" n="1">محبة</arg>
+<arg f="" g="his parents" n="2">والديه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things drawn"/>
+<role argnum="2" argrole="from whom or what"/>
+</frameset>
+</verb>

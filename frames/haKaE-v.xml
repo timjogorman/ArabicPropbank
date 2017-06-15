@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>haKaE</id>
+<comment/>
+<frameset cdef="" edef="to cough" id="01" vncls="">
+<role argnum="0" argrole="entity coughing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هكع البعير</parse>
+<comment/>
+<arg f="" g="the camel" n="0">البعير</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be tranquil or peaceful" id="02" vncls="">
+<role argnum="0" argrole="entity having peace" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هكع البقر تحت الشجرة</parse>
+<comment/>
+<arg f="" g="the cattle" n="1">البقر</arg>
+<arg f="loc" g="under the tree" n="m">تحت الشجرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to sleep while sitting" id="03" vncls="">
+<role argnum="0" argrole="entity sleeping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هكع الرجل في الباص</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

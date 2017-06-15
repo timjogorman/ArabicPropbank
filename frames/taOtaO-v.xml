@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taOtaO</id>
+
+<frameset cdef="" edef="to stutter" id="01" vncls="">
+<role argnum="0" argrole="person stutering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تأتأ الولد في كلامه</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="in his speech" n="1">في كلامه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ta$ad~ud</id>
+<comment/>
+<frameset cdef="" edef="To be strict" id="01" vncls="">
+<role argnum="0" argrole="entity being strict" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الكتاب يتحدث عن تشدد بعض الأباء مع أبنائهم فيما يرتدونه</parse>
+<comment/>
+<arg f="" g="some fathers" n="0">بعض الأباء</arg>
+<arg f="" g="with their children" n="1">مع أبنائهم</arg>
+<arg f="" g="in what they wear" n="2">فيما يرتدونه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="beneficiary" vncls="" vntheta=""/>
+<role argnum="2" argrole="strict in what?" vncls="" vntheta=""/>
+</frameset>
+</verb>

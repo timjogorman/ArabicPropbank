@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>inoXaEat</id>
+
+<frameset cdef="" edef="to become suffocated" id="01" vncls="">
+<role argnum="1" argrole="entity chocking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انذعتت البنت بالغبار</parse>
+
+<arg f="" g="the girl" n="1">البنت</arg>
+<arg f="" g="because of dust" n="2">بالغبار</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="because of what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

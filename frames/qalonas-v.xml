@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qalonas</id>
+
+<frameset cdef="" edef="to put a cowl on ones's head, to submit" id="01" vncls="">
+<role argnum="0" argrole="entity ptutting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قلنس الأمير الشاعر بالقلنسوة</parse>
+
+<arg f="" g="the prince" n="0">الأمير</arg>
+<arg f="" g="the poet" n="1">الشاعر</arg>
+<arg f="" g="with cowl" n="2">بالقلنسوة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="recipient" vncls="" vntheta=""/>
+<role argnum="2" argrole="the cowl, in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

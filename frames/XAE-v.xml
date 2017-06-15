@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>XAE</id>
+<comment>EGYPTIAN ARABIC based on OaXAE</comment>
+    <frameset cdef="" edef="to broadcast or announce" id="01">
+<role argnum="0" argrole="broadcaster" />
+<role argnum="1" argrole="message" />
+<role argnum="2" argrole="audience" />
+<role argnum="3" argrole="source" />
+<frame>
+<example>
+<parse>
+(S
+  (CONJ و)
+  (PP-TMP
+    (PREP في)
+    (NP
+      (NOUN+CASE_DEF_GEN ختام)
+      (NP
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجلسة))))
+  (VP
+    (PV+PVSUFF_SUBJ:3MS اذاع)
+    (NP-SBJ
+      (NP
+        (NOUN+CASE_DEF_NOM وزير)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الاعلام)))
+      (NP
+        (NOUN_PROP غازي)
+        (DET+NOUN_PROP العريضي)))
+    (NP-OBJ
+      (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_ACC المقررات)
+      (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_ACC الرسمية)
+      (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_ACC الآتية)))
+  (PUNC :))
+</parse>
+<arg f="" g="the minister of information Ghazi al-Ureidi" n="0">وزير الاعلام غازي العريضي</arg>
+<arg f="" g="the following official decrees" n="1">المقررات الرسمية الآتية</arg>
+</example>
+<example>
+<parse>
+بدأ يذيع الشاعر السوداني صيته من هولندا الى الولايات المتحدة واوروبا
+</parse>
+<arg f="" g="the Sudanese poet" n="0">الشاعر السوداني</arg>
+<arg f="" g="his reputation" n="1">صيته</arg>
+<arg f="" g="from Holland" n="3">من هولندا</arg>
+<arg f="" g="to America and Europe" n="2">الى الولايات المتحدة واوروبا</arg>
+</example>
+</frame>
+<comment>Based on roleset OaXAE.01</comment>
+</frameset>
+<frameset cdef="" edef="to spread, to be or become widespread" id="02">
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ذاع الخبر في كل مكان</parse>
+<comment/>
+<arg f="" g="the news" n="1">الخبر</arg>
+<arg f="" g="every where" n="2">في كل مكان</arg>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset XAE-i.01
+انتشر</comment>
+<role argnum="1" argrole="things spread"/>
+<role argnum="2" argrole="where or audience"/>
+
+</frameset>
+
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oakorah</id>
+
+<frameset cdef="" edef="to force or compet to" id="01" vncls="">
+<role argnum="0" argrole="entity forcing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أكره اللصوص صاحب الدار على فتح الخزنة</parse>
+
+<arg f="" g="the thief" n="0">اللصوص</arg>
+<arg f="" g="the house owner" n="1">صاحب الدار</arg>
+<arg f="" g="to open the safe" n="2">على فتح الخزنة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity forced" vncls="" vntheta=""/>
+<role argnum="2" argrole="to do what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

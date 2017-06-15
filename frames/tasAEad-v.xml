@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tasAEad</id>
+
+<frameset cdef="" edef="to help or aid" id="01" vncls="">
+<role argnum="0" argrole="helper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تساعد الرجل وأخاه في صباغة البيت</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="and his brother" n="1">وأخاه</arg>
+<arg f="" g="in painting the house" n="2">في صباغة البيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="project" vncls="" vntheta=""/>
+<role argnum="2" argrole="benefactive" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEAlaj</id>
+<comment/>
+<frameset cdef="" edef="to be treated, to receive medical treatment" id="01" vncls="">
+<role argnum="0" argrole="doctor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تعالج الرجل من صداعه بمسكن الالام</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="from his headache" n="2">من صداعه</arg>
+<arg f="" g="with pain killer" n="3">بمسكن الالام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="patient" vncls="" vntheta=""/>
+<role argnum="2" argrole="injury" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

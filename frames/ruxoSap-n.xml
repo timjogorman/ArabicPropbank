@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ruxoSap</id>
+<comment/>
+<frameset cdef="" edef="permit, authorization, driver licence" id="01" vncls="">
+<role argnum="0" argrole="allower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أخذ الطالب رخصة * من معلمه للذهاب الى البيت</parse>
+<comment/>
+<arg f="" g="the student" n="1">* الطالب</arg>
+<arg f="" g="from his teacher" n="0">من معلمه</arg>
+<arg f="" g="to go home" n="2">للذهاب الى البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity allowed" vncls="" vntheta=""/>
+<role argnum="2" argrole="to do what" vncls="" vntheta=""/>
+</frameset>
+</verb>

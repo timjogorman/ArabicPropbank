@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ma$uwrap</id>
+<comment/>
+<frameset cdef="" edef="consultation, advice" id="01" vncls="">
+<role argnum="0" argrole="agent giving advice" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كانت مشورة الأم لإبنتها بألا تخرج في الليل</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="to her daughter" n="1">لإبنتها</arg>
+<arg f="" g="not to go out at night" n="2">بألا تخرج في الليل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="the advice" vncls="" vntheta=""/>
+<role argnum="3" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

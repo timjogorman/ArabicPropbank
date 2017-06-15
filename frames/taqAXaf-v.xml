@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqAXaf</id>
+<comment/>
+<frameset cdef="" edef="to pelt one another, to throw at one another" id="01" vncls="">
+<role argnum="0" argrole="entity throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقاذف الرجل وزوجته بكلمات بذيئة</parse>
+<comment/>
+<arg f="" g="the husband" n="0">الرجل</arg>
+<arg f="" g="his wife" n="2">وزوجته</arg>
+<arg f="" g="with dirty words" n="1">بكلمات بذيئة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="at whom or where" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raT~ab</id>
+
+<frameset cdef="" edef="to moisten, to humidify" id="01" vncls="other_cos-1">
+<role argnum="0" argrole="doer" vncls="other_cos-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مسكين من لم ترطب * لسانك بذكر الله</parse>
+
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="your tongue" n="1">لسانك</arg>
+<arg f="" g="by mentioning God" n="2">بذكر الله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things moistened" vncls="other_cos-1" vntheta="patient"/>
+<role argnum="2" argrole="with what" vncls="other_cos-1" vntheta="instrument"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

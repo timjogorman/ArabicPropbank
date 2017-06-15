@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jamaH-a</id>
+<comment/>
+<frameset cdef="" edef="to bolt, to run away" id="01" vncls="">
+<role argnum="0" argrole="entity running" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جمح البعير من صاحبه</parse>
+<comment/>
+<arg f="" g="the camel" n="0">البعير</arg>
+<arg f="" g="from his owner" n="1">من صاحبه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what or from whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be recalcitrant or refractory" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جمح الرجل في رأيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his opinion" n="1">في رأيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

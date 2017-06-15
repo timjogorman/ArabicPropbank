@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wadaj-i</id>
+<comment/>
+<frameset cdef="" edef="to cut the vein in the neck" id="01" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ودج القصاب البقرة بالسكين</parse>
+<comment/>
+<arg f="" g="the butcher" n="0">القصاب</arg>
+<arg f="" g="the cow" n="2">البقرة</arg>
+<arg f="" g="with a knife" n="3">بالسكين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim (if separated from ARG1)" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

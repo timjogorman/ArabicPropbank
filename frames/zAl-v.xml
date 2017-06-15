@@ -1,0 +1,118 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zAl</id>
+
+<frameset cdef="" edef="continue/ still" id="02" vncls="">
+<role argnum="1" argrole="unchanging entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute of arg1" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(NP
+                      (PRT
+                        (RESTRIC_PART انما))
+                      (DET+NOUN+CASE_DEF_NOM التأكيد)
+                      (SBAR
+                        (SUB_CONJ ان)
+                        (S
+                          (NP-TPC-7
+                            (PRON_3FS ها))
+                          (VP
+                            (PRT
+                              (NEG_PART لا))
+                            (IV3FS+IV+IVSUFF_MOOD:I تزال)
+                            (NP-SBJ
+                              (-NONE- *T*-7))
+                            (ADJP-PRD
+                              (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC ثابتة)
+                              (PP
+                                (PREP على)
+                                (NP
+                                  (NP
+                                    (NOUN+CASE_DEF_GEN موقف)
+                                    (NP
+                                      (POSS_PRON_3FS ها)))
+                                  (SBAR
+                                    (SUB_CONJ ان)
+                                    (S
+                                      (NP-SBJ
+                                        (NOUN+CASE_DEF_ACC مزارع)
+                                        (NP
+                                          (NOUN_PROP شبعا)))
+                                      (ADJP-PRD
+                                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM لبنانية))))))))))))</parse>
+<arg f="neg" g="" n="m">لا</arg>
+<arg f="" g="" n="1">-NONE- *T*-7</arg>
+<arg f="" g="firm in its position that the Shabaa Farms belong to Lebanon" n="2">ثابتة على موقفها أن مزارع شبعة لبنانية</arg>
+
+<comment/>
+</example>
+<example>
+<parse>(S
+  (S
+    (PP-TMP
+      (PREP منذ)
+      (NP
+        (NOUN_NUM+NSUFF_FEM_SG+CASE_DEF_GEN ثلاثة)
+        (NP
+          (NOUN+CASE_INDEF_GEN ايام))))
+    (VP
+      (PRT
+        (NEG_PART لا))
+      (IV3MS+IV+IVSUFF_MOOD:I يزال)
+      (NP-SBJ
+        (NP
+          (DET+NOUN+CASE_DEF_NOM الطقس))
+        (SBAR
+          (WHNP-2
+            (-NONE- 0))
+          (S
+            (VP
+              (DET+ADJ.VN+CASE_DEF_NOM المسيطر)
+              (NP-SBJ
+                (-NONE- *T*-2))
+              (PP-CLR
+                (PREP على)
+                (NP
+                  (NOUN_PROP+CASE_INDEF_GEN لبنان)))))))
+      (ADJP-PRD
+        (ADJP
+          (ADJ+CASE_INDEF_ACC غائماً)
+          (NP-TMP
+            (NOUN+CASE_INDEF_ACC حيناً)))
+        (PUNC ,)
+        (ADJP
+          (ADJ+CASE_INDEF_ACC صافياً)
+          (NP-TMP
+            (NOUN+CASE_INDEF_ACC حيناً))))))</parse>
+<arg f="neg" g="" n="m">لا</arg>
+<arg f="" g="the weather dominating Lebanon" n="1">الطقس المسيطر على لبنان</arg>
+<arg f="" g="cloudy at times and clear at others" n="2">غائماً حيناً، صافياً حيناً</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset zAl-a-v.02</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC Framefile based on zAl-a-v</comment>
+<frameset cdef="" edef="to disapear, to be gone" id="03" vncls="">
+<role argnum="1" argrole="things disapeared" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زالت المشاكل بين الأخوان</parse>
+<comment/>
+<arg f="" g="the problems" n="1">المشاكل</arg>
+<arg f="" g="between the brothers" n="2">بين الأخوان</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyption</comment>
+<role argnum="2" argrole="from where or whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

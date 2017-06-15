@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nasax</id>
+<comment/>
+<frameset cdef="" edef="to copy" id="01" vncls="">
+<role argnum="0" argrole="copier" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نسخ الاب مفتاحا للبيت</parse>
+<comment/>
+<arg f="" g="the father" n="0">الاب</arg>
+<arg f="" g="a key to the door" n="1">مفتاحا للبيت</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things copied" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hal~aY</id>
+
+<frameset cdef="" edef="to make look beautiful, to cover with" id="01" vncls="other_cos-1">
+<role argnum="0" argrole="entity covering" vncls="other_cos-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حلى الرجل زوجته بالحلي</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his wife" n="1">زوجته</arg>
+<arg f="" g="with jewelry" n="2">بالحلي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity covered" vncls="other_cos-1" vntheta="patient"/>
+<role argnum="2" argrole="with what" vncls="other_cos-1" vntheta="instrument"/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to eat sweet after food" id="02" vncls="">
+<role argnum="0" argrole="entity eating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انا دايما بحب احلي * بالشوكولاته بعد الاكل</parse>
+
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="with chocolate" n="1">بالشوكولاته</arg>
+<comment/>
+</example>
+
+<comment>ARZ</comment>
+</frame>
+
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

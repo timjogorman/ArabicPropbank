@@ -1,82 +1,82 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>sahA-u</id>
-    <frameset cdef="" edef="to forget" id="01">
-        <role argnum="0" argrole="forgetter"/>
-        <role argnum="1" argrole="thing  forgotten"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (NP-TPC-1
-                    (NP
-                    (NOUN_PROP عبد)
-                    (DET+NOUN_PROP الرحمن)
-                    (DET+NOUN الباشا))
-                    (PP
-                    (PREP ب)
-                    (NP
-                    (NP
-                    (NP
-                    (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN إمكانات)
-                    (NP
-                    (POSS_PRON_3MS ه)))
-                    (ADJP
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN البيانية)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المتينة)))
-                    (CONJ و)
-                    (NP
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN فن)
-                    (NP
-                    (POSS_PRON_3MS ه)))
-                    (ADJP
-                    (DET+ADJ+CASE_DEF_GEN النادر)))
-                    (PP
-                    (PREP في)
-                    (NP
-                    (NOUN+CASE_DEF_GEN امتلاك)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN آلت)
-                    (NP
-                    (POSS_PRON_3MS ه)))))))))
-                    (VP
-                    (PRT
-                    (NEG_PART لا))
-                    (IV3MS+IV+IVSUFF_MOOD:I يسهو)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (NP-TMP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC لحظة))
-                    (PP-CLR
-                    (PREP عن)
-                    (NP
-                    (NP
-                    (DEM_PRON_FS تلك))
-                    (NP
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN العلاقة)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الحميمة))
-                    (NP-ADV
-                    (NOUN+CASE_DEF_ACC بين)
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN جسم)
-                    (NP
-                    (DET+NOUN الموسيقى)))
-                    (CONJ و)
-                    (NP
-                    (NOUN+CASE_DEF_GEN روح)
-                    (NP
-                    (POSS_PRON_3FS ها)))))))))
-                    (PUNC ,))
-                </parse>
-                <arg f="neg" g="Does not" n="m">لا</arg>
-                <arg f="" g="He" n="0">-NONE- *T*-1&amp;lt;عبد الرحمن الباشا</arg>
-                <arg f="" g="The close relationship between music's body and soul" n="2">عن تلك العلاقة الحميمة بين جسم الموسيقى وروحها</arg>
-                <arg f="tmp" g="a moment" n="m">لحظة</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>sahA-u</id>
+<frameset cdef="" edef="to forget" id="01">
+<role argnum="0" argrole="forgetter"/>
+<role argnum="1" argrole="thing  forgotten"/>
+<frame>
+<example>
+<parse>
+(S
+  (NP-TPC-1
+    (NP
+      (NOUN_PROP عبد)
+      (DET+NOUN_PROP الرحمن)
+      (DET+NOUN الباشا))
+    (PP
+      (PREP ب)
+      (NP
+        (NP
+          (NP
+            (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN إمكانات)
+            (NP
+              (POSS_PRON_3MS ه)))
+          (ADJP
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN البيانية)
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المتينة)))
+        (CONJ و)
+        (NP
+          (NP
+            (NP
+              (NOUN+CASE_DEF_GEN فن)
+              (NP
+                (POSS_PRON_3MS ه)))
+            (ADJP
+              (DET+ADJ+CASE_DEF_GEN النادر)))
+          (PP
+            (PREP في)
+            (NP
+              (NOUN+CASE_DEF_GEN امتلاك)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN آلت)
+                (NP
+                  (POSS_PRON_3MS ه)))))))))
+  (VP
+    (PRT
+      (NEG_PART لا))
+    (IV3MS+IV+IVSUFF_MOOD:I يسهو)
+    (NP-SBJ
+      (-NONE- *T*-1))
+    (NP-TMP
+      (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC لحظة))
+    (PP-CLR
+      (PREP عن)
+      (NP
+        (NP
+          (DEM_PRON_FS تلك))
+        (NP
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN العلاقة)
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الحميمة))
+          (NP-ADV
+            (NOUN+CASE_DEF_ACC بين)
+            (NP
+              (NP
+                (NOUN+CASE_DEF_GEN جسم)
+                (NP
+                  (DET+NOUN الموسيقى)))
+              (CONJ و)
+              (NP
+                (NOUN+CASE_DEF_GEN روح)
+                (NP
+                  (POSS_PRON_3FS ها)))))))))
+  (PUNC ,))
+</parse>
+<arg f="neg" g="Does not" n="m">لا</arg>
+<arg f="" g="He" n="0">-NONE- *T*-1&lt;عبد الرحمن الباشا</arg>
+<arg f="" g="The close relationship between music's body and soul" n="2">عن تلك العلاقة الحميمة بين جسم الموسيقى وروحها</arg>
+<arg f="tmp" g="a moment" n="m">لحظة</arg>
+</example>
+</frame>
+</frameset>
 </verb>

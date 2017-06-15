@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jawAz</id>
+<comment/>
+<frameset cdef="" edef="permissibility, legality" id="01" vncls="">
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قانون بعض القبائل ينص بجواز * أكل البشر</parse>
+<comment/>
+<arg f="" g="the law in some tribes" n="1">* قانون بعض القبائل</arg>
+<arg f="" g="to eat human being" n="2">أكل البشر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity giving permision" vncls="" vntheta=""/>
+<role argnum="2" argrole="the permision" vncls="" vntheta=""/>
+</frameset>
+</verb>

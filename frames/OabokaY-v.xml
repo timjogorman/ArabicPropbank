@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OabokaY</id>
+<comment/>
+<frameset cdef="" edef="to make cry or weep" id="01">
+<role argnum="0" argrole="entity forcing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبكى يوسف إخوته</parse>
+<comment/>
+<arg f="" g="yousif" n="0">يوسف</arg>
+<arg f="" g="his brothers" n="1">إخوته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity forced to cry"/>
+</frameset>
+</verb>

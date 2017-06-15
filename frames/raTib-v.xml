@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raTib</id>
+<comment/>
+<frameset cdef="" edef="to be or become humid or moist" id="01" vncls="">
+<role argnum="1" argrole="entity becoming humid" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رطب العشب بالضباب</parse>
+<comment/>
+<arg f="" g="the grass" n="1">العشب</arg>
+<arg f="" g="with fog" n="2">بالضباب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

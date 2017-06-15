@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitojaw~iz</id>
+<comment/>
+<frameset cdef="" edef="married" id="01" vncls="">
+<role argnum="1" argrole="one half" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طلع الراجل متجوز * من صاحبة اخته</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="" g="with his sister's freind" n="2">من صاحبة اخته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="other half" vncls="" vntheta=""/>
+</frameset>
+</verb>

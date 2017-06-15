@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qafa$</id>
+
+<frameset cdef="" edef="to grab or catch" id="01" vncls="">
+<role argnum="0" argrole="holder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا قفش * ك متلبس</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="you" n="1">ك</arg>
+<arg f="" g="red-handed" n="2">متلبس</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity held" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+
+<comment/>
+<frameset cdef="" edef="to get mad or upset" id="02" vncls="">
+<role argnum="0" argrole="entity mad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنتِ قفشتي * ليه</parse>
+<comment/>
+<arg f="" g="you" n="0">* أنتِ</arg>
+<arg f="cau" g="why" n="m">ليه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="at whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="reason" vncls="" vntheta=""/>
+</frameset>
+</verb>

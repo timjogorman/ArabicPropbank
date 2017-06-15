@@ -1,143 +1,145 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>OarodaY</id>
-    <frameset cdef="" edef="to kill, destroy" id="01">
-        <role argnum="0" argrole="the killer"/>
-        <role argnum="1" argrole="the victim"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS قضت)
-                    (NP-SBJ
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM محكمة)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الجنايات)))
-                    (PP-LOC
-                    (PREP في)
-                    (NP
-                    (NOUN+CASE_DEF_GEN جبل)
-                    (NP
-                    (NOUN_PROP+CASE_INDEF_GEN لبنان)))))
-                    (PP-CLR
-                    (PP
-                    (PREP ب)
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN وضع)
-                    (NP
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN السوداني))
-                    (NP
-                    (NOUN_PROP عوض)
-                    (NOUN_PROP عمر)
-                    (NOUN_PROP ابرهيم)
-                    (NOUN_PROP عمر))))
-                    (PP
-                    (PREP في)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الاشغال)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الشاقة)))
-                    (NP-TMP
-                    (NOUN_NUM+CASE_DEF_ACC خمس)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC عشرة)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC سنة))))))
-                    (CONJ و)
-                    (PP
-                    (PREP ب)
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN خفض)
-                    (NP
-                    (NP
-                    (DEM_PRON_F هذه))
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN العقوبة))))
-                    (PP
-                    (PREP الى)
-                    (NP
-                    (NOUN+NSUFF_FEM_DU_GEN_POSS اثنتي)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC عشرة)
-                    (NP
+<id>OarodaY</id>
+<frameset cdef="" edef="to kill, destroy" id="01" vncls="">
+<role argnum="0" argrole="the killer" vncls="" vntheta=""/>
+<role argnum="1" argrole="the victim" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3FS قضت)
+      (NP-SBJ
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM محكمة)
+          (NP
+            (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الجنايات)))
+        (PP-LOC
+          (PREP في)
+          (NP
+            (NOUN+CASE_DEF_GEN جبل)
+            (NP
+              (NOUN_PROP+CASE_INDEF_GEN لبنان)))))
+      (PP-CLR
+        (PP
+          (PREP ب)
+          (NP
+            (NP
+              (NOUN+CASE_DEF_GEN وضع)
+              (NP
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN السوداني))
+                (NP
+                  (NOUN_PROP عوض)
+                  (NOUN_PROP عمر)
+                  (NOUN_PROP ابرهيم)
+                  (NOUN_PROP عمر))))
+            (PP
+              (PREP في)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الاشغال)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الشاقة)))
+            (NP-TMP
+              (NOUN_NUM+CASE_DEF_ACC خمس)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC عشرة)
+                (NP
+                  (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC سنة))))))
+        (CONJ و)
+        (PP
+          (PREP ب)
+          (NP
+            (NP
+              (NOUN+CASE_DEF_GEN خفض)
+              (NP
+                (NP
+                  (DEM_PRON_F هذه))
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN العقوبة))))
+            (PP
+              (PREP الى)
+              (NP
+                (NOUN+NSUFF_FEM_DU_GEN_POSS اثنتي)
+                (NP
+                  (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC عشرة)
+                  (NP
                     (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC سنة)))))
-                    (PP-PRP
-                    (PREP ل)
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN اقدام)
-                    (NP
+            (PP-PRP
+              (PREP ل)
+              (NP
+                (NP
+                  (NOUN+CASE_DEF_GEN اقدام)
+                  (NP
                     (POSS_PRON_3MS ه)))
-                    (PP
-                    (PREP في)
-                    (NP
+                (PP
+                  (PREP في)
+                  (NP
                     (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN بلدة)
                     (NP
-                    (NOUN+CASE_DEF_GEN دير)
-                    (NOUN_PROP قوبل))))
-                    (PP
-                    (PREP على)
+                      (NOUN+CASE_DEF_GEN دير)
+                      (NOUN_PROP قوبل))))
+                (PP
+                  (PREP على)
+                  (NP
                     (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN قتل)
-                    (NP
-                    (NP
-                    (DET+NOUN المغدور))
-                    (NP
-                    (NOUN_PROP عبد)
-                    (DET+NOUN_PROP الرحمن)
-                    (NOUN_PROP علي)
-                    (NOUN_PROP تراب))))
+                      (NOUN+CASE_DEF_GEN قتل)
+                      (NP
+                        (NP
+                          (DET+NOUN المغدور))
+                        (NP
+                          (NOUN_PROP عبد)
+                          (DET+NOUN_PROP الرحمن)
+                          (NOUN_PROP علي)
+                          (NOUN_PROP تراب))))
                     (PP-MNR
-                    (PREP ب)
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN طعن)
-                    (NP
-                    (POSS_PRON_3MS ه)))
-                    (PP
-                    (PREP ب)
-                    (NP
-                    (NOUN+CASE_INDEF_GEN سكين)))
-                    (NP-ADV
-                    (NP
-                    (NOUN_NUM 12)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC طعنة)))
-                    (SBAR
-                    (WHNP-1
-                    (-NONE- 0))
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS اردت)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (NP-OBJ
-                    (PVSUFF_DO:3MS ه))
-                    (PUNC ,)
-                    (PP-TMP
-                    (PREP على)
-                    (NP
-                    (NOUN+CASE_DEF_ACC اثر)
-                    (NP
-                    (NP
-                    (NOUN+CASE_INDEF_GEN خلاف))
-                    (PP
-                    (PREP على)
-                    (NP
-                    (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN موجودات)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN غرفة))))))))))))))))))))))
-                </parse>
-                <arg f="" g="" n="0">-NONE- *T*-1</arg>
-                <arg f="" g="him" n="1">ه</arg>
-                <arg f="" g="following a dispute about the contents of a room" n="">أثر خلاف على موجودات غرفة</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (PREP ب)
+                      (NP
+                        (NP
+                          (NOUN+CASE_DEF_GEN طعن)
+                          (NP
+                            (POSS_PRON_3MS ه)))
+                        (PP
+                          (PREP ب)
+                          (NP
+                            (NOUN+CASE_INDEF_GEN سكين)))
+                        (NP-ADV
+                          (NP
+                            (NOUN_NUM 12)
+                            (NP
+                              (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC طعنة)))
+                          (SBAR
+                            (WHNP-1
+                              (-NONE- 0))
+                            (S
+                              (VP
+                                (PV+PVSUFF_SUBJ:3FS اردت)
+                                (NP-SBJ
+                                  (-NONE- *T*-1))
+                                (NP-OBJ
+                                  (PVSUFF_DO:3MS ه))
+                                (PUNC ,)
+                                (PP-TMP
+                                  (PREP على)
+                                  (NP
+                                    (NOUN+CASE_DEF_ACC اثر)
+                                    (NP
+                                      (NP
+                                        (NOUN+CASE_INDEF_GEN خلاف))
+                                      (PP
+                                        (PREP على)
+                                        (NP
+                                          (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN موجودات)
+                                          (NP
+                                            (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN غرفة))))))))))))))))))))))</parse>
+<arg f="" g="" n="0">-NONE- *T*-1</arg>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="cau" g="following a dispute about the contents of a room" n="m">أثر خلاف على موجودات غرفة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
 </verb>

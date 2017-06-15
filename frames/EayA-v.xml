@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EayA</id>
+<comment/>
+<frameset cdef="" edef="to fatigue or exhaust , to be tired,  becoming unable to" id="01">
+<role argnum="0" argrole="entity getting tired"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنت الكريم فلا تدعني تائهاً فلقد عييت * من البعاد</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="from being far" n="1">من البعاد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what"/>
+</frameset>
+<frameset cdef="" edef="to become sick" id="02">
+<role argnum="0" argrole="entity becoming sick"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا عييت * من البرد</parse>
+<comment/>
+<arg f="" g="he" n="0">* انا</arg>
+<arg f="" g="from the cold" n="1">من البرد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what"/>
+</frameset>
+</verb>

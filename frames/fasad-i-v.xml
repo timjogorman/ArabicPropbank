@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fasad-i</id>
+
+<frameset cdef="" edef="to decay, to rot,to spoil, to become bad" id="01" vncls="">
+<role argnum="1" argrole="things decayed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فسد التفاح في السلة</parse>
+
+<arg f="" g="the apple" n="1">التفاح</arg>
+<comment/>
+<arg f="loc" g="in the bketas" n="m">في السلة</arg>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoTab~aE</id>
+
+<frameset cdef="" edef="to acquire someone's character , or manners" id="01" vncls="">
+<role argnum="0" argrole="entity copying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الواد اتطبع * بأخلاق  الشارع</parse>
+
+<comment/>
+<arg f="" g="the boy" n="0">* الواد</arg>
+<arg f="" g="by the manners" n="1">بأخلاق</arg>
+<arg f="" g="the street" n="2">الشارع</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things copied" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

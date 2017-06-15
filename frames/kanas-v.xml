@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>kanas</id>
+<comment>EGYPTIAN ARABIC based on kanas-u</comment>
+    <frameset cdef="" edef="to sweep, to broom" id="01" vncls="">
+<role argnum="0" argrole="entity sweeping" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>كنس الرجل الزبالة من الارض</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the trash" n="1">الزبالة</arg>
+<arg f="loc" g="from the floor" n="m">من الارض</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset kanas-u.01</comment>
+<role argnum="1" argrole="things swept" vncls="" vntheta="" />
+</frameset>
+</verb>

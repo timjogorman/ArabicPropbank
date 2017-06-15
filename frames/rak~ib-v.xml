@@ -1,0 +1,82 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rak~ib</id>
+<frameset cdef="" edef="assemble , build" id="01" vncls="">
+<role argnum="0" argrole="assembler" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing assembled" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>ركب الولد صورة بطريقة جميله</parse>
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="a picture" n="1">صورة</arg>
+<arg f="mnr" g="in a good manner" n="m">بطريقة جميله</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment>Based on roleset rak~ab-v.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to make (someone) ride or mount" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الأب ركب * أبنه على ظهره</parse>
+
+
+
+<arg f="" g="the father" n="0">* الأب</arg>
+<arg f="" g="his son" n="1">أبنه</arg>
+<arg f="" g="on his back" n="2">على ظهره</arg>
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity helped to ride" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+
+<comment>EGYPTIAN ARABIC Framefile based on rak~ab-v</comment>
+<frameset cdef="" edef="to attach" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو ركب * مراية تانية للعربية</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="another mirror" n="1">مراية تانية</arg>
+<arg f="" g="for the car" n="2">للعربية</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things attached" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEAriD</id>
+<comment>EGYPTIAN ARABIC based on taEAraD</comment>
+    <frameset cdef="" edef="to oppose / be in conflict or dispute" id="01" vncls="">
+<role argnum="0" argrole="thing conflicting" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>دعوة الجميع لدولة مدنية لا تتعارض * مع الشريعة</parse>
+
+
+<arg f="" g="inviting everyone to a civil state" n="0">دعوة الجميع لدولة مدنية</arg>
+<arg f="" g="with shariah" n="1">مع الشريعة</arg>
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="entity in conflict with - usually marked by مع" vncls="" vntheta="" />
+
+<comment />
+</frameset>
+
+</verb>

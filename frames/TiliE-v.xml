@@ -1,0 +1,898 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TiliE</id>
+
+    <frameset cdef="" edef="to come up with" id="01" vncls="">
+<role argnum="0" argrole="deviser" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing devised, brought forth, come up with" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (NP-SBJ
+    (NP
+      (NP
+        (DET+NOUN+CASE_DEF_NOM الخوف))
+      (NP
+        (DET+NOUN+CASE_DEF_NOM الخوف)))
+    (NP
+      (PRON_3MS هو)))
+  (SBAR-PRD
+    (SUB_CONJ ان)
+    (S
+      (VP
+        (IV3FS+IV+IVSUFF_MOOD:S تكون)
+        (NP-3
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM النتيجة))
+          (SBAR
+            (WHNP-2
+              (REL_PRON التي))
+            (S
+              (VP
+                (PRT
+                  (VERB_PART قد))
+                (IV3FS+IV+IVSUFF_MOOD:I تطلع)
+                (PP-CLR
+                  (PREP ب)
+                  (NP
+                    (NP
+                      (PRON_3FS ها))
+                    (NP
+                      (-NONE- *T*-2))))
+                (NP-SBJ
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM القمة)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM العربية)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM العتيدة))
+                (PP
+                  (PREP في)
+                  (NP
+                    (NOUN+CASE_DEF_GEN شأن)
+                    (NP
+                      (NP
+                        (NP
+                          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المشكلة)
+                          (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الحقيقية))
+                        (PP-LOC
+                          (PREP في)
+                          (NP
+                            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المنطقة))))
+                      (PUNC ,)
+                      (NP
+                        (PRT
+                          (PART اي))
+                        (DET+NOUN+CASE_DEF_NOM الصراع)
+                        (DET+ADJ+CASE_DEF_NOM العربي)
+                        (DET+ADJ+CASE_DEF_NOM الاسرائيلي)))))))))
+        (PUNC ,)
+        (VP
+          (PRT
+            (NEG_PART لا))
+          (IV3FS+IV+IVSUFF_MOOD:I تختلف)
+          (NP-SBJ
+            (-NONE- *T*-3))
+          (PP
+            (PREP في)
+            (NP
+              (NOUN+CASE_INDEF_GEN شيء)))
+          (PP-CLR
+            (PREP عن)
+            (NP
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN النتيجة))
+              (SBAR
+                (WHNP-4
+                  (REL_PRON التي))
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3FS طلعت)
+                    (PP-CLR
+                      (PREP ب)
+                      (NP
+                        (NP
+                          (PRON_3FS ها))
+                        (NP
+                          (-NONE- *T*-4))))
+                    (NP-SBJ
+                      (NOUN+CASE_DEF_NOM لجان)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN التحقيق)))
+                    (PP-TMP
+                      (PREP منذ)
+                      (NP
+                        (NOUN_NUM 1978)))
+                    (PP
+                      (PREP في)
+                      (NP
+                        (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN قضية)
+                        (NP
+                          (NOUN+CASE_DEF_GEN اخفاء)
+                          (NP
+                            (DET+NOUN_PROP الصدر))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="with it" n="1">بها</arg>
+<arg f="" g="commissions of inquiry" n="0">لجان التحقيق</arg>
+<arg f="tmp" g="since 1978" n="m">منذ 1978</arg>
+<arg f="" g="in the case of Sadr diappearance" n="">في قضية إخفاء صدر</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment>Based on roleset TalaE-u.01</comment>
+</frameset>
+<frameset cdef="" edef="to rise, emerge" id="02" vncls="">
+<role argnum="0" argrole="entity rising or emerging" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(CONJ و)
+  (S
+    (NP-SBJ
+      (-NONE- *))
+    (ADJP-PRD
+      (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM مستعدة)
+      (PP
+        (PREP ل)
+        (NP
+          (NOUN_QUANT+CASE_DEF_GEN أي)
+          (NP
+            (NOUN+CASE_INDEF_GEN شيء)))))
+    (SBAR-PRP
+      (SUB_CONJ حتى)
+      (S
+        (VP
+          (IV3MS+IV+IVSUFF_MOOD:S يطلع)
+          (NP-SBJ
+            (NOUN+CASE_INDEF_NOM صباح)
+            (ADJ+CASE_DEF_NOM آخر))
+          (SBAR-MNR
+            (SUB_CONJ و)
+            (S
+              (NP-SBJ
+                (PRON_3FS هي))
+              (ADJP-PRD
+                (ADJ متربعة)
+                (PP
+                  (PREP على)
+                  (NP
+                    (NOUN+CASE_DEF_GEN عروش)
+                    (NP
+                      (POSS_PRON_3FS ها)))))))))))
+  (PUNC .))</parse>
+<arg f="" g="another morning" n="0">صباح آخر</arg>
+<arg f="tmp" g="as they sit on their throne" n="m">و هي متربعة على  عروشها</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment>Based on roleset TalaE-u.02</comment>
+</frameset>
+
+<frameset cdef="" edef="to go out, step out, to leave" id="03" vncls="">
+<role argnum="0" argrole="entity going out" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>إيه يا سوريا اطلعي * من  لبنان</parse>
+
+<arg f="" g="you" n="0">* &gt; سوريا</arg>
+<arg f="" g="from Lebanon" n="1">من  لبنان</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment>Based on roleset TalaE-u.03</comment>
+</frameset>
+
+<frameset cdef="" edef="to become as" id="04" vncls="">
+<role argnum="1" argrole="entity becoming as" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>طلع * على خاله في كل حاجة</parse>
+
+<arg f="" g="NONE" n="1">*? NONE</arg>
+<arg f="" g="like his uncle" n="2">على خاله</arg>
+<arg f="" g="in everything" n="3">في كل حاجة</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="becoming like what (Usually comes after على)" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+
+
+
+
+<comment>Based on roleset TalaE-u.04</comment>
+</frameset>
+
+<frameset cdef="" edef="to climb" id="05" vncls="">
+<role argnum="0" argrole="entity climbing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>طلع الرجل الجبل</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the mountain" n="1">الجبل</arg>
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things climbed" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+
+
+
+<comment>Based on roleset TalaE-u.05</comment>
+</frameset>
+
+
+<frameset cdef="" edef="to go to" id="06" vncls="">
+<role argnum="0" argrole="entity going" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>هنطلع * من هنا للقرافة دغري</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="from here" n="1">من هنا</arg>
+<arg f="" g="to the cemetery" n="2">للقرافة</arg>
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+
+<comment>Based on roleset TalaE-u.06</comment>
+</frameset>
+
+<frameset cdef="" edef="to take out, to bring out" id="07" vncls="">
+<role argnum="0" argrole="remover" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>طلع * بها من البيت للمدرسة</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="with it" n="1">بها</arg>
+<arg f="" g="frome home" n="2">من البيت</arg>
+<arg f="" g="to school" n="3">للمدرسة</arg>
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing removed" vncls="" vntheta=""/>
+<role argnum="2" argrole="source, start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="goal, end point" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to appear, to be, to become" id="08" vncls="">
+<role argnum="1" argrole="entity appearing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الصورة طلعت * فالصو</parse>
+
+<arg f="" g="the picture" n="1">* الصورة</arg>
+<arg f="" g="fake" n="2">فالصو</arg>
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="like what" vncls="" vntheta=""/>
+
+
+
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to move something upwards" id="09" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(IV1S+IV أَرْجُو)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP مِنّ)
+        (NP
+          (PRON_2FS ِك)))
+      (SBAR
+        (SUB_CONJ إِنّ)
+        (S
+          (NP-TPC-1
+            (PRON_2FS ِك))
+          (VP
+            (IV2FS+IV+IVSUFF_SUBJ:2FS تِبُصِّي)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (PP
+              (PREP لِ)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG الصُورَة)))
+            (NP-ADV
+              (ADJP
+                (ADJ_COMP أَوْضَح)
+                (PP
+                  (PREP مِن)
+                  (NP
+                    (NOUN كِدَه))))))))))
+  (S
+    (TYPO و)
+    (VP
+      (CV+CVSUFF_SUBJ:2FS اِطْلَعِي)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP بِ)
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG الخَرِيطَة)))
+      (NP-ADV
+        (NOUN فُوق)
+        (NOUN+NSUFF_FEM_SG شُوَيَّة))))
+  (S</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="with the map" n="1">بالخريطة</arg>
+<arg f="" g="a little high" n="2">فوق شوية</arg>
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things moved" vncls="" vntheta=""/>
+<role argnum="2" argrole="destination" vncls="" vntheta=""/>
+
+
+
+
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to retire (multi word expression) تقاعد" id="10" vncls="">
+<role argnum="1" argrole="entity retire" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>بابا طلع * على المعاش</parse>
+
+<arg f="" g="father" n="1">* بابا</arg>
+<arg f="" g="on pension" n="2">على المعاش</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+
+
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to create , to make (multi word expression)" id="11" vncls="">
+<role argnum="0" argrole="creator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>بابا طلع * علينا بقصة سخيفة</parse>
+
+<arg f="" g="father" n="0">* بابا</arg>
+<arg f="gol" g="on us" n="m">علينا</arg>
+<arg f="" g="with a silly story" n="1">بقصة سخيفة</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things created" vncls="" vntheta=""/>
+
+
+
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="Discourse marker meaning( فإذا)---leave it without tagging" id="12" vncls="">
+<role argnum="0" argrole="DO NOT TAG" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>بحثت عنه في البيت طلع ميت</parse>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment>no arguments</comment>
+</frame>
+
+
+
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to gain ( طلع لي )" id="13" vncls="">
+<role argnum="1" argrole="things gained" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>طلع لي عشرة دولار في اليانصيب</parse>
+
+<arg f="" g="to me" n="2">لي</arg>
+<arg f="" g="ten dollars" n="1">عشرة دولار</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="for whome" vncls="" vntheta=""/>
+
+
+
+<comment>ARZ</comment>
+</frameset>
+
+
+<frameset cdef="" edef="to attack or rise against" id="010" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الناس طلعوا * عليهم بالسكاكين</parse>
+
+<arg f="" g="the people" n="0">* الناس</arg>
+<arg f="" g="on them" n="1">عليهم</arg>
+<arg f="" g="with knives" n="2">بالسكاكين</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on TalaE-u</comment>
+</verb>

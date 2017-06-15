@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IinoSAf</id>
+<comment/>
+<frameset cdef="" edef="equity, justice, to right, justify, treat fairly" id="01" vncls="">
+<role argnum="0" argrole="justifier" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان انصاف المدير للعمال في أجورهم رائعا</parse>
+<comment/>
+<arg f="" g="the manager" n="0">المدير</arg>
+<arg f="" g="for the workers" n="1">للعمال</arg>
+<arg f="" g="in thier salary" n="2">في أجورهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="benefactive, justified to" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what?" vncls="" vntheta=""/>
+<role argnum="3" argrole="secondary predication" vncls="" vntheta=""/>
+</frameset>
+</verb>

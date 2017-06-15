@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xamaE</id>
+<comment/>
+<frameset cdef="" edef="to limp or hobble" id="01" vncls="">
+<role argnum="1" argrole="entity limping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خمعت البنت في مشيتها</parse>
+<comment/>
+<arg f="" g="the girl" n="1">البنت</arg>
+<arg f="" g="in her walking" n="2">في مشيتها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to Arg1" vncls="" vntheta=""/>
+</frameset>
+</verb>

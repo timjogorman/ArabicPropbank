@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OanAx</id>
+
+<frameset cdef="" edef="to stay at" id="01" vncls="">
+<role argnum="0" argrole="entity staying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أناخ المسافر بالمكان</parse>
+
+<arg f="" g="the traveller" n="0">المسافر</arg>
+<arg f="" g="in the place" n="1">بالمكان</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="place" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to make ( a kamel) kneel down" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أناخ الرجل الجمل</parse>
+
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the camel" n="1">الجمل</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity kneeling ( mostly camel )" vncls="" vntheta=""/>
+<comment>أبرك</comment>
+</frameset>
+<comment/>
+</verb>

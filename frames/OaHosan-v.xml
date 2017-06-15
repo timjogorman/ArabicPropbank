@@ -1,58 +1,83 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>OaHosan</id>
-    <frameset cdef="" edef="to improve, enhance" id="01">
-        <role argnum="0" argrole="improver"/>
-        <role argnum="1" argrole="thing improved"/>
-        <frame>
-            <example>
-                <parse>
-                    (CONJ و)
-                    (S
-                    (NP-TPC-2
-                    (NP
-                    (TYPO هذ))
-                    (NP
-                    (DET+NOUN+CASE_DEF_NOM الانتصار)))
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يجب)
-                    (SBAR-SBJ
-                    (SUB_CONJ ان)
-                    (S
-                    (VP
-                    (IV1P+IV+IVSUFF_MOOD:S نحسن)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (NOUN+CASE_DEF_ACC توظيف)
-                    (NP
-                    (NP
-                    (POSS_PRON_3MS ه))
-                    (NP
-                    (-NONE- *T*-2))))
-                    (PP-PRP
-                    (PREP ل)
-                    (SBAR
-                    (SUB_CONJ كي)
-                    (S
-                    (VP
-                    (IV1P+IV+IVSUFF_MOOD:S نقطف)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (NOUN+CASE_DEF_ACC ثمار)
-                    (NP
-                    (POSS_PRON_3MS ه)))
-                    (PP
-                    (PREP على)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الصعيد)
-                    (DET+ADJ+CASE_DEF_GEN الوطني)))
-                </parse>
-                <arg f="" g="we" n="0">-NONE-</arg>
-                <arg f="" g="its utilization" n="1">توظيفه</arg>
-                <arg f="prp" g="in order to reap its benifits on a national level" n="m">لكي نقطف ثماره على الصعيد الوطني</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>OaHosan</id>
+
+
+<frameset cdef="" edef="to give charity or alms to" id="02" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أحسن * اليه بالمال و المركز</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="to him" n="2">اليه</arg>
+<arg f="" g="with money and position" n="1">بالمال و المركز</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things given" vncls="" vntheta=""/>
+<role argnum="2" argrole="taker" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to act well or right, to behave good" id="03" vncls="">
+<role argnum="0" argrole="entity acting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أحسن * في تعامله مع أخيه</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="in his behavior" n="1">في تعامله</arg>
+<arg f="" g="with his brother" n="2">مع أخيه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<role argnum="2" argrole="toward who or what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to think positively about (multi word expression) أحسن الظن" id="04" vncls="">
+<role argnum="0" argrole="entity thinking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أحسن الرجل الظن بأخيه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his thought about his brother" n="1">الظن بأخيه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="about what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

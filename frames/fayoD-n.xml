@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fayoD</id>
+<comment/>
+<frameset cdef="" edef="abundant, plentiful, blessing" id="01" vncls="">
+<role argnum="1" argrole="things pentiful" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أعطانا الله من  فيض نعمته</parse>
+<comment/>
+<arg f="" g="his grace" n="1">نعمته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

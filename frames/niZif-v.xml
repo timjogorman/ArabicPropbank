@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>niZif</id>
+<comment/>
+<frameset cdef="" edef="become clean" id="01" vncls="">
+<role argnum="0" argrole="entity cleaning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مصر حتنظف * من كل ده</parse>
+<comment/>
+<arg f="" g="Egypt" n="1">* مصر</arg>
+<arg f="" g="from all of this" n="2">من كل ده</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="entity cleaned" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

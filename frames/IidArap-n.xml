@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IidArap</id>
+<comment/>
+<frameset cdef="" edef="operating, operation, running" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الأخ الصغير بإدارة * المعمل أثناء سفر شقيقه</parse>
+<comment/>
+<arg f="" g="the little brothe" n="0">الأخ الصغير</arg>
+<arg f="" g="the factory" n="1">المعمل</arg>
+<arg f="tmp" g="while his brother was on a trip" n="m">أثناء سفر شقيقه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things operated" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="administration, management" id="02" vncls="">
+<role argnum="1" argrole="the administration off what" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرر مجلس الإدارة في المعمل رفع الرواتب</parse>
+<comment/>
+<arg f="" g="board of directors" n="1">مجلس</arg>
+<arg f="" g="in the factory" n="2">في المعمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

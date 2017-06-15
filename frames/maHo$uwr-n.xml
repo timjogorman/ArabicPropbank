@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maHo$uwr</id>
+<comment/>
+<frameset cdef="" edef="crammed, inserted, jammed" id="01" vncls="">
+<role argnum="0" argrole="the agent cramming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم لقوا الراجل محشور * جوه الصندوق</parse>
+<comment/>
+<arg f="" g="the man" n="1">الراجل</arg>
+<arg f="" g="inside the box" n="2">جوه الصندوق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the entity being crammed" vncls="" vntheta=""/>
+<role argnum="2" argrole="place" vncls="" vntheta=""/>
+</frameset>
+</verb>

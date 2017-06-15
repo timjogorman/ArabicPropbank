@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$adA-u</id>
+<comment/>
+<frameset cdef="" edef="to sing, to chant" id="01">
+<role argnum="0" argrole="singer"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شدا الشاعر قصيدة للسامعين</parse>
+<comment/>
+<arg f="" g="poet" n="0">الشاعر</arg>
+<arg f="" g="poem" n="1">قصيدة</arg>
+<arg f="" g="to the hearers" n="2">للسامعين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="song"/>
+<role argnum="2" argrole="audience"/>
+</frameset>
+</verb>

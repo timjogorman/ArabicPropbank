@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>HanaY</id>
+
+<frameset cdef="" edef="to bow, hunch" id="01">
+<role argnum="0" argrole="bower" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>حنى الوزير ظهره لدى ظهور الملك</parse>
+
+<arg f="" g="The minister" n="0">الوزير</arg>
+<arg f="" g="his back" n="1">ظهره</arg>
+<arg f="" g="to the appearance of the King" n="2">لظهور الملك</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="thing bowed" />
+<role argnum="2" argrole="bowed to" />
+<comment>Based on roleset HanaY-i.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on HanaY-i</comment>
+</verb>

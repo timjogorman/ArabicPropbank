@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaSab-i</id>
+
+<frameset cdef="" edef="to cut up, to cut to pieces" id="01" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قصب الجزار اللحم</parse>
+
+<arg f="" g="the butcher" n="0">الجزار</arg>
+<arg f="" g="the meat" n="1">اللحم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to find fault with, to blame or curse" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قصب الرجل أخاه بكلمات قاسية</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="with harsh words" n="2">بكلمات قاسية</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

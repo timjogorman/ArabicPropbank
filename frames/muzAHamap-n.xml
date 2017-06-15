@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muzAHamap</id>
+<comment/>
+<frameset cdef="" edef="competition, rivalry" id="01" vncls="">
+<role argnum="0" argrole="competitor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مزاحمة البعض للفقراء في ما يملكون</parse>
+<comment/>
+<arg f="" g="some" n="0">البعض</arg>
+<arg f="" g="to the poor" n="1">للفقراء</arg>
+<arg f="" g="in what they own" n="2">في ما يملكون</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="opponent" vncls="" vntheta=""/>
+<role argnum="2" argrole="prize or position" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dal~aE</id>
+<comment/>
+<frameset cdef="" edef="spoiling, pampering" id="01" vncls="">
+<role argnum="0" argrole="spoiler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(PRT
+              (NEG_PART مِش))
+            (PV+PVSUFF_SUBJ:3MS كان)
+            (VP
+              (PRT
+                (PROG_PART بِ))
+              (IV3MS+IV يِحِبّ)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (IVSUFF_DO:1S نِي))
+              (ADVP-PRP
+                (-NONE- *T*-3)))))))
+    (PUNC ,)
+    (PUNC ,)
+    (PUNC ,))
+  (FRAG
+    (NP-ADV
+      (NOUN+CASE_INDEF_ACC تَقْرِيباً))
+    (PP-PRP
+      (PREP عَ)
+      (NP
+        (NOUN شَأْن)
+        (S
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:1S كُنت)
+              (VP
+                (PRT
+                  (PROG_PART بِ))
+                (IV1S+IV اَدَلَع)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (NOUN_PROP مِيشُو)))))
+          (TYPO و)
+          (S
+            (NP-SBJ
+              (PRON_3MS هُوَ))
+            (NP-PRD
+              (NEG_PART لا))))))))</parse>
+<comment/>
+<arg f="" g="she" n="0">* نِي</arg>
+<arg f="" g="Misho" n="1">مِيشُو</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="spoiled" vncls="" vntheta=""/>
+<role argnum="2" argrole="method" vncls="" vntheta=""/>
+</frameset>
+</verb>

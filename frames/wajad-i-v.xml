@@ -1,18 +1,51 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>wajad-i</id>
-    <frameset cdef="" edef="to find or locate" id="01">
-        <role argnum="0" argrole="the finder"/>
-        <role argnum="1" argrole="thing found"/>
-        <frame>
-            <example>
-                <parse>
-                    وعندما نتحدث * عن 500 عالم فلا بد من ان نجد * بينهم &amp;quot;يهوذا&amp;quot; او &amp;quot;يهوذات&amp;quot; عدة, الا اذا كان &amp;quot; تلاميذ&amp;quot; صدام حسين من صنف آخر
-                </parse>
-                <arg f="" g="we" n="0">*</arg>
-                <arg f="loc" g="among them" n="m">بينهم</arg>
-                <arg f="" g="a number of Judases" n="1">&amp;quot;يهوذا&amp;quot; او &amp;quot;يهوذات&amp;quot; عدة</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>wajad-i</id>
+<frameset cdef="" edef="to find or locate" id="01" vncls="">
+<role argnum="0" argrole="the finder" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing found" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>وعندما نتحدث * عن 500 عالم فلا بد من ان نجد * بينهم &quot;يهوذا&quot; او &quot;يهوذات&quot; عدة, الا اذا كان &quot; تلاميذ&quot; صدام حسين من صنف آخر</parse>
+<arg f="" g="we" n="0">*</arg>
+<arg f="loc" g="among them" n="m">بينهم</arg>
+<arg f="" g="a number of Judases" n="1">&quot;يهوذا&quot; او &quot;يهوذات&quot; عدة</arg>
+
+<comment/>
+</example>
+
+<comment/>
+<example>
+<parse>قرر أبني عدم الزواج الى أن يجد * فتاة أحلامه</parse>
+<comment/>
+<arg f="" g="my son" n="0">* أبني</arg>
+<arg f="" g="the girl of his dreams" n="1">فتاة أحلامه</arg>
+</example>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to exist" id="02" vncls="">
+<role argnum="1" argrole="things exists" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لا يوجد معي أي شيئ</parse>
+
+<arg f="" g="with me" n="2">معي</arg>
+<arg f="" g="any thing" n="1">أي شيئ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="where or with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

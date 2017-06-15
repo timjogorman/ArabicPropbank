@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mi$</id>
+<comment/>
+<frameset cdef="" edef="copular negation" id="01">
+<role argnum="1" argrole="topic (SBJ)"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو مش * معانا ده جاي لوحده</parse>
+<comment/>
+<arg f="" g="he" n="1">* NONE</arg>
+<arg f="" g="with us" n="2">معانا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ليس</comment>
+<role argnum="2" argrole="comment (PRD)"/>
+</frameset>
+</verb>

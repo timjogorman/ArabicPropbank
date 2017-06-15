@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nata$</id>
+<comment/>
+<frameset cdef="" edef="to snatch or grab" id="01" vncls="">
+<role argnum="0" argrole="taker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ابني الصغير نتش * القلم من ايد أخوه الكبير</parse>
+<comment/>
+<arg f="" g="my little son" n="0">ابني الصغير</arg>
+<arg f="" g="the pencil" n="1">القلم</arg>
+<arg f="" g="from the hand of his oldest brother" n="2">من ايد أخوه الكبير</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="taken" vncls="" vntheta=""/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to kidnap or abduct" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم اللي بينتشوا * الأطفال من الشارع</parse>
+<comment/>
+<arg f="" g="them" n="0">* هم</arg>
+<arg f="" g="the kids" n="1">الأطفال</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

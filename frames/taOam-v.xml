@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taOam</id>
+<comment/>
+<frameset cdef="" edef="to be a twin with" id="01" vncls="">
+<role argnum="1" argrole="entity becoming twin" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تأم الولد مع أخيه</parse>
+<comment/>
+<arg f="" g="the boy" n="1">الولد</arg>
+<arg f="" g="with his brother" n="2">مع أخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="second twin" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to find a relation between" id="02" vncls="">
+<role argnum="0" argrole="finder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تأم الرجل بين المدينتين</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="between the two cities" n="1">بين المدينتين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="between whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="second entity if not in ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

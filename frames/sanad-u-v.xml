@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sanad-u</id>
+
+<frameset cdef="" edef="to lean on, to recline on" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>سند الرجل ظهره على الحائط</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his back" n="1">ظهره</arg>
+
+
+<comment/>
+<arg f="" g="on the wall" n="2">على الحائط</arg>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things leaning" vncls="" vntheta=""/>
+
+
+<comment/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to support, to rest" id="02" vncls="">
+<role argnum="0" argrole="entity supporting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>سند * الحائط باعمدة اضافية</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the wall" n="1">الحائط</arg>
+<arg f="" g="with extra bars" n="2">باعمدة اضافية</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity or things supported" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+
+<comment/>
+</verb>

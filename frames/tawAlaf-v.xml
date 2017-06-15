@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tawAlaf</id>
+<comment/>
+<frameset cdef="" edef="to blend or mingle or combine" id="01" vncls="">
+<role argnum="1" argrole="entity mixed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>توالفت الوان الصباح مع الطبيعة</parse>
+<comment/>
+<arg f="" g="th emorning colors" n="1">الوان الصباح</arg>
+<arg f="" g="with the nature" n="2">مع الطبيعة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

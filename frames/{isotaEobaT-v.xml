@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaEobaT</id>
+<comment/>
+<frameset cdef="" edef="to play fool, to act ignorant, to fool" id="01" vncls="">
+<role argnum="0" argrole="entity playing fool" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لاعب كرة قدم استعبط * حارس المرمي ودخل فيه هدف</parse>
+<comment/>
+<arg f="" g="a soccer player" n="0">لاعب كرة قدم</arg>
+<arg f="" g="goal keeper" n="1">حارس المرمي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

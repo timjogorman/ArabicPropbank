@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inokasA</id>
+
+<frameset cdef="" edef="to be covered" id="01" vncls="">
+<role argnum="0" argrole="coverer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انكست سيارتي بالثلج</parse>
+
+<arg f="" g="my car" n="1">سيارتي</arg>
+<arg f="" g="by snow" n="2">بالثلج</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing covered" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument, covered by" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

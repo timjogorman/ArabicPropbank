@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qab~aD</id>
+<comment/>
+<frameset cdef="" edef="hand over money due" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم بيقبضو* الشغيلة ميت دولار بس</parse>
+<comment/>
+<arg f="" g="they" n="0">* هم</arg>
+<arg f="" g="the workers" n="1">الشغيلة</arg>
+<arg f="" g="only onehundred dollar" n="2">ميت دولار بس</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity paid" vncls="" vntheta=""/>
+<role argnum="2" argrole="the pay" vncls="" vntheta=""/>
+</frameset>
+</verb>

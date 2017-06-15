@@ -1,0 +1,104 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sad~</id>
+
+    <frameset cdef="" edef="to close, block" id="01" vncls="">
+<role argnum="0" argrole="cause of closing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سد المتظاهرون الشارع بالحواجز حتى يمنعوا عبور سيارات الشرطة</parse>
+
+<arg f="" g="Protesters" n="0">المتظاهرون</arg>
+<arg f="" g="the street" n="1">الشارع</arg>
+<arg f="" g="with barriers" n="2">بالحواجز</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing closing" vncls="" vntheta=""/>
+<role argnum="2" argrole="closed with what?" vncls="" vntheta=""/>
+<comment>Based on roleset sad~-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on sad~-u</comment>
+<frameset cdef="" edef="making up for, to cover (سد النقص‏)" id="02" vncls="">
+<role argnum="0" argrole="entity covering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(SUB_CONJ لَو)
+      (S
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR-NOM-PRD
+          (WHNP-9
+            (-NONE- 0))
+          (S
+            (VP
+              (ADJ.VN عايِز)
+              (NP-SBJ
+                (-NONE- *T*-9))
+              (SBAR
+                (-NONE- 0)
+                (S
+                  (VP
+                    (IV3MS+IV يِوَفَّر)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (NOUN فُلُوس)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG المَعُونَة)))))))))))
+    (PUNC ,)
+    (PRT
+      (RC_PART فَ))
+    (ADVP-PRD
+      (ADV هناك))
+    (NP-SBJ
+      (NP
+        (NOUN طُرُق)
+        (NOUN+NSUFF_FEM_SG عِدَّة))
+      (PP
+        (PREP لِ)
+        (NP
+          (NOUN تَوْفِير)
+          (SBAR-NOM
+            (SBAR-NOM
+              (WHNP-11
+                (REL_PRON ما))
+              (S
+                (VP
+                  (IV3MS+IV يَسِدّ)
+                  (NP-SBJ
+                    (-NONE- *T*-11))
+                  (NP-OBJ
+                    (DET+NOUN+NSUFF_FEM_SG المَعُونَة)
+                    (DET+ADJ+NSUFF_FEM_SG الأَمْرِيكِيَّة)))))
+            (CONJ وِ)
+            (SBAR-NOM
+              (WHNP-12
+                (-NONE- 0))
+              (S
+                (VP
+                  (IV3MS+IV يفِيض)
+                  (NP-SBJ
+                    (-NONE- *T*-12)))))))))
+    (PUNC ,))</parse>
+<comment/>
+<arg f="" g="it" n="0">*T*-11 ما</arg>
+<arg f="" g="the American's aid" n="1">المَعُونَة الأَمْرِيكِيَّة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thinredgs cove" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

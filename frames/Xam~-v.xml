@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Xam~</id>
+<comment>EGYPTIAN ARABIC based on Xam~-u</comment>
+    <frameset cdef="" edef="to dispraise, to vilify" id="01">
+<role argnum="0" argrole="entity disprasing" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ذم الرجل أعمال أخيه</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the works" n="1">أعمال</arg>
+<arg f="" g="his brother" n="2">أخيه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Xam~-u.01</comment>
+<role argnum="1" argrole="things dispraised" />
+<role argnum="2" argrole="victim" />
+</frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mudaw~an</id>
+<comment/>
+<frameset cdef="" edef="recorded or written" id="01" vncls="">
+<role argnum="0" argrole="author" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه الارقام مدونة * في الكتب</parse>
+<comment/>
+<arg f="" g="these numbers" n="1">هذه الارقام</arg>
+<arg f="" g="in the books" n="2">في الكتب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="notation" vncls="" vntheta=""/>
+<role argnum="2" argrole="place" vncls="" vntheta=""/>
+</frameset>
+</verb>

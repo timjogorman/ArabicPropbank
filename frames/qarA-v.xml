@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qarA</id>
+<comment/>
+<frameset cdef="" edef="to read" id="01" vncls="">
+<role argnum="0" argrole="entity reading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا قريت * كتاب عن السمك حلو كتير</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="a book" n="1">كتاب</arg>
+<arg f="" g="about fish" n="2">عن السمك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing being read" vncls="" vntheta=""/>
+<role argnum="2" argrole="topic" vncls="" vntheta=""/>
+<role argnum="3" argrole="hearer" vncls="" vntheta=""/>
+</frameset>
+</verb>

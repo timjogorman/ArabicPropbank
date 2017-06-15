@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wajaz-i</id>
+<comment/>
+<frameset cdef="" edef="to abridge or summarize" id="01" vncls="">
+<role argnum="0" argrole="entity summarizing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وجز الخطيب الكلام</parse>
+<comment/>
+<arg f="" g="the speaker" n="0">الخطيب</arg>
+<arg f="" g="the speech" n="1">الكلام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things summarized" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mutaOaS~il</id>
+<comment/>
+<frameset cdef="" edef="deep-rooted" id="01" vncls="">
+<role argnum="1" argrole="entity rooted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بقت هذه الافكار متأصلة * في اذهاننا</parse>
+<comment/>
+<arg f="" g="those thoughts" n="1">* هذه الافكار</arg>
+<arg f="" g="in our minds" n="2">في اذهاننا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

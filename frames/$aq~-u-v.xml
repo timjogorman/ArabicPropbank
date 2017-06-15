@@ -1,113 +1,201 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>$aq~-u</id>
-    <frameset cdef="" edef="to build a road, open or pave the way" id="01">
-        <role argnum="0" argrole="the agent"/>
-        <role argnum="1" argrole="the road"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (S
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (DEM_PRON_MS ذلك)
-                    (PUNC ,)
-                    (PRT
-                    (CONNEC_PART ف)
-                    (VP
-                    (PSEUDO_VERB ان)
-                    (NP-SBJ
-                    (NP
-                    (NOUN+CASE_DEF_ACC حل)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN القضية)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الفلسطينية)
-                    (NP
-                    (PRON_3MS هو)
-                    (NP-PRD
-                    (NP
-                    (DET+NOUN+CASE_DEF_NOM المدخل)
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (NOUN+CASE_DEF_GEN حل)
-                    (NP
-                    (NP
-                    (DET+NOUN القضايا)
-                    (DET+ADJ الاخرى)
-                    (SBAR
-                    (WHNP-2
-                    (REL_PRON التي)
-                    (S
-                    (VP
+<id>$aq~-u</id>
+<frameset cdef="" edef="to build a road, open or pave the way" id="01">
+<role argnum="0" argrole="the agent"/>
+<role argnum="1" argrole="the road"/>
+<frame>
+<example>
+<parse>(S
+  (S
+    (PP
+      (PREP ل)
+      (NP
+        (DEM_PRON_MS ذلك)
+    (PUNC ,)
+    (PRT
+      (CONNEC_PART ف)
+    (VP
+      (PSEUDO_VERB ان)
+      (NP-SBJ
+        (NP
+          (NOUN+CASE_DEF_ACC حل)
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN القضية)
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الفلسطينية)
+        (NP
+          (PRON_3MS هو)
+      (NP-PRD
+        (NP
+          (DET+NOUN+CASE_DEF_NOM المدخل)
+        (PP
+          (PREP ل)
+          (NP
+            (NOUN+CASE_DEF_GEN حل)
+            (NP
+              (NP
+                (DET+NOUN القضايا)
+                (DET+ADJ الاخرى)
+              (SBAR
+                (WHNP-2
+                  (REL_PRON التي)
+                (S
+                  (VP
                     (IV3FS+IV+IVSUFF_MOOD:I تتألف)
                     (PP-CLR
-                    (PREP من)
-                    (NP
-                    (NP
-                    (PRON_3FS ها)
-                    (NP
-                    (-NONE- *T*-2)
+                      (PREP من)
+                      (NP
+                        (NP
+                          (PRON_3FS ها)
+                        (NP
+                          (-NONE- *T*-2)
                     (NP-SBJ
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM أزمة)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الشرق)
-                    (DET+ADJ_COMP+CASE_DEF_GEN الاوسط)
-                    (PUNC ,)
-                    (CONJ و)
-                    (S
-                    (VP
-                    (PSEUDO_VERB ان)
-                    (NP-SBJ-1
-                    (NOUN+CASE_DEF_ACC حل)
-                    (NP
-                    (NOUN_QUANT+CASE_DEF_GEN كل)
-                    (NP
-                    (DET+NOUN القضايا)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS ليس)
-                    (NP-SBJ
-                    (-NONE- *-1)
-                    (NP-PRD
-                    (NP
-                    (NOUN+CASE_INDEF_ACC مدخلا)
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (NOUN+CASE_DEF_GEN حل)
-                    (NP
-                    (NP
+                      (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM أزمة)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN الشرق)
+                        (DET+ADJ_COMP+CASE_DEF_GEN الاوسط)
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (VP
+      (PSEUDO_VERB ان)
+      (NP-SBJ-1
+        (NOUN+CASE_DEF_ACC حل)
+        (NP
+          (NOUN_QUANT+CASE_DEF_GEN كل)
+          (NP
+            (DET+NOUN القضايا)
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:3MS ليس)
+          (NP-SBJ
+            (-NONE- *-1)
+          (NP-PRD
+            (NP
+              (NOUN+CASE_INDEF_ACC مدخلا)
+            (PP
+              (PREP ل)
+              (NP
+                (NOUN+CASE_DEF_GEN حل)
+                (NP
+                  (NP
                     (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN القضية)
                     (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الفلسطينية)
-                    (SBAR
+                  (SBAR
                     (WHNP-4
-                    (REL_PRON التي)
+                      (REL_PRON التي)
                     (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يشق)
-                    (NP-SBJ
-                    (NOUN+CASE_DEF_NOM حل)
-                    (NP
-                    (NP
-                    (POSS_PRON_3FS ها)
-                    (NP
-                    (-NONE- *T*-4)
-                    (NP-OBJ
-                    (NP
-                    (DET+NOUN+CASE_DEF_ACC الطريق)
-                    (PP
-                    (PREP الى)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN السلام)
-                    (DET+ADJ+CASE_DEF_GEN الشامل)
-                    (PUNC .)
-                </parse>
-                <arg f="" g="its solution" n="0">حلها</arg>
-                <arg f="" g="the way to complete peace" n="1">الطريق إلى السلام الشامل</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (VP
+                        (IV3MS+IV+IVSUFF_MOOD:I يشق)
+                        (NP-SBJ
+                          (NOUN+CASE_DEF_NOM حل)
+                          (NP
+                            (NP
+                              (POSS_PRON_3FS ها)
+                            (NP
+                              (-NONE- *T*-4)
+                        (NP-OBJ
+                          (NP
+                            (DET+NOUN+CASE_DEF_ACC الطريق)
+                          (PP
+                            (PREP الى)
+                            (NP
+                              (DET+NOUN+CASE_DEF_GEN السلام)
+                              (DET+ADJ+CASE_DEF_GEN الشامل)
+  (PUNC .)</parse>
+<arg f="" g="its solution" n="0">حلها</arg>
+<arg f="" g="the way to complete peace" n="1">الطريق إلى السلام الشامل</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to split, to cleave, to tear" id="02">
+<role argnum="0" argrole="entity splitting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شق * الثوب الى اربع قطع</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*NONE</arg>
+<arg f="" g="the dress" n="1">الثوب</arg>
+<arg f="" g="into 4 pieces" n="2">الى اربع قطع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things torn"/>
+<role argnum="2" argrole="attributed to Arg 1"/>
+</frameset>
+<frameset cdef="" edef="to break (dawn), to arise" id="03">
+<role argnum="1" argrole="things arising"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شق الصبح</parse>
+<comment/>
+<arg f="" g="the morning" n="1">الصبح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to force one's way, to thrust into (multi word expression)" id="04">
+<role argnum="0" argrole="entity thrusting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شق الرجل طريقه نحو النجاح</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his way" n="1">طريقه</arg>
+<arg f="" g="toward success" n="3">نحو النجاح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the path"/>
+<role argnum="2" argrole="start point"/>
+<role argnum="3" argrole="end point"/>
+</frameset>
+<frameset cdef="" edef="to rebel  (multi word expression)" id="05">
+<role argnum="0" argrole="rebel agent (Usually comes beforeعصا   )"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شق الرجل عصا الطاعة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be or become hard" id="06">
+<role argnum="1" argrole="things that are hard"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شق عليه الامر</parse>
+<comment/>
+<arg f="" g="on him" n="2">عليه</arg>
+<arg f="" g="the matter" n="1">الامر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="on whom"/>
+</frameset>
 </verb>

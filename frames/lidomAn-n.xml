@@ -1,22 +1,27 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>lidomAn</id>
-    <comment/>
-    <frameset cdef="" edef="addicticting to" id="01">
-        <role argnum="0" argrole="entity addicting"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>وفاة صيني نتيجة إدمانه اللعب على الانترنت</parse>
-                <comment/>
-                <arg f="" g="he" n="0">ه</arg>
-                <arg f="" g="playing on the internet" n="1">اللعب على الانترنت</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="to what"/>
-    </frameset>
+<id>lidomAn</id>
+
+<frameset cdef="" edef="addicting to" id="01" vncls="">
+<role argnum="0" argrole="entity addicting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>وفاة صيني نتيجة إدمانه اللعب على الانترنت</parse>
+
+<arg f="" g="he" n="0">ه</arg>
+<arg f="" g="playing on the internet" n="1">اللعب على الانترنت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

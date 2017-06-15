@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodabas</id>
+
+<frameset cdef="" edef="to be stapled, knitted (using staples or pins)" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اندبست الفواتير بدبوس</parse>
+
+<arg f="" g="the bills" n="1">الفواتير</arg>
+<arg f="" g="with a pin" n="2">بدبوس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity stapled" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument (staples/pins)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

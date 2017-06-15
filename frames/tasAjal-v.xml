@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tasAjal</id>
+<comment/>
+<frameset cdef="" edef="to compete, to meet in a contest" id="01" vncls="">
+<role argnum="0" argrole="entity competing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تساجل الولدان في الشطرنج</parse>
+<comment/>
+<arg f="" g="the two boys" n="0">الولدان</arg>
+<arg f="" g="in chess" n="2">في الشطرنج</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="against whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

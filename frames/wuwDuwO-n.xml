@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wuwDuwO</id>
+<comment/>
+<frameset cdef="" edef="to perform the ritual ablution" id="01" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عدم وضوء بعض الناس قبل الصلاة غير مقبول</parse>
+<comment/>
+<arg f="" g="some people" n="0">بعض الناس</arg>
+<arg f="tmp" g="before prayer" n="m">قبل الصلاة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

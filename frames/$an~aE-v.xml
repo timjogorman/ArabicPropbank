@@ -1,0 +1,76 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$an~aE</id>
+
+<frameset cdef="" edef="to uglify,to make ugly" id="01" vncls="">
+<role argnum="0" argrole="entity making" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(NP
+    (NP
+      (NOUN سُؤال)
+      (ADJ مُهِمّ))
+    (PP
+      (PREP لِ)
+      (NP
+        (NP
+          (DET+NOUN الكاتِب)
+          (DET+ADJ المَصْرِي))
+        (SBAR
+          (WHNP-1
+            (REL_PRON اللِي))
+          (S
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (SBAR-NOM-PRD
+              (WHNP-4
+                (-NONE- 0))
+              (S
+                (VP
+                  (ADJ.VN رايِح)
+                  (NP-SBJ-3
+                    (-NONE- *T*-4))
+                  (S
+                    (S
+                      (VP
+                        (IV3MS+IV يِضْحَك)
+                        (NP-SBJ-2
+                          (-NONE- *-3))
+                        (PP-CLR
+                          (PREP عَلَى)
+                          (NP
+                            (DET+ADJ الكَوايتَه)))))
+                    (CONJ و)
+                    (S
+                      (VP
+                        (IV3MS+IV يِشَنِع)
+                        (NP-SBJ
+                          (-NONE- *-2))
+                        (PP-CLR
+                          (PREP علَى)
+                          (NP
+                            (NP
+                              (DET+NOUN+NSUFF_FEM_SG الحُكُومَة))
+                            (NP-ADV
+                              (NOUN+NSUFF_FEM_SG بِتاعَة)
+                              (NP
+                                (POSS_PRON_3MS ُه)))))))))))))))</parse>
+
+<arg f="" g="the Egyptian writer" n="0">* الكاتب المصري</arg>
+<arg f="" g="on his government" n="1">على الحكومة بتاعته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

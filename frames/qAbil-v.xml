@@ -1,0 +1,76 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>qAbil</id>
+<comment>EGYPTIAN ARABIC based on qAbal</comment>
+    <frameset cdef="" edef="to meet/ to face" id="01">
+<role argnum="0" argrole="entity meeting" />
+<role argnum="1" argrole="entity being  met" />
+<frame>
+<mapping>
+<V />
+<mapitem src="sbj" trg="arg0" />
+</mapping>
+<example>
+<parse>
+(S
+  (S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3MS كان)
+      (PP-PRD
+        (PREP علي)
+        (NP
+          (PRON_1S nullp)))
+      (SBAR-SBJ
+        (SUB_CONJ ان)
+        (S
+          (VP
+            (IV1S+IV+IVSUFF_MOOD:S أقابل)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NP
+                (NOUN+CASE_INDEF_ACC ملكاً))
+              (PP
+                (PREP من)
+                (NP
+                  (NOUN+CASE_DEF_GEN ملوك)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN الشرق))))))))))
+  (PUNC ,)
+  (CONJ ف)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS قال)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP ل)
+        (NP
+          (PRON_1S ي)))
+      (PUNC :)
+      (S
+        (PUNC &quot;)
+        (NP-SBJ
+          (PRON_2MS انت))
+        (PP
+          (PREP في)
+          (NP
+            (NP
+              (NOUN+CASE_DEF_GEN منصب)
+              (NP
+                (POSS_PRON_2MS ك)))
+            (ADJP
+              (DET+ADJ+CASE_DEF_GEN الجديد))))
+        (NP-PRD
+          (NOUN+CASE_DEF_NOM نائب)
+          (NP
+            (NOUN+CASE_INDEF_GEN ملك)))
+        (PUNC &quot;))))
+  (PUNC .))
+</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="one of the kings of the east" n="1">ملكا من ملوك الشرق</arg>
+</example>
+</frame>
+<comment>Based on roleset qAbal.01</comment></frameset>
+</verb>

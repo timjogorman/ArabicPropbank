@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tatAxam</id>
+<comment/>
+<frameset cdef="" edef="to border on or upon, to adjoin" id="01" vncls="">
+<role argnum="1" argrole="entity getting close" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تتاخم الحادث مع الحدود الجنوبية</parse>
+<comment/>
+<arg f="" g="the accident" n="1">الحادث</arg>
+<arg f="" g="with the south borders" n="2">مع الحدود الجنوبية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

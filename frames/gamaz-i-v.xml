@@ -1,0 +1,74 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gamaz-i</id>
+
+<frameset cdef="" edef="to wink at" id="01" vncls="">
+<role argnum="0" argrole="entity winking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>غمز الشاب بعينه  لصاحبته</parse>
+
+<arg f="" g="the young boy" n="0">الشاب</arg>
+<arg f="" g="with his eyes" n="1">بعينه</arg>
+<arg f="" g="to his girl friend" n="2">لصاحبته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to slander, to speak evil of" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>غمز الرجل صاحبه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what or with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to push or press on" id="03" vncls="">
+<role argnum="0" argrole="entity pressing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>غمز الرجل زر الجرس بأصبعه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the bell's button" n="1">زر الجرس</arg>
+<arg f="" g="with his finger" n="2">بأصبعه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things pressed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

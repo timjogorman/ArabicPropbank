@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaHaq~iy~ap</id>
+<comment/>
+<frameset cdef="" edef="precedence, right" id="01" vncls="">
+<role argnum="1" argrole="entity having the right" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ذكر في كتابه أحقية الناس في اراضيهم</parse>
+<comment/>
+<arg f="" g="the people" n="1">الناس</arg>
+<arg f="" g="in their lands" n="2">في اراضيهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

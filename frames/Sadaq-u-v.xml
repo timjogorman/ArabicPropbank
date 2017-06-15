@@ -1,15 +1,34 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Sadaq-u</id>
-    <frameset cdef="" edef="to be confirmed or actualize" id="01">
-        <role argnum="1" argrole="thing being confirmed or actualized"/>
-        <frame>
-            <example>
-                <parse>
-                    اذا صدقت التوقعات , فان النظام السياسي سيعيد *-1 للرئيس جاك شيراك دوره القيادي لتنفيذ سياسته بعدما عانى احباطا طويلا 0 دام **-2 خمس سنوات
-                </parse>
-                <arg f="" g="the expectations" n="1">التوقعات</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Sadaq-u</id>
+<frameset cdef="" edef="to be confirmed or actualize" id="01">
+<role argnum="1" argrole="thing being confirmed or actualized"/>
+<frame>
+<example>
+<parse>اذا صدقت التوقعات , فان النظام السياسي سيعيد *-1 للرئيس جاك شيراك دوره القيادي لتنفيذ سياسته بعدما عانى احباطا طويلا 0 دام **-2 خمس سنوات</parse>
+<arg f="" g="the expectations" n="1">التوقعات</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to say or tell the truth" id="02">
+<role argnum="0" argrole="sayer"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صدق أخي في كل كلمة قالها</parse>
+<comment/>
+<arg f="" g="my brother" n="0">أخي</arg>
+<arg f="" g="in every word he said" n="1">في كل كلمة قالها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what or utterance"/>
+</frameset>
 </verb>

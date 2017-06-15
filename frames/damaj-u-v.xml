@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>damaj-u</id>
+
+<frameset cdef="" edef="to merge or unite, to join" id="01" vncls="">
+<role argnum="0" argrole="entity uniting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>دمج الرسام اللون الأحمر مع الأصفر ببراعة</parse>
+
+<arg f="" g="the artist" n="0">الرسام</arg>
+<arg f="" g="the red color" n="1">اللون الأحمر</arg>
+<arg f="" g="with the yellow" n="2">مع الأصفر</arg>
+<arg f="mnr" g="skillfulness" n="m">ببراعة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things united" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what if separated from Arg1" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to become dark" id="02" vncls="">
+<role argnum="1" argrole="things becoming dark" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>دمج الليل</parse>
+
+<arg f="" g="the night" n="1">الليل</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

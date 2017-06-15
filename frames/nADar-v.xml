@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nADar</id>
+<comment/>
+<frameset cdef="" edef="to equal, to be equal to, to match" id="01">
+<role argnum="0" argrole="entity equal"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ناظر علي أخاه في العمل</parse>
+<comment/>
+<arg f="" g="Ali" n="0">علي</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="in work" n="2">في العمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom"/>
+<role argnum="2" argrole="in what"/>
+</frameset>
+<frameset cdef="" edef="to debate or argue with" id="02">
+<role argnum="0" argrole="entity debating"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ناظر علي أخاه في اطروحته</parse>
+<comment/>
+<arg f="" g="Ali" n="0">علي</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="in his thesis or dissertation" n="2">في اطروحته</arg>
+</example>
+<comment/>
+</frame>
+<comment>ناقش ,  جادل</comment>
+<role argnum="1" argrole="debating who"/>
+<role argnum="2" argrole="in what"/>
+</frameset>
+<frameset cdef="" edef="to superintend or supervise" id="03">
+<role argnum="0" argrole="supervisor"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ناظر علي أخاه في الشركة</parse>
+<comment/>
+<arg f="" g="Ali" n="0">علي</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity supervised"/>
+</frameset>
+</verb>

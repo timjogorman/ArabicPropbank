@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tadAEab</id>
+<comment/>
+<frameset cdef="" edef="to joke or play together" id="01" vncls="">
+<role argnum="0" argrole="entity joking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تداعب الاولاد مع بعضهم في المدرسة</parse>
+<comment/>
+<arg f="" g="the kids" n="0">الاولاد</arg>
+<arg f="" g="with eacherh ot" n="1">مع بعضهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,33 +1,54 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>han~aO</id>
-    <frameset cdef="" edef="to congratulate" id="01">
-        <role argnum="0" argrole="expresser, agent"/>
-        <role argnum="1" argrole="person congratulated"/>
-        <role argnum="2" argrole="achievement"/>
-        <frame>
-            <example>
-                <parse>
-                    ((S
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS هنأ)
-                    (NP-SBJ-2
-                    (NOUN_PROP لحود))
-                    (NP-OBJ
-                    (NOUN_PROP عقل))
-                    (PP-CLR
-                    (PUNC &amp;quot;)
-                    (PREP ب)
-                    (NP
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN المنصب)
-                    (DET+ADJ+CASE_DEF_GEN الجديد))
-                </parse>
-                <arg f="" g="Lahoud" n="0">لحود</arg>
-                <arg f="" g="Akl" n="1">عقل</arg>
-                <arg f="" g="The new position" n="2">بالمنصب الجديد</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>han~aO</id>
+<frameset cdef="" edef="to congratulate" id="01" vncls="">
+<role argnum="0" argrole="expresser, agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="person congratulated" vncls="" vntheta=""/>
+<role argnum="2" argrole="achievement" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>((S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS هنأ)
+    (NP-SBJ-2
+      (NOUN_PROP لحود))
+    (NP-OBJ
+      (NOUN_PROP عقل))
+    (PP-CLR
+      (PUNC ")
+      (PREP ب)
+      (NP
+        (NP
+          (DET+NOUN+CASE_DEF_GEN المنصب)
+          (DET+ADJ+CASE_DEF_GEN الجديد))</parse>
+<arg f="" g="Lahoud" n="0">لحود</arg>
+<arg f="" g="Akl" n="1">عقل</arg>
+<arg f="" g="The new position" n="2">بالمنصب الجديد</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to make happy or please" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الله يهني * ه بولد</parse>
+<comment/>
+<arg f="" g="God" n="0">* الله</arg>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="with a boy" n="2">بولد</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity pleased" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
 </verb>

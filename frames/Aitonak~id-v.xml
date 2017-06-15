@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitonak~id</id>
+<comment/>
+<frameset cdef="" edef="be made miserable, be embittered" id="01" vncls="">
+<role argnum="1" argrole="entity becoming miserable" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا اتنكدت * وخلاص</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

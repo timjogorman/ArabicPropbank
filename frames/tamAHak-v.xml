@@ -1,0 +1,102 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamAHak</id>
+<comment/>
+<frameset cdef="" edef="to haggle or bargain, to wrangle or altercate" id="01" vncls="">
+<role argnum="0" argrole="entity bargaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (SUB_CONJ فَ)
+      (NP-TPC-1
+        (NP
+          (NOUN تَوفِير)
+          (NP
+            (DET+NOUN الطَعام)))
+        (PP
+          (PREP لِ)
+          (NP
+            (DET+NOUN الفِئْران))))
+      (VP
+        (IV3MS+IV يِلْزِم)
+        (NP-OBJ
+          (NP
+            (IVSUFF_DO:3MS ه))
+          (NP
+            (-NONE- *T*-1)))
+        (NP-ADV
+          (ADJ+CASE_INDEF_ACC أَوَّلاً))
+        (NAC
+          (CONJ وِ)
+          (PP
+            (PREP ب)
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG التَبَعِيَّة))))
+        (NP-SBJ
+          (NP
+            (NOUN تَوفِير)
+            (NP
+              (DET+NOUN الطَعام)))
+          (PP
+            (CONJ لِ)
+            (NP
+              (ADJP
+                (ADJ+NSUFF_MASC_PL ساكِنِي)
+                (NP
+                  (NP
+                    (DET+NOUN البِيُوت))
+                  (SBAR
+                    (WHNP-2
+                      (REL_PRON الَّتِي))
+                    (S
+                      (VP
+                        (IV3FS+IV تَسْكُن)
+                        (NP-OBJ
+                          (NP
+                            (IVSUFF_DO:3FS ها))
+                          (NP
+                            (-NONE- *T*-2)))
+                        (NP-SBJ
+                          (NP
+                            (NO_FUNC تلك))
+                          (NP
+                            (DET+NOUN الفِئْران)))))))))))))
+    (PUNC ?)
+    (PUNC ?)
+    (CONJ و)
+    (S
+      (PP-PRP
+        (PREP لِ)
+        (NP
+          (DEM_PRON_MS ذٰلِك)))
+      (VP
+        (PV+PVSUFF_SUBJ:1S قَرَّرت)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (SUB_CONJ أَنْ)
+          (S
+            (VP
+              (IV1S+IV أَتَمَحَّك)
+              (NP-SBJ
+                (-NONE- *))
+              (PP-CLR
+                (PREP فِي)
+                (NP
+                  (DET+NOUN الفِئْران))))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the mice" n="1">الفِئْران</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with who" vncls="" vntheta=""/>
+<role argnum="2" argrole="abbout" vncls="" vntheta=""/>
+</frameset>
+</verb>

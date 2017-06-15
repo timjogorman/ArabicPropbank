@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maraT</id>
+<comment/>
+<frameset cdef="" edef="to pluck out, to pull out, to tear out (hair, feathers, etc..)" id="01" vncls="">
+<role argnum="0" argrole="puller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مرط الرجل شعر صاحبه بيديه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend's hair" n="1">شعر صاحبه</arg>
+<arg f="" g="with his hands" n="3">بيديه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things pulled" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

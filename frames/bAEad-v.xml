@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bAEad</id>
+<comment/>
+<frameset cdef="" edef="to separate, to keep away, to set apart" id="01">
+<role argnum="0" argrole="entity separating"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>باعد الرجل بينه و بين الشر</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="between himself" n="1">بينه</arg>
+<arg f="" g="and evil" n="2">و بين الشر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="first thing separated"/>
+<role argnum="2" argrole="second thing"/>
+</frameset>
+</verb>

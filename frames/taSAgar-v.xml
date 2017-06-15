@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taSAgar</id>
+<comment/>
+<frameset cdef="" edef="to behave like kids" id="01" vncls="">
+<role argnum="0" argrole="entity behaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تصاغر الرجل في سلوكه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his behavior" n="1">في سلوكه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attributed to ARG0" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to lower onself" id="02" vncls="">
+<role argnum="0" argrole="entity lowering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تصاغر الرجل أمام أصدقائه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

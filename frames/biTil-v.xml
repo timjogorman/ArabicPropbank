@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>biTil</id>
+<comment/>
+<frameset cdef="" edef="become exhausted, stop doing something" id="01" vncls="">
+<role argnum="0" argrole="entity stopping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنت امتى حتبطل * تتكلم</parse>
+<comment/>
+<arg f="" g="you" n="0">* أنت</arg>
+<arg f="" g="to talk" n="1">تتكلم</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to  be expired" id="02" vncls="">
+<role argnum="1" argrole="things expired" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>القانون ده بطل * من زمان</parse>
+<comment/>
+<arg f="" g="this law" n="1">* القانون ده</arg>
+<arg f="tmp" g="a long time ago" n="m">من زمان</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

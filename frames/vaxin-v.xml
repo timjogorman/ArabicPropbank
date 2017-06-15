@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>vaxin</id>
+<comment/>
+<frameset cdef="" edef="to thicken, to become thick , to become hard" id="01" vncls="">
+<role argnum="1" argrole="entity becoming thick" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ثخن جسمه</parse>
+<comment/>
+<arg f="" g="his body" n="1">جسمه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

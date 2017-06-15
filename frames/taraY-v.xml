@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taraY</id>
+<comment/>
+<frameset cdef="" edef="to see (idiomatic expression) (يا ترى)" id="01" vncls="">
+<role argnum="0" argrole="entity seeing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يا ترى * هل سيأتي غدا</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="will he come tomorrow" n="1">هل سيأتي غدا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="seeing what" vncls="" vntheta=""/>
+</frameset>
+</verb>

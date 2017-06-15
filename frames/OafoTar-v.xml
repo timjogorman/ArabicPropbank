@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OafoTar</id>
+
+<frameset cdef="" edef="to have (take, eat) breakfast or food, to break the fast" id="01" vncls="">
+<role argnum="0" argrole="entity eating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أفطر سالم بقليل من الجبنة</parse>
+
+<arg f="" g="Salim" n="0">سالم</arg>
+<arg f="" g="with a little of cheese" n="1">بقليل من الجبنة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="eating what" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to give breakfast to, to break someone's fast" id="02" vncls="">
+<role argnum="0" argrole="entity feeding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أفطر سالم أخاه بقليل من الجبنة</parse>
+
+<arg f="" g="Salim" n="0">سالم</arg>
+<arg f="" g="with alittle of cheese" n="1">بقليل من الجبنة</arg>
+<arg f="" g="his brother" n="2">أخاه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the food" vncls="" vntheta=""/>
+<role argnum="2" argrole="eater" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

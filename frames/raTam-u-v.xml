@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raTam-u</id>
+<comment/>
+<frameset cdef="" edef="to imprison, enclose" id="01" vncls="">
+<role argnum="0" argrole="the confiner" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رطمت الأم ابنتها في غرفة صغيرة</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="her daughter" n="1">ابنتها</arg>
+<arg f="loc" g="in a small room" n="m">في غرفة صغيرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the confined" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to throw or push" id="02" vncls="">
+<role argnum="0" argrole="pusher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رطم الطفل أخاه في الوحل</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="in the mud" n="2">في الوحل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="pushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="into what" vncls="" vntheta=""/>
+</frameset>
+</verb>

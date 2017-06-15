@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maqaE-a</id>
+
+<frameset cdef="" edef="to quaff, to drink deeply" id="01" vncls="">
+<role argnum="0" argrole="entity drinking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مقع الرجل الشراب</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the drink" n="1">الشراب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="drink" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to throw" id="02" vncls="">
+<role argnum="0" argrole="entity throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مقع الرجل صديقه بالشر</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">صديقه</arg>
+<arg f="" g="with evil" n="2">بالشر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="throw what" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

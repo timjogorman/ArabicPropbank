@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>luTof</id>
+<comment/>
+<frameset cdef="" edef="kindness, friendliness" id="01" vncls="">
+<role argnum="0" argrole="entity having kindness" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لولا لطف الله عليه في الحادث لهلك</parse>
+<comment/>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="on him" n="1">عليه</arg>
+<arg f="" g="in the accident" n="2">في الحادث</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what or in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

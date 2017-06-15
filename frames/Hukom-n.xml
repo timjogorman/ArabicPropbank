@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hukom</id>
+<comment/>
+<frameset cdef="" edef="by virtue of, on the basis of" id="01" vncls="">
+<role argnum="1" argrole="the rule" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وبحكم انه ذاهب الى مصر فلن تراه بعد الان</parse>
+<comment/>
+<arg f="" g="he is going to Egypt" n="1">انه ذاهب الى مصر</arg>
+<arg f="" g="you will not see after this" n="2">فلن تراه بعد الان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="judgment, decision" id="02" vncls="">
+<role argnum="0" argrole="judge" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صدر عليه حكم * السجن من قبل القاضي</parse>
+<comment/>
+<arg f="" g="on him" n="2">* عليه</arg>
+<arg f="" g="to be in jail" n="1">السجن</arg>
+<arg f="" g="by the judge" n="0">من قبل القاضي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="judgment" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

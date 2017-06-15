@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$am~aE</id>
+<comment/>
+<frameset cdef="" edef="to wax, to smear with wax" id="01" vncls="">
+<role argnum="0" argrole="entity sealing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شمع الرجل الرسالة بالشمع ا لبارحة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the letter" n="1">الرسالة</arg>
+<arg f="" g="with wax" n="2">بالشمع</arg>
+<arg f="tmp" g="yesterday" n="m">ا لبارحة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things sealed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

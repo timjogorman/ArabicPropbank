@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xabir</id>
+<comment/>
+<frameset cdef="" edef="to have knowledge (of), to know of" id="01" vncls="">
+<role argnum="0" argrole="entity knowing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خبر الرجل الموضوع من أخيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the subject" n="1">الموضوع</arg>
+<arg f="" g="from his brother" n="2">من أخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="about what" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

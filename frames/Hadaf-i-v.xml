@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hadaf-i</id>
+<comment/>
+<frameset cdef="" edef="to throw" id="01" vncls="">
+<role argnum="0" argrole="entity throwing things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان بيجري ورايا ويحدف * ني بالطوب</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="me" n="2">ني</arg>
+<arg f="" g="with rocks" n="1">بالطوب</arg>
+</example>
+<comment/>
+<example>
+<parse>مش عارفه ايه اللي حدف  * ني عليكو</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="me" n="1">ني</arg>
+<arg f="" g="on you" n="2">عليكو</arg>
+</example>
+</frame>
+<comment/>
+<role argnum="1" argrole="things thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitofalaq</id>
+<comment/>
+<frameset cdef="" edef="to get mad, to explode" id="01" vncls="">
+<role argnum="1" argrole="entity getting mad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل اتفلق * بسبب عمايل مراته</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="cau" g="because of what his wife is doing" n="m">بسبب عمايل مراته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

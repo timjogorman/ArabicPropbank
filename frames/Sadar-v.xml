@@ -1,0 +1,116 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Sadar</id>
+
+    <frameset cdef="" edef="to be published or issued" id="01" vncls="">
+<role argnum="0" argrole="source" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing published or issued" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS طار)
+      (NP-SBJ
+        (NOUN+CASE_DEF_NOM صواب)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الدول)
+          (DET+ADJ+CASE_DEF_GEN الثلاث)))))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3FS هدّدت)
+      (NP-SBJ
+        (-NONE- *))
+      (PP-CLR
+        (PREP ب)
+        (NP
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مقاطعة)
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN قمة)
+              (NP
+                (NOUN_PROP+CASE_INDEF_GEN بيروت))))
+          (CONJ و)
+          (NP
+            (NOUN+CASE_DEF_GEN عدم)
+            (NP
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الاعتراف))
+              (PP
+                (PREP ب)
+                (NP
+                  (NOUN_QUANT+CASE_DEF_GEN كل)
+                  (SBAR-NOM
+                    (WHNP-1
+                      (REL_PRON ما))
+                    (S
+                      (VP
+                        (IV3MS+IV+IVSUFF_MOOD:I يصدر)
+                        (NP-SBJ
+                          (-NONE- *T*-1))
+                        (PP-CLR
+                          (PREP عن)
+                          (NP
+                            (PRON_3FS ها))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="from it" n="0">عنها</arg>
+<arg f="عَن-" g="It" n="1">-NONE- *T*-1&lt;ما</arg>
+<V/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset Sadar-u.01</comment>
+</frameset>
+<frameset cdef="" edef="To arise from" id="04" vncls="">
+<role argnum="1" argrole="thing (state) arising" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(VP
+                  (PRT
+                    (FUT_PART س))
+                  (IV3MS+IV+IVSUFF_MOOD:I يجري)
+                  (NP-SBJ
+                    (NOUN+CASE_DEF_NOM استكمال)
+                    (NP
+                      (NOUN+CASE_DEF_GEN منع)
+                      (NP
+                        (NP
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN السموم))
+                          (NP
+                            (NOUN+CASE_DEF_GEN غير)
+                            (NP
+                              (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN مرئية))))
+                        (SBAR
+                          (WHNP-5
+                            (REL_PRON التي))
+                          (S
+                            (VP
+                              (IV3FS+IV+IVSUFF_MOOD:I تصدر)
+                              (NP-SBJ
+                                (-NONE- *T*-5))
+                              (PP
+                                (PREP من)
+                                (NP
+                                  (NP
+                                    (DET+NOUN+CASE_DEF_GEN الاصناف)
+                                    (DET+ADJ الاخرى))
+                                  (PP
+                                    (PREP من)
+                                    (NP
+                                      (DET+NOUN+CASE_DEF_GEN الوقود)
+                                      (CONJ و)
+                                      (DET+NOUN+CASE_DEF_GEN المصانع))))))))))))))</parse>
+<arg f="" g="It" n="1">-NONE- *T*-5&lt;السموم</arg>
+<arg f="" g="from the other types of fuel" n="2">من الاصناف الاخرى من الوقود</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset Sadar-u.04</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Sadar-u</comment>
+</verb>

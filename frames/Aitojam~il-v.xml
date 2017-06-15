@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitojam~il</id>
+<comment>EGYPTIAN ARABIC Framefile based on tajam~al-v</comment>
+<frameset cdef="" edef="take a side" id="01" vncls="">
+<role argnum="0" argrole="entity taking side" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>من عادته أن يتجمَّل * في الحديث إلى الزبائن</parse>
+<comment />
+<arg f="" g="he" n="0">* ه</arg>
+<arg f="" g="the customers" n="1" />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset tajam~al-v.01</comment>
+<role argnum="1" argrole="whos side" vncls="" vntheta="" />
+<role argnum="2" argrole="against who" vncls="" vntheta="" />
+</frameset>
+<frameset cdef="" edef="to adorn oneself,to put make up" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تجملت المرأة</parse>
+<comment />
+<arg f="" g="the woman" n="0">المرأة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset tajam~al-v.02</comment>
+</frameset>
+</verb>

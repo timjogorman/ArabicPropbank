@@ -1,0 +1,110 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fak~</id>
+
+    <frameset cdef="" edef="detach, unlash, loosen" id="01" vncls="">
+<role argnum="0" argrole="agent letting go" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity that is let go" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(SQ
+  (S
+    (PRT
+      (INTERROG_PART هل))
+    (VP
+      (PRT
+        (FUT_PART س))
+      (IV3MS+IV+IVSUFF_MOOD:I يفك)
+      (NP-SBJ
+        (NOUN_PROP شارون))
+      (NP-OBJ
+        (NOUN+CASE_DEF_ACC أسر)
+        (NP
+          (POSS_PRON_3MS ه)))))
+  (CONJ و)
+  (S
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يعود)
+      (NP-SBJ
+        (-NONE- *))
+      (PP-CLR
+        (PREP الى)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN التفاوض))
+          (NP-ADV
+            (NOUN+CASE_DEF_ACC مع)
+            (NP
+              (PRON_3MS ه)))))))
+  (PUNC ?))</parse>
+<arg f="" g="will" n="m">س</arg>
+<arg f="" g="Sharon" n="0">شارون</arg>
+<arg f="" g="his incarceration" n="1">أسره</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what or source" vncls="" vntheta=""/>
+
+
+<comment>Based on roleset fak~-u.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to read or understand, to solve" id="02" vncls="">
+<role argnum="0" argrole="entity reading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا بأحاول أفك * الخط</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="the writing" n="1">الخط</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things read" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to change money into small currency" id="03" vncls="">
+<role argnum="0" argrole="changer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا عاوز أفك * الدولار ده لرباع</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="this dollar" n="1">الدولار ده</arg>
+<arg f="" g="into quarters" n="2">لرباع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="money changed" vncls="" vntheta=""/>
+<role argnum="2" argrole="into what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on fak~-u</comment>
+</verb>

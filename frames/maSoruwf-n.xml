@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maSoruwf</id>
+<comment/>
+<frameset cdef="" edef="spent , disbursed" id="01" vncls="">
+<role argnum="0" argrole="entity spending" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذ1 المبلغ مصروف * لشراء الكتب من قبل المدرسة</parse>
+<comment/>
+<arg f="" g="this money" n="1">* هذ1 المبلغ</arg>
+<arg f="" g="for bying books" n="2">لشراء الكتب</arg>
+<arg f="" g="by the school" n="0">من قبل المدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing spent" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="dismissed or discharged" id="02" vncls="">
+<role argnum="0" argrole="company" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو مصروف * من الخدمة في المحل من اليوم</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="from the service in the store" n="2">من الخدمة في المحل</arg>
+<arg f="tmp" g="starting today" n="m">من اليوم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="workers" vncls="" vntheta=""/>
+<role argnum="2" argrole="laid off from" vncls="" vntheta=""/>
+</frameset>
+</verb>

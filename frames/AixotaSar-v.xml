@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AixotaSar</id>
+<comment>EGYPTIAN ARABIC based on {ixotaSar</comment>
+    <frameset cdef="" edef="To shorten , abbreviate, make shorter" id="01" vncls="">
+<role argnum="0" argrole="causal agent" vncls="" vntheta="" />
+<role argnum="1" argrole="thing becoming shorter" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (ADVP
+    (ADV هكذا))
+  (PUNC ,)
+  (VP
+    (PV+PVSUFF_SUBJ:3FS اختصرت)
+    (NP-SBJ
+      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM المدينة)
+      (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM الرياضية))
+    (NP-OBJ
+      (DET+NOUN+CASE_DEF_ACC الزمن))
+    (NP-TMP
+      (NOUN+CASE_INDEF_ACC مجددا)))
+  (PUNC .))</parse>
+<arg f="" g="The sports city" n="0">المدينة الرياضية</arg>
+<arg f="" g="The time" n="1">الزمن</arg>
+<arg f="tmp" g="One more time" n="m">مجددا</arg>
+<arg f="mnr" g="like that" n="m">هكذا</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset {ixotaSar.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to narrow (includes narrow something down to)" id="02" vncls="">
+<role argnum="0" argrole="agent/narrower" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>اختصر الرجل الموضوع كله في جملتين</parse>
+
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the whole subject" n="1">الموضوع كله</arg>
+<arg f="" g="in two sentences" n="2">في جملتين</arg>
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="thing getting narrowed" vncls="" vntheta="" />
+<role argnum="2" argrole="EXT, amount narrowed down" vncls="" vntheta="" />
+<role argnum="3" argrole="start point" vncls="" vntheta="" />
+<role argnum="4" argrole="end point" vncls="" vntheta="" />
+<comment>Based on roleset {ixotaSar.02</comment>
+</frameset>
+</verb>

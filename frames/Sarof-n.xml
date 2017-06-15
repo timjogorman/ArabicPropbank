@@ -1,22 +1,46 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Sarof</id>
-    <comment/>
-    <frameset cdef="" edef="deflation" id="01">
-        <role argnum="1" argrole="liquid"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>المية بتاعة الصرف * الصحى بتخر</parse>
-                <comment/>
-                <arg f="" g="it" n="1">*</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment>Eg</comment>
-        <role argnum="1" argrole="start point"/>
-        <role argnum="2" argrole="end point"/>
-    </frameset>
+<id>Sarof</id>
+
+<frameset cdef="" edef="deflation" id="01" vncls="">
+<role argnum="1" argrole="liquid" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>المية بتاعة الصرف * الصحى بتخر</parse>
+
+<arg f="" g="it" n="1">*</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+<comment>Eg</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="not to speak of, not to think about" id="02" vncls="">
+<role argnum="0" argrole="entity ignoring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بصرف * النظر عن موضوع الدراسات</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? None</arg>
+<arg f="" g="looking" n="1">النظر</arg>
+<arg f="" g="the subject of the studies" n="2">عن موضوع الدراسات</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="attribute to ARG0 (Usualy النظر)" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
 </verb>

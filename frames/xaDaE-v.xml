@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaDaE</id>
+
+    <frameset cdef="" edef="to yield or submit" id="01" vncls="">
+<role argnum="0" argrole="thing yielding" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing yielded to" vncls="" vntheta=""/>
+<frame>
+
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS اوضح)
+    (NP-SBJ
+      (-NONE- *))
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (NP-TPC-1
+          (NOUN+CASE_DEF_ACC تنظيم)
+          (NP
+            (NP
+              (DEM_PRON_MS هذا))
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الاستفتاء))))
+        (VP
+          (PRT
+            (FUT_PART س))
+          (IV3MS+IV+IVSUFF_MOOD:I يخضع)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (PP-CLR
+            (PREP ل)
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN سلطة)
+              (NP
+                (NP
+                  (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN المنظمات)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاجتماعية)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الكوبية))
+                (CONJ لا)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الدولة)))))))))
+  (PUNC .))</parse>
+<arg f="" g="it" n="0">-NONE- *T*-1&lt;تنظيم هذا الاستفتاء</arg>
+<arg f="" g="To the authority of Cuban social organizations" n="1">لسلطة المنظمات الاجتماعية الكوبية</arg>
+<comment/>
+</example>
+<comment>استسلم</comment>
+</frame>
+<comment>Based on roleset xaDaE-a.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on xaDaE-a</comment>
+</verb>

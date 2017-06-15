@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inozaHal</id>
+
+<frameset cdef="" edef="to be displaed or put aside" id="01" vncls="">
+<role argnum="1" argrole="the displaced" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انزحل الوزير من منصبه</parse>
+
+<arg f="" g="the minister" n="1">الوزير</arg>
+<arg f="" g="from his position" n="2">من منصبه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

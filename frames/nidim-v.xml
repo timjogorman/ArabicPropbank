@@ -1,0 +1,17 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>nidim</id>
+<comment>EGYPTIAN ARABIC based on nadim-a</comment>
+    <frameset cdef="" edef="to regret" id="01">
+<role argnum="0" argrole="regretter" />
+<role argnum="1" argrole="acgtion - commonly marked by على" />
+<frame>
+<example>
+<parse>
+وليس للرئيس ولا للبلاد خيار آخر اقل كلفة وطنية 0 يمكن ان يحفظ **-1 ارضا 0 استباحتها **-2 اسرائيل, ذات زمن, تحت خيمة اميركية موصوفة 0 يفندها **-3 كتاب &quot; ملعون هو صانع السلام &quot; الذي تنشر فصولا منه **-4 &quot; النهار &quot; حاليا بلسان واحد من اهل العلم , و 0 يصون **-5 انسانا 0 زرعت فيه **-6 الحروب المحلية والاقليمية جيلا 0 &quot; يفعل **-7 &quot; ثم 0 يندم **-8 على ما فعل * **-9 بالوطن عن سابق تصور و تصميم
+</parse>
+<arg f="" g="-NONE- &lt; a generation" n="0">**-8 &lt; جيلا</arg>
+<arg f="" g="what they do to the nation with previous intention" n="1">ما فعل * **-9 بالوطن عن سابق تصور وتصميم</arg>
+</example>
+</frame>
+<comment>Based on roleset nadim-a.01</comment></frameset>
+</verb>

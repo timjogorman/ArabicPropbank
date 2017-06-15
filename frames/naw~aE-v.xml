@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naw~aE</id>
+<comment/>
+<frameset cdef="" edef="to diversify, to vary" id="01">
+<role argnum="0" argrole="entity making the choise"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نوع أخي التمارين لتقوية جسده</parse>
+<comment/>
+<arg f="" g="my brother" n="0">أخي</arg>
+<arg f="" g="the exercises" n="1">التمارين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what"/>
+</frameset>
+</verb>

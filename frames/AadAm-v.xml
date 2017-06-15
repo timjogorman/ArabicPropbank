@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AadAm</id>
+<comment/>
+<frameset cdef="" edef="to maintain, to keep up, to retain" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أدام الله عزك</parse>
+<comment/>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="your glory" n="1">عزك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things maintained" vncls="" vntheta=""/>
+</frameset>
+</verb>

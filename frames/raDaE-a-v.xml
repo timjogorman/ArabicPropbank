@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raDaE-a</id>
+<comment/>
+<frameset cdef="" edef="to suck (at the breast), to suckle, to learn knowledge" id="01" vncls="">
+<role argnum="0" argrole="entity sucking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رضع الطفل الحليب من ثدي أمه</parse>
+<comment/>
+<arg f="" g="the baby" n="0">الطفل</arg>
+<arg f="" g="the milk" n="1">الحليب</arg>
+<arg f="" g="from his mom's breast" n="2">من ثدي أمه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things sucked" vncls="" vntheta=""/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+</frameset>
+</verb>

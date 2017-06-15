@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taZal~am</id>
+<comment/>
+<frameset cdef="" edef="to complain of or about" id="01" vncls="">
+<role argnum="0" argrole="entity complaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تظلم الرجل لدى الشرطة لضربه بدون سبب</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to the police" n="2">لدى الشرطة</arg>
+<arg f="" g="for beating him for no reason" n="1">لضربه بدون سبب</arg>
+</example>
+<comment/>
+</frame>
+<comment>شكا</comment>
+<role argnum="1" argrole="about" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

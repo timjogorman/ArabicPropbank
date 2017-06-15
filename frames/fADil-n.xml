@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fADil</id>
+<comment/>
+<frameset cdef="" edef="left over, remaining" id="01" vncls="">
+<role argnum="1" argrole="things remaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو ده اللي فاضل * من الفلوس</parse>
+<comment/>
+<arg f="" g="this is" n="1">* هو ده</arg>
+<arg f="" g="from the money" n="2">من الفلوس</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

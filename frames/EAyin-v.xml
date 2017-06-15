@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAyin</id>
+<comment/>
+<frameset cdef="" edef="look at, examine, inspect, scrutinize" id="01" vncls="">
+<role argnum="0" argrole="he viewer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا نازل أعاين * البيت قبل ما أشتريه</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="tmp" g="before I buy it" n="m">قبل ما أشتريه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="the thing viewed" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofarav</id>
+
+<frameset cdef="" edef="to be fragmented or scattered" id="01" vncls="">
+<role argnum="1" argrole="entity fragmented" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انفرثت الصخرة بالمطرقة</parse>
+
+<arg f="" g="the rock" n="1">الصخرة</arg>
+<arg f="" g="the hammer" n="2">بالمطرقة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="how, instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,94 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laf~</id>
+
+    <frameset cdef="" edef="to spin, to go around, to search" id="02" vncls="">
+<role argnum="0" argrole="entity or thing spinning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>لف الرجل حول البناية</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="around the building" n="1">حول البناية</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="around what" vncls="" vntheta=""/>
+
+<comment>Based on roleset laf~-u.02</comment>
+</frameset>
+
+<frameset cdef="" edef="to wrap" id="03" vncls="">
+<role argnum="0" argrole="entity wraping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وِ)
+    (NP-ADV
+      (NOUN+CASE_INDEF_ACC فِعْلاً))
+    (NP-TPC-1
+      (NOUN_NUM 5)
+      (NP
+        (NOUN جِنِيه)))
+    (ADVP
+      (ADV دِلْوَقْتِي))
+    (VP
+      (PRT
+        (PROG_PART بِ))
+      (IV3P+IV+IVSUFF_SUBJ:P يِلِفُّوا)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP فِي)
+        (NP
+          (NP
+            (PRON_3FS ها))
+          (NP
+            (-NONE- *T*-1))))
+      (NP-OBJ
+        (NOUN سَجايِر)
+        (ADJ+NSUFF_FEM_SG مِعَمَّرَة))
+      (NP-ADV
+        (NOUN بَدَل)
+        (SBAR
+          (SUB_CONJ ما)
+          (S
+            (VP
+              (IV3P+IV+IVSUFF_SUBJ:P يِشْتِرُوا)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NOUN وَرَق)
+                (NP
+                  (NOUN+NSUFF_FEM_SG بَفْرَة))))))))))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="in it" n="2">فِي ها</arg>
+<arg f="" g="cigarette" n="1">سَجايِر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things wrapped" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on laf~-u</comment>
+</verb>

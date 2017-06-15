@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jalojal</id>
+<comment/>
+<frameset cdef="" edef="to rattle, to clank, to jingle" id="01" vncls="">
+<role argnum="1" argrole="entity ringing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جلجل الرعد في السماء</parse>
+<comment/>
+<arg f="" g="the thunder" n="1">الرعد</arg>
+<arg f="loc" g="in the sky" n="m">في السماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

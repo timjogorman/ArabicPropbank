@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoHar~aY</id>
+<comment/>
+<frameset cdef="" edef="to investigate, to explore, to examine" id="01" vncls="">
+<role argnum="0" argrole="entity examining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البوليس بيتحرى * في القضية</parse>
+<comment/>
+<arg f="" g="the police" n="0">* البوليس</arg>
+<arg f="" g="in the case" n="1">في القضية</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="things examined" vncls="" vntheta=""/>
+</frameset>
+</verb>

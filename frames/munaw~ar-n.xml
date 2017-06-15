@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munaw~ar</id>
+<comment/>
+<frameset cdef="" edef="lighted or lit" id="01" vncls="">
+<role argnum="1" argrole="entity shining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البيت منور * بأهله</parse>
+<comment/>
+<arg f="" g="the house" n="1">* البيت</arg>
+<arg f="cau" g="by his people" n="m">بأهله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

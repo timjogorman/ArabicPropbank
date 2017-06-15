@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>talAHam</id>
+<comment/>
+<frameset cdef="" edef="To cohere, to join, to heal" id="01" vncls="">
+<role argnum="1" argrole="entity joining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلاحم العظم المكسور</parse>
+<comment/>
+<arg f="" g="the broken bone" n="1">العظم المكسور</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="To clash, to encounter (in battle), to combat" id="02" vncls="">
+<role argnum="0" argrole="entity encountering something" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلاحم الجيش العراقي مع الايراني لمدة 8 سنوات</parse>
+<comment/>
+<arg f="" g="the Iraqi Army" n="0">الجيش العراقي</arg>
+<arg f="" g="with the Iranian" n="1">مع الايراني</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity encountered" vncls="" vntheta=""/>
+</frameset>
+</verb>

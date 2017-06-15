@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosatar</id>
+
+<frameset cdef="" edef="to be covered" id="01" vncls="">
+<role argnum="0" argrole="coverer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انستر جسم الرضيع بالقماش  من البرد</parse>
+
+<arg f="" g="the baby's body" n="1">جسم الرضيع</arg>
+<arg f="" g="with clothes" n="2">بالقماش</arg>
+<arg f="" g="from the cold" n="3">من البرد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing covered" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument, covered by" vncls="" vntheta=""/>
+<role argnum="3" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

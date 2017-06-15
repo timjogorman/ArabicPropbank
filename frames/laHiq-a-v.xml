@@ -1,39 +1,129 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>laHiq-a</id>
-    <frameset cdef="" edef="to follow" id="01">
-        <role argnum="0" argrole="thing following, coming after"/>
-        <role argnum="1" argrole="thing followed, coming before"/>
-        <frame>
-            <example>
-                <parse>
-                    (NP
-                    (NOUN+CASE_INDEF_GEN شرح))
-                    (PP
-                    (PREP من)
-                    (NP
-                    (DET+NOUN الاهالي)))
-                    (PP
-                    (PREP عن)
-                    (NP
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الاضرار))
-                    (SBAR
-                    (WHNP-1
-                    (REL_PRON التي))
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS لحقت)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (PP-CLR
-                    (PREP ب)
-                    (NP
-                    (PRON_3MP هم))))))))))))
-                </parse>
-                <arg f="" g="it" n="0">-NONE- *T*-1&amp;lt;الاضرار</arg>
-                <arg f="" g="with him" n="1">بهم</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>laHiq-a</id>
+<frameset cdef="" edef="to follow" id="01" vncls="">
+<role argnum="0" argrole="thing following, coming after" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing followed, coming before" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>هنالك شخص يلحق*-1  بي</parse>
+<arg f="" g="-NONE- &gt; person" n="0">T-1 &gt; شخص</arg>
+<arg f="" g="with me" n="1">بي</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to cause or effect ((multi word expression)" id="02" vncls="">
+<role argnum="1" argrole="things happening (usually negative)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>شاهدوا الدمار الذي لحق *  بالمبنى من خلال الصور</parse>
+
+<arg f="" g="destruction" n="1">* الدمار</arg>
+<arg f="" g="with the building" n="2">بالمبنى</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="to whom or to what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="Hurry" id="03" vncls="">
+<role argnum="0" argrole="agent / entity hurrying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الحقي * خلّصي * قبل العيال ما ييجوا</parse>
+
+<arg f="" g="(you)" n="0">*</arg>
+<arg f="" g="خلّصي *" n="1">finish</arg>
+<arg f="tmp" g="before the kids come" n="m">قبل العيال ما ييجوا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to do" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to help" id="04" vncls="">
+<role argnum="0" argrole="helper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(VP
+        (IV3FS+IV تِبقا)
+        (NP-SBJ
+          (-NONE- *))
+        (UCP-PRD
+          (NP
+            (NOUN بِنْت)
+            (NP
+              (NOUN كَلْب)))
+          (CONJ وِ)
+          (ADJP
+            (ADJ+NSUFF_FEM_SG ظالمَة)))))
+    (CONJ وِ)
+    (S
+      (VP
+        (CV+CVSUFF_SUBJ:2P اِلْحَقُوا)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (CVSUFF_DO:1P نا))
+        (NP-VOC
+          (PRT
+            (VOC_PART يَا))
+          (NOUN عالَم))))
+    (S
+      (NP-TPC-2
+        (DET+NOUN+NSUFF_FEM_SG الشُرْطَة))
+      (VP
+        (PRT
+          (PROG_PART بِ))
+        (IV3FS+IV تِقتِل)
+        (NP-SBJ
+          (-NONE- *T*-2))
+        (PP
+          (PREP فِي)
+          (NP
+            (PRON_1P نا)))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="we" n="1">نا</arg>
+<arg f="dis" g="somebody" n="m">يَا عالَم</arg>
+</example>
+<comment>ARZ</comment>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="helped" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
 </verb>

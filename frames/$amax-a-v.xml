@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$amax-a</id>
+
+<frameset cdef="" edef="rose high" id="01" vncls="">
+<role argnum="1" argrole="entity rising" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>واشمخـوا كمـا شمـخ جبــل سنجــــار</parse>
+
+<arg f="" g="the Singar mountain" n="1">جبــل سنجــــار</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>علا وارتفع</comment>
+<role argnum="2" argrole="above what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="strut" id="02" vncls="">
+<role argnum="1" argrole="entity proud" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>كان القاربُ يتهادى مختالاً فوق البحر الواسع وما لبث أنْ شمخ * بأنفه وقال:‏ ما أعظمني قارباً أمتطي البحرَ الكبير</parse>
+
+<arg f="" g="it" n="1">-NONE- * القاربُ</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>تعاظم، ارتفع كِبْرًا وغطرسةً/ شمخ بأنفه</comment>
+</frameset>
+
+<comment/>
+</verb>

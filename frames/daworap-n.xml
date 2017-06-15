@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daworap</id>
+<comment/>
+<frameset cdef="" edef="turn , circuit, circulation" id="01" vncls="">
+<role argnum="0" argrole="entity going around" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام اللاعب بدورة * حول الملعب</parse>
+<comment/>
+<arg f="" g="the player" n="0">اللاعب</arg>
+<arg f="" g="around the field" n="1">حول الملعب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="around what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="period" id="02" vncls="">
+<role argnum="1" argrole="things in the period of time],vm hgpdhm" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دورة حياة الفراشة قصيرة</parse>
+<comment/>
+<arg f="" g="the lify of a butterfly" n="1">حياة الفراشة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,29 +1,36 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>nasaj-ui</id>
-    <frameset cdef="" edef="to create or make happen" id="01">
-        <role argnum="0" argrole="creator"/>
-        <role argnum="1" argrole="thing created"/>
-        <frame>
-            <example>
-                <parse>
-                    نسجت زاهية لنفسها رؤية متكاملة للقضية
-                </parse>
-                <arg f="" g="Zaahiya" n="0">زاهية</arg>
-                <arg f="gol" g="for herself" n="m">لنفسها</arg>
-                <arg f="" g="a complete image of the issue" n="1">رؤية متكاملة للقضية</arg>
-            </example>
-        </frame>
-    </frameset>
-    <frameset cdef="" edef="to weave" id="02">
-        <role argnum="0" argrole="weaver"/>
-        <role argnum="1" argrole="thing woven"/>
-        <frame>
-            <example>
-                <parse>
-                </parse>
-                <arg f="" g="" n="">...</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>nasaj-ui</id>
+<frameset cdef="" edef="to create or make happen" id="01" vncls="">
+<role argnum="0" argrole="creator" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing created" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>نسجت زاهية لنفسها رؤية متكاملة للقضية</parse>
+<arg f="" g="Zaahiya" n="0">زاهية</arg>
+<arg f="gol" g="for herself" n="m">لنفسها</arg>
+<arg f="" g="a complete image of the issue" n="1">رؤية متكاملة للقضية</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to weave" id="02" vncls="">
+<role argnum="0" argrole="weaver" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing woven" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>نسجت أمي القميص من خيوط قديمة</parse>
+<arg f="" g="my mother" n="0">أمي</arg>
+<comment/>
+<arg f="" g="my shirt" n="1">القميص</arg>
+<arg f="" g="from old strings" n="2">من خيوط قديمة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
 </verb>

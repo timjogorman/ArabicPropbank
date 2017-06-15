@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inomalax</id>
+
+<frameset cdef="" edef="to be removed or extracted" id="01" vncls="">
+<role argnum="1" argrole="the removed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انملخ الفيروس من الجسم</parse>
+
+<arg f="" g="the virus" n="1">الفيروس</arg>
+<arg f="" g="from the body" n="2">من الجسم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaliyqap</id>
+<comment/>
+<frameset cdef="" edef="creatures, creation" id="01" vncls="">
+<role argnum="0" argrole="creator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كل الكائنات هي خليقة الله</parse>
+<comment/>
+<arg f="" g="the whole creation" n="1">* كل الكائنات هي</arg>
+<arg f="" g="God" n="0">الله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity created" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="purpose" vncls="" vntheta=""/>
+<role argnum="4" argrole="attribute of ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoHal~</id>
+
+    <frameset cdef="" edef="to be dissolve, to be broken up" id="01" vncls="">
+<role argnum="1" argrole="thing dissolved" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لا لا لا لا مفيش خالص لإن ؛صقر ؛صقر ؛قريش اصلها إتحلت</parse>
+
+<arg f="" g="Saqr Quraish" n="1">صقر قريش</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Eg
+Based on roleset {itoHal~.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on {itoHal~</comment>
+<frameset cdef="" edef="to be solved" id="02" vncls="">
+<role argnum="0" argrole="entity solving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اتحلت * المشكلة</parse>
+<comment/>
+<arg f="" g="the problem" n="1">المشكلة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things solved" vncls="" vntheta=""/>
+</frameset>
+</verb>

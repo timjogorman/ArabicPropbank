@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaSiy</id>
+<comment/>
+<frameset cdef="" edef="to be or become far, to go far away" id="01" vncls="">
+<role argnum="1" argrole="entity far" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قصي الرجل عن دار أبيه</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="from his fathers house" n="2">عن دار أبيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

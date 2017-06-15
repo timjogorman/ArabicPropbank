@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>basaq-u</id>
+<comment/>
+<frameset cdef="" edef="to be hight, to be towering" id="01" vncls="">
+<role argnum="1" argrole="entity rising" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بسق النخل عاليا</parse>
+<comment/>
+<arg f="" g="the date palm" n="1">النخل</arg>
+<arg f="" g="high" n="2">عاليا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="above what, amount risen" vncls="" vntheta=""/>
+</frameset>
+</verb>

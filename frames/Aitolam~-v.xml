@@ -1,0 +1,119 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitolam~</id>
+
+<frameset cdef="" edef="to sit quite, to behave" id="01" vncls="">
+<role argnum="1" argrole="entity behaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>طلبنا منهم يتلموا * شوية</parse>
+
+<arg f="" g="them" n="0">* هم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="To assemble, to get together" id="02" vncls="">
+<role argnum="1" argrole="entity getting together" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+          (VP
+            (ADJ.VN+NSUFF_MASC_PL عايْزِين)
+            (NP-SBJ
+              (-NONE- *T*-2))
+            (SBAR
+              (-NONE- 0)
+              (S
+                (S
+                  (NP-TPC-4
+                    (DET+NOUN الشَعْب))
+                  (VP
+                    (IV3MS+IV يِتْلَمّ)
+                    (NP-SBJ
+                      (-NONE- *T*-4))
+                    (PP
+                      (PREP عَلَى)
+                      (NP
+                        (PRON_3P هُم)))))
+                (TYPO و)
+                (S
+                  (VP
+                    (NO_FUNC يعذب)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (NOUN_QUANT كُلّ)
+                      (NP
+                        (NOUN+NSUFF_FEM_SG شُرْطَة)))</parse>
+
+<arg f="" g="the people" n="1">*T* -4 الشَعْب</arg>
+<arg f="gol" g="on them" n="m">عليهم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to be collected" id="03" vncls="">
+<role argnum="0" argrole="entity collects something" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-TMP
+      (NOUN بَعْد)
+      (SBAR
+        (REL_PRON ما)
+        (S
+          (NP-TPC-2
+            (DET+NOUN+NSUFF_FEM_PL التَبَرُّعات))
+          (VP
+            (PV+PVSUFF_SUBJ:3FS إِتْلَمِّت)
+            (NP-SBJ-1
+              (-NONE- *T*-2))
+            (NP-OBJ
+              (-NONE- *-1))))))
+    (VP
+      (NO_FUNC يقولو)
+      (NP-SBJ
+        (-NONE- *))
+      (S
+        (NP-SBJ
+          (DEM_PRON_FS دِي))
+        (PP-PRD
+          (PREP مِن)
+          (NP
+            (NOUN ضِمْن)
+            (NP
+              (NOUN+NSUFF_FEM_SG ٱِتِّفاقِيَّة)
+              (NP
+                (DET+NOUN السَلام)))))))))</parse>
+<comment/>
+<arg f="" g="the contributions" n="1">*T* -2 التَبَرُّعات</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="thing collected" vncls="" vntheta=""/>
+<role argnum="2" argrole="Attribute for Arg1" vncls="" vntheta=""/>
+</frameset>
+</verb>

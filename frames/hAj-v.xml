@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>hAj</id>
+<frameset cdef="" edef="to move" id="01" vncls="">
+<role argnum="0" argrole="mover" vncls="" vntheta="" />
+<role argnum="1" argrole="moved" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS هاج)
+    (PP
+      (PREP في)
+      (NP
+        (PRON_1P نا)))
+    (NP-SBJ
+      (DET+NOUN المنى)
+      (CONJ و)
+      (DET+NOUN+CASE_DEF_NOM الذِكرْ))))</parse>
+<arg f="" g="Wishlist" n="0">المنى</arg>
+<arg f="" g="Within us" n="">فينا</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset hAj-i-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on hAj-i-v</comment>
+<frameset cdef="" edef="to be excited or igitated" id="02" vncls="">
+<role argnum="0" argrole="entity excited" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>هاج الناس على القتلة</parse>
+<comment />
+<arg f="" g="people" n="0">الناس</arg>
+<arg f="" g="the killers" n="1">القتلة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset hAj-i-v.02</comment>
+<role argnum="1" argrole="on whom" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitobalaE</id>
+<comment/>
+<frameset cdef="" edef="to be gulpped" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الفلوس اللي اتبلعت * من الناس الكبار</parse>
+<comment/>
+<arg f="" g="the money" n="1">* الفلوس</arg>
+<arg f="" g="by the high rank people" n="0">من الناس الكبار</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+</frameset>
+</verb>

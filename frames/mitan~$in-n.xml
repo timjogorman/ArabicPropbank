@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitan~$in</id>
+<comment/>
+<frameset cdef="" edef="to be under stress, annoyed" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا كنت متنشن * من اللي بيحصل</parse>
+<comment/>
+<arg f="" g="I" n="1">* انا</arg>
+<arg f="" g="from what is happening" n="0">من اللي بيحصل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim, entity under stress" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>jazaY</id>
+<comment>EGYPTIAN ARABIC based on jazaY-i</comment>
+    <frameset cdef="" edef="to reward, to repay" id="01">
+<role argnum="0" argrole="entity rewarding" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>جزى الله المؤمنين خير الجزاء</parse>
+<comment />
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="best reward" n="1">خير الجزاء</arg>
+<arg f="" g="believers" n="2">المؤمنين</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset jazaY-i.01</comment>
+<role argnum="1" argrole="with what" />
+<role argnum="2" argrole="entity rewarded" />
+<role argnum="3" argrole="for what" />
+</frameset>
+</verb>

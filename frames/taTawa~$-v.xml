@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taTawa~$</id>
+<comment/>
+<frameset cdef="" edef="to be laid on the ground" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تطوش الولد على الأرض من قبل أبيه</parse>
+<comment/>
+<arg f="" g="the boy" n="1">الولد</arg>
+<arg f="" g="on the floor" n="2">على الأرض</arg>
+<arg f="" g="by his father" n="0">من قبل أبيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

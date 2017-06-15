@@ -1,0 +1,17 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>qab~il</id>
+<comment>EGYPTIAN ARABIC based on qab~al</comment>
+    <frameset cdef="" edef="to kiss" id="01">
+<role argnum="0" argrole="kisser" />
+<role argnum="1" argrole="kissed" />
+<frame>
+<example>
+<parse>
+وانتقل السفير الفرنسي والوفد الى المدرسة الوطنية المارونية وكان في استقباله راعي ابرشية بعلبك ودير الاحمر للموارنة المطران بولس منجد الهاشم و افراد الهيئتين الادارية والتعليمية والطلاب , ورحبت طالبة بالوفد بالفرنسية , فصافحها لوكورتييه و قبل * ها
+</parse>
+<arg f="" g="-NONE- &lt; LeCourtier" n="0">* &lt; لوكورتييه</arg>
+<arg f="" g="her" n="1">ها</arg>
+</example>
+</frame>
+<comment>Based on roleset qab~al.01</comment></frameset>
+</verb>

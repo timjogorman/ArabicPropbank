@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tasal~iy</id>
+<comment/>
+<frameset cdef="" edef="amusement, entertainment" id="01" vncls="">
+<role argnum="0" argrole="entity having fun" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>من الأمور الغريبة تسلي بعض الناس بإزعاج الأخرين</parse>
+<comment/>
+<arg f="" g="some people" n="0">بعض الناس</arg>
+<arg f="" g="disturbing others" n="1">بإزعاج الأخرين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,75 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>sikin</id>
+<frameset cdef="" edef="To live or reside" id="01">
+<role argnum="0" argrole="entity residing" />
+<role argnum="1" argrole="location" />
+<frame>
+<example>
+<parse>(S
+  (S
+    (NP-TPC-1
+      (NOUN+CASE_DEF_NOM فرح)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الضوء)))
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يسكن)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC التربة))))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (NP-TPC-2
+      (DET+NOUN+CASE_DEF_NOM الفضاء))
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يلاحق)
+      (NP-SBJ
+        (-NONE- *T*-2))
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC حركة)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN السكون)))))
+  (PUNC .))</parse>
+<arg f="" g="It" n="0">-NONE- *T*-</arg>
+<arg f="" g="soil" n="1">التربة</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset sakan-u-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on sakan-u-v</comment>
+<frameset cdef="" edef="to calm down, to cool down, to rest" id="02">
+<role argnum="1" argrole="entity or things that are calmed" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>سكنت الريح اليوم صباحا</parse>
+<comment />
+<arg f="" g="the wind" n="1">الريح</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset sakan-u-v.02</comment>
+</frameset>
+<frameset cdef="" edef="to trust in, to rely on" id="03">
+<role argnum="0" argrole="entity trusting" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>سكن * اليه</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="to him" n="1">اليه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset sakan-u-v.03</comment>
+<role argnum="1" argrole="in whom or in what" />
+</frameset>
+</verb>

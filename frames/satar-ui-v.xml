@@ -1,23 +1,34 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>satar-ui</id>
-    <comment/>
-    <frameset cdef="" edef="to cover, screen" id="01">
-        <role argnum="0" argrole="coverer"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>فاستر عورات الناس يسترك الله</parse>
-                <comment/>
-                <arg f="" g="Allah" n="0">الله</arg>
-                <arg f="" g="you" n="1">ك</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="thing covered"/>
-        <role argnum="2" argrole="instrument, covered by"/>
-    </frameset>
+<id>satar-ui</id>
+
+<frameset cdef="" edef="to cover, screen, to hide" id="01" vncls="">
+<role argnum="0" argrole="coverer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فاستر عورات الناس يسترك الله</parse>
+
+<arg f="" g="Allah" n="0">الله</arg>
+<arg f="" g="you" n="1">ك</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing covered" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument, covered by" vncls="" vntheta=""/>
+
+<role argnum="3" argrole="from what, from whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

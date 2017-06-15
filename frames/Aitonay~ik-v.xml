@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitonay~ik</id>
+<comment/>
+<frameset cdef="" edef="commit adultery, fornicate" id="01" vncls="">
+<role argnum="0" argrole="entity cimmiting adultry" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يا راجل روح اتنيك * بعيد</parse>
+<comment/>
+<arg f="" g="man" n="0">راجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="second party" vncls="" vntheta=""/>
+</frameset>
+</verb>

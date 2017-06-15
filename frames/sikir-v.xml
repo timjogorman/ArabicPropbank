@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sikir</id>
+<comment/>
+<frameset cdef="" edef="get drunk" id="01" vncls="">
+<role argnum="0" argrole="liquid or onther (metaphorically) thing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل سكر * من الخمرة</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="" g="from the wine" n="0">من الخمرة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="intoxicated" vncls="" vntheta=""/>
+</frameset>
+</verb>

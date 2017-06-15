@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laEaj-a</id>
+<comment/>
+<frameset cdef="" edef="to pain, to hurt or burn" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لعج الحزن قلبه</parse>
+<comment/>
+<arg f="" g="the sadness" n="0">الحزن</arg>
+<arg f="" g="his heart" n="1">قلبه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,140 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>maDaY</id>
+<comment>EGYPTIAN ARABIC based on maDaY-i</comment>
+    <frameset cdef="" edef="to pass or go by (time)" id="02">
+<role argnum="1" argrole="thing passing along (usually time)" />
+<role argnum="2" argrole="event being timed" />
+<frame>
+<example>
+<parse>
+(S
+    (NP-SBJ
+      (NP
+        (NP
+          (NOUN+CASE_DEF_NOM اختفاء)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN المهندس)
+            (NOUN_PROP عيراني)))
+        (SBAR
+          (WHNP-1
+            (REL_PRON الذي))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS مضى)
+              (PP-CLR
+                (PREP علي)
+                (NP
+                  (NP
+                    (PRON_3MS ه))
+                  (NP
+                    (-NONE- *T*-1))))
+              (NP-SBJ
+                (NOUN+CASE_DEF_NOM نحو)
+                (NP
+                  (NOUN+CASE_INDEF_GEN أسبوع)))
+</parse>
+<arg f="" g="Nearly one week" n="1">نحو أسبوع</arg>
+<arg f="" g="at him" n="2">عليه</arg>
+</example>
+</frame>
+<comment>Based on roleset maDaY-i.02</comment></frameset>
+<frameset cdef="" edef="to sign" id="04">
+<role argnum="0" argrole="signer" />
+<role argnum="1" argrole="document - marked with على" />
+<frame>
+<example>
+<parse>
+(S
+      (VP
+        (PRT
+          (NEG_PART لا))
+        (IV2FP+IV+IVSUFF_SUBJ:FP تَمْضِيْنَ)
+        (NP-SBJ
+          (-NONE- *))
+        (PP-CLR
+          (PREP عَلَى)
+          (NP
+            (NOUN+CASE_DEF_GEN صُكُوكِ)
+            (NP
+              (NP
+                (NOUN+CASE_DEF_GEN بَيْعِ-)
+                (POSS_PRON_2FP -كُنَّ))))))
+   (PUNC .))
+</parse>
+<arg f="" g="all of you women" n="0">*</arg>
+<arg f="" g="on the bills of sale" n="1">عَلَى صُكُوكِ بَيْعِكُنَّ</arg>
+</example>
+</frame>
+<comment>Based on roleset maDaY-i.04</comment></frameset>
+<frameset cdef="" edef="to move, be directed towards, go" id="05">
+<role argnum="1" argrole="entity in motion" />
+<role argnum="2" argrole="extent, manner or direction" />
+<role argnum="3" argrole="start point" />
+<role argnum="4" argrole="end point" />
+<frame>
+<example>
+<parse>
+(S
+  (CONJ وَ-)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS -لَفَتَ)
+    (NP-SBJ
+      (-NONE- *))
+    (PP-CLR
+      (PREP إِلَى)
+      (SBAR
+        (SUB_CONJ أَنَّ-)
+        (S
+          (S
+            (NP-SBJ
+              (PRON_3MS -هُ))
+            (PUNC &quot;)
+            (NP-TMP-PRD
+              (PREP وَسْطَ)
+              (NP
+                (NOUN+CASE_DEF_GEN مَخاوِفِ)
+                (NP
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN الاِنْقِسامِ))
+                  (PP-LOC
+                    (PREP فِي)
+                    (NP
+                      (DET+NOUN_PROP+CASE_DEF_GEN البَلْقانِ)))))))
+          (PUNC ,)
+          (S
+            (NP-TPC-1
+              (PRON_1P نَحْنُ))
+            (VP
+              (IV1P+IV+IVSUFF_MOOD:I نَمْضِي)
+              (NP-SBJ-1
+                (-NONE- *T*))
+              (NP-ADV
+                (NOUN+CASE_INDEF_ACC قُدُماً))
+              (PP
+                (PREP نَحْوَ)
+                (NP
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN التَّوْحِيدِ))
+                  (CONJ وَ-)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN -السَلامِ))
+                  (CONJ وَ-)
+                  (NP
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN -الاِسْتِقْرارِ))
+                    (PP-LOC
+                      (PREP فِي)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المِنْطَقَةِ)
+                        (CONJ وَ-)
+                        (NOUN_PROP -أُورُوبّا))))))))))))
+  (PUNC &quot;)
+  (PUNC .))
+</parse>
+<arg f="" g="-NONE- &lt; we" n="1">*T* &lt; نَحْنُ</arg>
+<arg f="" g="forward" n="2">قُدُماً</arg>
+<arg f="" g="towards unity, peace and stability in the region with Europe" n="4">نَحْوَ التَّوْحِيدِ وَالسَلامِ وَالاِسْتِقْرارِ فِي المِنْطَقَةِ وَأُورُوبّا</arg>
+</example>
+</frame>
+<comment>Based on roleset maDaY-i.05</comment></frameset>
+</verb>

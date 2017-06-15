@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taxAdan</id>
+<comment/>
+<frameset cdef="" edef="to befriend, to love" id="01" vncls="">
+<role argnum="0" argrole="entity loving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وفي عام 1800 م: كانت المرأة الغربية محتشمة وقورة الى درجة كبيرة, لبقايا تشريعية نقية من خلال الكنائس, وكانت تخادن *  زوجها وفي عام 1900 م, تحررت</parse>
+<comment/>
+<arg f="" g="the westren woman" n="0">* المرأة الغربية</arg>
+<arg f="" g="her husband" n="">زوجها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity loved" vncls="" vntheta=""/>
+</frameset>
+</verb>

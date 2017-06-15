@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>migam~aD</id>
+<comment/>
+<frameset cdef="" edef="to shut or close (usually with eye)" id="01" vncls="">
+<role argnum="0" argrole="person doing the closing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>راح الراجل مغمض * عينيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his eyes" n="1">عينيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing closing (usually hte eye)" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to disregard or overlook" id="02" vncls="">
+<role argnum="0" argrole="person doing the closing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الحكومة مغمضة * عينيها عن اللي بيحصل</parse>
+<comment/>
+<arg f="" g="the government" n="0">* الحكومة</arg>
+<arg f="" g="it's eyes" n="1">عينيها</arg>
+<arg f="" g="from what is happening" n="2">عن اللي بيحصل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="eyes (usually عيون)" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what (usually marked by عن)" vncls="" vntheta=""/>
+</frameset>
+</verb>

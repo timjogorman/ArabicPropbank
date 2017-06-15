@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqabaD</id>
+
+<frameset cdef="" edef="to be received" id="01" vncls="">
+<role argnum="1" argrole="entity getting paid" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقبضت الأجرة من المستخدم</parse>
+
+<arg f="" g="paycheck" n="2">الأجرة</arg>
+<arg f="" g="from the employer" n="3">من المستخدم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="wages" vncls="" vntheta=""/>
+<role argnum="3" argrole="from whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to get arrested (comes with على)" id="02" vncls="">
+<role argnum="0" argrole="agent doing the arrest" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقبض على اللص</parse>
+
+<arg f="" g="the robber" n="1">على اللص</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity arrested" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="reason" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AinobasaT</id>
+<comment>EGYPTIAN ARABIC based on {inobasaT</comment>
+    <frameset cdef="" edef="to be happy or glad" id="02">
+<role argnum="0" argrole="entity being glad" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>انبسط سامي منه</parse>
+<comment />
+<arg f="" g="Sami" n="0">سامي</arg>
+<arg f="" g="from him" n="1">منه</arg>
+</example>
+<comment />
+</frame>
+<comment>فرِح
+Based on roleset {inobasaT.02</comment>
+<role argnum="1" argrole="from what" />
+</frameset>
+</verb>

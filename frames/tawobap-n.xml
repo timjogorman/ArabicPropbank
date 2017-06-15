@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tawobap</id>
+<comment/>
+<frameset cdef="" edef="repentance" id="01" vncls="">
+<role argnum="0" argrole="entity repenting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أعلن الرجل عن توبته الى الله عن شرب الخمرة</parse>
+<comment/>
+<arg f="" g="he" n="0">ه</arg>
+<arg f="" g="to God" n="1">الى الله</arg>
+<arg f="" g="from drinking liquor" n="2">عن شرب الخمرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

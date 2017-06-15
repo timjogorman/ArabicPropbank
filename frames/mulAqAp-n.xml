@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mulAqAp</id>
+<comment/>
+<frameset cdef="" edef="meeting, encounter" id="01" vncls="">
+<role argnum="0" argrole="entity meeting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرر الرجل ملاقاة * أخيه الساعة العاشرة</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="his brother" n="1">أخيه</arg>
+<arg f="tmp" g="at ten oclock" n="m">الساعة العاشرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity met" vncls="" vntheta=""/>
+</frameset>
+</verb>

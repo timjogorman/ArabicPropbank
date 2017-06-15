@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IikAlap</id>
+<comment/>
+<frameset cdef="" edef="to heap abuse" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وقاموا بإكالة * الشتائم لها بسبب عملها</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="insults" n="1">الشتائم</arg>
+<arg f="" g="to her" n="2">لها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things said" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

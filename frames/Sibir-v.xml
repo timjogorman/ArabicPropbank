@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Sibir</id>
+<comment>EGYPTIAN ARABIC based on Sabar-i</comment>
+<frameset cdef="" edef="to be patient, to be forebearing, to refrain from, to jail or imprison" id="01">
+<role argnum="0" argrole="entity patient"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صبر الرجل على مشاكله</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="about his problems" n="1">على مشاكله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="about or for whom"/>
+</frameset>
+</verb>

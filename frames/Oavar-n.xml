@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oavar</id>
+<comment/>
+<frameset cdef="" edef="effect , influence" id="01" vncls="">
+<role argnum="0" argrole="Entity affecting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان أثر الحرب في المدينة خرابا شاملا</parse>
+<comment/>
+<arg f="" g="the war" n="0">الحرب</arg>
+<arg f="" g="in the city" n="1">في المدينة</arg>
+<arg f="" g="a whole destruction" n="2">خرابا شاملا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="Entity affected" vncls="" vntheta=""/>
+<role argnum="2" argrole="manner entity is affected Frame" vncls="" vntheta=""/>
+</frameset>
+</verb>

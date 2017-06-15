@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoki$Af</id>
+<comment/>
+<frameset cdef="" edef="being disclosed, coming out" id="01" vncls="">
+<role argnum="0" argrole="agent who says or discovers" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أدى انكشاف الأمور لهم عن موضوع البيت عن مشاكل كبيرة</parse>
+<comment/>
+<arg f="" g="the matter" n="1">الأمور</arg>
+<arg f="" g="to them" n="2">لهم</arg>
+<arg f="" g="about the house" n="2">عن موضوع البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing being disclosed or discovered. Usually an SBAR" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Saram-i</id>
+<comment/>
+<frameset cdef="" edef="to cut" id="01" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صرم الرجل الحبل</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the rope" n="1">الحبل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to spend time" id="02" vncls="">
+<role argnum="0" argrole="entity spending time" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صرم الرجل شهرا عند أخيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="one month" n="1">شهرا</arg>
+<arg f="" g="with his brother" n="2">عند أخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="time spent" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to desert or forsake" id="03" vncls="">
+<role argnum="0" argrole="entity deserting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صرم الرجل زوجته</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his wife" n="1">زوجته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity deserted" vncls="" vntheta=""/>
+</frameset>
+</verb>

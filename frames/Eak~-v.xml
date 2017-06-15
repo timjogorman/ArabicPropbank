@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eak~</id>
+
+    <frameset cdef="" edef="to mess" id="01" vncls="">
+<role argnum="0" argrole="messer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جايبين بقى مهندس هناك الناس اللى ساكنين جايبين مهندس استشارى و قاعدين يعكوا عك ازلى</parse>
+
+<arg f="" g="they" n="0">وا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="messed with" vncls="" vntheta=""/>
+<comment>Eg
+Based on roleset Eak~-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Eak~-u</comment>
+</verb>

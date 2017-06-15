@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Earak-u</id>
+<comment/>
+<frameset cdef="" edef="to massage, to rub down" id="01" vncls="">
+<role argnum="0" argrole="entity touching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عرك الرجل جلده بأصبعه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his skin" n="1">جلده</arg>
+<arg f="" g="with his finger" n="2">بأصبعه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity touched" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

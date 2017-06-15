@@ -1,0 +1,86 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muhad~id</id>
+
+<frameset cdef="" edef="threatening" id="01">
+<role argnum="0" argrole="threatening entity"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3FS شددت)
+      (NP-SBJ
+        (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_NOM السلطات)
+        (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM الصينية))
+      (NP-OBJ
+        (NP
+          (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_ACC الاجراءات)
+          (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_ACC الامنية))
+        (NP-ADV
+          (NOUN+CASE_DEF_ACC حول)
+          (NP
+            (NOUN مبنى)
+            (NP
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN السفارة)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاسبانية))
+              (SBAR
+                (WHNP-1
+                  (REL_PRON الذي))
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3MS اقتحم)
+                    (NP-OBJ
+                      (NP
+                        (PVSUFF_DO:3MS ه))
+                      (NP
+                        (-NONE- *T*-1)))
+                    (NP-SBJ-2
+                      (NOUN+NSUFF_MASC_PL_NOM_POSS طالبو)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN اللجوء)))
+                    (S-ADV
+                      (VP
+                        (ADJ.VN+NSUFF_MASC_PL_ACC مهددين)
+                        (NP-SBJ
+                          (-NONE- *-2))
+                        (PP-CLR
+                          (PREP ب)
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN الانتحار)))
+                        (SBAR-ADV
+                          (SUB_CONJ اذا)
+                          (S
+                            (VP
+                              (PV_PASS+PVSUFF_SUBJ:3MP اعيدوا)
+                              (NP-SBJ-3
+                                (-NONE- *))
+                              (NP-OBJ
+                                (-NONE- *-3))
+                              (PP-DIR
+                                (PREP الى)
+                                (NP
+                                  (NOUN+CASE_DEF_GEN بلاد)
+                                  (NP
+                                    (POSS_PRON_3MP هم)))))))))))))))))
+    (PUNC .)))</parse>
+
+<arg f="" g="they" n="0">-NONE- *-2 &gt; طالبو اللجوء</arg>
+<arg f="" g="to commit suicide" n="2">بالانتحار</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="threated entity"/>
+<role argnum="2" argrole="instrument (marked by بـ)"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

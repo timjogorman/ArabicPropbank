@@ -1,0 +1,111 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tam~</id>
+<comment>EGYPTIAN ARABIC based on tam~-i</comment>
+    <frameset cdef="" edef="To do/complete/happen/take place" id="01" vncls="">
+<role argnum="1" argrole="event happened/achieved/completed" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute of arg 1" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+              (VP
+                (IV3FS+IV+IVSUFF_MOOD:I تنسحب)
+                (NP-SBJ
+                  (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_NOM القوات)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM الاسرائيلية))
+                (PP-LOC
+                  (PP
+                    (PREP من)
+                    (NP
+                      (DET+NOUN_PROP+CASE_DEF_GEN الجولان)))
+                  (CONJ و)
+                  (PP
+                    (PREP من)
+                    (NP
+                      (NOUN+CASE_DEF_GEN مزارع)
+                      (NP
+                        (NOUN_PROP شبعا)))))
+                (ADVP
+                  (-NONE- *T*-2)))))
+          (CONJ و)
+          (SBAR
+            (WHADVP-3
+              (-NONE- 0))
+            (S
+              (VP
+                (IV3MS+IV+IVSUFF_MOOD:I يتم)
+                (NP-SBJ
+                  (NOUN+CASE_DEF_NOM تبادل)
+                  (NP
+                    (DET+NOUN الاسرى)
+                    (CONJ و)
+                    (DET+NOUN+NSUFF_MASC_PL_GEN المعتقلين)))
+                (NP-ADV
+                  (NOUN+CASE_DEF_ACC بين)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN الاطراف)
+                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الثلاثة)))
+                (ADVP
+                  (-NONE- *T*-3)))))))))</parse>
+<arg f="" g="the exchange of prisoners and detainees" n="1">تبادل الأسرى و المعتقلين</arg>
+<arg f="" g="between the three parties" n="2">بين الأطراف الثلاثة</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>حدث / وقع: this is really an aspectually sensitive verb with valence decreasing properties.
+Based on roleset tam~-i.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to complete" id="02" vncls="">
+<role argnum="0" argrole="the doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>25:                   (S (VP (PV+PVSUFF_SUBJ:3MS تَمّ)   &lt;=========[REL]
+  26:                          (PP-TMP (PREP فِي)
+  27:                                  (NP (NOUN تَمام)
+  28:                                      (NP (NP (DET+NOUN+NSUFF_FEM_SG الساعَة)
+  29:                                              (DET+ADJ+NSUFF_FEM_SG الواحْدَة))
+  30:                                          (PP (PREP إِلّا)
+  31:                                              (NP (NOUN_NUM+NSUFF_FEM_SG عَشَرَة))))))
+  32:                          (NP-TMP (DET+NOUN اليَوم))
+  33:                          (NP-SBJ (NP (TYPO ملسمون))
+  34:                                  (ADJP (ADJ+NSUFF_MASC_PL_NOM مَجْهُولُونَ)
+  35:                                        (CONJ و)
+  36:                                        (ADJ+NSUFF_MASC_PL مُسَلَّحُون)))
+  37:                          (PP-CLR (PREP بِ)
+  38:                                  (NP (NOUN تَفْجِير)
+  39:                                      (NP (NP (NOUN خَطّ)
+  40:                                              (NP (DET+NOUN الغاز)))</parse>
+
+<arg f="tmp" g="at exactly ten to one" n="m">فِي تَمام الساعَة الواحْدَة إِلّا عَشَرَة</arg>
+<arg f="tmp" g="today" n="m">اليَوم</arg>
+
+
+<comment/>
+<arg f="" g="Unkown and armed Mulsims" n="0">ملسمون مَجْهُولُونَ ومُسَلَّحُون</arg>
+<arg f="" g="blowing up the gas lines" n="1">بِتَفْجِير خَطّ الغاز</arg>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing or actionbrought to completion" vncls="" vntheta=""/>
+
+
+<comment>Based on roleset Oatam~.01</comment>
+</frameset>
+
+
+</verb>

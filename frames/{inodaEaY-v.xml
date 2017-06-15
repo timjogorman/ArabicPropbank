@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodaEaY</id>
+
+<frameset cdef="" edef="to be called or named" id="01" vncls="">
+<role argnum="1" argrole="the named" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اندعت البنت مريم</parse>
+
+<arg f="" g="the girl" n="1">البنت</arg>
+<arg f="" g="meryam" n="2">مريم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="the name" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be invited" id="02" vncls="">
+<role argnum="1" argrole="the invited" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اندعت  مريم للحفل</parse>
+
+<arg f="" g="meryam" n="1">مريم</arg>
+<arg f="" g="to the party" n="2">للحفل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="the event or location" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

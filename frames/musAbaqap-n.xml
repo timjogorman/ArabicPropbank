@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>musAbaqap</id>
+<comment/>
+<frameset cdef="" edef="contest, competition" id="01" vncls="">
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كانت هناك مسابقة في الركض بين قريتنا والمدينة</parse>
+<comment/>
+<arg f="" g="in running" n="1">في الركض</arg>
+<arg f="" g="between our village" n="2">بين قريتنا</arg>
+<arg f="" g="and the city" n="3">والمدينة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="first entity" vncls="" vntheta=""/>
+<role argnum="3" argrole="second enttity if separated from ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

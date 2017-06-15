@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taOad~ab</id>
+<comment/>
+<frameset cdef="" edef="to be well mannered, to be refined or cultured" id="01">
+<role argnum="1" argrole="entity to be well mannered"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تأدب الرجل فكريا على يد أخيه الكبير</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="Intellectually" n="2">فكريا</arg>
+<arg f="" g="on the hand of his oldest brother" n="3">على يد أخيه الكبير</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what"/>
+<role argnum="3" argrole="throught what, with what"/>
+</frameset>
+</verb>

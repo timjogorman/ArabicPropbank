@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nazab</id>
+<comment/>
+<frameset cdef="" edef="to sound or make sound" id="01" vncls="">
+<role argnum="0" argrole="entity making the sound (mostly gazelle)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نزب الغزال</parse>
+<comment/>
+<arg f="" g="the gazelle" n="0">الغزال</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

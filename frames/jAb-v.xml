@@ -1,0 +1,584 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jAb</id>
+
+    <frameset cdef="" edef="to bring" id="01" vncls="">
+<role argnum="0" argrole="entity bringing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ده جاب * لي شوية حاجات تجنن من امريكا</parse>
+
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="to me" n="3">لي</arg>
+<arg f="" g="some beautiful things" n="1">شوية حاجات تجنن</arg>
+<arg f="" g="from America" n="2">من امريكا</arg>
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="bringing what" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<role argnum="3" argrole="to whom" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+<comment>ARZ
+Based on roleset jAb-i.01</comment>
+</frameset>
+<frameset cdef="" edef="to earn" id="02" vncls="">
+<role argnum="0" argrole="earner" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (IV3MS+IV يَعْنِي)
+      (NP-SBJ
+        (-NONE- *))))
+  (NP
+    (NP
+      (NOUN راجِل))
+    (SBAR
+      (SBAR
+        (WHNP-1
+          (-NONE- 0))
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS تِعِب)
+            (NP-SBJ
+              (-NONE- *T*-1)))))
+      (CONJ وِ)
+      (SBAR
+        (WHNP-3
+          (-NONE- 0))
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS شِقِي)
+            (NP-SBJ
+              (-NONE- *T*-3)))))
+      (CONJ وِ)
+      (SBAR
+        (WHNP-5
+          (-NONE- 0))
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS عَمَل)
+            (NP-SBJ
+              (-NONE- *T*-5))
+            (NP-OBJ
+              (NP
+                (NOUN بَيت)
+                (ADJ كَبِير))
+              (SBAR
+                (-NONE- *ICH*-7)))
+            (PP
+              (PREP لِ)
+              (NP
+                (NOUN عِيالِ)
+                (NP
+                  (POSS_PRON_3MS ُه))))
+            (SBAR-7
+              (WHNP-8
+                (-NONE- 0))
+              (S
+                (VP
+                  (PV+PVSUFF_SUBJ:3MS جاب)
+                  (NP-SBJ
+                    (-NONE- *T*-8))
+                  (NP-OBJ
+                    (ADJ_NUM 2)
+                    (NP
+                      (NOUN_NUM مِلْيَوْن)))
+                  (NP-ADV
+                    (NOUN+CASE_INDEF_ACC مَثَلاً)))))))))))</parse>
+
+<arg f="" g="-none- &gt; a man" n="0">* &gt; راجِل</arg>
+<arg f="" g="2 million" n="1">2 مِلْيَوْن</arg>
+<arg f="adv" g="for example" n="m">مَثَلاً</arg>
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="earnings" vncls="" vntheta=""/>
+<role argnum="2" argrole="job" vncls="" vntheta=""/>
+
+
+
+
+
+
+<comment>ARZ
+Based on roleset jAb-i.02</comment>
+</frameset>
+
+<frameset cdef="" edef="to start (multi word expression)" id="03" vncls="">
+<role argnum="0" argrole="entity starting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ده هو جاب * الموضوع من الاخر</parse>
+
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="the subject" n="1">الموضوع</arg>
+<arg f="" g="from the end" n="2">من الاخر</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing started" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+
+
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to aim at, to hit a target (multi word expression), to cause" id="04" vncls="">
+<role argnum="0" argrole="entity hitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(-NONE- 0)
+                  (S
+                    (VP
+                      (PRT
+                        (NEG_PART ما))
+                      (IV3MS+IV يُقْصُد)
+                      (NP-SBJ
+                        (-NONE- *))
+                      (PRT
+                        (NEG_PART ش))
+                      (SBAR
+                        (SUB_CONJ إِنّ)
+                        (S
+                          (NP-TPC-5
+                            (PRON_3MS ُه))
+                          (VP
+                            (IV3MS+IV يِجِيب)
+                            (NP-SBJ
+                              (-NONE- *T*-5))
+                            (NP-OBJ
+                              (IVSUFF_DO:3FS ها))
+                            (PP
+                              (PREP فِي)
+                              (NP
+                                (NOUN عَين)
+                                (NP
+                                  (POSS_PRON_3MS ُه))))))))))))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="it" n="2">ها</arg>
+<arg f="" g="in his eye" n="1">في عينه</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+
+
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to show (multi word expression)" id="05" vncls="">
+<role argnum="0" argrole="entiity showing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>التلفزيون بيجيب * الاعلان عن الحليب كل يوم</parse>
+
+<arg f="" g="TV" n="0">* التلفزيون</arg>
+<arg f="" g="advertisment" n="">الاعلان</arg>
+<arg f="" g="about the milk" n="">عن الحليب</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things showed" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="about what" vncls="" vntheta=""/>
+
+
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to reach (multi word expression), to be worth it (multi word expression)" id="06" vncls="">
+<role argnum="1" argrole="entity reaching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>صوتها بيجيب * أخر الشارع</parse>
+
+<arg f="" g="her voice" n="1">* صوتها</arg>
+<arg f="" g="the end of the street" n="2">أخر الشارع</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="reaching what, end point" vncls="" vntheta=""/>
+
+
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to buy (multi word expression)" id="07" vncls="">
+<role argnum="0" argrole="entity buying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أخويا جاب * سيارة من صاحبه ببلاش</parse>
+
+<arg f="" g="my brother" n="0">* أخويا</arg>
+<arg f="" g="car" n="1">سيارة</arg>
+<arg f="" g="from his friend" n="2">من صاحبه</arg>
+<arg f="" g="cheap" n="3">ببلاش</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="good" vncls="" vntheta=""/>
+<role argnum="2" argrole="seller" vncls="" vntheta=""/>
+<role argnum="3" argrole="price" vncls="" vntheta=""/>
+
+
+
+
+
+<comment/>
+</frameset>
+
+
+<frameset cdef="" edef="to mention, talk about (multi word expression)" id="08" vncls="">
+<role argnum="0" argrole="entity talking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الست قاعدة تجيب * في سيرة الناس</parse>
+
+<arg f="" g="the woman" n="0">* الست</arg>
+<arg f="" g="in peoples life" n="1">في سيرة الناس</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity talked about" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to compare" id="09" vncls="">
+<role argnum="0" argrole="entity comparing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ايش جاب * مبارك للملك</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="Mubarak" n="1">مبارك</arg>
+<arg f="" g="to the king" n="2">للملك</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="first thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="second thing" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to give birth (multi word expression)" id="10" vncls="">
+<role argnum="0" argrole="entity giving birth" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>دي جابت * بنت امورة</parse>
+
+<arg f="" g="she" n="0">* دي</arg>
+<arg f="" g="a cute girl" n="1">بنت امورة</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+
+
+
+<comment/>
+</frameset>
+
+
+
+<frameset cdef="" edef="to fool or trick, to drag someone into doing things (multi word expression)" id="010" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ده هو اللي جاب * رجلها في الموضوع ده</parse>
+
+<arg f="" g="him" n="0">* هو</arg>
+<arg f="" g="her" n="1">رجلها</arg>
+<arg f="" g="in this subject" n="2">في الموضوع ده</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="to humiliate" id="011" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ده أنا جبت * ك أرض</parse>
+
+<arg f="" g="I" n="">* أنا</arg>
+<arg f="" g="you" n="">ك</arg>
+<arg f="" g="to the ground" n="">أرض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="atribute to ARG1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on jAb-i</comment>
+<frameset cdef="" edef="to kill (multi word expression)" id="012" vncls="">
+<role argnum="0" argrole="killer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده الراجل كان حيجيب * أجلي</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="my death" n="1">أجلي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

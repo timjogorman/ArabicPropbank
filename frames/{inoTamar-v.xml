@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoTamar</id>
+
+<frameset cdef="" edef="to be covered with something (usually with soil)" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>انطمرت الجثة بالتراب</parse>
+
+<arg f="" g="the cadaver" n="1">الجثة</arg>
+<arg f="" g="with soil" n="2">بالتراب</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity covered" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+
+<comment/>
+</verb>

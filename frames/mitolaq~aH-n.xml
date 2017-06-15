@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitolaq~aH</id>
+<comment/>
+<frameset cdef="" edef="to be thrown aside" id="01" vncls="">
+<role argnum="1" argrole="things thrown aside" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لقيت الواد متلقح * على الأرض من السكر</parse>
+<comment/>
+<arg f="" g="the boy" n="1">* الواد</arg>
+<arg f="" g="on the floor" n="2">على الأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+<role argnum="3" argrole="by whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

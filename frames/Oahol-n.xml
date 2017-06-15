@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oahol</id>
+<comment/>
+<frameset cdef="" edef="family, parents" id="01" vncls="">
+<role argnum="1" argrole="the family" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم زي أهل * ه في كل حاجة</parse>
+<comment/>
+<arg f="" g="they" n="1">* هم</arg>
+<arg f="" g="him" n="2">ه</arg>
+<arg f="" g="in everything" n="3">في كل حاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="of whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

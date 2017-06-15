@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nakaS-u</id>
+<comment/>
+<frameset cdef="" edef="to recoil, to draw back, to refrain from" id="01" vncls="">
+<role argnum="0" argrole="entity refraining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نكص العدو على عقبيه</parse>
+<comment/>
+<arg f="" g="the enemy" n="0">العدو</arg>
+<arg f="" g="backward" n="1">على عقبيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

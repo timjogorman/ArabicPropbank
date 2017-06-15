@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAriy</id>
+<comment/>
+<frameset cdef="" edef="naked" id="01" vncls="">
+<role argnum="1" argrole="entity naked" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (NP-SBJ
+      (NP
+        (DET+NOUN المُهِمّ))
+      (NP
+        (PRON_3MS هُوَّ)))
+    (NP-PRD
+      (NOUN شَرَف)
+      (NP
+        (NP
+          (NOUN+NSUFF_FEM_SG فَتاَة)
+          (NP-TTL
+            (NP
+              (NOUN_NUM 6))
+            (NP-TMP
+              (NOUN_PROP إِبْرِيل))))
+        (SBAR
+          (WHNP-1
+            (REL_PRON الَّتِي))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3FS تَعَمَّدِت)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (DET+NOUN النُزُول))
+              (PP-DIR
+                (PREP لِ)
+                (NP
+                  (DET+NOUN الشارِع)))
+              (S-ADV
+                (VP
+                  (ADJ.VN+NSUFF_FEM_SG عارِيَة)
+                  (NP-SBJ</parse>
+<comment/>
+<arg f="" g="girl" n="1">* -1 فَتاَة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

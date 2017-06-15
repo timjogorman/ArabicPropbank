@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Eaw~ar</id>
+<comment>EGYPTIAN ARABIC Framefile based on OaX~aY</comment>
+<frameset cdef="" edef="to harm or hurt, to damage" id="01" vncls="">
+<role argnum="0" argrole="entity causing the hurt" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(NP-TPC-1
+        (DET+NOUN الإِعْلام)
+        (DET+ADJ المَصْرِي))
+      (VP
+        (PV+PVSUFF_SUBJ:3MS أَذَى)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (PP-CLR
+          (PREP فِي)
+          (NP
+            (DET+ADJ+NSUFF_MASC_PL المَصْرِيِّين)))))</parse>
+<comment />
+<arg f="" g="the Egyptian media" n="0">* الإعلام المصري</arg>
+<arg f="" g="Egyptians" n="1">المَصْرِيِّين</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset OaX~aY.01</comment>
+<role argnum="1" argrole="entity hurt" vncls="" vntheta="" />
+<role argnum="2" argrole="with what" vncls="" vntheta="" />
+</frameset>
+</verb>

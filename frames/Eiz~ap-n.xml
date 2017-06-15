@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eiz~ap</id>
+
+<frameset cdef="" edef="glory, honor, sense of honor, self asteem" id="01" vncls="">
+<role argnum="1" argrole="entity's glory" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>العزة لله</parse>
+
+<arg f="" g="to God" n="1">لله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="attribute to Arg1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

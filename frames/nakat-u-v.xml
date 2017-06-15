@@ -1,0 +1,99 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nakat-u</id>
+
+<frameset cdef="" edef="to delineate lines on the ground using a finger or something" id="01" vncls="">
+<role argnum="0" argrole="entity delineating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نكت الولد خطوطا على الرمل بإصبعه</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="lines" n="1">خطوطا</arg>
+<arg f="" g="on the sand" n="2">على الرمل</arg>
+<arg f="" g="with his finger" n="3">بإصبعه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity delineated (lines)" vncls="" vntheta=""/>
+<role argnum="2" argrole="ground" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to think" id="02" vncls="">
+<role argnum="0" argrole="thinker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ينكت اللص عن مدخل للبيت</parse>
+
+<arg f="" g="the robber" n="0">اللص</arg>
+<arg f="" g="how to get into the house" n="1">عن مدخل للبيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thought" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to make fire bigger by moving firewoods with a stick" id="03" vncls="">
+<role argnum="0" argrole="mover" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نكتت الأم الحطب بالعصا</parse>
+
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="fire woods" n="1">الحطب</arg>
+<arg f="" g="with a stick" n="2">بالعصا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="firewoods" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to throw somebody down on  his head" id="04" vncls="">
+<role argnum="0" argrole="entithy throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نكت المصارع خصمه خارج الحلبة</parse>
+
+<arg f="" g="the gladiator" n="0">المصارع</arg>
+<arg f="" g="his opponent" n="1">خصمه</arg>
+<arg f="" g="outside the arena" n="3">خارج الحلبة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoSaqal</id>
+
+<frameset cdef="" edef="to be polished or burnished" id="01" vncls="">
+<role argnum="1" argrole="entity polished" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انصقل الحذاء بالزيت</parse>
+
+<arg f="" g="the shoes" n="1">الحذاء</arg>
+<arg f="" g="with oil" n="2">بالزيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

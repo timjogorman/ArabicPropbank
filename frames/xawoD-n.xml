@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xawoD</id>
+<comment/>
+<frameset cdef="" edef="to plunge or dive into, to rush into" id="01" vncls="">
+<role argnum="0" argrole="entity rushing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لم يعجبني خوض أخي في النقاش ضد ابي</parse>
+<comment/>
+<arg f="" g="my brother" n="0">أخي</arg>
+<arg f="" g="into the argument" n="1">في النقاش</arg>
+<arg f="" g="against my father" n="3">ضد ابي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="theme, into what" vncls="" vntheta=""/>
+<role argnum="2" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="against whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

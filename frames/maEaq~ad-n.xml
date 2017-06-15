@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maEaq~ad</id>
+<comment/>
+<frameset cdef="" edef="making someone to sit" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم معقدين * الراجل في فندق</parse>
+<comment/>
+<arg f="" g="them" n="0">* هم</arg>
+<arg f="" g="the man" n="1">الراجل</arg>
+<arg f="" g="in a hotel" n="2">في فندق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

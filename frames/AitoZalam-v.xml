@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoZalam</id>
+
+    <frameset cdef="" edef="to wrong, oppress" id="01" vncls="">
+<role argnum="0" argrole="treater, agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>في ورشة ملتقى المرأة: الإعلام يظلم المرأة والمجتمع يقهرها</parse>
+
+<arg f="" g="it" n="0">* &gt; الإعلام</arg>
+<arg f="" g="women" n="1">المرأة</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="wronged entity" vncls="" vntheta="" />
+<role argnum="2" argrole="in what?" vncls="" vntheta="" />
+<comment>Based on roleset Zalam-ia.01
+Based on roleset Zalam-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on Zalam-v</comment>
+</verb>

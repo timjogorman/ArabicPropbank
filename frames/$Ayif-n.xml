@@ -1,0 +1,76 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$Ayif</id>
+
+<frameset cdef="" edef="seer, thinker" id="01" vncls="">
+<role argnum="0" argrole="entity seer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>كانت فاكرة آن ما فيش حد شايفها</parse>
+
+<arg f="" g="anybody" n="0">حد</arg>
+<arg f="" g="it" n="1">ها</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing seen" vncls="" vntheta=""/>
+
+
+
+
+<comment>Eg</comment>
+</frameset>
+
+
+<frameset cdef="" edef="to boast, to see oneself better than" id="02" vncls="">
+<role argnum="0" argrole="entity boasting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>هو شايف * نفسه احسن مننا</parse>
+
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="himself better than us" n="1">نفسه احسن مننا</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="attributed to ARG 0" vncls="" vntheta=""/>
+
+
+<comment>ARZ</comment>
+</frameset>
+
+
+<comment/>
+</verb>

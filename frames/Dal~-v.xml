@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Dal~</id>
+<comment>EGYPTIAN ARABIC based on Dal~-i</comment>
+    <frameset cdef="" edef="to go astray, straying from the right path, to get lost" id="01">
+<role argnum="0" argrole="entity going astray" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>هل قرأت قصة الرجل الذي ضل * الطريق الى بيته</parse>
+<comment />
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="the road to his house" n="1">الطريق الى بيته</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Dal~-i.01</comment>
+<role argnum="1" argrole="from what" />
+</frameset>
+</verb>

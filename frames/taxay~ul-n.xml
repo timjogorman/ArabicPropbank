@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taxay~ul</id>
+<comment/>
+<frameset cdef="" edef="imagination, fantasy" id="01" vncls="">
+<role argnum="0" argrole="thinker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لا يمكنني تخيل * ما حدث</parse>
+<comment/>
+<arg f="" g="I" n="0">* ني</arg>
+<arg f="" g="what happened" n="1">ما حدث</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="object, thing under consideration" vncls="" vntheta=""/>
+<role argnum="2" argrole="predicate" vncls="" vntheta=""/>
+</frameset>
+</verb>

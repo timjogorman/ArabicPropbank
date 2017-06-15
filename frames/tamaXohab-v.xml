@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamaXohab</id>
+<comment/>
+<frameset cdef="" edef="to embrace, to follow (religion" id="01">
+<role argnum="0" argrole="entity following"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تمذهب الناس بمذاهب شتى</parse>
+<comment/>
+<arg f="" g="people" n="0">الناس</arg>
+<arg f="" g="with different faiths" n="1">بمذاهب شتى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things followed"/>
+</frameset>
+</verb>

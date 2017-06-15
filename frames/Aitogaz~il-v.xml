@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitogaz~il</id>
+<comment/>
+<frameset cdef="" edef="to flirt with one another" id="01" vncls="">
+<role argnum="0" argrole="entity flirting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل قاعد يتغزل * في مراته</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="with his wife" n="1">في مراته</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="second entity if separated from ARG0" vncls="" vntheta=""/>
+</frameset>
+</verb>

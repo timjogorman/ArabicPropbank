@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>XAkar</id>
+
+<frameset cdef="" edef="to study, to memorize" id="01" vncls="">
+<role argnum="0" argrole="entity studying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>كنت بشغل الفيديوهات اللى فى الاسطوانة وكنت * بذاكر الاسئلة اللى فيها</parse>
+
+<arg f="" g="he" n="0">*? NONE</arg>
+<arg f="" g="the questions that they were in it" n="2">الاسئلة اللى فيها</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+
+<comment/>
+<role argnum="2" argrole="things studied" vncls="" vntheta=""/>
+</frameset>
+
+<comment/>
+</verb>

@@ -1,0 +1,129 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zaw~id</id>
+
+    <frameset cdef="" edef="to provide" id="01" vncls="">
+<role argnum="0" argrole="provider" vncls="" vntheta=""/>
+<role argnum="1" argrole="beneficiary / entity provided for" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing provided" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S (VP (supply/provide+he/it M-zaw~ada- M -زَوَّدَ-)
+          (NP-SBJ (-NONE- X))
+          (NP-DTV (it/him M-hu M -هُ))
+          (NP-OBJ (NP (number/mark+he/it Mraqama M رَقَمَ)
+                      (NP (telephone MhAtifi- M هاتِفِ-)
+                          (its/his M-hi M -هِ)))
+                  (and Mwa- M وَ-)
+                  (NP (address M-EunowAna M -عُنْوانَ)
+                      (NP (bureau/office/department Mmakotabi- M مَكْتَبِ-)
+                          (its/his M-hi M -هِ))))))
+   (PUNC .))</parse>
+<arg f="" g="NP-SBJ (-NONE- *)" n="0">X</arg>
+<arg f="" g="him" n="1">-hu</arg>
+<arg f="" g="his phone number and his office address" n="2">raqama hAtifi- -hi wa- -EunowAna makotabi- -hi</arg>
+<V/>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset zaw~ad.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on zaw~ad</comment>
+<frameset cdef="" edef="to add more to" id="02" vncls="">
+<role argnum="0" argrole="entity adding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو زود * على الموضوع شوية شغلات</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="the subject" n="2">الموضوع</arg>
+<arg f="" g="some things" n="1">شوية شغلات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things added" vncls="" vntheta=""/>
+<role argnum="2" argrole="added to what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to exaggerate, to go over limit" id="03" vncls="">
+<role argnum="0" argrole="entity going over" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (PP-MNR
+      (PREP بِ)
+      (NP
+        (NOUN+NSUFF_FEM_SG صَراحَة)))
+    (NP-TPC-1
+      (NOUN_NUM 6)
+      (NOUN_PROP إِبْرِيل))
+    (VP
+      (PV+PVSUFF_SUBJ:3P زَوِّدُوا)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (PVSUFF_DO:3FS ها))
+      (PP-MNR
+        (PREP عَلَى)
+        (NP
+          (DET+ADJ_COMP الآخِر))))
+    (PUNC .)
+    (PUNC .)))</parse>
+<comment/>
+<arg f="" g="6 April" n="0">6 إِبْرِيل</arg>
+<arg f="" g="it" n="1">ها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to increase" id="04" vncls="">
+<role argnum="0" argrole="entity increasing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SBAR
+    (SUB_CONJ إِنّ)
+    (S
+      (NP-TPC-1
+        (PRON_1P اِحْنا))
+      (VP
+        (IV1P+IV نِزَوِّد)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (NOUN شُغْل)
+          (NP
+            (POSS_PRON_1P نا)))))))</parse>
+<comment/>
+<arg f="" g="we" n="0">* اِحْنا</arg>
+<arg f="" g="our work" n="1">شُغْلنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things increased" vncls="" vntheta=""/>
+<role argnum="2" argrole="amount" vncls="" vntheta=""/>
+</frameset>
+</verb>

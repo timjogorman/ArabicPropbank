@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>vaqab-u</id>
+
+<frameset cdef="" edef="to hole , to pierce" id="01" vncls="">
+<role argnum="0" argrole="piercer , agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ثقبت السجارة القميص</parse>
+
+<arg f="" g="the cigarette" n="0">السجارة</arg>
+<arg f="" g="the shirt" n="1">القميص</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity pierced" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

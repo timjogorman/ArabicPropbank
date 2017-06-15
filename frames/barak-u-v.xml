@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>barak-u</id>
+
+<frameset cdef="" edef="to kneel down," id="01" vncls="">
+<role argnum="0" argrole="entity kneeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>برك البعير</parse>
+
+<comment/>
+<arg f="" g="the camel" n="0">البعير</arg>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

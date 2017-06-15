@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wusoE</id>
+<comment/>
+<frameset cdef="" edef="capacity, ability" id="01" vncls="">
+<role argnum="1" argrole="entity capable" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>في وسع الانسان أن يسامح أخيه</parse>
+<comment/>
+<arg f="" g="human being" n="1">الانسان</arg>
+<arg f="" g="to forgive his brother" n="2">أن يسامح أخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="of what" vncls="" vntheta=""/>
+</frameset>
+</verb>

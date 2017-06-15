@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aiqotaraf</id>
+<comment>Egyptian Arabic based on {iqotaraf</comment>
+<frameset cdef="" edef="to commitʿ" id="01" vncls="">
+<role argnum="0" argrole="criminal" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>based on roleset {iqotaraf.01</comment>
+<role argnum="1" argrole="crime" vncls="" vntheta=""/>
+</frameset>
+</verb>

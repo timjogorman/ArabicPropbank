@@ -1,90 +1,90 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>{inoHasar</id>
-    <frameset cdef="" edef="to diminish, to fade away, to decrease" id="01">
-        <role argnum="1" argrole="thing becoming smaller"/>
-        <role argnum="2" argrole="attribute of arg1"/>
-        <role argnum="3" argrole="extent"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (CONJ و)
-                    (VP
-                    (PRT
-                    (VERB_PART قد))
-                    (PV+PVSUFF_SUBJ:3MS احتل)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (NP
-                    (DET+NOUN+CASE_DEF_ACC المركز)
-                    (DET+ADJ_NUM الثاني))
-                    (PP
-                    (PREP في)
-                    (NP
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الترتيب)
-                    (DET+ADJ+CASE_DEF_GEN العام))
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (DET+NOUN+NSUFF_MASC_PL_GEN لسائقين))))))
-                    (PP
-                    (PREP ب)
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN فارق)
-                    (NP
-                    (NOUN_NUM+CASE_DEF_GEN سبع)
-                    (NP
-                    (NOUN+CASE_INDEF_GEN نقاط))))
-                    (PP
-                    (PREP عن)
-                    (NP
-                    (NOUN_PROP غرونهولم)))))
-                    (PUNC ,)
-                    (SBAR-TMP
-                    (SUB_CONJ بينما)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS انحسر)
-                    (NP-SBJ
-                    (NP
-                    (DET+NOUN+CASE_DEF_NOM الفارق))
-                    (NP-ADV
-                    (NOUN+CASE_DEF_ACC بين)
-                    (NP
-                    (PUNC &amp;quot;)
-                    (NOUN_PROP بيجو)
-                    (PUNC &amp;quot;)
-                    (CONJ و)
-                    (PUNC &amp;quot;)
-                    (FOREIGN فورد)
-                    (PUNC &amp;quot;))))
-                    (PP-TMP
-                    (PREP في)
-                    (NP
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الترتيب)
-                    (DET+ADJ+CASE_DEF_GEN العام))
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (DET+NOUN+NSUFF_MASC_PL_GEN لصانعين)))))
-                    (PP-CLR
-                    (PREP الى)
-                    (NP
-                    (NOUN_NUM 14)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC نقطة))))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="the difference" n="1">الفارق</arg>
-                <arg f="" g="between Ford and Peugeot" n="2">بين &amp;quot; بيجو &amp;quot; و &amp;quot; فورد</arg>
-                <arg f="loc" g="in the constructor ranking" n="m">ي الترتيب العام ل لصانعين</arg>
-                <arg f="" g="to 14 points" n="3">الى 14 نقطة</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>{inoHasar</id>
+<frameset cdef="" edef="to diminish, to fade away, to decrease" id="01">
+<role argnum="1" argrole="thing becoming smaller"/>
+<role argnum="2" argrole="attribute of arg1"/>
+<role argnum="3" argrole="extent"/>
+<frame>
+<example>
+<parse>
+(S
+  (CONJ و)
+  (VP
+    (PRT
+      (VERB_PART قد))
+    (PV+PVSUFF_SUBJ:3MS احتل)
+    (NP-SBJ
+      (-NONE- *))
+    (NP-OBJ
+      (NP
+        (DET+NOUN+CASE_DEF_ACC المركز)
+        (DET+ADJ_NUM الثاني))
+      (PP
+        (PREP في)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الترتيب)
+            (DET+ADJ+CASE_DEF_GEN العام))
+          (PP
+            (PREP ل)
+            (NP
+              (DET+NOUN+NSUFF_MASC_PL_GEN لسائقين))))))
+    (PP
+      (PREP ب)
+      (NP
+        (NP
+          (NOUN+CASE_DEF_GEN فارق)
+          (NP
+            (NOUN_NUM+CASE_DEF_GEN سبع)
+            (NP
+              (NOUN+CASE_INDEF_GEN نقاط))))
+        (PP
+          (PREP عن)
+          (NP
+            (NOUN_PROP غرونهولم)))))
+    (PUNC ,)
+    (SBAR-TMP
+      (SUB_CONJ بينما)
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:3MS انحسر)
+          (NP-SBJ
+            (NP
+              (DET+NOUN+CASE_DEF_NOM الفارق))
+            (NP-ADV
+              (NOUN+CASE_DEF_ACC بين)
+              (NP
+                (PUNC &quot;)
+                (NOUN_PROP بيجو)
+                (PUNC &quot;)
+                (CONJ و)
+                (PUNC &quot;)
+                (FOREIGN فورد)
+                (PUNC &quot;))))
+          (PP-TMP
+            (PREP في)
+            (NP
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الترتيب)
+                (DET+ADJ+CASE_DEF_GEN العام))
+              (PP
+                (PREP ل)
+                (NP
+                  (DET+NOUN+NSUFF_MASC_PL_GEN لصانعين)))))
+          (PP-CLR
+            (PREP الى)
+            (NP
+              (NOUN_NUM 14)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC نقطة))))))))
+  (PUNC .))
+</parse>
+<arg f="" g="the difference" n="1">الفارق</arg>
+<arg f="" g="between Ford and Peugeot" n="2">بين &quot; بيجو &quot; و &quot; فورد</arg>
+<arg f="loc" g="in the constructor ranking" n="m">ي الترتيب العام ل لصانعين</arg>
+<arg f="" g="to 14 points" n="3">الى 14 نقطة</arg>
+</example>
+</frame>
+</frameset>
 </verb>

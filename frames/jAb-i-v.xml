@@ -1,0 +1,111 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jAb-i</id>
+
+<frameset cdef="" edef="to bring" id="01" vncls="">
+<role argnum="0" argrole="entity bringing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ده جاب * لي شوية حاجات تجنن من امريكا</parse>
+
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="to me" n="3">لي</arg>
+<arg f="" g="some beautiful things" n="1">شوية حاجات تجنن</arg>
+<arg f="" g="from America" n="2">من امريكا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="bringing what" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<role argnum="3" argrole="to whom" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to earn" id="02" vncls="">
+<role argnum="0" argrole="earner" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (IV3MS+IV يَعْنِي)
+      (NP-SBJ
+        (-NONE- *))))
+  (NP
+    (NP
+      (NOUN راجِل))
+    (SBAR
+      (SBAR
+        (WHNP-1
+          (-NONE- 0))
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS تِعِب)
+            (NP-SBJ
+              (-NONE- *T*-1)))))
+      (CONJ وِ)
+      (SBAR
+        (WHNP-3
+          (-NONE- 0))
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS شِقِي)
+            (NP-SBJ
+              (-NONE- *T*-3)))))
+      (CONJ وِ)
+      (SBAR
+        (WHNP-5
+          (-NONE- 0))
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS عَمَل)
+            (NP-SBJ
+              (-NONE- *T*-5))
+            (NP-OBJ
+              (NP
+                (NOUN بَيت)
+                (ADJ كَبِير))
+              (SBAR
+                (-NONE- *ICH*-7)))
+            (PP
+              (PREP لِ)
+              (NP
+                (NOUN عِيالِ)
+                (NP
+                  (POSS_PRON_3MS ُه))))
+            (SBAR-7
+              (WHNP-8
+                (-NONE- 0))
+              (S
+                (VP
+                  (PV+PVSUFF_SUBJ:3MS جاب)
+                  (NP-SBJ
+                    (-NONE- *T*-8))
+                  (NP-OBJ
+                    (ADJ_NUM 2)
+                    (NP
+                      (NOUN_NUM مِلْيَوْن)))
+                  (NP-ADV
+                    (NOUN+CASE_INDEF_ACC مَثَلاً)))))))))))</parse>
+<comment/>
+<arg f="" g="-none- &gt; a man" n="0">* &gt; راجِل</arg>
+<arg f="" g="2 million" n="1">2 مِلْيَوْن</arg>
+<arg f="adv" g="for example" n="m">مَثَلاً</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="earnings" vncls="" vntheta=""/>
+<role argnum="2" argrole="job" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotamAl</id>
+
+<frameset cdef="" edef="to attract, to draw" id="01" vncls="">
+<role argnum="0" argrole="entity attracting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استمال الرجل قلوب الناس نحو الموضوع</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="peoples heart" n="1">قلوب الناس</arg>
+<arg f="" g="toward the subject" n="2">نحو الموضوع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="attracted" vncls="" vntheta=""/>
+<role argnum="2" argrole="toward what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoraS~ad</id>
+<comment>EGYPTIAN ARABIC Framefile based on taraS~ad-v</comment>
+<frameset cdef="" edef="to lie in wait for, to ambush, to look for" id="01" vncls="">
+<role argnum="0" argrole="entity looking" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (SBAR
+    (SUB_CONJ إِنّ)
+    (S
+      (S
+        (NP-TPC-1
+          (DET+NOUN الشَعْب))
+        (VP
+          (IV3MS+IV يِتْرَصَّد)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (NP-OBJ
+            (IVSUFF_DO:3MS ُه))))
+      (CONJ وِ)
+      (S
+        (VP
+          (IV3MS+IV يِقْتَصّ)
+          (NP-SBJ
+            (-NONE- *))
+          (PP
+            (PREP مِنّ)
+            (NP
+              (PRON_3MS ُه))))))))</parse>
+<comment />
+<arg f="" g="the people" n="0">*T*-1 الشَعْب</arg>
+<arg f="" g="he" n="1">ه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset taraS~ad-v.01</comment>
+<role argnum="1" argrole="for what" vncls="" vntheta="" />
+</frameset>
+</verb>

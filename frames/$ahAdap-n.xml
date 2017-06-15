@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$ahAdap</id>
+<comment/>
+<frameset cdef="" edef="testimony, evidence" id="01" vncls="">
+<role argnum="0" argrole="agent, confirmer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كل الشهادات من الناس عليه تقول بأنه القاتل</parse>
+<comment/>
+<arg f="" g="from people" n="0">من الناس</arg>
+<arg f="" g="on him" n="1">عليه</arg>
+<arg f="" g="says that he is the killer" n="2">تقول بأنه القاتل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="theme, entity certified" vncls="" vntheta=""/>
+<role argnum="2" argrole="secondary predicate" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,89 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitoqasam</id>
+<comment>EGYPTIAN ARABIC Framefile based on qasam-v</comment>
+    <frameset cdef="" edef="to separate or divide" id="01" vncls="">
+<role argnum="0" argrole="thing dividing" vncls="" vntheta="" />
+<role argnum="1" argrole="thing divided" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>ولخط السكة الحديد وطريق موازية قيمة رمزية لانهما سيكونان **-1 اول ما يقطع **-2 المنطقة المنزوعة السلاح التي تقسم **-3 شبه الجزيرة الكورية منذ نهاية الحرب .</parse>
+<arg f="" g="-NONE- &lt; the demilitarized zone" n="0">**-3 &lt; المنطقة المنزوعة السلاح</arg>
+<arg f="" g="the Korean peninsula" n="1">شبه الجزيرة الكورية</arg>
+<arg f="tmp" g="since the end of the war" n="m">منذ نهاية الحرب</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset qasam-i.01
+Based on roleset qasam-v.01</comment>
+</frameset>
+<frameset cdef="" edef="to swear, make a promise" id="02" vncls="">
+<role argnum="0" argrole="swearer" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (IV3P+IV+IVSUFF_SUBJ:P يِقسِمُوا)
+      (NP-SBJ
+        (-NONE- *))
+      (PP-CLR
+        (PREP عَلَى)
+        (NP
+          (NOUN_NUM+NSUFF_FEM_SG عَشَرَة)))
+      (PP
+        (SBAR
+          (WHADVP-1
+            (X
+              (NO_FUNC بحيث)))
+          (S
+            (SBAR-SBJ
+              (SUB_CONJ إِنّ)
+              (S
+                (S
+                  (NP-TPC
+                    (PRON_3MS ُه))
+                  (VP
+                    (IV3MS+IV يِفْضَل)
+                    (NP-SBJ
+                      (NOUN_QUANT كام)
+                      (NP
+                        (NOUN مُسَلْسَل)
+                        (ADJ بَسِيط)))))
+                (CONJ وِ)
+                (S
+                  (VP
+                    (IV3P+IV+IVSUFF_SUBJ:P يِكُونُوا)
+                    (NP-SBJ
+                      (NOUN_QUANT كُلّ)
+                      (NP
+                        (POSS_PRON_3P هُم)))
+                    (UCP-PRD
+                      (ADJP
+                        (ADJ+NSUFF_MASC_PL هادفِين))
+                      (CONJ وِ)
+                      (S
+                        (PP-PRD
+                          (PREP لِ)
+                          (NP
+                            (PRON_3P هُم)))
+                        (NP-SBJ
+                          (NOUN+NSUFF_FEM_SG قِصَّة))))))))
+            (ADVP-PRD
+              (-NONE- *T*-1))))))))</parse>
+<comment />
+<arg f="" g="they" n="0">*</arg>
+<arg f="" g="on all ten" n="2">عَلَى عَشَرَة</arg>
+<arg f="" g="that he prefers a handful of series with morals to their stories" n="1">بحيث إِنّه يِفْضَل كام مُسَلْسَل بَسِيط وِيِكُونُوا كُلّهُم هادفِين وِلِهُم قِصَّة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset qasam-i.02
+Based on roleset qasam-v.02</comment>
+<role argnum="1" argrole="promise" vncls="" vntheta="" />
+<role argnum="2" argrole="on what" vncls="" vntheta="" />
+</frameset>
+</verb>

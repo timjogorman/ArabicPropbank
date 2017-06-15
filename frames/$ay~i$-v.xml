@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$ay~i$</id>
+<comment/>
+<frameset cdef="" edef="to smoke" id="01" vncls="">
+<role argnum="0" argrole="entity smoking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا حشيِّش * وبعد كده حروح</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="smoking what" vncls="" vntheta=""/>
+</frameset>
+</verb>

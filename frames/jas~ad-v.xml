@@ -1,30 +1,50 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>jas~ad</id>
-    <frameset cdef="" edef="to embody or incorporate" id="01">
-        <role argnum="1" argrole="entity embodying"/>
-        <role argnum="2" argrole="entity embodied"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (NP-TPC-1
-                    (NOUN+CASE_DEF_NOM صوت)
-                    (NP
-                    (POSS_PRON_3MS ه)))
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يجسد)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (NP-OBJ
-                    (NOUN+CASE_DEF_ACC تاريخ)
-                    (NP
-                    (NOUN_PROP افريقيا))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="-NONE- &amp;lt; his voice" n="1">*T*-1 &amp;lt; صوته</arg>
-                <arg f="" g="Africa's history" n="2">تاريخ افريقيا</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>jas~ad</id>
+<frameset cdef="" edef="to embody or incorporate" id="01" vncls="OaZohara-1">
+<role argnum="0" argrole="entity embodying" vncls="OaZohara-1" vntheta="agent"/>
+<role argnum="1" argrole="entity embodied" vncls="OaZohara-1" vntheta="theme"/>
+<frame>
+<example>
+<parse>(S
+  (NP-TPC-1
+    (NOUN+CASE_DEF_NOM صوت)
+    (NP
+      (POSS_PRON_3MS ه)))
+  (VP
+    (IV3MS+IV+IVSUFF_MOOD:I يجسد)
+    (NP-SBJ
+      (-NONE- *T*-1))
+    (NP-OBJ
+      (NOUN+CASE_DEF_ACC تاريخ)
+      (NP
+        (NOUN_PROP افريقيا))))
+  (PUNC .))</parse>
+<arg f="" g="-NONE- &lt; his voice" n="0">*T*-1 &lt; صوته</arg>
+<arg f="" g="Africa's history" n="1">تاريخ افريقيا</arg>
+
+
+<comment/>
+</example>
+
+<example>
+<parse>جسد الفنان الصورة في التمثال</parse>
+
+<arg f="" g="the artist" n="0">الفنان</arg>
+<arg f="" g="the picture" n="1">الصورة</arg>
+<arg f="" g="in the statue" n="2">في التمثال</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="location , in what" vncls="OaZohara-1" vntheta="location"/>
+
+<comment/>
+</frameset>
+
+
+<comment/>
 </verb>

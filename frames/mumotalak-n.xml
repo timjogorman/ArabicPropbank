@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mumotalak</id>
+<frameset cdef="" edef="onwned by, possessed" id="01" vncls="">
+<role argnum="1" argrole="entity or things owned" vncls="" vntheta=""/>
+<role argnum="2" argrole="by whom" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>هذا البناء ممتلك * من قبل اهالي المنطقة</parse>
+<arg f="" g="this building" n="1">* هذا البناء</arg>
+
+<arg f="" g="by the people of this area" n="2">من قبل اهالي المنطقة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

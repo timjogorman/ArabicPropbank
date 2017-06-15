@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>salosal</id>
+
+<frameset cdef="" edef="to concatenate / chain" id="01" vncls="">
+<role argnum="0" argrole="entity chaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سلسل الشرطي اللصوص بالسلاسل</parse>
+
+<arg f="" g="the officer" n="0">الشرطي</arg>
+<arg f="" g="the thieves" n="1">اللصوص</arg>
+<arg f="" g="with chaines" n="2">بالسلاسل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity chained" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

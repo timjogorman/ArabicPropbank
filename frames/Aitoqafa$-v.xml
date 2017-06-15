@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitoqafa$</id>
+<comment/>
+<frameset cdef="" edef="to be held or arrested" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل اتقفش * وهو بيسرق</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="" g="while stealing" n="2">وهو بيسرق</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity arrested" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what, for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

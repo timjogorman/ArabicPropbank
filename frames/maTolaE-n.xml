@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maTolaE</id>
+<comment/>
+<frameset cdef="" edef="the bigining of, start" id="01" vncls="">
+<role argnum="1" argrole="begining of what" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مطلع القصة يبدأ من المدينة</parse>
+<comment/>
+<arg f="" g="the story" n="1">القصة</arg>
+<arg f="" g="starts from the city" n="2">يبدأ من المدينة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

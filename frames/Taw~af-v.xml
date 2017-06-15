@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Taw~af</id>
+
+<frameset cdef="" edef="to circle, to rove, to show around" id="01" vncls="qaf~aza-1">
+<role argnum="0" argrole="entity showing" vncls="qaf~aza-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>طوف* ه متاحف المدينة</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="he" n="2">ه</arg>
+<arg f="" g="city museums" n="1">متاحف المدينة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="showed what or things showed" vncls="qaf~aza-1" vntheta="theme"/>
+<role argnum="2" argrole="entity showed" vncls="qaf~aza-1" vntheta="location"/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

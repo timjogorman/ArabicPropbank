@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inovaqab</id>
+
+<frameset cdef="" edef="to be punctured or pierced" id="01" vncls="">
+<role argnum="1" argrole="entity peirced" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انثقبت الورقة بالمسمار</parse>
+
+<arg f="" g="the papper" n="1">الورقة</arg>
+<arg f="" g="with a screw" n="2">بالمسمار</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

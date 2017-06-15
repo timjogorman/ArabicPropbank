@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotadofaO</id>
+
+<frameset cdef="" edef="to warm oneself" id="01" vncls="">
+<role argnum="0" argrole="entity seeking warmth" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استدفأت الأسرة بالحطب</parse>
+
+<arg f="" g="the family" n="0">الأسرة</arg>
+<arg f="" g="with fire wood" n="1">بالحطب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with what (fire)" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="from cold" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

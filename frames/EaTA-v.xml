@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EaTA</id>
+<comment/>
+<frameset cdef="" edef="to give or provide" id="01" vncls="">
+<role argnum="0" argrole="the giver or provider" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الله عطا * نا كل شيء</parse>
+<comment/>
+<arg f="" g="God" n="0">* الله</arg>
+<arg f="" g="us" n="2">نا</arg>
+<arg f="" g="every thing" n="1">كل شيء</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="theme given" vncls="" vntheta=""/>
+<role argnum="2" argrole="the receiver" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xama$-ui</id>
+<comment/>
+<frameset cdef="" edef="to scratch" id="01" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خمش القط الطفل باظافره في وجهه</parse>
+<comment/>
+<arg f="" g="the cat" n="0">القط</arg>
+<arg f="" g="the kid" n="1">الطفل</arg>
+<arg f="" g="with his nails" n="2">باظافره</arg>
+<arg f="" g="in his face" n="3">في وجهه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument (marked by بـ)" vncls="" vntheta=""/>
+<role argnum="3" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

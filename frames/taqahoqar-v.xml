@@ -1,22 +1,28 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>taqahoqar</id>
-    <comment/>
-    <frameset cdef="" edef="regress, decline, deteriorate" id="01">
-        <role argnum="1" argrole="entity regressing"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>القاعدة في العراق و الاسعودية تتقهقر
-                    
-                    Arg 1: -None_ _T-* (القاعدة في العراق و الاسعودية)
-                </parse>
-                <comment/>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-    </frameset>
+<id>taqahoqar</id>
+
+<frameset cdef="" edef="regress, decline, deteriorate" id="01" vncls="">
+<role argnum="1" argrole="entity regressing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>القاعدة في العراق و الاسعودية تتقهقر
+
+Arg 1: -None_ _T-* (القاعدة في العراق و الاسعودية)</parse>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+<comment/>
 </verb>

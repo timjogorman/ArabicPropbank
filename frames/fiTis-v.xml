@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fiTis</id>
+<comment/>
+<frameset cdef="" edef="to suffocate or die" id="01" vncls="">
+<role argnum="1" argrole="entity dying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الناس فطست * من الحر</parse>
+<comment/>
+<arg f="" g="people" n="1">* الناس</arg>
+<arg f="" g="from the heat" n="2">من الحر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

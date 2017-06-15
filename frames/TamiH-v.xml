@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TamiH</id>
+<comment/>
+<frameset cdef="" edef="to aspire to or after, to seek" id="01" vncls="">
+<role argnum="0" argrole="seeker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طمح الرجل في أن يحصل على المنصب</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to get the position" n="1">في أن يحصل على المنصب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

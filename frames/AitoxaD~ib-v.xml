@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoxaD~ib</id>
+<comment>EGYPTIAN ARABIC Framefile based on taxaD~ab-v</comment>
+<frameset cdef="" edef="to be dyed or covered with bloodd" id="01" vncls="">
+<role argnum="1" argrole="entity covered" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>هؤلاء المجرمون الذين تخضبوا * بدماء اخوانهم</parse>
+<comment />
+<arg f="" g="those criminals" n="">هؤلاء المجرمون</arg>
+<arg f="" g="with their brothers blood" n="">بدماء اخوانهم</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset taxaD~ab-v.01</comment>
+<role argnum="2" argrole="with what" vncls="" vntheta="" />
+</frameset>
+</verb>

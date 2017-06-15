@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>dAwim</id>
+<frameset cdef="" edef="to continue, persist, persevere" id="01" vncls="">
+<role argnum="0" argrole="the perseverer" vncls="" vntheta="" />
+<role argnum="1" argrole="thing continued" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>داوم الرجل على شرب الماء</parse>
+<arg f="" g="the man" n="0">الرجل</arg>
+
+<comment />
+<arg f="" g="on drinking the water" n="1">على شرب الماء</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset dAwam-v.01</comment>
+</frameset>
+<frameset cdef="" edef="to attend or show up to work" id="02" vncls="">
+<role argnum="0" argrole="attendee" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS حضر)
+    (PP-DIR
+      (PREP الى)
+      (NP
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجامعة)))
+    (NP-SBJ
+      (DET+NOUN+CASE_DEF_NOM الطلاب)
+      (ADJ المطرودون))
+    (NP-ADV
+      (NOUN+CASE_DEF_ACC مع)
+      (NP
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الاساتذة)
+          (CONJ و)
+          (DET+NOUN+NSUFF_MASC_PL_GEN الموظفين))
+        (SBAR
+          (WHNP-1
+            (REL_PRON الذين))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MP داوموا)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (PP-MNR
+                (PREP ك)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN العادة)))))))))
+  (PUNC .))</parse>
+<arg f="" g="the teachers and employees" n="0">*T*-1 &lt; الاساتذة والموظفين</arg>
+<arg f="mnr" g="as usual" n="m">كالعادة</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset dAwam-v.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on dAwam-v</comment>
+</verb>

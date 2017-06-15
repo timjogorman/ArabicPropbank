@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>talAHas</id>
+<comment/>
+<frameset cdef="" edef="to touch each other with tounge" id="01" vncls="">
+<role argnum="0" argrole="toucher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلاحست الابقار مع بعضها</parse>
+<comment/>
+<arg f="" g="the cows" n="0">الابقار</arg>
+<arg f="" g="with each other" n="1">مع بعضها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="touched" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jaworab</id>
+
+<frameset cdef="" edef="to cause to put on ones's socks" id="01" vncls="">
+<role argnum="0" argrole="entity causing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جوربت الأم طفلها بالجورب الجديد</parse>
+
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="her kid" n="1">طفلها</arg>
+<arg f="" g="with the new socks" n="2">بالجورب الجديد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity putting on" vncls="" vntheta=""/>
+<role argnum="2" argrole="the socks" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

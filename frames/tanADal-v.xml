@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanADal</id>
+<comment/>
+<frameset cdef="" edef="to vie or compete with one another" id="01" vncls="">
+<role argnum="0" argrole="entity competing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تناضل المتسابقون في رمي السهام</parse>
+<comment/>
+<arg f="" g="the competitors" n="0">المتسابقون</arg>
+<arg f="" g="in shooting the arrows" n="2">في رمي السهام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="topic" vncls="" vntheta=""/>
+</frameset>
+</verb>

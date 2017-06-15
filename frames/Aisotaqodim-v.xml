@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotaqodim</id>
+
+    <frameset cdef="" edef="import, get a commodity in trade" id="01" vncls="">
+<role argnum="0" argrole="importer" vncls="" vntheta=""/>
+<role argnum="1" argrole="commodity" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>إستقدم الفلسطينيون السلاح للدفاع عن أنفسهم</parse>
+<arg f="" g="the Palestinians" n="0">الفلسطينون</arg>
+<arg f="" g="the weapons" n="1">السلاح</arg>
+<arg f="prp" g="to defend themselves" n="m">للدفاع عن أنفسهم</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on {isotaqodam</comment>
+</verb>

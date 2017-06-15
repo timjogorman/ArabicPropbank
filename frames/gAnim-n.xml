@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gAnim</id>
+<comment/>
+<frameset cdef="" edef="winner, gainer,plunderer" id="01" vncls="">
+<role argnum="0" argrole="taker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خرجنا من المعركة غانمين * الكثير</parse>
+<comment/>
+<arg f="" g="we" n="0">* نا</arg>
+<arg f="" g="a lot" n="1">الكثير</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things taken" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

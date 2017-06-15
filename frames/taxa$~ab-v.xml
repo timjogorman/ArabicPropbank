@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taxa$~ab</id>
+<comment/>
+<frameset cdef="" edef="to lignify, to become wood or woody, to stiffen" id="01" vncls="">
+<role argnum="1" argrole="entity becoming like wood" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تخشب جسمي من البرد</parse>
+<comment/>
+<arg f="" g="my body" n="1">جسمي</arg>
+<arg f="cau" g="from the cold" n="m">من البرد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

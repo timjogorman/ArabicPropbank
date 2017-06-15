@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qAwiH</id>
+<comment/>
+<frameset cdef="" edef="to argue" id="01" vncls="">
+<role argnum="0" argrole="speaker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو قاعد يتقاوح * مع أبوه عالعربية</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="with his father" n="1">مع أبوه</arg>
+<arg f="" g="about the car" n="2">عالعربية</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="listener" vncls="" vntheta=""/>
+<role argnum="2" argrole="argument" vncls="" vntheta=""/>
+</frameset>
+</verb>

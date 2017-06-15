@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miwaq~af</id>
+<comment/>
+<frameset cdef="" edef="detained, stopped, making someone stand on his feet" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل موقف * أولاده على رجليهم من الصبح</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his children" n="1">أولاده</arg>
+<arg f="" g="on thier feet" n="2">على رجليهم</arg>
+<arg f="tmp" g="since morning" n="m">من الصبح</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

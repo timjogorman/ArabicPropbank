@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maqobuwl</id>
+<frameset cdef="" edef="accepted / acceptable / reasonable" id="01" vncls="">
+<role argnum="0" argrole="acceptor (marked with من قبل,  لِـ- or في)" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing acceptable" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(FRAG
+  (CONJ و)
+  (PP-PRP
+    (PREP ل)
+    (SBAR
+      (-NONE- 0)
+      (S
+        (VP
+          (IV1P+IV+IVSUFF_MOOD:S نكون)
+          (NP-SBJ
+            (-NONE- *))
+          (ADJP-PRD
+            (ADJ+NSUFF_MASC_PL_ACC مقبولين))
+          (PP
+            (PREP في)
+            (NP
+              (NOUN+CASE_DEF_GEN مجتمع)
+              (NP
+                (POSS_PRON_1P نا))))))))
+  (PUNC ?))</parse>
+<arg f="" g="we" n="1">-NONE- *</arg>
+<arg f="" g="in our society" n="0">في مجتمعنا</arg>
+<comment/>
+</example>
+<comment/>
+<example>
+<parse>بحث مقبول للنشر</parse>
+<comment/>
+<arg f="" g="research" n="1">بحث</arg>
+<arg f="" g="for publication" n="2">للنشر</arg>
+</example>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what way" vncls="" vntheta=""/>
+</frameset>
+
+<comment/>
+</verb>

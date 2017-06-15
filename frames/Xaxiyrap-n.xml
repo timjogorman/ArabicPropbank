@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Xaxiyrap</id>
+<comment/>
+<frameset cdef="" edef="supply, supplies, reserve, ammunition" id="01" vncls="">
+<role argnum="1" argrole="the supply" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا المال هو ذخيرة * للمستقبل</parse>
+<comment/>
+<arg f="" g="this money" n="1">هذا المال</arg>
+<arg f="" g="for the future" n="2">للمستقبل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

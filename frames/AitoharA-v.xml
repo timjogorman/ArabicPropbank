@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoharA</id>
+<comment/>
+<frameset cdef="" edef="be tattered , be worn out" id="01" vncls="">
+<role argnum="1" argrole="things becoming worn out" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>القميص اتهرى * من اللبس</parse>
+<comment/>
+<arg f="" g="the shirt" n="1">* القميص</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+</frameset>
+</verb>

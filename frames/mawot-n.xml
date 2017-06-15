@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mawot</id>
+<comment/>
+<frameset cdef="" edef="death" id="01" vncls="">
+<role argnum="1" argrole="the deceased" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صعبة علينا موت واحد قريب عليك</parse>
+<comment/>
+<arg f="" g="someone close to you" n="1">واحد قريب عليك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

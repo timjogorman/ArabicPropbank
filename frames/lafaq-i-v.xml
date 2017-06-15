@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lafaq-i</id>
+
+<frameset cdef="" edef="to sew or tailor" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لفق الرجل الثوب</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the dress" n="1">الثوب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="material" vncls="" vntheta=""/>
+<role argnum="2" argrole="into what" vncls="" vntheta=""/>
+<role argnum="3" argrole="for whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to fail in getting something" id="02" vncls="">
+<role argnum="1" argrole="entity failing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لفق الصقر</parse>
+
+<arg f="" g="the hawk" n="1">الصقر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

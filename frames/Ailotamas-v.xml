@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Ailotamas</id>
+<comment>EGYPTIAN ARABIC based on {ilotamas</comment>
+    <frameset cdef="" edef="to request, to ask for" id="01">
+<role argnum="0" argrole="entity asking" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>التمس الابن من والده الذهاب الى الحفلة</parse>
+<comment />
+<arg f="" g="the son" n="0">الابن</arg>
+<arg f="" g="from his father" n="1">من والده</arg>
+<arg f="" g="to go to the party" n="2">الذهاب الى الحفلة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {ilotamas.01</comment>
+<role argnum="1" argrole="asking for" />
+<role argnum="2" argrole="from whom" />
+</frameset>
+</verb>

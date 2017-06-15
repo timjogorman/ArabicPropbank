@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hamolap</id>
+<comment/>
+<frameset cdef="" edef="attack or assult" id="01" vncls="">
+<role argnum="0" argrole="attacker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الجيش بحملة * على مراكز العدو في الليل</parse>
+<comment/>
+<arg f="" g="the Army" n="0">* الجيش</arg>
+<arg f="" g="at the enemies centers" n="1">على مراكز العدو</arg>
+<arg f="tmp" g="at night" n="m">في الليل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attacked" vncls="" vntheta=""/>
+</frameset>
+</verb>

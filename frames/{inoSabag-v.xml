@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoSabag</id>
+
+<frameset cdef="" edef="to be painted" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انصبت الغرفة بالفرشاة</parse>
+
+<arg f="" g="the room" n="1">الغرفة</arg>
+<arg f="" g="with a brush" n="3">بالفرشاة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity painted" vncls="" vntheta=""/>
+<role argnum="2" argrole="the color" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="the instrument" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

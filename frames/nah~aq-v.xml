@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>nah~aq</id>
+<comment>EGYPTIAN ARABIC Framefile based on nahaq-a-v</comment>
+<frameset cdef="" edef="to bray, to hee-haw" id="01" vncls="">
+<role argnum="0" argrole="entity braying (usaly donkey)" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>الراجل قاعد ينهق * من الصبح</parse>
+<comment />
+<arg f="" g="the man" n="0">* الراجل</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset nahaq-a-v.01</comment>
+</frameset>
+</verb>

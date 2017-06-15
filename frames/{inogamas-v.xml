@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inogamas</id>
+
+<frameset cdef="" edef="to plunge" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انغمس الثعبان في الوحل</parse>
+
+<arg f="" g="the snake" n="0">الثعبان</arg>
+<arg f="" g="in the mud" n="1">في الوحل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be wholly engaged in something" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انغمس جيهان في القراءة</parse>
+
+<arg f="" g="Jihan" n="0">جيهان</arg>
+<arg f="" g="in reading" n="1">في القراءة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

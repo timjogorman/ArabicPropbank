@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Salaq</id>
+<comment/>
+<frameset cdef="" edef="to shout in pain" id="01" vncls="">
+<role argnum="0" argrole="entity shouting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صقلت المرأة مولولة</parse>
+<comment/>
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="mnr" g="screaming" n="m">مولولة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to rub or scrub" id="02" vncls="">
+<role argnum="0" argrole="entity rubbing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صلق الطفل اسنانه بعضها ببعض</parse>
+<comment/>
+<arg f="" g="the baby" n="0">الطفل</arg>
+<arg f="" g="his teeth" n="1">اسنانه</arg>
+<arg f="" g="into each other" n="2">بعضها ببعض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things rubbed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to grill" id="03" vncls="">
+<role argnum="0" argrole="entity grilling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صلق  الرجل اللحم على الفحم</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the meet" n="1">اللحم</arg>
+<arg f="" g="on the coal" n="2">على الفحم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things grilled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with ahat" vncls="" vntheta=""/>
+</frameset>
+</verb>

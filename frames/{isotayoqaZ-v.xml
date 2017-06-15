@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotayoqaZ</id>
+
+<frameset cdef="" edef="to wake up" id="01" vncls="">
+<role argnum="1" argrole="sleeper" vncls="" vntheta=""/>
+<role argnum="2" argrole="sleep (often metaphorical)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS استيقظ)
+    (NP-SBJ
+      (-NONE- *))
+    (NP-TMP
+      (NOUN+CASE_INDEF_ACC باكرا))
+    (PP-MNR
+      (PREP ك)
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN عادت)
+        (NP
+          (POSS_PRON_3MS ه)))))
+  (PUNC .))</parse>
+<arg f="" g="-NONE-" n="0">*</arg>
+<arg f="tmp" g="early" n="m">باكرا</arg>
+<arg f="mnr" g="as usual" n="m">كعادته</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

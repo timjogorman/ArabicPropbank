@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$agal</id>
+<comment/>
+<frameset cdef="" edef="to be busy" id="01" vncls="">
+<role argnum="1" argrole="entity busy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا انشغلت * عنك بالكتاب ده</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="from you" n="3">عنك</arg>
+<arg f="" g="with this book" n="2">بالكتاب ده</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

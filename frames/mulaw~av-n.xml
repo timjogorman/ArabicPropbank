@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mulaw~av</id>
+<comment/>
+<frameset cdef="" edef="polluted, contaminated" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الماء ملوث * بمواد غريبة من المعمل</parse>
+<comment/>
+<arg f="" g="this water" n="1">* هذا الماء</arg>
+<arg f="" g="with strange material" n="2">بمواد غريبة</arg>
+<arg f="" g="from the factory" n="0">بمواد غريبة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity polluted" vncls="" vntheta=""/>
+<role argnum="2" argrole="polluted with" vncls="" vntheta=""/>
+</frameset>
+</verb>

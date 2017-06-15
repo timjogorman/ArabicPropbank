@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sab~-i</id>
+<comment/>
+<frameset cdef="" edef="to curse or swear" id="01">
+<role argnum="0" argrole="entity cursing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سب الولد أخاه</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity cursed"/>
+</frameset>
+</verb>

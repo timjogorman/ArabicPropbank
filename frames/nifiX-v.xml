@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>nifiX</id>
+<comment>EGYPTIAN ARABIC based on nafaX-u</comment>
+    <frameset cdef="" edef="to escape or go/slip through" id="01" vncls="">
+<role argnum="0" argrole="escapee" vncls="" vntheta="" />
+<role argnum="1" argrole="escape from" vncls="" vntheta="" />
+<role argnum="2" argrole="escape to" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>هذا ليس **-1 كلاما مثبطا , لكنه واقعنا الاليم 0 نفتش * فيه **-2 عن ثغرة 0 ننفذ* منها **-3 الى الخلاص .</parse>
+<arg f="" g="we" n="0">*</arg>
+<arg f="" g="from it &lt; a hole" n="1">منها **-3 &lt; ثغرة</arg>
+<arg f="" g="to salvation" n="2">الى الخلاص .</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset nafaX-u.01</comment>
+</frameset>
+
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kilomap</id>
+<comment/>
+<frameset cdef="" edef="word, speech, term" id="01" vncls="">
+<role argnum="0" argrole="talker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اسمع كلمة الله لولاده عن الخلاص</parse>
+<comment/>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="for his children" n="2">لولاده</arg>
+<arg f="" g="about salvation" n="1">عن الخلاص</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="subject" vncls="" vntheta=""/>
+<role argnum="2" argrole="audience" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$AE</id>
+
+    <frameset cdef="" edef="to be widespread, common, popular" id="01" vncls="">
+<role argnum="1" argrole="things spread" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الخبر شاع في كل مكان</parse>
+
+<arg f="" g="-NONE- &gt; the news" n="1">* &gt; الخبر</arg>
+<arg f="loc" g="everywhere" n="m">في كل مكان</arg>
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+<role argnum="2" argrole="where or audience" vncls="" vntheta=""/>
+
+
+<comment>Based on roleset $AE-i.01</comment>
+</frameset>
+
+
+
+<comment>EGYPTIAN ARABIC based on $AE-i</comment>
+</verb>

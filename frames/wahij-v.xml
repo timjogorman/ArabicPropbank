@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wahij</id>
+<comment/>
+<frameset cdef="" edef="to inflame, to glare, to blaze, to become hot" id="01" vncls="">
+<role argnum="1" argrole="entity inflaming or blazing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وهجت الشمس</parse>
+<comment/>
+<arg f="" g="the sun" n="1">الشمس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

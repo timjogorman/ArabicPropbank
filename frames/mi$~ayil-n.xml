@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mi$~ayil</id>
+<comment/>
+<frameset cdef="" edef="making carry things" id="01" vncls="">
+<role argnum="0" argrole="the agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده مشيل* نا بلاوي الدنيا</parse>
+<comment/>
+<arg f="" g="this man" n="0">* الراجل ده</arg>
+<arg f="" g="us" n="2">نا</arg>
+<arg f="" g="the worlds problems" n="1">بلاوي الدنيا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the burden" vncls="" vntheta=""/>
+<role argnum="2" argrole="the imposed or the carrier" vncls="" vntheta=""/>
+</frameset>
+</verb>

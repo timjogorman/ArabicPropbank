@@ -1,24 +1,23 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>tabAkaY</id>
-    <comment/>
-    <frameset cdef="" edef="to feign or pretend to cry" id="01">
-        <role argnum="0" argrole="the pretender"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>لماذا يتباكى العرب على سنة العراق
-                    
-                    Arg 0: العرب
-                    Arg 1: على سنة العراق
-                </parse>
-                <comment/>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="patient"/>
-    </frameset>
+<id>tabAkaY</id>
+<comment/>
+<frameset cdef="" edef="to feign crying, to pretend to be weeping" id="01" vncls="">
+<role argnum="0" argrole="entity pretending" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان الرجال يتباكون على المرحوم أمام أهله</parse>
+<comment/>
+<arg f="" g="the men" n="0">الرجال</arg>
+<arg f="" g="on the deceased" n="1">على المرحوم</arg>
+<arg f="loc" g="in front of his family" n="m">أمام أهله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+</frameset>
 </verb>

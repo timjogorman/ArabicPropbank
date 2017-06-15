@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tajAlas</id>
+<comment/>
+<frameset cdef="" edef="to sit with one another" id="01" vncls="">
+<role argnum="0" argrole="entity sitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تجالس القوم مع بعضهم للحوار</parse>
+<comment/>
+<arg f="" g="the people" n="0">القوم</arg>
+<arg f="" g="with each other" n="1">مع بعضهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

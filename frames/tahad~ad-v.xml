@@ -1,17 +1,17 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>tahad~ad</id>
-    <frameset cdef="" edef="to be threatened" id="01">
-        <role argnum="1" argrole="entity threatened"/>
-        <role argnum="2" argrole="threatened by"/>
-        <frame>
-            <example>
-                <parse>
-                    تهدد اللص بسماع صوت سيارة الشرطة
-                </parse>
-                <arg f="" g="police" n="1">اللص</arg>
-                <arg f="" g="from hearing the police sirens" n="2">بسماع صوت سيارة الشرطة</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>tahad~ad</id>
+<frameset cdef="" edef="to be threatened" id="01">
+<role argnum="1" argrole="entity threatened"/>
+<role argnum="2" argrole="threatened by"/>
+<frame>
+<example>
+<parse>
+تهدد اللص بسماع صوت سيارة الشرطة
+</parse>
+<arg f="" g="police" n="1">اللص</arg>
+<arg f="" g="from hearing the police sirens" n="2">بسماع صوت سيارة الشرطة</arg>
+</example>
+</frame>
+</frameset>
 </verb>

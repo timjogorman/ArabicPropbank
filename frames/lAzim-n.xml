@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lAzim</id>
+<frameset cdef="" edef="necessary / requisite" id="01" vncls="">
+<role argnum="1" argrole="thing necessary / requisite" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what?" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(VP
+                                  (PV+PVSUFF_SUBJ:1S قمت)
+                                  (NP-SBJ
+                                    (-NONE- *T*-3))
+                                  (PP-MNR
+                                    (PREP ب)
+                                    (NP
+                                      (NOUN نفس)
+                                      (NP
+                                        (POSS_PRON_1S ي))))
+                                  (PP-CLR
+                                    (PREP ب)
+                                    (NP
+                                      (NOUN+CASE_DEF_GEN تأمين)
+                                      (NP
+                                        (DET+NOUN+CASE_DEF_GEN الانابيب)
+                                        (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN اللازمة))))))))</parse>
+<arg f="" g="they" n="1">? &lt; الانابيب</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="must" id="02" vncls="">
+<role argnum="1" argrole="entity must" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أحنا لازم * ننهي الموضوع</parse>
+<comment/>
+<arg f="" g="we" n="1">* أحنا</arg>
+<arg f="" g="finish the subject" n="2">ننهي الموضوع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

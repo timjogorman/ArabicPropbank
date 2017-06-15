@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>siyAsap</id>
+<comment/>
+<frameset cdef="" edef="politics, policy" id="01" vncls="">
+<role argnum="1" argrole="political" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه هي سياسة الدولة تجاه الغرباء</parse>
+<comment/>
+<arg f="" g="the country" n="1">الدولة</arg>
+<arg f="" g="toward the strangers" n="2">تجاه الغرباء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="toward what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dAxilap</id>
+<frameset cdef="" edef="entering" id="01" vncls="">
+<role argnum="0" argrole="entering entity" vncls="" vntheta=""/>
+<role argnum="1" argrole="location" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(SUB_CONJ ان)
+            (S
+              (S
+                (NP-SBJ
+                  (DET+NOUN+CASE_DEF_ACC البلاد))
+                (ADJP-PRD
+                  (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM داخلة)
+                  (PP
+                    (PREP في)
+                    (NP
+                      (NOUN+CASE_INDEF_GEN طور)
+                      (ADJ+CASE_INDEF_GEN جديد)))))</parse>
+<arg f="" g="it" n="0">? &lt; البلاد</arg>
+<arg f="" g="a new phase" n="1">في طور جديد</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ino$aTab</id>
+
+<frameset cdef="" edef="to be erased or canceled" id="01" vncls="">
+<role argnum="1" argrole="things erased" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انشطب اسمها من االلائحة</parse>
+
+<arg f="" g="her name" n="1">اسمها</arg>
+<arg f="" g="from the list" n="2">من االلائحة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to be sliced,incised or slashed" id="03" vncls="">
+<role argnum="1" argrole="entity sliced" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انشطبت قطعة الجلد بالسكين</parse>
+
+<arg f="" g="the peice of leather" n="1">قطعة الجلد</arg>
+<arg f="mnr" g="with a knife" n="m">بالسكين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

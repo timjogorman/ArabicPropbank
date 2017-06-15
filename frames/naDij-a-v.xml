@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naDij-a</id>
+<comment/>
+<frameset cdef="" edef="to ripen, to mature, to become fully mature" id="01">
+<role argnum="1" argrole="entity getting mature, things to be ripe"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نضج الولد مبكرا</parse>
+<comment/>
+<arg f="" g="the boy" n="1">الولد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to go beyond the time" id="02">
+<role argnum="1" argrole="entity oner passing the time"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نضجت الحامل بولدها</parse>
+<comment/>
+<arg f="" g="the pregnant" n="1">الحامل</arg>
+<arg f="" g="with her child" n="2">بولدها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what"/>
+</frameset>
+</verb>

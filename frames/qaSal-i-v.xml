@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaSal-i</id>
+<comment/>
+<frameset cdef="" edef="to cut" id="01" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قصل النجار الخشب بالمنشار</parse>
+<comment/>
+<arg f="" g="carpenter" n="0">النجار</arg>
+<arg f="" g="the wood" n="1">الخشب</arg>
+<arg f="" g="with the saw" n="2">بالمنشار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity cutent" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrum" vncls="" vntheta=""/>
+</frameset>
+</verb>

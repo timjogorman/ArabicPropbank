@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gal~ib</id>
+<comment/>
+<frameset cdef="" edef="to give trouble to, to disturb" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يا رجل ما تغلب * حالك</parse>
+<comment/>
+<arg f="" g="man" n="0">* رجل</arg>
+<arg f="" g="yourself" n="1">حالك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

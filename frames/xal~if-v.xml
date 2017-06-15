@@ -1,0 +1,96 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xal~if</id>
+<frameset cdef="" edef="to leave behind" id="01" vncls="">
+<role argnum="0" argrole="entity responsible" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing left / event" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute of arg1" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS اطلع)
+      (NP-SBJ
+        (-NONE- *))
+      (PP-CLR
+        (PREP على)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الاضرار))
+          (SBAR
+            (WHNP-1
+              (REL_PRON التي))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS خلفت)
+                (NP-OBJ
+                  (NP
+                    (PVSUFF_DO:3FS ها))
+                  (NP
+                    (-NONE- *T*-1)))
+                (NP-SBJ
+                  (DET+NOUN+CASE_DEF_NOM السيول))
+                (PP
+                  (PREP في)
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الممتلكات)
+                    (CONJ و)
+                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN المزروعات))))))))))
+  (PUNC .))</parse>
+<arg f="" g="the streaming" n="0">السيول</arg>
+<arg f="" g="It" n="1">-NONE- *T*-1&lt;الاضرار</arg>
+<arg f="" g="in the farms and the properties" n="2">في الممتلكات والمزروعات</arg>
+<V/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset xal~af-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on xal~af-v</comment>
+<frameset cdef="" edef="to give birth to" id="02" vncls="">
+<role argnum="0" argrole="the birth giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-VOC
+      (PRT
+        (VOC_PART يَا))
+      (NOUN رَبّ))
+    (VP
+      (IV3MS+IV يطَس)
+      (NP-OBJ
+        (NOUN اِعْدام))
+      (NP-SBJ
+        (NP
+          (PRON_3MS هُوَّ))
+        (CONJ وِ)
+        (SBAR-NOM
+          (WHNP-1
+            (REL_PRON اللِي))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3P خَلِّفُوا)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (PVSUFF_DO:3MS ُه)))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*T*-1 NONE</arg>
+<arg f="" g="he" n="1">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="born one" vncls="" vntheta=""/>
+</frameset>
+</verb>

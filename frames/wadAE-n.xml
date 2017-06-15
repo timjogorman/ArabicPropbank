@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wadAE</id>
+<comment/>
+<frameset cdef="" edef="farewell, good-bye" id="01" vncls="">
+<role argnum="0" argrole="entity saying goodbye" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ذهبنا كلنا من أجل وداع * أبي قبل سفره</parse>
+<comment/>
+<arg f="" g="all of us" n="0">* كلنا</arg>
+<arg f="" g="my father" n="1">أبي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

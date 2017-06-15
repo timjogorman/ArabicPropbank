@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OahowaY</id>
+<comment/>
+<frameset cdef="" edef="to drop or throw down" id="01">
+<role argnum="0" argrole="entity dropping"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أهوى * الحجارة من سطح العمارة الى الشارع عليهم</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the rocks" n="1">الحجارة</arg>
+<arg f="" g="from the roof of the building" n="2">من سطح العمارة</arg>
+<arg f="" g="to the street" n="3">الى الشارع</arg>
+<arg f="" g="on them" n="4">عليهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="dropped things"/>
+<role argnum="2" argrole="start point"/>
+<role argnum="3" argrole="end point"/>
+<role argnum="4" argrole="victim"/>
+</frameset>
+<frameset cdef="" edef="to strike, to hit (multi word expression)" id="02">
+<role argnum="0" argrole="entity hitting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أهوى * عليهم بالسوط</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONR</arg>
+<arg f="" g="on them" n="1">عليهم</arg>
+<arg f="" g="with a whip" n="2">بالسوط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit"/>
+<role argnum="2" argrole="with what"/>
+</frameset>
+</verb>

@@ -1,0 +1,146 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AiEotaraD</id>
+<comment>EGYPTIAN ARABIC based on {iEotaraD</comment>
+    <frameset cdef="" edef="to object or be opposed to" id="01">
+<role argnum="0" argrole="complainer" />
+<role argnum="1" argrole="objected to - usually mared by على" />
+<frame>
+<mapping>
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3MS قال)
+      (NP-SBJ
+        (NOUN_PROP عنان))
+      (SBAR
+        (SUB_CONJ ان)
+        (S
+          (NP-TPC-1
+            (NOUN_PROP+CASE_DEF_ACC بغداد))
+          (VP
+            (PV+PVSUFF_SUBJ:3FS اعترضت)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (PP-CLR
+              (PREP على)
+              (NP
+                (NP
+                  (NOUN+NSUFF_FEM_DU_GEN_POSS منطقتي)
+                  (NP
+                    (NOUN+CASE_DEF_GEN حظر)
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN الطيران))))))))))
+    (PUNC .)))</parse>
+<arg f="" g="-NONE- &gt; Baghdad" n="0">*T*-1 &gt; بغداد</arg>
+
+
+
+
+<arg f="" g="on the two No-Fly zones" n="1">على منطقتي حظر الطيران</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset {iEotaraD.01</comment>
+</frameset>
+<frameset cdef="" edef="to intercept" id="03">
+<role argnum="0" argrole="agent" />
+<role argnum="1" argrole="patient" />
+<frame>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3MS أكد)
+        (NP-TMP
+          (NOUN أمس))
+        (NP-SBJ
+          (NOUN+CASE_INDEF_NOM مسؤول)
+          (ADJ+CASE_INDEF_NOM يمني))
+        (SBAR
+          (SUB_CONJ ان)
+          (S
+            (NP-TPC-1
+              (NOUN_PROP+CASE_DEF_ACC صنعاء))
+            (VP
+              (PV+PVSUFF_SUBJ:3FS تسلمت)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (NP
+                  (NP
+                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC شحنة))
+                  (PP
+                    (PREP من)
+                    (NP
+                      (NP
+                        (NOUN_NUM 15)
+                        (NP
+                          (NOUN+CASE_DEF_GEN صاروخ)
+                          (NP
+                            (PUNC ")
+                            (NOUN_PROP سكود)
+                            (PUNC "))))
+                      (ADJP
+                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC كورية)
+                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC شمالية)))))
+                (SBAR
+                  (SBAR
+                    (WHNP-2
+                      (-NONE- 0))
+                    (S
+                      (VP
+                        (PV+PVSUFF_SUBJ:3FS اعترضت)
+                        (NP-OBJ
+                          (NP
+                            (PVSUFF_DO:3FS ها))
+                          (NP
+                            (-NONE- *T*-2)))
+                        (NP-SBJ
+                          (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_NOM الولايات)
+                          (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM المتحدة))
+                        (PP-LOC
+                          (PREP في)
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN البحر))))))
+                  (CONJ ثم)
+                  (SBAR
+                    (WHNP-4
+                      (-NONE- 0))
+                    (S
+                      (VP
+                        (PV+PVSUFF_SUBJ:3FS افرجت)
+                        (NP-SBJ
+                          (-NONE- *))
+                        (PP-CLR
+                          (PREP عن)
+                          (NP
+                            (NP
+                              (PRON_3FS ها))
+                            (NP
+                              (-NONE- *T*-4))))))))))))))
+     (PUNC .)))</parse>
+<arg f="" g="them -NONE-" n="1">ها *T*-2</arg>
+<arg f="" g="the U.S." n="0">الولايات المتحدة</arg>
+<arg f="loc" g="at sea" n="m">في البحر</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset {iEotaraD.03</comment>
+</frameset>
+
+</verb>

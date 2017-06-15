@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoHas~in</id>
+
+    <frameset cdef="" edef="To improve" id="01" vncls="">
+<role argnum="1" argrole="thing improving" vncls="" vntheta=""/>
+<role argnum="2" argrole="starting point" vncls="" vntheta=""/>
+<role argnum="3" argrole="ending point" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(VP
+      (PV+PVSUFF_SUBJ:3MS تحسن)
+      (NP-SBJ
+        (DET+NOUN+CASE_DEF_NOM الاداء)
+        (DET+ADJ+CASE_DEF_NOM العام))
+      (NP-MNR
+        (NOUN+CASE_INDEF_ACC نسبيا))))</parse>
+<arg f="" g="Overall performance" n="1">الاداء العام</arg>
+<arg f="mnr" g="relatively" n="m">نسبيا</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset taHas~an.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on taHas~an</comment>
+</verb>

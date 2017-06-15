@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muqAs</id>
+<comment/>
+<frameset cdef="" edef="measured" id="01" vncls="">
+<role argnum="0" argrole="entity measuring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كل شيء مقاس * بالمتر</parse>
+<comment/>
+<arg f="" g="every thing" n="1">* كل شيء</arg>
+<arg f="" g="by meter" n="2">بالمتر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity measured" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

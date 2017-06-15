@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$atiymap</id>
+<comment>Based on verb $atam-iu</comment>
+<frameset cdef="" edef="an insult" id="01" vncls="">
+<role argnum="0" argrole="insultor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="insult" vncls="" vntheta=""/>
+<role argnum="2" argrole="insulted" vncls="" vntheta=""/>
+</frameset>
+</verb>

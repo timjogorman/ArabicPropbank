@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faSol</id>
+<comment/>
+<frameset cdef="" edef="separating, dismissing or  discharging" id="01" vncls="">
+<role argnum="0" argrole="entity causing separation" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(FUT_PART سَ))
+      (IV3FS+IV_PASS تُعرَض)
+      (NP-SBJ-3
+        (NOUN+NSUFF_FEM_SG مَسْأَلَة)
+        (S-NOM
+          (VP
+            (NOUN.VN فَصْل)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NOUN جَنُوب)
+              (NP
+                (DET+NOUN_PROP السُودان)))
+            (PP-CLR
+              (PREP عَن)
+              (NP
+                (NOUN+NSUFF_FEM_SG دَوْلَة)
+                (NP
+                  (DET+NOUN_PROP السُودان)))))))
+      (NP-OBJ
+        (-NONE- *-3))
+      (PP-CLR
+        (PREP لِ)
+        (NP
+          (NOUN رَأْي)
+          (NP
+            (NP
+              (NOUN سُكّان)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG المِنْطَقَة)))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="south of Sudan" n="1">جنوب السودان</arg>
+<arg f="" g="from the country of Sudan" n="2">عن دولة السودان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing being divided" vncls="" vntheta=""/>
+<role argnum="2" argrole="source, separated from" vncls="" vntheta=""/>
+</frameset>
+</verb>

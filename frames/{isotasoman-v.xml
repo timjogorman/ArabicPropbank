@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotasoman</id>
+
+<frameset cdef="" edef="to consider something or somebody to be big" id="01" vncls="">
+<role argnum="0" argrole="the one who considers" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قد اسْتَسْمَنْتَ ذا وَرَم</parse>
+
+<arg f="" g="NONE" n="0">*?NONE</arg>
+<arg f="" g="a swollen object" n="1">ذا وَرَم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the entity considered to be big" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to order somebody to bring some fat" id="02" vncls="">
+<role argnum="0" argrole="the asker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استسمن الرجل سمنا</parse>
+
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="fat" n="1">سمنا</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things asked" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

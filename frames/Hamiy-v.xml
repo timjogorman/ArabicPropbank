@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hamiy</id>
+
+<frameset cdef="" edef="to be or become hot or violent" id="01" vncls="">
+<role argnum="1" argrole="entity becoming hot" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حمي الحديد</parse>
+
+<arg f="" g="the iron" n="1">الحديد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to get mad, to become violent (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity getting mad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حمي غضبه عليه</parse>
+
+<arg f="" g="his anger" n="0">غضبه</arg>
+<arg f="" g="on him" n="1">عليه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="on whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

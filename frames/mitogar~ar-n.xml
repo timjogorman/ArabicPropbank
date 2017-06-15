@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitogar~ar</id>
+<comment/>
+<frameset cdef="" edef="to be deceived or mislead" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شبابنا اليوم متغرر * بالافلام</parse>
+<comment/>
+<arg f="" g="our young people" n="1">* شبابنا</arg>
+<arg f="" g="with the movies" n="2">بالافلام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity misleaded" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what or by what" vncls="" vntheta=""/>
+</frameset>
+</verb>

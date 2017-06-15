@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tajam~al</id>
+
+<frameset cdef="" edef="take a side" id="01" vncls="">
+<role argnum="0" argrole="entity taking side" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>من عادته أن يتجمَّل * في الحديث إلى الزبائن</parse>
+
+<arg f="" g="he" n="0">* ه</arg>
+<arg f="" g="the customers" n="1"/>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="whos side" vncls="" vntheta=""/>
+<role argnum="2" argrole="against who" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to adorn oneself,to put make up" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تجملت المرأة</parse>
+
+<arg f="" g="the woman" n="0">المرأة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="1" argrole="the make up" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

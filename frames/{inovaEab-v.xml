@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inovaEab</id>
+<comment/>
+<frameset cdef="" edef="" id="01" vncls="">
+<role argnum="1" argrole="thing's coming out" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انثعب الوقود من خزان السيارة</parse>
+<comment/>
+<arg f="" g="gas" n="1">الوقود</arg>
+<arg f="" g="from the car tank" n="2">من خزان السيارة</arg>
+</example>
+<comment/>
+</frame>
+<comment>to come out</comment>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

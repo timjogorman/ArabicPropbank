@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>misotaxosar</id>
+<comment/>
+<frameset cdef="" edef="underdog" id="01" vncls="">
+<role argnum="0" argrole="entity that will not give" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انت مستخسر * حتة الكتاب ده فيَّ</parse>
+<comment/>
+<arg f="" g="you" n="0">* انت</arg>
+<arg f="" g="this book" n="1">حتة الكتاب ده</arg>
+<arg f="" g="for me" n="2">فيَّ</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things not given" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

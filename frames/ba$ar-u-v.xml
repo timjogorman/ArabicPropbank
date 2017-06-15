@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ba$ar-u</id>
+
+<frameset cdef="" edef="to rejoice at or be happy at" id="01" vncls="">
+<role argnum="0" argrole="entity being happy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بشر الرجل بزيارة أخيه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with his brother's visit" n="1">بزيارة أخيه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to make happy" id="02" vncls="">
+<role argnum="0" argrole="entity making happy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بشر الطالب أهله بنجاحه</parse>
+
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="his family" n="1">أهله</arg>
+<arg f="" g="with his success" n="2">بنجاحه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity made happy" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to peel" id="03" vncls="">
+<role argnum="0" argrole="peeler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بشرت الأم التفاحة بالسكين</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="the apple" n="1">التفاحة</arg>
+<arg f="" g="with the knife" n="2">بالسكين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="peeled" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ma$aq-u</id>
+<comment/>
+<frameset cdef="" edef="to draw out the sword" id="01" vncls="">
+<role argnum="0" argrole="entity drawing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مشق الرجل السيف</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the sword" n="1">السيف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things pulled" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to comb, to tear up or shred, to whip or lash" id="02" vncls="">
+<role argnum="0" argrole="entity combing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مشق الرجل شعره بالمشط</parse>
+<comment/>
+<arg f="" g="tthe man" n="0">الرجل</arg>
+<arg f="" g="his hair" n="1">شعره</arg>
+<arg f="" g="with a comb" n="2">بالمشط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things combed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

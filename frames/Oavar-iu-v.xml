@@ -1,83 +1,66 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Oavar-iu</id>
-    <frameset cdef="" edef="to raise (a question, an issue)" id="01">
-        <role argnum="0" argrole="entity raising"/>
-        <role argnum="1" argrole="entity raised"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (S
-                    (NP-TPC-1
-                    (NP
-                    (DET+NOUN+CASE_DEF_NOM الطريق))
-                    (ADJP
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM الظاهرة)
-                    (PP
-                    (PREP في)
-                    (NP
-                    (NP
-                    (DEM_PRON_F هذه))
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الصورة))))))
-                    (VP
-                    (IV3FS+IV_PASS+IVSUFF_MOOD:I تعد)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (S
-                    (NP-SBJ
-                    (-NONE- *-1))
-                    (NP-PRD
-                    (NP
-                    (NOUN+CASE_INDEF_ACC نموذجاً)
-                    (ADJ+CASE_INDEF_ACC صارخاً))
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (NOUN+CASE_DEF_GEN طرق)
-                    (NP
-                    (NOUN_PROP زبدين)
-                    (PUNC ,)
-                    (NOUN_PROP حاروف)
-                    (PUNC ,)
-                    (DET+NOUN_PROP الدوير)
-                    (PUNC ,)
-                    (CONJ و)
-                    (NOUN_PROP أنصار))))))))
-                    (PUNC ,)
-                    (CONJ و)
-                    (S
-                    (VP
-                    (PRT
-                    (VERB_PART قد))
-                    (PV+PVSUFF_SUBJ:1S اثرت)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (NP
-                    (DEM_PRON_MS هذا))
-                    (NP
-                    (DET+NOUN+CASE_DEF_ACC الموضوع)))
-                    (NP-MNR
-                    (NOUN+CASE_INDEF_ACC تكراراً))
-                    (NAC
-                    (CONJP
-                    (CONJ و)
-                    (CONJ لكن))
-                    (PP-MNR
-                    (PREP من)
-                    (NP
-                    (NOUN+CASE_DEF_GEN دون)
-                    (NP
-                    (NOUN جدوى)))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="" n="0">-NONE- *</arg>
-                <arg f="" g="this subject" n="1">هذا الموضوع</arg>
-                <arg f="mnr" g="repeatedly" n="m">تكراراً</arg>
-                <arg f="adv" g="but to no avail" n="m">و لكن من دون جدوى</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Oavar-iu</id>
+<frameset cdef="" edef="to transmit, transfer" id="01" vncls="">
+<role argnum="0" argrole="entity transfering" vncls="" vntheta=""/>
+<role argnum="1" argrole="theme" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>أثَر * الحديثَ</parse>
+
+
+
+
+
+<arg f="" g="he" n="0">*</arg>
+<arg f="" g="the discussion" n="1">الحديثَ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to follow, to track" id="02" vncls="">
+<role argnum="0" argrole="follower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أثَرت * المجرمَ</parse>
+
+<arg f="" g="she" n="0">*</arg>
+<arg f="" g="the criminal" n="1">المجرمَ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="followed" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to honor, to confer honor upon" id="03" vncls="">
+<role argnum="0" argrole="honorer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أثر الرجل ضيفه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his guest" n="1">ضيفه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="person honored" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what, purpose, role" vncls="" vntheta=""/>
+</frameset>
 </verb>

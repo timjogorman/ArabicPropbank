@@ -1,0 +1,84 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Hay~</id>
+<frameset cdef="" edef="to reanimate or recall" id="01" vncls="">
+<role argnum="0" argrole="recaller" vncls="" vntheta="" />
+<role argnum="1" argrole="thing being recalled/reanimated" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (PP
+    (PREP في)
+    (NP
+      (NP
+        (DEM_PRON_MS هذا)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الكتاب)
+  (VP
+    (IV3MS+IV+IVSUFF_MOOD:I يبرز)
+    (NP-SBJ
+      (DET+NOUN+CASE_DEF_NOM البطريرك)
+      (NOUN_PROP اغناطيوس)
+      (DET+ADJ_NUM+CASE_DEF_NOM الرابع)
+    (NP-ADV
+      (NP
+        (NOUN+CASE_INDEF_ACC ناسكاً)
+        (ADJ+CASE_INDEF_ACC عفيفاً)
+      (SBAR
+        (WHNP-4
+          (-NONE- 0)
+        (S
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يحيا)
+            (NP-SBJ
+              (-NONE- *T*-4)
+            (NP-ADV
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC عيشة)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN تلامذة)
+                (NP
+                  (DET+NOUN_PROP المسيح)</parse>
+<arg f="" g="*T*-4 &lt; The Patriarch Ignatious IV" n="0">-NONE- &lt;البطريرك اغناطيوس الرابع</arg>
+<arg f="" g="the way Christ's pupils lived" n="1">عيشة تلامذة المسيح</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Hay~-a.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on Hay~-a</comment>
+<frameset cdef="" edef="long live" id="02" vncls="">
+<role argnum="1" argrole="entity or things long living" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(NP-SBJ
+                (-NONE- *))
+              (NP-ADV
+                (-NONE- *T*-4)))))
+        (CONJ و)
+        (SBAR-NOM
+          (WHNP-6
+            (-NONE- 0))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MP هتفوا)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-ADV
+                (-NONE- *T*-6))
+              (S
+                (VP
+                  (IV3MS+IV+IVSUFF_MOOD:I يحيا)
+                  (NP-SBJ
+                    (DET+NOUN العدل)))))))))
+    (PUNC .)))</parse>
+<comment />
+<arg f="" g="justice" n="1">العدل</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Hay~-a.02</comment>
+</frameset>
+</verb>

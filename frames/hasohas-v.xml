@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hasohas</id>
+<comment/>
+<frameset cdef="" edef="to crumble/break something into small pices" id="01" vncls="">
+<role argnum="0" argrole="entity crumble" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هسهس السيارة لعبة الطفل</parse>
+<comment/>
+<arg f="" g="the car" n="0">السيارة</arg>
+<arg f="" g="the boy's toy" n="1">لعبة الطفل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity crumbled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to whish or murmur" id="02" vncls="">
+<role argnum="0" argrole="the entity murmuring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the topic" vncls="" vntheta=""/>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

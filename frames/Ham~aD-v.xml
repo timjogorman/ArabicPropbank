@@ -1,0 +1,80 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ham~aD</id>
+<comment/>
+<frameset cdef="" edef="to develop (film), to make sour or acid" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (ADJP-PRD
+      (DET+NOUN المُهِمّ))
+    (SBAR-SBJ
+      (-NONE- 0)
+      (S
+        (PP-TMP
+          (PREP فِي)
+          (NP
+            (NP
+              (DET+NOUN اليُوم))
+            (SBAR
+              (WHNP-1
+                (REL_PRON اللِّي))
+              (S
+                (NP-TMP-PRD
+                  (NOUN بَعْدِي)
+                  (NP
+                    (POSS_PRON_3MS ِه)))
+                (NP-SBJ
+                  (-NONE- *T*-1))))))
+        (VP
+          (PV+PVSUFF_SUBJ:1S أَخَدْت)
+          (NP-OBJ
+            (DET+NOUN الكامِيرا))
+          (NP-SBJ
+            (NP
+              (PRON_1S انا))
+            (CONJ وِ)
+            (NP
+              (NOUN+NSUFF_FEM_PL زَمِيلَت)
+              (NP
+                (POSS_PRON_1S ِي))))
+          (PP-DIR
+            (PREP لِ)
+            (NP
+              (NOUN اِسْتُوديُو)
+              (NOUN تانِي)))
+          (PP-PRP
+            (PREP عَ)
+            (NP
+              (NOUN شَأْن)
+              (S
+                (S
+                  (VP
+                    (IV3MS+IV يِطَلَّع)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (DET+NOUN الفِيلم))))
+                (CONJ وَ)
+                (S
+                  (VP
+                    (IV3MS+IV يحَمَّض)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (IVSUFF_DO:3MS ُه))))))))))))</parse>
+<comment/>
+<arg f="" g="another studio" n="0">* اِسْتُوديُو تانِي</arg>
+<arg f="" g="it" n="1">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing developed" vncls="" vntheta=""/>
+</frameset>
+</verb>

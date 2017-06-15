@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tawar~aE</id>
+<comment/>
+<frameset cdef="" edef="to refrain from, to avoid, to be pure" id="01">
+<role argnum="0" argrole="entity avoiding"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كالذي لا يتورع * عن الشتم بغير حق والغيبة</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="from verbal abuse" n="1">عن الشتم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="avoiding what"/>
+</frameset>
+</verb>

@@ -1,0 +1,136 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sAq</id>
+
+    <frameset cdef="" edef="To report" id="01" vncls="">
+<role argnum="0" argrole="reporter" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing reported" vncls="" vntheta=""/>
+<role argnum="2" argrole="reported about" vncls="" vntheta=""/>
+<role argnum="3" argrole="entity reported to" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+        (PUNC ")
+        (NP-SBJ
+          (NP
+            (NOUN_QUANT+CASE_DEF_ACC كل)
+            (NP
+              (NP
+                (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الاتهامات)
+                (CONJ و)
+                (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الادعاءات))
+              (SBAR
+                (WHNP-1
+                  (REL_PRON التي))
+                (S
+                  (VP
+                    (IV3FS+IV+IVSUFF_MOOD:I تسوق)
+                    (NP-OBJ
+                      (NP
+                        (IVSUFF_DO:3FS ها))
+                      (NP
+                        (-NONE- *T*-1)))
+                    (NP-SBJ
+                      (NOUN_PROP اميركا)
+                      (CONJ و)
+                      (NOUN_PROP+CASE_DEF_NOM اسرائيل))
+                    (NP-ADV
+                      (NOUN+CASE_DEF_ACC ضد)
+                      (NP
+                        (NOUN_PROP+CASE_DEF_GEN حزب)
+                        (NP
+                          (NOUN_PROP+CASE_DEF_GEN الله)))))))))
+          (NP
+            (PRON_3FS هي)))
+        (NP-PRD
+          (NP
+            (NOUN+CASE_INDEF_NOM حرب)
+            (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM نف___سية))
+          (SBAR
+            (WHNP-3
+              (-NONE- 0))</parse>
+<arg f="" g="America and Israel" n="0">اميركا واسرائيل</arg>
+<arg f="" g="It" n="1">ها</arg>
+<arg f="" g="Against Hezbollah" n="2">ضد حزب الله</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset sAq-u.01</comment>
+</frameset>
+<frameset cdef="" edef="To drive" id="02" vncls="">
+<role argnum="0" argrole="driver" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing driven" vncls="" vntheta=""/>
+<role argnum="2" argrole="driven from" vncls="" vntheta=""/>
+<role argnum="3" argrole="driven to" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>هو بيسوق * سيارته بسرعة</parse>
+<arg f="" g="he" n="0">* هو</arg>
+
+
+<arg f="" g="his car" n="1">سيارته</arg>
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset sAq-u.02</comment>
+</frameset>
+<frameset cdef="" edef="to do things more and more" id="03" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>لو عطونا وش بنسوق  * فيها</parse>
+
+<arg f="" g="we" n="0">* نا</arg>
+<arg f="" g="in it" n="1">فيها</arg>
+
+<comment/>
+</example>
+
+
+<comment>ARZ</comment>
+</frame>
+
+<role argnum="1" argrole="things done" vncls="" vntheta=""/>
+
+<comment>ARZ
+Based on roleset sAq-u.03</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on sAq-u</comment>
+<frameset cdef="" edef="to lead toward or against" id="04" vncls="">
+<role argnum="0" argrole="pusher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو بيسوق *  علينا الناس</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="against us" n="2">علينا</arg>
+<arg f="" g="the people" n="1">الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things pushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="toward what" vncls="" vntheta=""/>
+</frameset>
+</verb>

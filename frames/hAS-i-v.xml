@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hAS-i</id>
+<comment/>
+<frameset cdef="" edef="to have fun to celebrate" id="01" vncls="">
+<role argnum="0" argrole="entity having fun" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دولة فيها ناس هايصة * و ناس لايصة</parse>
+<comment/>
+<arg f="" g="people" n="0">* ناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to break, to pound or crush" id="02" vncls="">
+<role argnum="0" argrole="entity crushing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هاص * عنقه</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="neck" n="1">عنق</arg>
+<arg f="" g="he" n="2">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things crushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to treat harshly" id="03" vncls="">
+<role argnum="0" argrole="entity treating harshly" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هاص * به</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="by him" n="1">به</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

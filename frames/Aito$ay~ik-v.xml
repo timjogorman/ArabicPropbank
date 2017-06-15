@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$ay~ik</id>
+<comment/>
+<frameset cdef="" edef="be elegant      تأنق" id="01" vncls="">
+<role argnum="0" argrole="entity well dressed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انت بتتأنقي * بالبدلة دي جامد أوي</parse>
+<comment/>
+<arg f="" g="you" n="0">* انت</arg>
+<arg f="" g="with this dress" n="1">بالبدلة دي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

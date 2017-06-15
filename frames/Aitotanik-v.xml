@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitotanik</id>
+<comment/>
+<frameset cdef="" edef="to thank someone" id="01" vncls="">
+<role argnum="0" argrole="thanker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SQ
+    (VP
+      (PRT
+        (FUT_PART حا))
+      (IV2FS+IV+IVSUFF_SUBJ:2FS تِتَنِكِي)
+      (NP-SBJ
+        (-NONE- *))
+      (ADVP
+        (ADV بَقَى)))
+    (PUNC ?)))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">-NONE- * ?</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity thanked" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what?" vncls="" vntheta=""/>
+</frameset>
+</verb>

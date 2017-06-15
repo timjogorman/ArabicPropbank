@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$aw~ik</id>
+<comment/>
+<frameset cdef="" edef="to prick or sting" id="01" vncls="">
+<role argnum="0" argrole="entity stinging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الوردة بتشوك * اللي يحبها</parse>
+<comment/>
+<arg f="" g="the flower" n="0">* الوردة</arg>
+<arg f="" g="the one who loves it" n="1">اللي يحبها</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

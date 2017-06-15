@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rabaq-u</id>
+<comment/>
+<frameset cdef="" edef="to tie or bind, to tighten" id="01" vncls="">
+<role argnum="0" argrole="entity binding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ربق المزارع البعير في الربق الى الحائط</parse>
+<comment/>
+<arg f="" g="the farmer" n="0">المزارع</arg>
+<arg f="" g="the camel" n="1">البعير</arg>
+<arg f="" g="in the noose" n="3">في الربق</arg>
+<arg f="" g="to the wall" n="2">الى الحائط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity binded" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

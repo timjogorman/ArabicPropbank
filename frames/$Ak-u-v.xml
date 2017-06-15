@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$Ak-u</id>
+<comment/>
+<frameset cdef="" edef="to prick or sting or to pierce, to hurt" id="01">
+<role argnum="0" argrole="entity stinging"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شاك * اخيه ابرة</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="his brother" n="1">اخيه</arg>
+<arg f="" g="needle or injection" n="2">ابرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim"/>
+<role argnum="2" argrole="with what"/>
+</frameset>
+</verb>

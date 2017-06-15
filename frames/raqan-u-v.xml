@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raqan-u</id>
+<comment/>
+<frameset cdef="" edef="to hatch, to hachure (ظلل كما في الرسم), to dye or tinge" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رقن الفنان الرسم</parse>
+<comment/>
+<arg f="" g="the artist" n="0">الفنان</arg>
+<arg f="" g="the painting" n="1">الرسم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things shadowed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

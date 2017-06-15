@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoraqaE</id>
+<comment/>
+<frameset cdef="" edef="to be slammed or hit" id="01" vncls="">
+<role argnum="0" argrole="agent, hitter - animate only!" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا اترقعت * بكف على وشي من أبويا</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="a slap" n="3">بكف</arg>
+<arg f="" g="on my face" n="2">على وشي</arg>
+<arg f="" g="from my father" n="0">من أبويا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="place hit" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument, thing hit by or with" vncls="" vntheta=""/>
+</frameset>
+</verb>

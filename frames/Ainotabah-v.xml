@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ainotabah</id>
+<comment>Egyptian Arabic based on {inotabah</comment>
+<frameset cdef="" edef="to notice,  pay attention" id="01" vncls="">
+<role argnum="0" argrole="noticer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>based on roleset {inotabah.01</comment>
+<role argnum="1" argrole="noticed" vncls="" vntheta=""/>
+</frameset>
+</verb>

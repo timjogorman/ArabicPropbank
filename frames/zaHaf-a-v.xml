@@ -1,19 +1,48 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>zaHaf-a</id>
-    <frameset cdef="" edef="to advance slowly" id="01">
-        <role argnum="0" argrole="entity moving"/>
-        <role argnum="1" argrole="direction"/>
-        <frame>
-            <example>
-                <parse>قوات التمرد بزعامة ناكوندا زحفت * نحو الشمال</parse>
-                <arg f="" g="The rebel forces directed by Naconda" n="0">*T* &amp;lt; قوات التمرد بزعامة ناكوندا</arg>
-                <arg f="" g="towards to the north" n="1">نحو الشمال</arg>
-                <comment/>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-    </frameset>
-    <comment/>
+<id>zaHaf-a</id>
+<frameset cdef="" edef="to advance slowly" id="01" vncls="">
+<role argnum="0" argrole="entity moving" vncls="" vntheta=""/>
+<role argnum="1" argrole="direction" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>قوات التمرد بزعامة ناكوندا زحفت * نحو الشمال</parse>
+<arg f="" g="The rebel forces directed by Naconda" n="0">*T* &lt; قوات التمرد بزعامة ناكوندا</arg>
+<arg f="" g="towards to the north" n="1">نحو الشمال</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+
+<frameset cdef="" edef="to crawl" id="02" vncls="">
+<role argnum="0" argrole="entity crawling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>زحف المقاتل فوق الحجر القاسي</parse>
+
+<arg f="" g="the warrior" n="0">المقاتل</arg>
+<arg f="" g="on the hard stone" n="1">فوق الحجر القاسي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

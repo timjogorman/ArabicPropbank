@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dawa$</id>
+<comment/>
+<frameset cdef="" edef="making dizzy, making a lot of noise" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ابني الصغير دوش * راسي بصوته</parse>
+<comment/>
+<arg f="" g="my young boy" n="0">* ابني الصغير</arg>
+<arg f="" g="my head" n="1">راسي</arg>
+<arg f="" g="with his voice" n="2">بصوته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

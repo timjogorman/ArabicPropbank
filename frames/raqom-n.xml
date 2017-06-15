@@ -1,19 +1,27 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>raqom</id>
-    <comment/>
-    <frameset cdef="" edef="number" id="01">
-        <role argnum="0" argrole="thing with (owning) the number"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse/>
-                <comment/>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-    </frameset>
+<id>raqom</id>
+
+<frameset cdef="" edef="number" id="01" vncls="">
+<role argnum="0" argrole="thing with (owning) the number" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رقم الكتاب هو سبعة</parse>
+
+<comment/>
+<arg f="" g="the book" n="0">الكتاب</arg>
+<arg f="" g="is seven" n="1">هو سبعة</arg>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="1" argrole="the number" vncls="" vntheta=""/>
+</frameset>
+<comment/>
 </verb>

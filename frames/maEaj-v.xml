@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maEaj</id>
+
+<frameset cdef="" edef="to move, to shake or stir" id="01" vncls="">
+<role argnum="0" argrole="mover" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>معج الكاتب القلم في الدواة</parse>
+
+<arg f="" g="the writer" n="0">الكاتب</arg>
+<arg f="" g="the pen" n="1">القلم</arg>
+<arg f="loc" g="in the inkwell" n="m">في الدواة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things moved" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

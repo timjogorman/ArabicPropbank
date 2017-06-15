@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dax~an</id>
+<comment/>
+<frameset cdef="" edef="to smoke (cigarette, etc.)" id="01" vncls="">
+<role argnum="0" argrole="smoker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هي كانت قاعدة تدخن * سيجارة</parse>
+<comment/>
+<arg f="" g="she" n="0">* هي</arg>
+<arg f="" g="a cigarette" n="1">سيجارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things smoked" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to give off smoke" id="02" vncls="">
+<role argnum="1" argrole="entity smoking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>العربية دخنت * النهارده</parse>
+<comment/>
+<arg f="" g="the car" n="1">العربية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AinoHaraf</id>
+<comment>EGYPTIAN ARABIC based on {inoHaraf</comment>
+    <frameset cdef="" edef="To go astray, to be abnormal,To be or become perverted/delinauent" id="02">
+<role argnum="1" argrole="entity getting abnormal" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>انحرف الشاب بسبب اهله</parse>
+<comment />
+<arg f="" g="the boy" n="1">الشاب</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {inoHaraf.02</comment>
+</frameset>
+</verb>

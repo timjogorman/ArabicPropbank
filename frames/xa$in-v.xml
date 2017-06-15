@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xa$in</id>
+<comment/>
+<frameset cdef="" edef="to coarsen or roughen, to become bad" id="01" vncls="">
+<role argnum="1" argrole="entity becoming rough" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خشن الثوب</parse>
+<comment/>
+<arg f="" g="the dress" n="1">الثوب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

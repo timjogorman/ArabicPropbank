@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Salab-iu</id>
+<comment/>
+<frameset cdef="" edef="to crucify" id="01" vncls="">
+<role argnum="0" argrole="entity crucifying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صلب الرومان المسيح على الصليب</parse>
+<comment/>
+<arg f="" g="the Romans" n="0">الرومان</arg>
+<arg f="" g="Christ" n="1">المسيح</arg>
+<arg f="" g="on the cross" n="2">على الصليب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity crucified" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what/ location" vncls="" vntheta=""/>
+</frameset>
+</verb>

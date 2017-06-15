@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>muwaH~id</id>
+
+    <frameset cdef="" edef="To unite" id="01" vncls="">
+<role argnum="0" argrole="uniter, agent" vncls="" vntheta="" />
+<role argnum="1" argrole="(first) thing(s) being unified" vncls="" vntheta="" />
+<role argnum="2" argrole="other things, if separate from arg1" vncls="" vntheta="" />
+<role argnum="3" argrole="unified whole" vncls="" vntheta="" />
+<frame>
+
+<example>
+<parse>فان لم يجمع العرب *-4 و لم يوحّدوا * كلمتهم يوما ما كما وحّد * وها حول القضية الفلسطينية , فالقضية الفلسطينية لها **-2 عدة اوجه : سياسي , اجتماعي , حضاري , انساني , ديني .</parse>
+<arg f="" g="They" n="0">*&lt;العرب</arg>
+<arg f="" g="their word" n="1">كلمتهم</arg>
+<arg f="" g="Someday" n="2">يوما ما</arg>
+<arg f="" g="as they have united it in  the Palestinian issue" n="3">كما وحّدوها حول القضية الفلسطينية</arg>
+<comment />
+</example>
+<comment>جمع</comment>
+</frame>
+<comment>Based on roleset waH~ad.01
+Based on roleset waH~id.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on waH~ad
+Framefile based on waH~id</comment>
+<frameset cdef="" edef="to profess in the unity of God" id="02" vncls="">
+<role argnum="0" argrole="entity professing" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>يا بابا وحد * الله</parse>
+<comment />
+<arg f="" g="father" n="0">*  بابا</arg>
+<arg f="" g="God" n="1">الله</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset waH~id.02</comment>
+<role argnum="1" argrole="attribute to ARG0 (moatly God)" vncls="" vntheta="" />
+</frameset>
+</verb>

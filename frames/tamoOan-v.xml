@@ -1,112 +1,112 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>tamoOan</id>
-    <frameset edef="to reassure" id="01">
-        <role argnum="0" argrole="causer of assurance"/>
-        <role argnum="1" argrole="assureded patient"/>
-        <role argnum="2" argrole="assurance, utterance"/>
-        <frame>
-            <mapping>
-                <V/>
-                <mapitem src="sbj" trg="arg0"/>
-            </mapping>
-            <example>
-                <parse>
-                    (S :andMwa-M(وَ-)
-                    (VP (PRT :M-qadM(-قَد))
-                    :be_strengthened/be_reinforced+it/they/sheMtaEaz~azatM(تَعَزَّزَت)
-                    (NP-SBJ :this/theseMh`XihiM(ه`ذِهِ)
-                    :the+feelings/emotions/sensesMAlma$AEiruM(المَشاعِرُ))
-                    (PP-CLR :by/withMbi-M(بِ-)
-                    (SBAR-NOM (WHNP-1 :whatM-mAM(-ما))
-                    (S (VP :be_published/be_issued+he/itMSadaraM(صَدَرَ)
-                    (NP-SBJ-1 (-NONE- XTX))
-                    (PP-TMP :until/up_toMHat~aYM(حَتَّى)
-                    (NP :nowMAlMnaM(الآنَ)))
-                    (PP :fromMminM(مِن)
-                    (NP :indicators/measures/indices/gagesMmuWa$~irAtKM(مُؤَشِّراتٍ)
-                    :statistical;IiHoSA}iy~apKM(إِحْصائِيَّةٍ)))
-                    (PP-LOC :inMfiyM(فِي)
-                    (NP :the+states/provincesMAlwilAyAtiM(الوِلاياتِ)
-                    :the+unitedMAlmut~aHidapiM(المُتَّحِدَةِ)))
-                    (PUNC ,)
-                    (SBAR :if/whether;IinM(إِن)
-                    (S (PP-PRD (PP :for/toMli-M(لِ-)
-                    (NP :side/part/directionM-jihapiM(-جِهَةِ)
-                    (NP :rise/increase/elevationMAirotifAEiM(اِرْتِفاعِ)
-                    (NP :salesMmabiyEAtiM(مَبِيعاتِ)
-                    (NP :the+distributor/retailerMAlmufar~iqiM(المُفَرِّقِ))))))
-                    :orMOawM(أَو)
-                    (PP :for/toMli-M(لِ-)
-                    (NP :side/part/directionM-jihapiM(-جِهَةِ)
-                    (NP :retreat/backing_down/retractionMtarAjuEiM(تَراجُعِ)
-                    (NP :number/quantity/issueMEadadiM(عَدَدِ)
-                    (NP :requestingMTAlibiyM(طالِبِي)
-                    (NP :the+benefit/advantageMAlIifAdapiM(الإِفادَةِ)
-                    (PP :fromMminM(مِن)
-                    (NP :compensation/restitutionMtaEowiyDiM(تَعْوِيضِ)
-                    (NP :the+idleness/joblessnessMAlbiTAlapiM(البِطالَةِ)))))))))))
-                    (PUNC ,)
-                    (SBAR-NOM-SBJ :by/withMbi-M(بِ-)
-                    (WHNP-2 :whatM-mAM(-ما))
-                    (S (VP (PRT :no/not/non-MlAM(لا))
-                    :he/it+pacify/assuageMyuTamo}inuM(يُطَمْئِنُ)
-                    (NP-SBJ-2 (-NONE- XTX))
-                    (NP-OBJ :the+investorMAlmusotavomiriynaM(المُسْتَثْمِرِينَ))
-                    (PP-DIR :to/towards;IilaYM(إِلَى)
-                    (NP (NP :the+field/domainMAlmanoHaYM(المَنْحَى))
-                    (SBAR (WHNP-3 :which/who/whomMAl~aXiyM(الَّذِي))
-                    (S (VP :he/it+proceed/take_/behaveMyasoluku-M(يَسْلُكُ-)
-                    (NP-OBJ (NP :it/himM-huM(-هُ))
-                    (NP-3 (-NONE- XTX)))
-                    (NP-SBJ :the+economy/savingMAlAiqotiSAduM(الاِقْتِصادُ)
-                    :the+AmericanMAlOamiyrokiy~uM(الأَمِيرْكِيُّ)))))))))))))))))
-                    (PUNC .))
-                </parse>
-                <arg g="*T*" n="0">XTX</arg>
-                <arg g="the Investors" n="1">Almusotavomiriyna</arg>
-                <arg g="the direction taken by the US economy" n="2">AlmanoHaY Al~aXiy yasoluku- -hu AlAiqotiSAdu AlOamiyrokiy~u</arg>
-                <V/>
-            </example>
-        </frame>
-        <frame>
-            <mapping>
-                <V/>
-                <mapitem src="sbj" trg="arg0"/>
-            </mapping>
-            <example>
-                <parse>
-                    (S (S (NP-TPC-1 :SharonM$AruwnM(شارُون))
-                    (VP :he/it+pacify/assuageMyuTamo}inuM(يُطَمْئِنُ)
-                    (NP-SBJ-1 (-NONE- XTX))
-                    (NP-OBJ :the+AmericanMAlOamiyrokiy~iynaM(الأَمِيرْكِيِّينَ))
-                    (PP-CLR :to/towardsMIilaYM(إِلَى)
-                    (NP :absence_of/lack_of/not/non-MEadamiM(عَدَمِ)
-                    (NP :change/modification/replacementMtagoyiyriM(تَغْيِيرِ)
-                    (NP :politicsMsiyAsati-M(سِياسَتِ-)
-                    :his/itsM-hiM(-هِ)))))))
-                    :andMwa-M(وَ-)
-                    (S (VP :he/it+turn/attractM-yulofituM(-يُلْفِتُ)
-                    (NP-SBJ (-NONE- X))
-                    (PP-CLR :to/towards;IilaYM(إِلَى)
-                    (NP (NP (PUNC &amp;quot;)
-                    :_service_branchMsilAHKM(سِلاحٍ)
-                    :developed/advanced/sophisticatedMmutaTaw~irKM(مُتَطَوِّرٍ)
-                    (PUNC &amp;quot;))
-                    (SBAR (WHNP-2 (-NONE- X0X))
-                    (S (VP :he/it+use/utilize/employ/operateMyasotaxodimu-M(يَسْتَخْدِمُ-)
-                    (NP-OBJ (NP :it/himM-huM(-هُ))
-                    (NP-2 (-NONE- XTX)))
-                    (NP-SBJ (PUNC &amp;quot;)
-                    :Hizb/HezbMHizobuM(حِزْبُ)
-                    (NP :Allah/GodMAll~`hiM(اللّ`هِ))
-                    (PUNC &amp;quot;))))))))))
-                </parse>
-                <arg g="*T*" n="0">XTX</arg>
-                <arg g="the AMERICANS" n="1">AlOamiyrokiy~iyna</arg>
-                <arg g="to not changing his policy" n="2">IilaY Eadami tagoyiyri siyAsati -hi</arg>
-                <V/>
-            </example>
-        </frame>
-    </frameset>
+<id>tamoOan</id>
+<frameset edef="to reassure" id="01">
+<role argnum="0" argrole="causer of assurance"/>
+<role argnum="1" argrole="assureded patient"/>
+<role argnum="2" argrole="assurance, utterance"/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+</mapping>
+<example>
+<parse>
+(S :andMwa-M(وَ-)
+   (VP (PRT :M-qadM(-قَد))
+       :be_strengthened/be_reinforced+it/they/sheMtaEaz~azatM(تَعَزَّزَت)
+       (NP-SBJ :this/theseMh`XihiM(ه`ذِهِ)
+               :the+feelings/emotions/sensesMAlma$AEiruM(المَشاعِرُ))
+       (PP-CLR :by/withMbi-M(بِ-)
+               (SBAR-NOM (WHNP-1 :whatM-mAM(-ما))
+                         (S (VP :be_published/be_issued+he/itMSadaraM(صَدَرَ)
+                                (NP-SBJ-1 (-NONE- XTX))
+                                (PP-TMP :until/up_toMHat~aYM(حَتَّى)
+                                        (NP :nowMAlMnaM(الآنَ)))
+                                (PP :fromMminM(مِن)
+                                    (NP :indicators/measures/indices/gagesMmuWa$~irAtKM(مُؤَشِّراتٍ)
+                                        :statistical;IiHoSA}iy~apKM(إِحْصائِيَّةٍ)))
+                                (PP-LOC :inMfiyM(فِي)
+                                        (NP :the+states/provincesMAlwilAyAtiM(الوِلاياتِ)
+                                            :the+unitedMAlmut~aHidapiM(المُتَّحِدَةِ)))
+                                (PUNC ,)
+                                (SBAR :if/whether;IinM(إِن)
+                                      (S (PP-PRD (PP :for/toMli-M(لِ-)
+                                                     (NP :side/part/directionM-jihapiM(-جِهَةِ)
+                                                         (NP :rise/increase/elevationMAirotifAEiM(اِرْتِفاعِ)
+                                                             (NP :salesMmabiyEAtiM(مَبِيعاتِ)
+                                                                 (NP :the+distributor/retailerMAlmufar~iqiM(المُفَرِّقِ))))))
+                                                 :orMOawM(أَو)
+                                                 (PP :for/toMli-M(لِ-)
+                                                     (NP :side/part/directionM-jihapiM(-جِهَةِ)
+                                                         (NP :retreat/backing_down/retractionMtarAjuEiM(تَراجُعِ)
+                                                             (NP :number/quantity/issueMEadadiM(عَدَدِ)
+                                                                 (NP :requestingMTAlibiyM(طالِبِي)
+                                                                     (NP :the+benefit/advantageMAlIifAdapiM(الإِفادَةِ)
+                                                                         (PP :fromMminM(مِن)
+                                                                             (NP :compensation/restitutionMtaEowiyDiM(تَعْوِيضِ)
+                                                                                 (NP :the+idleness/joblessnessMAlbiTAlapiM(البِطالَةِ)))))))))))
+                                         (PUNC ,)
+                                         (SBAR-NOM-SBJ :by/withMbi-M(بِ-)
+                                                       (WHNP-2 :whatM-mAM(-ما))
+                                                       (S (VP (PRT :no/not/non-MlAM(لا))
+                                                              :he/it+pacify/assuageMyuTamo}inuM(يُطَمْئِنُ)
+                                                              (NP-SBJ-2 (-NONE- XTX))
+                                                              (NP-OBJ :the+investorMAlmusotavomiriynaM(المُسْتَثْمِرِينَ))
+                                                              (PP-DIR :to/towards;IilaYM(إِلَى)
+                                                                      (NP (NP :the+field/domainMAlmanoHaYM(المَنْحَى))
+                                                                          (SBAR (WHNP-3 :which/who/whomMAl~aXiyM(الَّذِي))
+                                                                                (S (VP :he/it+proceed/take_/behaveMyasoluku-M(يَسْلُكُ-)
+                                                                                       (NP-OBJ (NP :it/himM-huM(-هُ))
+                                                                                               (NP-3 (-NONE- XTX)))
+                                                                                       (NP-SBJ :the+economy/savingMAlAiqotiSAduM(الاِقْتِصادُ)
+                                                                                               :the+AmericanMAlOamiyrokiy~uM(الأَمِيرْكِيُّ)))))))))))))))))
+   (PUNC .))
+</parse>
+<arg g="*T*" n="0">XTX</arg>
+<arg g="the Investors" n="1">Almusotavomiriyna</arg>
+<arg g="the direction taken by the US economy" n="2">AlmanoHaY Al~aXiy yasoluku- -hu AlAiqotiSAdu AlOamiyrokiy~u</arg>
+<V/>
+</example>
+</frame>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+</mapping>
+<example>
+<parse>
+(S (S (NP-TPC-1 :SharonM$AruwnM(شارُون))
+      (VP :he/it+pacify/assuageMyuTamo}inuM(يُطَمْئِنُ)
+          (NP-SBJ-1 (-NONE- XTX))
+          (NP-OBJ :the+AmericanMAlOamiyrokiy~iynaM(الأَمِيرْكِيِّينَ))
+          (PP-CLR :to/towardsMIilaYM(إِلَى)
+                  (NP :absence_of/lack_of/not/non-MEadamiM(عَدَمِ)
+                      (NP :change/modification/replacementMtagoyiyriM(تَغْيِيرِ)
+                          (NP :politicsMsiyAsati-M(سِياسَتِ-)
+                              :his/itsM-hiM(-هِ)))))))
+   :andMwa-M(وَ-)
+   (S (VP :he/it+turn/attractM-yulofituM(-يُلْفِتُ)
+          (NP-SBJ (-NONE- X))
+          (PP-CLR :to/towards;IilaYM(إِلَى)
+                  (NP (NP (PUNC &quot;)
+                          :_service_branchMsilAHKM(سِلاحٍ)
+                          :developed/advanced/sophisticatedMmutaTaw~irKM(مُتَطَوِّرٍ)
+                          (PUNC &quot;))
+                      (SBAR (WHNP-2 (-NONE- X0X))
+                            (S (VP :he/it+use/utilize/employ/operateMyasotaxodimu-M(يَسْتَخْدِمُ-)
+                                   (NP-OBJ (NP :it/himM-huM(-هُ))
+                                           (NP-2 (-NONE- XTX)))
+                                   (NP-SBJ (PUNC &quot;)
+                                           :Hizb/HezbMHizobuM(حِزْبُ)
+                                           (NP :Allah/GodMAll~`hiM(اللّ`هِ))
+                                           (PUNC &quot;))))))))))
+</parse>
+<arg g="*T*" n="0">XTX</arg>
+<arg g="the AMERICANS" n="1">AlOamiyrokiy~iyna</arg>
+<arg g="to not changing his policy" n="2">IilaY Eadami tagoyiyri siyAsati -hi</arg>
+<V/>
+</example>
+</frame>
+</frameset>
 </verb>

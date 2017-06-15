@@ -1,0 +1,92 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Sad~</id>
+
+    <frameset cdef="" edef="to repel, repulse" id="01" vncls="">
+<role argnum="0" argrole="intentional agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الجيش الوطني يصد * هجوماً لكتائب القذافي في معارك بجبل نفوسا</parse>
+
+<arg f="" g="they" n="0">* &gt; الجيش الوطني</arg>
+<arg f="" g="an attack by al-Gaddafi's brigades" n="1">هجوماً لكتائب القذافي</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="repelled entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+
+<comment>Based on roleset Sad~-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Sad~-u</comment>
+<frameset cdef="" edef="to rust" id="02" vncls="">
+<role argnum="1" argrole="entity getting rusty" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (VP
+        (X
+          (NO_FUNC ياريت))
+        (NP-SBJ-2
+          (-NONE- *))
+        (S
+          (VP
+            (IV3MS+IV يِغَيَّر)
+            (NP-SBJ
+              (-NONE- *-2))
+            (NP-OBJ
+              (DET+NOUN النِظام))))))
+    (CONJ وِ)
+    (S
+      (ADJP-PRD
+        (DET+ADJ_COMP الأَهَمّ))
+      (SBAR-SBJ
+        (-NONE- 0)
+        (S
+          (VP
+            (IV3MS+IV يِغَيَّر)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (DET+NOUN المَناهِج)))))
+      (ADVP
+        (ADV كَمان))
+      (PP-PRP
+        (PREP عَلَى)
+        (NP
+          (NOUN شان)
+          (S
+            (NP-TPC-1
+              (DET+NOUN العُقُول))
+            (VP
+              (PV+PVSUFF_SUBJ:3FS صَدِّت)
+              (NP-SBJ
+                (-NONE- *T*-1)))))))
+    (PUNC .)
+    (PUNC .)
+    (PUNC .)
+    (PUNC .)))</parse>
+<comment/>
+<arg f="" g="the brains" n="1">* *T* 1 العُقُول</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

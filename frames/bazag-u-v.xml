@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bazag-u</id>
+
+<frameset cdef="" edef="to rise, to emerge" id="01" vncls="">
+<role argnum="1" argrole="entity rising or emerging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بزغ الفجر</parse>
+
+<arg f="" g="aurora" n="1">الفجر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

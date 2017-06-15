@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitozaHolaq</id>
+<comment/>
+<frameset cdef="" edef="to slide or slip" id="01" vncls="">
+<role argnum="0" argrole="entity sliding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا اتزحلقت * بقشرة موز</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="with a banana peel" n="1">بقشرة موز</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="in what, with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

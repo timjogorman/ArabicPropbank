@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>murAd</id>
+<comment/>
+<frameset cdef="" edef="wanted or wished for" id="01" vncls="">
+<role argnum="0" argrole="wanter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا هو المراد * منكم</parse>
+<comment/>
+<arg f="" g="this is" n="1">* هذا هو</arg>
+<arg f="" g="from you" n="2">منكم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things wanted" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

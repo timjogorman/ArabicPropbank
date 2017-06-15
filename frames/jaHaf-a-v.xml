@@ -1,0 +1,98 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jaHaf-a</id>
+
+<frameset cdef="" edef="to opress, to wrong" id="01" vncls="">
+<role argnum="0" argrole="treater, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جحف الرجل أخاه في الإرث</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="in the hiritage" n="2">في الإرث</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="wronged entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what?" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to peel or pare, to skin" id="02" vncls="">
+<role argnum="0" argrole="entity peeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جحف الولد برتقالة</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="an orange" n="1">برتقالة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things peeled" vncls="" vntheta=""/>
+<comment>قشَّر</comment>
+</frameset>
+<frameset cdef="" edef="to take , to sweep away" id="03" vncls="">
+<role argnum="0" argrole="taker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جحف الرياح الأوراق من الأشجار</parse>
+
+<arg f="" g="wind" n="0">الرياح</arg>
+<arg f="" g="leaves" n="1">الأوراق</arg>
+<arg f="" g="from trees" n="2">من الأشجار</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="taken" vncls="" vntheta=""/>
+<role argnum="2" argrole="taken from" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to kick, to hit" id="04" vncls="">
+<role argnum="0" argrole="kicker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جحف الحصان الرجل في بطنه بحافره</parse>
+
+<arg f="" g="the horse" n="0">الحصان</arg>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="in his belly" n="2">في بطنه</arg>
+<arg f="" g="with his hoof" n="3">بحافره</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity kicked" vncls="" vntheta=""/>
+<role argnum="2" argrole="where exactely (in the body)" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what? instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAjib</id>
+<comment>EGYPTIAN ARABIC</comment>
+<frameset cdef="" edef="preferrer, liker" id="01" vncls="">
+<role argnum="0" argrole="stimulus (thing liked)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-SBJ
+      (PRON_1S أَنا))
+    (ADJP-PRD
+      (PRT
+        (NEG_PART مِش))
+      (ADJ+NSUFF_FEM_SG فاهْمَة)
+      (NP
+        (NP
+          (DET+NOUN+NSUFF_FEM_PL الاخَوات))
+        (SBAR
+          (WHNP-1
+            (REL_PRON اِللِّي))
+          (S
+            (SBAR-NOM-PRD
+              (WHNP-2
+                (-NONE- 0))
+              (S
+                (VP
+                  (PRT
+                    (NEG_PART مِش))
+                  (ADJ.VN عاجِب)
+                  (NP-OBJ
+                    (NP
+                      (POSS_PRON_3P هُم))
+                    (NP
+                      (-NONE- *T*-2)))
+                  (NP-SBJ
+                    (DET+NOUN الخِطاب)))))
+            (NP-SBJ
+              (-NONE- *T*-1))))))))</parse>
+<comment/>
+<arg f="" g="them &gt; the sisters" n="1">هُم *T*-2</arg>
+<arg f="" g="the speech/letter" n="0">الخِطاب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="experiencer (liker)" vncls="" vntheta=""/>
+</frameset>
+</verb>

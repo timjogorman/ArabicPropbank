@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wat~ar</id>
+<comment/>
+<frameset cdef="" edef="to tense, to strain or tighten" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NP
+              (NOUN+NSUFF_FEM_SG حالَة)
+              (NP
+                (DET+NOUN الرُعْب)))
+            (SBAR
+              (WHNP-1
+                (REL_PRON اِللِّي))
+              (S
+                (NP-PRD
+                  (NOUN عَنْد)
+                  (NP
+                    (POSS_PRON_3P هُم)))
+                (NP-SBJ
+                  (-NONE- *T*-1)))))
+          (NP
+            (PRON_3FS هِيَّ)))
+        (SBAR-NOM-PRD
+          (SBAR-NOM
+            (WHNP-2
+              (REL_PRON اِللِّي))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS وَتَّرِت)
+                (NP-SBJ
+                  (-NONE- *T*-2))
+                (NP-OBJ
+                  (PVSUFF_DO:3P هُم)))))
+          (CONJ وِ)
+          (SBAR-NOM
+            (WHNP-4
+              (-NONE- 0))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS خَلِّت)
+                (NP-SBJ
+                  (-NONE- *T*-4))
+                (S
+                  (NP-TPC-3
+                    (PVSUFF_DO:3P هُم))
+                  (VP
+                    (PRT
+                      (NEG_PART ما))
+                    (IV3P+IV+IVSUFF_SUBJ:P يحِلُّوا)
+                    (PRT
+                      (NEG_PART ش))
+                    (NP-SBJ
+                      (-NONE- *T*-3))
+                    (NP-ADV
+                      (ADJ كُوَيِّس))))))))))))</parse>
+<comment/>
+<arg f="" g="it" n="0">* هِيَّ</arg>
+<arg f="" g="them" n="1">هُم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things getting in tense" vncls="" vntheta=""/>
+</frameset>
+</verb>

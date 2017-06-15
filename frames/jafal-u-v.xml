@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jafal-u</id>
+
+<frameset cdef="" edef="to throw, to drive" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جفل البحر السمك الى الساحل</parse>
+
+<arg f="" g="the sea" n="0">البحر</arg>
+<arg f="" g="the fish" n="1">السمك</arg>
+<arg f="" g="to the shore" n="2">الى الساحل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to frighten" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جفل الصياد الحيوانات من الغابة</parse>
+
+<arg f="" g="the hunter" n="0">الصياد</arg>
+<arg f="" g="the animals" n="1">الحيوانات</arg>
+<arg f="" g="from the forest" n="2">من الغابة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to run away, to flee" id="03" vncls="">
+<role argnum="0" argrole="entity running" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جفل البعير من صاحبه</parse>
+<comment/>
+<arg f="" g="the camel" n="0">البعير</arg>
+<arg f="" g="from his owner" n="1">من صاحبه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what or whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaqoTar</id>
+
+<frameset cdef="" edef="to filter, to distill" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استقطر العطار السائل</parse>
+
+<arg f="" g="perfumer" n="0">العطار</arg>
+<arg f="" g="the liquid" n="1">السائل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things filtered" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

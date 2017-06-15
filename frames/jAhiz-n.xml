@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jAhiz</id>
+<frameset cdef="" edef="ready" id="01" vncls="">
+<role argnum="1" argrole="ready entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what?" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>إحنا جاهزين * للعمل</parse>
+<arg f="" g="we" n="1">* إحنا</arg>
+<comment/>
+<arg f="" g="for work" n="2">للعمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

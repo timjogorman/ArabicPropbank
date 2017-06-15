@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laEiq-a</id>
+<comment/>
+<frameset cdef="" edef="to lick up" id="01" vncls="">
+<role argnum="0" argrole="entity licking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لعق الطفل العسل من الصحن بلسانه</parse>
+<comment/>
+<arg f="" g="the baby" n="0">الطفل</arg>
+<arg f="" g="the honey" n="1">العسل</arg>
+<arg f="" g="from the plate" n="2">من الصحن</arg>
+<arg f="" g="with his tongue" n="3">بلسانه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things licked" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

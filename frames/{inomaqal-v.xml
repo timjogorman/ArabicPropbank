@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inomaqal</id>
+
+<frameset cdef="" edef="to be sinked, dipped" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انمقل الخبز في زيت الزيتون</parse>
+
+<arg f="" g="bread" n="1">الخبز</arg>
+<arg f="" g="in olive oil" n="2">في زيت الزيتون</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity dipped" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be seen" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انمقل النسر محلقا</parse>
+
+<arg f="" g="the eagle" n="1">النسر</arg>
+<arg f="" g="flying" n="2">محلقا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity seen" vncls="" vntheta=""/>
+<role argnum="2" argrole="attibute of Arg1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

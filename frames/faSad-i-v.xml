@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faSad-i</id>
+<comment/>
+<frameset cdef="" edef="to phlebotomize" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فصد الطبيب الوريد للمريض</parse>
+<comment/>
+<arg f="" g="the doctor" n="0">الطبيب</arg>
+<arg f="" g="the vein" n="1">الوريد</arg>
+<arg f="" g="for the patient" n="2">للمريض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things opened" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

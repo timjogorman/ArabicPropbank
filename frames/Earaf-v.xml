@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Earaf</id>
+
+<frameset cdef="" edef="to know" id="01" vncls="">
+<role argnum="0" argrole="knower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا عرفت * ه كذاب</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="liar" n="2">كذاب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing known" vncls="" vntheta=""/>
+<role argnum="2" argrole="known as" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to be able to" id="02" vncls="">
+<role argnum="0" argrole="entity able" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو مش عارف * يدخل من الباب</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="to enter from the door" n="1">يدخل من الباب</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="to do what" vncls="" vntheta=""/>
+</frameset>
+</verb>

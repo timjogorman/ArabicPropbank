@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitosal~im</id>
+<comment/>
+<frameset cdef="" edef="to be given or delivered" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الكتاب اتسلم * من الطالب لأبوه</parse>
+<comment/>
+<arg f="" g="the boob" n="1">* الكتاب</arg>
+<arg f="" g="from tthe student" n="0">من الطالب</arg>
+<arg f="" g="for his father" n="2">لأبوه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing given" vncls="" vntheta=""/>
+<role argnum="2" argrole="entity given to" vncls="" vntheta=""/>
+</frameset>
+</verb>

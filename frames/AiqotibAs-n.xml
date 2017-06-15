@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AiqotibAs</id>
+<comment/>
+<frameset cdef="" edef="quotation, borrowing" id="01" vncls="">
+<role argnum="0" argrole="entity quoting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يجب التأكد من اقتباس *الكلام من مصدرة الصحيح</parse>
+<comment/>
+<arg f="" g="entity quoting" n="0">*</arg>
+<arg f="" g="the quottation" n="1">الكلام</arg>
+<arg f="" g="source" n="2">من مصدرة الصحيح</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptain Arabic</comment>
+<role argnum="1" argrole="the quottation" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zalozal</id>
+<comment/>
+<frameset cdef="" edef="to shake, to rock, to convulse" id="01">
+<role argnum="0" argrole="shaker"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زلزل صوته المكان</parse>
+<comment/>
+<arg f="" g="his voice" n="0">صوته</arg>
+<arg f="" g="the place" n="1">المكان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things shaked"/>
+</frameset>
+</verb>

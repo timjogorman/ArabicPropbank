@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sayabAn</id>
+<comment/>
+<frameset cdef="" edef="leaving, omission" id="01" vncls="">
+<role argnum="0" argrole="entity leaving things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سيبانه الشغل كده مش حلو</parse>
+<comment/>
+<arg f="" g="he" n="0">ه</arg>
+<arg f="" g="the work" n="1">الشغل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things left" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

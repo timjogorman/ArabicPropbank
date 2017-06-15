@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarAwag</id>
+<comment/>
+<frameset cdef="" edef="to deceive or fool" id="01" vncls="">
+<role argnum="0" argrole="fooler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تراوغ الرجلان في كلامهما</parse>
+<comment/>
+<arg f="" g="the two men" n="0">الرجلان</arg>
+<arg f="" g="in what they said" n="2">في كلامهما</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="fooled" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to wrestle or fight" id="02" vncls="">
+<role argnum="0" argrole="entity fighting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تراوغ الملاكمان</parse>
+<comment/>
+<arg f="" g="the boxers" n="0">الملاكمان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

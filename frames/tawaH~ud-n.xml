@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>tawaH~ud</id>
+<comment>Framefile based on tawaH~ad</comment>
+<frameset cdef="" edef="become unified" id="01">
+<role argnum="1" argrole="entity being unified" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>كلينتون للمجتمع الدولي:توحدوا ضد سوريا
+
+Arg 1: -None- -T-* ( للمجتمع الدولي)
+Arg m-goal: ضد سوريا</parse>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset tawaH~ad.01</comment>
+<role argnum="2" argrole="other entity" />
+</frameset>
+</verb>

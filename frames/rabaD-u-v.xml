@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rabaD-u</id>
+
+<frameset cdef="" edef="to kneel down, to lie or rest, to stay at one place" id="01" vncls="">
+<role argnum="0" argrole="entity sitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ربض الأسد في عرينه</parse>
+
+<arg f="" g="the lion" n="0">الأسد</arg>
+<arg f="" g="in it's den" n="1">في عرينه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="location" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

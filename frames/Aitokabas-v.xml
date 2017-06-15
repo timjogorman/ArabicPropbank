@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitokabas</id>
+<comment/>
+<frameset cdef="" edef="press, squeeze" id="01" vncls="">
+<role argnum="0" argrole="presser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>العنب اتكبس * في علب</parse>
+<comment/>
+<arg f="" g="the grapes" n="1">* العنب</arg>
+<arg f="loc" g="in boxes" n="m">في علب</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity pressed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be caught" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل اتكبس * وهو بيسرق</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="" g="while stealing" n="2">وهو بيسرق</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity caught" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

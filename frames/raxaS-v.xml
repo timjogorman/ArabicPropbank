@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raxaS</id>
+<comment/>
+<frameset cdef="" edef="to cheapen, to become cheap" id="01" vncls="">
+<role argnum="1" argrole="entity becoming cheap" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رخص سعر الخبز من دينار الى النصف</parse>
+<comment/>
+<arg f="" g="the bread price" n="1">سعر الخبز</arg>
+<arg f="" g="from a Dinar" n="2">من دينار</arg>
+<arg f="" g="to the half" n="3">الى النصف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to authorize  or allow, to permit" id="02" vncls="">
+<role argnum="0" argrole="allower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رخص الأب لأبنه باللعب في الشارع</parse>
+<comment/>
+<arg f="" g="the father" n="0">الأب</arg>
+<arg f="" g="for his son" n="1">لأبنه</arg>
+<arg f="" g="for playing in the street" n="2">باللعب في الشارع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity allowed" vncls="" vntheta=""/>
+<role argnum="2" argrole="to do what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sak~</id>
+<comment/>
+<frameset cdef="" edef="to lock, to close" id="01" vncls="">
+<role argnum="0" argrole="entity closing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مسرحية سك * الباب على بناتك</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="the door" n="1">الباب</arg>
+<arg f="gol" g="on your girl" n="m">على بناتك</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="entity closed" vncls="" vntheta=""/>
+</frameset>
+</verb>

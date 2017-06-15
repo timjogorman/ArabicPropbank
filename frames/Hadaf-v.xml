@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hadaf</id>
+
+    <frameset cdef="" edef="to throw" id="01" vncls="">
+<role argnum="0" argrole="entity throwing things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كان بيجري ورايا ويحدف * ني بالطوب</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="me" n="2">ني</arg>
+<arg f="" g="with rocks" n="1">بالطوب</arg>
+<comment/>
+</example>
+
+<example>
+<parse>مش عارفه ايه اللي حدف  * ني عليكو</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="me" n="1">ني</arg>
+<arg f="" g="on you" n="2">عليكو</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+<comment>Based on roleset Hadaf-i.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Hadaf-i</comment>
+<frameset cdef="" edef="to turn toward" id="02" vncls="">
+<role argnum="0" argrole="entity turning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سيارتي دايما بتحدف * يمين</parse>
+<comment/>
+<arg f="" g="my car" n="0">* سيارتي</arg>
+<arg f="" g="right" n="1">يمين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="toward what" vncls="" vntheta=""/>
+</frameset>
+</verb>

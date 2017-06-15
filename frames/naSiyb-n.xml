@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naSiyb</id>
+<comment/>
+<frameset cdef="" edef="share or portion, luck" id="01" vncls="">
+<role argnum="1" argrole="the share" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا المال هو نصيب * البنت من البيت</parse>
+<comment/>
+<arg f="" g="this money" n="1">* هذا المال</arg>
+<arg f="" g="the girl" n="2">البنت</arg>
+<arg f="" g="from the house" n="3">من البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="entity having the share" vncls="" vntheta=""/>
+<role argnum="3" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hijorap</id>
+<comment/>
+<frameset cdef="" edef="emigration, the hegira" id="01" vncls="">
+<role argnum="0" argrole="entity emigrating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هجرة الرسول من مكة الى المدينة</parse>
+<comment/>
+<arg f="" g="the prophet" n="0">الرسول</arg>
+<arg f="" g="from Mekka" n="1">من مكة</arg>
+<arg f="" g="to the Madiyna" n="2">الى المدينة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>balaE</id>
+
+    <frameset cdef="" edef="to gulp" id="01" vncls="">
+<role argnum="0" argrole="gulper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بلع الطفل الطعام</parse>
+
+<arg f="" g="child" n="0">الطفل</arg>
+<arg f="" g="food" n="1">الطعام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="food or drink" vncls="" vntheta=""/>
+<comment>Based on roleset balaE-a.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on balaE-a</comment>
+<frameset cdef="" edef="to put up with (multi word expression) (تحمل)" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البنت دي محدش يبلع * ها</parse>
+<comment/>
+<arg f="" g="no one" n="0">* محدش</arg>
+<arg f="" g="she" n="1">ها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity not loved" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,75 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eamar-i</id>
+<comment/>
+<frameset cdef="" edef="to fill with life, to cause to thrive or prosper" id="01" vncls="">
+<role argnum="0" argrole="filler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عمر الله البيت بأهله</parse>
+<comment/>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="with it's people" n="2">بأهله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="filled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to build" id="02" vncls="">
+<role argnum="0" argrole="builder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عمر الرجل داره من الصخر الأحمر</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his house" n="1">داره</arg>
+<arg f="" g="with the red rocks" n="2">من الصخر الأحمر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things built" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to grow or increase" id="03" vncls="">
+<role argnum="1" argrole="entity  increasing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عمر الذهب</parse>
+<comment/>
+<arg f="" g="the gold" n="1">الذهب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to long live" id="04" vncls="">
+<role argnum="1" argrole="entity living long" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عمر الرجل سنينا كثيرة</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="to many years" n="2">سنينا كثيرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="how long" vncls="" vntheta=""/>
+</frameset>
+</verb>

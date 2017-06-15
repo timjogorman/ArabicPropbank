@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qar~</id>
+
+    <frameset cdef="" edef="to accept or bless of go along with" id="01" vncls="">
+<role argnum="0" argrole="acceptor" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing accepted" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>لن يقر لهم قرار</parse>
+<arg f="" g="for them" n="0">لهم</arg>
+<arg f="" g="a decision" n="1">قرار</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset qar~-ia.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on qar~-ia</comment>
+<frameset cdef="" edef="to begrudge or resent to envy" id="02" vncls="">
+<role argnum="0" argrole="begrudger" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا بقرّ * عليكم</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="at you" n="1">عليكم</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="begrudged" vncls="" vntheta=""/>
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

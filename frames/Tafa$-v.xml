@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Tafa$</id>
+<comment/>
+<frameset cdef="" edef="to run away" id="01" vncls="">
+<role argnum="0" argrole="entity running" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا طفشت * من  أعمالك</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="because of what you are doing" n="1">من  أعمالك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="from" vncls="" vntheta=""/>
+<role argnum="2" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+</verb>

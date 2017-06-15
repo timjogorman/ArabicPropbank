@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bayon</id>
+<comment/>
+<frameset cdef="" edef="between, among" id="01" vncls="">
+<role argnum="1" argrole="entity  between" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان الرجل بين * مصدقا للقصة أو مكذبا</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الرجل</arg>
+<arg f="" g="to believe in the story or not" n="2">مصدقا للقصة أو مكذبا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="between what" vncls="" vntheta=""/>
+<role argnum="3" argrole="second thing if separated from ARG2" vncls="" vntheta=""/>
+</frameset>
+</verb>

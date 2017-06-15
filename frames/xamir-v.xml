@@ -1,0 +1,88 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xamir</id>
+<comment/>
+<frameset cdef="" edef="to be drunk" id="01" vncls="">
+<role argnum="1" argrole="entity drunk" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خمر الرجل</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to have a lot of wine in the place" id="02" vncls="">
+<role argnum="1" argrole="place filled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خمر المكان</parse>
+<comment/>
+<arg f="" g="the place" n="1">المكان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to change" id="03" vncls="">
+<role argnum="1" argrole="entity changing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خمر اللون</parse>
+<comment/>
+<arg f="" g="the color" n="1">اللون</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to disappear or be hidden" id="04" vncls="">
+<role argnum="1" argrole="things hidden" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خمر عنه الخبر</parse>
+<comment/>
+<arg f="" g="from him" n="2">عنه</arg>
+<arg f="" g="the news" n="1">الخبر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to hate, to bear a grudge against" id="05" vncls="">
+<role argnum="0" argrole="hater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خمر الرجل على أخاه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on his brother" n="1">على أخاه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="hated" vncls="" vntheta=""/>
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

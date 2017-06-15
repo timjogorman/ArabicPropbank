@@ -1,0 +1,83 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IiHojAm</id>
+<comment/>
+<frameset cdef="" edef="refrainment, abstention" id="01" vncls="">
+<role argnum="0" argrole="reluctant entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NP-TPC-1
+          (DET+NOUN+NSUFF_FEM_SG الدَولَة))
+        (NP-TMP
+          (NOUN بَعْد)
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG الأَزْمَة)
+            (DET+ADJ+NSUFF_FEM_SG الٱِقْتِصادِيَّة)
+            (DET+ADJ+NSUFF_FEM_SG العالَمِيَّة)))
+        (VP
+          (PV+PVSUFF_SUBJ:3FS فَقَدِت)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (NP-OBJ
+            (NP
+              (NOUN جُزء)
+              (ADJ كِبِير))
+            (PP
+              (PREP مِن)
+              (NP
+                (NP
+                  (NP
+                    (NOUN دَخْل)
+                    (NP
+                      (POSS_PRON_3FS ها)))
+                  (ADJP
+                    (DET+ADJ القَوْمِيّ)))
+                (PP
+                  (PP
+                    (PREP مِن)
+                    (NP
+                      (NOUN+NSUFF_FEM_PL عائِدات)
+                      (NP
+                        (NOUN+NSUFF_FEM_SG قَناَة)
+                        (NP
+                          (DET+NOUN_PROP السُوِيس)))))
+                  (CONJ وَ)
+                  (PP
+                    (PREP مِن)
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG السِياحَة)))
+                  (CONJ وَ)
+                  (PP
+                    (PREP مِن)
+                    (NP
+                      (DET+NOUN الٱِسْتِثْمار)))))))
+          (NP-ADV
+            (NOUN+NSUFF_FEM_SG عِلاوَة)
+            (PP
+              (PREP عَلَى)
+              (S-NOM
+                (VP
+                  (NOUN.VN إِحْجام)
+                  (NP-SBJ
+                    (DET+NOUN الناس))
+                  (PP-CLR
+                    (PREP عَن)
+                    (NP
+                      (NOUN+NSUFF_FEM_SG حَرَكَة)
+                      (NP
+                        (DET+NOUN البِيع)
+                        (CONJ وَ)
+                        (DET+NOUN الشِراء)))))))))))</parse>
+<comment/>
+<arg f="" g="the people" n="0">الناس</arg>
+<arg f="" g="from buying and selling movement" n="1">عن حركة البيع والشراء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="action, usually marked with عن" vncls="" vntheta=""/>
+</frameset>
+</verb>

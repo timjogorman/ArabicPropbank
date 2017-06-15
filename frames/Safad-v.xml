@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Safad</id>
+
+<frameset cdef="" edef="to fetter or shackle, to chain" id="01" vncls="">
+<role argnum="0" argrole="entity chaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>صفد الشرطي المجرم بقيود قوية</parse>
+
+<arg f="" g="the policeman" n="0">الشرطي</arg>
+<arg f="" g="with strong shackles" n="1">بقيود قوية</arg>
+<arg f="" g="the criminal" n="2">المجرم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+<role argnum="2" argrole="chained entity" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

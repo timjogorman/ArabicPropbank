@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nuqoSAn</id>
+<comment/>
+<frameset cdef="" edef="decrease" id="01" vncls="">
+<role argnum="1" argrole="things to be short" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نقصان الماء في الجسم يؤدي الى تيبس الجلد</parse>
+<comment/>
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="in the body" n="2">في الجسم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

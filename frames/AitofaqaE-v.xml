@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitofaqaE</id>
+<comment/>
+<frameset cdef="" edef="to explode" id="01" vncls="">
+<role argnum="1" argrole="entity exploding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>راسي حينفقع * من كتر الكلام</parse>
+<comment/>
+<arg f="" g="my head" n="1">* راسي</arg>
+<arg f="" g="from talking a lot" n="2">من كتر الكلام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

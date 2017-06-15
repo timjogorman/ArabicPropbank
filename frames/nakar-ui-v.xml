@@ -1,22 +1,27 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>nakar-ui</id>
-    <comment/>
-    <frameset cdef="" edef="to deny" id="01">
-        <role argnum="0" argrole="denier"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>نكر الضحية المتهم أمام المحكمة</parse>
-                <comment/>
-                <arg f="" g="the victim" n="0">الضحية</arg>
-                <arg f="" g="the accused" n="1">المتهم</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="anti-benefactive: entity being denied arg1"/>
-    </frameset>
+<id>nakar-ui</id>
+
+<frameset cdef="" edef="to deny" id="01" vncls="">
+<role argnum="0" argrole="denier" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نكر الضحية المتهم أمام المحكمة</parse>
+
+<arg f="" g="the victim" n="0">الضحية</arg>
+<arg f="" g="the accused" n="1">المتهم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="anti-benefactive: entity being denied" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

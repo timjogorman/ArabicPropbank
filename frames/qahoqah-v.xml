@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qahoqah</id>
+
+<frameset cdef="" edef="to laugh loudly" id="01" vncls="">
+<role argnum="0" argrole="the entity laughing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قهقه الولد بشدة</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="mnr" g="loudly" n="m">بشدة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="1" argrole="reason" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tasAnad</id>
+<comment/>
+<frameset cdef="" edef="to support one another, to join forces  تعاون" id="01" vncls="">
+<role argnum="0" argrole="entity supporting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تساند الناس و الجيش ضد العدو</parse>
+<comment/>
+<arg f="" g="the people" n="0">الناس</arg>
+<arg f="" g="and the army" n="1">و الجيش</arg>
+<arg f="" g="against the enemy" n="2">ضد العدو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="second entity if separated from ARG0" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to lean or recline on  اعتمد" id="02" vncls="">
+<role argnum="0" argrole="entity leaning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تساند الطفل الى ابيه</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="to his father" n="1">الى ابيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

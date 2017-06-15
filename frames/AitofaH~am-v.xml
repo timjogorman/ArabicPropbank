@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitofaH~am</id>
+<comment>EGYPTIAN ARABIC Framefile based on tafaH~am</comment>
+<frameset cdef="" edef="to carbonize, to char" id="01">
+<role argnum="0" argrole="entity carbonized" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تفحم قلبه من كثر البكاء</parse>
+<comment />
+<arg f="" g="his heart" n="0">قلبه</arg>
+<arg f="cau" g="from crying" n="m">من كثر البكاء</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset tafaH~am.01</comment>
+</frameset>
+</verb>

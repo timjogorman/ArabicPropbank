@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munoHarif</id>
+<comment/>
+<frameset cdef="" edef="preverted, corrupted" id="01" vncls="">
+<role argnum="1" argrole="entity getting abnormal" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا شاب منحرف * في حياته</parse>
+<comment/>
+<arg f="" g="young boy" n="1">* شاب</arg>
+<arg f="" g="في حياته" n="2">in his life</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="trapezoid" id="02" vncls="">
+<role argnum="1" argrole="things trapezoid" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الشكل هو منحرف * كالباقي</parse>
+<comment/>
+<arg f="" g="this shape" n="1">* هذا الشكل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

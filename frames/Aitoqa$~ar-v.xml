@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitoqa$~ar</id>
+<comment/>
+<frameset cdef="" edef="to be peeled or pare, to skinned" id="01" vncls="">
+<role argnum="0" argrole="entity peeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>متقوليش أن التفاحة اتقشرت * لوحدها</parse>
+<comment/>
+<arg f="" g="the apple" n="1">* التفاحة</arg>
+<arg f="mnr" g="by it self" n="m">لوحدها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things peeled" vncls="" vntheta=""/>
+</frameset>
+</verb>

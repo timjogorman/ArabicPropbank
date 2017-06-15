@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotifadap</id>
+<comment/>
+<frameset cdef="" edef="to benefit from" id="01" vncls="">
+<role argnum="1" argrole="entity getting benefits" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرر الطالب الاستفادة * من المعلومات الموجودة للنجاح</parse>
+<comment/>
+<arg f="" g="the student" n="1">* الطالب</arg>
+<arg f="" g="from the existing information" n="2">من المعلومات الموجودة</arg>
+<arg f="" g="to success" n="3">للنجاح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from whom - usually marked by the PP مِن-" vncls="" vntheta=""/>
+<role argnum="3" argrole="things benefited" vncls="" vntheta=""/>
+</frameset>
+</verb>

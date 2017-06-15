@@ -1,0 +1,77 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>xam~in</id>
+<comment>EGYPTIAN ARABIC Framefile based on xam~an-v</comment>
+<frameset cdef="" edef="to guess or conjecture" id="01" vncls="">
+<role argnum="0" argrole="entity guessing" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(S
+      (NP-SBJ
+        (TYPO هانه))
+      (PP-PRD
+        (PREP فِي)
+        (NP
+          (NP
+            (NOUN_PROP مَصْر))
+          (DET+NOUN_PROP السِوِيس)
+          (CONJ وِ)
+          (NP
+            (NOUN_PROP بُورْسَعِيد))
+          (CONJ وِ)
+          (NP
+            (NOUN_PROP سِيناء)))))
+    (CONJ وِ)
+    (S
+      (NP-TPC
+        (DET+NOUN+NSUFF_FEM_SG الخَطْوَة)
+        (DET+ADJ+NSUFF_FEM_SG الجايَّة))
+      (VP
+        (PRT
+          (PROG_PART بِ))
+        (IV1S+IV اَخَمِّن)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-ADV
+          (NOUN كِدَه)))))
+  (S
+    (NP-TPC-4
+      (NOUN ماما)
+      (NOUN_PROP امْرِيكا))
+    (VP
+      (IV3FS+IV تِقُول)
+      (NP-SBJ
+        (-NONE- *T*-4))
+      (PP
+        (PREP لِ)
+        (NP
+          (PRON_1P نا)))
+      (S
+        (NP-TPC-5
+          (PRON_1P اِحْنا))
+        (VP
+          (PRT
+            (FUT_PART حَ))
+          (IV1P+IV نِدْخُل)
+          (NP-SBJ
+            (-NONE- *T*-5))
+          (S-PRP
+            (VP
+              (IV1P+IV نِحْمِي)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (IVSUFF_DO:3P هُم))</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="like this" n="1">كِدَه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset xam~an-v.01</comment>
+<role argnum="1" argrole="the guess" vncls="" vntheta="" />
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta="" />
+</frameset>
+</verb>

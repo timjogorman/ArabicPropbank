@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>rawaY</id>
+<comment>EGYPTIAN ARABIC based on rawaY-i</comment>
+    <frameset cdef="" edef="water" id="02">
+<role argnum="0" argrole="waterer" />
+<role argnum="1" argrole="entity watered" />
+<role argnum="2" argrole="thing watered ( water / juice)" />
+<frame>
+<example>
+<parse>المطر سوف يهطل ويروي * الحقول</parse>
+<arg f="" g="it" n="0">* &lt; المطر</arg>
+<arg f="" g="Fields" n="1">الحقول</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset rawaY-i.02</comment>
+</frameset>
+
+<frameset cdef="" edef="to narrate" id="01">
+<role argnum="0" argrole="speaker" />
+<role argnum="1" argrole="utterance" />
+
+
+<comment>Based on roleset rawaY-i.01</comment>
+<role argnum="2" argrole="audience" />
+</frameset>
+</verb>

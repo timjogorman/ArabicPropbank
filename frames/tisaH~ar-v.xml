@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tisaH~ar</id>
+
+<frameset cdef="" edef="to have a meal before daybreak" id="01" vncls="">
+<role argnum="0" argrole="entity eating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الناس قاعدة هناك عشان تفطر و تسحر * ببلاش</parse>
+
+<arg f="" g="the people" n="0">* الناس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$aqiya</id>
+
+<frameset cdef="" edef="to be or become unhappy" id="01" vncls="">
+<role argnum="0" argrole="unhappy entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شقي يوسف في حياته</parse>
+
+<arg f="" g="Yousif" n="0">يوسف</arg>
+<arg f="" g="in his life" n="1">في حياته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

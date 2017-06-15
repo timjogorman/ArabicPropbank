@@ -1,0 +1,104 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tasam~am</id>
+<comment/>
+<frameset cdef="" edef="to be poisoned" id="01" vncls="">
+<role argnum="1" argrole="entity getting poisoned" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (S
+      (PP
+        (PREP بِ)
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG الصُدْفَة)))
+      (PP
+        (PREP كَ)
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG العادَة)))
+      (NAC
+        (CONJ وِ)
+        (PP-PRP
+          (PREP عَلَى)
+          (NP
+            (NOUN شَأْن)
+            (S
+              (VP
+                (IV3MS+IV يَتسَمَّم)
+                (NP-SBJ
+                  (NOUN بَدَن)
+                  (NP
+                    (POSS_PRON_1S ِي)))
+                (ADVP
+                  (ADV كَمان)
+                  (CONJ وِ)
+                  (ADV كَمان)))))))
+      (PUNC ,)
+      (VP
+        (PV+PVSUFF_SUBJ:1S كُنت)
+        (NP-SBJ
+          (-NONE- *))
+        (PP-LOC-PRD
+          (PREP فِي)
+          (NP
+            (NOUN مُنْتَدَى)
+            (NP
+              (FOREIGN داونلود))))))
+    (CONJ وِ)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:1S لَقَيت)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NP
+            (NOUN عِنْوان))
+          (SBAR
+            (WHNP-1
+              (-NONE- 0))
+            (S
+              (VP
+                (PRT
+                  (PROG_PART بِ))
+                (IV3MS+IV يِقُول)
+                (NP-SBJ
+                  (-NONE- *T*-1))
+                (NP-OBJ
+                  (NOUN تَحْمِيل)
+                  (NP
+                    (NOUN حَفْل)
+                    (NP
+                      (NOUN تَوْقِيع)
+                      (NP
+                        (NOUN برُوتُوكُول)
+                        (NP
+                          (NOUN+NSUFF_FEM_SG أَكادِيمِيَّة)
+                          (NP
+                            (DET+NOUN الزَعِيم)))))))))))
+        (SBAR-ADV
+          (CONJ وِ)
+          (S
+            (NP-PRD
+              (NOUN تَحْت)
+              (NP
+                (POSS_PRON_3FS ها)))
+            (NP-SBJ
+              (NOUN صُوَر)
+              (NP
+                (NP
+                  (POSS_PRON_3MS ُه))
+                (NP
+                  (NOUN_PROP عادِل)
+                  (NOUN_PROP اِمام))))))))))</parse>
+<comment/>
+<arg f="" g="my body" n="1">بدني</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

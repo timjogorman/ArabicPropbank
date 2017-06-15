@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tahay~aj</id>
+<comment/>
+<frameset cdef="" edef="to be (become ,get) excited, to be agitated, to get angry" id="01" vncls="">
+<role argnum="0" argrole="entity getting angry" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تهيج الجمهور على اللاعبين بسسبب خسارتهم</parse>
+<comment/>
+<arg f="" g="the people" n="0">الجمهور</arg>
+<arg f="" g="at the players" n="1">على اللاعبين</arg>
+<arg f="cau" g="because of thier lost" n="m">بسسبب خسارتهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on what or whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

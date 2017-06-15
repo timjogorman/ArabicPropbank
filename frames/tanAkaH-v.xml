@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanAkaH</id>
+<comment/>
+<frameset cdef="" edef="to intermarry" id="01" vncls="">
+<role argnum="0" argrole="entity marrying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تناكحت العائلتان</parse>
+<comment/>
+<arg f="" g="the two mamilies" n="0">العائلتان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity married" vncls="" vntheta=""/>
+</frameset>
+</verb>

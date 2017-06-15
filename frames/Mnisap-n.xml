@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Mnisap</id>
+<comment/>
+<frameset cdef="" edef="young lady, girl" id="01" vncls="">
+<role argnum="1" argrole="the girl" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو عامل حاله آنسة * في لبسه</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="the way he dress" n="2">في لبسه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

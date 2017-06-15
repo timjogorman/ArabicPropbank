@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>zAyid</id>
+<comment>EGYPTIAN ARABIC Framefile based on zAyad-v</comment>
+<frameset cdef="" edef="to outbid or over bid" id="01" vncls="">
+<role argnum="0" argrole="entity over bidding" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>زايد الرجل على السيارة ضعف ثمنها</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on the car" n="1">على السيارة</arg>
+<arg f="" g="the double of it's price" n="2">ضعف ثمنها</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset zAyad-v.01</comment>
+<role argnum="1" argrole="on what" vncls="" vntheta="" />
+<role argnum="2" argrole="amount" vncls="" vntheta="" />
+<role argnum="3" argrole="against whom" vncls="" vntheta="" />
+</frameset>
+</verb>

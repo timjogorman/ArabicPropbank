@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faqaO-a</id>
+<comment/>
+<frameset cdef="" edef="to open or rip, to slit open,to gouge out, to scoop out" id="01" vncls="">
+<role argnum="0" argrole="opener" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فقأ الطفل عين صاحبه بأصبعه</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="his friend's eye" n="1">عين صاحبه</arg>
+<arg f="" g="with his finger" n="2">بأصبعه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="opened" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

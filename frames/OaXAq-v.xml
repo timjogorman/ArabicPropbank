@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaXAq</id>
+
+<frameset cdef="" edef="to make test ( food or drink )" id="01" vncls="">
+<role argnum="0" argrole="causer to test" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أذاق الرجل زوجته الطعام الذي طبخه لأول مرة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his wife" n="2">زوجته</arg>
+<arg f="" g="the food that he coocked" n="1">الطعام الذي طبخه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things tested" vncls="" vntheta=""/>
+<role argnum="2" argrole="entity testting" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to make experience or suffer (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity forcing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أذاق الرجل زوجته الويل</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his wife" n="1">زوجته</arg>
+<arg f="" g="the woe or the grief" n="2">الويل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity forced to suffer" vncls="" vntheta=""/>
+<role argnum="2" argrole="things experienced" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

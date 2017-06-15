@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wasowas</id>
+<comment/>
+<frameset cdef="" edef="to whisper evil to" id="01">
+<role argnum="0" argrole="the whisperer"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وسوس الشيطان له ليسرق ابيه</parse>
+<comment/>
+<arg f="" g="satan" n="0">الشيطان</arg>
+<arg f="" g="to him" n="1">له</arg>
+<arg f="" g="to rob his father" n="2">ليسرق ابيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity whispered to"/>
+<role argnum="2" argrole="to do what, subject"/>
+</frameset>
+</verb>

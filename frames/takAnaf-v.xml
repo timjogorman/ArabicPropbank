@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>takAnaf</id>
+<comment/>
+<frameset cdef="" edef="to help or support, to assist" id="01" vncls="">
+<role argnum="0" argrole="helper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لا يمكن للأمة أن تتقدم إلا إذا تكانف شبابها</parse>
+<comment/>
+<arg f="" g="it's young people" n="0">شبابها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="helped" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tabADaE</id>
+
+<frameset cdef="" edef="to make love to, to have sexual intercourse with" id="01" vncls="">
+<role argnum="0" argrole="entity making love" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تباضع الشاب مع صديقته بالخفية</parse>
+
+<arg f="" g="the young boy" n="0">الشاب</arg>
+<arg f="" g="with his girl friend" n="1">مع صديقته بالخفية</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="second entity if separated from ARG0" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

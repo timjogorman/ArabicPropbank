@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodaOaT</id>
+<comment/>
+<frameset cdef="" edef="to be full" id="01" vncls="">
+<role argnum="0" argrole="agent , causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اندأط الإبريق بالشاي</parse>
+<comment/>
+<arg f="" g="tea" n="1">بالشاي</arg>
+<arg f="" g="the pot" n="2">الإبريق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="substance, content" vncls="" vntheta=""/>
+<role argnum="2" argrole="container, path" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be chocked , to be strangled" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اندأط الرجل بالحبل</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="with a rope" n="2">بالحبل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity strangled" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

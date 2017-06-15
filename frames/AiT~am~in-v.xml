@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AiT~am~in</id>
+
+<frameset cdef="" edef="To be assured, to check on" id="01" vncls="">
+<role argnum="0" argrole="entity assured" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انا بس بطمن * على صحتك</parse>
+
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="about your health" n="1">على صحتك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things assured of" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

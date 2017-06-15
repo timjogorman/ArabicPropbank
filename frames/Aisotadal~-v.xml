@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotadal~</id>
+<comment>Egyptian Arabic based on {isotadal~</comment>
+<frameset cdef="" edef="deduce, infer, conclude from facts" id="01" vncls="">
+<role argnum="0" argrole="deduce, infer, conclude from facts" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>based on roleset {isotadal~.01</comment>
+<role argnum="1" argrole="belief" vncls="" vntheta=""/>
+<role argnum="2" argrole="source of belief" vncls="" vntheta=""/>
+</frameset>
+</verb>

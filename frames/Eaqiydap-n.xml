@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eaqiydap</id>
+<comment/>
+<frameset cdef="" edef="belief, faith, doctrine" id="01" vncls="">
+<role argnum="1" argrole="whose faith" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عقيدة الانسان بوجود الله</parse>
+<comment/>
+<arg f="" g="the humanbeing" n="1">الانسان</arg>
+<arg f="" g="with the existence of God" n="2">بوجود الله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

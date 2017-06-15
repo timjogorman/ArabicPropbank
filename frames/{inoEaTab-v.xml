@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoEaTab</id>
+
+<frameset cdef="" edef="to become broken , inoperative" id="01" vncls="">
+<role argnum="1" argrole="broken entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انعطب الهاتف بالماء</parse>
+
+<arg f="" g="the phone" n="1">الهاتف</arg>
+<arg f="" g="water" n="2">بالماء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="how, cause" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saOat-u</id>
+
+<frameset cdef="" edef="to strangle" id="01" vncls="">
+<role argnum="0" argrole="strangler, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سأتت الخادمة مخدومتها بيدها</parse>
+
+<arg f="" g="housemaid" n="0">الخادمة</arg>
+<arg f="" g="Mistress" n="1">مخدومتها</arg>
+<arg f="" g="by her hand" n="2">بيدها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victime" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

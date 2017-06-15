@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotasohil</id>
+
+    <frameset cdef="" edef="to deem easy, to find facile" id="01" vncls="">
+<role argnum="0" argrole="entity finding easy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استسهل الطالب الامتحان</parse>
+
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="the test" n="1">الامتحان</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things considered easy" vncls="" vntheta=""/>
+<comment>Based on roleset {isotasohal.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on {isotasohal</comment>
+</verb>

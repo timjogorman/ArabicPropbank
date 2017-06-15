@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ino$awaY</id>
+
+<frameset cdef="" edef="to be roasted or barbecued" id="01" vncls="">
+<role argnum="1" argrole="things roased" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انشوى اللحم جيدا</parse>
+
+<arg f="" g="the meat" n="1">اللحم</arg>
+<arg f="mnr" g="very well" n="m">جيدا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

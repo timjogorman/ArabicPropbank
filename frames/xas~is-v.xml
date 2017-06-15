@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xas~is</id>
+<comment/>
+<frameset cdef="" edef="to decrease, to make loose weight" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الفاكهة دي بتخسس * الواحد</parse>
+<comment/>
+<arg f="" g="this fruit" n="0">الفاكهة دي</arg>
+<arg f="" g="the person" n="1">الواحد</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity loosing weight" vncls="" vntheta=""/>
+</frameset>
+</verb>

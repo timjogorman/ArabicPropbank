@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>musAfir</id>
+<comment/>
+<frameset cdef="" edef="parssenge, traveler" id="01" vncls="">
+<role argnum="0" argrole="traveller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قضي أبي حياته مسافرا * من دولة الى أخرى</parse>
+<comment/>
+<arg f="" g="my father" n="0">أبي</arg>
+<arg f="" g="from one country" n="2">من دولة</arg>
+<arg f="" g="to another" n="1">الى أخرى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="destination" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

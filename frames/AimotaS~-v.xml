@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AimotaS~</id>
+<comment/>
+<frameset cdef="" edef="absorb , suck up , imbibe" id="01" vncls="">
+<role argnum="0" argrole="absorber, cause or agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الحكومة امتصت * دمنا</parse>
+<comment/>
+<arg f="" g="the government" n="0">الحكومة</arg>
+<arg f="" g="our blood" n="1">دمنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="absorbed" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

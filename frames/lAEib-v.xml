@@ -1,0 +1,108 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lAEib</id>
+
+    <frameset cdef="" edef="To play" id="01" vncls="">
+<role argnum="0" argrole="agent player" vncls="" vntheta=""/>
+<role argnum="1" argrole="game, sport, part of game, division" vncls="" vntheta=""/>
+<role argnum="2" argrole="competitive entity" vncls="" vntheta=""/>
+<role argnum="3" argrole="agent's team" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (NP-TPC-1
+    (PRON_3MS هو))
+  (VP
+    (PRT
+      (FUT_PART س))
+    (IV3MS+IV+IVSUFF_MOOD:I يلعب)
+    (NP-SBJ
+      (-NONE- *T*-1))
+    (PP
+      (PREP في)
+      (NP
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الدور))
+        (NP
+          (NOUN_QUANT+CASE_DEF_GEN ربع)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN النهائي)))))
+    (NP-ADV
+      (NOUN+CASE_DEF_ACC ضد)
+      (NP
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الفرنسي))
+          (NP
+            (NOUN_PROP نيكولا)
+            (NOUN_PROP اسكوديه)))</parse>
+<arg f="" g="He" n="0">-NONE- *T*-1&lt;هو</arg>
+<arg f="" g="In the quarter-fina" n="1">في الدور ربع النهائي</arg>
+<arg f="" g="Against the French..." n="2">...ضد الفرنسي</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset laEib-a.01</comment>
+</frameset>
+<frameset cdef="" edef="To do" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="work or effort" vncls="" vntheta=""/>
+<role argnum="2" argrole="benefactive, done for or about" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>NOUN+CASE_DEF_GEN تحالف)
+                              (NP
+                                (DET+NOUN+CASE_DEF_GEN الشمال))
+                              (PUNC &quot;))
+                            (SBAR
+                              (WHNP-2
+                                (REL_PRON الذي))
+                              (S
+                                (VP
+                                  (PV+PVSUFF_SUBJ:3MS لعب)
+                                  (NP-SBJ
+                                    (-NONE- *T*-2))
+                                  (NP-OBJ
+                                    (NOUN+CASE_INDEF_ACC دورا))
+                                  (PP-LOC
+                                    (PREP في)
+                                    (NP
+                                      (NOUN_PROP افغانستان))))))))))))))</parse>
+<arg f="" g="It" n="0">-NONE- *T*-2&lt;تحالف الشمال</arg>
+<arg f="" g="A role" n="1">دورا</arg>
+<arg f="" g="In Afghanistan" n="2">في افغانستان</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset laEib-a.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on laEib-a</comment>
+<frameset cdef="" edef="to act" id="03" vncls="">
+<role argnum="0" argrole="actor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الدور الذي لعبه الرجل  في الفيلم</parse>
+<comment/>
+<arg f="" g="it" n="1">ه</arg>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in the movie" n="2">في الفيلم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="role" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

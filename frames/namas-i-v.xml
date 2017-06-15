@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>namas-i</id>
+<comment/>
+<frameset cdef="" edef="to keep secret" id="01" vncls="">
+<role argnum="0" argrole="keeper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نمس الرجل السر عن صاحبه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the secret" n="1">السر</arg>
+<arg f="" g="from his friend" n="2">عن صاحبه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the secret" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to sow dissensions among, to cause mischief among" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نمس العدو بين القوم</parse>
+<comment/>
+<arg f="" g="the enemy" n="0">العدو</arg>
+<arg f="" g="between the people" n="1">بين القوم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="among whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="second party if separated from ARG1" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inomalaO</id>
+
+<frameset cdef="" edef="to be filled" id="01" vncls="">
+<role argnum="0" argrole="agent, causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انملأت البركة بالأسماك</parse>
+
+<arg f="" g="with fishes" n="1">بالأسماك</arg>
+<arg f="" g="the lake" n="2">البركة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="substance, content" vncls="" vntheta=""/>
+<role argnum="2" argrole="container, path" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

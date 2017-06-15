@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tajAnaq</id>
+<comment/>
+<frameset cdef="" edef="to throw (hurl ,fling) at one another" id="01" vncls="">
+<role argnum="0" argrole="entity throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تجانق الطرفان بالحجارة</parse>
+<comment/>
+<arg f="" g="both sides" n="0">الطرفان</arg>
+<arg f="" g="with rocks" n="1">بالحجارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

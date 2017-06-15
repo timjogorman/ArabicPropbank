@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoqamaS</id>
+<comment/>
+<frameset cdef="" edef="become angry" id="01" vncls="">
+<role argnum="0" argrole="the angry entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو اتقمص * لما كلمته</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="when I talked to him" n="2">لما كلمته</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="the patient" vncls="" vntheta=""/>
+<role argnum="2" argrole="the reason" vncls="" vntheta=""/>
+</frameset>
+</verb>

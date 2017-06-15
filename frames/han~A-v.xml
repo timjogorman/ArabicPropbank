@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>han~A</id>
+
+<frameset cdef="" edef="to congratulate" id="01" vncls="">
+<role argnum="0" argrole="expresser, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا عاوز اهني * أخوك بعمله الجديد</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="your brother" n="1">أخوك</arg>
+<arg f="" g="for his new work" n="2">بعمله الجديد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="person congratulated" vncls="" vntheta=""/>
+<role argnum="2" argrole="achievement" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

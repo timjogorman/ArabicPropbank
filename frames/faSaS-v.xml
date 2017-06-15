@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faSaS</id>
+<comment/>
+<frameset cdef="" edef="to cut into pieces, to separate into parts" id="01" vncls="">
+<role argnum="0" argrole="divider" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فصصت البنت الثوم الى قطع</parse>
+<comment/>
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="the garlic" n="1">الثوم</arg>
+<arg f="" g="into cloves" n="2">الى قطع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="divided" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

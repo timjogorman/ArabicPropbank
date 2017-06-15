@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zift</id>
+<comment/>
+<frameset cdef="" edef="bad, ugly" id="01" vncls="">
+<role argnum="1" argrole="entity bad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فينك يا بنت يا زفتة * النهاردة</parse>
+<comment/>
+<arg f="" g="girl" n="1">* بنت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

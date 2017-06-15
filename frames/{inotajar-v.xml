@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotajar</id>
+
+<frameset cdef="" edef="to become a merchandise" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتجر العبيد في روما</parse>
+
+<arg f="" g="slaves" n="1">العبيد</arg>
+<arg f="loc" g="in rome" n="m">في روما</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="marchandise" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

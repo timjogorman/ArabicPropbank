@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>manoduwb</id>
+<comment/>
+<frameset cdef="" edef="delegate, envoy, emissary, reporter" id="01" vncls="">
+<role argnum="0" argrole="sender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أرسل العراق مندوبه السيد جمال لأجتماع العرب</parse>
+<comment/>
+<arg f="" g="Iraq" n="0">العراق</arg>
+<arg f="" g="Mr. Jamal" n="1">السيد جمال</arg>
+<arg f="" g="for the Arab meeting" n="2">لأجتماع العرب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity sent" vncls="" vntheta=""/>
+<role argnum="2" argrole="to do what or for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

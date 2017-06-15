@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$aHat-a</id>
+<comment/>
+<frameset cdef="" edef="to beg, to ask for alms" id="01" vncls="">
+<role argnum="0" argrole="entity begging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده كان بيشحت * الخبز من بيت لبيت</parse>
+<comment/>
+<arg f="" g="this man" n="0">*الراجل ده</arg>
+<arg f="" g="the bread" n="1">الخبز</arg>
+<arg f="" g="from house to house" n="2">من بيت لبيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

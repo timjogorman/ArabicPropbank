@@ -1,43 +1,84 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Eam~aq</id>
-    <comment/>
-    <frameset cdef="" edef="to deepen, to make deep" id="01">
-        <role argnum="0" argrole="entity making deep"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>عمق *  البئر عشرة امتار اخرى</parse>
-                <comment/>
-                <arg f="" g="NONE" n="0">-NONE- *?</arg>
-                <arg f="" g="the well" n="1">البئر</arg>
-                <arg f="" g="another ten meters" n="2">عشرة امتار اخرى</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="things made deep"/>
-        <role argnum="2" argrole="how much"/>
-    </frameset>
-    <frameset cdef="" edef="to penetrate deeply in" id="02">
-        <role argnum="0" argrole="entity looking"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>عمق * النظر في موضوعه</parse>
-                <comment/>
-                <arg f="" g="NONE" n="0">-NONE- *?</arg>
-                <arg f="" g="the look" n="1">النظر</arg>
-                <arg f="" g="in his subject" n="2">في موضوعه</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="things deeper"/>
-        <role argnum="2" argrole="in what"/>
-    </frameset>
+<id>Eam~aq</id>
+
+<frameset cdef="" edef="to deepen, to make deep" id="01" vncls="other_cos-1">
+<role argnum="0" argrole="entity making deep" vncls="other_cos-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>عمق *  البئر عشرة امتار اخرى</parse>
+
+<arg f="" g="NONE" n="0">-NONE- *?</arg>
+<arg f="" g="the well" n="1">البئر</arg>
+<arg f="" g="another ten meters" n="2">عشرة امتار اخرى</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things made deep" vncls="other_cos-1" vntheta="patient"/>
+<role argnum="2" argrole="with what" vncls="other_cos-1" vntheta="instrument"/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to penetrate deeply in" id="02" vncls="">
+<role argnum="0" argrole="entity looking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>عمق * النظر في موضوعه</parse>
+
+<arg f="" g="NONE" n="0">-NONE- *?</arg>
+<arg f="" g="the look" n="1">النظر</arg>
+<arg f="" g="in his subject" n="2">في موضوعه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things deeper" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to plant deep into, to make something clear" id="03" vncls="">
+<role argnum="0" argrole="planter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا عاوز أعمق * الفكرة دية في دماغك</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="this idea" n="1">الفكرة دية</arg>
+<arg f="" g="in your brain" n="2">في دماغك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things planted deep" vncls="" vntheta=""/>
+<role argnum="2" argrole="into whom or what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoHamaq</id>
+<comment/>
+<frameset cdef="" edef="to get mad (multi word expression)" id="01" vncls="">
+<role argnum="0" argrole="entity getting mad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طبعا الكل اتحمق * لما شاف اللي حصل</parse>
+<comment/>
+<arg f="" g="everybody" n="0">* الكل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

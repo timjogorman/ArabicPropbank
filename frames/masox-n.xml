@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>masox</id>
+<comment/>
+<frameset cdef="" edef="to metamorphose or transform" id="01" vncls="">
+<role argnum="0" argrole="changer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الله بمسخ * هم الى قردة</parse>
+<comment/>
+<arg f="" g="God" n="0">* الله</arg>
+<arg f="" g="them" n="1">هم</arg>
+<arg f="" g="to monkeys" n="3">الى قردة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="changed entity or thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="origin" vncls="" vntheta=""/>
+<role argnum="3" argrole="new shape" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taTAraq</id>
+<comment/>
+<frameset cdef="" edef="to hit or to strike" id="01" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تطارقت المعاول والصخور في المنجم</parse>
+<comment/>
+<arg f="" g="the pickax" n="0">المعاول</arg>
+<arg f="" g="and the rocks" n="1">والصخور</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to follow in succession" id="02" vncls="">
+<role argnum="0" argrole="entity folowing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تطارقت الجمال</parse>
+<comment/>
+<arg f="" g="the camels" n="0">الجمال</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity folowed" vncls="" vntheta=""/>
+</frameset>
+</verb>

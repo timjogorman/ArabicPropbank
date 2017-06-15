@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oajohad</id>
+<comment/>
+<frameset cdef="" edef="to overexert, to strain" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (IV1S+IV اَقُول)
+      (NP-SBJ
+        (-NONE- *))
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:3MS مَرّ)
+          (NP-SBJ
+            (-NONE- *))))
+      (PP-PRP
+        (PREP لِ)
+        (SBAR
+          (SUB_CONJ أَنّ)
+          (S
+            (NP-TPC-1
+              (PRON_1S ِي))
+            (VP
+              (PRT
+                (NEG_PART لَمْ))
+              (IV1S+IV اَجْهِد)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (NOUN نَفْس)
+                (NP
+                  (POSS_PRON_1S ِي)))
+              (PP
+                (PREP بِ)
+                (NP
+                  (NP
+                    (DET+NOUN البَحْث))
+                  (PP
+                    (PREP عَن)
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG الاِجابَة))))))))))))</parse>
+<comment/>
+<arg f="" g="he" n="0">-1 ي</arg>
+<arg f="" g="myself" n="1">نَفْسي</arg>
+<arg f="" g="by searching for the answer" n="2">بِالبَحْث عَن الاِجابَة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

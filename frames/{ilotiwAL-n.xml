@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ilotiwAL</id>
+<comment/>
+<frameset cdef="" edef="to twist" id="01" vncls="">
+<role argnum="0" argrole="cause of change, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لاحظت التواء الخشب في الكراسي</parse>
+<comment/>
+<arg f="" g="the wood" n="1">الخشب</arg>
+<arg f="" g="in the chairs" n="2">في الكراسي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity twisted" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

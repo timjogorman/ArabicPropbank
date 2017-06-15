@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TanoTan</id>
+<comment/>
+<frameset cdef="" edef="to ring/make a clear resonant sound" id="01" vncls="">
+<role argnum="1" argrole="entity resonating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طنطن الجرس</parse>
+<comment/>
+<arg f="" g="the bell" n="1">الجرس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

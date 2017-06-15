@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kanaz-i</id>
+
+<frameset cdef="" edef="to treasure (up), to gather, to accumulate, to put" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كنز الرجل المال تحت الأرض</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the money" n="1">المال</arg>
+<arg f="" g="under the ground" n="2">تحت الأرض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things collected" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to fill" id="02" vncls="">
+<role argnum="0" argrole="filler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كنز الرجل الدلو بالتراب</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the bucket" n="1">الدلو</arg>
+<arg f="" g="with soil" n="2">بالتراب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="filled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

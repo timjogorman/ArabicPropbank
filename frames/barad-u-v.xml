@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>barad-u</id>
+
+<frameset cdef="" edef="to become cold, to languish, to die" id="01" vncls="">
+<role argnum="1" argrole="entity becoming cold" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>برد الجو اليوم الماضي</parse>
+
+<arg f="" g="the weather" n="1">الجو</arg>
+<arg f="tmp" g="yesterday" n="m">اليوم الماضي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to calm or relieve" id="02" vncls="">
+<role argnum="0" argrole="entity calming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>برد الدواء الألم</parse>
+
+<arg f="" g="the medicine" n="1">الدواء</arg>
+<arg f="" g="the pain" n="2">الألم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity calmed" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to file or rasp" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>برد العامل الحديد بالمبرد</parse>
+
+<arg f="" g="the worker" n="0">العامل</arg>
+<arg f="" g="the iron" n="1">الحديد</arg>
+<arg f="" g="with a file" n="2">بالمبرد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things filed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

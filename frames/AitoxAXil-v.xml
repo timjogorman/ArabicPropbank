@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoxAXil</id>
+<comment/>
+<frameset cdef="" edef="to fail from doing somethingor weaken, to lose strenght" id="01" vncls="">
+<role argnum="1" argrole="entity failing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>TOP
+  (UCP
+    (SBARQ
+      (CONJ وِ)
+      (NP-TPC-4
+        (PRON_1P اِحْنا))
+      (WHPP-1
+        (WHNP
+          (X
+            (NOUN لِحَدّ))
+          (WHNP
+            (TYPO امتا))))
+      (S
+        (VP
+          (IV1P+IV نُقْعُد)
+          (NP-SBJ-3
+            (-NONE- *T*-4))
+          (S-ADV
+            (VP
+              (IV1P+IV نِتْخاذِل)
+              (NP-SBJ
+                (-NONE- *-3))
+              (NP-ADV
+                (NOUN كِدَه))))
+          (PP-TMP
+            (-NONE- *T*-1)))))</parse>
+<comment/>
+<arg f="" g="we" n="1">*T* -3 اِحْنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

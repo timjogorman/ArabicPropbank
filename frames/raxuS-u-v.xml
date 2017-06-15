@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raxuS-u</id>
+<comment/>
+<frameset cdef="" edef="to cheapen, to be or become cheap" id="01" vncls="">
+<role argnum="1" argrole="things becoming cheap" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رخص سعر الذهب ثلاث دولارات عن السعر الاصلي</parse>
+<comment/>
+<arg f="" g="the gold price" n="1">سعر الذهب</arg>
+<arg f="" g="three dollars" n="2">ثلاث دولارات</arg>
+<arg f="" g="from the original price" n="3">عن السعر الاصلي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="how much" vncls="" vntheta=""/>
+<role argnum="3" argrole="actual price" vncls="" vntheta=""/>
+</frameset>
+</verb>

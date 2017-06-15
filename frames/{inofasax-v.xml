@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofasax</id>
+
+<frameset cdef="" edef="to be disjointed or partly divided" id="01" vncls="">
+<role argnum="1" argrole="entity disjointed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>انفسخ الملح عن الماء</parse>
+
+<arg f="" g="salt" n="">الملح</arg>
+<arg f="" g="from water" n="">عن الماء</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be cancelled or invalid" id="02" vncls="">
+<role argnum="1" argrole="entity cancelled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>انفسخ العقد</parse>
+
+<arg f="" g="the contract" n="1">العقد</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

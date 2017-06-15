@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotasomaH</id>
+
+<frameset cdef="" edef="seek somebody's forgiveness" id="01" vncls="">
+<role argnum="0" argrole="the asker for forgiveness" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استسمح الابن اباه</parse>
+
+<arg f="" g="the son" n="0">الابن</arg>
+<arg f="" g="the father" n="1">اباه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the enetity giving forgiveness" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

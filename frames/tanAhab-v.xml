@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanAhab</id>
+<comment/>
+<frameset cdef="" edef="to controll or overcome" id="01" vncls="">
+<role argnum="0" argrole="controller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تناهبته الظنون</parse>
+<comment/>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="the thoughts" n="0">الظنون</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="controlled" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to run or race" id="02" vncls="">
+<role argnum="0" argrole="entity racing or running" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تناهب المتسابقون</parse>
+<comment/>
+<arg f="" g="the racers" n="0">المتسابقون</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

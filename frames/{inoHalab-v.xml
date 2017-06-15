@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHalab</id>
+
+<frameset cdef="" edef="to be taken the milk from it" id="01" vncls="">
+<role argnum="1" argrole="cow" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحلبت البقرة</parse>
+
+<arg f="" g="the cow" n="1">البقرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be emulsified or combined ( should be liquids)" id="02" vncls="">
+<role argnum="1" argrole="1st liquid" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحلبت القهوة بالحليب</parse>
+
+<arg f="" g="coffee" n="1">القهوة</arg>
+<arg f="" g="with milk" n="2">بالحليب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="2nd liquid" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

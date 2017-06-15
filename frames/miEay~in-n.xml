@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miEay~in</id>
+<comment/>
+<frameset cdef="" edef="appoint or nominate" id="01" vncls="">
+<role argnum="0" argrole="nominator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم راحوا معيينين * نفسهم للمنصب ده</parse>
+<comment/>
+<arg f="" g="them" n="">* هم</arg>
+<arg f="" g="themselves" n="">نفسهم</arg>
+<arg f="" g="for this position" n="">للمنصب ده</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="candidate" vncls="" vntheta=""/>
+<role argnum="2" argrole="a possition" vncls="" vntheta=""/>
+</frameset>
+</verb>

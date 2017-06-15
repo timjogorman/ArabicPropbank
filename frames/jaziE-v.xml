@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jaziE</id>
+<comment/>
+<frameset cdef="" edef="to worry, to concern" id="01">
+<role argnum="0" argrole="entity worried"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>من جزِعَ * اليومَ من الشرِّ ظلَم</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="tmp" g="today" n="m">اليومَ</arg>
+<arg f="" g="from Evil" n="1">من الشرِّ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="about or from"/>
+</frameset>
+</verb>

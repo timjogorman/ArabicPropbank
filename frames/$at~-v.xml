@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$at~</id>
+
+<frameset cdef="" edef="to run away, to go away (multi word expression)" id="01" vncls="">
+<role argnum="1" argrole="things ran away" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عقلي حيشت * مني</parse>
+
+<arg f="" g="my brain" n="">* عقلي</arg>
+<arg f="" g="from me" n="">مني</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

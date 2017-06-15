@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>madohuws</id>
+<comment/>
+<frameset cdef="" edef="to be run over by something" id="01" vncls="">
+<role argnum="0" argrole="entity running over" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (FRAG
+    (CONJ وِ)
+    (NP
+      (NP
+        (NOUN أَخّ))
+      (SBAR-4
+        (WHNP-3
+          (-NONE- 0-4))
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS اِسْتَشْهَد)
+            (NP-SBJ-2
+              (-NONE- *T*-3))
+            (PP-LOC
+              (PREP فِي)
+              (NP
+                (NOUN_PROP ماسِيبُرو)))
+            (S-ADV
+              (VP
+                (ADJ.VN مَدْهُوس)
+                (NP-SBJ-1
+                  (-NONE- *-2))
+                (NP-OBJ
+                  (-NONE- *-1))
+                (PP
+                  (PREP بِ)
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_PL المُدَرَّعات))))))))</parse>
+<comment/>
+<arg f="" g="brother" n="1">*-2 أَخّ</arg>
+<arg f="" g="by tanks" n="2">بالمدرعات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

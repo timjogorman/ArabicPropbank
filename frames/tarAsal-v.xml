@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarAsal</id>
+<comment/>
+<frameset cdef="" edef="to correspond, to exchange letters" id="01" vncls="">
+<role argnum="0" argrole="entity writing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تراسل الزوج مع زوجته خمس سنوات قبل الزواج</parse>
+<comment/>
+<arg f="" g="the husband" n="0">الزوج</arg>
+<arg f="" g="with his wife" n="1">مع زوجته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="about" vncls="" vntheta=""/>
+</frameset>
+</verb>

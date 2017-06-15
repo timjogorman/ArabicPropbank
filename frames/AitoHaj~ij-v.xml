@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoHaj~ij</id>
+
+    <frameset cdef="" edef="use an excuse or a pretext" id="01" vncls="">
+<role argnum="0" argrole="entity using excuse" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دفاع صفوت الشريف يتحجج بمرض البروستاتا ويطالب بالافراج عنه لدواعي صحية
+
+Arg 0: -None- *T* (دفاع صفوت الشريف)
+Arg 1:  بمرض البروستاتا</parse>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the excuse" vncls="" vntheta=""/>
+<comment>Based on roleset taHaj~aja.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on taHaj~aja</comment>
+</verb>

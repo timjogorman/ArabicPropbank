@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AiqotaSar</id>
+<comment>EGYPTIAN ARABIC based on {iqotaSar</comment>
+    <frameset cdef="" edef="be limited to" id="01" vncls="">
+<role argnum="1" argrole="thing limited" vncls="" vntheta="" />
+<role argnum="2" argrole="limit" vncls="" vntheta="" />
+<frame>
+<mapping>
+<V />
+<mapitem src="sbj" trg="arg0" />
+<comment />
+</mapping>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3FS اقتصرت)
+    (NP-SBJ
+      (DET+NOUN+CASE_DEF_NOM التجارب)
+      (DET+ADJ+CASE_DEF_NOM الخمس)
+      (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM السابقة))
+    (PP-CLR
+      (PREP على)
+      (NP
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الصاروخ)
+          (DET+ADJ+CASE_DEF_GEN المستهدف))</parse>
+<arg f="" g="their 5 previous experience" n="1">التجارب الخمس السابقة</arg>
+<arg f="" g="on the targeted missile and 1 extra body" n="2">على الصاروخ المستهدف</arg>
+<V />
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {iqotaSar.01</comment>
+</frameset>
+</verb>

@@ -1,110 +1,228 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Darab</id>
-    <frameset edef="to hit" id="01">
-        <role argnum="0" argrole="agent, hitter - animate only!"/>
-        <role argnum="1" argrole="thing hit"/>
-        <role argnum="2" argrole="place hit"/>
-        <role argnum="3" argrole="instrument, thing hit by or with"/>
-        <frame>
-            <mapping>
-                <V/>
-                <mapitem src="sbj" trg="arg0"/>
-            </mapping>
-            <example>
-                <parse>
-                    (S (S (VP (pull/attract+he/it MjaXaba- M جَذَبَ-)
-                    (NP-SBJ (-NONE- X))
-                    (NP-OBJ (it/them/her M-hA M -ها))))
-                    (and Mwa- M وَ-)
-                    (S (VP (strike/hit+he/it M-Daraba- M -ضَرَبَ-)
-                    (NP-SBJ (-NONE- X))
-                    (NP-OBJ (it/them/her M-hA M -ها))
-                    (PP (in Mfiy M فِي)
-                    (NP (face/front Mwajohi- M وَجْهِ-)
-                    (its/their/her M-hA M -ها)))
-                    (PP (with/by Mbi- M بِ-)
-                    (NP (the+handcuffs/shackles M-AlOagolAli M -الأَغْلالِ)))))))))))))
-                    (PUNC &amp;quot;)
-                </parse>
-                <arg g="NP-SBJ (-NONE- *" n="0">X</arg>
-                <arg g="her" n="1">-hA</arg>
-                <arg g="in her face" n="2">fiy wajohi- -hA</arg>
-                <arg g="with the shackles" n="3">bi- -AlOagolAli</arg>
-                <V/>
-            </example>
-        </frame>
-    </frameset>
-    <frameset edef="break the record" id="02">
-        <role argnum="0" argrole="agent broker"/>
-        <role argnum="1" argrole="the record"/>
-        <frame>
-            <mapping>
-                <V/>
-                <mapitem src="sbj" trg="arg0"/>
-            </mapping>
-            <example>
-                <parse>
-                    (S (ADVP (then/thereupon Mvum~a M ثُمَّ))
-                    (VP (strike/hit+he/it MDaraba M ضَرَبَ)
-                    (NP-SBJ (-NONE- X))
-                    (NP-OBJ (the+number/numeral MAlr~aqoma M الرَّقْمَ)
-                    (the+record/analogous MAlqiyAsiy~a M القِياسِيَّ))
-                    (PP-MNR (PP (with/by Mbi- M بِ-)
-                    (NP (NP (the+volume/size M-AlHajomi M -الحَجْمِ))
-                    (PRN (PUNC -LRB-)
-                    (NP (NP (last/end M Mxiru M آخِرُ)
-                    (painting/picture MlawoHAti- M لَوْحاتِ-)
-                    (its/his M-hi M -هِ))
-                    (NP (NP (NUM 200)
-                    (meter MmitorK M مِتْرٍ)
-                    (square/quadruple/tetragonal Mmurab~aEK M مُرَبَّعٍ))
-                    (PP (for/to Mli- M لِ-)
-                    (NP (presentation/display/review/show/offer M-EaroDi M -عَرْضِ)
-                    (NP (Karkala MkarokalA M كَرْكَلا)
-                    (the+new/modern MAljadiydi M الجَدِيدِ))))))
-                    (NP (PUNC &amp;quot;)
-                    (NUM+CASE_DEF_NOM Alf)
-                    (NP (night/evening/soire MlayolapK M لَيْلَةٍ)
-                    (and Mwa- M وَ-)
-                    (night/evening/soire M-layolapK M -لَيْلَةٍ))
-                    (PUNC &amp;quot;))
-                    (PUNC -RRB-))))
-                    (and Mwa- M وَ-)
-                    (PP (with/by M-bi- M -بِ-)
-                    (NP (NP (the+speed/velocity/promptness M-AlsuroEapi M -السُرْعَةِ))
-                    (PRN (PUNC -LRB-)
-                    (implement/carry_out/accomplish+he/it Mnaf~aXa M نَفَّذَ)
-                    (the+summer MAlS~ayofa M الصَّيْفَ)
-                    (the+past/bygone MAlmADiya M الماضِيَ)
-                    (painting/picture MlawoHapF M لَوْحَةً)
-                    (gigantic/huge/super MEimolAqapK M عِمْلاقَةٍ)
-                    (from Mmin M مِن)
-                    (NUM+NSUFF_FEM_SG+CASE_DEF_GEN E$rp)
-                    (meters MOamotArK M أَمْتارٍ)
-                    (square/quadruple/tetragonal Mmurab~aEapK M مُرَبَّعَةٍ)
-                    (in Mfiy M فِي)
-                    (least/smallest/minimum MOaqal~a M أَقَلَّ)
-                    (from Mmin M مِن)
-                    (hour/time MsAEapK M ساعَةٍ)
-                    (for/to Mli M لِ)
-                    (PUNC &amp;quot;)
-                    (days MOay~Ami M أَيّامِ)
-                    (head/top MraOosi M رَأْسِ)
-                    (the+deck/board/surface MAlmatoni M المَتْنِ)
-                    (the+first MAlOuwlaY M الأُولَى)
-                    (to/for Mli- M لِ-)
-                    (the+drawing/sketch/illustration M-Alrasomi M -الرَسْمِ)
-                    (and Mwa- M وَ-)
-                    (the+sculpturing/shaping M-AlnaHoti M -النَحْتِ)
-                    (PUNC &amp;quot;)
-                    (PUNC -RRB-)))))))
-                </parse>
-                <arg g="NP-SBJ (-NONE- *)" n="0">X</arg>
-                <arg g="the record" n="1">Alr~aqoma AlqiyAsiy~a</arg>
-                <arg f="MNR" g="with another size of 200 meter long and so on..." n="m">bi- AlHajomi  lawoHAti- hi mitorK murab~aEK li- EaroDi karokalA Aljadiydi  layolapK wa- layolapK wa- -bi- AlsuroEapi naf~aXa AlS~ayofa AlmADiya lawoHapF EimolAqapK min OamotArK murab~aEapK fiy Oaqal~a min sAEapK li Oay~Ami raOosi Almatoni AlOuwlaY li- Alrasomi wa- AlnaHoti</arg>
-                <V/>
-            </example>
-        </frame>
-    </frameset>
+<id>Darab</id>
+
+<frameset cdef="" edef="to hit" id="01" vncls="">
+<role argnum="0" argrole="agent, hitter - animate only!" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الواد الصغير ضرب * أخوه الكبير بحجر على راسه</parse>
+
+<arg f="" g="the little boy" n="0">* الواد الصغير</arg>
+<arg f="" g="his big brother" n="1">أخوه الكبير</arg>
+<arg f="" g="with a rock" n="3">بحجر</arg>
+<arg f="" g="on his head" n="2">على راسه</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="place hit" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument, thing hit by or with" vncls="" vntheta=""/>
+
+
+<comment>ERZ</comment>
+</frameset>
+<frameset cdef="" edef="break the record" id="02" vncls="">
+<role argnum="0" argrole="agent broker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الواد أحمد ضرب * الرقم القياسي في أكل الفلفل الحار</parse>
+
+<arg f="" g="the boy Ahmad" n="0">* الواد أحمد</arg>
+<arg f="" g="the high record" n="1">الرقم القياسي</arg>
+<arg f="" g="in eating the hot peper" n="2">في أكل الفلفل الحار</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the record" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+
+
+<comment>ERZ</comment>
+</frameset>
+<frameset cdef="" edef="to give an example" id="03" vncls="">
+<role argnum="0" argrole="entity giving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أبويا بيضرب * أمثال في كل حاجة</parse>
+
+<arg f="" g="my father" n="0">* أبويا</arg>
+<arg f="" g="examoles, parables" n="1">أمثال</arg>
+<arg f="" g="in every thing" n="3">في كل حاجة</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things given" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="about what" vncls="" vntheta=""/>
+
+
+<comment>ERZ</comment>
+</frameset>
+<frameset cdef="" edef="to eat, to take" id="04" vncls="">
+<role argnum="0" argrole="taker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ده ضرب * الخبز مع الرز كله</parse>
+
+<arg f="" g="he" n="0">* ده</arg>
+<arg f="" g="the whole bread and the rice" n="1">الخبز مع الرز كله</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things taken" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+
+
+<comment>ERZ</comment>
+</frameset>
+
+<frameset cdef="" edef="to make a fool of" id="05" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>هو ضربنا * بمبة في قصة المال</parse>
+
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="a blast" n="2">بمبة</arg>
+<arg f="" g="in the money matter" n="3">في قصة المال</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity made fool" vncls="" vntheta=""/>
+<role argnum="2" argrole="the trick" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+
+<comment>ERZ</comment>
+</frameset>
+<frameset cdef="" edef="to stop functioning (multi word expression)" id="06" vncls="">
+<role argnum="1" argrole="entity stopping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>العربية ضربت * النهاردة</parse>
+
+<arg f="" g="the car" n="1">* العربية</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>ERZ</comment>
+</frameset>
+
+<frameset cdef="" edef="to shoot (fire a weapon)" id="07" vncls="">
+<role argnum="0" argrole="shooter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الجيش ضرب  * الناس بالرصاص</parse>
+
+<arg f="" g="the Army" n="0">الجيش</arg>
+<arg f="" g="the people" n="2">الناس</arg>
+<arg f="" g="with bullets" n="1">بالرصاص</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things shot" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to multiply" id="08" vncls="">
+<role argnum="0" argrole="entity multiplying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ضرب الطالب 5 في 9</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="5" n="1">5</arg>
+<arg f="" g="9" n="2">9</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="first number" vncls="" vntheta=""/>
+<role argnum="2" argrole="second number or multiply by" vncls="" vntheta=""/>
+</frameset>
 </verb>

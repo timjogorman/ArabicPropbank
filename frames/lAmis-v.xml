@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>lAmis</id>
+<frameset cdef="" edef="to approximate (multi word expression)" id="01">
+<role argnum="0" argrole="entity coming close" />
+<role argnum="1" argrole="entity coming close to" />
+<frame>
+<example>
+<parse>(S
+                                      (NP-TPC-5
+                                        (NOUN+CASE_DEF_ACC عدد)
+                                        (NP
+                                          (NP
+                                            (NP
+                                              (DET+NOUN+NSUFF_MASC_PL_GEN العاطلين))
+                                            (PP
+                                              (PREP عن)
+                                              (NP
+                                                (DET+NOUN+CASE_DEF_GEN العمل))))
+                                          (PP-LOC
+                                            (PREP في)
+                                            (NP
+                                              (NOUN_PROP المانيا)))))
+                                      (VP
+                                        (PV+PVSUFF_SUBJ:3MS لامس)
+                                        (NP-SBJ
+                                          (-NONE- *T*-5))
+                                        (NP-OBJ
+                                          (DET ال_)
+                                          (NOUN_NUM 4)
+                                          (NP
+                                            (NOUN_NUM+CASE_INDEF_GEN ملايين)
+                                            (NP
+                                              (NOUN+CASE_INDEF_GEN شخص))))
+                                        (PP-TMP</parse>
+<arg f="" g="they" n="0">-NONE- *T*-5&lt;عدد العاطلين</arg>
+<arg f="" g="4 Millions person" n="1">ال 4 ملايين شخص</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset lAmas-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on lAmas-v</comment>
+<frameset cdef="" edef="to be in touch or contact with" id="02">
+<role argnum="0" argrole="entity touching" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>كان الزوج يلامس وجه زوجته باصبعه</parse>
+<comment />
+<arg f="" g="the husband" n="0">الزوج</arg>
+<arg f="" g="his wife's face" n="1">وجه زوجته</arg>
+<arg f="" g="with his finger" n="2">باصبعه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset lAmas-v.02</comment>
+<role argnum="1" argrole="entity touched" />
+<role argnum="2" argrole="touched with" />
+</frameset>
+</verb>

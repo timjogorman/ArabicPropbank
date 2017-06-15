@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Tab~il</id>
+<comment>EGYPTIAN ARABIC based on Tab~al</comment>
+    <frameset cdef="" edef="to beat the drum, to make a lot of noise" id="01" vncls="">
+<role argnum="0" argrole="entity playing" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>طبل الرجل عند وقت السحور</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Tab~al.01</comment>
+</frameset>
+</verb>

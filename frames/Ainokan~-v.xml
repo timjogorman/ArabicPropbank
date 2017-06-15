@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Ainokan~</id>
+<comment>EGYPTIAN ARABIC Framefile based on qabaE-a-v</comment>
+<frameset cdef="" edef="to stay or hide at, to remain at" id="01" vncls="">
+<role argnum="0" argrole="entity staying" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>قبع الرجل في حجرته</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his room" n="1">في حجرته</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset qabaE-a-v.01</comment>
+<role argnum="1" argrole="staying at" vncls="" vntheta="" />
+</frameset>
+</verb>

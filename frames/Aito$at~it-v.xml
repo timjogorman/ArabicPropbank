@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$at~it</id>
+<comment/>
+<frameset cdef="" edef="scattered, to break up, disbanded" id="01" vncls="">
+<role argnum="0" argrole="distributor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أفكاري تشتت * من وراك</parse>
+<comment/>
+<arg f="" g="my thoughts" n="1">* أفكاري</arg>
+<arg f="" g="because of you" n="0">من وراك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing distributed" vncls="" vntheta=""/>
+<role argnum="2" argrole="distributed to, area" vncls="" vntheta=""/>
+</frameset>
+</verb>

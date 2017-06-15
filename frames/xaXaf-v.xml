@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaXaf</id>
+<comment/>
+<frameset cdef="" edef="to throw using thr forefinger" id="01" vncls="">
+<role argnum="0" argrole="thrower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خذف الصبي الحجر على أخيه</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الصبي</arg>
+<arg f="" g="the rock" n="1">الحجر</arg>
+<arg f="" g="at his brother" n="2">على أخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="destination/location" vncls="" vntheta=""/>
+</frameset>
+</verb>

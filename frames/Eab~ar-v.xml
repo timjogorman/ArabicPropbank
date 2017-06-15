@@ -1,23 +1,92 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Eab~ar</id>
-    <comment/>
-    <frameset cdef="" edef="to pay attention, respect" id="01">
-        <role argnum="0" argrole="agent"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>* إيه والله لا يعنى بص فعلا بعد الخناقة دى الولد بينى و بينك كان بيعامل البنت زى الزفت مكانش بيعبرها</parse>
-                <comment/>
-                <arg f="" g="he" n="0">* &gt; الولد</arg>
-                <arg f="" g="her" n="1">ها</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment>Eg</comment>
-        <role argnum="1" argrole="entity respected"/>
-        <role argnum="2" argrole="secondary predicate"/>
-    </frameset>
+<id>Eab~ar</id>
+
+<frameset cdef="" edef="to pay attention, respect" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>* إيه والله لا يعنى بص فعلا بعد الخناقة دى الولد بينى و بينك كان بيعامل البنت زى الزفت مكانش بيعبرها</parse>
+
+<arg f="" g="he" n="0">* &gt; الولد</arg>
+<arg f="" g="her" n="1">ها</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity respected" vncls="" vntheta=""/>
+<role argnum="2" argrole="secondary predicate" vncls="" vntheta=""/>
+
+
+<comment>Eg</comment>
+</frameset>
+
+<frameset cdef="" edef="to express, to utter" id="02" vncls="Eab~ara-1">
+<role argnum="0" argrole="agent expressing" vncls="Eab~ara-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>عبر الرجل لزوجته عن حبه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to his wife" n="2">لزوجته</arg>
+<arg f="" g="about his love" n="1">عن حبه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things expressed (Usually comes after عن  )" vncls="Eab~ara-1" vntheta="topic"/>
+<role argnum="2" argrole="to whom" vncls="Eab~ara-1" vntheta="recipient"/>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to represent" id="03" vncls="">
+<role argnum="0" argrole="agent representing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>سياسة وزير الخارجية بتعبر * عن الحكومة</parse>
+
+<arg f="" g="the politics of the Foreign Minister" n="0">سياسة وزير الخارجية</arg>
+<arg f="" g="the government" n="1">عن الحكومة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="represented" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

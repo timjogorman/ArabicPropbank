@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bavaq-u</id>
+<comment/>
+<frameset cdef="" edef="to spout or spurt, to force out" id="01" vncls="">
+<role argnum="0" argrole="entity forcing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بثق الضغط الماء من الصخر</parse>
+<comment/>
+<arg f="" g="the pressure" n="0">الضغط</arg>
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="from the rock" n="2">من الصخر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity forced" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to emanate from, to spring or emerge from (انبثق)" id="02" vncls="">
+<role argnum="1" argrole="entity emerging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بثق الماء من النهر</parse>
+<comment/>
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="from the river" n="2">من النهر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what or where" vncls="" vntheta=""/>
+</frameset>
+</verb>

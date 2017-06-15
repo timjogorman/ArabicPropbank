@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xado$</id>
+<comment/>
+<frameset cdef="" edef="to graze, scratch off" id="01" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الرجل بخدش * انفه بأصبعه</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="his nose" n="1">انفه</arg>
+<arg f="" g="with his finger" n="2">بأصبعه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument (marked by بـ)" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,94 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muwAfiq</id>
+
+<frameset cdef="" edef="agreing /accepting" id="01" vncls="">
+<role argnum="0" argrole="agreing /accepting entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+        (VP
+          (IV3MS+IV+IVSUFF_MOOD:I يترك)
+          (NP-SBJ
+            (NOUN+CASE_DEF_NOM كلام)
+            (NP
+              (NOUN_PROP رود)
+              (PUNC -)
+              (NOUN_PROP لارسن)))
+          (S-NOM-OBJ
+            (VP
+              (NOUN.VN+CASE_INDEF_ACC انطباعا)
+              (NP-SBJ
+                (-NONE- *))
+              (SBAR
+                (SUB_CONJ ان)
+                (S
+                  (S
+                    (NP-SBJ
+                      (NOUN_PROP سوريا))
+                    (S-NOM-PRD
+                      (VP
+                        (ADJ.VN+NSUFF_FEM_SG+CASE_INDEF_NOM موافقة)
+                        (NP-SBJ
+                          (-NONE- *))
+                        (NP-MNR
+                          (NOUN+CASE_INDEF_ACC ضمنا))
+                        (PP-CLR
+                          (PREP على)
+                          (SBAR-NOM
+                            (WHNP-2
+                              (REL_PRON ما))
+                            (S
+                              (VP
+                                (PV+PVSUFF_SUBJ:3MS أدلى)
+                                (NP-SBJ
+                                  (-NONE- *))
+                                (PP-CLR
+                                  (PREP ب)
+                                  (NP
+                                    (NP
+                                      (PRON_3MS ه))
+                                    (NP
+                                      (-NONE- *T*-2)))))))))))</parse>
+
+<arg f="" g="she" n="0">-NONE- * &gt; سوريا</arg>
+<arg f="" g="on the statement which he made." n="1">على ما أدلى به</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="on what?" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="equivalent in calendar" id="02" vncls="">
+<role argnum="1" argrole="original date" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse/>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="equivalent date" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

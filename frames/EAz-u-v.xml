@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAz-u</id>
+<comment/>
+<frameset cdef="" edef="to need" id="01" vncls="">
+<role argnum="0" argrole="entity needing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا المكان يعوزه التنظيف</parse>
+<comment/>
+<arg f="" g="it" n="1">ه</arg>
+<arg f="" g="cleaning" n="2">التنظيف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

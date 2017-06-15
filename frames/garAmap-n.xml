@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>garAmap</id>
+<comment/>
+<frameset cdef="" edef="to fine, to impose a fine on" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غرم الشرطي السائق مبلغ مئة دولار</parse>
+<comment/>
+<arg f="" g="the police man" n="0">الشرطي</arg>
+<arg f="" g="the driver" n="1">السائق</arg>
+<arg f="" g="the amount of one hundred dollar" n="2">مبلغ مئة دولار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="amount" vncls="" vntheta=""/>
+</frameset>
+</verb>

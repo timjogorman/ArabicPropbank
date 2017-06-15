@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>haXab-i</id>
+<comment/>
+<frameset cdef="" edef="to purify or refine, to prune or trim" id="01" vncls="">
+<role argnum="0" argrole="entity purifying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذب المزارع  النخلة من أليافها</parse>
+<comment/>
+<arg f="" g="the farmer" n="0">المزارع</arg>
+<arg f="" g="the palm tree" n="1">النخلة</arg>
+<arg f="" g="from the fibers" n="2">من أليافها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things purified" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

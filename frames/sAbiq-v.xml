@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sAbiq</id>
+<comment>Based on the verb sAbaq F1</comment>
+<frameset cdef="" edef="to race" id="01" vncls="">
+<role argnum="0" argrole="racers - agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3FD كانتا)
+    (VP
+      (IV3FD+IV+IVSUFF_SUBJ:D_MOOD:I تسابقان)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (DET+NOUN+CASE_DEF_ACC الطريق))))</parse>
+<comment/>
+<arg f="" g="They" n="0">NONE- *</arg>
+<arg f="" g="way" n="1">الطريق</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="second racer" vncls="" vntheta=""/>
+<role argnum="2" argrole="race" vncls="" vntheta=""/>
+</frameset>
+</verb>

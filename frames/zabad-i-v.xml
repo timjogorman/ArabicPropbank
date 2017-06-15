@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zabad-i</id>
+<comment/>
+<frameset cdef="" edef="to mix with butter" id="01" vncls="">
+<role argnum="0" argrole="mixer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زبد الرجل الطعام بالزبد</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the food" n="1">الطعام</arg>
+<arg f="" g="with butter" n="2">بالزبد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things mixed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what (usually butter)" vncls="" vntheta=""/>
+</frameset>
+</verb>

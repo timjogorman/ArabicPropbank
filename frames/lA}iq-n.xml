@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lA}iq</id>
+<comment/>
+<frameset cdef="" edef="fit, suitable, appropriate" id="01" vncls="">
+<role argnum="1" argrole="entity that is suitable" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غير لائق به لبس ملابس النساء</parse>
+<comment/>
+<arg f="" g="with him" n="1">به</arg>
+<arg f="" g="to put on females dress" n="2">لبس ملابس النساء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

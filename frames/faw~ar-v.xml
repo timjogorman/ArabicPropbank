@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faw~ar</id>
+
+<frameset cdef="" edef="to boil, to make angry (multi word expression)" id="01" vncls="">
+<role argnum="0" argrole="entity boiling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ده الدكتور مبلغه انه لازم يفور *  المية قبل ما يشربها</parse>
+
+<arg f="" g="he" n="0">* ه</arg>
+<arg f="" g="the water" n="1">المية</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things boiled" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

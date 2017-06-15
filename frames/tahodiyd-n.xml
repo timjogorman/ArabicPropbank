@@ -1,75 +1,75 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>tahodiyd</id>
-    <frameset cdef="" edef="warning , threatening" id="01">
-        <role argnum="0" argrole="entity threatening"/>
-        <role argnum="1" argrole="the threat"/>
-        <role argnum="2" argrole="entity threatened"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS كانت)
-                    (NP-1
-                    (NOUN_PROP بيونغ)
-                    (NOUN_PROP يانغ))
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS أبدت)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (NP-OBJ
-                    (NP
-                    (NOUN+CASE_DEF_ACC استعداد)
-                    (NP
-                    (POSS_PRON_3FS ها)))
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (NOUN+CASE_DEF_GEN استقبال)
-                    (NP
-                    (NOUN+CASE_INDEF_GEN مبعوث)
-                    (ADJ+CASE_INDEF_GEN اميركي)))))
-                    (PUNC ,)
-                    (PP
-                    (PREP على)
-                    (NP
-                    (NOUN+CASE_DEF_GEN رغم)
-                    (S
-                    (VP
-                    (NOUN.VN+CASE_DEF_GEN تهديد)
-                    (NP-SBJ
-                    (POSS_PRON_3FS ها))
-                    (NP-TMP
-                    (DET+NOUN+CASE_DEF_ACC الاربعاء))
-                    (PP-CLR
-                    (PREP ب)
-                    (NP
-                    (NP
+<id>tahodiyd</id>
+<frameset cdef="" edef="warning , threatening" id="01">
+<role argnum="0" argrole="entity threatening"/>
+<role argnum="1" argrole="the threat"/>
+<role argnum="2" argrole="entity threatened"/>
+<frame>
+<example>
+<parse>
+(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3FS كانت)
+    (NP-1
+      (NOUN_PROP بيونغ)
+      (NOUN_PROP يانغ))
+    (VP
+      (PV+PVSUFF_SUBJ:3FS أبدت)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (NP
+          (NOUN+CASE_DEF_ACC استعداد)
+          (NP
+            (POSS_PRON_3FS ها)))
+        (PP
+          (PREP ل)
+          (NP
+            (NOUN+CASE_DEF_GEN استقبال)
+            (NP
+              (NOUN+CASE_INDEF_GEN مبعوث)
+              (ADJ+CASE_INDEF_GEN اميركي)))))
+      (PUNC ,)
+      (PP
+        (PREP على)
+        (NP
+          (NOUN+CASE_DEF_GEN رغم)
+          (S
+            (VP
+              (NOUN.VN+CASE_DEF_GEN تهديد)
+              (NP-SBJ
+                (POSS_PRON_3FS ها))
+              (NP-TMP
+                (DET+NOUN+CASE_DEF_ACC الاربعاء))
+              (PP-CLR
+                (PREP ب)
+                (NP
+                  (NP
                     (DET+NOUN+CASE_DEF_GEN الانسحاب))
-                    (PP
+                  (PP
                     (PREP من)
                     (NP
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الاتفاق)
-                    (DET+ADJ+CASE_DEF_GEN النووي))
-                    (ADJP
-                    (DET+ADJ+CASE_DEF_GEN الموقع)
-                    (NP-TMP
-                    (NOUN+CASE_DEF_ACC عام)
-                    (NP
-                    (NOUN_NUM 1994)))
-                    (NP-ADV
-                    (NOUN+CASE_DEF_ACC مع)
-                    (NP
-                    (NOUN_PROP واشنطن))))))))))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="it" n="0">ها</arg>
-                <arg f="tmp" g="Wednesday" n="m">الاربعاء</arg>
-                <arg f="" g="to withdraw from the nuclear agreement signed in 1994 with Washington" n="1">بالانسحاب من الاتفاق النووي الموقع عام 1994 مع واشنطن</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN الاتفاق)
+                        (DET+ADJ+CASE_DEF_GEN النووي))
+                      (ADJP
+                        (DET+ADJ+CASE_DEF_GEN الموقع)
+                        (NP-TMP
+                          (NOUN+CASE_DEF_ACC عام)
+                          (NP
+                            (NOUN_NUM 1994)))
+                        (NP-ADV
+                          (NOUN+CASE_DEF_ACC مع)
+                          (NP
+                            (NOUN_PROP واشنطن))))))))))))))
+  (PUNC .))
+</parse>
+<arg f="" g="it" n="0">ها</arg>
+<arg f="tmp" g="Wednesday" n="m">الاربعاء</arg>
+<arg f="" g="to withdraw from the nuclear agreement signed in 1994 with Washington" n="1">بالانسحاب من الاتفاق النووي الموقع عام 1994 مع واشنطن</arg>
+</example>
+</frame>
+</frameset>
 </verb>

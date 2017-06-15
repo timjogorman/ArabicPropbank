@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muholap</id>
+<comment/>
+<frameset cdef="" edef="time limit, term, appointed time" id="01" vncls="">
+<role argnum="1" argrole="time" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أعطى المدرس مهلة ثلاثة ايام للطلبة للإمتحان</parse>
+<comment/>
+<arg f="" g="three days" n="1">ثلاثة ايام</arg>
+<arg f="" g="for the students" n="2">للطلبة</arg>
+<arg f="" g="to be ready for the test" n="3">للإمتحان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="to do what, for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

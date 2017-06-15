@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raf~ah</id>
+<comment/>
+<frameset cdef="" edef="to entertain or amuse" id="01" vncls="">
+<role argnum="0" argrole="entity entertaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يا أخي رفه * عن نفسك</parse>
+<comment/>
+<arg f="" g="my brother" n="0">* يا أخي</arg>
+<arg f="" g="yourself" n="1">عن نفسك</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="entity entertained" vncls="" vntheta=""/>
+</frameset>
+</verb>

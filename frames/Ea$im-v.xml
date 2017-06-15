@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ea$im</id>
+<comment/>
+<frameset cdef="" edef="to covet or desire" id="01" vncls="">
+<role argnum="0" argrole="entity desiring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عشم الرجل أن ينال الجائزة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to get the prize" n="1">أن ينال الجائزة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="what" vncls="" vntheta=""/>
+</frameset>
+</verb>

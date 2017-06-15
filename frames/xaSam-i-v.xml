@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaSam-i</id>
+
+<frameset cdef="" edef="to discount, to deduct" id="01" vncls="">
+<role argnum="0" argrole="discounter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خصم البائع خمسة دنانير من سعر القميص</parse>
+
+<arg f="" g="seller" n="0">البائع</arg>
+<arg f="" g="five dinars" n="2">خمسة دنانير</arg>
+<arg f="" g="from the shirt price" n="1">من سعر القميص</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="commodity" vncls="" vntheta=""/>
+<role argnum="2" argrole="EXT, amount of reduction" vncls="" vntheta=""/>
+<role argnum="3" argrole="start point" vncls="" vntheta=""/>
+<role argnum="4" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to overcome, to defeat" id="02" vncls="">
+<role argnum="0" argrole="overcomer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خصم الرجل نده</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his opponent" n="1">نده</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="overcomed" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

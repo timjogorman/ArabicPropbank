@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oaxad</id>
+
+<frameset cdef="" edef="to submit or surrender  to, to humble onself" id="01" vncls="">
+<role argnum="0" argrole="entity submiting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أخد الرجل لما يحصل</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="for what is happening" n="1">لما يحصل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to whom or what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

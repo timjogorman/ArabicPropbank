@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taxay~ar</id>
+<comment/>
+<frameset cdef="" edef="to choose, to select, to prefer to" id="01">
+<role argnum="0" argrole="chooser"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تخيرت الام بين نفسها و ابنها</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الام</arg>
+<arg f="" g="between her self" n="1">بين نفسها</arg>
+<arg f="" g="and her son" n="2">و ابنها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things chosen"/>
+<role argnum="2" argrole="second option"/>
+</frameset>
+</verb>

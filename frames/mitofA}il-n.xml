@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitofA}il</id>
+<comment/>
+<frameset cdef="" edef="optimimistic" id="01" vncls="">
+<role argnum="1" argrole="optimistic entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا متفائل * باليوم ده</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="with this day" n="2">باليوم ده</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="about what? (usually marked by من)" vncls="" vntheta=""/>
+</frameset>
+</verb>

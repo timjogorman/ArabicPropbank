@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoDamar</id>
+
+<frameset cdef="" edef="to atrophy / weaken" id="01" vncls="">
+<role argnum="1" argrole="thing atrophied" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انضمرت سرة الرضيع</parse>
+
+<arg f="" g="the baby's navel" n="1">سرة الرضيع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

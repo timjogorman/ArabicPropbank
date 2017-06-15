@@ -1,0 +1,437 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>warad</id>
+<comment>EGYPTIAN ARABIC based on Oaworad and warad-i</comment>
+    <frameset cdef="" edef="to appear or be mentioned" id="01">
+<role argnum="1" argrole="the thing appearing or being mentioned" />
+<role argnum="2" argrole="location" />
+<frame>
+<mapping>
+<V />
+<mapitem src="sbj" trg="arg0" />
+<comment />
+</mapping>
+<example>
+<parse>(VP
+      (PV+PVSUFF_SUBJ:3MS صح)
+      (SBAR-NOM-SBJ
+        (WHNP-1
+          (REL_PRON ما))
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS ورد)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (PP-CLR
+              (PREP على)
+              (NP
+                (NOUN+CASE_DEF_GEN لسان)
+                (NP
+                  (NP
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN المستشار)
+                      (DET+ADJ+CASE_DEF_GEN السابق))
+                    (PP
+                      (PREP ل)
+                      (NP
+                        (NOUN+CASE_DEF_GEN قائد)
+                        (NP
+                          (PUNC &quot;)
+                          (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN القوات)
+                          (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN اللبنانية)
+                          (PUNC &quot;)))))
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN الدكتور)
+                    (NOUN_PROP توفيق)
+                    (DET+NOUN_PROP الهندي)))))
+            (PP
+              (PREP في)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المحكمة)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN العسكرية)))
+            (NP-TMP
+              (NP
+                (ADJ_NUM+CASE_DEF_ACC اول))
+              (PP
+                (PREP من)
+                (NP
+                  (NOUN امس))))
+            (PP
+              (PREP من)
+              (SBAR
+                (SBAR
+                  (SUB_CONJ ان)
+                  (S
+                    (NP-TPC-3
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_ACC الاعترافات))
+                      (SBAR
+                        (SBAR
+                          (WHNP-2
+                            (REL_PRON التي))
+                          (S
+                            (VP
+                              (PV+PVSUFF_SUBJ:3MS ادلى)
+                              (NP-SBJ
+                                (-NONE- *))
+                              (PP-CLR
+                                (PREP ب)
+(NP
+                                  (NP
+                                    (PRON_3FS ها))
+                                  (NP
+                                    (-NONE- *T*-2))))
+
+ (NP-TMP
+                                (NOUN+CASE_INDEF_ACC سابقا)))))
+                        (CONJ و)
+                        (SBAR
+                          (WHNP-6
+                            (-NONE- 0))
+                          (S
+                            (VP
+                              (PV+PVSUFF_SUBJ:3FS أدت)
+                              (NP-SBJ
+                                (-NONE- *T*-6))
+                              (PP-CLR
+                                (PREP الى)
+                                (S-NOM
+                                  (VP
+                                    (NOUN.VN+CASE_DEF_GEN اتهام)
+                                    (NP-SBJ
+                                      (-NONE- *))
+                                    (NP-OBJ
+                                      (POSS_PRON_3MS ه))
+                                    (PP
+                                      (PREP ب)
+                                      (NP
+                                        (NP
+                                          (DET+NOUN+CASE_DEF_GEN التعامل))
+                                        (NP-ADV
+                                          (NOUN+CASE_DEF_ACC مع)
+                                          (NP
+                                            (NOUN_PROP+CASE_INDEF_GEN اسرائيل)))))))))))))
+                    (PUNC ,)</parse>
+<arg f="" g="It" n="1">-NONE- *T*-1</arg>
+<arg f="" g="on the tongue of the previous advisor to the head of the Lebanese forces" n="2-عَلَى">على لسان المستشار السابق لقائد القوات اللبنانية</arg>
+<arg f="loc" g="in a military court" n="m">في المحكمة العسكرية</arg>
+<arg f="tmp" g="the day before yesterday" n="m">اول من امس</arg>
+<arg f="" g="that the confessions he gave prior, that lead to the accusation that he conspired with Israel, were made under duress" n="1-prd">من ان الاعترافات التي ادلى بها أدت الى اتهامه بالتعامل مع اسرائيل</arg>
+<V />
+<comment />
+</example>
+<example>
+<parse>(S
+    (NP-SBJ
+      (DEM_PRON_MS هذا))
+    (NP-PRD
+      (NP
+        (NOUN+CASE_INDEF_NOM قرار))
+      (PP
+        (PREP ل)
+        (NP
+          (NOUN+CASE_DEF_GEN مجلس)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الامن))))
+      (PP
+        (PREP على)
+        (NP
+          (NOUN+CASE_DEF_GEN اساس)
+          (NP
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الفصل)
+              (DET+ADJ_NUM+CASE_DEF_GEN السابع))
+            (PP
+              (PUNC -LRB-)
+              (PREP من)
+              (NP
+                (NOUN+CASE_DEF_GEN ميثاق)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN الامم)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المتحدة)))
+              (PUNC -RRB-)))))))
+(CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS ورد)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP في)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN القرار))
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الرقم)
+            (NOUN_NUM 1373))))))
+  (PUNC &quot;)
+  (PUNC .))</parse>
+<arg f="" g="It" n="1">-NONE- *&lt;قرار</arg>
+<arg f="" g="in resolution 1373" n="2-فِي">1373القرار الرقم</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset warad-i.01</comment>
+</frameset>
+<frameset cdef="" edef="to reach or arrive" id="02">
+<role argnum="1" argrole="thing arriving" />
+<role argnum="2" argrole="destination" />
+<frame>
+<example>
+<parse>(NP
+          (NOUN+CASE_DEF_GEN نشر)
+          (NP
+            (NP
+              (NOUN_QUANT+CASE_DEF_GEN كل)
+              (NP
+                (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN برقيات)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN التعزية))))
+            (SBAR
+              (WHNP-1
+                (REL_PRON التي))
+              (S
+                (VP
+                  (PV+PVSUFF_SUBJ:3FS كانت)
+                  (VP
+                    (IV3FS+IV+IVSUFF_MOOD:I ترد)
+                    (NP-SBJ
+                      (-NONE- *T*-1))
+                    (PP
+                      (PREP الى)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجريدة)))
+(PP-PRP
+                      (PREP ل)
+                      (NP
+                        (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN تعزية)
+                        (PUNC &quot;)
+                        (NP
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN العالم)
+                            (DET+ADJ+CASE_DEF_GEN العربي))</parse>
+<arg f="" g="It" n="1">-NONE- *T*-1&lt;كل برقيات التعزية</arg>
+<arg f="" g="to the newspaper" n="2-إِلَى">الجريدة</arg>
+<arg f="prp" g="to have the Arab world" n="m">لتعزية العالم العربي</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset warad-i.02</comment>
+</frameset>
+<frameset cdef="" edef="to mention or present" id="03">
+<role argnum="0" argrole="speaker"/>
+<role argnum="1" argrole="utterance"/>
+<frame>
+<example>
+<parse>
+(S
+  (CONJ و)
+  (PP-MNR
+    (PREP على)
+    (NP
+      (NOUN+CASE_DEF_GEN نحو)
+      (SBAR-NOM
+        (WHNP-1
+          (REL_PRON ما)
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3FS اوردت)
+            (NP-SBJ
+              (PUNC &quot;)
+              (DET+NOUN_PROP+CASE_DEF_NOM النهار)
+              (PUNC &quot;)
+            (NP-OBJ
+              (-NONE- *T*-1)
+            (NP-TMP
+              (NOUN امس)
+  (PUNC ,)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS اصدر)
+    (NP-SBJ
+      (NOUN+CASE_DEF_NOM مجلس)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الوزراء)
+    (NP-OBJ
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC دفعة)
+      (PP
+        (PREP من)
+        (NP
+          (NP
+            (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN التعيينات)
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الادارية)
+          (PP
+            (PREP في)
+            (NP
+              (NP
+                (NOUN+CASE_INDEF_GEN وظائف)
+                (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN شاغرة)
+              (PP
+                (PREP في)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الفئة)
+                  (DET+ADJ_NUM الاولى)
+  (PUNC .)
+</parse>
+<arg f="" g="Annahar" n="0">النهار</arg>
+<comment>
+the utterance is a trace that goes back to the pronoun preceding the verb
+</comment>
+<arg f="temp" g="yesterday" n="m">أمس</arg>
+<arg f="" g="" n="1">-NONE- *T*-1</arg>
+</example>
+<example>
+<parse>
+(FRAG
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الوزراء)
+    (NP-OBJ
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC دفعة)
+      (PP
+        (PREP من)
+        (NP
+          (NP
+            (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN التعيينات)
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الادارية)
+          (PP
+            (PREP في)
+            (NP
+              (NP
+                (NOUN+CASE_INDEF_GEN وظائف)
+                (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN شاغرة)
+              (PP
+                (PREP في)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الفئة)
+                  (DET+ADJ_NUM الاولى)
+  (PUNC .)
+</parse>
+<arg f="" g="Annahar" n="0">النهار</arg>
+<comment>
+the utterance is a trace that goes back to the pronoun preceding the verb
+</comment>
+<arg f="temp" g="yesterday" n="m">أمس</arg>
+<arg f="" g="" n="1">-NONE- *T*-1</arg>
+</example>
+<example>
+<parse>
+(FRAG
+  (NP
+    (DET+NOUN_PROP+CASE_DEF_NOM الجزائر)
+    (PUNC -)
+    (NOUN_PROP رويترز)
+  (PUNC -)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3FS أوردت)
+      (NP-SBJ
+        (NP
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM وكالة)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الانباء)
+          (ADJP
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM الجزائرية)
+        (NP
+          (PUNC &quot;)
+          (NOUN_PROP واج)
+          (PUNC &quot;)
+      (NP-TMP
+        (NOUN أمس)
+      (SBAR
+        (SUB_CONJ ان)
+        (S
+          (NP-TPC-1
+            (NP
+              (NOUN_NUM+NSUFF_FEM_SG+CASE_DEF_ACC ستة)
+              (NP
+                (NOUN+CASE_INDEF_GEN أشخاص)
+            (PP
+              (PREP من)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN عائلة)
+                (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN واحدة)
+          (VP
+            (PV_PASS+PVSUFF_SUBJ:3MP قتلوا)
+            (NP-SBJ
+              (-NONE- *T*-1)
+            (NP-OBJ
+              (-NONE- *-1)
+            (PP-MNR
+              (PREP على)
+              (NP
+                (NOUN ايدي)
+                (SBAR-NOM
+                  (WHNP-2
+                    (REL_PRON من)
+                  (S
+                    (VP
+                      (IV3MS+IV_PASS+IVSUFF_MOOD:I يشتبه)
+                      (NP-SBJ
+                        (-NONE- *-3)
+                      (PP-CLR
+                        (PREP في)
+                        (SBAR-3
+                          (SUB_CONJ ان)
+                          (S
+                            (NP-SBJ
+                              (NP
+                                (PRON_3MP هم)
+                              (NP
+                                (-NONE- *T*-2)
+                            (NP-PRD
+                              (NOUN+NSUFF_MASC_PL_NOM اسلاميون)
+                              (ADJ+NSUFF_MASC_PL_NOM متشددون)
+                            (PP-LOC
+                              (PREP في)
+                (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN واحدة)
+          (VP
+            (PV_PASS+PVSUFF_SUBJ:3MP قتلوا)
+            (NP-SBJ
+              (-NONE- *T*-1)
+            (NP-OBJ
+              (-NONE- *-1)
+            (PP-MNR
+              (PREP على)
+              (NP
+                (NOUN ايدي)
+                (SBAR-NOM
+                  (WHNP-2
+                    (REL_PRON من)
+                  (S
+                    (VP
+                      (IV3MS+IV_PASS+IVSUFF_MOOD:I يشتبه)
+                      (NP-SBJ
+                        (-NONE- *-3)
+                      (PP-CLR
+                        (PREP في)
+                        (SBAR-3
+                          (SUB_CONJ ان)
+                          (S
+                            (NP-SBJ
+                              (NP
+                                (PRON_3MP هم)
+                              (NP
+                                (-NONE- *T*-2)
+                            (NP-PRD
+                              (NOUN+NSUFF_MASC_PL_NOM اسلاميون)
+                              (ADJ+NSUFF_MASC_PL_NOM متشددون)
+                            (PP-LOC
+                              (PREP في)
+                              (NP
+                                (DET+NOUN_PROP+CASE_DEF_GEN الجزائر)
+  (PUNC .)
+</parse>
+<arg f="" g="the Algerian news agency Waaj" n="0">وكالة الأنباء الجزائرية واج</arg>
+<arg f="temp" g="yesterday" n="m">أمس</arg>
+<arg f="" g="that 6 members of the same family were killed by seemingly Muslim fundamentalists in Algeria" n="1">أن ستة أشخاص من عائلة واحدة قتلوا على أيدي من يشتبه في أنهم إسلاميون متشددون في الجزائر</arg>
+</example>
+</frame>
+<comment>Based on roleset Oaworad.01</comment>
+</frameset>
+
+
+</verb>

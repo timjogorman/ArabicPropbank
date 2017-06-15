@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>talAkam</id>
+<comment/>
+<frameset cdef="" edef="to box, to fight (with fists)" id="01" vncls="">
+<role argnum="0" argrole="entity fighting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلاكم البطلان في بطولة العالم للفوز بالجائزة الكبرى</parse>
+<comment/>
+<arg f="" g="the two champs" n="0">البطلان</arg>
+<arg f="" g="in the worl champion ship" n="2">في بطولة العالم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what or ocasion" vncls="" vntheta=""/>
+</frameset>
+</verb>

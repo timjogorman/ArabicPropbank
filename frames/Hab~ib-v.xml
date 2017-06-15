@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Hab~ib</id>
+<comment>EGYPTIAN ARABIC Framefile based on Hab~ab</comment>
+<frameset cdef="" edef="to make someone love something" id="01">
+<role argnum="0" argrole="entity making others love something" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>حبب * الحياة اليه</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="life" n="1">الحياة</arg>
+<arg f="" g="to him" n="2">اليه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Hab~ab.01</comment>
+<role argnum="1" argrole="things to be loved" />
+<role argnum="2" argrole="to whom" />
+</frameset>
+<frameset cdef="" edef="to make like seed or pill" id="02">
+<role argnum="0" argrole="doer" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>حبب * الدواء</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="medicine" n="1">الدواء</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Hab~ab.02</comment>
+<role argnum="1" argrole="things made like seed or pill" />
+</frameset>
+</verb>

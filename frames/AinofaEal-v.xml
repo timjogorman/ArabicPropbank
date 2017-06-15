@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinofaEal</id>
+
+    <frameset cdef="" edef="to become nervous/react" id="01" vncls="">
+<role argnum="1" argrole="person becoming nervous" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS قال)
+    (NP-SBJ
+      (NOUN_PROP عبود))
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (NP-TPC-1
+          (PRON_3MS ه))
+        (VP
+          (PV+PVSUFF_SUBJ:3MS انفعل)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (NP-TMP
+            (NOUN+CASE_DEF_ACC عند)
+            (SBAR
+              (SUB_CONJ ما)
+              (S
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3MS حاول)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (NP
+                        (DET+NOUN+CASE_DEF_ACC التكلم))
+                      (NP-ADV
+                        (NOUN+CASE_DEF_ACC مع)
+                        (NP
+                          (DET+NOUN+CASE_DEF_GEN المطران))))))
+                (CONJ و)
+                (S
+                  (VP
+                    (PRT
+                      (NEG_PART لم))
+                    (IV3MS+IV+IVSUFF_MOOD:J يرد)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (PP-CLR
+                      (PREP علي)
+                      (NP
+                        (PRON_3MS ه))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="-NONE- &lt; Aboud" n="1">*T*-1 &lt; عبود</arg>
+
+
+
+<comment/>
+<arg f="" g="When he tried to speak with the bishop and did not get an answer" n="2">عندما حاول * التكلم مع المطران و لم يرد * عليه .</arg>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="GOL (to what)" vncls="" vntheta=""/>
+
+<comment>Based on roleset {inofaEal.01</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on {inofaEal</comment>
+</verb>

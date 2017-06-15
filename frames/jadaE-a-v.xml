@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jadaE-a</id>
+
+<frameset cdef="" edef="to imputate, to cut off" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جدع الرجل أنف خصمه بالسكين</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the nose" n="1">أنف</arg>
+<arg f="" g="his opponent" n="2">خصمه</arg>
+<arg f="" g="with the knife" n="3">بالسكين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom (if separated from ARG1)" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

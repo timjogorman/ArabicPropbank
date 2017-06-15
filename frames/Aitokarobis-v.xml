@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitokarobis</id>
+<comment/>
+<frameset cdef="" edef="stack up, pile up" id="01" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أحنا نوقع ونتكربس * على بعضنا</parse>
+<comment/>
+<arg f="" g="we" n="1">* أحنا</arg>
+<arg f="" g="on top of each other" n="2">على بعضنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things piled" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

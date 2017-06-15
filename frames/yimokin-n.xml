@@ -1,0 +1,71 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>yimokin</id>
+<frameset cdef="" edef="maybe / possibely - leave untagged" id="02" vncls="">
+
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>No arguments - leave untagged
+
+
+(TOP
+  (S
+    (NP-TPC-1
+      (NP
+        (DEM_PRON_FS دِي))
+      (NP
+        (DET+NOUN+NSUFF_FEM_SG الجامْعَة)))
+    (VP
+      (IV3MS+IV يِمْكِن)
+      (SBAR-SBJ
+        (-NONE- 0)
+        (S
+          (VP
+            (IV3FS+IV تِكُون)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (ADJP-PRD
+              (ADJ_COMP أَحْسَن)
+              (NP
+                (NOUN+CASE_INDEF_ACC حالاً))
+              (PP
+                (PREP مِن)
+                (NP
+                  (DET+NOUN المَدارِس))))))))))</parse>
+
+
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+
+<comment>ARZ
+Based on roleset Oamokan.02</comment>
+</frameset>
+
+<comment>Framefile based on Oamokan</comment>
+<frameset cdef="" edef="to enable, to make to something (جعل)" id="03" vncls="">
+<role argnum="0" argrole="causer agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse />
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Oamokan.03</comment>
+<role argnum="1" argrole="entity enabled to do something" vncls="" vntheta="" />
+<role argnum="2" argrole="work or job" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobataq</id>
+
+<frameset cdef="" edef="to flow out or come out form something" id="01" vncls="">
+<role argnum="1" argrole="theme (water)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>انبتق الماء من الأنبوب</parse>
+
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="from the pipe" n="2">من الأنبوب</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

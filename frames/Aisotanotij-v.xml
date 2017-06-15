@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotanotij</id>
+<comment/>
+<frameset cdef="" edef="to conclude , deduce , infer, conclude from facts" id="01" vncls="">
+<role argnum="0" argrole="agent, entity now believing something" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا استنتجت * النهاية من الكتاب اللي قريته</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="the end" n="1">النهاية</arg>
+<arg f="" g="from the book that I read" n="2">من الكتاب اللي قريته</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="source of belief" vncls="" vntheta=""/>
+<role argnum="2" argrole="belief" vncls="" vntheta=""/>
+</frameset>
+</verb>

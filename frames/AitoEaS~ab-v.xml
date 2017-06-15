@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoEaS~ab</id>
+
+<frameset cdef="" edef="to nerve" id="01" vncls="">
+<role argnum="0" argrole="entity become nervous" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>انت عارف انكل ؛امير ازاى عصبى لما بييجى يتعصب قوى عارف لما بييجى كان يتعصب على عمتك</parse>
+
+<arg f="" g="Uncle Amir" n="0">انكل امير</arg>
+<arg f="" g="on your aunt" n="1">على عمتك</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="patient (marked by على)" vncls="" vntheta="" />
+<comment>Eg
+Based on roleset taEaS~ab-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on taEaS~ab-v</comment>
+</verb>

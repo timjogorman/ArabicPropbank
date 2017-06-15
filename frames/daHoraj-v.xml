@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daHoraj</id>
+
+<frameset cdef="" edef="to trundle or roll along" id="01" vncls="">
+<role argnum="0" argrole="entity rolling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دحرج الطفل الكرة في البيت</parse>
+
+<arg f="" g="the child" n="0">الطفل</arg>
+<arg f="" g="the ball" n="1">الكرة</arg>
+<arg f="" g="in the house" n="2">في البيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity rolled" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

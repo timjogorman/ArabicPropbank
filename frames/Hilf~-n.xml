@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hilf~</id>
+<comment/>
+<frameset cdef="" edef="alliance, confederacy" id="01" vncls="">
+<role argnum="1" argrole="the deal" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم حلف سلام بين العراق و ايران</parse>
+<comment/>
+<arg f="" g="peace" n="1">سلام</arg>
+<arg f="" g="between Iraq" n="2">بين العراق</arg>
+<arg f="" g="and Iran" n="3">و ايران</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="first party" vncls="" vntheta=""/>
+<role argnum="3" argrole="second party ( if separated from ARG 2 )" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munotaqil</id>
+<comment/>
+<frameset cdef="" edef="to move / travel" id="01" vncls="">
+<role argnum="1" argrole="entity moving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أمضى الرجل حياته منتقلا * بين السجن والبيت</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الرجل</arg>
+<arg f="" g="the jail" n="2">السجن</arg>
+<arg f="" g="and the house" n="3">والبيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+</verb>

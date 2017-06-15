@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaHomal</id>
+<comment/>
+<frameset cdef="" edef="to bear" id="01" vncls="">
+<role argnum="1" argrole="the bearer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لكن وبعد أن استحمل * طويلا هذا الوضع...</parse>
+<comment/>
+<arg f="" g="he" n="1">*</arg>
+<arg f="tmp" g="a while" n="m">طويلا</arg>
+<arg f="" g="this situation" n="2">هذا الوضع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="responsibility/thing assumed" vncls="" vntheta=""/>
+</frameset>
+</verb>

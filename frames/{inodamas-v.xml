@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodamas</id>
+
+<frameset cdef="" edef="to be covered with soil" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اندمس الكنز بالتراب</parse>
+
+<arg f="" g="the treasure" n="1">الكنز</arg>
+<arg f="" g="with soil" n="2">بالتراب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="enetity covered" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what (soil)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

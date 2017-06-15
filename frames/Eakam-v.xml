@@ -1,0 +1,115 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eakam</id>
+
+<frameset cdef="" edef="to bundle, to wrap ( up )" id="01" vncls="">
+<role argnum="0" argrole="entity wrapping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(PRON_3P هُم))
+      (NP-PRD
+        (CONJ إِمّا)
+        (NP
+          (NOUN اصْحاب)
+          (NP
+            (NOUN+NSUFF_FEM_PL شَرِكات)
+            (NP
+              (NOUN تَوظِيف)
+              (NP
+                (DET+NOUN الأَمْوال)))))
+        (CONJ أَو)
+        (NP
+          (NP
+            (NP
+              (DET+NOUN+NSUFF_MASC_PL المُقاوِلِين))
+            (NP
+              (PART إِيّا)
+              (NP
+                (PRON_3P هُم))))
+          (SBAR
+            (SBAR
+              (WHNP-1
+                (REL_PRON الَّذِينَ))
+              (S
+                (VP
+                  (IV3P+IV+IVSUFF_SUBJ:P يَبْنُون)
+                  (NP-SBJ
+                    (-NONE- *T*-1))
+                  (NP-OBJ
+                    (DET+NOUN+NSUFF_FEM_PL العِمارات)))))
+            (CONJ وَ)
+            (SBAR
+              (WHNP-2
+                (-NONE- 0))
+              (S
+                (VP
+                  (IV3P+IV+IVSUFF_SUBJ:P يَبِيعُون)
+                  (NP-SBJ
+                    (-NONE- *T*-2))
+                  (NP-OBJ
+                    (NOUN_QUANT كُلّ)
+                    (NP
+                      (NP
+                        (NOUN+NSUFF_FEM_SG شَقَّة))
+                      (PP-LOC
+                        (PREP فِي)
+                        (NP
+                          (PRON_3FS ها)))))
+                  (PP-DTV
+                    (PREP إِلَى)
+                    (NP
+                      (NOUN_NUM+NSUFF_FEM_SG ثَلاثَة)
+                      (CONJ أَو)
+                      (NOUN_NUM+NSUFF_FEM_SG أَرْبَعَة)
+                      (CONJ أَو)
+                      (NOUN_NUM خَمْس)))
+                  (PRN
+                    (PUNC ?)
+                    (S
+                      (NP-SBJ
+                        (NOUN_QUANT كُلّ))
+                      (NP-PRD
+                        (NOUN حَسَب)
+                        (NP
+                          (NP
+                            (NOUN+NSUFF_FEM_SG مَقْدِرَت)
+                            (NP
+                              (POSS_PRON_3MS ُه)))
+                          (ADJP
+                            (DET+ADJ+NSUFF_FEM_SG الإِجْرامِيَّة)))))
+                    (PUNC ?)))))))))
+    (CONJ ثُمَّ)
+    (S
+      (VP
+        (IV3P+IV+IVSUFF_SUBJ:P يَعْكِمُون)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (DET+NOUN+NSUFF_FEM_SG العِكمَة))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3P+IV+IVSUFF_SUBJ:P يبَلّغُون)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN فِرار))))))</parse>
+
+<arg f="" g="the contractors" n="0">* المُقاوِلِين</arg>
+<arg f="" g="the bundle" n="1">العِكمَة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things wrapped" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment>صرَّ‏</comment>
+</frameset>
+<comment/>
+</verb>

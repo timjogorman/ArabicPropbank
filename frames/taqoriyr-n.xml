@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqoriyr</id>
+<comment/>
+<frameset cdef="" edef="report, memorandom" id="01" vncls="">
+<role argnum="1" argrole="the report" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كتب الناس تقريرا الى المدير عن الاوضاع السيئة</parse>
+<comment/>
+<arg f="" g="to the manager" n="2">الى المدير</arg>
+<arg f="" g="about the bad situation" n="3">عن الاوضاع السيئة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="determine, decision" id="02" vncls="">
+<role argnum="0" argrole="entity making the decision" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>المعلم هو المسؤول عن تقرير * مصير الطلبة في الأمتحان</parse>
+<comment/>
+<arg f="" g="the teacher" n="0">* المعلم</arg>
+<arg f="" g="the students faith" n="1">مصير الطلبة</arg>
+<arg f="" g="in the test" n="2">في الأمتحان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the decision" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1h" vncls="" vntheta=""/>
+</frameset>
+</verb>

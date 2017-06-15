@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ino$araT</id>
+
+<frameset cdef="" edef="to be cut, gashed  or marked" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انشرط القميص بالشفرة</parse>
+
+<arg f="" g="the shirt" n="1">القميص</arg>
+<arg f="" g="with a razor" n="2">بالشفرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity being cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be stated as a condition" id="02" vncls="">
+<role argnum="0" argrole="entity whos stating a condition" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انشرط البند على المشتري</parse>
+
+<arg f="" g="the article" n="1">البند</arg>
+<arg f="" g="on the buyer" n="2">على المشتري</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the condition" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>HayA</id>
+<comment>EGYPTIAN ARABIC based on OaHoyaY</comment>
+    <frameset cdef="" edef="to revive" id="02">
+<role argnum="0" argrole="reanimator" />
+<role argnum="1" argrole="thing brought back to life" />
+<frame>
+<example>
+<parse>
+كيف يحيى الله الموتى ؟
+</parse>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="the dead" n="1">الموتى</arg>
+</example>
+<example>
+<parse>
+(SBAR
+                      (WHNP-2
+                        (REL_PRON الذي))
+                      (S
+                        (VP
+                          (IV3MS+IV+IVSUFF_MOOD:I يحيي)
+                          (NP-SBJ
+                            (-NONE- *T*-2))
+                          (NP-OBJ
+                            (DET+NOUN+CASE_DEF_ACC العظام))
+                          (SBAR-ADV
+                            (SUB_CONJ و)
+                            (S
+                              (NP-SBJ
+                                (PRON_3FS هي))
+                              (NP-PRD
+                                (NOUN+CASE_INDEF_NOM رميم))))))))))))))))
+  (PUNC .))
+</parse>
+<arg f="" g="He" n="0">-NONE- *T*-2&lt;الذي</arg>
+<arg f="" g="Bone" n="1">العظام</arg>
+<arg f="adv" g="when they are rotten" n="m">و هي رميم</arg>
+</example>
+</frame>
+<comment>Based on roleset OaHoyaY.02</comment></frameset>
+</verb>

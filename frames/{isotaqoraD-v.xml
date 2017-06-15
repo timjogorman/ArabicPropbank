@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaqoraD</id>
+
+<frameset cdef="" edef="to ask somebody for a loan" id="01" vncls="">
+<role argnum="0" argrole="the asker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استقرض* صديقَه مالاً</parse>
+
+<arg f="" g="NONE" n="0">*?NONE</arg>
+<arg f="" g="his friend" n="1">صديقَه</arg>
+<arg f="" g="money" n="2">مالاً</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity asked" vncls="" vntheta=""/>
+<role argnum="2" argrole="the loan" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

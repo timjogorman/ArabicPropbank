@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ziyAdap</id>
+<comment/>
+<frameset cdef="" edef="increase" id="01" vncls="">
+<role argnum="1" argrole="thing increasing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الطعام بكثرة أدى الى زيادة في الوزن بمقدار 4 باوند</parse>
+<comment/>
+<arg f="" g="in weigh" n="1">في الوزن</arg>
+<arg f="" g="with 4 lb" n="2">بمقدار 4 باوند</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="extent, manner or attribute of arg1" vncls="" vntheta=""/>
+<role argnum="3" argrole="start point" vncls="" vntheta=""/>
+<role argnum="4" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+</verb>

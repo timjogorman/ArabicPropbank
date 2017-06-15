@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoharaY</id>
+<comment/>
+<frameset cdef="" edef="get damaged or destroyed" id="01" vncls="">
+<role argnum="1" argrole="entity damaged" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اتهرى جلدي من الضرب</parse>
+<comment/>
+<arg f="" g="my skin" n="1">جلدي</arg>
+<arg f="" g="from the beating" n="2">من الضرب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="the cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

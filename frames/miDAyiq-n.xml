@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miDAyiq</id>
+<comment/>
+<frameset cdef="" edef="annoying, irritating" id="01" vncls="">
+<role argnum="0" argrole="entity annoying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-TPC-1
+      (NOUN_QUANT كُلّ)
+      (NP
+        (NOUN واحِد)))
+    (NP-TPC-2
+      (NP
+        (NOUN+NSUFF_FEM_SG حاجَة))
+      (SBAR
+        (WHNP-3
+          (-NONE- 0))
+        (S
+          (VP
+            (ADJ.VN+NSUFF_FEM_SG مِضايْقا)
+            (NP-SBJ
+              (-NONE- *T*-3))
+            (NP-OBJ
+              (PRON_3MS ه))))))
+    (VP
+      (PRT
+        (PROG_PART بِ))
+      (IV3MS+IV يُقُول)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (NP
+          (IVSUFF_DO:3FS ها))
+        (NP
+          (-NONE- *T*-2))))))</parse>
+<comment/>
+<arg f="" g="something" n="0">* حاجَة</arg>
+<arg f="" g="him" n="1">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what, with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

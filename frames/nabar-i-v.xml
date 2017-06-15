@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nabar-i</id>
+<comment/>
+<frameset cdef="" edef="to raise the voice" id="01" vncls="">
+<role argnum="0" argrole="entity raising the voice" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نبر المغني في غنائه</parse>
+<comment/>
+<arg f="" g="the singer" n="0">المغني</arg>
+<arg f="" g="in his singing" n="1">في غنائه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attributed to ARG 0" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to restrain or deter" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نبرت الأم أبنها على عمله</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="her son" n="1">أبنها</arg>
+<arg f="" g="for what he did" n="2">على عمله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to lift quickly" id="03" vncls="">
+<role argnum="0" argrole="lifter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نبر المقاتل الرمح عنه</parse>
+<comment/>
+<arg f="" g="the warior" n="0">المقاتل</arg>
+<arg f="" g="the spear" n="1">الرمح</arg>
+<arg f="" g="from him" n="2">عنه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things lifted" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

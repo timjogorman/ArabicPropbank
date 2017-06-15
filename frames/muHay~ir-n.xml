@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muHay~ir</id>
+<comment/>
+<frameset cdef="" edef="to perplex or confuse" id="01" vncls="">
+<role argnum="0" argrole="agent, cause" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البنت دي محيارا * ني بكلامها</parse>
+<comment/>
+<arg f="" g="the girl" n="0">* البنت</arg>
+<arg f="" g="me" n="1">ني</arg>
+<arg f="" g="with what she say" n="2">بكلامها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="experiencer, entity perplexed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

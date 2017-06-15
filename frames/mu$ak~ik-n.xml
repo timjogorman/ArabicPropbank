@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mu$ak~ik</id>
+<frameset cdef="" edef="hesitater / misbeliever" id="01" vncls="">
+<role argnum="0" argrole="hesitater / misbeliever entity" vncls="" vntheta=""/>
+<role argnum="1" argrole="in whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what? (marked by في)" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>اقول لكل مشكك * في قدرتنا على العمل بأن تراجع نفسك</parse>
+<arg f="" g="NONE" n="0">* ? NONE</arg>
+<comment/>
+<arg f="" g="in our ability to work" n="2">في قدرتنا على العمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

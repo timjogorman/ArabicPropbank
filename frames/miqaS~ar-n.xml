@@ -1,0 +1,17 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>miqaS~ar</id>
+<frameset cdef="" edef="to spare no effort (expression with negation marker)" id="02">
+<role argnum="0" argrole="agent" />
+<role argnum="1" argrole="work - marked by في" />
+<frame>
+<example>
+<parse>
+و اكد * ان &quot; سعادة السفيرين لم يقصرا *T*-1 لحظة واحدة في سبيل تلبية حاجات نا و دعم نا ل تنفيذ المشاريع ب سرعة كبيرة &quot; .
+</parse>
+<arg f="" g="-NONE- &lt; their excellencies the two ambassadors" n="0">**-1 &lt; سعادة السفيرين</arg>
+<arg f="tmp" g="one moment" n="m">لحظة واحدة</arg>
+<arg f="" g="to meet our needs and our support for the implementation of projects very quickly" n="1">في سبيل تلبية حاجاتنا ودعمنا لتنفيذ المشاريع بسرعة كبيرة</arg>
+</example>
+</frame>
+<comment>Based on roleset qaS~ar.02</comment></frameset>
+<comment>Framefile based on qaS~ar</comment></verb>

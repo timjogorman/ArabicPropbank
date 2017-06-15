@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nifid</id>
+<comment/>
+<frameset cdef="" edef="pass through, escape" id="01" vncls="">
+<role argnum="0" argrole="escaper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو نفد * من المشكلة</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="from the problem" n="1">من المشكلة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="through what or from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

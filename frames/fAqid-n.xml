@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fAqid</id>
+<comment/>
+<frameset cdef="" edef="loser, person loosing things" id="01" vncls="">
+<role argnum="0" argrole="the loser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فاقد * الشيء لا يعطيه</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the thing" n="1">الشيء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing lost" vncls="" vntheta=""/>
+</frameset>
+</verb>

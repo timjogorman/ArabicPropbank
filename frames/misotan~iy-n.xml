@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>misotan~iy</id>
+<comment>EGYPTIAN ARABIC Framefile based on {isotan~aY</comment>
+<frameset cdef="" edef="to wait for (egyption )" id="01">
+<role argnum="0" argrole="entity waiting" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>وقل لي استنى * هنا للباص</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="loc" g="here" n="m">هنا</arg>
+<arg f="" g="for the bus" n="1">للباص</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {isotan~aY.01</comment>
+<role argnum="1" argrole="for what" />
+</frameset>
+</verb>

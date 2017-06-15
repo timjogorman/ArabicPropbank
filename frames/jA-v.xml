@@ -1,0 +1,1533 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jA</id>
+
+    <frameset cdef="" edef="to arrive or come from a direction, to go with" id="01" vncls="">
+<role argnum="1" argrole="thing in motion" vncls="" vntheta=""/>
+<role argnum="2" argrole="origin - rare" vncls="" vntheta=""/>
+<role argnum="3" argrole="goal" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(FRAG
+  (CONJ و)
+  (NP-TMP
+    (NOUN+CASE_DEF_ACC بعد)
+    (SBAR
+      (SUB_CONJ ما)
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:3MS جاء)
+          (NP-SBJ
+            (NP
+              (DET+NOUN+CASE_DEF_NOM الاعلان)
+            (PP
+              (PREP عن)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الزيارة)
+          (NP-TMP
+            (ADJ_NUM+CASE_INDEF_ACC اولا)
+          (PP
+            (PREP من)
+            (NP
+              (NOUN_PROP+CASE_INDEF_GEN بيروت)</parse>
+<arg f="" g="the announcement about the visit" n="1">الإعلان عن الزيارة</arg>
+<arg f="temp" g="first" n="m">أولا</arg>
+<arg f="" g="from Beirut" n="2">من بيروت</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+<example>
+<parse>(S
+  (NP-PRP
+    (NP
+      (NOUN+CASE_INDEF_ACC ردا)
+    (PP
+      (PREP على)
+      (NP
+        (NP
+          (NP
+            (NOUN+CASE_INDEF_GEN مقال)
+          (PP
+            (PREP ل)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN لسيد)
+              (NOUN_PROP بيار)
+              (NOUN_PROP معوض)
+        (SBAR
+          (WHNP-1
+            (-NONE- 0)
+          (S
+            (VP
+              (PV_PASS+PVSUFF_SUBJ:3MS نشر)
+              (NP-SBJ
+                (-NONE- *T*-1)
+              (NP-OBJ
+                (-NONE- *-1)
+              (PP
+                (PREP في)
+                (NP
+                  (PUNC ")
+                  (NOUN_PROP نهار)
+                  (PUNC ")
+              (NP-TMP
+                (NOUN+CASE_DEF_ACC قبل)
+                (NP
+                  (NOUN+CASE_DEF_GEN امس)
+              (NP-MNR
+                (NOUN+CASE_DEF_ACC تحت)
+                (NP
+                  (NOUN+CASE_DEF_GEN عنوان)
+                  (FRAG-TTL
+                    (PUNC ")
+                    (NP-TMP
+                      (DET+NOUN+CASE_DEF_ACC اليوم)
+                    (NP
+                      (NOUN+CASE_DEF_NOM جبل)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الكنيسة)
+                    (CONJ و)
+                    (NP-TMP
+                      (NOUN+CASE_INDEF_ACC غدا)
+                    (NP
+                      (DET+NOUN+CASE_DEF_NOM المكمل)
+                    (PUNC ")
+  (VP
+    (PV+PVSUFF_SUBJ:3MS جاء)
+    (NP-OBJ
+      (PVSUFF_DO:1P نا)
+    (NP-SBJ
+      (DET+NOUN+CASE_DEF_NOM المقال)
+      (DET+ADJ الآتي)
+  (PUNC :)</parse>
+<arg f="" g="us" n="3">نا</arg>
+<arg f="" g="the following article" n="1">المقال لآتي</arg>
+<V/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+<example>
+<parse>(S
+  (S
+    (CONJ و)
+    (VP
+      (IV1P+IV+IVSUFF_MOOD:I نضع)
+      (NP-SBJ
+        (-NONE- *)
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_PL+CASE_DEF_ACC امكانات)
+        (NP
+          (POSS_PRON_1P نا)
+      (PP-PRP
+        (PREP ل)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN لنهوض)
+          (PP
+            (PREP ب)
+            (NP
+              (NP
+                (NP
+                  (DEM_PRON_F هذه)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المنطقة)
+              (SBAR
+                (WHNP-1
+                  (REL_PRON التي)
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3FS بقيت)
+                    (NP-SBJ
+                      (-NONE- *T*-1)
+                    (PP-TMP
+                      (PREP ل)
+                      (NP
+                        (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN فترة)
+                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN طويلة)
+                    (ADJP-PRD
+                      (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC معزولة)
+                    (NP-TMP
+                      (NOUN+CASE_DEF_ACC يوم)
+                      (S
+                        (VP
+                          (PV+PVSUFF_SUBJ:3FS كانت)
+                          (NP-2
+                            (DET+NOUN+CASE_DEF_NOM الانظار)
+                          (VP
+                            (IV3FS+IV+IVSUFF_MOOD:I تتجه)
+                            (NP-SBJ
+                              (-NONE- *T*-2)
+                            (PP-CLR
+                              (PREP الى)
+                              (NP
+                                (DET+NOUN+CASE_DEF_GEN الجنوب)
+                            (PP-PRP
+                              (PREP ل)
+                              (NP
+                                (NOUN+CASE_INDEF_GEN اسباب)
+                                (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN سياسية)
+                    (PP
+                      (PREP حتى)
+                      (SBAR
+                        (-NONE- 0)
+                        (S
+                          (VP
+                            (PV+PVSUFF_SUBJ:3MS جاء)
+                            (NP-SBJ
+                              (DET+NOUN+CASE_DEF_NOM الوقت)
+                            (PP-PRP
+                              (PREP ل)
+                              (NP
+                                (NP
+                                  (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN اعادة)
+                                  (NP
+                                    (DET+NOUN+CASE_DEF_GEN التوازن)
+                                (PP
+                                  (PREP ل)
+                                  (NP
+                                    (NOUN_QUANT+CASE_DEF_GEN كل)
+                                    (NP
+                                      (DET+NOUN+CASE_DEF_GEN المناطق)
+  (CONJ و)
+  (S
+    (PP-PRD
+      (PREP من)
+      (NP
+        (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN اولويات)
+        (NP
+          (POSS_PRON_1P نا)
+    (NP-SBJ
+      (NP
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM اللغة)
+        (NP-ADV
+          (NOUN+CASE_INDEF_ACC تربويا)
+      (CONJ و)
+      (NP
+        (NP
+          (DET+NOUN+CASE_DEF_NOM التجارب)
+        (NP-ADV
+          (NOUN+CASE_DEF_ACC مع)
+          (NP
+            (NOUN_QUANT+CASE_DEF_GEN كل)
+            (NP
+              (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN متطلبات)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الفرنكوفونية)
+  (PUNC ")
+  (PUNC .)</parse>
+<arg f="" g="the time" n="1">الوقت</arg>
+<arg f="prp" g="to restore the balance to all areas" n="m">لإعادة التوازن لكل المناطق</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+<example>
+<parse>(S
+  (NP-TPC-1
+    (NP
+      (ADJ_COMP+CASE_INDEF_NOM اكثر)
+    (PP
+      (PREP من)
+      (NP
+        (NOUN_NUM 20)
+        (NP
+          (NOUN_NUM+CASE_DEF_GEN الف)
+          (NP
+            (NOUN+CASE_INDEF_GEN شخص)
+  (VP
+    (PV+PVSUFF_SUBJ:3MP جاؤوا)
+    (NP-SBJ
+      (-NONE- *T*-1)
+    (NP-TMP
+      (NOUN امس)
+    (PP-DIR
+      (PREP الى)
+      (NP
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المدينة)
+        (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الرياضية)
+    (PP-DIR
+      (PREP من)
+      (NP
+        (ADJP
+          (ADJ+CASE_DEF_GEN مختلف)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN المناطق)
+    (S-ADV
+      (S
+        (VP
+          (ADJ.VN+NSUFF_MASC_PL_ACC رافعين)
+          (NP-SBJ
+            (-NONE- *-1)
+          (NP-OBJ
+            (NOUN+CASE_DEF_ACC شعار)
+            (S-TTL
+              (VP
+                (PUNC ")
+                (CV حاصر)
+                (NP-SBJ
+                  (-NONE- *)
+                (NP-OBJ
+                  (NOUN+CASE_DEF_ACC حصار)
+                  (NP
+                    (POSS_PRON_2MS ك)
+                (PUNC ")
+      (PUNC ,)
+      (S
+        (VP
+          (ADJ.VN+NSUFF_MASC_PL_ACC متضامنين)
+          (NP-SBJ
+            (-NONE- *-1)
+          (NP-ADV
+            (NOUN+CASE_DEF_ACC مع)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الشعب)
+              (DET+ADJ+CASE_DEF_GEN الفلسطيني)
+          (PP-MNR
+            (PREP في)
+            (NP
+              (NP
+                (NOUN+CASE_DEF_GEN احد)
+                (NP
+                  (NOUN+CASE_DEF_GEN اشكال)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN التضامن)
+              (SBAR
+                (WHNP-2
+                  (REL_PRON الذي)
+                (S
+                  (VP
+                    (IV3FS+IV+IVSUFF_MOOD:I تشهد)
+                    (NP-OBJ
+                      (NP
+                        (IVSUFF_DO:3MS ه)
+                      (NP
+                        (-NONE- *T*-2)
+                    (NP-SBJ
+                      (NOUN_PROP+CASE_INDEF_NOM بيروت)
+                    (NP-TMP
+                      (NOUN+CASE_INDEF_ACC يوميا)
+                    (PP-TMP
+                      (PREP منذ)
+                      (NP
+                        (NP
+                          (NOUN+CASE_DEF_GEN بدء)
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN الحوادث)
+                            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الدامية)
+                        (PP-LOC
+                          (PREP في)
+                          (NP
+                            (NOUN_PROP+CASE_INDEF_GEN فلسطين)
+  (PUNC .)</parse>
+<arg f="" g="" n="0">-NONE- *T*-1</arg>
+<arg f="tmp" g="yesterday" n="m">امس</arg>
+<arg f="" g="to the sport stadium" n="3">إلى المدينة الرياضية</arg>
+<arg f="" g="from different areas" n="2">من مختلف المناطق</arg>
+<arg f="adv" g="Raising the slogan &quot;Besiege Your Siege&quot;" n="m">رافعين شعار "حاصر حصارك"</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment>Based on roleset jAL.01</comment>
+</frameset>
+<frameset cdef="" edef="to be mentioned, reported, occur" id="02" vncls="">
+<role argnum="1" argrole="the thing or utterance mentioned" vncls="" vntheta=""/>
+<role argnum="2" argrole="the place reported (e.g. newspaper )" vncls="" vntheta=""/>
+<role argnum="3" argrole="the source" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS جاء)
+    (PP
+      (PREP في)
+      (NP
+        (NP
+          (NOUN+CASE_INDEF_GEN بيان)
+        (PP
+          (PREP ل)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN لجيش)
+            (DET+ADJ+CASE_DEF_GEN الباكستاني)
+    (SBAR-SBJ
+      (SUB_CONJ ان)
+      (S
+        (NP-TPC-1
+          (NP
+            (NOUN+CASE_DEF_ACC قائد)
+            (NP
+              (NP
+                (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN العمليات)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاميركية)
+              (PP-LOC
+                (PREP في)
+                (NP
+                  (NOUN_PROP+CASE_INDEF_GEN افغانستان)
+          (NP
+            (DET+NOUN+CASE_DEF_ACC الجنرال)
+            (NOUN_PROP طومي)
+            (NOUN_PROP فرانكس)
+        (VP
+          (FUT+IV3MS+IV+IVSUFF_MOOD:I سيقود)
+          (NP-SBJ
+            (-NONE- *T*-1)
+          (NP-OBJ
+            (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC بعثة)
+            (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC اميركية)
+            (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC رفيعة)
+          (PP-DIR
+            (PREP الى)
+            (NP
+              (NOUN_PROP+CASE_INDEF_GEN باكستان)
+          (NP-TMP
+            (NP
+              (DEM_PRON_MS هذا)
+            (NP
+              (DET+NOUN+CASE_DEF_ACC الاسبوع)
+          (PP-PRP
+            (PREP ل)
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مشاهدة)
+              (NP
+                (NP
+                  (NOUN+CASE_INDEF_GEN جزء)
+                (PP
+                  (PREP من)
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN التدريبات)
+  (PUNC .)</parse>
+<arg f="" g="in a statement by the Pakistani army" n="2">في بيان للجيش الباكسباني</arg>
+<arg f="sbar" g="that that General Tommy Franks, the commander in chief of the American operations in Afghanistan, will lead a high level mission to Pakistan this week to observe part of the training." n="1">أن قائد العمليات الأميركية في أفغانستان الجنرال طومي فرانكس سيقود بعثة أميركية رفيعة إلى باكستان هذا الأسبوع لمشاهدة جزء من التدريبات</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment>Based on roleset jAL.02</comment>
+</frameset>
+<frameset cdef="" edef="to result in (transitive)" id="05" vncls="">
+<role argnum="0" argrole="the agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="the result" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS جاء)
+    (NP-SBJ
+      (NP
+        (NOUN+CASE_DEF_NOM صوت)
+        (NP
+          (NOUN_PROP محمود)
+          (NOUN_PROP درويش)
+      (PUNC ,)
+      (ADJP
+        (DET+ADJ+CASE_DEF_NOM الهادئ)
+        (CONJ و)
+        (DET+ADJ+CASE_DEF_NOM الجهوري)
+        (CONJ و)
+        (DET+ADJ+CASE_DEF_NOM الدافئ)
+    (PP-PRP
+      (PREP ل)
+      (SBAR
+        (-NONE- 0)
+        (S
+          (S
+            (VP
+              (IV3MS+IV+IVSUFF_MOOD:S يوحد)
+              (NP-SBJ
+                (-NONE- *)
+              (NP-OBJ
+                (DET+NOUN الصدى)
+          (CONJ و)
+          (S
+            (VP
+              (IV3MS+IV+IVSUFF_MOOD:S يعيد)
+              (NP-SBJ
+                (-NONE- *)
+              (NP-OBJ
+                (NOUN_PROP+CASE_DEF_ACC فلسطين)
+              (PP-CLR
+                (PREP الى)
+                (SBAR
+                  (WHADVP-1
+                    (REL_ADV حيث)
+                  (S
+                    (VP
+                      (IV3MS+IV+IVSUFF_MOOD:I يجب)
+                      (SBAR-SBJ
+                        (SUB_CONJ ان)
+                        (S
+                          (VP
+                            (IV3FS+IV+IVSUFF_MOOD:S تكون)
+                            (NP-SBJ
+                              (-NONE- *)
+                            (PP-PRD
+                              (PREP في)
+                              (NP
+                                (NP
+                                  (NOUN+CASE_DEF_GEN قلوب)
+                                  (NP
+                                    (NOUN_QUANT+CASE_DEF_GEN كل)
+                                    (NP
+                                      (DET+NOUN+CASE_DEF_GEN العرب)
+                                (CONJ و)
+                                (NP
+                                  (NOUN+CASE_DEF_GEN عقول)
+                                  (NP
+                                    (POSS_PRON_3MP هم)
+                            (ADVP-LOC
+                              (-NONE- *T*-1)
+  (PUNC :)</parse>
+<arg f="" g="the calm and warm voice of Mahmoud Darweesh" n="0">صوت محمود درويش الهادئ الجوهري الدافئ</arg>
+<arg f="" g="to unify the echo and return Palestine to the place where it should be in the heart and mind of all the Arabs" n="1">ليوحد الصدى و يعيد فلسطين إلى حيث يجب أن تكون في قلوب كل العرب و عقولهم</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment>Based on roleset jAL.05</comment>
+</frameset>
+<frameset cdef="" edef="to happen/occur or arise/show up (intransitive)" id="06" vncls="">
+<role argnum="1" argrole="event" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS جاء)
+    (NP-SBJ
+      (NP
+        (DEM_PRON_MS هذا))
+      (NP
+        (DET+NOUN+CASE_DEF_NOM التطور)))
+    (NP-TMP
+      (NOUN+CASE_DEF_ACC بعد)
+      (SBAR
+        (SUB_CONJ ما)
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3FS كشفت)
+            (NP-SBJ
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM شبكة)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الاميركية)))
+            (SBAR
+              (SUB_CONJ ان)
+              (S
+                (NP-TPC-1
+                  (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC شركة)
+                  (NP
+                    (PUNC ")
+                    (NOUN_PROP كويست)
+                    (NOUN_PROP كومونكايشنز)
+                    (PUNC ")))
+                (VP
+                  (PV_PASS+PVSUFF_SUBJ:3FS اضطرت)
+                  (NP-SBJ
+                    (-NONE- *T*-1))
+                  (NP-OBJ
+                    (-NONE- *-1))
+                  (PP-CLR
+                    (PREP الى)
+                    (NP
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN اللجوء))
+                      (PP
+                        (PREP ل)
+                        (NP
+                          (NP
+                            (NOUN+CASE_DEF_GEN خطوط)
+                            (NP
+                              (NOUN+CASE_INDEF_GEN ائتمان)))
+                          (ADJP
+                            (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN مصرفية))))))
+                  (NP-TMP
+                    (NOUN+CASE_DEF_ACC بعد)
+                    (SBAR
+                      (SUB_CONJ ما)
+                      (S
+                        (VP
+                          (PV+PVSUFF_SUBJ:3MS تعذر)
+                          (PP-CLR
+                            (PREP علي)
+                            (NP
+                              (PRON_3FS ها)))
+                          (NP-SBJ
+                            (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM اعادة)
+                            (NP
+                              (NP
+                                (NOUN+CASE_DEF_GEN حسم)
+                                (NP
+                                  (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN سندات)
+                                  (NP
+                                    (POSS_PRON_3FS ها))))
+                              (PP
+                                (PREP في)
+                                (NP
+                                  (DET+NOUN+CASE_DEF_GEN الاسواق)
+                                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المالية)))))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="this development" n="1">هذا التطور</arg>
+<arg f="tmp" g="after an American network discovered that Quest Communications resorted to loans" n="m">بعد ما كشفت شبكة الاميركية ان شركة " كويست كومونكايشنز " اضطرت الى اللجوء لخطوط ائتمان مصرفية بعد ما تعذر عليها اعادة حسم سنداتها في الاسواق المالية</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+<example>
+<parse>(PUNC ,)
+      (VP
+        (PRT
+          (NEG_PART لا))
+        (IV3MS+IV+IVSUFF_MOOD:I يمكن)
+        (SBAR-SBJ
+          (SUB_CONJ ان)
+          (S
+            (VP
+              (IV3FS+IV+IVSUFF_MOOD:S تكون)
+              (NP-SBJ
+                (-NONE- *T*-2))
+              (ADJP-PRD
+                (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC مقبولة))
+              (NP-ADV
+                (NOUN لدي)
+                (NP
+                  (PRON_3MP هم)))
+              (SBAR-ADV
+                (PRT
+                  (PART حتى))
+                (CONJ و)
+                (SUB_CONJ ان)
+                (S
+                  (S
+                    (VP
+                      (PV+PVSUFF_SUBJ:3MS رحل)
+                      (NP-SBJ
+                        (NOUN_PROP عرفات))))
+                  (CONJ و)
+                  (S
+                    (VP
+                      (PV+PVSUFF_SUBJ:3FS جاءت)
+                      (NP-SBJ
+                        (NOUN+NSUFF_FEM_SG+CASE_INDEF_NOM قيادة)
+                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM فلسطينية)
+                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM بديلة))))))</parse>
+<arg f="" g="a new Palestinian leadeship" n="1">قيادة فلسطينية بديلة</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment>Based on roleset jAL.06</comment>
+</frameset>
+
+<frameset cdef="" edef="to bring, to give" id="07" vncls="">
+<role argnum="0" argrole="entity bringing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (NP-ADV
+    (NP-ADV
+      (NOUN بَدَل)
+      (SBAR
+        (SUB_CONJ ما)
+        (S
+          (VP
+            (X
+              (IV3P+IV+IVSUFF_SUBJ:P يِقُولُوا)
+              (IVSUFF_DO:3MS ُه))
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NOUN عَيب))))))
+    (CONJ أَو)
+    (NP-ADV
+      (NOUN بَدَل)
+      (SBAR
+        (SUB_CONJ ما)
+        (S
+          (VP
+            (IV3P+IV+IVSUFF_SUBJ:P يِقُولُوا)
+            (NP-SBJ
+              (-NONE- *))
+            (S
+              (SBAR-ADV
+                (SUB_CONJ إِذا)
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3MS جائ)
+                    (NP-OBJ
+                      (PVSUFF_DO:2P كُم))
+                    (NP-SBJ
+                      (NOUN فاسِق))
+                    (PP-CLR
+                      (PREP بِ)
+                      (NP
+                        (NOUN نَبَأ))))))
+              (PRT
+                (CONJ فَ))
+              (VP
+                (CV+CVSUFF_SUBJ:2P تَبَيَّنُوا)
+                (NP-SBJ
+                  (-NONE- *))))))))))</parse>
+
+<arg f="" g="they" n="2">كُم</arg>
+<arg f="" g="dissolute" n="0">فاسِق</arg>
+<arg f="" g="with news" n="1">بِنَبَأ</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things brought" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment>Based on roleset jAL.07</comment>
+</frameset>
+
+
+
+<frameset cdef="" edef="to obey or follow orders (multi word expression)" id="09" vncls="">
+<role argnum="1" argrole="follower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(NP
+        (DET+NOUN الواد)
+        (NOUN_PROP+NSUFF_FEM_SG كِشَّة))
+      (NP
+        (NOUN اِبْن)
+        (NP
+          (NOUN إُمّ)
+          (NP
+            (NOUN_PROP+NSUFF_FEM_SG كِشَّة)))))
+    (VP
+      (PRT
+        (NEG_PART ما))
+      (PRT
+        (PROG_PART بِ))
+      (IV3MS+IV يِجِي)
+      (NP-SBJ
+        (-NONE- *T*-3))
+      (PRT
+        (NEG_PART ش))
+      (PP
+        (PRT
+          (RESTRIC_PART إِلّا))
+        (PREP بِ)
+        (NP
+          (NOUN ضَرْب)
+          (NP
+            (DET+NOUN العُصيان)))))
+    (PUNC .))
+  (S</parse>
+
+<arg f="" g="the boy" n="1">* الواد</arg>
+<arg f="" g="only by beating by sticks" n="2">إِلّا بضرب العصيان</arg>
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="condition" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frameset>
+
+
+
+<frameset cdef="" edef="to intend" id="10" vncls="">
+<role argnum="1" argrole="entity intending" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ولما جيت * استلف شوية فلوس من أخويا مرضيش</parse>
+
+<arg f="" g="NONE" n="1">*? NONE</arg>
+<arg f="" g="borrow some money" n="2">استلف شوية فلوس</arg>
+<arg f="" g="from my brother" n="3">من أخويا</arg>
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="to do what" vncls="" vntheta=""/>
+<role argnum="3" argrole="for or from what" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be hit or afflicted with, to to touch (multi word expression)" id="11" vncls="">
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الراجل الحذر ما يجي له مرض</parse>
+
+<arg f="" g="to him" n="1">له</arg>
+<arg f="" g="sikness" n="2">مرض</arg>
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to do some thing (multi word expression)" id="12" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>يا راجل ما تيجي * نروح للبيت</parse>
+
+<arg f="" g="man" n="0">* يا راجل</arg>
+<arg f="" g="to go home" n="1">نروح للبيت</arg>
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things done" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+<comment/>
+</frameset>
+
+
+<frameset cdef="" edef="comparing" id="010" vncls="">
+<role argnum="1" argrole="first entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الناس دول يجوا * أيه جنب العالم</parse>
+
+<arg f="" g="those people" n="1">* الناس دول</arg>
+<arg f="" g="with the world" n="2">أيه جنب العالم</arg>
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="second entity" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+
+
+
+
+
+
+<comment>Egyptian</comment>
+</frameset>
+
+<frameset cdef="" edef="to talk about ( multi word expression )" id="011" vncls="">
+<role argnum="0" argrole="talker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>لكن لما تيجي * عن شخص مثلك الامر مختلف</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="a person like you" n="1">عن شخص مثلك</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="about whom" vncls="" vntheta=""/>
+
+
+
+
+
+<comment>Egyptian</comment>
+</frameset>
+
+<frameset cdef="" edef="be able to, to dare" id="012" vncls="">
+<role argnum="1" argrole="entity able" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>كيف يجي  لهم قلب يأذوا الناس</parse>
+
+<arg f="" g="to them" n="1">لهم</arg>
+<arg f="" g="heart" n="3">قلب</arg>
+<arg f="" g="to hurt people" n="2">يأذوا الناس</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="to do what" vncls="" vntheta=""/>
+<role argnum="3" argrole="attributed to ARG0" vncls="" vntheta=""/>
+
+
+
+
+<comment>Egyptian</comment>
+</frameset>
+
+<frameset cdef="" edef="to put presure on (to controll oneself) (multi word expression)" id="013" vncls="">
+<role argnum="0" argrole="entity putting presure" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ وِ)
+    (S
+      (NP-TPC
+        (NP
+          (NOUN ناس))
+        (NP-ADV
+          (NOUN زَيّ)
+          (SBAR-NOM
+            (WHNP-7
+              (REL_PRON اِللِّي))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3P ظَهَرُوا)
+                (NP-SBJ
+                  (-NONE- *T*-7))
+                (PP
+                  (PREP فِي)
+                  (NP
+                    (NP
+                      (DET+NOUN البَرْنامِج))
+                    (NP
+                      (DEM_PRON_MS دَه)))))))))
+      (SBAR-ADV
+        (SUB_CONJ لَو)
+        (S
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3P جُم)
+              (NP-SBJ
+                (-NONE- *))
+              (PP-CLR
+                (PREP عَلَى)
+                (NP
+                  (NOUN نَفْس)
+                  (NP
+                    (POSS_PRON_3P هُم))))
+              (NP-ADV
+                (NOUN_QUANT+NSUFF_FEM_SG شِوَيَّة))))
+          (CONJ وِ)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3P أَخَدُوا)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NP
+                  (NP
+                    (NOUN+NSUFF_FEM_SG دَورَة)
+                    (NP
+                      (FOREIGN Anjl$)))
+                  (ADJP
+                    (ADJ+NSUFF_FEM_SG مُحْتَرَمَة)))
+                (PRN
+                  (S
+                    (VP
+                      (IV3MS+IV يَعْنِي)
+                      (NP-SBJ
+                        (-NONE- *)))))
+                (NP
+                  (NP
+                    (NP
+                      (NOUN+NSUFF_FEM_SG حاجَة))
+                    (PP
+                      (PREP فِي)
+                      (NP
+                        (NOUN مَجال)
+                        (NP
+                          (NOUN تَخَصُّص)
+                          (NP
+                            (POSS_PRON_3P هُم))))))</parse>
+
+<arg f="" g="people" n="0">* ناس</arg>
+<arg f="" g="on themselves" n="1">على نفسهم</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+
+
+
+<comment>Egyptian</comment>
+</frameset>
+
+
+
+<frameset cdef="" edef="Auxiliary of serial verb construction - DO NOT TAG" id="014" vncls="">
+<role argnum="" argrole="" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قلتله ييجي عشر مرات</parse>
+
+<arg f="" g="Do not tag" n=""/>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>ARZ</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on jAL</comment>
+<frameset cdef="" edef="to get or obtain" id="015" vncls="">
+<role argnum="0" argrole="entity getting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جا لي ميت دولار من أبوي</parse>
+<comment/>
+<arg f="" g="to me" n="0">لي</arg>
+<arg f="" g="one hundred dollar" n="1">ميت دولار</arg>
+<arg f="" g="from my father" n="2">من أبوي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things he get" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

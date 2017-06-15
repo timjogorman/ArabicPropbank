@@ -1,0 +1,78 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taraj~aY</id>
+<comment/>
+<frameset cdef="" edef="to hope for, to ask for" id="01" vncls="">
+<role argnum="0" argrole="entity asking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ فَ)
+    (VP
+      (IV1P+IV نِرجو)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP مِن)
+        (SBAR-NOM
+          (WHNP-1
+            (REL_PRON مَن))
+          (S
+            (VP
+              (IV3MS+IV يذكر)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (NP
+                  (DEM_PRON_MS هَذا))
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG الأُمْنِيَّة)))))))
+      (SBAR
+        (SBAR
+          (SUB_CONJ أَنْ)
+          (S
+            (VP
+              (IV3MS+IV يشاور)
+              (NP-SBJ
+                (-NONE- *))
+              (PP
+                (PREP لَ)
+                (NP
+                  (PRON_1P نا)))
+              (PP-CLR
+                (PREP عَلَى)
+                (NP
+                  (NP
+                    (NP
+                      (DEM_PRON_MS هَذا))
+                    (NP
+                      (DET+NOUN القَرار)))
+                  (SBAR
+                    (WHNP-2
+                      (REL_PRON الَّذِي))
+                    (S
+                      (VP
+                        (PV+PVSUFF_SUBJ:3MS اِخْتَفَى)
+                        (NP-SBJ
+                          (-NONE- *T*-2))
+                        (PP
+                          (PREP فِي)
+                          (NP
+                            (NOUN ظُرُوف)
+                            (ADJ+NSUFF_FEM_SG غامضَة)))))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="from whom that remember this wish" n="2">ممن يذكر هذا الامنية</arg>
+<arg f="" g="to point at for us to the decision that disappeard" n="1">ان يشاور لنا على هذا القرار الذي اختفى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

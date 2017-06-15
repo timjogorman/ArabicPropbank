@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofaraY</id>
+
+<frameset cdef="" edef="to be gashed, splited or cracked" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انفرى توت الأرض  بالخلاط</parse>
+
+<arg f="" g="strawberries" n="1">توت الأرض</arg>
+<arg f="" g="with the blender" n="2">بالخلاط</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity gashed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

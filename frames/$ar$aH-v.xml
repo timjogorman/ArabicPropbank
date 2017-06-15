@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$ar$aH</id>
+<comment/>
+<frameset cdef="" edef="to scold, to rebuke, to yell at (egyption)" id="01" vncls="">
+<role argnum="0" argrole="entity rebuking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شرشح المدير الموظف</parse>
+<comment/>
+<arg f="" g="the manager" n="0">المدير</arg>
+<arg f="" g="the employee" n="1">الموظف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity rebuked" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laTaE-a</id>
+
+<frameset cdef="" edef="to lick up" id="01" vncls="">
+<role argnum="0" argrole="entity licking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لطع الكلب يد صاحبه</parse>
+
+<arg f="" g="the dog" n="0">الكلب</arg>
+<arg f="" g="his owner's hand" n="2">يد صاحبه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things licked" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to become dry" id="02" vncls="">
+<role argnum="1" argrole="entity becoming dry" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لطعت البئر</parse>
+<comment/>
+<arg f="" g="the well" n="1">البئر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to slap or hit or cuff" id="03" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لطعت البنت الشاب على وجهه</parse>
+<comment/>
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="the young boy" n="1">الشاب</arg>
+<arg f="" g="on his face" n="2">على وجهه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

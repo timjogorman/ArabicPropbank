@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodaraO</id>
+
+<frameset cdef="" edef="to be prevented or kept away from" id="01" vncls="">
+<role argnum="1" argrole="theme" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اندرأت هند عن اللصوص</parse>
+
+<arg f="" g="Hind" n="1">هند</arg>
+<arg f="" g="from robbers" n="2">عن اللصوص</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what or whom (عن)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to spread" id="02" vncls="">
+<role argnum="1" argrole="entity spreading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اندرأ الحريق في كل مكان</parse>
+<comment/>
+<arg f="" g="the fire" n="1">الحريق</arg>
+<arg f="" g="everywhere" n="2">في كل مكان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

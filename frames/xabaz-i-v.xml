@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xabaz-i</id>
+
+<frameset cdef="" edef="to bake, to make bread" id="01" vncls="">
+<role argnum="0" argrole="baker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خبزت والدتي العجين خبزا</parse>
+
+<arg f="" g="my mother" n="0">والدتي</arg>
+<arg f="" g="the dough" n="1">العجين</arg>
+<arg f="" g="bread" n="2">خبزا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things baked" vncls="" vntheta=""/>
+<role argnum="2" argrole="into what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to hit or strike" id="02" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خبز البعير الارض بحافره</parse>
+
+<arg f="" g="the camel" n="0">البعير</arg>
+<arg f="" g="the ground" n="1">الارض</arg>
+<arg f="" g="with his hoof" n="2">بحافره</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

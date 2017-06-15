@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosaHaj</id>
+<comment/>
+<frameset cdef="" edef="to be scraped,scrutched off" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انسحج الباب بالورق الخشن</parse>
+<comment/>
+<arg f="" g="the door" n="1">الباب</arg>
+<arg f="" g="with a sand papper" n="2">بالورق الخشن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing scraped" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,95 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nAfaq</id>
+<comment/>
+<frameset cdef="" edef="to play the hypocrite, to dissemble" id="01" vncls="">
+<role argnum="0" argrole="entity playing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وِ)
+    (VP
+      (X
+        (PSEUDO_VERB يارِيت))
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP بِ)
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG المَرَّة)))
+      (S
+        (VP
+          (IV3P+IV+IVSUFF_SUBJ:P يِشِيلُوا)
+          (NP-SBJ
+            (-NONE- *))
+          (NP-OBJ
+            (NP
+              (NOUN_QUANT كُلّ)
+              (NP
+                (NOUN+NSUFF_FEM_PL قَنَوات)
+                (NP
+                  (NOUN_PROP مَصْر))))
+            (SBAR
+              (-NONE- *ICH*-4)))
+          (PP-PRP
+            (SBAR
+              (X
+                (TYPO لانهابصراحة))
+              (S
+                (VP
+                  (NEG_PART ما)
+                  (PP-PRD
+                    (PREP ل)
+                    (NP
+                      (NP
+                        (PRON_3FS ها))
+                      (NP
+                        (-NONE- *T*))))
+                  (PRT
+                    (NEG_PART ش))
+                  (NP-SBJ
+                    (NOUN لُزُوم))))))
+          (SBAR-4
+            (SBAR
+              (WHNP-1
+                (REL_PRON اللِّي))
+              (S
+                (VP
+                  (PV+PVSUFF_SUBJ:3FS كانِت)
+                  (VP
+                    (PRT
+                      (PROG_PART بِ))
+                    (IV3FS+IV تِنافق)
+                    (NP-SBJ
+                      (-NONE- *T*-1))
+                    (NP-OBJ
+                      (IVSUFF_DO:3MS ُه))))))
+            (CONJ وِ)
+            (SBAR
+              (WHNP-2
+                (-NONE- 0))
+              (S
+                (VP
+                  (PRT
+                    (PROG_PART بِ))
+                  (IV3FS+IV تطَبِّل)
+                  (NP-SBJ
+                    (-NONE- *T*-2))
+                  (PP
+                    (PREP ل)
+                    (NP
+                      (PRON_3MS ُه))))))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="he" n="1">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom or in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

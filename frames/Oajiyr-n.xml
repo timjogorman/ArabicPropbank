@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oajiyr</id>
+<comment/>
+<frameset cdef="" edef="employee, wage earner, wageworker" id="01" vncls="">
+<role argnum="1" argrole="worker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو أجير * لدى خاله لبناء البيت</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="with his uncle" n="2">لدى خاله</arg>
+<arg f="" g="to buuild the house" n="3">لبناء البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="the job" vncls="" vntheta=""/>
+<role argnum="4" argrole="the pay" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,19 +1,66 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>tawaf~ar</id>
-    <frameset cdef="" edef="To abound" id="01">
-        <role argnum="1" argrole="thing which is plentiful"/>
-        <role argnum="2" argrole="abound for"/>
-        <frame>
-            <comment>
-                اتيح/  تيسر
-            </comment>
-            <example>
-                <parse>
-                    الامر الآخر المثير ان ها تعلن **-1 كذلك بلا حرج ان الاستقرار الاجتماعي والاقتصادي مهدد بالزعزعة ما لم يتوفر الدعم الخارجي .
-                </parse>
-                <arg f="" g="External support" n="1">الدعم الخارجي</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>tawaf~ar</id>
+<frameset cdef="" edef="To abound" id="01" vncls="">
+<role argnum="1" argrole="thing which is plentiful" vncls="" vntheta=""/>
+<role argnum="2" argrole="abound for" vncls="" vntheta=""/>
+<frame>
+
+<example>
+<parse>الامر الآخر المثير ان ها تعلن **-1 كذلك بلا حرج ان الاستقرار الاجتماعي والاقتصادي مهدد بالزعزعة ما لم يتوفر الدعم الخارجي .</parse>
+<arg f="" g="External support" n="1">الدعم الخارجي</arg>
+
+<comment/>
+</example>
+
+<comment>اتيح/  تيسر</comment>
+</frame>
+
+<comment/>
+<role argnum="3" argrole="source" vncls="" vntheta=""/>
+</frameset>
+
+<frameset cdef="" edef="to devote one self to" id="02" vncls="">
+<role argnum="0" argrole="devoter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>توفر الطالب على الدرس</parse>
+
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="on the lesson" n="1">على الدرس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to take care of or respect" id="03" vncls="">
+<role argnum="0" argrole="entity respecting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>توفر * على صاحبه</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="to his friend" n="1">على صاحبه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="respected" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

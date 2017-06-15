@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tasAwam</id>
+
+<frameset cdef="" edef="to bargain or haggle" id="01" vncls="">
+<role argnum="0" argrole="entity bargaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تساوم الشاري مع البائع في سعر السلعة</parse>
+
+<arg f="" g="the buyer" n="0">الشاري</arg>
+<arg f="" g="the seller" n="1">مع البائع</arg>
+<arg f="" g="in the price of the merchandise" n="2">في سعر السلعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what or for what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

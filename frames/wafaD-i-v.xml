@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wafaD-i</id>
+<comment/>
+<frameset cdef="" edef="" id="01">
+<role argnum="0" argrole="entity hurrying"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كأنهم إلى نصب يوفض * ون</parse>
+<comment/>
+<arg f="" g="they" n="0">* هم</arg>
+<arg f="" g="to positions" n="1">إلى نصب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="toward what"/>
+</frameset>
+</verb>

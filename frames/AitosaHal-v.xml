@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitosaHal</id>
+<comment>EGYPTIAN ARABIC Framefile based on saHal-v</comment>
+    <frameset cdef="" edef="to drag or pull on the ground" id="03" vncls="">
+<role argnum="0" argrole="entity draging" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(VP
+      (PRT
+        (NEG_PART لا))
+      (IV1S+IV أَظُنّ)
+      (NP-SBJ
+        (-NONE- *))
+      (SBAR
+        (-NONE- 0)
+        (S
+          (S
+            (NP-TPC-1
+              (IVSUFF_DO:3P هُم))
+            (VP
+              (PV+PVSUFF_SUBJ:3P سَحَلُو)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (PVSUFF_DO:2MS ك))
+              (PP-LOC
+                (PREP عَلَى)
+                (NP
+                  (DET+NOUN الأَسْفَلْت)))
+              (PP-PRP
+                (-NONE- *RNR*-6))))
+          (CONJ وِ)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3P ضَرَبُوا)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (PVSUFF_DO:2MS َك))
+              (PP
+                (PREP عَلَى)
+                (NP
+                  (NOUN قَفا)
+                  (NP
+                    (POSS_PRON_2MS َك))))</parse>
+<comment />
+<arg f="" g="they" n="0">* هُم</arg>
+<arg f="" g="you" n="1">ك</arg>
+<arg f="" g="on the asphalt" n="2">عَلَى الأَسْفَلْت</arg>
+</example>
+<comment />
+</frame>
+<comment>سحل  ARZ
+Based on roleset saHab-a.03
+Based on roleset saHal-v.03</comment>
+<role argnum="1" argrole="entity dragged" vncls="" vntheta="" />
+<role argnum="2" argrole="on what" vncls="" vntheta="" />
+<role argnum="3" argrole="start point" vncls="" vntheta="" />
+<role argnum="4" argrole="end point" vncls="" vntheta="" />
+</frameset>
+</verb>

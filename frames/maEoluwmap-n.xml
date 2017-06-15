@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maEoluwmap</id>
+<comment/>
+<frameset cdef="" edef="piece of information, fact, known" id="01" vncls="">
+<role argnum="0" argrole="knower/ the one who is aware" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه الأمور معلومة * لدى كل شخص من خلال الانترنيت</parse>
+<comment/>
+<arg f="" g="these things" n="1">* هذه الأمور</arg>
+<arg f="" g="for every person" n="0">لدى كل شخص</arg>
+<arg f="" g="through the internet" n="2">من خلال الانترنيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing known or thought" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jAnib</id>
+<comment/>
+<frameset cdef="" edef="side, aspect" id="01" vncls="">
+<role argnum="1" argrole="entity beside" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقع المدرسة بجانب * ملعب كرة القدم</parse>
+<comment/>
+<arg f="" g="the school" n="1">* المدرسة</arg>
+<arg f="" g="the football field" n="2">ملعب كرة القدم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="the side of" vncls="" vntheta=""/>
+</frameset>
+</verb>

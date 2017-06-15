@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitokaEobil</id>
+<comment/>
+<frameset cdef="" edef="to stumble, to trip" id="01" vncls="">
+<role argnum="0" argrole="entity stumbling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-SBJ
+      (PRON_1S أَنا))
+    (PP-TMP
+      (PREP لِ)
+      (NP
+        (NOUN حَدّ)
+        (NP
+          (ADV دِلْوَقْتِي))))
+    (SBAR-NOM-PRD
+      (WHNP-2
+        (-NONE- 0))
+      (S
+        (VP
+          (PRT
+            (NEG_PART مِش))
+          (ADJ.VN شايِف)
+          (NP-SBJ
+            (-NONE- *T*-2))
+          (SBAR
+            (SUB_CONJ إِنّ)
+            (S
+              (NP-SBJ
+                (PRON_3FS ها))
+              (UCP-PRD
+                (NP
+                  (NOUN+NSUFF_FEM_SG حَمْلَة))
+                (CONJ وَ)
+                (ADJP
+                  (PRT
+                    (NEG_PART لا))
+                  (ADJ+NSUFF_FEM_SG مُنْتَشِرَة)))))))))
+  (S
+    (NP-TPC-1
+      (PRON_1S أَنا))
+    (VP
+      (PV+PVSUFF_SUBJ:1S اِتْكَعْبِلت)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (PP
+        (PREP فِي)
+        (NP
+          (PRON_3FS ها)))
+      (PP
+        (PREP بِ)
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG الصُدْفَة))))))</parse>
+<comment/>
+<arg f="" g="I" n="0">*T* -1 انا</arg>
+<arg f="" g="in it" n="1">فيها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

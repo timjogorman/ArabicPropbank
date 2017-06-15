@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqaSaE</id>
+
+<frameset cdef="" edef="to be slapped , slapped on the head" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقصع الولد على رأسه</parse>
+
+<arg f="" g="the boy" n="1">الولد</arg>
+<arg f="" g="on his head" n="2">على رأسه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be gulpped" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقصعت الحلوى بسرعة</parse>
+
+<arg f="" g="the cake" n="1">الحلوى</arg>
+<arg f="mnr" g="very fast" n="m">بسرعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="food or drink" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to become degraded, dishonored" id="03" vncls="">
+<role argnum="0" argrole="causer of degradation" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقصع المتشرد بالاستهزاء</parse>
+
+<arg f="" g="the homeless" n="1">المتشرد</arg>
+<arg f="" g="with mockery" n="2">بالاستهزاء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity degraded" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument, if separate from arg 0" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SArif</id>
+<comment/>
+<frameset cdef="" edef="to spend or to use money" id="01" vncls="">
+<role argnum="0" argrole="entity spending" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم غير مهتمين صارفين * كل وقتهم في اللعب</parse>
+<comment/>
+<arg f="" g="they" n="0">* هم</arg>
+<arg f="" g="all thier time" n="1">كل وقتهم</arg>
+<arg f="" g="at play" n="2">في اللعب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things spent" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

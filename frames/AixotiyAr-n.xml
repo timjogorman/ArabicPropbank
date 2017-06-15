@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AixotiyAr</id>
+<comment/>
+<frameset cdef="" edef="choosing" id="01" vncls="">
+<role argnum="0" argrole="chooser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الرجل بأختيار * اللاعبين لفريق كرة القدم</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="the players" n="1">اللاعبين</arg>
+<arg f="" g="for the football team" n="2">لفريق كرة القدم</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things choosed" vncls="" vntheta=""/>
+<role argnum="2" argrole="choosed for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

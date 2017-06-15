@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eamiya</id>
+<comment/>
+<frameset cdef="" edef="to become unable to see" id="01" vncls="">
+<role argnum="1" argrole="entity unable to see" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عمي الرجل عن رؤية الحق</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="from seeing the truth" n="2">عن رؤية الحق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="of what" vncls="" vntheta=""/>
+</frameset>
+</verb>

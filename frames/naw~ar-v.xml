@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naw~ar</id>
+
+<frameset cdef="" edef="to light,  to illuminateto flower, to blossom" id="01" vncls="other_cos-1">
+<role argnum="0" argrole="entity causing the light" vncls="other_cos-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>لما شفته قلت له نورت * البيت بحضورك</parse>
+
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="with your coming" n="2">بحضورك</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things lightened" vncls="other_cos-1" vntheta="patient"/>
+<role argnum="2" argrole="with what" vncls="other_cos-1" vntheta="instrument"/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

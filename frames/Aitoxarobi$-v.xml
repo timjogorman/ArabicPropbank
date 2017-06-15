@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitoxarobi$</id>
+<comment>EGYPTIAN ARABIC Framefile based on xaroba$-v</comment>
+<frameset cdef="" edef="to scribble or scrawl, to scratch" id="01" vncls="">
+<role argnum="0" argrole="entity scratching" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (NP
+    (NP
+      (X
+        (CONJ وَ)
+        (RESTRIC_PART إِلّا))
+      (DET+NOUN الوَلَد))
+    (SBAR
+      (WHNP-1
+        (REL_PRON الِّي))
+      (S
+        (VP
+          (PRT
+            (PROG_PART بِ))
+          (IV3MS+IV يِخربش)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (PP
+            (PREP فِي)
+            (NP
+              (DET+NOUN الشُبّاك))))))))</parse>
+<comment />
+<arg f="" g="the boy" n="0">الوَلَد</arg>
+<arg f="" g="in the window" n="1">فِي الشُبّاك</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset xaroba$-v.01</comment>
+<role argnum="1" argrole="entity scratched" vncls="" vntheta="" />
+<role argnum="2" argrole="with what" vncls="" vntheta="" />
+</frameset>
+</verb>

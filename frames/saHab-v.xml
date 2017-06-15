@@ -1,0 +1,84 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>saHab</id>
+<comment>EGYPTIAN ARABIC based on saHab-a</comment>
+    <frameset cdef="" edef="to pull out/remove" id="01" vncls="">
+<role argnum="0" argrole="agent, causal agent" vncls="" vntheta="" />
+<role argnum="1" argrole="thing removed" vncls="" vntheta="" />
+<role argnum="2" argrole="from where" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+      (NP-TPC-1
+        (NOUN_PROP اسلام)
+        (NOUN_PROP أباد))
+      (VP
+        (PV+PVSUFF_SUBJ:3FS سحبت)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (NOUN+CASE_INDEF_ACC بوارج))
+        (PP-DIR
+          (PREP من)
+          (NP
+            (NOUN+CASE_DEF_GEN بحر)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN العرب))))))</parse>
+<arg f="" g="-NONE- &lt; Islam Abad" n="0">*T*-1 &lt; اسلام أباد</arg>
+<arg f="" g="ships" n="1">بوارج</arg>
+<arg f="" g="from the Arabian sea" n="2">من بحر العرب</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset saHab-a.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to withdraw money" id="02" vncls="">
+<role argnum="0" argrole="entity withdrawing money" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>سحب الرجل مبلغا من المال من حسابه الجاري</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="an amount of money" n="1">مبلغا من المال</arg>
+<arg f="" g="from his checking account" n="2">من حسابه الجاري</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="things or amount withdrawn" vncls="" vntheta="" />
+<role argnum="2" argrole="from" vncls="" vntheta="" />
+<comment>Based on roleset saHab-a.02</comment>
+</frameset>
+<frameset cdef="" edef="to drag or pull on the ground" id="03" vncls="">
+<role argnum="0" argrole="entity draging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هل سحبو* ك على الارض بالعربيات</parse>
+<comment/>
+<arg f="" g="None" n="0">*? NONE</arg>
+<arg f="" g="you" n="1">ك</arg>
+<arg f="" g="on the floor with cars" n="2">على الارض بالعربيات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity dragged" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+<role argnum="3" argrole="start point" vncls="" vntheta=""/>
+<role argnum="4" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+
+</verb>

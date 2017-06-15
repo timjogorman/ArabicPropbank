@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maH~aS</id>
+
+<frameset cdef="" edef="to clarify or purify, to look deeply in" id="01" vncls="faHaSa-1">
+<role argnum="0" argrole="entity purifying" vncls="faHaSa-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-VOC
+      (PRT
+        (VOC_PART يا))
+      (NOUN+NSUFF_FEM_SG سادَة))
+    (SBAR-ADV
+      (SUB_CONJ لَو)
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:1P تَمَحَّصنا)
+          (NP-SBJ
+            (-NONE- *))
+          (NP-OBJ
+            (NOUN أَعْضاء)
+            (NP
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG الوِزارَة))
+              (NP
+                (NOUN+NSUFF_FEM_SG وِزارَة)
+                (NP
+                  (DET+NOUN_PROP الجَنْزُورِيّ))))))))
+    (VP
+      (IV1P+IV نَجِد)
+      (NP-SBJ
+        (-NONE- *))
+      (S
+        (PP-PRD
+          (PREP بِ)
+          (NP
+            (PRON_3FS ها)))
+        (NP-SBJ
+          (DET+NOUN العَجَب))))
+    (PUNC ,)))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="members of the ministry the ministry of Aljanzury" n="1">أَعْضاء الوِزارَة وِزارَة الجَنْزُورِيّ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things purified" vncls="faHaSa-1" vntheta="attribute"/>
+<role argnum="2" argrole="from what" vncls="faHaSa-1" vntheta="theme"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

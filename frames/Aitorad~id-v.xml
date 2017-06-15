@@ -1,0 +1,146 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitorad~id</id>
+<comment>EGYPTIAN ARABIC based on tarad~ad</comment>
+    <frameset cdef="" edef="to be hesitate" id="01">
+<role argnum="0" argrole="hesitator" />
+<role argnum="1" argrole="secondary action (usually marked by في)" />
+<frame>
+<example>
+<parse>
+(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3FS عرضت)
+    (NP-SBJ
+      (-NONE- *))
+    (NP-OBJ
+      (NP
+        (DET+NOUN+CASE_DEF_ACC الواقع))
+      (SBAR
+        (WHNP-1
+          (REL_PRON الذي))
+        (S
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يعيش)
+            (NP-OBJ
+              (NP
+                (IVSUFF_DO:3MS ه))
+              (NP
+                (-NONE- *T*-1)))
+            (NP-SBJ
+              (NP
+                (NOUN_QUANT+CASE_DEF_NOM بعض)
+                (NP
+                  (DET+NOUN+NSUFF_MASC_PL_GEN اللبنانيين)))
+              (SBAR
+                (WHNP-2
+                  (REL_PRON الذين))
+                (S
+                  (VP
+                    (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يترددون)
+                    (NP-SBJ
+                      (-NONE- *T*-2))
+                    (NP-ADV
+                      (NOUN+CASE_DEF_ACC بين)
+                      (NP
+                        (NP
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN البقاء))
+                          (PP-LOC
+                            (PREP في)
+                            (NP
+                              (NOUN_PROP+CASE_INDEF_GEN لبنان))))
+                        (CONJ و)
+                        (NP
+                          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الهجرة)))))))))))))
+  (PUNC .))
+</parse>
+<arg f="" g="NP-SBJ-2" n="0">-NONE- *T*-2&lt;بعض اللبنانيين</arg>
+<arg f="بَيْنَ" g="between staying in Lebanon and emigrating" n="1">بين البقاء في لبنان و الهجرة</arg>
+</example>
+<example>
+<parse>
+(S
+  (CONJ و)
+  (SBAR-NOM-TPC-4
+    (WHNP-3
+      (REL_PRON ما))
+    (S
+      (VP
+        (PRT
+          (NEG_PART لم))
+        (IV3MS+IV+IVSUFF_MOOD:J يقل)
+        (NP-OBJ
+          (NP
+            (IVSUFF_DO:3MS ه))
+          (NP
+            (-NONE- *T*-3)))
+        (NP-SBJ
+          (NOUN_PROP باول)))))
+  (VP
+    (PV+PVSUFF_SUBJ:3MS قال)
+    (NP-OBJ
+      (NP
+        (PVSUFF_DO:3MS ه))
+      (SBAR-NOM
+        (-NONE- *T*-4)))
+    (NP-SBJ
+      (NP
+        (DET+NOUN+NSUFF_MASC_PL_NOM المسؤولون)
+        (DET+ADJ+NSUFF_MASC_PL_NOM الاميركيون)
+        (DET+ADJ+NSUFF_MASC_PL_NOM الآخرون))
+      (SBAR
+        (WHNP-1
+          (REL_PRON الذين))
+        (S
+          (VP
+            (PRT
+              (NEG_PART لم))
+            (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ يترددوا)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (PP-CLR
+              (PREP في)
+              (NP
+                (NP
+                  (NOUN+CASE_DEF_GEN الصاق)
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN التهمة)))
+                (PP
+                  (PREP ب)
+                  (NP
+                    (NP
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN السلطة))
+                      (CONJ و)
+                      (NP
+                        (NOUN_PROP ايران))
+                      (CONJ و)
+                      (NP
+                        (PUNC &quot;)
+                        (NOUN_PROP+CASE_DEF_GEN حزب)
+                        (NOUN_PROP+CASE_DEF_GEN الله)
+                        (PUNC &quot;)))
+                    (NP-ADV
+                      (NOUN+CASE_INDEF_ACC معاً))))))
+            (PP-MNR
+              (PREP من)
+              (NP
+                (NOUN+CASE_DEF_GEN دون)
+                (NP
+                  (NOUN_QUANT+CASE_DEF_GEN اي)
+                  (NP
+                    (NOUN+CASE_INDEF_GEN دليل)))))
+</parse>
+<arg f="" g="They" n="0">-NONE- *T*-1&lt;المسؤولون الاميركيون الآخرون</arg>
+<arg f="فِي" g="to throw accusations towards the government and Iran and Hizb Allah&quot;" n="1">في الصاق التهمة ب السلطة و ايران و &quot; حزب الله</arg>
+<arg f="adv" g="without any proof" n="m">من دون اي دليل</arg>
+<arg f="adv" g="Together" n="m">معاً</arg>
+</example>
+</frame>
+<comment>
+تحير
+</comment>
+</frameset>
+</verb>

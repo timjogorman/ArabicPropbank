@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zAg</id>
+<comment/>
+<frameset cdef="" edef="to deviate from, to depart from, to escape" id="01" vncls="">
+<role argnum="0" argrole="entity deviating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البنت زاغت * منى</parse>
+<comment/>
+<arg f="" g="the girl" n="0">* البنت</arg>
+<arg f="" g="from me" n="1">منى</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

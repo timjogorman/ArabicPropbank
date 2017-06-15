@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>xirib</id>
+<comment>EGYPTIAN ARABIC Framefile based on xarib-a-v</comment>
+<frameset cdef="" edef="ruined, destroyed" id="01" vncls="">
+<role argnum="0" argrole="destroyer" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>خرب البيت خرابا كبيرا</parse>
+<comment />
+<arg f="" g="the house" n="1">البيت</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset xarib-a-v.01</comment>
+<role argnum="1" argrole="thing destroyed" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoqaD~aY</id>
+<comment/>
+<frameset cdef="" edef="been done" id="01" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أهو شغل و اتقضى * بسرعة</parse>
+<comment/>
+<arg f="" g="work" n="1">* شغل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things done" vncls="" vntheta=""/>
+</frameset>
+</verb>

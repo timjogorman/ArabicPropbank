@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqAbul</id>
+<comment/>
+<frameset cdef="" edef="opposition, get together, meeting face to face" id="01" vncls="">
+<role argnum="0" argrole="entity meeting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أدت الأحداث الى تقابل الجيش العراقي مع الأيراني في معارك دامية</parse>
+<comment/>
+<arg f="" g="the Iraqi Army" n="0">الجيش العراقي</arg>
+<arg f="" g="with the Iranian one" n="1">مع الأيراني</arg>
+<arg f="" g="in bloody wars" n="2">في معارك دامية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity being met" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

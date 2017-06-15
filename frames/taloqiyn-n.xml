@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taloqiyn</id>
+
+<frameset cdef="" edef="instruct, inspire, teaching" id="01" vncls="">
+<role argnum="0" argrole="instructor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (VP
+        (IV3FS+IV+IVSUFF_MOOD:I تلقن)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP ب)
+          (NP
+            (NOUN+CASE_DEF_GEN قدر)
+            (SBAR
+              (SUB_CONJ ما)
+              (S
+                (S
+                  (VP
+                    (IV3FS+IV+IVSUFF_MOOD:I تخدم)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (-NONE- *RNR*-5))))
+                (CONJ او)
+                (S
+                  (VP
+                    (PRT
+                      (NEG_PART لا))
+                    (IV3FS+IV+IVSUFF_MOOD:I تخدم)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (-NONE- *RNR*-5))))
+                (NP-OBJ-5
+                  (DET+NOUN+CASE_DEF_ACC الانسان))))))))</parse>
+
+<arg f="" g="NONE" n="0">-NONE- *</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="student" vncls="" vntheta=""/>
+
+<role argnum="2" argrole="instruction" vncls="" vntheta=""/>
+
+
+<comment>Based on roleset laq~an.01</comment>
+</frameset>
+
+
+
+<comment>Framefile based on laq~an</comment>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanoSiyr</id>
+<comment/>
+<frameset cdef="" edef="to convert others into Christianity" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الراهب بتنصير * أهالي القرية</parse>
+<comment/>
+<arg f="" g="the priest" n="0">* الراهب</arg>
+<arg f="" g="the village people" n="1">أهالي القرية</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity converted" vncls="" vntheta=""/>
+<role argnum="2" argrole="origin" vncls="" vntheta=""/>
+</frameset>
+</verb>

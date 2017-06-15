@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xayAl</id>
+<comment/>
+<frameset cdef="" edef="imagination" id="01" vncls="">
+<role argnum="0" argrole="entity imagining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما يدور في خيال بعض الناس بأن الأمور ستتحسن</parse>
+<comment/>
+<arg f="" g="some people" n="0">بعض الناس</arg>
+<arg f="" g="that things will be better" n="1">بأن الأمور ستتحسن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thinker         Arg1: object, thing under consideration" vncls="" vntheta=""/>
+<role argnum="2" argrole="predicate" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="ghost , spirit, shadow" id="02" vncls="">
+<role argnum="1" argrole="the shadow" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رأيت خيال رجل يتراقص على الجدار</parse>
+<comment/>
+<arg f="" g="a man" n="1">رجل</arg>
+<arg f="" g="dancing" n="2">يتراقص</arg>
+<arg f="loc" g="on the wall" n="m">على الجدار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>qarab</id>
+
+<frameset cdef="" edef="to approach, be close (to)" id="01" vncls="">
+<role argnum="1" argrole="entity in motion" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>قرب المتسابق من نهاية السباق</parse>
+
+<arg f="" g="the rider" n="1">المتسابق</arg>
+<arg f="" g="the end of the race" n="2">من نهاية السباق</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="2" argrole="place approached, destination" vncls="" vntheta="" />
+<comment>Based on roleset qarub-u-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on qarub-u-v</comment>
+</verb>

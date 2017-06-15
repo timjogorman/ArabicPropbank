@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sawiy</id>
+
+<frameset cdef="" edef="to be or become normal or right" id="01" vncls="">
+<role argnum="1" argrole="entity or things becoming normal" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سوي الولد</parse>
+
+<arg f="" g="the boy" n="1">الولد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to be equal or equivalent  to" id="02" vncls="">
+<role argnum="1" argrole="entity equal to" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الفلم مايسواش * تعريفة</parse>
+<comment/>
+<arg f="" g="the movie" n="0">* الفلم</arg>
+<arg f="" g="a penny" n="1">تعريفة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

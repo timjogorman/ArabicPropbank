@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>$akaY</id>
+<comment>EGYPTIAN ARABIC based on $akaY-i</comment>
+    <frameset cdef="" edef="to complain, to protest" id="01" vncls="">
+<role argnum="0" argrole="protester" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>شكى الرجل مشكلته لأخيه</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his problem" n="1">مشكلته</arg>
+<arg f="" g="to his brother" n="2">لأخيه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset $akaY-i.01</comment>
+<role argnum="1" argrole="about what" vncls="" vntheta="" />
+<role argnum="2" argrole="to whom" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inojaraf</id>
+<comment/>
+<frameset cdef="" edef="to drift, to be carried along, to be swept away" id="01">
+<role argnum="0" argrole="entity drifting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لماذا انجرف العالم نحو الممارسات الشيطانية</parse>
+<comment/>
+<arg f="" g="the world" n="0">العالم</arg>
+<arg f="" g="toward satanic practices" n="1">نحو الممارسات الشيطانية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="toward what"/>
+</frameset>
+</verb>

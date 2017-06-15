@@ -1,23 +1,23 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>waT~ad</id>
-    <frameset cdef="" edef="To establish" id="01">
-        <role argnum="0" argrole="agent, setter"/>
-        <role argnum="1" argrole="thing set"/>
-        <role argnum="2" argrole="instrument"/>
-        <frame>
-            <comment>
-                ثبت /  رسخ
-            </comment>
-            <example>
-                <parse>
-                    والراهن اليوم ايضا ان شارون يستغل **-1 كل ما آل اليه **-2 الوضع مع الفلسطينيين والدعم الدولي والاميركي له ليوطد * ايضا زعامته داخل اسرائيل نفسها .
-                </parse>
-                <arg f="" g="He" n="0">*&amp;lt;شارون</arg>
-                <arg f="" g="Leadership" n="1">زعامته</arg>
-                <arg f="adv" g="also" n="m">ايضا</arg>
-                <arg f="loc" g="Within Israel itself" n="m">داخل اسرائيل نفسها</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>waT~ad</id>
+<frameset cdef="" edef="To establish" id="01" vncls="other_cos-1">
+<role argnum="0" argrole="agent, setter" vncls="other_cos-1" vntheta="agent"/>
+<role argnum="1" argrole="thing set" vncls="other_cos-1" vntheta="patient"/>
+<role argnum="2" argrole="instrument" vncls="other_cos-1" vntheta="instrument"/>
+<frame>
+
+<example>
+<parse>والراهن اليوم ايضا ان شارون يستغل **-1 كل ما آل اليه **-2 الوضع مع الفلسطينيين والدعم الدولي والاميركي له ليوطد * ايضا زعامته داخل اسرائيل نفسها .</parse>
+<arg f="" g="He" n="0">*&lt;شارون</arg>
+<arg f="" g="Leadership" n="1">زعامته</arg>
+<arg f="adv" g="also" n="m">ايضا</arg>
+<arg f="loc" g="Within Israel itself" n="m">داخل اسرائيل نفسها</arg>
+<comment/>
+</example>
+<comment>ثبت /  رسخ</comment>
+</frame>
+<comment/>
+</frameset>
+<comment/>
 </verb>

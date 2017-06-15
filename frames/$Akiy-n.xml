@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$Akiy</id>
+<comment/>
+<frameset cdef="" edef="complainant, complaining" id="01" vncls="">
+<role argnum="0" argrole="entity complaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بكت المرأة شاكية * أحوالها لابيها</parse>
+<comment/>
+<arg f="" g="the woman" n="0">* المرأة</arg>
+<arg f="" g="her circumstances" n="1">أحوالها</arg>
+<arg f="" g="to her father" n="2">لابيها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="about what" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

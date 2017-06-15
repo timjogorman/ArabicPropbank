@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEAruf</id>
+<comment/>
+<frameset cdef="" edef="To get to know one another" id="01" vncls="">
+<role argnum="0" argrole="knower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم تعارف الاباء على أولادهم</parse>
+<comment/>
+<arg f="" g="the fathers" n="0">الاباء</arg>
+<arg f="" g="at their childrens" n="1">على أولادهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity known" vncls="" vntheta=""/>
+<role argnum="2" argrole="instument of acquaintance" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,17 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>qal~id</id>
+<comment>EGYPTIAN ARABIC based on qal~ad</comment>
+    <frameset cdef="" edef="to copy or mimic" id="02">
+<role argnum="0" argrole="copier" />
+<role argnum="1" argrole="original copied" />
+<frame>
+<example>
+<parse>
+ذكر والد سلام أن موهبة ابنه ظهرت **-1 في سن مبكرة، وقال **-2 اكتشفت * أن عنده موهبة الخطابة، كان يقلد **-3 المشايخ
+</parse>
+<arg f="" g="-NONE- &lt; his son" n="0">**-3 &lt; ابنه</arg>
+<arg f="" g="the preachers" n="1">المشايخ</arg>
+</example>
+</frame>
+<comment>Based on roleset qal~ad.02</comment></frameset>
+</verb>

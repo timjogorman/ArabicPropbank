@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>hadar</id>
+<comment>EGYPTIAN ARABIC based on hadar-i</comment>
+    <frameset cdef="" edef="to be spent uselessly" id="02" vncls="">
+<role argnum="0" argrole="entity spenting" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>(CONJ وَ)
+    (S
+      (VP
+        (PRT
+          (NEG_PART لا))
+        (IV2MS+IV تُهدِر)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (X
+            (NO_FUNC كرامتنا)))
+        (PP
+          (PREP عَلَى)
+          (NP
+            (NOUN أَيْدِي)
+            (NP
+              (NOUN نِظام)
+              (NP
+                (POSS_PRON_2MS َك)))))))
+    (CONJ فَ)
+    (S
+      (VP
+        (IV1P+IV نِهُون)
+        (NP-SBJ
+          (-NONE- *))
+        (PP-CLR
+          (PREP عَلَى)
+          (NP
+            (NP
+              (NOUN غِير)
+              (NP
+                (POSS_PRON_1P نا)))</parse>
+
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="our dignity" n="1">كرامتنا</arg>
+<arg f="" g="on the hands of your regime" n="2">على ايدي نظامك</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="things spent" vncls="" vntheta="" />
+<role argnum="2" argrole="manner or how" vncls="" vntheta="" />
+<comment>Based on roleset hadar-i.02</comment>
+</frameset>
+</verb>

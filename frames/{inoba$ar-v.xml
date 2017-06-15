@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoba$ar</id>
+
+<frameset cdef="" edef="to be removed or peeled  by rubbing with a tool" id="01" vncls="">
+<role argnum="1" argrole="entity removed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبشرت الصباغة عن الباب القديم</parse>
+
+<arg f="" g="painting" n="1">الصباغة</arg>
+<arg f="" g="from the old door" n="2">عن الباب القديم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

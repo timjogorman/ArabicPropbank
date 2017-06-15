@@ -1,20 +1,37 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>lAX-u</id>
-    <frameset cdef="" edef="to seek refuge" id="01">
-        <role argnum="0" argrole="seeker"/>
-        <role argnum="1" argrole="place - marked by  ب"/>
-        <frame>
-            <example>
-                <parse>
-                    لاذ * بالحصن
-                </parse>
-                <arg f="" g="he" n="0">*</arg>
-                <arg f="" g="the fort" n="1">بالحصن</arg>
-            </example>
-        </frame>
-        <comment>
-            Light Verb to escape
-        </comment>
-    </frameset>
+<id>lAX-u</id>
+<frameset cdef="" edef="to seek refuge" id="01">
+<role argnum="0" argrole="seeker"/>
+<role argnum="1" argrole="place - marked by  ب"/>
+<frame>
+<example>
+<parse>لاذ * بالحصن</parse>
+<arg f="" g="he" n="0">*</arg>
+<arg f="" g="the fort" n="1">بالحصن</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<comment>Light Verb to escape</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to observe, to comply with (multi word expression)" id="02">
+<role argnum="0" argrole="observer"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لاذ * بالصمت</parse>
+<comment/>
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="with silence" n="1">بالصمت</arg>
+</example>
+<comment/>
+</frame>
+<comment>التزم</comment>
+<role argnum="1" argrole="things observed"/>
+</frameset>
 </verb>

@@ -1,0 +1,79 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SAdir</id>
+<comment/>
+<frameset cdef="" edef="to confiscate, seize" id="01" vncls="">
+<role argnum="0" argrole="the confiscator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(PV+PVSUFF_SUBJ:3MS أشار)
+    (NP-SBJ
+      (-NONE- *))
+    (PP-CLR
+      (PREP الى)
+      (SBAR
+        (SBAR
+          (SUB_CONJ ان)
+          (S
+            (NP-TPC-1
+              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الشرطة))
+            (VP
+              (PV+PVSUFF_SUBJ:3FS صادرت)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (NOUN+CASE_DEF_ACC وثائق)))))
+        (CONJ و)
+        (SBAR
+          (SUB_CONJ ان)
+          (S
+            (NP-TPC-2
+              (PRON_3FS ها))
+            (VP
+              (IV3FS+IV+IVSUFF_MOOD:I تستجوب)
+              (NP-SBJ
+                (-NONE- *T*-2))
+              (NP-OBJ
+                (NP
+                  (NOUN_NUM+NSUFF_FEM_SG+CASE_DEF_ACC اربعة)
+                  (NP
+                    (NOUN+NSUFF_MASC_PL_GEN فرنسيين)))
+                (SBAR
+                  (WHNP-3
+                    (-NONE- 0))
+                  (S
+                    (VP
+                      (PV+PVSUFF_SUBJ:3MP كانوا)
+                      (NP-SBJ
+                        (-NONE- *T*-3))
+                      (PP-PRD
+                        (PREP في)
+                        (NP
+                          (NOUN+CASE_DEF_GEN مسكن)
+                          (SBAR-NOM
+                            (WHNP-4
+                              (-NONE- 0))
+                            (S
+                              (VP
+                                (DET+ADJ.VN+CASE_DEF_GEN المشتبه)
+                                (NP-SBJ
+                                  (-NONE- *-5))
+                                (PP-CLR
+                                  (PREP في)
+                                  (NP-5
+                                    (NP
+                                      (PRON_3MS ه))</parse>
+<comment/>
+<arg f="" g="the police" n="0">*T* -1 الشرطة</arg>
+<arg f="" g="documents" n="1">وثائق</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing confiscated" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

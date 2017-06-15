@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taOojiyj</id>
+<comment/>
+<frameset cdef="" edef="stirring up, lighting" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الخطيب بتأجيج * الناس ضد العدو</parse>
+<comment/>
+<arg f="" g="the speaker" n="0">* الخطيب</arg>
+<arg f="" g="the people" n="1">الناس</arg>
+<arg f="" g="against" n="2">ضد العدو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things stirred" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

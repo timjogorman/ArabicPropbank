@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dahan-u</id>
+
+<frameset cdef="" edef="to paint, to varnish, to anoint or rub" id="01" vncls="">
+<role argnum="0" argrole="painter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دهن الصباغ البيت باللون الأحمر</parse>
+
+<arg f="" g="the painter" n="0">الصباغ</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="with the red color" n="2">باللون الأحمر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="painted" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kanosil</id>
+<comment/>
+<frameset cdef="" edef="to cancel/ void" id="01" vncls="">
+<role argnum="0" argrole="canceller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا كنسلت * الحفلة</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="the party" n="1">الحفلة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing cancelled" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waSal</id>
+<comment/>
+<frameset cdef="" edef="to arrive , come to" id="01" vncls="">
+<role argnum="0" argrole="entity in motion /comer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل وصل * البيت من الشغل الساعة ستة</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="the house" n="2">البيت</arg>
+<arg f="" g="from work" n="1">من الشغل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="source" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point, destination" vncls="" vntheta=""/>
+</frameset>
+</verb>

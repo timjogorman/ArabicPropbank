@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saTowap</id>
+<comment/>
+<frameset cdef="" edef="influence, authority, control" id="01" vncls="">
+<role argnum="1" argrole="entity in charge" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كرهت سطوة المال على الناس</parse>
+<comment/>
+<arg f="" g="the money" n="1">المال</arg>
+<arg f="" g="on people" n="2">على الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="over what" vncls="" vntheta=""/>
+</frameset>
+</verb>

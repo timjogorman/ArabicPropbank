@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanAsal</id>
+<comment/>
+<frameset cdef="" edef="to propagate, to breed or multiply" id="01">
+<role argnum="0" argrole="entity breeding"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تناسل القوم مع بنات من الخارج</parse>
+<comment/>
+<arg f="" g="the people" n="0">لقوم</arg>
+<arg f="" g="with girls from the outside" n="1">مع بنات من الخارج</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom"/>
+</frameset>
+</verb>

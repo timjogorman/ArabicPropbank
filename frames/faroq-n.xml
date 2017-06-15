@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faroq</id>
+<comment/>
+<frameset cdef="" edef="difference, unlikeness" id="01" vncls="">
+<role argnum="1" argrole="things difference" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لا فرق بين اللص والشرطي اليوم</parse>
+<comment/>
+<arg f="" g="the thief" n="1">اللص</arg>
+<arg f="" g="and the police" n="2">والشرطي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

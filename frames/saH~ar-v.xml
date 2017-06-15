@@ -1,0 +1,74 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saH~ar</id>
+<comment/>
+<frameset cdef="" edef="to charm, use magic on" id="01" vncls="">
+<role argnum="0" argrole="egent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(SBAR-NOM-PRD
+      (WHNP-1
+        (-NONE- 0))
+      (S
+        (VP
+          (ADJ.VN+NSUFF_FEM_SG عارْفَة)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (SBAR
+            (-NONE- 0)
+            (S
+              (S
+                (NP-SBJ
+                  (NOUN_PROP مَحْمُود))
+                (ADJP-PRD
+                  (ADJ رُومانْسِي)))
+              (SUB_CONJ وِ)
+              (S
+                (VP
+                  (PRT
+                    (PROG_PART بِ))
+                  (IV3MS+IV يِسَحَّر)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (NP-OBJ
+                    (IVSUFF_DO:2FS ِك))
+                  (PP
+                    (PREP عَلَى)
+                    (NP
+                      (NOUN ضُوء)
+                      (NP
+                        (DET+NOUN الشُمُوع)))))))))))
+    (PUNC #)))</parse>
+<comment/>
+<arg f="" g="Mahmood" n="0">* مَحْمُود</arg>
+<arg f="" g="you" n="1">ك</arg>
+<arg f="mnr" g="on the candle light" n="m">على ضوء الشموع</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="serve suhour meal" id="02" vncls="">
+<role argnum="0" argrole="entity serving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل بيسحر * ولاده دجاج كل يوم</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his children" n="1">ولاده</arg>
+<arg f="" g="chicken" n="2">دجاج</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity served" vncls="" vntheta=""/>
+<role argnum="2" argrole="food" vncls="" vntheta=""/>
+</frameset>
+</verb>

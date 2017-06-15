@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosakab</id>
+
+<frameset cdef="" edef="to flow, to be poured" id="01" vncls="">
+<role argnum="0" argrole="agent pouring liquid" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انسكب الشاي من الإبريق في الفناجين</parse>
+
+<arg f="" g="tea" n="1">الشاي</arg>
+<arg f="" g="from the carafe" n="2">من الإبريق</arg>
+<arg f="" g="in cups" n="3">في الفناجين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="liquid" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

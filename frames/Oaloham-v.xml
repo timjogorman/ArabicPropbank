@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oaloham</id>
+<comment/>
+<frameset cdef="" edef="to inspire" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(PRT
+        (PROG_PART بِ))
+      (IV1S+IV اَدْعِي)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (NOUN رَبّ)
+        (NP
+          (POSS_PRON_1P نا)))
+      (SBAR-DTV
+        (TYPO انو)
+        (S
+          (S
+            (VP
+              (IV3MS+IV يِيَسِّر)
+              (NP-SBJ
+                (-NONE- *))
+              (PP
+                (PREP لِ)
+                (NP
+                  (PRON_1P نا)))
+              (NP-OBJ
+                (DET+NOUN الخِير))
+              (SBAR-ADV
+                (WHADVP-2
+                  (REL_ADV حَيْثُ))
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3MS كان)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (ADVP-PRD
+                      (-NONE- *T*-2)))))))
+          (CONJ وِ)
+          (S
+            (VP
+              (IV3MS+IV يِلهِم)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (IVSUFF_DO:1P نا))
+              (PP
+                (PREP لِ)
+                (NP
+                  (NOUN فِعْل)
+                  (NP
+                    (DET+NOUN الصَحّ)))))))))))</parse>
+<comment/>
+<arg f="" g="our God" n="0">* ربنا</arg>
+<arg f="" g="us" n="1">نا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity inspired" vncls="" vntheta=""/>
+</frameset>
+</verb>

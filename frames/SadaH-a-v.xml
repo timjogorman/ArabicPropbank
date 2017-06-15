@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SadaH-a</id>
+
+<frameset cdef="" edef="to sing or chant" id="01" vncls="">
+<role argnum="0" argrole="entity singing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>صدح المطرب بأغنية قديمة</parse>
+
+<arg f="" g="the singer" n="0">المطرب</arg>
+<arg f="" g="with an old song" n="1">بأغنية قديمة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the song" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to play" id="02" vncls="">
+<role argnum="1" argrole="music played" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>صدحت الموسيقى من الراديو</parse>
+
+<arg f="" g="the music" n="1">الموسيقى</arg>
+<arg f="" g="from the radio" n="2">من الراديو</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

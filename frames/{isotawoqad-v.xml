@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotawoqad</id>
+
+<frameset cdef="" edef="to kindle or ignite" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استوقد الولد النار في التبن</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="the fire" n="1">النار</arg>
+<arg f="" g="in the hay" n="2">في التبن</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things ignited" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

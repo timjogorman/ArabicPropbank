@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mar~an</id>
+<comment/>
+<frameset cdef="" edef="to cause to practice, to train" id="01" vncls="">
+<role argnum="0" argrole="trainer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبويا بيمرن * أخويا على السباحة</parse>
+<comment/>
+<arg f="" g="my father" n="0">* أبويا</arg>
+<arg f="" g="my brother" n="1">أخويا</arg>
+<arg f="" g="swiming" n="2">على السباحة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="trained" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

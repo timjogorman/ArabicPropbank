@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>hajam</id>
+<comment>EGYPTIAN ARABIC based on hajam-u</comment>
+    <frameset cdef="" edef="to attack, to assail or assult" id="01">
+<role argnum="0" argrole="attacker" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>هجم العدو على المدينة من كل ناحية</parse>
+<comment />
+<arg f="" g="the enemy" n="0">العدو</arg>
+<arg f="" g="on the city" n="1">على المدينة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset hajam-u.01</comment>
+<role argnum="1" argrole="attacked" />
+<role argnum="2" argrole="instrument" />
+</frameset>
+</verb>

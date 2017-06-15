@@ -1,228 +1,393 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>daEA-u</id>
-    <frameset cdef="" edef="to request or invite" id="01">
-        <role argnum="0" argrole="agent making the request"/>
-        <role argnum="1" argrole="the request or invitation"/>
-        <role argnum="2" argrole="audience to whom the request or invitation is made"/>
-        <frame>
-            <example>
-                <parse>(TOP
-                    (S
-                    (S
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS قال)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (PUNC ")
-                    (NP-SBJ
-                    (NP
-                    (ADJP
-                    (ADJ_COMP+CASE_INDEF_ACC أهم)
-                    (NP
+<id>daEA-u</id>
+<frameset cdef="" edef="to request or invite, to supplicate, to pray humbly" id="01" vncls="">
+<role argnum="0" argrole="agent making the request" vncls="" vntheta=""/>
+<role argnum="1" argrole="the request or invitation" vncls="" vntheta=""/>
+<role argnum="2" argrole="audience to whom the request or invitation is made" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (CONJ و)
+      (VP
+        (PV+PVSUFF_SUBJ:3MS قال)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (SUB_CONJ ان)
+          (S
+            (PUNC ")
+            (NP-SBJ
+              (NP
+                (ADJP
+                  (ADJ_COMP+CASE_INDEF_ACC أهم)
+                  (NP
                     (NOUN+CASE_DEF_GEN ركائز)
                     (NP
-                    (NOUN+CASE_DEF_GEN برنامج)
-                    (NP
-                    (NOUN+CASE_DEF_GEN عمل)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الحكومة)))))))
-                    (NP
-                    (PRON_3MS هو)))
-                    (NP-PRD
-                    (NOUN+CASE_DEF_NOM تحقيق)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN النمو)
-                    (DET+ADJ+CASE_DEF_GEN الاقتصادي)))
-                    (PUNC ")))))
-                    (CONJ و)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS دعا)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (PVSUFF_DO:3MS ه))
-                    (PP-CLR
-                    (PREP الى)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مواجهة)
-                    (NP
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الازمة)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاقتصادية))
-                    (SBAR
-                    (WHNP-2
-                    (REL_PRON التي))
-                    (S
-                    (VP
+                      (NOUN+CASE_DEF_GEN برنامج)
+                      (NP
+                        (NOUN+CASE_DEF_GEN عمل)
+                        (NP
+                          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الحكومة)))))))
+              (NP
+                (PRON_3MS هو)))
+            (NP-PRD
+              (NOUN+CASE_DEF_NOM تحقيق)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN النمو)
+                (DET+ADJ+CASE_DEF_GEN الاقتصادي)))
+            (PUNC ")))))
+    (CONJ و)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3MS دعا)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (PVSUFF_DO:3MS ه))
+        (PP-CLR
+          (PREP الى)
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مواجهة)
+            (NP
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الازمة)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاقتصادية))
+              (SBAR
+                (WHNP-2
+                  (REL_PRON التي))
+                (S
+                  (VP
                     (IV3FS+IV+IVSUFF_MOOD:I تعاني)
                     (NP-OBJ
-                    (NP
-                    (IVSUFF_DO:3FS ها))
-                    (NP
-                    (-NONE- *T*-2)))
+                      (NP
+                        (IVSUFF_DO:3FS ها))
+                      (NP
+                        (-NONE- *T*-2)))
                     (NP-SBJ
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM المملكة))
+                      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM المملكة))
                     (PP-TMP
-                    (PREP منذ)
-                    (NP
-                    (NOUN_NUM+CASE_DEF_GEN خمس)
-                    (NP
-                    (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN سنوات))))))))))))
-                    (PUNC ")
-                    (PUNC .)))
-                </parse>
-                <arg f="" g="he" n="0">*</arg>
-                <arg f="" g="him" n="2">ه</arg>
-                <arg f="إِلَى" g="to confront the economic crisis that the Kingdom has been facing for the past 5 years" n="1">الى مواجهة الازمة الاقتصادية التي تعانيها المملكة منذ خمس سنوات</arg>
-                
-                
-                <comment/>
-            </example>
-            <example>
-                <parse>(TOP
-                    (S
-                    (CONJ و)
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يدعو)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (ADVP
-                    (ADV+CASE_INDEF_ACC ايضاً))
-                    (PP-CLR
-                    (PREP الى)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الانتظار)))
-                    (PP-PRP
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN لتثبت))
-                    (PP
-                    (PREP من)
-                    (NP
-                    (NOUN+CASE_DEF_GEN صدق)
-                    (NP
-                    (NP
+                      (PREP منذ)
+                      (NP
+                        (NOUN_NUM+CASE_DEF_GEN خمس)
+                        (NP
+                          (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN سنوات))))))))))))
+    (PUNC ")
+    (PUNC .)))</parse>
+<arg f="" g="he" n="0">*</arg>
+<arg f="" g="him" n="2">ه</arg>
+<arg f="إِلَى" g="to confront the economic crisis that the Kingdom has been facing for the past 5 years" n="1">الى مواجهة الازمة الاقتصادية التي تعانيها المملكة منذ خمس سنوات</arg>
+
+
+
+
+
+<comment/>
+</example>
+<example>
+<parse>(TOP
+  (S
+    (CONJ و)
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يدعو)
+      (NP-SBJ
+        (-NONE- *))
+      (ADVP
+        (ADV+CASE_INDEF_ACC ايضاً))
+      (PP-CLR
+        (PREP الى)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الانتظار)))
+      (PP-PRP
+        (PP
+          (PREP ل)
+          (NP
+            (NP
+              (DET+NOUN+CASE_DEF_GEN لتثبت))
+            (PP
+              (PREP من)
+              (NP
+                (NOUN+CASE_DEF_GEN صدق)
+                (NP
+                  (NP
                     (DET+NOUN+CASE_DEF_GEN الدعم)
                     (DET+ADJ+CASE_DEF_GEN الاميركي))
-                    (PP
+                  (PP
                     (PREP ل)
                     (NP
-                    (NP
-                    (DEM_PRON_F هذه))
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN التجربة)))))))))
-                    (CONJ و)
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (NP
-                    (NOUN_QUANT+CASE_DEF_GEN أي)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN تجربة)
-                    (ADJ اخرى)
-                    (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN مماثلة)))
-                    (PP-LOC
-                    (PREP في)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN العالم)
-                    (DET+ADJ+CASE_DEF_GEN الاسلامي)))))))
-                    (PUNC .)))
-                </parse>
-                <arg f="" g="he" n="0">*</arg>
-                <arg f="adv" g="also" n="m">ايضاً</arg>
-                <arg f="إِلَى" g="to wait to verify the sincerity of American support for this experiment and for any similar experience in the Islamic world" n="1">الى الانتظار للتثبت من صدق الدعم الاميركي لهذه التجربة ولأي تجربة اخرى مماثلة في العالم الاسلامي</arg>
-                
-                <comment/>
-            </example>
-            
-            <comment/>
-        </frame>
-        
-        <comment/>
-    </frameset>
-    <frameset cdef="" edef="to be called or named" id="02">
-        <role argnum="1" argrole="entity being given a name + name (S-node)"/>
-        
-        <frame>
-            <example>
-                <parse>***Do not tag the NP-SBJ in this case as it's coindexed with the NP-SBJ of the following S-node***
-                    
-                    
-                    (FRAG
-                    (NP
-                    (NOUN_PROP تورونتو)
-                    (PUNC -)
-                    (NOUN_PROP رويترز))
-                    (PUNC -)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS افادت)
-                    (NP-SBJ
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الشرطة)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM الكندية))
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (NP-TPC-2
-                    (NP
-                    (NP
-                    (NOUN+CASE_INDEF_ACC رجلا)
-                    (ADJ+CASE_INDEF_ACC يهوديا))
-                    (SBAR
-                    (WHNP-1
-                    (-NONE- 0))
-                    (S
-                    (VP
+                      (NP
+                        (DEM_PRON_F هذه))
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN التجربة)))))))))
+        (CONJ و)
+        (PP
+          (PREP ل)
+          (NP
+            (NP
+              (NOUN_QUANT+CASE_DEF_GEN أي)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN تجربة)
+                (ADJ اخرى)
+                (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN مماثلة)))
+            (PP-LOC
+              (PREP في)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN العالم)
+                (DET+ADJ+CASE_DEF_GEN الاسلامي)))))))
+    (PUNC .)))</parse>
+<arg f="" g="he" n="0">*</arg>
+<arg f="adv" g="also" n="m">ايضاً</arg>
+<arg f="إِلَى" g="to wait to verify the sincerity of American support for this experiment and for any similar experience in the Islamic world" n="1">الى الانتظار للتثبت من صدق الدعم الاميركي لهذه التجربة ولأي تجربة اخرى مماثلة في العالم الاسلامي</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be called or named" id="02" vncls="">
+<role argnum="0" argrole="namer" vncls="" vntheta=""/>
+
+<frame>
+<example>
+<parse>***Do not tag the NP-SBJ in this case as it's coindexed with the NP-SBJ of the following S-node***
+
+
+(FRAG
+  (NP
+    (NOUN_PROP تورونتو)
+    (PUNC -)
+    (NOUN_PROP رويترز))
+  (PUNC -)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3FS افادت)
+      (NP-SBJ
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الشرطة)
+        (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM الكندية))
+      (SBAR
+        (SUB_CONJ ان)
+        (S
+          (NP-TPC-2
+            (NP
+              (NP
+                (NOUN+CASE_INDEF_ACC رجلا)
+                (ADJ+CASE_INDEF_ACC يهوديا))
+              (SBAR
+                (WHNP-1
+                  (-NONE- 0))
+                (S
+                  (VP
                     (IV3MS+IV_PASS+IVSUFF_MOOD:I يدعى)
                     (NP-SBJ
-                    (-NONE- *T*-1))
+                      (-NONE- *T*-1))
                     (S
-                    (NP-SBJ
-                    (-NONE- *-1))
-                    (NP-PRD
-                    (NOUN_PROP ديفيد)
-                    (NOUN_PROP روزينزفيتش)))))))
-                    (VP
-                    (PV_PASS+PVSUFF_SUBJ:3MS قتل)
-                    (NP-SBJ
-                    (-NONE- *T*-2))
-                    (NP-OBJ
-                    (-NONE- *-2))
-                    (NP-MNR
-                    (NOUN+CASE_INDEF_ACC طعنا))
-                    (PP-LOC
-                    (PREP في)
-                    (NP
-                    (NP
-                    (NP
+                      (NP-SBJ
+                        (-NONE- *-1))
+                      (NP-PRD
+                        (NOUN_PROP ديفيد)
+                        (NOUN_PROP روزينزفيتش)))))))
+          (VP
+            (PV_PASS+PVSUFF_SUBJ:3MS قتل)
+            (NP-SBJ
+              (-NONE- *T*-2))
+            (NP-OBJ
+              (-NONE- *-2))
+            (NP-MNR
+              (NOUN+CASE_INDEF_ACC طعنا))
+            (PP-LOC
+              (PREP في)
+              (NP
+                (NP
+                  (NP
                     (NOUN+CASE_INDEF_GEN حي))
-                    (PP-LOC
-                    (PREP في)
-                    (NP
+                (PP-LOC
+                  (PREP في)
+                  (NP
                     (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مدينة)
                     (NP
-                    (NOUN_PROP تورونتو)))))))))))
-                    (PUNC .))
-                </parse>
-                
-                <arg f="" g="-NONE- David Rosensvich" n="1">*-1 ديفيد روزينزفيتش</arg>
-                
-                <comment/>
-            </example>
-            
-            <comment/>
-        </frame>
-        
-        <comment/>
-    </frameset>
-    
-    <comment/>
+                      (NOUN_PROP تورونتو)))))))))))
+  (PUNC .))</parse>
+
+<arg f="" g="-NONE- David Rosensvich" n="1">*-1 ديفيد روزينزفيتش</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+<example>
+<parse>قابلت صحفيا  لا اعرف اسمه ولكن زملاءه يدعونه *  عبد الرحمن</parse>
+
+<arg f="" g="his friends" n="0">* زملاءه</arg>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="Abdul Rahman" n="2">عبد الرحمن</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+
+
+
+<role argnum="1" argrole="named" vncls="" vntheta=""/>
+<role argnum="2" argrole="name of Arg1 (if separated from ARG1)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+
+
+
+
+<frameset cdef="" edef="prompt, induce" id="03" vncls="">
+<role argnum="0" argrole="causer, prompter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>إن موقف الحكومة من الفقراء يدعو *  الصحفيين إلى التعجب</parse>
+
+<arg f="" g="it" n="0">* موقف الحكومة من الفقراء</arg>
+<arg f="" g="the journalists" n="1">الصحفيين</arg>
+<arg f="" g="to wonder at" n="2">إلى التعجب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="impelled, agent" vncls="" vntheta=""/>
+<role argnum="2" argrole="impelled, action (marked by إلى)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to propagandize, publicize" id="04" vncls="">
+<role argnum="0" argrole="publicist" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كان الممثل يحاول بتواجده المستمر في البرامج أن يدعو * لفيلمه الجديد</parse>
+
+<arg f="" g="he" n="0">* ه</arg>
+<arg f="" g="for his new movie" n="1">لفيلمه الجديد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="for what (marked by ل )" vncls="" vntheta=""/>
+<role argnum="2" argrole="secondary predication" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to curse" id="05" vncls="">
+<role argnum="0" argrole="speaker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(NP-TPC-2
+            (NP
+              (DET+NOUN+CASE_DEF_NOM اليد))
+            (SBAR
+              (WHNP-1
+                (REL_PRON التي))
+              (S
+                (VP
+                  (PRT
+                    (NEG_PART لا))
+                  (IV3FS+IV+IVSUFF_MOOD:I تستطيع)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (NP-OBJ
+                    (PV+PVSUFF_SUBJ:3MS عض)
+                    (NP
+                      (NP
+                        (PVSUFF_DO:3FS ها))
+                      (NP
+                        (-NONE- *T*-1))))))))
+          (VP
+            (CV قبل)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NP
+                (CVSUFF_DO:3FS ها))
+              (NP
+                (-NONE- *T*-2)))))
+        (CONJ و)
+        (S
+          (VP
+            (CV ادع)
+            (NP-SBJ
+              (-NONE- *))
+            (PP
+              (PREP علي)
+              (NP
+                (PRON_3FS ها)))
+            (PP
+              (PREP ب)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الكسر)))))
+        (PUNC ")))</parse>
+
+<arg f="" g="you" n="0">-NONE- *</arg>
+<arg f="" g="on it" n="1">عليها</arg>
+<arg f="" g="to break" n="2">بالكسر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="utterance" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom? (marked by على)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to pray" id="06" vncls="">
+<role argnum="0" argrole="pray-er" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دعا  الرجل الله أن يعطيه الصحة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="God" n="1">الله</arg>
+<arg f="" g="to give him health" n="2">أن يعطيه الصحة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="God" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what, prayer" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raHal</id>
+
+    <frameset cdef="" edef="leave a location , to immigrate" id="01" vncls="">
+<role argnum="0" argrole="entity leaving" vncls="" vntheta=""/>
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="destination" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>رحل الرجل من هنا منذ اربعة ايام الى العراق</parse>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="from here" n="1">من هنا</arg>
+<arg f="tmp" g="four days ago" n="m">منذ اربعة ايام</arg>
+
+<comment/>
+<arg f="" g="to Iraq" n="2">الى العراق</arg>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset raHal-a.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on raHal-a</comment>
+</verb>

@@ -1,0 +1,148 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>fat~aH</id>
+
+    <frameset cdef="" edef="to open (physically) / open for business" id="01" vncls="">
+<role argnum="0" argrole="opener" vncls="" vntheta="" />
+<role argnum="1" argrole="thing opened" vncls="" vntheta="" />
+<role argnum="2" argrole="instrument (rare)" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+          (VP
+            (PV+PVSUFF_SUBJ:3FS فتحت)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (DET+NOUN+CASE_DEF_ACC الباب))
+            (SBAR-PRP
+              (SUB_CONJ كي)
+              (S
+                (VP
+                  (IV3FS+IV+IVSUFF_MOOD:S تأخذ)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (NP-OBJ
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الجريدة)))))))
+                    (PUNC .))</parse>
+<arg f="" g="she" n="0">*</arg>
+<arg f="" g="the door" n="1">الباب</arg>
+<arg f="prp" g="so she may grab the paper" n="m">كي تأخذ الجريدة</arg>
+
+<comment />
+</example>
+<example>
+<parse>فتح  عمر الباب بالمفتاح</parse>
+<arg f="" g="Umar" n="0">عمر</arg>
+<arg f="" g="the door" n="1">الباب</arg>
+<arg f="" g="with the key" n="2">بالمفتاح</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset fataH-a.01
+Based on roleset fataH-v.01</comment>
+</frameset>
+<frameset cdef="" edef="to make avialable for use / opportunity" id="02" vncls="">
+<role argnum="0" argrole="opener" vncls="" vntheta="" />
+<role argnum="1" argrole="thing opened" vncls="" vntheta="" />
+<role argnum="2" argrole="benefactive" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(PUNC ,)
+    (SBAR-TMP
+      (SUB_CONJ بينما)
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:3FS فتحت)
+          (NP-SBJ
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM المملكة)
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM العربية)
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM السعودية))
+          (NP-OBJ
+            (NOUN+CASE_DEF_ACC باب)
+            (NP
+              (NOUN+CASE_DEF_GEN تقديم)
+              (NP
+                (NP
+                  (NOUN+CASE_INDEF_GEN عروض))
+                (PP
+                  (PREP ل)
+                  (NP
+                    (NOUN+CASE_DEF_GEN تنفيذ)
+                    (NP
+                      (NP
+                        (NP
+                          (NOUN+CASE_INDEF_GEN مشروع)
+                          (ADJ+CASE_INDEF_GEN سكني))
+                        (PP-LOC
+                          (PREP في)
+                          (NP
+                            (NOUN+CASE_DEF_GEN موقع)
+                            (NP
+                              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN القلعة)))))</parse>
+<arg f="" g="NP-SBJ" n="0">المملكة العربية السعودية</arg>
+<arg f="" g="the doors to offers for a housing complex where the castle stands" n="1">باب تقديم عروض ل تنفيذ مشروع سكني في موقع القلعة</arg>
+
+<comment />
+</example>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS اكد)
+    (NP-SBJ
+      (NP
+        (NOUN+CASE_DEF_NOM وزير)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الاقتصاد)))
+      (NP
+        (NOUN_PROP باسل)
+        (NOUN_PROP فليحان)))
+    (SBAR
+      (PUNC &quot;)
+      (SUB_CONJ ان)
+      (S
+        (S
+          (NP-TPC-1
+            (NP
+              (NOUN+CASE_DEF_ACC اتفاق)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الشراكة)))
+            (NP-ADV
+              (NOUN+CASE_DEF_ACC مع)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الاتحاد)
+                (DET+ADJ+CASE_DEF_GEN الاوروبي))))
+        (S
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يفتح)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NOUN+CASE_DEF_ACC اسواق)
+              (NP
+                (POSS_PRON_3FS ها)))
+            (NP-ADV
+              (NOUN+CASE_DEF_ACC امام)
+              (NP
+                (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN المنتجات)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN اللبنانية))))))
+      (PUNC &quot;)))
+  (PUNC .))</parse>
+<arg f="" g="the trade agreement with the EU" n="0">*  &lt; اتفاق الشراكة مع الاتحاد الاوروبي</arg>
+<arg f="" g="its markets" n="1">اسواقها</arg>
+<arg f="" g="to Lebanese products" n="2">امام المنتجات اللبنانية</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset fataH-a.02
+Based on roleset fataH-v.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on fataH-v</comment>
+</verb>

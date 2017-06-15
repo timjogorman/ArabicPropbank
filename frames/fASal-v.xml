@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fASal</id>
+
+<frameset cdef="" edef="to separate onself from" id="01" vncls="">
+<role argnum="0" argrole="entity separating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فاصل الرجل شريكه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his partner" n="1">شريكه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from whom or what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="negotiating for, arguing" id="02" vncls="">
+<role argnum="0" argrole="entity arguing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فاصل الرجل أخاه حول موضوع الارض</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="about the land subject" n="2">حول موضوع الارض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoxazan</id>
+
+<frameset cdef="" edef="to be stocked or stored" id="01" vncls="">
+<role argnum="1" argrole="things stocked" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انخزن الجبن في الجرة</parse>
+
+<arg f="" g="the cheese" n="1">الجبن</arg>
+<arg f="" g="in a jar" n="2">في الجرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

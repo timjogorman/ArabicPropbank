@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miOaj~ar</id>
+
+<frameset cdef="" edef="to rent out, to lease" id="01" vncls="">
+<role argnum="0" argrole="first party" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أجر الرجل محله لاخيه</parse>
+
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his store" n="1">محله</arg>
+<arg f="" g="to his brother" n="2">لاخيه</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things rented" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="money amount for  rent" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHa$ar</id>
+
+<frameset cdef="" edef="to be inserted or compressed" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحشر القطن داخل الوسادة</parse>
+
+<arg f="" g="cotton" n="1">القطن</arg>
+<arg f="" g="inside the pillow" n="2">داخل الوسادة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity inserted" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be risen from death" id="02" vncls="">
+<role argnum="0" argrole="agent (God)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ينحشر الناس يوم القيامة</parse>
+
+<arg f="" g="people" n="1">الناس</arg>
+<arg f="tmp" g="doomsday" n="m">يوم القيامة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity risen" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be combined or put together" id="03" vncls="">
+<role argnum="0" argrole="agent, entity causing some grouping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحشر الوزراء مع المجرمين في السجن</parse>
+
+<arg f="" g="ministers" n="1">الوزراء</arg>
+<arg f="" g="with criminals" n="2">مع المجرمين</arg>
+<arg f="loc" g="in jail" n="m">في السجن</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things combined or collected" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what (if seperate from ARG1)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

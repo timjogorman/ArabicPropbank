@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoEataq</id>
+
+<frameset cdef="" edef="to be free or released" id="01" vncls="">
+<role argnum="1" argrole="entity made free" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انعتق الرجل من الحريق</parse>
+
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="from the fire" n="2">من الحريق</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from (marked by من)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

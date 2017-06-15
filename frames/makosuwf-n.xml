@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>makosuwf</id>
+<comment/>
+<frameset cdef="" edef="feeling embarrassed" id="01" vncls="">
+<role argnum="1" argrole="embarrassed entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وهي مش مكسوفة * من اللي بتعمله</parse>
+<comment/>
+<arg f="" g="she" n="1">* هي</arg>
+<arg f="" g="from what she is doing" n="2">من اللي بتعمله</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="cause of shame" vncls="" vntheta=""/>
+</frameset>
+</verb>

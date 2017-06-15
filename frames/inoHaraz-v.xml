@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>inoHaraz</id>
+
+<frameset cdef="" edef="to be protected in a safe place" id="01" vncls="">
+<role argnum="1" argrole="things protected" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحرز القمح  في المستودع</parse>
+
+<arg f="" g="weat" n="1">القمح</arg>
+<arg f="" g="in the wharehouse" n="2">في المستودع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

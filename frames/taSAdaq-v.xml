@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taSAdaq</id>
+<comment/>
+<frameset cdef="" edef="to befriend" id="01" vncls="">
+<role argnum="0" argrole="entity becoming friend" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تصادق الرجل مع ضديقته قبل أربع سنوات</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with his girl friend" n="1">مع ضديقته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

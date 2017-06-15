@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rAj</id>
+<comment>EGYPTIAN ARABIC Framefile based on rAj-u-v</comment>
+<frameset cdef="" edef="be spread, be widely distributed" id="01" vncls="">
+<role argnum="1" argrole="things distributed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الاخبار اللي راجت * حوله في مصر</parse>
+<comment/>
+<arg f="" g="the news" n="1">* الاخبار</arg>
+<arg f="" g="about him" n="2">حوله</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="2" argrole="attribute of arg1" vncls="" vntheta=""/>
+</frameset>
+</verb>

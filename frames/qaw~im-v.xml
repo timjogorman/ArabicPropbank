@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaw~im</id>
+
+    <frameset cdef="" edef="to rectify, correct , amend, to help or make someone stand" id="02" vncls="">
+<role argnum="0" argrole="agent, rectifier" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing corrected" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>قوم الولد خطأه</parse>
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="his mistake" n="1">خطأه</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset qaw~am.02</comment>
+</frameset>
+
+<frameset cdef="" edef="to turn others against, to raise a subject against" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قومنا الدنيا عليهم</parse>
+
+<arg f="" g="we" n="0">نا</arg>
+<arg f="" g="the world" n="1">الدنيا</arg>
+<arg f="" g="on them" n="2">عليهم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things risen" vncls="" vntheta=""/>
+<role argnum="2" argrole="against whom" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on qaw~am</comment>
+</verb>

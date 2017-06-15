@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>niEis</id>
+<comment/>
+<frameset cdef="" edef="to feel sleepy, to drowse away" id="01" vncls="">
+<role argnum="0" argrole="entity sleepy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نعس الطالب في الصف</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="loc" g="in the class" n="m">في الصف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

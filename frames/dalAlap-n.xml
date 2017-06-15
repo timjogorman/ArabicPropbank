@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dalAlap</id>
+<comment/>
+<frameset cdef="" edef="meaning, sign, pointing to" id="01" vncls="">
+<role argnum="1" argrole="things meaning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أعماله دلالة *على مستواه الدراسي</parse>
+<comment/>
+<arg f="" g="his works" n="1">أعماله</arg>
+<arg f="" g="on his education level" n="2">على مستواه الدراسي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

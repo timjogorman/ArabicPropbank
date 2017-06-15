@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saqim</id>
+<comment/>
+<frameset cdef="" edef="to be or become sick or ill" id="01" vncls="">
+<role argnum="1" argrole="entity becoming sick" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سقم الرجل من كثر أكل التوابل</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="from eating a lot of spices" n="2">من كثر أكل التوابل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qAnuwn</id>
+<comment/>
+<frameset cdef="" edef="law" id="01" vncls="">
+<role argnum="1" argrole="whose law" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قانون البلد لا يسمح بالتدخين للصغار</parse>
+<comment/>
+<arg f="" g="the country" n="1">البلد</arg>
+<arg f="" g="will not allow for the children to smoke" n="2">لا يسمح بالتدخين للصغار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="what the law state" vncls="" vntheta=""/>
+</frameset>
+</verb>

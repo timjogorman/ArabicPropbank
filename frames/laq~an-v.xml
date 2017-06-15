@@ -1,52 +1,67 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>laq~an</id>
-    <comment/>
-    <frameset cdef="" edef="instruct, inspire" id="01">
-        <role argnum="0" argrole="instructor"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>(S
-                    (VP
-                    (IV3FS+IV+IVSUFF_MOOD:I تلقن)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (PP
-                    (PREP ب)
-                    (NP
-                    (NOUN+CASE_DEF_GEN قدر)
-                    (SBAR
-                    (SUB_CONJ ما)
-                    (S
-                    (S
-                    (VP
+<id>laq~an</id>
+
+<frameset cdef="" edef="instruct, inspire" id="01" vncls="Eal~ama-1">
+<role argnum="0" argrole="instructor" vncls="Eal~ama-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (VP
+        (IV3FS+IV+IVSUFF_MOOD:I تلقن)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP ب)
+          (NP
+            (NOUN+CASE_DEF_GEN قدر)
+            (SBAR
+              (SUB_CONJ ما)
+              (S
+                (S
+                  (VP
                     (IV3FS+IV+IVSUFF_MOOD:I تخدم)
                     (NP-SBJ
-                    (-NONE- *))
+                      (-NONE- *))
                     (NP-OBJ
-                    (-NONE- *RNR*-5))))
-                    (CONJ او)
-                    (S
-                    (VP
+                      (-NONE- *RNR*-5))))
+                (CONJ او)
+                (S
+                  (VP
                     (PRT
-                    (NEG_PART لا))
+                      (NEG_PART لا))
                     (IV3FS+IV+IVSUFF_MOOD:I تخدم)
                     (NP-SBJ
-                    (-NONE- *))
+                      (-NONE- *))
                     (NP-OBJ
-                    (-NONE- *RNR*-5))))
-                    (NP-OBJ-5
-                    (DET+NOUN+CASE_DEF_ACC الانسان))))))))
-                </parse>
-                <comment/>
-                <arg f="" g="" n="0">-NONE- *</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="student"/>
-    </frameset>
+                      (-NONE- *RNR*-5))))
+                (NP-OBJ-5
+                  (DET+NOUN+CASE_DEF_ACC الانسان))))))))</parse>
+
+<arg f="" g="NONE" n="0">-NONE- *</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="student" vncls="Eal~ama-1" vntheta="recipient"/>
+
+<role argnum="2" argrole="instruction" vncls="Eal~ama-1" vntheta="topic"/>
+
+<comment/>
+</frameset>
+
+
+<comment/>
 </verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>takAlam</id>
+<comment/>
+<frameset cdef="" edef="to converse, to talk or speak to one another" id="01" vncls="">
+<role argnum="0" argrole="talker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تكالم الشقيقان بعد خصام طويل</parse>
+<comment/>
+<arg f="" g="the two brothers" n="0">الشقيقان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="listener" vncls="" vntheta=""/>
+<role argnum="2" argrole="subject" vncls="" vntheta=""/>
+</frameset>
+</verb>

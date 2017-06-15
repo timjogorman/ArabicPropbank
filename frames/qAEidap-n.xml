@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qAEidap</id>
+<comment/>
+<frameset cdef="" edef="rule, precept, principle" id="01" vncls="">
+<role argnum="1" argrole="things that are principle" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا القانون هو القاعدة * للحياة</parse>
+<comment/>
+<arg f="" g="this law" n="1">هذا القانون</arg>
+<arg f="" g="for life" n="2">للحياة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

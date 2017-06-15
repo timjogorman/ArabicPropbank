@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maDar-u</id>
+<comment/>
+<frameset cdef="" edef="to be or become sour" id="01" vncls="">
+<role argnum="1" argrole="entity becoming sour" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مضر الحليب من الحر</parse>
+<comment/>
+<arg f="" g="the milk" n="1">الحليب</arg>
+<arg f="cau" g="because of the heat" n="m">من الحر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

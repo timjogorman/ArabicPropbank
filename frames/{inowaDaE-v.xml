@@ -1,0 +1,92 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inowaDaE</id>
+
+<frameset cdef="" edef="to be put or placed (physically)" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انوضعت المزهرية على المائدة</parse>
+
+<arg f="" g="the vase" n="1">المزهرية</arg>
+<arg f="" g="on the table" n="2">على المائدة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing being put or placed" vncls="" vntheta=""/>
+<role argnum="2" argrole="location or place" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be born" id="02" vncls="">
+<role argnum="0" argrole="the mother" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انوضع إبنها في الصباح</parse>
+
+<arg f="" g="her son" n="1">إبنها</arg>
+<arg f="tmp" g="in the morning" n="m">في الصباح</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the baby" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be planned" id="03" vncls="">
+<role argnum="0" argrole="planner - agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انوضع مشروع الاتفاق لبناء مطار دولي</parse>
+
+<arg f="" g="the draft agreement" n="1">مشروع الاتفاق</arg>
+<arg f="" g="to build an international airport" n="2">لبناء مطار دولي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="planned - patient" vncls="" vntheta=""/>
+<role argnum="2" argrole="what for - purpose" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be written" id="04" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انوضعت خمسة كتب هذه السنة</parse>
+
+<arg f="" g="five books" n="1">خمسة كتب</arg>
+<arg f="tmp" g="this year" n="m">هذه السنة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing written" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

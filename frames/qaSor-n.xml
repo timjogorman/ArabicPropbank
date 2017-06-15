@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaSor</id>
+<comment/>
+<frameset cdef="" edef="limitation" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الرئيس بقصر * الحقوق لنفسه فقط</parse>
+<comment/>
+<arg f="" g="the president" n="0">الرئيس</arg>
+<arg f="" g="the rights" n="1">الحقوق</arg>
+<arg f="" g="to himself only" n="2">لنفسه فقط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things limited" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

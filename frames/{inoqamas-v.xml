@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqamas</id>
+
+<frameset cdef="" edef="to dive under water (sundown)" id="01" vncls="">
+<role argnum="0" argrole="agent (sun)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقمست الشمس في المحيط</parse>
+
+<arg f="" g="sun" n="0">الشمس</arg>
+<arg f="" g="in the ocean" n="1">في المحيط</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="lacation" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

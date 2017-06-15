@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>talASaq</id>
+<comment/>
+<frameset cdef="" edef="to cohere or adhere" id="01" vncls="">
+<role argnum="1" argrole="entity stick" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلاصقت الاوراق مع بعضها</parse>
+<comment/>
+<arg f="" g="the papers" n="1">الاوراق</arg>
+<arg f="" g="with each other" n="2">مع بعضها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what or whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

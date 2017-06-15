@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotatoqal</id>
+<comment/>
+<frameset cdef="" edef="find heavy, find annoying" id="01" vncls="">
+<role argnum="0" argrole="entity finding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل مستتقل * أخوه كمان</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his brother" n="1">أخوه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things found heavy" vncls="" vntheta=""/>
+</frameset>
+</verb>

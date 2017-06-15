@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoSAHib</id>
+
+<frameset cdef="" edef="to befriend" id="01" vncls="">
+<role argnum="0" argrole="agentive friend" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>رجل يصاحب * الدب القطبي هل تصدق هذه الصداقة الموجودة بين الدب القطبي والانسان ؟</parse>
+
+<arg f="" g="he" n="0">* &gt; رجل</arg>
+<arg f="" g="polar bear" n="1">الدب القطبي</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="a new friend" vncls="" vntheta="" />
+<comment>Based on roleset SAHab.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on SAHab</comment>
+<frameset cdef="" edef="to associate with, to keep company with (رافق )" id="02" vncls="">
+<role argnum="0" argrole="accompanier (agent)" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>صاحب الرجل أخاه في جولة من المدينة الى القرية</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="in a tour" n="4">في جولة</arg>
+<arg f="" g="from the city" n="2">من المدينة</arg>
+<arg f="" g="to the village" n="3">الى القرية</arg>
+</example>
+<comment />
+</frame>
+<comment>رافق
+Based on roleset SAHab.02</comment>
+<role argnum="1" argrole="accompanied (patient)" vncls="" vntheta="" />
+<role argnum="2" argrole="start point" vncls="" vntheta="" />
+<role argnum="3" argrole="end point" vncls="" vntheta="" />
+<role argnum="4" argrole="accompany in what, task" vncls="" vntheta="" />
+</frameset>
+</verb>

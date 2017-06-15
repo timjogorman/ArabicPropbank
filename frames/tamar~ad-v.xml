@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamar~ad</id>
+
+<frameset cdef="" edef="to rebel against, to revolt" id="01" vncls="">
+<role argnum="0" argrole="rebel agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تمرد الجندي على قائده</parse>
+
+<arg f="" g="the soldier" n="0">الجندي</arg>
+<arg f="" g="against his commander" n="1">على قائده</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="rebel against (Usually comes after على  )" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

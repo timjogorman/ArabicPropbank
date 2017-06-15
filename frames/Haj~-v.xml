@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Haj~</id>
+<comment>EGYPTIAN ARABIC based on Haj~-iu</comment>
+    <frameset cdef="" edef="to go on pilgrimage" id="01">
+<role argnum="1" argrole="entity going as pilgrim" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>حج اخي العام الماضي برفقة ابي</parse>
+<comment />
+<arg f="" g="my brother" n="1">اخي</arg>
+<arg f="tmp" g="last year" n="m">العام الماضي</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Haj~-iu.01</comment>
+</frameset>
+</verb>

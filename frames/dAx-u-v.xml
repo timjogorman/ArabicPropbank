@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dAx-u</id>
+
+<frameset cdef="" edef="to be or become dizzy" id="01" vncls="">
+<role argnum="0" argrole="entity getting dizzy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انا دخت * من كترة الكلام</parse>
+
+<arg f="" g="he" n="0">* انا</arg>
+<arg f="" g="from talking a lot" n="1">من كترة الكلام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to submit or succumb, to subjugate" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>داخ * البلاد</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the country" n="1">البلاد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

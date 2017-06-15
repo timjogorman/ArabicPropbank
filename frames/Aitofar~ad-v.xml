@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitofar~ad</id>
+<comment>EGYPTIAN ARABIC Framefile based on tafar~ad-v</comment>
+<frameset cdef="" edef="to do alone, to do by oneself" id="01" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>هم تفردوا * بالموضوع</parse>
+<comment />
+<arg f="" g="they" n="0">* هم</arg>
+<arg f="" g="with the subject" n="1">بالموضوع</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset tafar~ad-v.01</comment>
+<role argnum="1" argrole="things done" vncls="" vntheta="" />
+</frameset>
+</verb>

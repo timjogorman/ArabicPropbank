@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>majomaE</id>
+<comment/>
+<frameset cdef="" edef="convention or assembly, confluence" id="01" vncls="">
+<role argnum="1" argrole="the assmblye" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لن اتوقف حتى أبلغ مجمع الفن</parse>
+<comment/>
+<arg f="" g="the art" n="1">الفن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TaHar</id>
+<comment/>
+<frameset cdef="" edef="to make loud noise while breathing" id="01" vncls="">
+<role argnum="0" argrole="entity making the noise" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طحر الرجل في نومه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="tmp" g="while sleeping" n="m">في نومه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to throw" id="02" vncls="">
+<role argnum="0" argrole="entity throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طحر الرجل الكتاب على الارض</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the book" n="1">الكتاب</arg>
+<arg f="" g="on the floor" n="3">على الارض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+</verb>

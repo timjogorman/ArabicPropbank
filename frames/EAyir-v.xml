@@ -1,0 +1,113 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAyir</id>
+
+<frameset cdef="" edef="to uglify, to make fun of" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (SBAR-SBJ-NOM
+        (WHNP-1
+          (REL_PRON اِللِّي))
+        (S
+          (VP
+            (IV3MS+IV يِعايِر)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (NP
+                (NOUN حَدّ))
+              (PP
+                (PREP فِي)
+                (NP
+                  (NOUN_PROP مَصْر))))
+            (PP
+              (PREP بِ)
+              (NP
+                (NOUN رِزْق)
+                (NP
+                  (POSS_PRON_3MS ُه)))))))
+      (ADVP
+        (NOUN فَقَط))
+      (SBAR-NOM-PRD
+        (WHNP-2
+          (-NONE- 0))
+        (S
+          (VP
+            (ADJ.VN ناسِي)
+            (NP-SBJ
+              (-NONE- *T*-2))
+            (SBAR
+              (SBAR
+                (SUB_CONJ إِنّ)
+                (S
+                  (NP-TPC-4
+                    (DET+ADJ المَصْرِي))
+                  (VP
+                    (PRT
+                      (PROG_PART بِ))
+                    (IV3MS+IV ياخُد)
+                    (NP-SBJ
+                      (-NONE- *T*-4))
+                    (NP-OBJ
+                      (NOUN ثَمَن)
+                      (NP
+                        (NP
+                          (NOUN جَهْد)
+                          (NP
+                            (POSS_PRON_3MS ُه)))
+                        (CONJ وِ)
+                        (NP
+                          (NOUN عَمَل)
+                          (NP
+                            (POSS_PRON_3MS ُه)))
+                        (CONJ وِ)
+                        (NP
+                          (NOUN عِلْم)
+                          (NP
+                            (POSS_PRON_3MS ُه)))
+                        (CONJ وِ)
+                        (NP
+                          (NOUN+NSUFF_FEM_SG خِبْرَة)
+                          (NP
+                            (POSS_PRON_3MS ُه))))))))</parse>
+
+<arg f="" g="NONE" n="0">* ? NONE</arg>
+<arg f="" g="somebody in Egypt" n="1">حد في مصر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<comment>Based on roleset Eay~ar.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on Eay~ar</comment>
+<frameset cdef="" edef="to balance" id="02" vncls="">
+<role argnum="0" argrole="entity balancing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عاير الميكانيكي عجلات السيارة</parse>
+<comment/>
+<arg f="" g="the michanic" n="0">الميكانيكي</arg>
+<arg f="" g="the car tires" n="2">عجلات السيارة</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="things balanced" vncls="" vntheta=""/>
+<role argnum="2" argrole="Attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

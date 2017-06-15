@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inokabav</id>
+
+<frameset cdef="" edef="to be stinked with something" id="01" vncls="">
+<role argnum="1" argrole="entity stinked" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انكبث المطبخ برائحة السمك</parse>
+
+<arg f="" g="the kitchen" n="1">المطبخ</arg>
+<arg f="" g="the smell of fish" n="2">برائحة السمك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

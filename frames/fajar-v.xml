@@ -1,0 +1,96 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>fajar</id>
+<comment>EGYPTIAN ARABIC Framefile based on fajar-u-v</comment>
+<frameset cdef="" edef="to lead a dissolute life, to commit adultery" id="01" vncls="">
+<role argnum="0" argrole="entity commiting adultery" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>a(TOP
+  (S
+    (S
+      (NP-VOC
+        (NOUN اللّٰهُمَّ))
+      (VP
+        (PSEUDO_VERB إِنَّ)
+        (NP-SBJ-1
+          (PRON_3MS هُ))
+        (S
+          (VP
+            (PRT
+              (VERB_PART قَدْ))
+            (PV+PVSUFF_SUBJ:3MS تَجَبَّر)
+            (NP-SBJ
+              (-NONE- *-1))))))
+    (CONJ وَ)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3MS فَجَرَ)
+        (NP-SBJ
+          (-NONE- *))))
+    (CONJ وَ)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3MS أَشاع)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (DET+NOUN+NSUFF_FEM_SG الفاحِشَة))
+        (NP-ADV
+          (NOUN بِيْن)
+          (NP
+            (DET+ADJ+NSUFF_MASC_PL_ACC المُسْلِمِين)))))
+    (TYPO فا)
+    (S
+      (VP
+        (CV+CVSUFF_SUBJ:2MS إِنْتَقِمْ)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP مِن)
+          (NP
+            (PRON_3MS هُ)))
+        (NP-VOC
+          (PRT
+            (VOC_PART يَا))
+          (NOUN رَبّ)))))
+  (S
+    (VP
+      (IV1S+IV أُرِيد)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NP
+          (NP
+            (NOUN إِعْدام)
+            (NP
+              (POSS_PRON_3MS ُه)))
+          (PP
+            (PREP فِي)
+            (NP
+              (DET+NOUN الدُنْيا))))
+        (CONJ وَ)
+        (NP
+          (NP
+            (DET+NOUN القَصاص))
+          (PP
+            (PREP مِن)
+            (NP
+              (PRON_3MS هُ)))))
+      (NP-ADV
+        (NOUN أَمام)
+        (NP
+          (NOUN رَبّ)
+          (NP
+            (DET+NOUN+NSUFF_MASC_PL العالَمِين)))))))</parse>
+<comment />
+<arg f="" g="he" n="0">* هُ</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset fajar-u-v.01</comment>
+<role argnum="1" argrole="the other" vncls="" vntheta="" />
+</frameset>
+</verb>

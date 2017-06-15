@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bakal</id>
+<comment/>
+<frameset cdef="" edef="to mix or blend, to combine" id="01" vncls="">
+<role argnum="0" argrole="mixer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بكل المتكلم المواضيع ببعضها</parse>
+<comment/>
+<arg f="" g="the speaker" n="0">المتكلم</arg>
+<arg f="" g="the subjects" n="1">المواضيع</arg>
+<arg f="" g="with each other" n="2">ببعضها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things mixed" vncls="" vntheta=""/>
+<role argnum="2" argrole="second item if separated from ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

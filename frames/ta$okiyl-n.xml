@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ta$okiyl</id>
+<comment/>
+<frameset cdef="" edef="creating, forming, shaping" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام المدرس بتشكيل * فريق كرة القدم من الصفوف الاولى</parse>
+<comment/>
+<arg f="" g="the teacher" n="0">* المدرس</arg>
+<arg f="" g="the football team" n="2">فريق كرة القدم</arg>
+<arg f="" g="from the first grades" n="1">من الصفوف الاولى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="parts" vncls="" vntheta=""/>
+<role argnum="2" argrole="whole" vncls="" vntheta=""/>
+</frameset>
+</verb>

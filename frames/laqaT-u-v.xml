@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laqaT-u</id>
+
+<frameset cdef="" edef="to pick up, to catch, to take up" id="01" vncls="">
+<role argnum="0" argrole="entity pickking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لقط الرجل منديلا من الارض</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="handkerchief" n="1">منديلا</arg>
+<arg f="" g="from the ground" n="2">من الارض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things picked" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to patch a garment" id="02" vncls="">
+<role argnum="0" argrole="entity patching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لقط الرجل قميصه بقطعة من قميص قديم</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his shirt" n="1">قميصه</arg>
+<arg f="" g="with a piece" n="2">بقطعة</arg>
+<arg f="" g="from an old shirt" n="3">من قميص قديم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things patched" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="source of the patch" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

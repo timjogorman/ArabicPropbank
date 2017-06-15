@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$ahaq</id>
+<comment/>
+<frameset cdef="" edef="to inhale, to take a deep breath, to cry" id="01" vncls="">
+<role argnum="0" argrole="entity inhaling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شهق الولد</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الولد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attributed to ARG0" vncls="" vntheta=""/>
+</frameset>
+</verb>

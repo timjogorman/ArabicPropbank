@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaEoSar</id>
+
+<frameset cdef="" edef="to make juice by squeezing a fruit" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استعصر الفلاح الزيت من الزيتون</parse>
+
+<arg f="" g="farmer" n="0">الفلاح</arg>
+<arg f="" g="oil" n="1">الزيت</arg>
+<arg f="" g="from olives" n="2">من الزيتون</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="juice or liquid" vncls="" vntheta=""/>
+<role argnum="2" argrole="the source of juice or liquid (fruit)" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

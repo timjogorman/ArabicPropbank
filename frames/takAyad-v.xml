@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>takAyad</id>
+<comment/>
+<frameset cdef="" edef="to trick or deceive" id="01" vncls="">
+<role argnum="0" argrole="entity cheating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تكايد الرجلان على بعضهما</parse>
+<comment/>
+<arg f="" g="the two men" n="0">الرجلان</arg>
+<arg f="" g="on each other" n="1">على بعضهما</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="second rntity if separated from ARG0" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

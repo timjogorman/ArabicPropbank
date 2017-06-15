@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taSan~at</id>
+<comment/>
+<frameset cdef="" edef="to listen to, to pay attention to, to spy on someone by listening" id="01" vncls="">
+<role argnum="0" argrole="entity litening" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده قاعد يتصنت * على كل حاجة بنقولها</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="on every thing we say" n="1">على كل حاجة بنقولها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what or whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

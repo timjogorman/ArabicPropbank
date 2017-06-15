@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Dab~aT</id>
+
+<frameset cdef="" edef="to arrange or put in order or correct" id="01" vncls="">
+<role argnum="0" argrole="corrector" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا عاوز أضبط * الامورفي البيت قبل السفر</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="things at home" n="1">الامورفي البيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things corrected" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

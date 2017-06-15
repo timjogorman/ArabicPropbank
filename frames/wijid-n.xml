@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>wijid</id>
+<comment>Framefile based on wajad-i</comment>
+<frameset cdef="" edef="to exist" id="02" vncls="">
+<role argnum="1" argrole="things exists" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>لا يوجد معي أي شيئ</parse>
+<comment />
+<arg f="" g="with me" n="2">معي</arg>
+<arg f="" g="any thing" n="1">أي شيئ</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset wajad-i.02</comment>
+<role argnum="2" argrole="where or with what" vncls="" vntheta="" />
+</frameset>
+</verb>

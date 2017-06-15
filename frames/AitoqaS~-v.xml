@@ -1,0 +1,17 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoqaS~</id>
+<frameset cdef="" edef="to cut" id="01">
+<role argnum="0" argrole="cutter" />
+<role argnum="1" argrole="thing being cut" />
+<role argnum="2" argrole="instrument" />
+<frame>
+<example>
+<parse>
+ثم قص الوزير فرنجيه الشريط و تفقد * مع الفاعليات و الحضور اقسام المستشفى .
+</parse>
+<arg f="" g="Minister Faranje" n="0">الوزير فرنجيه</arg>
+<arg f="" g="the tape" n="1">الشريط</arg>
+</example>
+</frame>
+<comment>Based on roleset qaS~-u-v.01</comment></frameset>
+<comment>EGYPTIAN ARABIC Framefile based on qaS~-u-v</comment></verb>

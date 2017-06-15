@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>labak</id>
+<comment/>
+<frameset cdef="" edef="to mix or blend" id="01" vncls="">
+<role argnum="0" argrole="mixer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لبك العامل الأمور في بعضها</parse>
+<comment/>
+<arg f="" g="the worker" n="0">العامل</arg>
+<arg f="" g="the matters" n="1">الأمور</arg>
+<arg f="" g="in each other" n="2">في بعضها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things mixed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what if separated from ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

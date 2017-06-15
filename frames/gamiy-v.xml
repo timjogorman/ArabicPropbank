@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gamiy</id>
+<comment/>
+<frameset cdef="" edef="to faint" id="01" vncls="">
+<role argnum="1" argrole="entity fainting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غمي عليه من الألم</parse>
+<comment/>
+<arg f="" g="him" n="1">عليه</arg>
+<arg f="" g="from pain" n="2">من الألم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

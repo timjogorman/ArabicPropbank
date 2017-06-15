@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mafoluwj</id>
+<comment/>
+<frameset cdef="" edef="hemiplegic" id="01" vncls="">
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الطفل مفلوج * منذ ولادته</parse>
+<comment/>
+<arg f="" g="the baby" n="1">* الطفل</arg>
+<arg f="tmp" g="since his birth" n="m">منذ ولادته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="split from the middle" id="02" vncls="">
+<role argnum="1" argrole="things split" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الخشب مفلوج * من المعمل</parse>
+<comment/>
+<arg f="" g="the wood" n="1">* الخشب</arg>
+<arg f="" g="from the factory" n="2">من المعمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

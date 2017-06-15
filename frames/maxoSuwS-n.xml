@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maxoSuwS</id>
+<comment/>
+<frameset cdef="" edef="custom / specified, special" id="01" vncls="">
+<role argnum="1" argrole="things special" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الكتاب مخصوص * للأطفال</parse>
+<comment/>
+<arg f="" g="this book" n="1">* هذا الكتاب</arg>
+<arg f="" g="for the children" n="2">للأطفال</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what (marked by ل)" vncls="" vntheta=""/>
+<role argnum="3" argrole="by whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EA}im</id>
+<comment/>
+<frameset cdef="" edef="floating" id="01" vncls="">
+<role argnum="1" argrole="entity floating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان الزورق عائما * على الماء</parse>
+<comment/>
+<arg f="" g="the boat" n="1">*  الزورق</arg>
+<arg f="" g="on the water" n="2">على الماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

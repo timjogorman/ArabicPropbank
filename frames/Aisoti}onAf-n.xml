@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisoti}onAf</id>
+<frameset cdef="" edef="to resume, begin again" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="them" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (IV3MS+IV+IVSUFF_MOOD:I يستأنف)
+    (NP-SBJ
+      (NOUN_PROP ماضي))
+    (NP-OBJ
+      (NOUN+NSUFF_FEM_PL+CASE_DEF_ACC تحقيقات)
+      (NP
+        (POSS_PRON_3MS ه)))
+    (NP-TMP
+      (DET+NOUN+CASE_DEF_ACC اليوم)))
+  (PUNC .))</parse>
+<arg f="" g="Madi" n="0">ماضي</arg>
+<arg f="" g="his investigations" n="1">تحقيقاته</arg>
+<arg f="tmp" g="today" n="m">اليوم</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to appeal (to the court)" id="02" vncls="">
+<role argnum="0" argrole="entity appealing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قدم الرجل استئنافا * للمحكمة حول قضيته</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="to the court" n="1">للمحكمة</arg>
+<arg f="" g="about his case" n="2">حول قضيته</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="to whom &quot;mostly Court:" vncls="" vntheta=""/>
+<role argnum="2" argrole="theme" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,24 +1,29 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Oaqosam</id>
-    <comment/>
-    <frameset cdef="" edef="to swear" id="01">
-        <role argnum="0" argrole="swearer"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>النائب العام يقسم * علي المصحف أن إحالة سرور وعزمي والشريف للنيابة العامة مسألة وقت</parse>
-                <comment/>
-                <arg f="" g="he" n="0">* &gt; النائب العام</arg>
-                <arg f="" g="That the transfer of Fathi Sorour, Azmi and  Al-Sharif to the Public Prosecutor's a matter of time" n="1">أن إحالة سرور وعزمي والشريف للنيابة العامة مسألة وقت</arg>
-                <arg f="" g="on the Koran" n="2"/>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="promise"/>
-        <role argnum="2" argrole="on what ? (marked by بـ)"/>
-    </frameset>
+<id>Oaqosam</id>
+
+<frameset cdef="" edef="to swear" id="01" vncls="">
+<role argnum="0" argrole="swearer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>النائب العام يقسم * علي المصحف أن إحالة سرور وعزمي والشريف للنيابة العامة مسألة وقت</parse>
+
+<arg f="" g="he" n="0">* &gt; النائب العام</arg>
+<arg f="" g="That the transfer of Fathi Sorour, Azmi and  Al-Sharif to the Public Prosecutor's a matter of time" n="1">أن إحالة سرور وعزمي والشريف للنيابة العامة مسألة وقت</arg>
+<arg f="" g="on the Koran" n="2">علي المصحف</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="promise" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what ? (marked by بـ)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

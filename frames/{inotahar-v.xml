@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotahar</id>
+<comment/>
+<frameset cdef="" edef="" id="01" vncls="">
+<role argnum="0" argrole="the one who killed himself" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انتحرت الفتاة</parse>
+<comment/>
+<arg f="" g="the girl" n="0">الفتاة</arg>
+</example>
+<comment/>
+</frame>
+<comment>to commit suicide</comment>
+</frameset>
+</verb>

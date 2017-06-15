@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faD~</id>
+<comment/>
+<frameset cdef="" edef="finishing, stopping, ending" id="01" vncls="">
+<role argnum="0" argrole="finisher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل فض * الخناقة بالعافية</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="the fight" n="1">الخناقة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things finished" vncls="" vntheta=""/>
+</frameset>
+</verb>

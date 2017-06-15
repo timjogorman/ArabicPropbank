@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tadowiyn</id>
+<comment/>
+<frameset cdef="" edef="writing down, register" id="01" vncls="">
+<role argnum="0" argrole="author" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الكاتب بتدوين * المعلومات في السجل</parse>
+<comment/>
+<arg f="" g="the clerk" n="0">الكاتب</arg>
+<arg f="" g="the information" n="1">المعلومات</arg>
+<arg f="" g="in the records" n="2">في السجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="notation" vncls="" vntheta=""/>
+<role argnum="2" argrole="place" vncls="" vntheta=""/>
+</frameset>
+</verb>

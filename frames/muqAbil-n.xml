@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muqAbil</id>
+<comment/>
+<frameset cdef="" edef="facing, opposite to, in return of, exchange of" id="01" vncls="">
+<role argnum="1" argrole="entity facing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جلس المعلم مقابل * التلميذ في الامتحان</parse>
+<comment/>
+<arg f="" g="the teacher" n="1">* المعلم</arg>
+<arg f="" g="the student" n="2">التلميذ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="facing what" vncls="" vntheta=""/>
+</frameset>
+</verb>

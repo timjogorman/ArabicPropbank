@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqalaY</id>
+
+<frameset cdef="" edef="to be fried" id="01" vncls="">
+<role argnum="1" argrole="things fried" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقلى السمك</parse>
+
+<arg f="" g="the fish" n="1">السمك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

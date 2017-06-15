@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xabar</id>
+<comment/>
+<frameset cdef="" edef="news, information, predicate" id="01" vncls="">
+<role argnum="1" argrole="the news" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جائنا هذا الخبر عن ما يجري في العراق</parse>
+<comment/>
+<arg f="" g="this news" n="1">هذا الخبر</arg>
+<arg f="" g="about what is happening in Iraq" n="3">عن ما يجري في العراق</arg>
+</example>
+<comment/>
+<example>
+<parse>سمعنا خبر وفاة الرجل من أهله</parse>
+<comment/>
+<arg f="" g="the death of the man" n="1">وفاة الرجل</arg>
+<arg f="" g="from his family" n="2">من أهله</arg>
+</example>
+</frame>
+<comment/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotahab</id>
+
+<frameset cdef="" edef="to be stolen" id="01" vncls="">
+<role argnum="1" argrole="things stolen" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتهب المال من الرجل</parse>
+
+<arg f="" g="the money" n="1">المال</arg>
+<arg f="" g="the man" n="2">من الرجل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

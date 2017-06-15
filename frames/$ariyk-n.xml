@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$ariyk</id>
+<comment/>
+<frameset cdef="" edef="partner, participate" id="01" vncls="">
+<role argnum="1" argrole="partner" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو شريك * أخي في العملية</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="my brother" n="2">أخي</arg>
+<arg f="" g="in the operation" n="3">في العملية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

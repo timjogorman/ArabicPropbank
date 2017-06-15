@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotaqab</id>
+
+<frameset cdef="" edef="to put a veil or a mask on" id="01" vncls="">
+<role argnum="0" argrole="entity covering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتقب البنت بالنقاب</parse>
+
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="with a veil" n="1">بالنقاب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dalak-u</id>
+
+<frameset cdef="" edef="to massage or rub" id="01" vncls="">
+<role argnum="0" argrole="entity giving the massage" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دلكت الممرضة ظهر المريضة</parse>
+
+<arg f="" g="the nurse" n="0">الممرضة</arg>
+<arg f="" g="the patient" n="1">المريضة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="reciever" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to set, to go down" id="02" vncls="">
+<role argnum="1" argrole="entity going down" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دلكت الشمس</parse>
+
+<arg f="" g="the sun" n="1">الشمس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

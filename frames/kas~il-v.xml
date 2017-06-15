@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kas~il</id>
+<comment/>
+<frameset cdef="" edef="becoming lazy" id="01" vncls="">
+<role argnum="1" argrole="entity lazy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ارجوا انك ما تكسلش * في دراستك</parse>
+<comment/>
+<arg f="" g="he" n="1">* ك</arg>
+<arg f="" g="in your study" n="2">في دراستك</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$awaY</id>
+
+<frameset cdef="" edef="to be roasted or barbecued" id="01" vncls="">
+<role argnum="1" argrole="things roasted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انشوى اللحم بالنار</parse>
+
+<arg f="" g="the meat" n="1">اللحم</arg>
+<arg f="" g="with fire" n="2">بالنار</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

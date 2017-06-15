@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotanoSaH</id>
+
+<frameset cdef="" edef="to consult, to seek advice" id="01" vncls="">
+<role argnum="0" argrole="consulting entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>دائمًا يستنصح* مَن يكبُره سِنًّا</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="who is older than him" n="1">مَن يكبُره سِنًّ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="consulted entity" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotaHolaY</id>
+<comment>EGYPTIAN ARABIC based on {isotaHolaY</comment>
+    <frameset cdef="" edef="to find sweet, to find beautiful and nice" id="01" vncls="">
+<role argnum="0" argrole="entity finding" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>استحلى الرجل الحياة في الريف</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="life in the country side" n="1">الحياة في الريف</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="things found sweet" vncls="" vntheta="" />
+<comment />
+</frameset>
+</verb>

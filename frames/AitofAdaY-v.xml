@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitofAdaY</id>
+<comment/>
+<frameset cdef="" edef="To avoid or avert" id="01" vncls="">
+<role argnum="0" argrole="stopper, Agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أحنا لازم نتفادى * الامور دية</parse>
+<comment/>
+<arg f="" g="we" n="0">* أحنا</arg>
+<arg f="" g="these things" n="1">الامور دية</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing being avoided" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

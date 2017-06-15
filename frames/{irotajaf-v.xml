@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{irotajaf</id>
+<comment/>
+<frameset cdef="" edef="to tremble or shake" id="01">
+<role argnum="0" argrole="entity trembling"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ارتجف الطالب من الخوف</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="from fear" n="1">من الخوف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what"/>
+</frameset>
+</verb>

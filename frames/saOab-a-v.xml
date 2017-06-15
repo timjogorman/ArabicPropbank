@@ -1,0 +1,86 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saOab-a</id>
+
+<frameset cdef="" edef="to strangle" id="01" vncls="">
+<role argnum="0" argrole="strangler, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>سأبت الخادمة مخدومتها بيدها</parse>
+
+<arg f="" g="housemaid" n="0">الخادمة</arg>
+<arg f="" g="Mistress" n="1">مخدومتها</arg>
+<arg f="" g="by her hand" n="2">بيدها</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity strangled" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="To broaden, to expand" id="02" vncls="">
+<role argnum="0" argrole="agent, causing broadening" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>سأبت البلدية مساحة الحديقة</parse>
+
+<arg f="" g="the municipality" n="0">البلدية</arg>
+<arg f="" g="the park" n="1">مساحة الحديقة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing broadening" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be full, satiated" id="03" vncls="">
+<role argnum="1" argrole="the experiencer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>سأب الطفل عصيرا هذا اليوم</parse>
+
+<arg f="" g="the boy" n="1">الطفل</arg>
+<arg f="" g="juice" n="2">عصيرا</arg>
+<arg f="tmp" g="today" n="m">هذا اليوم</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="the thing that filled arg1" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

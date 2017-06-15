@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoxaraz</id>
+<comment/>
+<frameset cdef="" edef="to be needled, sutured" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انخرز القميص بالإبرة</parse>
+<comment/>
+<arg f="" g="the shirt" n="1">القميص</arg>
+<arg f="" g="with a needle" n="2">بالإبرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="clothe or leather" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

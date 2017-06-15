@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>musotahozi}</id>
+
+<frameset cdef="" edef="to deride, to mock" id="01" vncls="">
+<role argnum="0" argrole="mocker" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>استهزأ الرجل بأخيه بكلمات قاسية</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with his brother" n="1">بأخيه</arg>
+<arg f="" g="with harsh words" n="2">بكلمات قاسية</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="mocked" vncls="" vntheta="" />
+<role argnum="2" argrole="how" vncls="" vntheta="" />
+<comment>Based on roleset {isotahozaO-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on {isotahozaO-v</comment>
+</verb>

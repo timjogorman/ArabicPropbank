@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oa$Ab</id>
+<comment/>
+<frameset cdef="" edef="to make white-haired or gray-haired" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اشاب الخوف الرجل</parse>
+<comment/>
+<arg f="" g="the fear" n="0">الخوف</arg>
+<arg f="" g="the man" n="1">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

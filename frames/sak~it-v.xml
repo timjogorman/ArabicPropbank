@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>sak~it</id>
+<comment>EGYPTIAN ARABIC Framefile based on Oasokat-v</comment>
+<frameset cdef="" edef="to silence or hush, to shut up" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>OP
+  (PP-PRP
+    (PREP عَ)
+    (NP
+      (NOUN شان)
+      (S
+        (NP-SBJ
+          (DEM_PRON دِي))
+        (NP-PRD
+          (NP
+            (NOUN+NSUFF_FEM_SG حاجَة))
+          (SBAR
+            (SBAR
+              (WHNP-3
+                (-NONE- 0))
+              (S
+                (VP
+                  (PRT
+                    (PROG_PART بِ))
+                  (IV3FS+IV تِسَكِّت)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (PP
+                    (PREP بِ)
+                    (NP
+                      (NP
+                        (PRON_3FS ها))
+                      (NP
+                        (-NONE- *T*-3))))
+                  (NP-OBJ
+                    (DET+NOUN الشَباب))
+                  (NP-ADV
+                    (NOUN_QUANT+NSUFF_FEM_SG شُوَيَّة)))))</parse>
+<comment />
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="mnr" g="with it" n="m">بها</arg>
+<arg f="" g="the yought a little" n="1">الشباب شوية</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Oasokat-v.01</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta="" />
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta="" />
+</frameset>
+</verb>

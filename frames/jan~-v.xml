@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jan~</id>
+<comment/>
+<frameset cdef="" edef="to become crazy" id="01" vncls="">
+<role argnum="1" argrole="entity becoming crazy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل حيجن * من ورا عياله</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="cau" g="because of his children" n="m">من ورا عياله</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

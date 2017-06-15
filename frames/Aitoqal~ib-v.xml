@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitoqal~ib</id>
+<comment/>
+<frameset cdef="" edef="be inverted, to twist and turn over repeatedly" id="01" vncls="">
+<role argnum="0" argrole="entity turning over" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا حتقلب * في الفراش لحد منام</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="loc" g="in the bed" n="m">في الفراش</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+</frameset>
+</verb>

@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotaEomar</id>
+<comment/>
+<frameset cdef="" edef="to colonize, to occupy" id="01" vncls="">
+<role argnum="0" argrole="entity occupying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NEG_PART ما))
+        (PV+PVSUFF_SUBJ:3MS زال)
+        (NP-SBJ-2
+          (NP
+            (NOUN صُنْدُوق)
+            (NP
+              (DET+NOUN النَقْد)))
+          (CONJ وِ)
+          (NP
+            (DET+NOUN البَنْك)
+            (DET+ADJ الدَوْلِي)))
+        (S
+          (S
+            (VP
+              (IV3MS+IV يِبْحَث)
+              (NP-SBJ-1
+                (-NONE- *-2))
+              (PP
+                (PREP فِي)
+                (NP
+                  (NOUN اِقْتِصاد)
+                  (NP
+                    (POSS_PRON_1P نا))))))
+          (CONJ وِ)
+          (S
+            (VP
+              (IV3MS+IV يِسْتَعْمَر)
+              (NP-SBJ
+                (-NONE- *-1))
+              (NP-OBJ
+                (IVSUFF_DO:1P نا))
+              (PP
+                (PREP مِن)
+                (NP
+                  (ADJ جِدِيد)))))</parse>
+<comment/>
+<arg f="" g="IMF and World Bank" n="0">صندوق النقد و البنك الدولي</arg>
+<arg f="" g="us" n="1">نا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Tiboq</id>
+<comment/>
+<frameset cdef="" edef="according to" id="01" vncls="">
+<role argnum="1" argrole="entity that follow" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الحكم يقوم طبقا * للقوانين</parse>
+<comment/>
+<arg f="" g="the judgment" n="1">* الحكم</arg>
+<arg f="" g="the laws" n="2">للقوانين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="according to what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="copy of" id="02" vncls="">
+<role argnum="1" argrole="copy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الموضوع ده طبق * الاصل في كل حاجة</parse>
+<comment/>
+<arg f="" g="this subject" n="1">* الموضوع ده</arg>
+<arg f="" g="the oreginal" n="2">الاصل</arg>
+<arg f="" g="in every thing" n="3">في كل حاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="original" vncls="" vntheta=""/>
+<role argnum="3" argrole="attribute to ARG2" vncls="" vntheta=""/>
+</frameset>
+</verb>

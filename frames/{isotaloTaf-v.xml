@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaloTaf</id>
+
+<frameset cdef="" edef="to find somebody is cute, nice or attractive" id="01" vncls="">
+<role argnum="0" argrole="agent thinking the person is cute" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استلطفت الفتاة الرجل</parse>
+
+<arg f="" g="the girl" n="0">الفتاة</arg>
+<arg f="" g="the man" n="1">الرجل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="cute person" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

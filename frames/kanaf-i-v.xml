@@ -1,0 +1,95 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kanaf-i</id>
+
+<frameset cdef="" edef="to protect or guard" id="01" vncls="">
+<role argnum="0" argrole="protector" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كنف الرجل ماله</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his money" n="1">ماله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="protected" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to help or aid" id="02" vncls="">
+<role argnum="0" argrole="helper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كنف الرجل أخاه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="helped" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to surround or encircle" id="03" vncls="">
+<role argnum="0" argrole="entity surrounding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كنفه الله برحمته</parse>
+
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="with his mercy" n="2">برحمته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity surrounded" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to stay away" id="04" vncls="">
+<role argnum="0" argrole="entity staying away" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كنف الرجل عن صديقه لسوء أخلاقه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="from his friend" n="1">عن صديقه</arg>
+<arg f="" g="because of his bad manners" n="2">لسوء أخلاقه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

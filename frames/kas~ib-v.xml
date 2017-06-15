@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kas~ib</id>
+<comment/>
+<frameset cdef="" edef="to cause to get or earn money" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>المشروع ده بيكسب * ذهب للي بيشتغل فيه</parse>
+<comment/>
+<arg f="" g="this project" n="0">المشروع ده</arg>
+<arg f="" g="gold" n="1">ذهب</arg>
+<arg f="" g="for the one who works in it" n="2">للي بيشتغل فيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things gained" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

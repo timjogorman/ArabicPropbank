@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hamod</id>
+<comment/>
+<frameset cdef="" edef="thanking, praising" id="01" vncls="">
+<role argnum="0" argrole="praiser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>TOP
+  (FRAG
+    (X
+      (FOREIGN &gt;m)
+      (FOREIGN jst))
+    (S
+      (VP
+        (PRT
+          (PREP بِ))
+        (NOUN.VN حَمْد)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN رَبّ)
+          (NP
+            (POSS_PRON_1P نا)))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="our God" n="1">ربنا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="praised" vncls="" vntheta=""/>
+<role argnum="2" argrole="reason" vncls="" vntheta=""/>
+</frameset>
+</verb>

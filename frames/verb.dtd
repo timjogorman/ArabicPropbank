@@ -1,44 +1,66 @@
 <!--
-Frames File DTD for Bert's chinese frames., Draft
+Frames File DTD, version 1.1
+For use with Arabic frames.
 
-Scott Cotton
-10/15/2002
-
+Created 10/15/2002, Scott Cotton
+Revised 11/20/2012, Kate Peterson, petka@ldc.upenn.edu
 -->
 
 <!--
-    the top level entity, we associate with each verb frame file
-    a set of 'frameset's
+    A verb is the top level entity. 
+    We associate with each verb frame file a set of 'frameset' elements
 -->
 <!ELEMENT verb (id, (comment | frameset)*)>
 
 <!ELEMENT comment (#PCDATA)>
 
 <!--
-    A frameset contains a set of roles and a set of frames>
+    A frameset contains a set of roles and a set of frames
+
+    old version of frameset ordering:
+    <!ELEMENT frameset (role,(comment | role)*,frame, (comment | frame)*)>
+
+	edited 20 November 2012: 
+	The order of frame, role, and comment elements doesn't matter.
+	It is possible to have a frameset with no role or no frame, 
+	but there should be at least one role or one frame.
 -->
-<!ELEMENT frameset (role,(comment | role)*,frame, (comment | frame)*)>
+<!ELEMENT frameset (comment*,( (role,  (comment | role | frame )*) |
+                               (frame, (comment | role | frame )*)  ))> 
 
 <!--
     Each frameset has an identifier, and associates the verb
-    with a verbclass (classid).  Optionally, chinese and english definitions
-    or glosses are allowed
+    with a verbclass (classid).  Optionally, chinese and english 
+    definitions or glosses are allowed. 
+	
+    Arabic files use edef, but cdef may be an empty string.
+	
+    edited 20 November 2012: vncls and vntheta may appear but 
+    are not relevant to Arabic data, so they'll be empty strings.
+    "id" attribute is CDATA now.
 -->
 <!ATTLIST frameset
-    id ID  #REQUIRED
+    id CDATA  #REQUIRED
     cdef CDATA #IMPLIED
-    edef CDATA #IMPLIED>
+    edef CDATA #IMPLIED
+	vncls CDATA #IMPLIED
+	vntheta CDATA #IMPLIED>
 
 <!ELEMENT id (#PCDATA)>
+<!-- edited 20 November 2012: vncls and vntheta may appear but 
+	 are not relevant to Arabic data -->
 <!ELEMENT role EMPTY>
 <!ATTLIST role
     argnum (m|0|1|2|3|4|5|6|7|8|9) #REQUIRED
-    argrole CDATA #REQUIRED>
+    argrole CDATA #REQUIRED
+	vncls CDATA #IMPLIED
+	vntheta CDATA #IMPLIED>
 
 <!--
     A frame consists of a set of tuples of mapping and example elements
+	edited 20 Nov 2012: Comments can occur at the end, too, and all comments are optional.
 -->
-<!ELEMENT frame (comment?, mapping?,example,(comment?,example)*) >
+<!ELEMENT frame (((comment|mapping)*)?, example, (comment|example)*) > 
 
 <!--
     A mapping is an ordered list of mapitems, with a verb in there somewhere
@@ -52,7 +74,8 @@ Scott Cotton
     </mapping>
 -->
 
-<!ELEMENT mapping (V, mapitem,(mapitem | comment)*)>
+<!-- edited 20 Nov 2012: Arabic data doesn't use mapping, so mapitem is optional. -->
+<!ELEMENT mapping (V*, (mapitem | comment)*)> 
 <!ELEMENT mapitem EMPTY>
 <!ATTLIST mapitem
     src (sbj|npobj|ipobj|ext|dir|controlip|io|other) #REQUIRED
@@ -62,8 +85,9 @@ Scott Cotton
 <!--
     finally, an example is completely unstructured, but we may optionally
     specify of source.
+	edited 20 Nov 2012: allowing comments to occur at the end, too, and arg is optional.
 -->
-<!ELEMENT example (parse, arg, comment*, (arg|V)*)>
+<!ELEMENT example (parse, (arg|V|comment)*)> 
 
 
 <!ELEMENT parse (#PCDATA)>

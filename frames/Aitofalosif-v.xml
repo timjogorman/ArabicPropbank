@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitofalosif</id>
+<comment>EGYPTIAN ARABIC Framefile based on falosaf-v</comment>
+<frameset cdef="" edef="to philosophize, to talk nonsense" id="01" vncls="">
+<role argnum="0" argrole="talker" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>احنا مش كل شوية نقعد نتفلسف * ونقول كلام فاضي</parse>
+<comment />
+<arg f="" g="we" n="0">* احنا</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset falosaf-v.01</comment>
+<role argnum="1" argrole="the subject" vncls="" vntheta="" />
+</frameset>
+</verb>

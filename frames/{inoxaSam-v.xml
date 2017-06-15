@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoxaSam</id>
+
+<frameset cdef="" edef="to be discounted, deducted, rebated, taken off, subtracted" id="01" vncls="">
+<role argnum="1" argrole="theme" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انخصمت الأرباح من المبلغ</parse>
+
+<arg f="" g="profits" n="1">الأرباح</arg>
+<arg f="" g="of the amount" n="2">من المبلغ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

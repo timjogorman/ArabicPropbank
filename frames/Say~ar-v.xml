@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Say~ar</id>
+
+<frameset cdef="" edef="to make, to render" id="01" vncls="">
+<role argnum="0" argrole="maker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>صير النحات الذهب تمثالا</parse>
+
+<arg f="" g="sculptor" n="0">النحات</arg>
+<arg f="" g="the gold" n="2">الذهب</arg>
+<arg f="" g="into a statue" n="1">تمثالا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="transfered into what" vncls="" vntheta=""/>
+<role argnum="2" argrole="things tranfered" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

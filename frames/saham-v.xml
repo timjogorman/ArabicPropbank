@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saham</id>
+<comment/>
+<frameset cdef="" edef="to be changed in color" id="01" vncls="">
+<role argnum="1" argrole="entity changed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سهم لون الوجه</parse>
+<comment/>
+<arg f="" g="the color of the face" n="1">لون الوجه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to give a share to someone" id="02" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سهم الرجل أخاه عشرين سهما</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="2">أخاه</arg>
+<arg f="" g="twenty shares" n="1">عشرين سهما</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things given" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

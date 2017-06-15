@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kAl</id>
+
+    <frameset cdef="" edef="to measure, weigh" id="01" vncls="">
+<role argnum="0" argrole="measurer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>يكيل العطار  القمح  للمشترين</parse>
+
+<arg f="" g="spice dealer" n="0">العطار</arg>
+<arg f="" g="wheat" n="1">القمح</arg>
+<arg f="" g="for buyers" n="2">للمشترين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing measured" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom?" vncls="" vntheta=""/>
+<comment>Based on roleset kAl-i.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on kAl-i</comment>
+</verb>

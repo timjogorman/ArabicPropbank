@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofaDaD</id>
+
+<frameset cdef="" edef="to be scattered, or finished" id="01" vncls="">
+<role argnum="1" argrole="entity scattering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انفضت المظاهرات</parse>
+
+<arg f="" g="the demonstrations" n="1">المظاهرات</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>garobal</id>
+
+<frameset cdef="" edef="to sift/ purify" id="01" vncls="">
+<role argnum="0" argrole="entity siftting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>غربلت المرأة الرمل من الماء</parse>
+
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="" g="sand" n="1">الرمل</arg>
+<arg f="" g="from the water" n="2">من الماء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing purified" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zahid-a</id>
+
+<frameset cdef="" edef="to abstain from, to renounce" id="01">
+<role argnum="0" argrole="entity abstaining"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>زهد الموظف في المنصب الجديد</parse>
+
+<arg f="" g="the employee" n="0">الموظف</arg>
+<arg f="" g="in the new position" n="1">في المنصب الجديد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

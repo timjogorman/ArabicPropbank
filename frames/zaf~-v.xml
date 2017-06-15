@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>zaf~</id>
+<comment>EGYPTIAN ARABIC based on zaf~-i</comment>
+    <frameset cdef="" edef="to bring the good news" id="03">
+<role argnum="0" argrole="entity giving the good news" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>زف الطالب خبر نجاحه الى أهله</parse>
+<comment />
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="his success news" n="1">خبر نجاحه</arg>
+<arg f="" g="to his family" n="2">الى أهله</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset zaf~-i.03</comment>
+<role argnum="1" argrole="the good news" />
+<role argnum="2" argrole="to whom" />
+</frameset>
+</verb>

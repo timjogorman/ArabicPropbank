@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eafaq</id>
+<comment/>
+<frameset cdef="" edef="to fart" id="01" vncls="">
+<role argnum="0" argrole="entity farting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عفق الرجل</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to hit or beat" id="02" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عفق الرجل  أبنه بالعصا</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his son" n="1">أبنه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity being hit" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to rotate or bounce between sleeping and awakining" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عفق الرجل طوال الليل</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="tmp" g="the whole night" n="m">طوال الليل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

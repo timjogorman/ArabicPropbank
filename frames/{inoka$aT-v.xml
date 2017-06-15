@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoka$aT</id>
+
+<frameset cdef="" edef="to be removed, abraded or scratched off, to be peeled" id="01" vncls="">
+<role argnum="1" argrole="theme" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اتكشط الغبار من السجادة</parse>
+
+<arg f="" g="dust" n="1">الغبار</arg>
+<arg f="" g="the carpet" n="2">من السجادة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be mugged or robbed." id="02" vncls="">
+<role argnum="1" argrole="entity robbed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اتكشط الرجل ليلا</parse>
+
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="tmp" g="at night" n="m">ليلا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="things robbed" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

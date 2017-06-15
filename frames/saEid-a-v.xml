@@ -1,40 +1,42 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>saEid-a</id>
-    <frameset cdef="" edef="To be happy" id="01">
-        <role argnum="1" argrole="entity pleased"/>
-        <role argnum="2" argrole="source"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS قال)
-                    (NP-SBJ
-                    (NOUN_PROP شديد))
-                    (NP-TMP
-                    (NOUN+CASE_DEF_ACC اثر)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN اللقاء)))
-                    (S
-                    (PUNC &amp;quot;)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:1P سعدنا)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (PP-CLR
-                    (PREP ب)
-                    (NP
-                    (NOUN+CASE_DEF_GEN لقاء)
-                    (NP
-                    (NOUN_PROP+NSUFF_FEM_SG+CASE_DEF_GEN فخامة)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الرئيس)))))))
-                </parse>
-                <arg f="" g="We" n="1">-NONE- *</arg>
-                <arg f="" g="Show romanization Pleased to meet with His Excellency President" n="2">بلقاء فخامة الرئيس</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>saEid-a</id>
+<frameset cdef="" edef="To be happy" id="01" vncls="">
+<role argnum="1" argrole="entity pleased" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS قال)
+    (NP-SBJ
+      (NOUN_PROP شديد))
+    (NP-TMP
+      (NOUN+CASE_DEF_ACC اثر)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN اللقاء)))
+    (S
+      (PUNC &quot;)
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:1P سعدنا)
+          (NP-SBJ
+            (-NONE- *))
+          (PP-CLR
+            (PREP ب)
+            (NP
+              (NOUN+CASE_DEF_GEN لقاء)
+              (NP
+                (NOUN_PROP+NSUFF_FEM_SG+CASE_DEF_GEN فخامة)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN الرئيس)))))))</parse>
+<arg f="" g="We" n="1">-NONE- *</arg>
+<arg f="" g="to meet with His Excellency the President" n="2">بلقاء فخامة الرئيس</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
 </verb>

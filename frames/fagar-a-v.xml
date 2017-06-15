@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fagar-a</id>
+<comment/>
+<frameset cdef="" edef="to open (the mouth) wide, to gape" id="01" vncls="">
+<role argnum="0" argrole="entity opening his mouth" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فغر الرجل فمه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his mouth" n="1">فمه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things opened" vncls="" vntheta=""/>
+<role argnum="2" argrole="reason" vncls="" vntheta=""/>
+</frameset>
+</verb>

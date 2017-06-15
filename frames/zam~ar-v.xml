@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zam~ar</id>
+<comment/>
+<frameset cdef="" edef="to blow, to play ( a wind instrument )" id="01" vncls="">
+<role argnum="0" argrole="player" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الرجالة بيزمروا * والنسوان بيرقصوا</parse>
+<comment/>
+<arg f="" g="the men" n="0">الرجالة</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

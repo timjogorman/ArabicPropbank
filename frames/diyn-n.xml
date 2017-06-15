@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>diyn</id>
+<comment/>
+<frameset cdef="" edef="religion or faith" id="01" vncls="">
+<role argnum="1" argrole="entity following the religion" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دين الدولة هو الأسلام</parse>
+<comment/>
+<arg f="" g="the country" n="1">الدولة</arg>
+<arg f="" g="is Islam" n="2">هو الأسلام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="the religion" vncls="" vntheta=""/>
+</frameset>
+</verb>

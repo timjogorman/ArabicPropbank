@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raqaY</id>
+
+    <frameset cdef="" edef="reach , attain, get to" id="01" vncls="">
+<role argnum="0" argrole="thing striving" vncls="" vntheta=""/>
+<role argnum="1" argrole="goal , end state" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>أدلة الاتهام لا ترقى *  لمستوى إدانة المتهمين</parse>
+<arg f="" g="-NONE- &lt; the prosecutor proofs" n="0">* &lt; دلة الاتهام</arg>
+<arg f="" g="to the level of accusation of the suspects" n="1">لمستوى إدانة المتهمين</arg>
+<arg f="neg" g="not" n="m">لا</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset raqiy-a.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on raqiy-a</comment>
+<frameset cdef="" edef="to charm, to use amulate (God's word,charms, spells)" id="02" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا رقيت * ك من كل شر</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="he" n="1">ك</arg>
+<arg f="" g="from every evil" n="2">من كل شر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity protected" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

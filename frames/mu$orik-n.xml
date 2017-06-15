@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mu$orik</id>
+<comment/>
+<frameset cdef="" edef="to be or become a polytheist" id="01" vncls="">
+<role argnum="0" argrole="entity becomming polytheist" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غضب الله على كل شخص مشرك * في هذا العالم</parse>
+<comment/>
+<arg f="" g="everybody" n="0">كل شخص</arg>
+<arg f="loc" g="in this world" n="m">في هذا العالم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom (mostly by God)" vncls="" vntheta=""/>
+</frameset>
+</verb>

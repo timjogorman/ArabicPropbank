@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xa$aE-a</id>
+
+<frameset cdef="" edef="to submit, to surrender" id="01" vncls="">
+<role argnum="0" argrole="entity submitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خشع قلبي لحب ربي</parse>
+
+<arg f="" g="my heart" n="0">قلبي</arg>
+<arg f="" g="to my God's love" n="1">لحب ربي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

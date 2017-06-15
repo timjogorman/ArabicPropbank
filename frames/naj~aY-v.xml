@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naj~aY</id>
+<comment/>
+<frameset cdef="" edef="to save from, to rescue" id="01">
+<role argnum="0" argrole="savior"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أصلي الى الله ان ينجي * هم من الخطر</parse>
+<comment/>
+<arg f="" g="God" n="0">* الله</arg>
+<arg f="" g="they" n="1">هم</arg>
+<arg f="" g="from danger" n="2">من الخطر</arg>
+</example>
+<comment>خلص ,  أنقذ</comment>
+</frame>
+<comment>خلص ,  أنقذ</comment>
+<role argnum="1" argrole="saved"/>
+<role argnum="2" argrole="from what (Usually comes after من )"/>
+</frameset>
+</verb>

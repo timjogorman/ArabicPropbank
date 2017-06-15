@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamAyaz</id>
+<comment/>
+<frameset cdef="" edef="be different" id="01" vncls="">
+<role argnum="1" argrole="things that are differen" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تمايز احمد في السلوك عن أخيه</parse>
+<comment/>
+<arg f="" g="Ahmad" n="1">احمد</arg>
+<arg f="" g="in behaing" n="2">في السلوك</arg>
+<arg f="" g="from his brother" n="3">عن أخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="Manner, Ext,how different" vncls="" vntheta=""/>
+<role argnum="3" argrole="from what - if separate" vncls="" vntheta=""/>
+</frameset>
+</verb>

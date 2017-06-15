@@ -1,22 +1,58 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>ra$aH-a</id>
-    <comment/>
-    <frameset cdef="" edef="to ooze, sweat, exude" id="01">
-        <role argnum="1" argrole="Liquid"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>رشح الماء من الوعاء</parse>
-                <comment/>
-                <arg f="" g="water" n="1">الماء</arg>
-                <arg f="" g="from the pot" n="2">من الوعاء</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="2" argrole="Oozer / source"/>
-    </frameset>
+<id>ra$aH-a</id>
+
+<frameset cdef="" edef="to ooze, exude" id="01" vncls="">
+<role argnum="1" argrole="Liquid" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>رشح الماء من الوعاء</parse>
+
+<arg f="" g="water" n="1">الماء</arg>
+<arg f="" g="from the pot" n="2">من الوعاء</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="Oozer / source" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+
+<frameset cdef="" edef="to sweat, to perspire" id="02" vncls="">
+<role argnum="1" argrole="entity sweating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رشح جلده عرقا</parse>
+
+<arg f="" g="his skin" n="1">جلده</arg>
+<arg f="" g="sweat" n="2">عرقا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="liquid" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

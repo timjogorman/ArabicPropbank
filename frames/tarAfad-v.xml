@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarAfad</id>
+<comment/>
+<frameset cdef="" edef="to help one another, to cooperate" id="01" vncls="">
+<role argnum="0" argrole="helper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يقوى الشَّعب الذي يترافد أبناؤه ويتكاتفون</parse>
+<comment/>
+<arg f="" g="it's children" n="0">أبناؤه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="helped" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

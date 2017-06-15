@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>siyAHap</id>
+
+
+<frameset cdef="" edef="to flow, to run, to stream" id="02" vncls="">
+<role argnum="0" argrole="entity running" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ساح الماء من قمة التلة الى النهر</parse>
+
+<arg f="" g="the water" n="0">الماء</arg>
+<arg f="" g="from the top of the hill" n="1">من قمة التلة</arg>
+<arg f="" g="to the river" n="2">الى النهر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to tour or travel" id="03" vncls="">
+<role argnum="0" argrole="entity traveling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ساح الرجل في البلاد مشيا على الاقدام</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in the country" n="1">في البلاد</arg>
+<arg f="" g="walking" n="2">مشيا على الاقدام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+<role argnum="2" argrole="how, method" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

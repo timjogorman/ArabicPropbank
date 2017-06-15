@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oa$ir</id>
+<comment/>
+<frameset cdef="" edef="to be lively or joyful, to be ungrateful" id="01" vncls="">
+<role argnum="0" argrole="entity happy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أشِر الفقيرُ عندما اغتنى</parse>
+<comment/>
+<arg f="" g="the poor" n="0">الفقيرُ</arg>
+<arg f="" g="when he became rich" n="1">عندما اغتنى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

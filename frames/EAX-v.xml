@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAX</id>
+<comment/>
+<frameset cdef="" edef="to seek the protection of, to resort to" id="01">
+<role argnum="0" argrole="entity seeking"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما خسر من عاذ *  بالله من شر الناس</parse>
+<comment/>
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="by God" n="1">بالله</arg>
+<arg f="" g="from people's evil" n="2">من شر الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from whom"/>
+<role argnum="2" argrole="against who or what"/>
+</frameset>
+</verb>

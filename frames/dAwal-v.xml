@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dAwal</id>
+<comment/>
+<frameset cdef="" edef="to alternate or rotate" id="01" vncls="">
+<role argnum="0" argrole="entity rotating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>داوَلَ اللهُ الأَيّامَ بين الناس</parse>
+<comment/>
+<arg f="" g="God" n="0">اللهُ</arg>
+<arg f="" g="the days" n="1">الأَيّامَ</arg>
+<arg f="" g="among people" n="2">بين الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things rotated" vncls="" vntheta=""/>
+<role argnum="2" argrole="among whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

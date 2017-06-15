@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faram-u</id>
+
+<frameset cdef="" edef="to grind or crush" id="01" vncls="">
+<role argnum="0" argrole="grinder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فرمت الأم اللحم بالمفرمة</parse>
+
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="the meat" n="1">اللحم</arg>
+<arg f="" g="with meat grinder" n="2">بالمفرمة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing grinded" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+
+<comment/>
+<role argnum="3" argrole="end state" vncls="" vntheta=""/>
+</frameset>
+
+<comment/>
+</verb>

@@ -1,23 +1,30 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>tafak~ak</id>
-    <comment/>
-    <frameset cdef="" edef="fall apart, dissociate, separate" id="01">
-        <role argnum="0" argrole="entity falling apart"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>مصر تتفكك اجتماعيًا وعلى شفا الإفلاس
-                    
-                    Arg 0: -None- -T-*
-                    Arg MNR: اجتماعيً
-                </parse>
-                <comment/>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-    </frameset>
+<id>tafak~ak</id>
+
+<frameset cdef="" edef="fall apart, dissociate, separate" id="01" vncls="">
+<role argnum="1" argrole="entity falling apart" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مصر تتفكك اجتماعيًا وعلى شفا الإفلاس
+
+Arg 0: -None- -T-*
+Arg MNR: اجتماعيً</parse>
+
+<comment/>
+<arg f="" g="Egypt" n="1">مصر</arg>
+<arg f="" g="in social" n="2">اجتماعيًا</arg>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="how" vncls="" vntheta=""/>
+</frameset>
+<comment/>
 </verb>

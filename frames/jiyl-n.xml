@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jiyl</id>
+<comment/>
+<frameset cdef="" edef="generation" id="01" vncls="">
+<role argnum="1" argrole="the generation" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الجيل * مش عارف يعمل الصح</parse>
+<comment/>
+<arg f="" g="this" n="1">هذا</arg>
+<arg f="" g="don't know how to do the right thing" n="2">مش عارف يعمل الصح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="of what" vncls="" vntheta=""/>
+</frameset>
+</verb>

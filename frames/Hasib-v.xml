@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Hasib</id>
+
+<frameset cdef="" edef="to suffice, be enough" id="01">
+<role argnum="0" argrole="what suffices" />
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>قال النبي، صلى اللّه عليه وسلم: يُحْسِبُك أَن تَصُومَ من كل شهر ثلاثة أَيام</parse>
+
+<arg f="" g="you" n="1">ك</arg>
+<arg f="" g="to fast from each month three days" n="0">أَن تَصُومَ من كل شهر ثلاثة أَيام</arg>
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="for whom" />
+
+<comment>Based on roleset Hasib-i.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to consider, to think about" id="02">
+<role argnum="0" argrole="entity consedering" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>حسب الطالب النجاح سهلا</parse>
+
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="success" n="1">النجاح</arg>
+<arg f="" g="easy" n="2">سهلا</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="things consedered" />
+<role argnum="2" argrole="consedered what" />
+<comment>Based on roleset Hasib-i.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on Hasib-i</comment>
+</verb>

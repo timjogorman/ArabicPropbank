@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EaSaY-i</id>
+<comment/>
+<frameset cdef="" edef="to disobey, to resist, to oppose" id="01">
+<role argnum="0" argrole="entity disobeying"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عصى الولد والديه</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="his parents" n="1">والديه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="disobeyed"/>
+</frameset>
+<frameset cdef="" edef="not to stop bleeding" id="02">
+<role argnum="1" argrole="things that will not stop bleeding"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عصى العرق</parse>
+<comment/>
+<arg f="" g="the vein" n="1">العرق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to fly" id="03">
+<role argnum="1" argrole="entity flying"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عصى الطائر</parse>
+<comment/>
+<arg f="" g="the bird" n="1">الطائر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

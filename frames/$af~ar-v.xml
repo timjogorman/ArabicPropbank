@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$af~ar</id>
+<comment/>
+<frameset cdef="" edef="to close (multi word expression)" id="01" vncls="">
+<role argnum="0" argrole="entity closing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البيبان بتتشفر * في الشتا</parse>
+<comment/>
+<arg f="" g="the doors" n="1">* البيبان</arg>
+<arg f="tmp" g="in winter" n="m">في الشتا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things closed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to code" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو حيشفر *  الموضوع عشان محدش يقراه</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="the subject" n="1">الموضوع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things coded" vncls="" vntheta=""/>
+</frameset>
+</verb>

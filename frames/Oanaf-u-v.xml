@@ -1,0 +1,74 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oanaf-u</id>
+
+<frameset cdef="" edef="to suck, to sip, to suck up" id="01" vncls="">
+<role argnum="0" argrole="entity sipping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنف الطفل العصير من البرتقالة</parse>
+
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="juice" n="1">العصير</arg>
+<arg f="" g="from the orange" n="2">من البرتقالة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things sipped" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to hit somebody's nose" id="02" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنف الرجل اللص  بيده</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the robber" n="1">اللص</arg>
+<arg f="" g="with his hand" n="2">بيده</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victime" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to reach somebody's nose (usually water)" id="03" vncls="">
+<role argnum="0" argrole="water" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنف الماء الولد في المسبح</parse>
+
+<arg f="" g="water" n="0">الماء</arg>
+<arg f="" g="the boy" n="1">الولد</arg>
+<arg f="loc" g="in the pool" n="m">في المسبح</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

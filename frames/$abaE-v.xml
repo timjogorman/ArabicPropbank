@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>$abaE</id>
+<comment>EGYPTIAN ARABIC based on $abiE-a</comment>
+    <frameset cdef="" edef="to be full, satiated" id="01">
+<role argnum="1" argrole="the experiencer" />
+<role argnum="2" argrole="the thing that filled arg1" />
+<frame>
+<example>
+<parse>
+(S
+  (CONJ و)
+  (VP
+    (PRT
+      (VERB_PART لقد)
+    (PV+PVSUFF_SUBJ:3FS شبعت)
+    (NP-SBJ
+      (NP
+        (PUNC &quot;)
+        (NOUN+NSUFF_FEM_PL+CASE_DEF_NOM آريات)
+        (PUNC &quot;)
+        (NP
+          (NP
+            (DEM_PRON_MP هؤلاء)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN العظام)
+      (CONJ و)
+      (NP
+        (PUNC &quot;)
+        (NOUN+NSUFF_FEM_PL+CASE_DEF_NOM رقصات)
+        (NP
+          (POSS_PRON_3MP هم)
+        (PUNC &quot;)
+    (NP-ADV
+      (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC كتابة)
+      (PUNC ,)
+      (NOUN+CASE_INDEF_ACC مديحاً)
+      (CONJ و)
+      (NOUN+CASE_INDEF_ACC تحليلاً)
+    (PUNC .)
+</parse>
+<arg f="" g="the arias o these bones and their dances" n="1">&quot; آريات &quot; هؤلاء العظام و &quot; رقصاتهم &quot; &quot;</arg>
+<arg f="" g="writings of praise and analyses" n="2">كتابة , مديحاً و تحليلاً</arg>
+</example>
+</frame>
+<comment>Based on roleset $abiE-a.01</comment></frameset>
+</verb>

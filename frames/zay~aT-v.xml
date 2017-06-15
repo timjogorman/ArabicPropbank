@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zay~aT</id>
+<comment/>
+<frameset cdef="" edef="be excited" id="01" vncls="">
+<role argnum="0" argrole="entity excited" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو قاعد بيزيط * مع صحابه</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="com" g="with his friends" n="m">مع صحابه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inomasax</id>
+
+<frameset cdef="" edef="to be transformed to a bad thing" id="01" vncls="">
+<role argnum="1" argrole="changed entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انمسخ الأشرار قردة</parse>
+
+<arg f="" g="malefactors" n="1">الأشرار</arg>
+<arg f="" g="monkeys" n="3">قردة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="origin" vncls="" vntheta=""/>
+<role argnum="3" argrole="new shape" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

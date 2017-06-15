@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fakas</id>
+
+<frameset cdef="" edef="to send a fax" id="01" vncls="">
+<role argnum="0" argrole="sender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا فكست * لك الرسالة</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="to you" n="2">لك</arg>
+<arg f="" g="the letter" n="1">الرسالة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the fax" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to be damaged, not good  or not working" id="02" vncls="">
+<role argnum="1" argrole="things that are damaged" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>التلفون بتاعي فكس * امبارح</parse>
+<comment/>
+<arg f="" g="the telephone" n="1">* التلفون</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

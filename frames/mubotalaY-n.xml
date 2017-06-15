@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mubotalaY</id>
+<comment/>
+<frameset cdef="" edef="to be afflicted" id="01" vncls="">
+<role argnum="1" argrole="entity afflicted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الشعب مبتلى * برئيسه</parse>
+<comment/>
+<arg f="" g="this nation" n="1">* هذا الشعب</arg>
+<arg f="" g="by it's president" n="2">برئيسه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

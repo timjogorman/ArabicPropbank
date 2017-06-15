@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqAfaz</id>
+<comment/>
+<frameset cdef="" edef="to jump or leap, to bounce" id="01" vncls="">
+<role argnum="0" argrole="entity jumping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ وَ)
+    (VP
+      (IV3FS+IV+IVSUFF_MOOD:I تَظَلُّ)
+      (NP-SBJ
+        (NP
+          (DEM_PRON_F تِلْكَ))
+        (NP
+          (DET+NOUN الاحزاب)))
+      (NP-PRD
+        (NP
+          (NOUN مُجَرَّد)
+          (NP
+            (NOUN+NSUFF_FEM_PL بَهلَوانات)))
+        (SBAR
+          (WHNP-1
+            (-NONE- 0))
+          (S
+            (VP
+              (IV3P+IV+IVSUFF_SUBJ:P يَتَقافَزُون)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (PP-PRP
+                (SBAR
+                  (-NONE- 0)
+                  (S
+                    (VP
+                      (X
+                        (NO_FUNC ليلهون))
+                      (NP-SBJ
+                        (-NONE- *))
+                      (NP-OBJ
+                        (DET+NOUN الشَعْب))
+                      (PP
+                        (PREP عَن)
+                        (NP
+                          (DET+NOUN+NSUFF_FEM_SG الحَقِيقَة)
+                          (DET+ADJ+NSUFF_FEM_SG المُرَّة))
+                        (NAC</parse>
+<comment/>
+<arg f="" g="clowns" n="0">* بَهلَوانات</arg>
+<arg f="prp" g="to distract the people from the bitter truth" n="m">ليلهون الشَعْب عَن الحَقِيقَة المُرَّة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="over or on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

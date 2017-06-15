@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$ad~aq</id>
+
+<frameset cdef="" edef="rant" id="01" vncls="">
+<role argnum="0" argrole="ranter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تشدق "الرياض" السعودية بالوحدة بين الشيعة والسنة</parse>
+
+<comment/>
+<arg f="" g="Al-Riyad Al-Saudi Arabia" n="0">الرياض" السعودية</arg>
+<arg f="" g="with the unity between the sunni and Shia" n="1">بالوحدة بين الشيعة والسنة</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="topic" vncls="" vntheta=""/>
+<comment>Based on roleset ta$ad~aq.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on ta$ad~aq</comment>
+</verb>

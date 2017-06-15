@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHiSAr</id>
+<comment/>
+<frameset cdef="" edef="limitation, restriction" id="01" vncls="">
+<role argnum="1" argrole="entity limited" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غير لائق انحصار السلطة في ايدي القليل من الناس فقط</parse>
+<comment/>
+<arg f="" g="the power" n="1">السلطة</arg>
+<arg f="" g="only in the hands of few people" n="2">في ايدي القليل من الناس فقط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what or in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

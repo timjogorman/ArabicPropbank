@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gal~aY</id>
+
+<frameset cdef="" edef="to rise up the price" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وِ)
+    (ADVP
+      (ADV كَمان))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS غَلِّت)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN مِتْرُو)
+        (NP
+          (DET+NOUN الانْفاق))))))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the subway" n="1">مترو الانفاق</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things that went up" vncls="" vntheta=""/>
+<role argnum="2" argrole="starting point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point or the increase" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to boil" id="02" vncls="other_cos-1">
+<role argnum="0" argrole="agent" vncls="other_cos-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>امبارح غلت أختي المية على الحطب</parse>
+
+<arg f="" g="my sister" n="0">أختي</arg>
+<arg f="" g="the water" n="1">المية</arg>
+<arg f="" g="on the firewood" n="2">على الحطب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things boiled" vncls="other_cos-1" vntheta="patient"/>
+<role argnum="2" argrole="on what" vncls="other_cos-1" vntheta="instrument"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

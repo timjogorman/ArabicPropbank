@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamAraD</id>
+
+<frameset cdef="" edef="to pretend or act sick" id="01" vncls="">
+<role argnum="0" argrole="entity acting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تمارض الولد لكي لا يذهب الى المدرسة</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be negligent, to lag" id="02" vncls="">
+<role argnum="0" argrole="entity falling behind" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تمارض الرجل في عمله</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his work" n="1">في عمله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

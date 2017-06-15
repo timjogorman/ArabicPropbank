@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Haq~</id>
+<comment/>
+<frameset cdef="" edef="right, claim, one's due" id="01" vncls="">
+<role argnum="1" argrole="entity has trhtighe" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>من حق كل أنسان أن يعيش حرا</parse>
+<comment/>
+<arg f="" g="every person" n="1">كل أنسان</arg>
+<arg f="" g="to live free" n="2">أن يعيش حرا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="truth, reality" id="02" vncls="">
+<role argnum="1" argrole="the truth" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا هو الحق * في هذه القصة</parse>
+<comment/>
+<arg f="" g="this is" n="1">* هذا هو</arg>
+<arg f="" g="in this story" n="2">في هذه القصة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

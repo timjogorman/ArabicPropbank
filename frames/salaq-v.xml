@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>salaq</id>
+<comment/>
+<frameset cdef="" edef="to boil, to cook in boiling water" id="01" vncls="">
+<role argnum="0" argrole="boiler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>والدتي تسلق * كل يوم ثلاث بيضات</parse>
+<comment/>
+<arg f="" g="my Mother" n="0">* والدتي</arg>
+<arg f="tmp" g="every day" n="m">كل يوم</arg>
+<arg f="" g="three eggs" n="1">ثلاث بيضات</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="boiled" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what (mostly water)" vncls="" vntheta=""/>
+</frameset>
+</verb>

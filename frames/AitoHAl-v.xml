@@ -1,0 +1,84 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoHAl</id>
+
+<frameset cdef="" edef="to pour down, to heap" id="01" vncls="">
+<role argnum="0" argrole="entitingy pour" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>TOP
+  (S
+    (CONJ وِ)
+    (VP
+      (PV+PVSUFF_SUBJ:3MS قال)
+      (NP-SBJ
+        (NOUN_PROP بَكْرِيّ))
+      (PP
+        (PREP فِي)
+        (NP
+          (NP
+            (NOUN خِطاب)
+            (NP
+              (POSS_PRON_3MS ُه)))
+          (ADJP
+            (DET+ADJ العَسكَرِي))))
+      (PUNC :)
+      (PUNC ?)
+      (S
+        (S
+          (NP-TPC-1
+            (NP
+              (DET+NOUN القَرار))
+            (NP
+              (DEM_PRON_MS دَه)))
+          (VP
+            (PV+PVSUFF_SUBJ:3MS أَهال)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (NOUN الثَّرَى))
+            (PP-CLR
+              (PREP عَلَى)
+              (NP
+                (NOUN_QUANT كُلّ)
+                (NP
+                  (NOUN شَئ))))))
+        (PUNC ,)</parse>
+
+<arg f="" g="this decision" n="0">*T* -1 القَرار دَه</arg>
+<arg f="" g="dirt" n="1">الثَّرَى</arg>
+<arg f="" g="on everything" n="2">على كل شيء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things poured" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to be sent to" id="02" vncls="">
+<role argnum="0" argrole="sender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الاوراق اتحالت * للشرطة</parse>
+<comment/>
+<arg f="" g="the papers" n="1">* الاوراق</arg>
+<arg f="" g="to the police" n="2">للشرطة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity sent" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what or where" vncls="" vntheta=""/>
+</frameset>
+</verb>

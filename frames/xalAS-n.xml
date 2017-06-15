@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xalAS</id>
+
+<frameset cdef="" edef="finished, to be completed" id="01" vncls="">
+<role argnum="1" argrole="thidngs finishe" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الموضوع ده خلاص * بلاش تتكلم فيه</parse>
+
+<arg f="" g="this subject" n="1">الموضوع ده</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="salvation" id="02" vncls="">
+<role argnum="1" argrole="entity saved" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خلاص المؤمن من قوة الخطيئة بيد الله</parse>
+
+<arg f="" g="the believer" n="1">المؤمن</arg>
+<arg f="" g="from the power of sin" n="2"/>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

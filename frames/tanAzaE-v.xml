@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanAzaE</id>
+<comment/>
+<frameset cdef="" edef="to dispute or quarrel, to pull back and forth" id="01" vncls="">
+<role argnum="0" argrole="entity disputing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(PUNC ,)
+    (CONJ أَمْ)
+    (SBAR
+      (SUB_CONJ أَنَّ)
+      (S
+        (ADVP-PRD
+          (ADV هِناك))
+        (ADVP
+          (ADV فَقَط))
+        (NP-SBJ
+          (NOUN مَصالِح)
+          (NP
+            (NP
+              (NOUN دُوَل))
+            (SBAR
+              (SBAR
+                (WHNP-3
+                  (-NONE- 0))
+                (S
+                  (PUNC ,)
+                  (VP
+                    (IV3FS+IV تِتنازع)
+                    (NP-SBJ
+                      (-NONE- *T*-3))
+                    (NP-CLR
+                      (NOUN مَعَ)
+                      (NP
+                        (NOUN مَصالِح)
+                        (NP
+                          (NOUN دُوَل)
+                          (ADJ أُخْرَى)))))))
+              (SBAR</parse>
+<comment/>
+<arg f="" g="Interests of countries" n="0">مَصالِح دُوَل</arg>
+<arg f="" g="with the interests of other countries" n="1">مَعَ مَصالِح دُوَل دُوَل أُخْرَى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

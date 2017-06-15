@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mA}il</id>
+<comment/>
+<frameset cdef="" edef="inclined, tilted, sloping, leaning" id="01" vncls="">
+<role argnum="1" argrole="entity leaning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان يكتب بخط مائل * نحو اليمين</parse>
+<comment/>
+<arg f="" g="with a font" n="1">* بخط</arg>
+<arg f="" g="toward the right" n="2">نحو اليمين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="toward what" vncls="" vntheta=""/>
+</frameset>
+</verb>

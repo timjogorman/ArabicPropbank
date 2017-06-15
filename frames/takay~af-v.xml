@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>takay~af</id>
+<comment/>
+<frameset cdef="" edef="to adapt or adjust oneself to" id="01" vncls="">
+<role argnum="0" argrole="entity adapting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تكيف الرجل مع الحياة هناك</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with life there" n="1">مع الحياة هناك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaT~ar</id>
+
+<frameset cdef="" edef="to drip or let fall in drops" id="01" vncls="">
+<role argnum="0" argrole="entity doing the dripping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قطر الطبيب الدواء في عيني المريض</parse>
+
+<arg f="" g="the doctor" n="0">الطبيب</arg>
+<arg f="" g="the medicine" n="1">الدواء</arg>
+<arg f="" g="in the eyes of the patient" n="3">في عيني المريض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things dripped" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="goal" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to filter, to distill" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قطر العطار السائل</parse>
+
+<arg f="" g="perfumer" n="0">العطار</arg>
+<arg f="" g="the liquid" n="1">السائل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things filtered" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to put close in a row" id="03" vncls="">
+<role argnum="0" argrole="entity arranging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قطر العامل العربات</parse>
+
+<arg f="" g="the worker" n="0">العامل</arg>
+<arg f="" g="the wagons" n="1">العربات</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things arranged" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

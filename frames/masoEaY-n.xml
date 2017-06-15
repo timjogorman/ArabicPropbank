@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>masoEaY</id>
+<comment/>
+<frameset cdef="" edef="effort, endeavor" id="01" vncls="">
+<role argnum="0" argrole="the entity trying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بارك الله مساعي الرجال لحلول السلام</parse>
+<comment/>
+<arg f="" g="the men" n="0">الرجال</arg>
+<arg f="" g="to establish the peace" n="1">لحلول السلام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing tried" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqAxaf</id>
+<comment/>
+<frameset cdef="" edef="to be tossed ( mostly by waves )" id="01" vncls="">
+<role argnum="1" argrole="entity tossed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقاذفته الامواج بقوة</parse>
+<comment/>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="the waves" n="2">الامواج</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to plet one another with, to throw to each other" id="02" vncls="">
+<role argnum="1" argrole="first entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقاذف الطرفان بعضهم بكلمات قاسية</parse>
+<comment/>
+<arg f="" g="both sides" n="1">الطرفان</arg>
+<arg f="" g="each other" n="2">بعضهم</arg>
+<arg f="" g="with harsh words" n="3">بكلمات قاسية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="second entity if not included in ARG 1" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

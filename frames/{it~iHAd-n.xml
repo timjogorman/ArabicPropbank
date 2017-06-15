@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{it~iHAd</id>
+<comment/>
+<frameset cdef="" edef="to unite or joing together" id="01" vncls="">
+<role argnum="0" argrole="thing uniting together" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اتحاد العرب مع الاكراد مستحيل</parse>
+<comment/>
+<arg f="" g="the Arab" n="0">العرب</arg>
+<arg f="" g="with the kurds" n="1">مع الاكراد</arg>
+<arg f="adv" g="imposible" n="m">مستحيل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing being united to, if separate from Arg0" vncls="" vntheta=""/>
+</frameset>
+</verb>

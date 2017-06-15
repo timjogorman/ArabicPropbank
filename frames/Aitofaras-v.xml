@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitofaras</id>
+<comment/>
+<frameset cdef="" edef="become infuriated, enraged" id="01" vncls="">
+<role argnum="0" argrole="the angry entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا اتفرست * لما سمعت انه اتجوز</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="when i heard that is got married" n="2">لما سمعت انه اتجوز</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="the patient" vncls="" vntheta=""/>
+<role argnum="2" argrole="the reason" vncls="" vntheta=""/>
+</frameset>
+</verb>

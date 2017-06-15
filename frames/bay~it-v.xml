@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bay~it</id>
+<comment/>
+<frameset cdef="" edef="spend the night at" id="01" vncls="">
+<role argnum="0" argrole="entity spending the  night" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا حبيت * عند أخوي الليلة</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="with my brother" n="1">عند أخوي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="cause to stay overnight, provide shelter" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبويا بيت * صاحبه في بيتنا</parse>
+<comment/>
+<arg f="" g="my father" n="0">* أبويا</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<arg f="" g="in our house" n="2">في بيتنا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity staying" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miydAn</id>
+<comment/>
+<frameset cdef="" edef="field, domain, public square" id="01" vncls="">
+<role argnum="1" argrole="the field" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يعتبر هذا الحقل ميدانا * للتجارب العلمية</parse>
+<comment/>
+<arg f="" g="this field" n="1">هذا الحقل</arg>
+<arg f="" g="for scientific experiments" n="2">للتجارب العلمية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

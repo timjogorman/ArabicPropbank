@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoZabaT</id>
+<comment/>
+<frameset cdef="" edef="be disciplined, be regulated, be adjusted" id="01" vncls="">
+<role argnum="0" argrole="controller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>السكر في جسمي انظبط * الحمد لله</parse>
+<comment/>
+<arg f="" g="the sugar in my body" n="1">* السكر في جسمي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing controlled" vncls="" vntheta=""/>
+</frameset>
+</verb>

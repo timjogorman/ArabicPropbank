@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eariq</id>
+<comment/>
+<frameset cdef="" edef="to sweat" id="01" vncls="">
+<role argnum="1" argrole="entity sweating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عرق الرجل بعد مجهود كبير</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

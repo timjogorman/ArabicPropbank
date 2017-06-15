@@ -1,77 +1,110 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Har~ar</id>
-    <frameset cdef="" edef="to free" id="01">
-        <role argnum="0" argrole="agent, entity providing freedom"/>
-        <role argnum="1" argrole="entity freed"/>
-        <role argnum="2" argrole="from what"/>
-        <frame>
-            <example>
-                <parse>
-                    (NP-PRD-3
-                    (NP
-                    (DET+NOUN+CASE_DEF_ACC السلام)
-                    (DET+ADJ+CASE_DEF_ACC العادل)
-                    (SBAR
-                    (WHNP-2
-                    (REL_PRON الذي)
-                    (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يحرر)
-                    (NP-SBJ
-                    (-NONE- *T*-2)
-                    (NP-OBJ
-                    (DET+NOUN+CASE_DEF_ACC الارض)
-                    (PUNC .)
-                </parse>
-                <arg f="" g="*T*-2 &amp;lt; Just peace" n="0">-NONE-</arg>
-                <arg f="" g="the land" n="1">الارض</arg>
-            </example>
-            <example>
-                <parse>
-                    full example from out of the corpus
-                    
-                    حرر الإسلام الإنسان من الأهواء وعبودية المادة
-                </parse>
-                <arg f="" g="Islam" n="0">الإسلام</arg>
-                <arg f="" g="humanity" n="1">الإنسان</arg>
-                <arg f="" g="from whims and material worship" n="2">من الأهواء وعبودية المادة</arg>
-            </example>
-        </frame>
-    </frameset>
-    <frameset cdef="" edef="to write or edit" id="02">
-        <role argnum="0" argrole="writer"/>
-        <role argnum="1" argrole="text"/>
-        <frame>
-            <example>
-                <parse>
-                    (CONJ و)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS حرر)
-                    (NP-SBJ
+<id>Har~ar</id>
+<frameset cdef="" edef="to free" id="01" vncls="jar~ada-1">
+<role argnum="0" argrole="agent, entity providing freedom" vncls="jar~ada-1" vntheta="agent"/>
+<role argnum="1" argrole="entity freed" vncls="jar~ada-1" vntheta="theme"/>
+<role argnum="2" argrole="from what" vncls="jar~ada-1" vntheta="source"/>
+<frame>
+<example>
+<parse>(NP-PRD-3
+    (NP
+      (DET+NOUN+CASE_DEF_ACC السلام)
+      (DET+ADJ+CASE_DEF_ACC العادل)
+    (SBAR
+      (WHNP-2
+        (REL_PRON الذي)
+      (S
+        (VP
+          (IV3MS+IV+IVSUFF_MOOD:I يحرر)
+          (NP-SBJ
+            (-NONE- *T*-2)
+          (NP-OBJ
+            (DET+NOUN+CASE_DEF_ACC الارض)
+  (PUNC .)</parse>
+<arg f="" g="*T*-2 &lt; Just peace" n="0">-2 السلام العادل</arg>
+<arg f="" g="the land" n="1">الارض</arg>
+
+
+<comment/>
+</example>
+<example>
+<parse>full example from out of the corpus
+
+ حرر الإسلام الإنسان من الأهواء وعبودية المادة</parse>
+<arg f="" g="Islam" n="0">الإسلام</arg>
+<arg f="" g="humanity" n="1">الإنسان</arg>
+<arg f="" g="from whims and material worship" n="2">من الأهواء وعبودية المادة</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to write or edit" id="02" vncls="">
+<role argnum="0" argrole="writer" vncls="" vntheta=""/>
+<role argnum="1" argrole="text" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(CONJ و)
+              (S
+                (VP
+                  (PV+PVSUFF_SUBJ:3MS حرر)
+                  (NP-SBJ
                     (-NONE- *)
-                    (PP
+                  (PP
                     (PREP ل)
                     (NP
-                    (PRON_3MS ه)
-                    (NP-OBJ
+                      (PRON_3MS ه)
+                  (NP-OBJ
                     (NP
-                    (NOUN+CASE_INDEF_ACC شيكاً)
+                      (NOUN+CASE_INDEF_ACC شيكاً)
                     (PP
-                    (PREP من)
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN حساب)
-                    (NP
-                    (POSS_PRON_3MS ه)
-                    (ADJP
-                    (DET+ADJ+CASE_DEF_GEN الخاص)
-                </parse>
-                <arg f="" g="he" n="0">-NONE-*</arg>
-                <arg f="gol" g="him" n="m">له</arg>
-                <arg f="" g="a check from his personal account" n="1">شيكاً من حسابه الخاص</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (PREP من)
+                      (NP
+                        (NP
+                          (NOUN+CASE_DEF_GEN حساب)
+                          (NP
+                            (POSS_PRON_3MS ه)
+                        (ADJP
+                          (DET+ADJ+CASE_DEF_GEN الخاص)</parse>
+<arg f="" g="he" n="0">-NONE-*</arg>
+<arg f="gol" g="him" n="m">له</arg>
+<arg f="" g="a check from his personal account" n="1">شيكاً من حسابه الخاص</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+
+<comment/>
+<frameset cdef="" edef="to become warm" id="03" vncls="">
+<role argnum="1" argrole="entity becoming warm" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الصيف جه واليوم تحرر * قوي</parse>
+<comment/>
+<arg f="" g="the day" n="1">واليوم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
 </verb>

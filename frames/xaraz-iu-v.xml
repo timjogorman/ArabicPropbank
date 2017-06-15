@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaraz-iu</id>
+
+<frameset cdef="" edef="to stitch, to bead, to puncture" id="01" vncls="">
+<role argnum="0" argrole="entity stitching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خرز الرجل الحذاء</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the shoe" n="1">الحذاء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity stitched" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

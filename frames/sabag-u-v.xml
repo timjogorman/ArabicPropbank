@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sabag-u</id>
+<comment/>
+<frameset cdef="" edef="to be completed or finished" id="01" vncls="">
+<role argnum="1" argrole="things finished" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سبغ الكتاب</parse>
+<comment/>
+<arg f="" g="the book" n="1">الكتاب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be long" id="02" vncls="">
+<role argnum="1" argrole="things becoming long" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سبغ الثوب</parse>
+<comment/>
+<arg f="" g="the dress" n="1">الثوب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="extension" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be comfortable or opulent" id="03" vncls="">
+<role argnum="1" argrole="things becoming comfortable" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سبغ العيش</parse>
+<comment/>
+<arg f="" g="the living" n="1">العيش</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to take sides with, to side with" id="04" vncls="">
+<role argnum="0" argrole="entity taking side" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سبغ الرجل الى وطنه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to his country" n="1">الى وطنه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+<role argnum="2" argrole="against what" vncls="" vntheta=""/>
+</frameset>
+</verb>

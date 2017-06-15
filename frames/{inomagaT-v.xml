@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inomagaT</id>
+
+<frameset cdef="" edef="to become long by pressing or pulling" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انمغط العجين بالمدلك مترين</parse>
+
+<arg f="" g="the dough" n="1">العجين</arg>
+<arg f="" g="with a roller" n="2">بالمدلك</arg>
+<arg f="" g="two meters" n="3">مترين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing grown" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<role argnum="3" argrole="amount increased by, EXT or MNR" vncls="" vntheta=""/>
+<role argnum="4" argrole="start point" vncls="" vntheta=""/>
+<role argnum="5" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

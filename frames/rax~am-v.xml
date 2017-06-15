@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rax~am</id>
+<comment/>
+<frameset cdef="" edef="To pacify, make gentle" id="01" vncls="">
+<role argnum="0" argrole="agent, cause of gentling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PRT
+        (NEG_PART مِش))
+      (PRT
+        (FUT_PART حَ))
+      (IV1P+IV نِرَخِّم)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP عَلَى)
+        (NP
+          (NOUN_QUANT بَعْض)))
+      (ADVP
+        (ADV بَقَى)))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="on each other" n="1">على بعض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity soothed, becoming gentle" vncls="" vntheta=""/>
+</frameset>
+</verb>

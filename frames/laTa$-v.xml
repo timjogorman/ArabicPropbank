@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laTa$</id>
+<comment/>
+<frameset cdef="" edef="to steal, to pilfer" id="01" vncls="">
+<role argnum="0" argrole="stealer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>في واحد لطش * محفظة أخويا امبارح</parse>
+<comment/>
+<arg f="" g="someone" n="0">* واحد</arg>
+<arg f="" g="wallet" n="1">محفظة</arg>
+<arg f="" g="my brother" n="2">أخويا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things stolen" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to slap" id="02" vncls="">
+<role argnum="0" argrole="entity hitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لطش * ه بالقلم وقال له قولتلك أعدل الطربوش يعني هضربك هضربك</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="with the hand" n="2">بالقلم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$at~aY</id>
+<comment/>
+<frameset cdef="" edef="to rain or get cold, spend the winter" id="01" vncls="">
+<role argnum="1" argrole="entity cold" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الدنيا بتشتي * عندنا</parse>
+<comment/>
+<arg f="" g="the weather" n="1">* الدنيا</arg>
+<arg f="loc" g="here" n="m">عندنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

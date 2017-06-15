@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaroD</id>
+<comment/>
+<frameset cdef="" edef="loan , advance" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حصل الرجل على قرض مئة ألف دولار * من البنك لشراء البيت</parse>
+<comment/>
+<arg f="" g="one hundred thousand dollar" n="1">مئة ألف دولار</arg>
+<arg f="" g="the man" n="2">* الرجل</arg>
+<arg f="" g="from the bank" n="0">من البنك</arg>
+<arg f="" g="to buy the house" n="3">لشراء البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the loan" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to gnaw or nibble at, to gut or clip" id="02" vncls="">
+<role argnum="0" argrole="entity biting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرض الفئران للأسلاك مشكلة</parse>
+<comment/>
+<arg f="" g="the rats" n="0">الفئران</arg>
+<arg f="" g="for the wires" n="1">للأسلاك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things bitten" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what ( usually teeth )" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to poetize or versify, to compose or write poetry" id="03" vncls="">
+<role argnum="0" argrole="composer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تعلم الطفل قرض * الشعر منذ كان عشر سنوات</parse>
+<comment/>
+<arg f="" g="the kid" n="0">* الطفل</arg>
+<arg f="" g="the poetry" n="1">الشعر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things composed" vncls="" vntheta=""/>
+</frameset>
+</verb>

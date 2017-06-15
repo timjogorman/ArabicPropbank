@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kamaE-a</id>
+<comment/>
+<frameset cdef="" edef="to quaff, to drink deeply" id="01" vncls="">
+<role argnum="0" argrole="entity drinking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كمع الرجل الحساء من الصحن</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the soup" n="1">الحساء</arg>
+<arg f="" g="from the plate" n="2">من الصحن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the drink" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

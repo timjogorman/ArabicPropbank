@@ -1,0 +1,80 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wAxid</id>
+<comment/>
+<frameset cdef="" edef="to take" id="01" vncls="">
+<role argnum="0" argrole="taker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا واحد * هم معايا للمدرسة</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="them" n="1">هم</arg>
+<arg f="loc" g="to school" n="m">للمدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="taken" vncls="" vntheta=""/>
+<role argnum="2" argrole="taken from, source" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="take on or become, to get used to" id="02" vncls="">
+<role argnum="1" argrole="entity acquiring something" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل واخد * شكل جديد بعد العملية</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="" g="new form" n="2">شكل جديد</arg>
+<arg f="tmp" g="after the surgery" n="m">بعد العملية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="new state, thing acquired" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to regard / hold an opinion about something" id="03" vncls="">
+<role argnum="0" argrole="agent / entity holding opinion" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو واخد * فكرة وسخة عن البنات</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="a bad idea" n="1">فكرة وسخة</arg>
+<arg f="" g="about the girls" n="2">عن البنات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="patient / thing about which has opinion" vncls="" vntheta=""/>
+<role argnum="2" argrole="opinion / value judgement" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="Multi-word expression: take a stand (أخذ موقف)" id="04" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده واخد * موقف وحش مني</parse>
+<comment/>
+<arg f="" g="he" n="0">* ده</arg>
+<arg f="" g="a bad stance" n="1">موقف وحش</arg>
+<arg f="" g="with me" n="2">مني</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="stand" vncls="" vntheta=""/>
+<role argnum="2" argrole="stance" vncls="" vntheta=""/>
+</frameset>
+</verb>

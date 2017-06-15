@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>galiT-a</id>
+
+<frameset cdef="" edef="to make or commit a mistake, to err" id="01" vncls="">
+<role argnum="0" argrole="entity making the mistake" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انا غلطت * في المجموع</parse>
+
+<arg f="" g="he" n="0">* انا</arg>
+<arg f="" g="in the total" n="1">في المجموع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to insult or offend" id="02" vncls="">
+<role argnum="0" argrole="insulter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (VP
+        (IV1P+IV نِغْلَط)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP فِي)
+          (NP
+            (NOUN_QUANT بَعْض)))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV1P+IV نِقُول)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (INTERJ مَعْلِش)
+          (FOREIGN swry))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3FS+IV تِعَدِّي)
+        (NP-SBJ
+          (-NONE- *))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="in each other" n="1">في بعض</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="insulted" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

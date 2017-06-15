@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hAtif</id>
+<comment/>
+<frameset cdef="" edef="yelling, shouting" id="01" vncls="">
+<role argnum="0" argrole="shouter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خرجت البنت هاتفة * يسقط مبارك</parse>
+<comment/>
+<arg f="" g="the girl" n="0">* البنت</arg>
+<arg f="" g="down with Mubarak" n="1">يسقط مبارك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="utterance" vncls="" vntheta=""/>
+<role argnum="2" argrole="about" vncls="" vntheta=""/>
+</frameset>
+</verb>

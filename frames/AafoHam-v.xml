@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AafoHam</id>
+<comment>EGYPTIAN ARABIC Framefile based on OafoHam</comment>
+<frameset cdef="" edef="to confute, to overhelm in argument" id="01">
+<role argnum="0" argrole="entity overhelming in argument" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>أفحم الطالب جميع أقرانه في كل نقاش</parse>
+<comment />
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="his class mates" n="1">جميع أقرانه</arg>
+<arg f="" g="in every argument" n="2">في كل نقاش</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset OafoHam.01</comment>
+<role argnum="1" argrole="with who" />
+<role argnum="2" argrole="in what" />
+</frameset>
+</verb>

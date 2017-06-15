@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>marobuwT</id>
+<comment/>
+<frameset cdef="" edef="tied , connected or related" id="01" vncls="">
+<role argnum="0" argrole="onnector" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>القارب مربوط * بالصخرة بالحبل</parse>
+<comment/>
+<arg f="" g="the boat" n="1">* القارب</arg>
+<arg f="" g="by the rock" n="2">بالصخرة</arg>
+<arg f="" g="with a rope" n="3">بالحبل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="connected" vncls="" vntheta=""/>
+<role argnum="2" argrole="Connicted with" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

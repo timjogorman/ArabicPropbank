@@ -1,0 +1,314 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daEaY</id>
+
+    <frameset cdef="" edef="to pray" id="05" vncls="">
+<role argnum="0" argrole="pray-er" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>دعا  الرجل الله أن يعطيه الصحة</parse>
+
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="God" n="1">الله</arg>
+<arg f="" g="to give him health" n="2">أن يعطيه الصحة</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="God" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what, prayer" vncls="" vntheta=""/>
+
+
+
+
+<comment>دعا الله: تضرع له
+Based on roleset daEaY-u.05</comment>
+</frameset>
+<frameset cdef="" edef="to invite" id="01" vncls="">
+<role argnum="0" argrole="inviter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3FS دعت)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (DET+NOUN_QUANT+CASE_DEF_ACC الجميع))
+      (PP-CLR
+        (PUNC ")
+        (PREP الى)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN العمل))
+          (PP
+            (PREP ل)
+            (NP
+              (NP
+                (NOUN+CASE_DEF_GEN تثبيت)
+                (NP
+                  (NP
+                    (DEM_PRON_F هذه))
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN العلاقة))))
+              (PP
+                (PREP في)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN العقول)
+                  (CONJ و)
+                  (DET+NOUN+CASE_DEF_GEN النفوس))))))
+        (PUNC ")))</parse>
+
+<arg f="" g="she" n="0">-NONE- *</arg>
+<arg f="" g="everyone" n="1">الجميع</arg>
+<arg f="" g="to work" n="2">إلى العمل</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="invited" vncls="" vntheta=""/>
+<role argnum="2" argrole="invited-to (marked by إلى)" vncls="" vntheta=""/>
+
+
+
+
+<comment>ناشد أو وجه دعوة
+Based on roleset daEaY-u.01</comment>
+</frameset>
+<frameset cdef="" edef="prompt, induce" id="02" vncls="">
+<role argnum="0" argrole="causer, prompter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>إن موقف الحكومة من الفقراء يدعو *  الصحفيين إلى التعجب</parse>
+
+<arg f="" g="it" n="0">* &gt; موقف الحكومة من الفقراء</arg>
+<arg f="" g="the journalists" n="1">الصحفيين</arg>
+<arg f="" g="the exclamation" n="2">إلى التعجب</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="impelled, agent" vncls="" vntheta=""/>
+<role argnum="2" argrole="impelled, action (marked by إلى)" vncls="" vntheta=""/>
+
+
+
+
+<comment>سبّب
+Based on roleset daEaY-u.02</comment>
+</frameset>
+<frameset cdef="" edef="to curse" id="06" vncls="">
+<role argnum="0" argrole="speaker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+          (NP-TPC-2
+            (NP
+              (DET+NOUN+CASE_DEF_NOM اليد))
+            (SBAR
+              (WHNP-1
+                (REL_PRON التي))
+              (S
+                (VP
+                  (PRT
+                    (NEG_PART لا))
+                  (IV3FS+IV+IVSUFF_MOOD:I تستطيع)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (NP-OBJ
+                    (PV+PVSUFF_SUBJ:3MS عض)
+                    (NP
+                      (NP
+                        (PVSUFF_DO:3FS ها))
+                      (NP
+                        (-NONE- *T*-1))))))))
+          (VP
+            (CV قبل)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NP
+                (CVSUFF_DO:3FS ها))
+              (NP
+                (-NONE- *T*-2)))))
+        (CONJ و)
+        (S
+          (VP
+            (CV ادع)
+            (NP-SBJ
+              (-NONE- *))
+            (PP
+              (PREP علي)
+              (NP
+                (PRON_3FS ها)))
+            (PP
+              (PREP ب)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الكسر)))))
+        (PUNC ")))</parse>
+
+<arg f="" g="you" n="0">-NONE- *</arg>
+<arg f="" g="on it" n="1">عليها</arg>
+<arg f="" g="to preak" n="2">بالكسر</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="on whom? (marked by على)" vncls="" vntheta=""/>
+<role argnum="2" argrole="utterance" vncls="" vntheta=""/>
+
+
+
+
+<comment>دعا عليه: طلب له الشر
+Based on roleset daEaY-u.06</comment>
+</frameset>
+
+
+<frameset cdef="" edef="to call name" id="07" vncls="">
+<role argnum="0" argrole="namer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>قابلت صحفيا  لا اعرف اسمه ولكن زملاءه يدعونه *  عبد الرحمن</parse>
+
+<arg f="" g="his friends" n="0">* زملاءه</arg>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="Abid AlRaHman" n="2">عبد الرحمن</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="named" vncls="" vntheta=""/>
+<role argnum="2" argrole="name of Arg1" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to call for, to require" id="08" vncls="">
+<role argnum="0" argrole="entity calling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(NP-SBJ
+            (NOUN_PROP مَحَمَّد)
+            (NOUN_PROP أَبُو)
+            (NOUN_PROP حامِد))
+          (NP-ADV
+            (NOUN+CASE_INDEF_ACC مَثَلاً))
+          (SBAR-NOM-PRD
+            (WHNP-1
+              (REL_PRON اِللِّي))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3MS دَعا)
+                (NP-SBJ
+                  (-NONE- *T*-1))
+                (PP-CLR
+                  (PREP لِ)
+                  (NP
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG الفِكْرَة))
+                    (NP
+                      (DEM_PRON_FS دِي)))))))))
+      (PUNC -)
+      (PUNC -)</parse>
+
+<arg f="" g="Muhammad Abu Hamid" n="0">مَحَمَّد أَبُو حامِد</arg>
+<arg f="" g="for this idea" n="2">لِلفِكْرَة دِي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity called" vncls="" vntheta=""/>
+<role argnum="2" argrole="things called for" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on daEaY-u</comment>
+</verb>

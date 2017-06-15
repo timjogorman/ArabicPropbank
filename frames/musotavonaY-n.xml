@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>musotavonaY</id>
+<comment/>
+<frameset cdef="" edef="exempt, to free from an obligation" id="01" vncls="">
+<role argnum="0" argrole="releaser, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الشاب مستثنى * من هذا القانون من قبل المدرسة</parse>
+<comment/>
+<arg f="" g="this young man" n="1">هذا الشاب</arg>
+<arg f="" g="from this law" n="2">من هذا القانون</arg>
+<arg f="" g="by the school" n="0">من قبل المدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity exempted" vncls="" vntheta=""/>
+<role argnum="2" argrole="exempted from" vncls="" vntheta=""/>
+</frameset>
+</verb>

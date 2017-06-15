@@ -1,87 +1,89 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>kad~-u</id>
-    <frameset cdef="" edef="to toil" id="01">
-        <role argnum="0" argrole="worker"/>
-        <role argnum="1" argrole="work"/>
-        <role argnum="2" argrole="goal"/>
-        <frame>
-            <example>
-                <parse>
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الفتاة))
-                    (SBAR
-                    (SBAR
+<id>kad~-u</id>
+<frameset cdef="" edef="to toil" id="01" vncls="">
+<role argnum="0" argrole="worker" vncls="" vntheta=""/>
+<role argnum="1" argrole="work" vncls="" vntheta=""/>
+<role argnum="2" argrole="goal" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الفتاة))
+                (SBAR
+                  (SBAR
                     (WHNP-1
-                    (REL_PRON التي))
+                      (REL_PRON التي))
                     (S
-                    (VP
+                      (VP
+                        (PRT
+                          (NEG_PART لم))
+                        (IV3FS+IV+IVSUFF_MOOD:J تستسلم)
+                        (NP-SBJ
+                          (-NONE- *T*-1))
+                        (PP-CLR
+                          (PREP ل)
+                          (NP
+                            (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN وصاية)
+                            (NP
+                              (DET+NOUN+CASE_DEF_GEN الزوج))))
+                        (NP-ADV
+                          (NOUN+CASE_DEF_ACC مع)
+                          (SBAR
+                            (SUB_CONJ ان)
+                            (S
+                              (NP-TPC-2
+                                (PRON_3FS ها))
+                              (VP
+                                (PV+PVSUFF_SUBJ:3FS تزوجت)
+                                (NP-SBJ
+                                  (-NONE- *T*-2))
+                                (PP
+                                  (PREP في)
+                                  (NP
+                                    (DET+ADJ_NUM+NSUFF_FEM_SG+CASE_DEF_GEN الثالثة)
+                                    (NOUN_NUM+NSUFF_FEM_SG+CASE_DEF_ACC عشرة))))))))))
+                  (PUNC ,)
+                  (SBAR
                     (PRT
-                    (NEG_PART لم))
-                    (IV3FS+IV+IVSUFF_MOOD:J تستسلم)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (PP-CLR
-                    (PREP ل)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN وصاية)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الزوج))))
-                    (NP-ADV
-                    (NOUN+CASE_DEF_ACC مع)
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (NP-TPC-2
-                    (PRON_3FS ها))
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS تزوجت)
-                    (NP-SBJ
-                    (-NONE- *T*-2))
-                    (PP
-                    (PREP في)
-                    (NP
-                    (DET+ADJ_NUM+NSUFF_FEM_SG+CASE_DEF_GEN الثالثة)
-                    (NOUN_NUM+NSUFF_FEM_SG+CASE_DEF_ACC عشرة))))))))))
-                    (PUNC ,)
-                    (SBAR
-                    (PRT
-                    (RESTRIC_PART انما))
+                      (RESTRIC_PART انما))
                     (WHNP-3
-                    (-NONE- 0))
+                      (-NONE- 0))
                     (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS كدت)
-                    (NP-SBJ
-                    (-NONE- *T*-3)))))
-                    (CONJ و)
-                    (SBAR
+                      (VP
+                        (PV+PVSUFF_SUBJ:3FS كدت)
+                        (NP-SBJ
+                          (-NONE- *T*-3)))))
+                  (CONJ و)
+                  (SBAR
                     (WHNP-4
-                    (-NONE- 0))
+                      (-NONE- 0))
                     (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS اجتهدت)
-                    (NP-SBJ
-                    (-NONE- *T*-4)))))
-                    (CONJ و)
+                      (VP
+                        (PV+PVSUFF_SUBJ:3FS اجتهدت)
+                        (NP-SBJ
+                          (-NONE- *T*-4)))))
+                  (CONJ و)
+                  (SBAR
                     (SBAR
-                    (SBAR
-                    (WHNP-5
-                    (-NONE- 0))
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS تجاوزت)
-                    (NP-SBJ
-                    (-NONE- *T*-5))
-                    (NP-OBJ
-                    (PVSUFF_DO:3MS ه)))))
+                      (WHNP-5
+                        (-NONE- 0))
+                      (S
+                        (VP
+                          (PV+PVSUFF_SUBJ:3FS تجاوزت)
+                          (NP-SBJ
+                            (-NONE- *T*-5))
+                          (NP-OBJ
+                            (PVSUFF_DO:3MS ه)))))
                     (CONJ ف)
                     (SBAR
-                    (WHNP-6
-                    (-NONE- 0))
-                </parse>
-                <arg f="" g="She" n="">-NONE- *T*-3&amp;lt;الفتاة</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (WHNP-6
+                        (-NONE- 0))</parse>
+<arg f="" g="She" n="0">-NONE- *T*-3&lt;الفتاة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
 </verb>

@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taxAnaq</id>
+
+<frameset cdef="" edef="to quarrel or fight" id="01" vncls="">
+<role argnum="0" argrole="entity fighting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده بيتخانق * كل يوم مع مراته عشان العيال</parse>
+
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="tmp" g="every day" n="m">كل يوم</arg>
+<arg f="" g="with his wife" n="1">مع مراته</arg>
+<arg f="" g="for the children" n="2">عشان العيال</arg>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="reason" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

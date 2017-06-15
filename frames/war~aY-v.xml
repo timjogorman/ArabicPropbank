@@ -1,0 +1,97 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>war~aY</id>
+
+<frameset cdef="" edef="to cause hard time for (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity causing hard time" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حوري * ك نجوم الليل في عز الظهر</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="he" n="1">ك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things caused" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="victim if separated ARG1" vncls="" vntheta=""/>
+</frameset>
+    <frameset cdef="" edef="to make see, to show" id="03" vncls="">
+<role argnum="0" argrole="entity showing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (VP
+      (IV1P+IV نجيب)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_SG واحدة)
+        (ADJ+NSUFF_FEM_SG مشوهة))))
+  (S
+    (S
+      (VP
+        (IV1P+IV نفرج)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (IVSUFF_DO:3FS ها))
+        (PP
+          (NP
+            (X
+              (TYPO للهالم))))))
+    (CONJ و)
+    (S
+      (VP
+        (IV1P+IV نلعب)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP ب)
+          (NP
+            (NOUN اعصاب)
+            (NP
+              (DET+NOUN الناس))))
+        (PP-PRP
+          (PREP ع)
+          (NP
+            (NOUN شان)
+            (S
+              (VP
+                (IV1P+IV نلم)
+                (NP-SBJ
+                  (-NONE- *))
+                (PP
+                  (PREP ل)
+                  (NP
+                    (PRON_3FS ها)))
+                (NP-OBJ
+                  (NOUN فلوس))))))))))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="she" n="1">ها</arg>
+<arg f="" g="to the world" n="2">للعالم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things showed" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<comment>Based on roleset far~aj.03</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on far~aj</comment>
+</verb>

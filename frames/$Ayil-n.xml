@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$Ayil</id>
+
+<frameset cdef="" edef="carrier, carrying" id="01" vncls="">
+<role argnum="0" argrole="carrier" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شفت الراجل شايل * ولاده من البيت للمدرسة</parse>
+
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his kids" n="1">ولاده</arg>
+<arg f="" g="from house" n="2">من البيت</arg>
+<arg f="" g="to school" n="3">للمدرسة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing carried" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="worried (multi word expression)" id="02" vncls="">
+<role argnum="1" argrole="entity worried" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا شايل * هم الامتحان</parse>
+
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="the test" n="2">هم الامتحان</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="about" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

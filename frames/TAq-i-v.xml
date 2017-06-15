@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TAq-i</id>
+<comment/>
+<frameset cdef="" edef="to bear, to stand, to tolerate" id="01">
+<role argnum="0" argrole="entity bearing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لم يطق المتهم صبرا فنهض مستغيثا</parse>
+<comment/>
+<arg f="" g="accused" n="0">المتهم</arg>
+<arg f="" g="patience" n="1">صبرا</arg>
+</example>
+<comment/>
+</frame>
+<comment>تحملَّ</comment>
+<role argnum="1" argrole="bearing what"/>
+</frameset>
+</verb>

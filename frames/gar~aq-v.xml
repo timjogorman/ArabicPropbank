@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gar~aq</id>
+
+<frameset cdef="" edef="to sink, to drawn" id="01" vncls="xanaqa-1">
+<role argnum="0" argrole="causer" vncls="xanaqa-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>غرق الملاح المركب</parse>
+
+<arg f="" g="the sailor" n="0">الملاح</arg>
+<arg f="" g="the boat" n="1">المركب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things sinked" vncls="xanaqa-1" vntheta="theme"/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to dump, to glut, to flood, to cover" id="02" vncls="">
+<role argnum="0" argrole="entity flooding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>غرق التجار البلد بالبضاعة الفاسدة</parse>
+
+<arg f="" g="the merchants" n="0">التجار</arg>
+<arg f="" g="the country" n="1">البلد</arg>
+<arg f="" g="with decayed goods" n="2">بالبضاعة الفاسدة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity flooded" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

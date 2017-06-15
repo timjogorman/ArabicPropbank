@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tajAraY</id>
+
+<frameset cdef="" edef="to keep pace with, to keep up with, to go along with" id="01" vncls="">
+<role argnum="0" argrole="entity keeping up" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تجارى الرجل مع الأحداث</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with the events" n="1">مع الأحداث</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to debate or argue" id="02" vncls="">
+<role argnum="0" argrole="entity arguing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تجارى الناس في الموضوع</parse>
+
+<arg f="" g="the people" n="0">الناس</arg>
+<arg f="" g="in the subject" n="2">في الموضوع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

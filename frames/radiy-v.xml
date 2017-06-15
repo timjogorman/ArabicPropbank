@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>radiy</id>
+<comment/>
+<frameset cdef="" edef="to perish or destroyed" id="01" vncls="">
+<role argnum="0" argrole="the killer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ردي القائد  برصاصة قناص</parse>
+<comment/>
+<arg f="" g="the commandar" n="1">القائد</arg>
+<arg f="" g="with a sniper bullet" n="2"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity died" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to fall or tumble" id="02" vncls="">
+<role argnum="1" argrole="entity falling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ردي الرجل في الحفرة</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="in the hole" n="2">في الحفرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

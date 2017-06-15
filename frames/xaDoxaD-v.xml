@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaDoxaD</id>
+
+<frameset cdef="" edef="to agitate" id="01" vncls="">
+<role argnum="0" argrole="entity agitating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse/>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="the can" n="1">العلبة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity agitated" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

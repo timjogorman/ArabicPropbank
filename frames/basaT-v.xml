@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>basaT</id>
+<comment/>
+<frameset cdef="" edef="to delight, make happy" id="01" vncls="">
+<role argnum="0" argrole="entity causing delight" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مش لاقي حاجة تبسط * ني</parse>
+<comment/>
+<arg f="" g="something" n="0">حاجة</arg>
+<arg f="" g="me" n="1">ني</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity delighted" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

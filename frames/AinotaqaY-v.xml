@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AinotaqaY</id>
+<comment>EGYPTIAN ARABIC Framefile based on {inotaqaY</comment>
+<frameset cdef="" edef="to select, to choose" id="01">
+<role argnum="0" argrole="entity selecting" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>انتقى سامح لخطيبته خاتم الماس من بين مجموعة كبيرة</parse>
+<comment />
+<arg f="" g="Samih" n="0">سامح</arg>
+<arg f="" g="for his fiancee" n="3">لخطيبته</arg>
+<arg f="" g="a diamond ring" n="1">خاتم الماس</arg>
+<arg f="" g="out of a big collection" n="2">من بين مجموعة كبيرة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {inotaqaY.01</comment>
+<role argnum="1" argrole="things selected" />
+<role argnum="2" argrole="out of what" />
+<role argnum="3" argrole="for what" />
+</frameset>
+</verb>

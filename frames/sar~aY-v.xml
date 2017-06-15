@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sar~aY</id>
+<comment/>
+<frameset cdef="" edef="To delight" id="01" vncls="">
+<role argnum="0" argrole="agent, pleaser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (FRAG
+    (NP-ADV
+      (NOUN+CASE_INDEF_ACC عُمُوماً))
+    (NP-ADV
+      (NOUN+CASE_INDEF_ACC شُكْراً))
+    (SBAR
+      (SUB_CONJ إِنّ)
+      (S
+        (NP-TPC-1
+          (PRON_2FS ِك))
+        (VP
+          (PV+PVSUFF_SUBJ:2FS فَكَّرتِي)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (S
+            (VP
+              (IV2FS+IV+IVSUFF_SUBJ:2FS تِسَرِّي)
+              (NP-SBJ
+                (-NONE- *))
+              (PP-CLR
+                (PREP عَنّ)
+                (NP
+                  (PRON_1S ِي))))))))))</parse>
+<comment/>
+<arg f="" g="you" n="0">* ك</arg>
+<arg f="" g="for me" n="1">عني</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="patient, entity pleased" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrumental" vncls="" vntheta=""/>
+</frameset>
+</verb>

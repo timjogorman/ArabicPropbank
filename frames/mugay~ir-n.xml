@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mugay~ir</id>
+<comment/>
+<frameset cdef="" edef="changer" id="01" vncls="">
+<role argnum="0" argrole="changer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سبحان الله مغير * الأحوال من السيء الى الأحسن</parse>
+<comment/>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="circumstances" n="1">الأحوال</arg>
+<arg f="" g="from bad" n="2">من السيء</arg>
+<arg f="" g="to better" n="3">الى الأحسن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity changed" vncls="" vntheta=""/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+<role argnum="3" argrole="into what" vncls="" vntheta=""/>
+</frameset>
+</verb>

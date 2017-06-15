@@ -1,0 +1,130 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ead~</id>
+
+    <frameset cdef="" edef="to prepare" id="01" vncls="">
+<role argnum="0" argrole="preparer" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing prepared" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>الاقتراحات لم تعد **-1 كي تحل * مكان تقرير ميتشل ووثيقة تينيت ولكن لتقديم اطار لين لتنفيذهما</parse>
+<arg f="" g="the proposals" n="1">الاقتراحات</arg>
+<arg f="prp" g="to take the place of the Mitchell report and the Tenet document, but to provide a framework for their implementation Contribute a better translation" n="m">كي تحل * مكان تقرير ميتشل ووثيقة تينيت ولكن لتقديم اطار لين لتنفيذهما</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset Ead~-a.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to count things" id="02" vncls="">
+<role argnum="0" argrole="entity counting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عد الرجل المال</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the money" n="1">المال</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things counted" vncls="" vntheta=""/>
+<comment>Egyptian</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Ead~-a</comment>
+<frameset cdef="" edef="to consider" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(DET+NOUN+NSUFF_FEM_SG المُشْكِلَة)
+                    (DET+ADJ+NSUFF_FEM_SG الأَساسِيَّة))
+                  (SBAR
+                    (WHNP-2
+                      (REL_PRON الَّتِي))
+                    (S
+                      (VP
+                        (IV3MS+IV يَجِب)
+                        (PP
+                          (PREP عَلَى)
+                          (NP
+                            (DET+NOUN المُعَسْكَر)))
+                        (NP-SBJ
+                          (NOUN تَناوِل)
+                          (NP
+                            (NP
+                              (POSS_PRON_3FS ها))
+                            (NP
+                              (-NONE- *T*-2))))))))
+                (NP
+                  (PRON_3FS هِيَّ)))
+              (NP-PRD
+                (NP
+                  (DET+NOUN المَلَل))
+                (SBAR
+                  (SBAR
+                    (WHNP-3
+                      (REL_PRON الَّذِي))
+                    (S
+                      (VP
+                        (IV3MS+IV يُصِيب)
+                        (NP-SBJ
+                          (-NONE- *T*-3))
+                        (NP-OBJ
+                          (DET+NOUN+NSUFF_MASC_DU الزُوجِين))
+                        (NP-TMP
+                          (NOUN بَعْد)
+                          (NP
+                            (NOUN مُرُور)
+                            (NP
+                              (NP
+                                (NOUN+NSUFF_FEM_SG فَتْرَة)
+                                (ADJ+NSUFF_FEM_SG قُصَيَّرَة))
+                              (PP
+                                (PREP عَلَى)
+                                (NP
+                                  (NOUN+CASE_DEF_GEN زَواجِ)
+                                  (NP
+                                    (POSS_PRON_3D هِما))))))))))
+                  (PUNC ,)
+                  (CONJ وَ)
+                  (SBAR
+                    (WHNP-5
+                      (REL_PRON الَّذِي))
+                    (S
+                      (VP
+                        (IV3MS+IV_PASS يُعَدّ)
+                        (NP-SBJ-4
+                          (-NONE- *T*-5))
+                        (S
+                          (NP-SBJ
+                            (-NONE- *-4))
+                          (NP-PRD
+                            (NOUN+NSUFF_FEM_SG آفَة)
+                            (NP
+                              (NOUN_QUANT كُلّ)
+                              (NP
+                                (NOUN+NSUFF_FEM_SG أُسْرَة)))))))))))))))</parse>
+<comment/>
+<arg f="" g="boredom" n="1">المَلَل</arg>
+<arg f="" g="the epidemic of every family" n="2">آفَة كُلّ أُسْرَة</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="things considered" vncls="" vntheta=""/>
+<role argnum="2" argrole="considered what" vncls="" vntheta=""/>
+</frameset>
+</verb>

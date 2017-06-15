@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>makotuwm</id>
+<comment/>
+<frameset cdef="" edef="unable to talk (multi word expression)" id="01" vncls="">
+<role argnum="1" argrole="entity unable to talk" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دي هي اللي بتقول انه بقالها سنين مكتومة * لأنها خايفة من زوجها</parse>
+<comment/>
+<arg f="" g="she" n="1">* هي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="hidden" id="02" vncls="">
+<role argnum="1" argrole="things hidden" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الامور دي مكتومة * عنهم</parse>
+<comment/>
+<arg f="" g="these things" n="1">* الامور دي</arg>
+<arg f="" g="from them" n="2">عنهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

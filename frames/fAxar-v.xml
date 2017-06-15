@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fAxar</id>
+<comment/>
+<frameset cdef="" edef="to vie in glory with to pride onself on" id="01">
+<role argnum="0" argrole="entity taking pride"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الغرب يفاخر * بنظامه المتعدد النقدي</parse>
+<comment/>
+<arg f="" g="the west" n="0">الغرب</arg>
+<arg f="" g="with his system" n="2">بنظامه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom"/>
+<role argnum="2" argrole="with what"/>
+</frameset>
+</verb>

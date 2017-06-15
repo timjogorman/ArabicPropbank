@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inogamar</id>
+
+<frameset cdef="" edef="to be drowned, covered" id="01" vncls="">
+<role argnum="0" argrole="coverer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انغمرت العجلة في الثلج</parse>
+
+<arg f="" g="the weel" n="1">العجلة</arg>
+<arg f="" g="in the snow" n="2">في الثلج</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing coverd" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what or in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

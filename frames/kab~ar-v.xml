@@ -1,0 +1,78 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kab~ar</id>
+
+<frameset cdef="" edef="to exclaim&quot;God is great''" id="01" vncls="basomala-1">
+<role argnum="0" argrole="entity shouting" vncls="basomala-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>كبر الجيش قبل الهجوم</parse>
+
+<arg f="" g="the army" n="0">الجيش</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to enlarge, to magnify, to exaggerate" id="02" vncls="">
+<role argnum="0" argrole="entity enlarging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>كبر علي الصورة ثلاثة اضعاف حجمها</parse>
+
+<arg f="" g="Ali" n="0">علي</arg>
+<arg f="" g="the picture" n="1">الصورة</arg>
+<arg f="" g="three times its size" n="2">ثلاثة اضعاف حجمها</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things enlarged" vncls="" vntheta=""/>
+<role argnum="2" argrole="size times" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to be wise, to understand (idiomatic expression) كَبِّر دماغك" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كَبِّر * دماغك يا عم</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="your brain" n="1">دماغك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things enlarged" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

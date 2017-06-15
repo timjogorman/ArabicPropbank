@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xab~aT</id>
+<frameset cdef="" edef="to peck or click, to knock" id="01" vncls="">
+<role argnum="0" argrole="pecker/click" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing pecked/ place clicked" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>وتنزرع * عميقا , اغوَر من ان تلفحها شمس , او ينقرها طير ,</parse>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="bird" n="0">طير</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset naqar-u-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on naqar-u-v</comment>
+</verb>

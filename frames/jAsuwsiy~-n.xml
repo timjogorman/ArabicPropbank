@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jAsuwsiy~</id>
+<comment/>
+<frameset cdef="" edef="relational adjective" id="01" vncls="">
+<role argnum="0" argrole="relation" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+<arg f="" g="" n="0"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attribute of relationship" vncls="" vntheta=""/>
+</frameset>
+</verb>

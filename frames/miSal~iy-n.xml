@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miSal~iy</id>
+<comment/>
+<frameset cdef="" edef="praying, worshiping" id="01" vncls="">
+<role argnum="0" argrole="pray-er ,Experiencer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا على طول رحت مصلي * لربنا انه الاقي شغل</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="for our God" n="1">لربنا</arg>
+<arg f="" g="that i will find a job" n="2">انه الاقي شغل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

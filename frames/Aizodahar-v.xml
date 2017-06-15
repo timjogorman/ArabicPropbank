@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aizodahar</id>
+<comment>EGYPTIAN ARABIC based on {izodahar</comment>
+    <frameset cdef="" edef="to flourish or thrive, to gleam" id="01">
+<role argnum="1" argrole="entity thriving" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ازدهر العلم في عالمنا</parse>
+<comment />
+<arg f="" g="science" n="1">العلم</arg>
+<arg f="loc" g="in our world" n="m">في عالمنا</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {izodahar.01</comment>
+</frameset>
+</verb>

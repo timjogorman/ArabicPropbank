@@ -1,0 +1,98 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>qAd</id>
+<comment>EGYPTIAN ARABIC based on qAd-u</comment>
+    <frameset cdef="" edef="to lead, conduct" id="01">
+<role argnum="0" argrole="leader" />
+<role argnum="1" argrole="thing led" />
+<role argnum="2" argrole="destination/end state" />
+<frame>
+<example>
+<parse>
+(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS قاد)
+    (NP-OBJ
+      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC المباراة))
+    (NP-SBJ
+      (NP
+        (NOUN_NUM+NSUFF_FEM_SG+CASE_DEF_NOM ثلاثة)
+        (NP
+          (NOUN+CASE_INDEF_GEN حكام)))
+      (ADJP
+        (ADJ+NSUFF_MASC_PL_GEN دوليين)))))
+</parse>
+<arg f="" g="the game" n="0">المباراة</arg>
+<arg f="" g="three international referees" n="1">ثلاثة حكام دوليين</arg>
+</example>
+</frame>
+<comment>Based on roleset qAd-u.01</comment></frameset>
+<frameset cdef="" edef="to drive" id="03">
+<role argnum="0" argrole="the driver" />
+<role argnum="1" argrole="vehicle" />
+<role argnum="2" argrole="source" />
+<role argnum="3" argrole="destination" />
+<frame>
+<example>
+<parse>
+(VP
+      (PV+PVSUFF_SUBJ:3FS انفجرت)
+      (NP-SBJ
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_INDEF_NOM سيارة)
+          (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM مفخخة))
+        (SBAR
+          (WHNP-1
+            (-NONE- 0))
+          (S
+            (VP
+              (IV3MS+IV+IVSUFF_MOOD:I يقود)
+              (NP-OBJ
+                (NP
+                  (IVSUFF_DO:3FS ها))
+                (NP
+                  (-NONE- *T*-1)))
+              (NP-SBJ
+                (NOUN+CASE_INDEF_NOM مهاجم)
+                (ADJ+CASE_INDEF_NOM انتحاري))))))
+      (NP-LOC
+        (NOUN+CASE_DEF_ACC امام)
+        (NP
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN القنصلية)
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاميركية))
+          (PP-LOC
+            (PREP في)
+            (NP
+              (NOUN_PROP كراتشي)))))))
+  (PUNC ,)
+  (CONJ ف)
+  (S
+    (VP
+      (PV_PASS+PVSUFF_SUBJ:3MS قتل)
+      (NP-SBJ-2
+        (NOUN_NUM 11)
+        (NP
+          (NOUN+CASE_INDEF_ACC شخصاً)))
+      (NP-OBJ
+        (-NONE- *-2))))
+  (CONJ و)
+  (S
+    (VP
+      (PV_PASS+PVSUFF_SUBJ:3MS اصيب)
+      (NP-SBJ-3
+        (NOUN_NUM 45)
+        (ADJ+NSUFF_MASC_PL_NOM آخرون))
+      (NP-OBJ
+        (-NONE- *-3))
+      (PP-CLR
+        (PREP ب)
+        (NP
+          (NOUN+CASE_INDEF_GEN جروح)))))
+</parse>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="a suicide bomber" n="0">مهاجم انتحاري</arg>
+<arg f="" g="In front of the American consulate in Karashi" n="3">امام القنصلية الاميركية في كراتشي</arg>
+</example>
+</frame>
+<comment>Based on roleset qAd-u.03</comment></frameset>
+</verb>

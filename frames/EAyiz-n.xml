@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAyiz</id>
+<comment/>
+<frameset cdef="" edef="to want or desire" id="01" vncls="">
+<role argnum="0" argrole="wanter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ركاب عاوزين * يركبوا ببلاش</parse>
+<comment/>
+<arg f="" g="passengers" n="0">* ركاب</arg>
+<arg f="" g="to ride for free" n="1">يركبوا ببلاش</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing wanted" vncls="" vntheta=""/>
+</frameset>
+</verb>

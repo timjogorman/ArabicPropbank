@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaroSan</id>
+<comment/>
+<frameset cdef="" edef="to become a pirate, to steel" id="01" vncls="">
+<role argnum="1" argrole="entity becoming pirate" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو عمال يقرصن * الايام دي</parse>
+<comment/>
+<arg f="" g="he" n="">* هو</arg>
+</example>
+<comment/>
+</frame>
+<comment>egyptian</comment>
+</frameset>
+</verb>

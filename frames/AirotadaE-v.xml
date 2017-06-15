@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AirotadaE</id>
+<comment/>
+<frameset cdef="" edef="to be deterred from" id="01" vncls="">
+<role argnum="1" argrole="entity stopping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+                        (VP
+                          (PV+PVSUFF_SUBJ:3P كانُوا)
+                          (NP-SBJ
+                            (-NONE- *))
+                          (ADJP-PRD
+                            (ADJ+NSUFF_MASC_PL عاوْزِين)
+                            (NP
+                              (ADJ_COMP أَكْثَر)))
+                          (PP-PRP
+                            (PREP عَلَى)
+                            (NP
+                              (NOUN شان)
+                              (S
+                                (NP-TPC-3
+                                  (DET+NOUN الناس))
+                                (VP
+                                  (IV3FS+IV تِرتِدِع)
+                                  (NP-SBJ
+                                    (-NONE- *T*-3)))))))))))))))))))</parse>
+<comment/>
+<arg f="" g="people" n="1">*-3 الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

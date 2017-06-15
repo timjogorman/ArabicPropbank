@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHamaD</id>
+
+<frameset cdef="" edef="to become sour" id="01" vncls="">
+<role argnum="1" argrole="sour entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحمض الماء بعصير الليمون</parse>
+
+<arg f="" g="water" n="1">الماء</arg>
+<arg f="" g="with lemon juice" n="2">بعصير الليمون</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

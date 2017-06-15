@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HaloHal</id>
+<comment/>
+<frameset cdef="" edef="to disjoin" id="01" vncls="">
+<role argnum="0" argrole="entity disjoining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حلحلت المسمار من الجدار باليد</parse>
+<comment/>
+<arg f="" g="I" n="">ت</arg>
+<arg f="" g="the nail" n="">المسمار</arg>
+<arg f="" g="from the wall" n="">من الجدار</arg>
+<arg f="" g="with the hand" n="">باليد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity being disjoined" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what/where" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

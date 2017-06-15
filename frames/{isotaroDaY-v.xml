@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaroDaY</id>
+
+<frameset cdef="" edef="to seek somebody's acceptance" id="01" vncls="">
+<role argnum="0" argrole="entity asking for the acceptance" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اِسْتَرْضَى الابْنُ وَالِدَهُ</parse>
+
+<arg f="" g="son" n="0">لابْنُ</arg>
+<arg f="" g="father" n="1">وَالِدَهُ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity asked" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

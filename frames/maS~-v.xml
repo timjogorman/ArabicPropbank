@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maS~</id>
+<comment/>
+<frameset cdef="" edef="to suck, to sip, to suck up" id="01" vncls="">
+<role argnum="0" argrole="entity sipping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الحكومة بتمص *  دمنا</parse>
+<comment/>
+<arg f="" g="the govrenment" n="0">* الحكومة</arg>
+<arg f="" g="our blood" n="1">دمنا</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="things sipped" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

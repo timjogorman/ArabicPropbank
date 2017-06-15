@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tadAnaY</id>
+<comment/>
+<frameset cdef="" edef="to come near or close, to get close to another" id="01">
+<role argnum="0" argrole="entity getting close"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تدانى الحاضرون حول المتكلم</parse>
+<comment/>
+<arg f="" g="the audience" n="0">الحاضرون</arg>
+<arg f="" g="arround the speaker" n="1">حول المتكلم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what"/>
+</frameset>
+<frameset cdef="" edef="to get less" id="02">
+<role argnum="1" argrole="things getting less"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تدانى راتب أخي من الالف الى النصف</parse>
+<comment/>
+<arg f="" g="the salary" n="1">راتب</arg>
+<arg f="" g="my brother" n="2">أخي</arg>
+<arg f="" g="from a thousand" n="3">من الالف</arg>
+<arg f="" g="to the half" n="4">الى النصف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="beneficiary"/>
+<role argnum="3" argrole="start point"/>
+<role argnum="4" argrole="end point"/>
+<role argnum="5" argrole="ext, how much"/>
+</frameset>
+</verb>

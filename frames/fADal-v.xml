@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fADal</id>
+<comment/>
+<frameset cdef="" edef="to compare" id="01" vncls="">
+<role argnum="0" argrole="entity choosing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>المفروض إحنا نفاضل * بينهم</parse>
+<comment/>
+<arg f="" g="we" n="0">* إحنا</arg>
+<arg f="" g="between them" n="1">بينهم</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="first thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="second thing (if separated from ARG1)" vncls="" vntheta=""/>
+</frameset>
+</verb>

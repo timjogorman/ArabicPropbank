@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>bAliy</id>
+<comment>EGYPTIAN ARABIC based on balA-u
+Framefile based on balaY</comment>
+    <frameset cdef="" edef="to test or try, to afflict" id="01">
+<role argnum="0" argrole="tester" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>بلانا بهم ربي وولاهم على قلبي</parse>
+<comment />
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="with them" n="2">بهم</arg>
+<arg f="" g="my God" n="0">ربي</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset balaY.01</comment>
+<role argnum="1" argrole="tested" />
+<role argnum="2" argrole="in what" />
+</frameset>
+</verb>

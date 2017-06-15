@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taroqiyap</id>
+<comment/>
+<frameset cdef="" edef="promotion, advancement" id="01" vncls="">
+<role argnum="0" argrole="causer of motion, employer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم ترقيته من قبل المدير من عامل الى مراقب عمل</parse>
+<comment/>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="by the manager" n="0">من قبل المدير</arg>
+<arg f="" g="from a employee" n="2">من عامل</arg>
+<arg f="" g="to a supervisor" n="3">الى مراقب عمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing in motion, employee" vncls="" vntheta=""/>
+<role argnum="2" argrole="start position" vncls="" vntheta=""/>
+<role argnum="3" argrole="new rank or position" vncls="" vntheta=""/>
+</frameset>
+</verb>

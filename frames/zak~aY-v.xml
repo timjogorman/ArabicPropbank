@@ -1,42 +1,81 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>zak~aY</id>
-    <comment/>
-    <frameset cdef="" edef="to recommend" id="01">
-        <role argnum="0" argrole="recommender"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>الشيخ محمد ايوب يزكي  *  تلميذه الشيخ مشعل المطر</parse>
-                <comment/>
-                <arg f="" g="he" n="0">* &gt; الشيخ محمد ايوب</arg>
-                <arg f="" g="his student" n="1">تلميذه</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="entity recommended"/>
-        <role argnum="2" argrole="recommended to"/>
-    </frameset>
-    <frameset cdef="" edef="to give alms or charity" id="02">
-        <role argnum="0" argrole="giver"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>سؤال: كيف  نزكي  * أموال اليتامى ؟</parse>
-                <comment/>
-                <arg f="" g="we" n="0">*</arg>
-                <arg f="" g="The wealth of orphans" n="1">أموال اليتامى</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="thing given"/>
-        <role argnum="1" argrole="about what? (marked by عن)"/>
-        <role argnum="3" argrole="entity given to"/>
-    </frameset>
+<id>zak~aY</id>
+
+<frameset cdef="" edef="to recommend" id="01" vncls="">
+<role argnum="0" argrole="recommender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الشيخ محمد ايوب يزكي  *  تلميذه الشيخ مشعل المطر</parse>
+
+<arg f="" g="he" n="0">* &gt; الشيخ محمد ايوب</arg>
+<arg f="" g="his student" n="1">تلميذه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity recommended" vncls="" vntheta=""/>
+<role argnum="2" argrole="recommended to" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to give alms or charity" id="02" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>سؤال: كيف  نزكي  * أموال اليتامى ؟</parse>
+
+<arg f="" g="we" n="0">*</arg>
+<arg f="" g="The wealth of orphans" n="1">أموال اليتامى</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing given" vncls="" vntheta=""/>
+<role argnum="1" argrole="about what? (marked by عن)" vncls="" vntheta=""/>
+<role argnum="3" argrole="entity given to" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to justify" id="03" vncls="">
+<role argnum="0" argrole="entity jutifying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>شيخ محمد ايوب يزكي  *  تلميذه الشيخ مشعل المطر</parse>
+
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="his student" n="1">تلميذه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity justified" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

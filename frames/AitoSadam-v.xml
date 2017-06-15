@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoSadam</id>
+
+    <frameset cdef="" edef="to crash into or ram" id="01" vncls="">
+<role argnum="0" argrole="entity hitting" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>صدمت شاحنة سيارة مرسيدس</parse>
+<arg f="" g="truck" n="0">شاحنة</arg>
+<arg f="" g="a Mercedes car" n="1">سيارة مرسيدس</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset Sadam-i.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Sadam-i</comment>
+<frameset cdef="" edef="to be shocked or surprised" id="02" vncls="">
+<role argnum="1" argrole="entity shocked" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هي اتصدمت * من الاخبار</parse>
+<comment/>
+<arg f="" g="she" n="1">* هي</arg>
+<arg f="" g="from the news" n="2">من الاخبار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

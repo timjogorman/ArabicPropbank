@@ -1,24 +1,85 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>wAfaY</id>
-    <comment/>
-    <frameset cdef="" edef="to transmit" id="01">
-        <role argnum="0" argrole="sender"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>يوافي المراسل القناة التلفزيونية بالأخبار الجديدة من موقع الحادث</parse>
-                <comment/>
-                <arg f="" g="the stringer" n="0">المراسل</arg>
-                <arg f="" g="the TV channel" n="1">القناة التلفزيونية</arg>
-                <arg f="" g="with new news" n="2">بالأخبار الجديدة</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="thing sent"/>
-        <role argnum="2" argrole="sent-to"/>
-    </frameset>
+<id>wAfaY</id>
+
+<frameset cdef="" edef="to transmit" id="01" vncls="jah~aza-1">
+<role argnum="0" argrole="sender" vncls="jah~aza-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>يوافي المراسل القناة التلفزيونية بالأخبار الجديدة من موقع الحادث</parse>
+
+<arg f="" g="the stringer" n="0">المراسل</arg>
+<arg f="" g="the TV channel" n="1">القناة التلفزيونية</arg>
+<arg f="" g="with new news" n="2">بالأخبار الجديدة</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing sent" vncls="jah~aza-1" vntheta="theme"/>
+<role argnum="2" argrole="sent-to" vncls="jah~aza-1" vntheta="recipient"/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to come to" id="02" vncls="">
+<role argnum="1" argrole="comer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>وافته المنية  بعد عمرطويل</parse>
+
+<arg f="" g="he" n="2">ه</arg>
+<arg f="" g="death" n="1">المنية</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="light vert (to die)" id="03" vncls="">
+<role argnum="1" argrole="entity dying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>وافت * ه المنية</parse>
+
+<arg f="" g="he" n="1">* ه</arg>
+<arg f="" g="death" n="2">المنية</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="attributed to Arg 1 (usualy death)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

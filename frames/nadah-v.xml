@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>nadah</id>
+<comment>EGYPTIAN ARABIC based on nadah-a</comment>
+    <frameset cdef="" edef="to call" id="01">
+<role argnum="0" argrole="entity calling" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ده نده * أخوه حتى يساعده</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="his brother" n="1">أخوه</arg>
+<arg f="" g="to help him" n="2">حتى يساعده</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset nadah-a.01</comment>
+<role argnum="1" argrole="entity called" />
+<role argnum="2" argrole="for what or utterance" />
+</frameset>
+</verb>

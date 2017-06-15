@@ -1,0 +1,160 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$araH</id>
+<comment>EGYPTIAN ARABIC based on $araH-a </comment>
+    <frameset cdef="" edef="to explain" id="01" vncls="">
+<role argnum="0" argrole="the explainer" vncls="" vntheta="" />
+<role argnum="1" argrole="the explanation" vncls="" vntheta="" />
+<role argnum="2" argrole="the recipient of the explanation" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PRT
+      (FUT_PART س)
+    (IV3MS+IV+IVSUFF_MOOD:I يظهر)
+    (NP-SBJ
+      (NOUN_PROP بوش)
+    (NP-OBJ
+      (NP
+        (NOUN+CASE_INDEF_ACC تفهماً)
+      (PUNC &quot;)
+      (PP
+        (PREP ل)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN لضغوط)
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الداخلية)
+          (PP
+            (PREP ل)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN لرأي)
+              (DET+ADJ+CASE_DEF_GEN العام)
+              (DET+ADJ+CASE_DEF_GEN الاسرائيلي)
+    (PUNC ,)
+    (NAC
+      (CONJ و)
+      (S-ADV
+        (VP
+          (PSEUDO_VERB لكن)
+          (NP-SBJ-1
+            (PRON_3MS ه)
+          (S
+            (VP
+              (PRT
+                (FUT_PART س)
+              (IV3MS+IV+IVSUFF_MOOD:I يشرح)
+              (NP-SBJ
+                (-NONE- *-1)
+              (PP
+                (PREP ل)
+                (NP
+                  (NOUN_PROP شارون)
+              (NP-OBJ
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC اهمية)
+                (NP
+                  (NP
+                    (NOUN+CASE_DEF_GEN ضبط)
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN النفس)
+                  (ADJP
+                    (DET+ADJ+CASE_DEF_GEN الاسرائيلي)
+  (PUNC &quot;)
+  (PUNC .)</parse>
+<arg f="" g="" n="0">-NONE- *-1&lt;بوش</arg>
+<arg f="" g="to Sharon" n="2">لشارون</arg>
+<arg f="" g="the importance for Israel of self-control" n="1">أهمية ضبط النفس الإسرائيلي</arg>
+
+
+
+<comment />
+</example>
+
+
+
+<comment />
+</frame>
+
+
+
+<comment>Based on frameset $araH-a.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to delight, to gladden, to relieve" id="02" vncls="">
+<role argnum="1" argrole="entity delight (idiomatic)" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>شرح صدره</parse>
+
+<arg f="" g="his chest ( he )" n="1">صدره</arg>
+
+
+<comment />
+</example>
+
+
+
+<comment />
+</frame>
+
+
+
+<role argnum="2" argrole="causer" vncls="" vntheta="" />
+<comment>Based on frameset $araH-a.02
+سره , أراحه</comment>
+</frameset>
+
+<frameset cdef="" edef="to accept a new state / become (MWE)" id="03" vncls="">
+<role argnum="1" argrole="entity causing the change" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>(S
+      (VP
+        (IV3MS+IV يِشْرَح)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN قَلْب)
+          (NP
+            (NOUN ذَوِي)
+            (NP
+              (NOUN غِير)
+              (NP
+                (DET+NOUN+NSUFF_MASC_PL المُسْلِمِين)))))
+        (PP
+          (PREP لِ)
+          (NP
+            (DET+NOUN الاِسْلام)))))))</parse>
+
+<arg f="" g="he" n="1">*</arg>
+<arg f="" g="the heart of the non-Muslims" n="2">قَلْب ذَوِي غِير المُسْلِمِي</arg>
+<arg f="" g="to Islam" n="3">لِلاِسْلام</arg>
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+<role argnum="2" argrole="body part, usually heart" vncls="" vntheta="" />
+<role argnum="3" argrole="new state, to what" vncls="" vntheta="" />
+
+<comment>Based on frameset $araH-a.03</comment>
+</frameset>
+
+
+
+</verb>

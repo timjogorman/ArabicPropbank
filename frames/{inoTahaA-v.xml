@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoTahaA</id>
+
+<frameset cdef="" edef="to be cooked" id="01" vncls="">
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انطها الطعام مبكرا</parse>
+
+<arg f="" g="the food" n="1">الطعام</arg>
+<arg f="tmp" g="early" n="m">مبكرا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

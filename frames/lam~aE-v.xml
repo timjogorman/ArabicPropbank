@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lam~aE</id>
+<comment/>
+<frameset cdef="" edef="to polish or burnish" id="01" vncls="">
+<role argnum="0" argrole="entity polishing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انت قاعد بتلمع * في حذائك والدنيا مقلوبة</parse>
+<comment/>
+<arg f="" g="you" n="0">انت</arg>
+<arg f="" g="your shoe" n="1">في حذائك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things polished" vncls="" vntheta=""/>
+</frameset>
+</verb>

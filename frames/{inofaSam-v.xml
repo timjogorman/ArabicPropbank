@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofaSam</id>
+
+<frameset cdef="" edef="be be disassembled, to be broken, to split" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انفصم المصفد عن الشباك بالمفتاح</parse>
+
+<arg f="" g="the handcuff" n="1">المصفد</arg>
+<arg f="" g="from the window" n="2">عن الشباك</arg>
+<arg f="" g="with a key" n="3">بالمفتاح</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to stop or halt doing something" id="02" vncls="">
+<role argnum="0" argrole="entity who stops doing (agent)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انفصم المحرك عن العمل</parse>
+
+<arg f="" g="the engine" n="0">المحرك</arg>
+<arg f="" g="working" n="1">عن العمل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="action stopped (theme) - marked by عن if both arguments are there" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

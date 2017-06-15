@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitora$aY</id>
+<comment/>
+<frameset cdef="" edef="to be bribed" id="01" vncls="">
+<role argnum="0" argrole="briber" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الحكم اترشى * بمبلغ كويس</parse>
+<comment/>
+<arg f="" g="the umpire" n="1">* الحكم</arg>
+<arg f="" g="with good amount of money" n="2">بمبلغ كويس</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="bribed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

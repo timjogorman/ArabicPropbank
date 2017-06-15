@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>masax-a</id>
+
+<frameset cdef="" edef="to metamorphose or transform" id="01" vncls="">
+<role argnum="0" argrole="changer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مسخهم الله قردة</parse>
+
+<arg f="" g="they" n="1">هم</arg>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="monkeys" n="3">قردة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="changed entity or thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="origin" vncls="" vntheta=""/>
+<role argnum="3" argrole="new shape" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to make lot of mistakes" id="02" vncls="">
+<role argnum="0" argrole="doer of mistakes" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مسخ الكاتب في قصته</parse>
+
+<arg f="" g="the writer" n="0">الكاتب</arg>
+<arg f="" g="in his story" n="1">في قصته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miOav~ir</id>
+
+<frameset cdef="" edef="to affect, influenced" id="01" vncls="">
+<role argnum="1" argrole="things affecting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عندي ألم في راسي مؤثر * علي</parse>
+
+<arg f="" g="pain in the head" n="1">ألم في راسي</arg>
+<arg f="" g="on me" n="2">علي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="things affected" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

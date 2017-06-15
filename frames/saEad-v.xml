@@ -1,0 +1,67 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saEad</id>
+<comment/>
+<frameset cdef="" edef="be happy, to make happy" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-ADV
+        (ADJ طَيِّب))
+      (VP
+        (IV1P+IV نِعْمِل)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (IVSUFF_DO:3MS ُه))
+        (NP-ADV
+          (NOUN مَعَ)
+          (NP
+            (NOUN بَعْض)))
+        (NAC
+          (CONJ وِ)
+          (NP-ADV
+            (NOUN خَلاص)))))
+    (CONJ وِ)
+    (S
+      (NP-TPC-2
+        (TYPO جوه))
+      (VP
+        (IV3MS+IV يِبْقَى)
+        (NP-SBJ-1
+          (-NONE- *T*-2))
+        (S
+          (VP
+            (IV3MS+IV يِسْعِد)
+            (NP-SBJ
+              (-NONE- *-1))
+            (NP-OBJ
+              (IVSUFF_DO:1P نا))))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV1P+IV نِعْمِل)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (X
+            (PREP فِي)))
+        (NP-OBJ
+          (NOUN+NSUFF_FEM_PL حاجات)
+          (FOREIGN Astr))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="us" n="1">نا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity happy" vncls="" vntheta=""/>
+</frameset>
+</verb>

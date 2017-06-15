@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitojadoEan</id>
+<comment/>
+<frameset cdef="" edef="to be brave or bold" id="01" vncls="">
+<role argnum="0" argrole="entity becoming brave" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قلت له اتجدعن * وشوف لك شغل</parse>
+<comment/>
+<arg f="" g="to him" n="0">* له</arg>
+<arg f="" g="and find a job for your self" n="1">وشوف لك شغل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attribute to ARG0" vncls="" vntheta=""/>
+</frameset>
+</verb>

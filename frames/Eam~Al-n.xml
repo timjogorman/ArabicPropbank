@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eam~Al</id>
+<comment>EGYPTIAN ARABIC</comment>
+<frameset cdef="" edef="aspectual usage: progression of event (DO NOT TAG)" id="01" vncls="">
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>DO NOT TAG
+
+
+  (S
+    (VP
+      (CV+CVSUFF_SUBJ:2FS تَخَيَّلِي)
+      (NP-SBJ
+        (-NONE- *))
+      (SBAR
+        (-NONE- 0)
+        (S
+          (NP-SBJ
+            (NOUN_NUM واحِد))
+          (PP-LOC
+            (PREP فِي)
+            (NP
+              (NOUN بِيت)
+              (NP
+                (POSS_PRON_3MS ُه))))
+          (SBAR-NOM-PRD
+            (WHNP-2
+              (-NONE- 0))
+            (S
+              (VP
+                (NOUN.VN عَمّال)
+                (NP-SBJ
+                  (-NONE- *T*-2))
+                (S
+                  (VP
+                    (IV3MS+IV يِبُصّ)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-ADV
+                      (NOUN تَحْت)
+                      (NP
+                        (NOUN رِجْل)
+                        (NP
+                          (POSS_PRON_3MS ُه)))
+                      (NAC
+                        (TYPO و)
+                        (ADVP
+                          (ADV بَسّ)))))))))</parse>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisomar~</id>
+<comment/>
+<frameset cdef="" edef="to become brown colored or tanned" id="01" vncls="">
+<role argnum="1" argrole="entity becoming dark" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اسمر جلدي من الشمس</parse>
+<comment/>
+<arg f="" g="my skin" n="1">جلدي</arg>
+<arg f="cau" g="from the sun" n="m">من الشمس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

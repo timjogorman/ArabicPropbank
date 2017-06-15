@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>qaSaf</id>
+<comment>EGYPTIAN ARABIC based on qaSaf-i</comment>
+    <frameset cdef="" edef="to shell or bombard" id="01">
+<role argnum="0" argrole="sheller" />
+<role argnum="1" argrole="target" />
+<role argnum="2" argrole="instrument" />
+<frame>
+<example>
+<parse>
+اعلنت القيادة المركزية الاميركية ان &quot; طائرات للتحالف &quot; الاميركي - البريطاني قصفت **-1 أمس منظومة قيادية هجومية في جنوب العراق بأسلحة موجهة دقيقة التهديف .
+</parse>
+<arg f="" g="The American-British planes" n="0">**-1&lt;  طائرات للتحالف &quot; الاميركي - البريطاني</arg>
+<arg f="tmp" g="yesterday" n="m">أمس</arg>
+<arg f="" g="an offensive command system in southern Iraq" n="1">منظومة قيادية هجومية في جنوب العراق</arg>
+<arg f="" g="with precision guided weapons" n="2">بأسلحة موجهة دقيقة التهديف</arg>
+</example>
+</frame>
+<comment>Based on roleset qaSaf-i.01</comment></frameset>
+</verb>

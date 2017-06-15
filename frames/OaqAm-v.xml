@@ -1,126 +1,234 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>OaqAm</id>
-    <frameset cdef="" edef="to live" id="01">
-        <role argnum="0" argrole="experiencer"/>
-        <role argnum="1" argrole="location"/>
-        <frame>
-            <example>
-                <parse>(TOP
-                    (S
-                    (S
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS أوضحت)
+<id>OaqAm</id>
+<frameset cdef="" edef="to live" id="01" vncls="">
+<role argnum="0" argrole="experiencer" vncls="" vntheta=""/>
+<role argnum="1" argrole="location" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (CONJ و)
+      (VP
+        (PV+PVSUFF_SUBJ:3FS أوضحت)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (SUB_CONJ ان)
+          (S
+            (NP-TPC-1
+              (NOUN_PROP غربانيفار))
+            (VP
+              (IV3MS+IV+IVSUFF_MOOD:I يقيم)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (PP-LOC
+                (PREP في)
+                (NP
+                  (NOUN_PROP فرنسا)))))))))
+    (PUNC .)))</parse>
+<arg f="" g="-NONE- &gt; Ghorbanifar" n="0">*T*-1 &gt; غربانيفار</arg>
+<arg f="" g="in France" n="1">في فرنسا</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to hold, establish or erect (to bring into existence)" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="event or entity being established" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>Metaphorical extension
+
+
+(TOP
+  (S
+    (CONJ و)
+    (VP
+      (IV3FS+IV+IVSUFF_MOOD:I تقيم)
+      (NP-SBJ
+        (NOUN_PROP طرابلس))
+      (NP-OBJ
+        (NP
+          (NOUN+NSUFF_FEM_PL+CASE_INDEF_ACC علاقات)
+          (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC جيدة))
+        (NP-ADV
+          (NOUN+CASE_DEF_ACC مع)
+          (NP
+            (NOUN_PROP بيونغ)
+            (NOUN_PROP يانغ)))))
+    (PUNC .)))</parse>
+<arg f="" g="Tripoli" n="0">طرابلس</arg>
+<arg f="" g="good relations with Pyong Yang" n="1">علاقات جيدة مع بيونغ يانغ</arg>
+
+
+
+
+<comment/>
+</example>
+<example>
+<parse>(TOP
+  (S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3MS كان)
+      (NP-1
+        (DET+NOUN+CASE_DEF_NOM الجيش)
+        (DET+ADJ+CASE_DEF_NOM المغربي))
+      (VP
+        (PV+PVSUFF_SUBJ:3MS أقام)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (PUNC ")
+          (NOUN+CASE_DEF_ACC مركز)
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN مراقبة))
+          (PUNC "))
+        (PP-LOC
+          (PREP على)
+          (NP
+            (NP
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجزيرة))
+              (NP
+                (NOUN+CASE_DEF_GEN غير)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المأهولة))))))))
+    (PUNC .)))</parse>
+<arg f="" g="-NONE- &gt; the Moroccan Army" n="0">*T*-1 &gt; الجيش المغربي</arg>
+<arg f="" g="an observation point on the uninhabited island" n="1">" مركز مراقبة " على الجزيرة غير المأهولة</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="Light Verb" id="03" vncls="">
+<role argnum="0" argrole="causal entity" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>أقام * الحجة</parse>
+
+
+
+<arg f="" g="(he)" n="0">*</arg>
+<arg f="" g="argument" n="">الحجة</arg>
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="true predicate" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+
+
+<frameset cdef="" edef="to perform (ritual prayers or party)" id="04" vncls="">
+<role argnum="0" argrole="performer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>القسم الابتدائي في المدرسة الانجيلية اللبنانية اقام * احتفالاً بمناسبة عيد الام</parse>
+
+<arg f="" g="the elementry section" n="0">*? NONE</arg>
+<arg f="" g="celebration" n="1">احتفالا</arg>
+<arg f="" g="on the occasion of the mother day" n="2">بمناسبة عيد الام</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="event performed" vncls="" vntheta=""/>
+<role argnum="2" argrole="occasion" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+<frameset cdef="" edef="to make stand, to lift up" id="05" vncls="">
+<role argnum="0" argrole="entity lifting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NP
+        (NP
+          (DET+NOUN الحاكِم)
+          (NOUN_PROP مُحَمَّد)
+          (NOUN_PROP عَلِي))
+        (SBAR
+          (WHNP-1
+            (REL_PRON اللِي))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS قِدِر)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (SBAR
+                (-NONE- 0)
+                (S
+                  (VP
+                    (IV3MS+IV يِقُوم)
                     (NP-SBJ
-                    (-NONE- *))
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (NP-TPC-1
-                    (NOUN_PROP غربانيفار))
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يقيم)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (PP-LOC
-                    (PREP في)
-                    (NP
-                    (NOUN_PROP فرنسا)))))))))
-                    (PUNC .)))
-                </parse>
-                <arg f="" g="-NONE- &gt; Ghorbanifar" n="0">*T*-1 &gt; غربانيفار</arg>
-                <arg f="" g="in France" n="1">في فرنسا</arg>
-                
-                <comment/>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-    </frameset>
-    <frameset cdef="" edef="to hold, establish or erect (to bring into existence)" id="02">
-        <role argnum="0" argrole="agent"/>
-        <role argnum="1" argrole="event or entity being established"/>
-        <frame>
-            <example>
-                <parse>Metaphorical extension
-                    
-                    
-                    (TOP
-                    (S
-                    (CONJ و)
-                    (VP
-                    (IV3FS+IV+IVSUFF_MOOD:I تقيم)
-                    (NP-SBJ
-                    (NOUN_PROP طرابلس))
-                    (NP-OBJ
-                    (NP
-                    (NOUN+NSUFF_FEM_PL+CASE_INDEF_ACC علاقات)
-                    (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC جيدة))
-                    (NP-ADV
-                    (NOUN+CASE_DEF_ACC مع)
-                    (NP
-                    (NOUN_PROP بيونغ)
-                    (NOUN_PROP يانغ)))))
-                    (PUNC .)))
-                </parse>
-                <arg f="" g="Tripoli" n="0">طرابلس</arg>
-                <arg f="" g="good relations with Pyong Yang" n="1">علاقات جيدة مع بيونغ يانغ</arg>
-                
-                <comment/>
-            </example>
-            <example>
-                <parse>(TOP
-                    (S
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS كان)
-                    (NP-1
-                    (DET+NOUN+CASE_DEF_NOM الجيش)
-                    (DET+ADJ+CASE_DEF_NOM المغربي))
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS أقام)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (NP-OBJ
-                    (PUNC ")
-                    (NOUN+CASE_DEF_ACC مركز)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN مراقبة))
-                    (PUNC "))
-                    (PP-LOC
-                    (PREP على)
-                    (NP
-                    (NP
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجزيرة))
-                    (NP
-                    (NOUN+CASE_DEF_GEN غير)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المأهولة))))))))
-                    (PUNC .)))
-                </parse>
-                <arg f="" g="-NONE- &gt; the Moroccan Army" n="0">*T*-1 &gt; الجيش المغربي</arg>
-                <arg f="" g="an observation point on the uninhabited island" n="1">" مركز مراقبة " على الجزيرة غير المأهولة</arg>
-                
-                <comment/>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-    </frameset>
-    <frameset cdef="" edef="Light Verb" id="03">
-        <role argnum="0" argrole="causal entity"/>
-        <frame>
-            <example>
-                <parse/>
-                <comment/>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="true predicate"/>
-    </frameset>
-    
-    <comment/>
+                      (-NONE- *))
+                    (PP-CLR
+                      (PREP بِ)
+                      (NP
+                        (NOUN_PROP مَصْر)))
+                    (PP-TMP
+                      (PREP فِي)
+                      (NP
+                        (ADJP
+                          (ADJ_COMP أَقَل)
+                          (PP
+                            (PREP مِن)
+                            (NP
+                              (NOUN+NSUFF_FEM_SG سَنَة))))))))))))))))</parse>
+<comment/>
+<arg f="" g="the ruler Muhammad Ali" n="0">*T*-1 الحاكم محمد علي</arg>
+<arg f="" g="with Egypt" n="1">بمصر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity lifted" vncls="" vntheta=""/>
+</frameset>
 </verb>

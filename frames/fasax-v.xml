@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fasax</id>
+<comment/>
+<frameset cdef="" edef="annul, rescind, to revoke or repeal" id="01" vncls="">
+<role argnum="0" argrole="taker back, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أحمد فسخ * خطوبته</parse>
+<comment/>
+<arg f="" g="Ahmed" n="0">* أحمد</arg>
+<arg f="" g="his engagement" n="1">خطوبته</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing taken back" vncls="" vntheta=""/>
+</frameset>
+</verb>

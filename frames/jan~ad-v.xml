@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jan~ad</id>
+<comment/>
+<frameset cdef="" edef="to draft or enlist, to mobilize" id="01" vncls="">
+<role argnum="0" argrole="entity drafting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جندت الدولة مائة الف رجل للدفاع عن الحدود</parse>
+<comment/>
+<arg f="" g="the government" n="0">الدولة</arg>
+<arg f="" g="one hundred thousand man" n="1">مائة الف رجل</arg>
+<arg f="" g="to defend the borders" n="2">للدفاع عن الحدود</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity drafted" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

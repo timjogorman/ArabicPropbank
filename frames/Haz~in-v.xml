@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Haz~in</id>
+<comment>EGYPTIAN ARABIC based on OaHozan</comment>
+    <frameset cdef="" edef="to make someone sad" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>أحزن الولد والدته برسوبه في الامتحان</parse>
+<comment />
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="his mother" n="1">والدته</arg>
+<arg f="" g="by failing the test" n="2">برسوبه في الامتحان</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset OaHozan.01</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta="" />
+<role argnum="2" argrole="with what" vncls="" vntheta="" />
+</frameset>
+</verb>

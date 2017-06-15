@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaEaf</id>
+<comment/>
+<frameset cdef="" edef="to pluck out, to extract" id="01" vncls="">
+<role argnum="0" argrole="puller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قعف المزارع الشجرة من جذورها من الحقل</parse>
+<comment/>
+<arg f="" g="the farmer" n="0">المزارع</arg>
+<arg f="" g="the tree" n="1">الشجرة</arg>
+<arg f="" g="from it's roots" n="2">من جذورها</arg>
+<arg f="" g="from the field" n="3">من الحقل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="pulled" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+<role argnum="3" argrole="location, from where" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to eat or swallow what is in the plate" id="02" vncls="">
+<role argnum="0" argrole="eater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قعف الطفل الطعام</parse>
+<comment/>
+<arg f="" g="the baby" n="0">الطفل</arg>
+<arg f="" g="the food" n="1">الطعام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things ate" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,18 +1,115 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Saf~aY</id>
-    <frameset cdef="" edef="to purify or clear out" id="01">
-        <role argnum="0" argrole="agent"/>
-        <role argnum="1" argrole="thing being cleared out"/>
-        <frame>
-            <example>
-                <parse>
-                    ومن شأنه ايضاً توفير ظروف ملائمة للهند كي تصفي * حساباتها المعقدة والمزمنة مع باكستان .
-                </parse>
-                <arg f="" g="-NONE- &amp;lt; India" n="0">* &amp;lt; الهند</arg>
-                <arg f="" g="its long and drawn out issues" n="1">حساباتها المعقدة والمزمنة</arg>
-                <arg f="com" g="with Pakistan" n="m">مع باكستان</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Saf~aY</id>
+<frameset cdef="" edef="to purify or clear out" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing being cleared out" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>صفت الأم الماء من الشوائب</parse>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="the water" n="1">الماء</arg>
+
+
+
+
+<comment/>
+<arg f="" g="from the dirt" n="2">من الشوائب</arg>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+<role argnum="2" argrole="from what (usually comes after من )" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to dissolve or liquidate, to eliminate" id="02" vncls="">
+<role argnum="0" argrole="entity eliminating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>صفى الرئيس كل المعارضة</parse>
+
+<arg f="" g="president" n="0">الرئيس</arg>
+<arg f="" g="the whole opposition" n="1">كل المعارضة</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things eliminated" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to get even with (multi word expression)" id="03" vncls="">
+<role argnum="0" argrole="entity getting even" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>صفى * حسابه مع أخيه</parse>
+
+<arg f="" g="NOONE" n="0">*? NONE</arg>
+<arg f="" g="his account with his brother" n="1">حسابه مع أخيه</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="whith whom  (Usually comes with حساب)" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+
+<frameset cdef="" edef="to get rid of, to kill, to terminate" id="04" vncls="">
+<role argnum="0" argrole="killer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تقوم العصابة بتصفية * أعدائها بالسم</parse>
+
+<arg f="" g="the gang" n="0">* العصابة</arg>
+<arg f="" g="their enemy" n="1">أعدائها</arg>
+<arg f="" g="with poison" n="2">بالسم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="killed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

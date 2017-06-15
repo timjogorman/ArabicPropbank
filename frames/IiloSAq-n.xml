@@ -1,0 +1,71 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IiloSAq</id>
+<comment/>
+<frameset cdef="" edef="attaching, sticking, pasting" id="01" vncls="">
+<role argnum="0" argrole="the entity pasting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (FRAG
+    (X
+      (CONJ و)
+      (NEG_PART لا))
+    (NP
+      (NOUN اِيّام)
+      (NP
+        (NOUN_PROP فِيَتنام)))
+    (SBAR-TMP
+      (SUB_CONJ لَمّا)
+      (S
+        (NP-TPC-1
+          (NP
+            (DET+NOUN+NSUFF_MASC_PL الفَرَنسِييِن)
+            (CONJ وِ)
+            (DET+ADJ الامْرِيكان))
+          (ADVP
+            (ADV بَرْضُه)))
+        (VP
+          (PV+PVSUFF_SUBJ:3P أَنشَؤُوا)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (NP-OBJ
+            (NOUN+NSUFF_FEM_PL عِصابات)
+            (ADJ+NSUFF_FEM_SG فِيِتنامِيَة))
+          (PP-PRP
+            (PREP لِ)
+            (NP
+              (NP
+                (NOUN قَتْل)
+                (NP
+                  (NOUN أَهْل)
+                  (NP
+                    (DET+NOUN القُرَى))))
+              (CONJ و)
+              (S-NOM
+                (VP
+                  (NOUN.VN إِلصاق)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (NP-OBJ
+                    (DET+NOUN+NSUFF_FEM_SG التُهْمَة))
+                  (PP-CLR
+                    (PREP فِي)
+                    (NP
+                      (DET+NOUN الثُوار))))))))))
+    (PUNC .)))</parse>
+<comment/>
+<arg f="" g="the french and the American" n="0">الفَرَنسِييِن وِ الامْرِيكان</arg>
+<arg f="" g="the accusation" n="1">التُهْمَة</arg>
+<arg f="" g="in the rebels" n="2">في الثوار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing pasted" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what or whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

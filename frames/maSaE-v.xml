@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maSaE</id>
+
+<frameset cdef="" edef="to pass or go by, to elapse" id="01" vncls="">
+<role argnum="1" argrole="things passed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مصع الزمان</parse>
+
+<arg f="" g="the time" n="1">الزمان</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to hit with a sword or whip" id="02" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مصع المقاتل عدوه بالسيف</parse>
+
+<arg f="" g="the warior" n="0">المقاتل</arg>
+<arg f="" g="his enemy" n="1">عدوه</arg>
+<arg f="" g="with the sword" n="2">بالسيف</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to shine or glitter, to flash" id="03" vncls="">
+<role argnum="1" argrole="entity flashing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مصع البرق في السماء</parse>
+<comment/>
+<arg f="" g="the lightning" n="1">البرق</arg>
+<arg f="loc" g="in the sky" n="m">في السماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

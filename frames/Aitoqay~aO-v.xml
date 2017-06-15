@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitoqay~aO</id>
+<comment>EGYPTIAN ARABIC Framefile based on taqay~aO</comment>
+<frameset cdef="" edef="to vomit or disgorge" id="01">
+<role argnum="0" argrole="entity vomiting" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تقيأ الرجل ما في بطنه بألم</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="what's in his stomach" n="1">ما في بطنه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset taqay~aO.01</comment>
+<role argnum="1" argrole="things vomited" />
+</frameset>
+</verb>

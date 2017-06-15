@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitojan~</id>
+<comment/>
+<frameset cdef="" edef="to become crazy, to love something so much (multi word expression)" id="01" vncls="">
+<role argnum="0" argrole="entity getting crazy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا حتجن * من اللي بيحصل</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="from what is happening" n="1">من اللي بيحصل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="about what or reason" vncls="" vntheta=""/>
+</frameset>
+</verb>

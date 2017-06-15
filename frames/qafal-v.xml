@@ -1,0 +1,85 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qafal</id>
+
+    <frameset cdef="" edef="to shut or lock" id="02" vncls="">
+<role argnum="0" argrole="shutter" vncls="" vntheta=""/>
+<role argnum="1" argrole="patient, thing shut" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing being locked in - marked by على" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument - marked by ب" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>قفلت * عليهما الباب بالمفتاح</parse>
+<arg f="" g="I" n="0">*</arg>
+<arg f="" g="them two" n="2">عليهما</arg>
+<arg f="" g="the door" n="1">الباب</arg>
+<arg f="" g="with the key" n="3">بالمفتاح</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset qafal-i.02</comment>
+</frameset>
+<frameset cdef="" edef="to end or terminate" id="01" vncls="">
+<role argnum="0" argrole="agent, finalizer" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing ending" vncls="" vntheta=""/>
+<role argnum="2" argrole="price, extent or state" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>ليقفل*ه اسميا بسعر وسطي معلن 1507.50 ليرات , شأنه منذ اكثر من سنتين و اربعة اشهر</parse>
+<arg f="" g="he" n="0">*</arg>
+<arg f="" g="it" n="1">ه</arg>
+<arg f="mnr" g="nominally" n="m">اسميا</arg>
+<arg f="" g="at an average advertised price of 1507.5" n="2">1507.5 بسعر وسطي معلن</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset qafal-i.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to be silent or upset" id="03" vncls="">
+<role argnum="0" argrole="entity silent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هو قفل * وخلاص</parse>
+
+<arg f="" g="he" n="0">* هو</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on qafal-i</comment>
+<frameset cdef="" edef="to hang the phone, to turn off" id="04" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انتي قفلت * التلفون ليه</parse>
+<comment/>
+<arg f="" g="you" n="0">* انتي</arg>
+<arg f="" g="the telephone" n="1">التلفون</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things shut (mostly the phone)" vncls="" vntheta=""/>
+</frameset>
+</verb>

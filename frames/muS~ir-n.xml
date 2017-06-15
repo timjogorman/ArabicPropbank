@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>muS~ir</id>
+<comment>Framefile based on muSir~</comment>
+<frameset cdef="" edef="insestent, insisting" id="01" vncls="">
+<role argnum="0" argrole="insister" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>الرجالة كانوا مصرين * يكسروا الباب</parse>
+<comment />
+<arg f="" g="the men" n="0">* الرجالة</arg>
+<arg f="" g="to break the door" n="1">يكسروا الباب</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset muSir~.01</comment>
+<role argnum="1" argrole="insisted, marked with على" vncls="" vntheta="" />
+</frameset>
+</verb>

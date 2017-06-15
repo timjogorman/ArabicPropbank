@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Sabag</id>
+<comment/>
+<frameset cdef="" edef="to dye or tint, to baptize" id="01" vncls="">
+<role argnum="0" argrole="entity coloring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جوزي صبغ * البيت باللون الأبيض</parse>
+<comment/>
+<arg f="" g="my husband" n="0">جوزي</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="with white color" n="2">باللون الأبيض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things colored" vncls="" vntheta=""/>
+<role argnum="2" argrole="the color, with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

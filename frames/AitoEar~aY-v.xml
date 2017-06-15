@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoEar~aY</id>
+<comment>EGYPTIAN ARABIC Framefile based on taEar~aY</comment>
+<frameset cdef="" edef="to undress or strip" id="01" vncls="">
+<role argnum="0" argrole="entity undress" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تعرى الرجل من كل ملابسه</parse>
+<comment />
+<arg f="" g="the man" n="">الرجل</arg>
+<arg f="" g="from all his clothes" n="">من كل ملابسه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset taEar~aY.01</comment>
+<role argnum="1" argrole="from what" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>talad-u</id>
+<comment/>
+<frameset cdef="" edef="to stay in, to remin in , to reside in" id="01" vncls="">
+<role argnum="0" argrole="entity staying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلد الرجل في الفندق لمدة سنة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in the hotel" n="1">في الفندق</arg>
+<arg f="tmp" g="for a year" n="m">لمدة سنة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="location" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to give birth" id="02" vncls="">
+<role argnum="0" argrole="entity giving birth" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلدت الماشية</parse>
+<comment/>
+<arg f="" g="cattle" n="0">الماشية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing born" vncls="" vntheta=""/>
+</frameset>
+</verb>

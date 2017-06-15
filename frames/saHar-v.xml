@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>saHar</id>
+<comment>EGYPTIAN ARABIC Framefile based on saHar-a-v</comment>
+<frameset cdef="" edef="to witch, to spell, to magic, to charm" id="01">
+<role argnum="0" argrole="entity charming" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>سحر الفنان الحضور بعزفه</parse>
+<comment />
+<arg f="" g="the artist" n="0">الفنان</arg>
+<arg f="" g="the audience" n="1">الحضور</arg>
+<arg f="" g="with his play" n="2">بعزفه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset saHar-a-v.01</comment>
+<role argnum="1" argrole="entity charmed" />
+<role argnum="2" argrole="method or with what" />
+</frameset>
+</verb>

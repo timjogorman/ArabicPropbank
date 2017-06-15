@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>haDom</id>
+<comment/>
+<frameset cdef="" edef="digestion" id="01" vncls="">
+<role argnum="0" argrole="entity digesting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>معدتي قادرة على هضم * أي طعام</parse>
+<comment/>
+<arg f="" g="my stomach" n="0">* معدتي</arg>
+<arg f="" g="any food" n="1">أي طعام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things digested" vncls="" vntheta=""/>
+</frameset>
+</verb>

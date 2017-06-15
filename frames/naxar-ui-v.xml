@@ -1,22 +1,43 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>naxar-ui</id>
-    <comment/>
-    <frameset cdef="" edef="to gnaw" id="01">
-        <role argnum="0" argrole="gnawer"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>أحمد السمان: المحليات سوس ينخر  * فى عظام الديمقراطية</parse>
-                <comment/>
-                <arg f="" g="they" n="0">* &gt; السوس</arg>
-                <arg f="" g="in the bones of democracy" n="1">فى عظام الديمقراطية</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="thing chewed"/>
-    </frameset>
+<id>naxar-ui</id>
+
+<frameset cdef="" edef="to gnaw" id="01" vncls="">
+<role argnum="0" argrole="gnawer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أحمد السمان: المحليات سوس ينخر  * فى عظام الديمقراطية</parse>
+
+<arg f="" g="they" n="0">* &gt; السوس</arg>
+<arg f="" g="in the bones of democracy" n="1">فى عظام الديمقراطية</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing chewed" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to snort" id="02" vncls="">
+<role argnum="0" argrole="entity snoring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نخر الرجل في منامه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="tmp" g="while sleeping" n="m">في منامه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
 </verb>

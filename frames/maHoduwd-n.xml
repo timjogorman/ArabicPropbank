@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maHoduwd</id>
+<comment/>
+<frameset cdef="" edef="limited, fixed, specific , specified , definite" id="01" vncls="">
+<role argnum="0" argrole="entity limiting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شارك عدد محدود من الطلبة في الامتحانات</parse>
+<comment/>
+<arg f="" g="students" n="1">من الطلبة</arg>
+<arg f="" g="in the exams" n="2">في الامتحانات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things limited" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom or for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

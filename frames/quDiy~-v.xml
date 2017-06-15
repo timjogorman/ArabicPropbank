@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>quDiy~</id>
+<comment/>
+<frameset cdef="" edef="to be finished or done" id="01">
+<role argnum="1" argrole="things finished"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قضي الامر فتفرقت الجموع</parse>
+<comment/>
+<arg f="" g="the matter" n="1">الامر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="by whom"/>
+</frameset>
+</verb>

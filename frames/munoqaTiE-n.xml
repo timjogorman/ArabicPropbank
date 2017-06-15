@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munoqaTiE</id>
+<comment/>
+<frameset cdef="" edef="cut off, separated" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الحبل منقطع * من الوسط</parse>
+<comment/>
+<arg f="" g="this rope" n="1">* هذا الحبل</arg>
+<arg f="" g="from the middle" n="2">من الوسط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="locatin or part" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="unequaled, nonparei" id="02" vncls="">
+<role argnum="1" argrole="entity unequaled (usualy comes with النظير )" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان الحضور منقطع * النظير</parse>
+<comment/>
+<arg f="" g="the attendance" n="1">* الحضور</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

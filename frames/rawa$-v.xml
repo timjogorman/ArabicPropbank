@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rawa$</id>
+<comment/>
+<frameset cdef="" edef="distract, disturb" id="01" vncls="">
+<role argnum="0" argrole="entity distracting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (CV+CVSUFF_SUBJ:2FS رَوشِنِي)
+      (NP-SBJ
+        (-NONE- *))))
+  (S
+    (NP-TPC-1
+      (PRON_1S انا))
+    (NP-ADV
+      (NOUN+CASE_INDEF_ACC تَقْرِيباً))
+    (VP
+      (PRT
+        (NEG_PART مِش))
+      (PRT
+        (FUT_PART حَ))
+      (IV1S+IV اَعْرَف)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (S
+        (VP
+          (IV1S+IV اَجِي)
+          (NP-SBJ
+            (-NONE- *)))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="me" n="1">نِي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity distracted" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EawaY-i</id>
+<comment/>
+<frameset cdef="" edef="to howl or yelp, to bark" id="01" vncls="">
+<role argnum="0" argrole="howler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (S
+      (NP-TPC-1
+        (DET+NOUN+NSUFF_FEM_SG القافْلَة))
+      (VP
+        (IV3FS+IV+IVSUFF_MOOD:I تَسِيرُ)
+        (NP-SBJ
+          (-NONE- *T*-1))))
+    (CONJ وِ)
+    (S
+      (NP-TPC-2
+        (DET+NOUN الكلاب))
+      (VP
+        (IV3FS+IV تِعوى)
+        (NP-SBJ
+          (-NONE- *T*-2))))))</parse>
+<comment/>
+<arg f="" g="dogs" n="0">* الكلاب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

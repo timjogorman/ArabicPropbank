@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>walowil</id>
+<comment/>
+<frameset cdef="" edef="wail in lamentation" id="01" vncls="">
+<role argnum="0" argrole="entity crying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الولية بتولول * على جوزها اللي مات</parse>
+<comment/>
+<arg f="" g="the woman" n="0">* الولية</arg>
+<arg f="" g="for her husband that died" n="1">على جوزها اللي مات</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

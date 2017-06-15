@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqAwal</id>
+<comment/>
+<frameset cdef="" edef="to make a contract or bargain, to dispute with, to argue with" id="01" vncls="">
+<role argnum="0" argrole="entity bargaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقاولت الشركة مع المقاول حول موضوع البناء</parse>
+<comment/>
+<arg f="" g="the company" n="0">الشركة</arg>
+<arg f="" g="with the contractor" n="1">مع المقاول</arg>
+<arg f="" g="about the building subject" n="2">حول موضوع البناء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

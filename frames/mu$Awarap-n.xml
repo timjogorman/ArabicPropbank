@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mu$Awarap</id>
+<comment/>
+<frameset cdef="" edef="consultation" id="01" vncls="">
+<role argnum="0" argrole="consulter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أتمنى منكم مشاورة * الجميع في موضمع شراء البيت</parse>
+<comment/>
+<arg f="" g="from you" n="0">* منكم</arg>
+<arg f="" g="from all" n="1">الجميع</arg>
+<arg f="" g="in the matter of bying the house" n="2">في موضمع شراء البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="consulted with" vncls="" vntheta=""/>
+<role argnum="2" argrole="in regards to" vncls="" vntheta=""/>
+</frameset>
+</verb>

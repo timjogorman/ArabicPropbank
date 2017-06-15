@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$aE~al</id>
+
+<frameset cdef="" edef="to light or kindle. To set on fire" id="01" vncls="">
+<role argnum="0" argrole="starter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-ADV
+        (NOUN+CASE_INDEF_ACC فِعْلاً))
+      (NP-SBJ
+        (PRON_3MS هُوَّ))
+      (NP-PRD
+        (NOUN إِعْلام)
+        (ADJ قَذِر)))
+    (CONJ وِ)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3MS عَرَف)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (WHADVP-1
+            (INTERROG_ADV إِزّاي))
+          (S
+            (VP
+              (IV3MS+IV يِشَعَّل)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NOUN نار)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG الفِتْنَة)))
+              (NP-ADV
+                (NOUN بِين)
+                (NP
+                  (DET+NOUN_PROP الجَزائِر)
+                  (CONJ وِ)
+                  (NOUN_PROP مَصْر)))
+              (ADVP-MNR
+                (-NONE- *T*-1)))))))))</parse>
+
+<arg f="" g="" n="0">* إِعْلام</arg>
+<arg f="" g="the fire of sedition" n="1">نار الفتنة</arg>
+<arg f="" g="etween Algeria and Egypt" n="2">بين الجزائر و مصر</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things started" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<role argnum="3" argrole="attributed to Arg 2" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

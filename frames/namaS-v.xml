@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>namaS</id>
+<comment/>
+<frameset cdef="" edef="to pluck out, to pull out" id="01" vncls="">
+<role argnum="0" argrole="entity pulling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نمصت المرأة الشعر</parse>
+<comment/>
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="" g="the hair" n="1">الشعر</arg>
+<arg f="" g="from the eyebrow" n="2">من الحاجب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things pulled" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

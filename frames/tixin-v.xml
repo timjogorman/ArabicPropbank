@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tixin</id>
+
+<frameset cdef="" edef="to thicken" id="01" vncls="">
+<role argnum="0" argrole="thicken entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رفعت قوى اول الشتا كانت تخنانة قوى فى نص الشتا كانت خاسة قوى دلوقتى تخنت * قوى تانى</parse>
+
+<arg f="" g="she" n="0">*</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Egyptian</comment>
+</frameset>
+<comment/>
+</verb>

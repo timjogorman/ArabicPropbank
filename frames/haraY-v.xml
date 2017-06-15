@@ -1,0 +1,179 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>haraY</id>
+
+<frameset cdef="" edef="to damage, to putrefy" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>القميص اتهرى * من اللبس</parse>
+
+<arg f="" g="the shirt" n="1">* القميص</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Egyptian
+Based on roleset AitoharA-v.01</comment>
+<role argnum="1" argrole="things becoming worn out" vncls="" vntheta=""/>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on AitoharA-v</comment>
+<frameset cdef="" edef="to repeat a lot, to fill a lot" id="02" vncls="">
+<role argnum="0" argrole="filler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (CONJ وِ)
+      (ADJP-PRD
+        (ADJ أَكِيد))
+      (SBAR-SBJ
+        (-NONE- 0)
+        (S
+          (NP-SBJ
+            (NP
+              (NOUN رَأْي)
+              (NP
+                (POSS_PRON_1S ِي)))
+            (NP
+              (PRON_3MS هُوَّ)))
+          (NP-PRD
+            (NOUN عَكْس)
+            (NP
+              (NP
+                (NOUN_QUANT أَيّ)
+                (NP
+                  (NOUN رَأْي)))
+              (SBAR
+                (WHNP-4
+                  (-NONE- 0))
+                (S
+                  (VP
+                    (PRT
+                      (PROG_PART بِ))
+                    (IV3MS+IV يِعْتَقِد)
+                    (NP-SBJ
+                      (-NONE- *T*-4))
+                    (SBAR
+                      (SUB_CONJ إِنّ)
+                      (S
+                        (NP-SBJ
+                          (NP
+                            (DET+NOUN الإِنْسان))
+                          (NP
+                            (DEM_PRON_MS دَه)))
+                        (NP-PRD
+                          (NP
+                            (NOUN كائِن)
+                            (ADJ هَمَجِي))
+                          (SBAR
+                            (WHNP-2
+                              (-NONE- 0))
+                            (S
+                              (SBAR-ADV
+                                (SUB_CONJ ما)
+                                (S
+                                  (VP
+                                    (IV3MS+IV يِصَدَّق)
+                                    (NP-SBJ
+                                      (-NONE- *))
+                                    (SBAR
+                                      (-NONE- 0)
+                                      (S
+                                        (VP
+                                          (IV3MS+IV يِخُشّ)
+                                          (NP-SBJ
+                                            (-NONE- *))
+                                          (NP-ADV
+                                            (DET+NOUN النِتّ))))))))
+                              (PRT
+                                (RESTRIC_PART إِلّا))
+                              (PRT
+                                (CONJ وِ))
+                              (VP
+                                (IV3MS+IV يِهْرِي)
+                                (NP-SBJ
+                                  (-NONE- *T*-2))
+                                (NP-OBJ
+                                  (IVSUFF_DO:3FS ها))
+                                (NP-ADV
+                                  (FOREIGN sks))))))))))))))))
+    (CONJ وِ)
+    (S
+      (PP
+        (PREP بِ)
+        (NP
+          (DET+NOUN التالِي)))
+      (VP
+        (NP-SBJ
+          (NP
+            (X
+              (NO_FUNC لابد)))
+          (PP
+            (PREP مِن)
+            (NP
+              (NP
+                (NOUN مَنْع)
+                (NP
+                  (POSS_PRON_3MS ُه)))
+              (NP-MNR
+                (NOUN+CASE_INDEF_ACC قَسْراً)))))
+        (S-ADV
+          (VP
+            (NOUN.VN+CASE_INDEF_ACC حِفاظاً)
+            (NP-SBJ
+              (-NONE- *))
+            (PP-CLR
+              (PREP عَلَى)
+              (NP
+                (DET+NOUN المُجْتَمَع))))))))
+  (WHPP
+    (PREP مِن)
+    (WHNP
+      (REL_PRON إِيه)))
+  (S
+    (S
+      (VP
+        (PRT
+          (NEG_PART ما))
+        (IV1S+IV اَعْرَف)
+        (NP-SBJ
+          (-NONE- *))
+        (PRT
+          (NEG_PART ش))))
+    (CONJ بَسّ)
+    (S
+      (NP-TPC-1
+        (PRON_3P هُمّا))
+      (VP
+        (PRT
+          (PROG_PART بِ))
+        (IV3P+IV+IVSUFF_SUBJ:P يُقُولُوا)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (NOUN كِدا)))
+      (PUNC .)
+      (PUNC .))))</parse>
+<comment/>
+<arg f="" g="this man" n="0">* الإِنْسان دَه</arg>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="sex" n="2">sks</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="filled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

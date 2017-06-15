@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Haz~</id>
+<frameset cdef="" edef="to eat at someone/dominate someone's thoughts" id="01" vncls="">
+<role argnum="0" argrole="the cause, agent" vncls="" vntheta="" />
+<role argnum="1" argrole="experiencer (usually described as location marked with في)" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (S
+    (CONJ و)
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يحز)
+      (PP
+        (PREP في)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN النفس)))
+      (NP-SBJ
+        (NP
+          (DET+NOUN+CASE_DEF_NOM الفرز)
+          (DET+ADJ+CASE_DEF_NOM النافر))
+        (NP-ADV
+          (NOUN+CASE_DEF_ACC بين)
+          (NP
+            (NOUN+CASE_DEF_GEN اعضاء)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الفريق)
+              (DET+ADJ+CASE_DEF_GEN الحكومي)
+              (DET+ADJ+CASE_DEF_GEN الواحد)))))))
+  (PUNC .)</parse>
+<arg f="" g="at the soul" n="1">في النفس</arg>
+<arg f="" g="the exclusionary screening between the members of the single governmental group" n="0">الفرز النافر بين اعضاء الفريق الحكومي الواحد</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Haz~-u.01</comment>
+</frameset>
+<frameset cdef="" edef="to cut into/nip" id="02" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta="" />
+<role argnum="2" argrole="thing cut into" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>حز الرجل العود</parse>
+<arg f="" g="the man" n="0">الرجل</arg>
+<comment />
+<arg f="" g="the wood" n="1">العود</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Haz~-u.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on Haz~-u</comment>
+</verb>

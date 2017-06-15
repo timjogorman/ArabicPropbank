@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kan~</id>
+
+    <frameset cdef="" edef="to hold" id="01" vncls="">
+<role argnum="0" argrole="holder" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing held" vncls="" vntheta=""/>
+<role argnum="2" argrole="benefactive" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (VP
+      (IV3FS+IV+IVSUFF_MOOD:I تجسد)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN+CASE_DEF_ACC عمق)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN المشاعر))
+          (SBAR
+            (WHNP-1
+              (REL_PRON التي))
+            (S
+              (VP
+                (IV3MS+IV+IVSUFF_MOOD:I يكن)
+                (NP-OBJ
+                  (NP
+                    (IVSUFF_DO:3FS ها))
+                  (NP
+                    (-NONE- *T*-1)))
+                (NP-SBJ
+                  (DET+NOUN+NSUFF_MASC_PL_NOM الإيطاليون))
+                (PP
+                  (PREP ل)
+                  (NP
+                    (NP
+                      (NP
+                        (NOUN_PROP يوحنا)
+                        (NOUN_PROP بولس)
+                        (DET+ADJ_NUM الثاني))</parse>
+<arg f="" g="Italian" n="0">الإيطاليون</arg>
+<arg f="" g="Feelings" n="1">-NONE- *T*-1&lt;المشاعر</arg>
+<arg f="" g="John Paul" n="2">ليوحنا بولس</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<comment>Based on roleset kan~-i.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on kan~-i</comment>
+</verb>

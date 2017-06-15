@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>jan~in</id>
+<comment>EGYPTIAN ARABIC based on jan~an</comment>
+    <frameset cdef="" edef="to madden, to make insane, to agitate" id="01">
+<role argnum="0" argrole="causer" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>الراجل ده حيجنني بأعماله</parse>
+<comment />
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="me" n="1">ي</arg>
+<arg f="" g="with his works" n="2">بأعماله</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset jan~an.01</comment>
+<role argnum="1" argrole="entity driven crazy, or agitated" />
+<role argnum="2" argrole="with what" />
+</frameset>
+</verb>

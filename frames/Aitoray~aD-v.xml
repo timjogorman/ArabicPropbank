@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitoray~aD</id>
+<comment/>
+<frameset cdef="" edef="do physical exercise, practice a sport" id="01" vncls="">
+<role argnum="0" argrole="practicer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>إحنا حنطلع نتريض * بره</parse>
+<comment/>
+<arg f="" g="we" n="0">* إحنا</arg>
+<arg f="loc" g="outside" n="m">بره</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="skill" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

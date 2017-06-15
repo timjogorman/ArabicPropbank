@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>$iqiy</id>
+<comment>EGYPTIAN ARABIC based on $aqiya</comment>
+    <frameset cdef="" edef="to be or become unhappy" id="01">
+<role argnum="0" argrole="unhappy entity" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>شقي يوسف في حياته</parse>
+<comment />
+<arg f="" g="Yousif" n="0">يوسف</arg>
+<arg f="" g="in his life" n="1">في حياته</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset $aqiya.01</comment>
+<role argnum="1" argrole="in what" />
+</frameset>
+</verb>

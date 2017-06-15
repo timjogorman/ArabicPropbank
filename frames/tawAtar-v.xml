@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tawAtar</id>
+<comment/>
+<frameset cdef="" edef="to recur, to occur again after an interval" id="01">
+<role argnum="1" argrole="things happening"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تواترت الاخبار عن انسحاب الفريق العراقي من البطولة</parse>
+<comment/>
+<arg f="" g="the news" n="1">الاخبار</arg>
+<arg f="" g="about the withdrawing of the Iraqi team from the championship" n="2">عن انسحاب الفريق العراقي من البطولة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="subject, about what"/>
+</frameset>
+</verb>

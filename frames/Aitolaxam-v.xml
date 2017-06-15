@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitolaxam</id>
+<comment/>
+<frameset cdef="" edef="be overtaxed, become flustered" id="01" vncls="">
+<role argnum="1" argrole="entity confused" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا اتلخمت * في موضوع الحفلة</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+<arg f="" g="in the subject of the party" n="2">في موضوع الحفلة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="about what, in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

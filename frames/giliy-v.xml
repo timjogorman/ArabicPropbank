@@ -1,0 +1,91 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>giliy</id>
+
+    <frameset cdef="" edef="to climb, to rose" id="01" vncls="">
+<role argnum="1" argrole="things raised" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>غلا سعر الذهب عشرة دولارات  للاونصة</parse>
+
+<arg f="" g="the gold value" n="1">سعر الذهب</arg>
+<arg f="" g="ten dollars" n="2">عشرة دولارات</arg>
+<arg f="" g="Per ounce" n="3">للقيراط</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="how much" vncls="" vntheta=""/>
+<role argnum="3" argrole="attribute to ARG2" vncls="" vntheta=""/>
+
+
+<comment>Based on roleset galA.01</comment>
+</frameset>
+<frameset cdef="" edef="to be hard, to be obstinate" id="03" vncls="">
+<role argnum="1" argrole="agent obstinate" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>غلا * في الدين</parse>
+
+<arg f="" g="NONE" n="1">-NONE- *?</arg>
+<arg f="" g="in religion" n="2">في الدين</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+
+
+<comment>Based on roleset galA.03</comment>
+</frameset>
+
+<frameset cdef="" edef="to boil, to get mad (multi word expression)" id="04" vncls="">
+<role argnum="1" argrole="things boiling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الميه غليت * و حرقتلي ايدي</parse>
+
+<arg f="" g="the water" n="1">* الميه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on galA</comment>
+</verb>

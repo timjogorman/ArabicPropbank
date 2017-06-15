@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaOolaf</id>
+
+<frameset cdef="" edef="to seek someone's friendship" id="01" vncls="">
+<role argnum="0" argrole="entity seeking friendship" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استألف الأب إبنه الأكبر</parse>
+
+<arg f="" g="the father" n="0">الأب</arg>
+<arg f="" g="his oldest son" n="1">إبنه الأكبر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

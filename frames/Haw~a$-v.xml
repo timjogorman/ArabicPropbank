@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Haw~a$</id>
+<comment/>
+<frameset cdef="" edef="to save money" id="01" vncls="">
+<role argnum="0" argrole="entity saving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عقبال ابنك لما يحوش * شوية مصاري ويشتري سيارة زيها</parse>
+<comment/>
+<arg f="" g="your son" n="0">* ابنك</arg>
+<arg f="" g="a little money" n="1">شوية مصاري</arg>
+<arg f="" g="and buy a car like that" n="2">ويشتري سيارة زيها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="amount save" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what or for whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

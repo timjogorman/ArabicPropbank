@@ -1,122 +1,196 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Had~-u</id>
-    <frameset cdef="" edef="to limit" id="01">
-        <role argnum="0" argrole="agent limiting"/>
-        <role argnum="1" argrole="thing being limited"/>
-        <role argnum="2" argrole="the limit"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (S
-                    (PP
-                    (PREP من)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN جهت)
-                    (NP
-                    (POSS_PRON_3MS ه))))
-                    (PUNC ,)
-                    (NP-TPC-1
-                    (NP
-                    (NOUN+CASE_DEF_NOM رئيس)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN البلدية)))
-                    (NP
-                    (NOUN_PROP فياض)
-                    (NOUN_PROP شرارة)))
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS رحب)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (PP-CLR
-                    (PREP ب)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الحضور)))))
-                    (CONJ و)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS لفت)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (PP-CLR
-                    (PREP الى)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN ضرورة)
-                    (NP
-                    (NP
-                    (NOUN+CASE_DEF_GEN ايجاد)
-                    (NP
-                    (NP
-                    (NOUN+CASE_INDEF_GEN مشاريع)
-                    (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN حيوية))
-                    (SBAR
-                    (-NONE- *ICH*-4))))
-                    (PP-LOC
-                    (PREP في)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المنطقة)))
-                    (SBAR-4
-                    (SBAR
-                    (WHNP-2
-                    (-NONE- 0))
-                    (S
-                    (VP
+<id>Had~-u</id>
+<frameset cdef="" edef="to limit" id="01" vncls="">
+<role argnum="0" argrole="agent limiting" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing being limited" vncls="" vntheta=""/>
+<role argnum="2" argrole="the limit" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (S
+    (PP
+      (PREP من)
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN جهت)
+        (NP
+          (POSS_PRON_3MS ه))))
+    (PUNC ,)
+    (NP-TPC-1
+      (NP
+        (NOUN+CASE_DEF_NOM رئيس)
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN البلدية)))
+      (NP
+        (NOUN_PROP فياض)
+        (NOUN_PROP شرارة)))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS رحب)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (PP-CLR
+        (PREP ب)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الحضور)))))
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS لفت)
+      (NP-SBJ
+        (-NONE- *))
+      (PP-CLR
+        (PREP الى)
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN ضرورة)
+          (NP
+            (NP
+              (NOUN+CASE_DEF_GEN ايجاد)
+              (NP
+                (NP
+                  (NOUN+CASE_INDEF_GEN مشاريع)
+                  (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN حيوية))
+                (SBAR
+                  (-NONE- *ICH*-4))))
+            (PP-LOC
+              (PREP في)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المنطقة)))
+            (SBAR-4
+              (SBAR
+                (WHNP-2
+                  (-NONE- 0))
+                (S
+                  (VP
                     (IV3FS+IV+IVSUFF_MOOD:I تعزز)
                     (NP-SBJ
-                    (-NONE- *T*-2))
+                      (-NONE- *T*-2))
                     (NP-OBJ
-                    (DET+NOUN+CASE_DEF_ACC الصمود)))))
-                    (CONJ و)
-                    (SBAR
-                    (WHNP-5
-                    (-NONE- 0))
-                    (S
-                    (VP
+                      (DET+NOUN+CASE_DEF_ACC الصمود)))))
+              (CONJ و)
+              (SBAR
+                (WHNP-5
+                  (-NONE- 0))
+                (S
+                  (VP
                     (IV3FS+IV+IVSUFF_MOOD:I تُحد)
                     (NP-SBJ
-                    (-NONE- *T*-5))
+                      (-NONE- *T*-5))
                     (PP-CLR
-                    (PREP من)
-                    (NP
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN البطالة))
-                    (SBAR
-                    (SBAR
-                    (WHNP-3
-                    (REL_PRON التي))
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS تجاوزت)
-                    (NP-SBJ
-                    (-NONE- *T*-3))
-                    (NP-OBJ
-                    (NP
-                    (NOUN_NUM 40))
-                    (PP
-                    (PREP في)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المئة)))))))
-                    (CONJ و)
-                    (SBAR
-                    (WHNP-6
-                    (-NONE- 0))
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS تسببت)
-                    (NP-SBJ
-                    (-NONE- *T*-6))
-                    (PP-CLR
-                    (PREP ب)
-                    (NP
-                    (NOUN+CASE_INDEF_GEN نزوح)
-                    (ADJ+CASE_INDEF_GEN لافت))))))))))))))))))
-                    (PUNC &amp;quot;)
-                    (PUNC .))
-                </parse>
-                <arg f="" g="" n="">-NONE- *T*-5</arg>
-                <arg f="" g="the unemployment that exceeded 40%" n="">من البطالة التي تجاوزت  40 في المئة</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (PREP من)
+                      (NP
+                        (NP
+                          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN البطالة))
+                        (SBAR
+                          (SBAR
+                            (WHNP-3
+                              (REL_PRON التي))
+                            (S
+                              (VP
+                                (PV+PVSUFF_SUBJ:3FS تجاوزت)
+                                (NP-SBJ
+                                  (-NONE- *T*-3))
+                                (NP-OBJ
+                                  (NP
+                                    (NOUN_NUM 40))
+                                  (PP
+                                    (PREP في)
+                                    (NP
+                                      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المئة)))))))
+                          (CONJ و)
+                          (SBAR
+                            (WHNP-6
+                              (-NONE- 0))
+                            (S
+                              (VP
+                                (PV+PVSUFF_SUBJ:3FS تسببت)
+                                (NP-SBJ
+                                  (-NONE- *T*-6))
+                                (PP-CLR
+                                  (PREP ب)
+                                  (NP
+                                    (NOUN+CASE_INDEF_GEN نزوح)
+                                    (ADJ+CASE_INDEF_GEN لافت))))))))))))))))))
+  (PUNC &quot;)
+  (PUNC .))</parse>
+<arg f="" g="vital projects" n="0">-NONE- *T*-5 مشاريع حيوية</arg>
+<arg f="" g="the unemployment that exceeded 40%" n="1">من البطالة التي تجاوزت  40 في المئة</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to mourn" id="02" vncls="">
+<role argnum="0" argrole="griever, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حدت المرأة لوفاة زوجها</parse>
+
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="" g="the death of her husband" n="1">لوفاة زوجها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity mourning for" vncls="" vntheta=""/>
+<comment>لبس الحداد</comment>
+</frameset>
+<frameset cdef="" edef="to prevent,to keep from" id="03" vncls="">
+<role argnum="0" argrole="entity preventing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حد الله عنا الشر</parse>
+
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="from us" n="2">عنا</arg>
+<arg f="" g="the evil or the bad" n="1">الشر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things prevented" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to punish" id="04" vncls="">
+<role argnum="0" argrole="entity punishing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حد * المذنب بالموت</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="guilty" n="1">المذنب</arg>
+<arg f="" g="by death" n="2">بالموت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity punnished" vncls="" vntheta=""/>
+<role argnum="2" argrole="punishment" vncls="" vntheta=""/>
+<role argnum="3" argrole="for what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

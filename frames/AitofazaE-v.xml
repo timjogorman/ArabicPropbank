@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitofazaE</id>
+<comment/>
+<frameset cdef="" edef="to be afraid or scared of" id="01" vncls="">
+<role argnum="0" argrole="entity scared" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو بيتفزع * من خياله</parse>
+<comment/>
+<arg f="" g="he" n="0">* he</arg>
+<arg f="" g="from his shadow" n="1">من خياله</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

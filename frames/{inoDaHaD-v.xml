@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoDaHaD</id>
+
+<frameset cdef="" edef="to be disproved, refuted, invalidated" id="01" vncls="">
+<role argnum="1" argrole="entity disproved" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انضحضت التهمة بالصور</parse>
+
+<arg f="" g="the charge" n="1">التهمة</arg>
+<arg f="" g="with pictures" n="2">بالصور</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="how,instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

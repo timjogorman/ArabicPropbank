@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotarofad</id>
+<comment/>
+<frameset cdef="" edef="to beg for help or assistance" id="01" vncls="">
+<role argnum="0" argrole="begger" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استرفد المحتاجُ الغنيَّ</parse>
+<comment/>
+<arg f="" g="the needy one" n="0">المحتاجُ</arg>
+<arg f="" g="the rich person" n="1">الغنيَّ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="theme" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="beneficiary" vncls="" vntheta=""/>
+</frameset>
+</verb>

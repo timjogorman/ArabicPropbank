@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamAyaH</id>
+
+<frameset cdef="" edef="To totter or reel" id="01" vncls="">
+<role argnum="1" argrole="thing tottering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تمايح الغصن</parse>
+
+<arg f="" g="the branch" n="1">الغصن</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

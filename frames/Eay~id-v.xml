@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eay~id</id>
+<comment/>
+<frameset cdef="" edef="to celebrate" id="01" vncls="">
+<role argnum="0" argrole="entity celebrating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا حعيد * العيد مع أهلي</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="the feast" n="1">العيد</arg>
+<arg f="com" g="with my family" n="m">مع أهلي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="the celebration" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="give a festive greeting" id="02" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أخوية بيعيد * عليك</parse>
+<comment/>
+<arg f="" g="my brother" n="0">* أخوية</arg>
+<arg f="" g="to you" n="1">عليك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

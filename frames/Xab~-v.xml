@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Xab~</id>
+<comment>EGYPTIAN ARABIC Framefile based on Xab~-u-v</comment>
+<frameset cdef="" edef="to become unsettle, to become or turn pale" id="01">
+<role argnum="0" argrole="entity becoming unsettle" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ذب المهاجر</parse>
+<comment />
+<arg f="" g="the immigrant" n="0">المهاجر</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Xab~-u-v.01</comment>
+</frameset>
+<frameset cdef="" edef="to defend or protect" id="02">
+<role argnum="0" argrole="defender" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ذب الرجل عن حريمه</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his women" n="1">عن حريمه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Xab~-u-v.02</comment>
+<role argnum="1" argrole="defended one" />
+<role argnum="2" argrole="against what" />
+</frameset>
+</verb>

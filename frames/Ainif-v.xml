@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Ainif</id>
+<comment>EGYPTIAN ARABIC Framefile based on Oanif-a-v</comment>
+<frameset cdef="" edef="to disdain or scorn, to despise" id="01" vncls="">
+<role argnum="0" argrole="entity despising" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>أنف الصبي من اللهو</parse>
+<comment />
+<arg f="" g="the kid" n="0">الصبي</arg>
+<arg f="" g="from having fun" n="">من اللهو</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Oanif-a-v.01</comment>
+<role argnum="1" argrole="things despised" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waqaS</id>
+<comment/>
+<frameset cdef="" edef="to break someone's neck" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وقص القاتل عنق ضحيته بيديه</parse>
+<comment/>
+<arg f="" g="the killer" n="0">القاتل</arg>
+<arg f="" g="his victim's neck" n="1">عنق ضحيته</arg>
+<arg f="" g="with his hands" n="2">بيديه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things broken" vncls="" vntheta=""/>
+<role argnum="2" argrole="intrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

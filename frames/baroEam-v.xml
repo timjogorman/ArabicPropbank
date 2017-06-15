@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>baroEam</id>
+
+<frameset cdef="" edef="to put forth buds" id="01" vncls="">
+
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بَرْعَم الشجرُ</parse>
+
+<comment/>
+<arg f="" g="the tree" n="1">الشجرُ</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the plant" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

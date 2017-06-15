@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>war~av</id>
+<comment/>
+<frameset cdef="" edef="to bequeath, to give personal prorety by will" id="01">
+<role argnum="0" argrole="giver"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سوء الإدارة يورث  * الجهل</parse>
+<comment/>
+<arg f="" g="bad manegment" n="0">*? NONE</arg>
+<arg f="" g="ignorance" n="1">الجهل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things given"/>
+<role argnum="2" argrole="benificiary"/>
+</frameset>
+</verb>

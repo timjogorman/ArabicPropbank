@@ -1,0 +1,167 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raj~aE</id>
+<frameset cdef="" edef="to attribute" id="01" vncls="">
+<role argnum="0" argrole="entity attributing" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity attributed" vncls="" vntheta=""/>
+<role argnum="2" argrole="entity attributed to" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(SBAR-ADV
+  (SUB_CONJ اذ)
+  (S
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يُرجع)
+      (NP-SBJ
+        (DET+NOUN+CASE_DEF_NOM الكاتب))
+      (NP-OBJ
+        (NP
+          (NOUN+CASE_DEF_ACC اصول)
+          (NP
+            (NP
+              (DEM_PRON_F هذه))
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الازمة))))
+        (PUNC -)
+        (CONJ او)
+        (NP
+          (PP
+            (PREP على)
+            (NP
+              (DET+ADJ_COMP+CASE_DEF_GEN الأقل)))
+          (NOUN+CASE_DEF_ACC تفاقم)
+          (NP
+            (POSS_PRON_3FS ها))))
+      (PUNC -)
+      (PP-CLR
+        (PREP الى)
+        (NP
+          (NP
+            (NOUN+CASE_DEF_GEN اندلاع)
+            (NP
+              (NP
+                (DET+NOUN+CASE_DEF_GEN النزاع))
+              (NP-ADV
+                (NOUN+CASE_DEF_ACC بين)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN السنّة)
+                  (CONJ و)
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الشيعة)))))
+          (PP-TMP
+            (PUNC -LRB-)
+            (PREP في)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN القرن)
+              (DET+ADJ_NUM+CASE_DEF_GEN الثامن))
+            (PUNC -RRB-))))))
+  (PUNC .))</parse>
+<arg f="" g="" n="0">الكاتب</arg>
+<arg f="" g="the origin of this crisis or at least its exacerbation," n="1">أصول هذه الأزمة أو على الأقل تفاقمها</arg>
+<arg f="" g="to the outbreak of the conflict between Sunnis and Shiites in the eighth century" n="2">إلى اندلاع النزاع بين السنة و الشيعة في القرن الثامن</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+<comment>Based on roleset OarojaE-v.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to return something, to bring something back" id="02" vncls="">
+<role argnum="0" argrole="entity returning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أرجع الرجل الكتب الى المكتبة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the books" n="1">الكتب</arg>
+<arg f="" g="to the library" n="2">الى المكتبة</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things returned" vncls="" vntheta=""/>
+<role argnum="2" argrole="destination , to whom, from whom" vncls="" vntheta=""/>
+
+
+
+<comment>Based on roleset OarojaE-v.02</comment>
+</frameset>
+
+<frameset cdef="" edef="to push something backward" id="03" vncls="">
+<role argnum="0" argrole="pusher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أرجع الرجل الصندوق عشرة امتار</parse>
+
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the box" n="1">الصندوق</arg>
+<arg f="" g="ten meters" n="2">عشرة امتار</arg>
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="pushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="distance or position" vncls="" vntheta=""/>
+
+
+<comment>Based on roleset OarojaE-v.03</comment>
+</frameset>
+
+
+<comment>EGYPTIAN ARABIC Framefile based on OarojaE-v</comment>
+<frameset cdef="" edef="to vomit" id="04" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الواد قاعد بيرجع * من الصبح</parse>
+<comment/>
+<arg f="" g="the kid" n="0">* الواد</arg>
+<arg f="tmp" g="since morning" n="m">من الصبح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attribute to ARG0" vncls="" vntheta=""/>
+</frameset>
+</verb>

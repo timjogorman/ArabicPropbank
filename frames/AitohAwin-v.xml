@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitohAwin</id>
+<comment>EGYPTIAN ARABIC Framefile based on tahAwan</comment>
+<frameset cdef="" edef="to neglect, to slack" id="01">
+<role argnum="0" argrole="entity neglecting" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تهاون الطالب في اداء واجبه</parse>
+<comment />
+<arg f="" g="the studant" n="0">الطالب</arg>
+<arg f="" g="in doing his homework" n="1">في اداء واجبه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset tahAwan.01</comment>
+<role argnum="1" argrole="in what" />
+</frameset>
+<frameset cdef="" edef="to make little of, to make light of" id="02">
+<role argnum="0" argrole="entity making little" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تهاون الطالب بالواجب</parse>
+<comment />
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="with homework" n="1">بالواجب</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset tahAwan.02</comment>
+<role argnum="1" argrole="of what" />
+</frameset>
+</verb>

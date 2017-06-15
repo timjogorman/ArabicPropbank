@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TabaE</id>
+<comment/>
+<frameset cdef="" edef="to print" id="01" vncls="">
+<role argnum="0" argrole="entity printing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل طبع * عشرة نسخ</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="ten copies" n="1">عشرة نسخ</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity printed" vncls="" vntheta=""/>
+</frameset>
+</verb>

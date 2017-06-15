@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naka$</id>
+<comment/>
+<frameset cdef="" edef="to stir up, to provoke, to molest, to disorder" id="01" vncls="">
+<role argnum="0" argrole="agennt" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا مش حعقد انكش * في الماضي</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="in the past" n="1">في الماضي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what, victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

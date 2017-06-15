@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sabat-u</id>
+<comment/>
+<frameset cdef="" edef="to rest or sleep, to keep the Sabbath" id="01" vncls="">
+<role argnum="0" argrole="entity resting or sleeping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سبت اليهودي</parse>
+<comment/>
+<arg f="" g="the jewish" n="0">اليهودي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attribute to ARG0" vncls="" vntheta=""/>
+</frameset>
+</verb>

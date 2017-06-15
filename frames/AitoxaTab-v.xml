@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoxaTab</id>
+
+<frameset cdef="" edef="to betroth or affiance" id="01" vncls="">
+<role argnum="0" argrole="first party" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سمعت إن البنت اتخطبت * لأحمد</parse>
+
+<arg f="" g="the girl" n="0">* البنت</arg>
+<arg f="" g="to Ahmad" n="1">لأحمد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="second party" vncls="" vntheta=""/>
+<comment>ERZ</comment>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ijotav~</id>
+<comment/>
+<frameset cdef="" edef="to pluck out or extract" id="01">
+<role argnum="0" argrole="entity extracting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ياويحي من حبك الذي اجتث * روحي من صدري</parse>
+<comment/>
+<arg f="" g="your love" n="0">* حبك</arg>
+<arg f="" g="my soul" n="1">روحي</arg>
+<arg f="" g="from my chest" n="2">من صدري</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things extracted"/>
+<role argnum="2" argrole="source"/>
+</frameset>
+</verb>

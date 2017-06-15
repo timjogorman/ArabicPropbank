@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>raD~aE</id>
+<comment/>
+<frameset cdef="" edef="to breast feed" id="01" vncls="">
+<role argnum="0" argrole="entity feeding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رضعت الأم أبنها الحليب</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="her son" n="1">أبنها</arg>
+<arg f="" g="the milk" n="2">الحليب</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="milk" vncls="" vntheta=""/>
+<role argnum="2" argrole="entity being fed" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotaHosan</id>
+<comment>Egyptian Arabic based on {isotaHosan</comment>
+<frameset cdef="" edef="to favor" id="01" vncls="">
+<role argnum="0" argrole="liker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>based on roleset: {isotaHosan.01</comment>
+<role argnum="1" argrole="liked" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,17 +1,19 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>ka$~ar</id>
-    <frameset cdef="" edef="to scowl" id="01">
-        <role argnum="0" argrole="scowler"/>
-        <role argnum="1" argrole="at whom"/>
-        <frame>
-            <example>
-                <parse>
-                    فالاحرى بمن صورته **-1 مشوهة الا يكشّر * في وجه المصور, فكيف * بالامتثال لوضعية 0 يتطلبها **-3 مصور سيئ النية **-2 ? !
-                </parse>
-                <arg f="" g="whoever has a disfigured face" n="0">من صورته **-1 مشوهة</arg>
-                <arg f="" g="to the photographer's face" n="1">في وجه المصور</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>ka$~ar</id>
+<frameset cdef="" edef="to scowl, to grin, to bare or show one's teeth" id="01" vncls="">
+<role argnum="0" argrole="scowler, shower" vncls="" vntheta=""/>
+<role argnum="1" argrole="at whom, show what" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>فالاحرى بمن صورته **-1 مشوهة الا يكشّر * في وجه المصور, فكيف * بالامتثال لوضعية 0 يتطلبها **-3 مصور سيئ النية **-2 ? !</parse>
+<arg f="" g="whoever has a disfigured face" n="0">من صورته **-1 مشوهة</arg>
+<arg f="" g="to the photographer's face" n="1">في وجه المصور</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
 </verb>

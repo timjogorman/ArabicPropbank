@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laEolaE</id>
+<comment/>
+<frameset cdef="" edef="to soound high, to boom or thunder" id="01" vncls="">
+<role argnum="1" argrole="entity sounding high" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صوته يلعلع * لأخرالشارع</parse>
+<comment/>
+<arg f="" g="his voice" n="1">* صوته</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+</frameset>
+</verb>

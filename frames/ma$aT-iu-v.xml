@@ -1,17 +1,39 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>ma$aT-iu</id>
-    <frameset cdef="" edef="to search through or comb through" id="01">
-        <role argnum="0" argrole="searcher"/>
-        <role argnum="1" argrole="location or thing searched through"/>
-        <frame>
-            <example>
-                <parse>
-                    وفي السياق، مشطت شرطة دبي كاميرات الحراسة الكثيرة المركبة في المطار والفنادق.
-                </parse>
-                <arg f="" g="Dubai's police" n="0">شرطة دبي</arg>
-                <arg f="" g="the numerous security cameras located in the airport and the hotels" n="1">كاميرات الحراسة الكثيرة المركبة في المطار والفنادق</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>ma$aT-iu</id>
+<frameset cdef="" edef="to search through" id="01" vncls="">
+<role argnum="0" argrole="searcher" vncls="" vntheta=""/>
+<role argnum="1" argrole="location or thing searched through" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>وفي السياق، مشطت شرطة دبي كاميرات الحراسة الكثيرة المركبة في المطار والفنادق.</parse>
+<arg f="" g="Dubai's police" n="0">شرطة دبي</arg>
+<arg f="" g="the numerous security cameras located in the airport and the hotels" n="1">كاميرات الحراسة الكثيرة المركبة في المطار والفنادق</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to comb" id="02" vncls="">
+<role argnum="0" argrole="entity combing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مشطت البنت شعرها بالمشط</parse>
+<comment/>
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="her hair" n="1">شعرها</arg>
+<arg f="" g="with the comb" n="2">بالمشط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things combed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
 </verb>

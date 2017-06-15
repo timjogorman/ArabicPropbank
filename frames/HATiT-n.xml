@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HATiT</id>
+<comment/>
+<frameset cdef="" edef="putting, to feel ashame (multi word expression)" id="01" vncls="">
+<role argnum="0" argrole="entity putting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل كان حاطط * ايده على عينيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his hand" n="1">ايده</arg>
+<arg f="" g="on his eyes" n="2">على عينيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things put" vncls="" vntheta=""/>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

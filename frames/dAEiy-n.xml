@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dAEiy</id>
+
+<frameset cdef="" edef="justification , reason" id="01" vncls="">
+<role argnum="1" argrole="reason" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>طب والله انا شايف إن مفيش داعى * لده  يعنى</parse>
+
+<arg f="" g="it" n="1">*</arg>
+<arg f="" g="to that" n="2">لده</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="to what?" vncls="" vntheta=""/>
+
+<comment>Eg</comment>
+</frameset>
+
+<comment/>
+<frameset cdef="" edef="call people to do something" id="02" vncls="">
+<role argnum="0" argrole="caller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>و في خطابه كان الرجل داعيا * الجميع  الى السلم</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="every body" n="1">الجميع</arg>
+<arg f="" g="to peace" n="2">الى السلم</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity called" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

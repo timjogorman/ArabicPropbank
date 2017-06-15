@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laHom</id>
+<comment/>
+<frameset cdef="" edef="welding, soldering" id="01" vncls="">
+<role argnum="0" argrole="entity welding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SBAR-NOM
+    (WHNP-1
+      (REL_PRON اللِي))
+    (S
+      (VP
+        (NOUN.VN لَحْم)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (DET+NOUN الباب)
+          (DET+NOUN الحَدِيد))
+        (PP-PRP
+          (PREP عَ)
+          (NP
+            (NOUN شَأْن)
+            (S
+              (NP-TPC-2
+                (DET+NOUN الناس))
+              (VP
+                (PRT
+                  (NEG_PART ما))
+                (IV3FS+IV تُخْرُج)
+                (PRT
+                  (NEG_PART ش))
+                (NP-SBJ
+                  (-NONE- *T*-2))
+                (PUNC ?)
+                (PUNC ?)
+                (NP-LOC
+                  (NOUN_PROP بُورْسَعِيد))))))))
+    (PUNC ?)
+    (PUNC ?)))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*T*-1 NONE</arg>
+<arg f="" g="the iron door" n="1">الباب الحديد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="first thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="second thing" vncls="" vntheta=""/>
+</frameset>
+</verb>

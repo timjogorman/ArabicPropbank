@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobaTaH</id>
+
+<frameset cdef="" edef="to lie face down on a flat surface" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبطحت الطفلة على الشاطئ</parse>
+
+<arg f="" g="the girl" n="0">الطفلة</arg>
+<arg f="" g="on the beach" n="1">على الشاطئ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="location" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ka}ib</id>
+
+<frameset cdef="" edef="to depress or grieve" id="01" vncls="">
+<role argnum="0" argrole="entity depressed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>موت صديقي كأب * ني قوي</parse>
+
+<arg f="" g="the death of my friend" n="1">* موت صديقي</arg>
+<arg f="" g="me" n="0">ني</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

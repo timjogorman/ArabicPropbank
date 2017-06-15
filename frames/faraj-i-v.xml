@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faraj-i</id>
+
+<frameset cdef="" edef="to open , to open widen, to open up" id="01" vncls="">
+<role argnum="0" argrole="entity opening" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فرج الرجل الباب</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the door" n="1">الباب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things opened" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to remove, to eliminate, to end" id="02" vncls="">
+<role argnum="0" argrole="entity removing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عسى الله أن يفرج * همه</parse>
+
+<arg f="" g="God" n="0">* الله</arg>
+<arg f="" g="worry or grief" n="1">هم</arg>
+<arg f="" g="he" n="2">ه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things removed" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom or from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

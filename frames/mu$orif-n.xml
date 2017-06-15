@@ -1,0 +1,99 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mu$orif</id>
+
+<frameset cdef="" edef="superviser" id="01" vncls="">
+<role argnum="0" argrole="superviser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3MP طالبوا)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC مصلحة)
+          (NP
+            (NOUN+CASE_DEF_GEN مياه)
+            (NP
+              (NOUN_PROP عكار))))
+        (SBAR
+          (WHNP-1
+            (-NONE- 0))
+          (S
+            (VP
+              (DET+ADJ.VN+NSUFF_FEM_SG+CASE_DEF_ACC المشرفة)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (PP-CLR
+                (PREP على)
+                (NP
+                  (NP
+                    (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN محطات)
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN الضخ)))
+                  (PP-LOC
+                    (PREP في)
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN العيون)))))))))
+      (PP-CLR
+        (PREP ب_)
+        (NP
+          (PUNC ")
+          (NP
+            (DET+NOUN+CASE_DEF_GEN العمل))
+          (PP
+            (PREP على)
+            (NP
+              (NP
+                (NP
+                  (NOUN+CASE_DEF_GEN اصلاح)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN الاعطال)))
+                (PP
+                  (PREP في)
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المحطة)
+                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المذكورة))))</parse>
+
+<arg f="" g="it" n="0">-NONE- *T*-1 &gt; مصلحة مياه عكار</arg>
+<arg f="" g="the pumping stations in the springs" n="1">على محطات الضخ في العيون</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="whom? (marked by على)" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what?" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="overlooking" id="02" vncls="">
+<role argnum="1" argrole="overlooking thing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اشتريت منزلا مشرفا على البحر</parse>
+
+<arg f="" g="it" n="1">* &gt; منزلا</arg>
+<arg f="" g="on the sea" n="2">على البحر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="on what? (على)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

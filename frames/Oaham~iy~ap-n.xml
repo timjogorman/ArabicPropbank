@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oaham~iy~ap</id>
+<comment/>
+<frameset cdef="" edef="importance, significance" id="01" vncls="">
+<role argnum="1" argrole="things are important" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أهمية هذا الكتاب في حياتنا لمساعدتنا في الحياة</parse>
+<comment/>
+<arg f="" g="this book" n="1">هذا الكتاب</arg>
+<arg f="" g="in our life" n="2">في حياتنا</arg>
+<arg f="" g="to help us in life" n="3">لمساعدتنا في الحياة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

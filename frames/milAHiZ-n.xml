@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>milAHiZ</id>
+<comment/>
+<frameset cdef="" edef="to notice or observe" id="01" vncls="">
+<role argnum="0" argrole="observer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو ملاحظ * كل حركة بأعملها</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="every move that i make" n="1">كل حركة بأعملها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing noticed or observed" vncls="" vntheta=""/>
+</frameset>
+</verb>

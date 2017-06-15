@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kaZam-i</id>
+<comment/>
+<frameset cdef="" edef="to suppress, to contain or repress" id="01">
+<role argnum="0" argrole="entity suppresing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غضب على أخيه ولكنه كظم * رغبته في أن يضربه</parse>
+<comment/>
+<arg f="" g="he" n="0">* ه</arg>
+<arg f="" g="his desire to hit him" n="1">رغبته في أن يضربه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things controlled"/>
+</frameset>
+<frameset cdef="" edef="to be or become silent" id="02">
+<role argnum="0" argrole="entity bcoming esilent"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كظم الولد</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الولد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to close" id="03">
+<role argnum="0" argrole="entity closing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كظم الرجل الباب</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the door" n="1">الباب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things closed"/>
+</frameset>
+</verb>

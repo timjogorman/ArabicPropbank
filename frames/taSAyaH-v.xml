@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taSAyaH</id>
+<comment/>
+<frameset cdef="" edef="to shout at one another" id="01" vncls="">
+<role argnum="0" argrole="entity shouting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ وَ)
+    (S
+      (PP-LOC
+        (PREP مِن)
+        (NP
+          (NOUN خَلْف)
+          (NP
+            (POSS_PRON_3MS ُه))))
+      (VP
+        (IV3MS+IV يِجْرِي)
+        (NP-SBJ
+          (NP
+            (NOUN+NSUFF_FEM_SG جَماعَة))
+          (PP
+            (PREP مِن)
+            (NP
+              (DET+NOUN الناس))))
+        (SBAR-ADV
+          (CONJ وِ)
+          (S
+            (NP-TPC-4
+              (PRON_3P هُمَّ))
+            (VP
+              (IV3P+IV+IVSUFF_SUBJ:P يَتَصايَحُون)
+              (NP-SBJ
+                (-NONE- *T*-4))
+              (S
+                (S
+                  (VP
+                    (CV+CVSUFF_SUBJ:2MS إِمْسِك)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (NOUN حَرامِيّ))
+                    (PUNC .)
+                    (PUNC .)
+                    (PUNC .)
+                    (PUNC .)))
+                (S
+                  (VP
+                    (CV+CVSUFF_SUBJ:2MS إِمْسِك)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (NOUN حَرامِيّ))))))))))
+    (PUNC .)
+    (PUNC .)))</parse>
+<comment/>
+<arg f="" g="they" n="0">* هُمَّ</arg>
+<arg f="" g="catch the thief" n="2">إِمْسِك حَرامِيّ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="second entity if not in Arg 0" vncls="" vntheta=""/>
+<role argnum="2" argrole="for or with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tajar~aE</id>
+
+<frameset cdef="" edef="to drink, to swallow" id="01" vncls="">
+<role argnum="0" argrole="entity drinking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تجرع الرجل الماء بسرعة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the water" n="1">الماء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things drunked" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to hide, to conceal  (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity hiding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تجرع الرجل غيظه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his anger" n="1">غيظه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things hidden" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xazib</id>
+<comment/>
+<frameset cdef="" edef="to get the edema , to get fat as to be swollen" id="01" vncls="">
+<role argnum="1" argrole="entity sick" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خزب جلد المريض</parse>
+<comment/>
+<arg f="" g="the patient skin" n="1">جلد المريض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

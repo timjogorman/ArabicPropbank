@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daw~ax</id>
+
+<frameset cdef="" edef="to daze or stun, to make duzzy, to give head ache, to humble" id="01" vncls="sal~aY-1">
+<role argnum="0" argrole="agent" vncls="sal~aY-1" vntheta="cause"/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده دوخ * ني بكلامه الفاضي</parse>
+
+<arg f="" g="this man" n="0">* الراجل ده</arg>
+<arg f="" g="me" n="1">ني</arg>
+<arg f="" g="with his meanless talking" n="2">بكلامه الفاضي</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity gettin duzzy" vncls="sal~aY-1" vntheta="experiencer"/>
+<role argnum="2" argrole="with what" vncls="sal~aY-1" vntheta="instrument"/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to subjugate or subdue" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>دوخ صدام العراقيين في حياته</parse>
+
+<arg f="" g="Saddam" n="0">صدام</arg>
+<arg f="" g="the Iraqies" n="1">العراقيين</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

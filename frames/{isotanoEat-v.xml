@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotanoEat</id>
+
+<frameset cdef="" edef="to ask someone to describe something/direction" id="01" vncls="">
+<role argnum="0" argrole="entity asking description" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استنعت السائح الرجل الطريق إلى المتحف</parse>
+
+<arg f="" g="the tourist" n="0">السائح</arg>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="the direction to the museum" n="2">الطريق إلى المتحف</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity describing" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing that needs description" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

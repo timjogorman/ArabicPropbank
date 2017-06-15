@@ -1,0 +1,87 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotaqal~</id>
+
+    <frameset cdef="" edef="to find/consider little" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>استقل الضيف الطعام المقدم اليه</parse>
+
+<arg f="" g="the guest" n="0">الضيف</arg>
+<arg f="" g="food provided to him" n="1">الطعام المقدم اليه</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things consideredtle lit" vncls="" vntheta=""/>
+
+
+<comment>Based on roleset {isotaqal~.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to become independent" id="02" vncls="">
+<role argnum="1" argrole="entity independent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>استقلت العراق من حكم بريطانيا عام ؟؟؟</parse>
+
+<arg f="" g="Iraq" n="1">العراق</arg>
+<arg f="" g="from the rule of British" n="2"/>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to ride (transportation)" id="03" vncls="">
+<role argnum="0" argrole="rider" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استقل الرجل سيارة تاكسي من البيت الى المدرسة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="taxi car" n="1">سيارة تاكسي</arg>
+<arg f="" g="from home" n="2">من البيت</arg>
+<arg f="" g="to school" n="3">الى المدرسة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="transportation" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on {isotaqal~</comment>
+</verb>

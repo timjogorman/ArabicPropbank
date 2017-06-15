@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>nafaX</id>
+<frameset cdef="" edef="to escape or go/slip through" id="01" vncls="">
+<role argnum="0" argrole="escapee" vncls="" vntheta="" />
+<role argnum="1" argrole="escape from" vncls="" vntheta="" />
+<role argnum="2" argrole="escape to" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>هذا ليس **-1 كلاما مثبطا , لكنه واقعنا الاليم 0 نفتش * فيه **-2 عن ثغرة 0 ننفذ* منها **-3 الى الخلاص .</parse>
+<arg f="" g="we" n="0">*</arg>
+<arg f="" g="from it &lt; a hole" n="1">منها **-3 &lt; ثغرة</arg>
+<arg f="" g="to salvation" n="2">الى الخلاص .</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset nafaX-u-v.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to permeate" id="03" vncls="">
+<role argnum="0" argrole="entity spreading" vncls="" vntheta="" />
+<role argnum="1" argrole="entity permeated" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>من هذا المنظار, يبدو كلام الاستهلاك اللبناني مجدياً, والنتائج المتأتية منه تستحق **-1 فعلاً العناء الذي يتطلب*ه **-2 من الوزير الشرع وغيره من المسؤولين السوريين واللبنانيين, وخصوصاً انه لا يقنع **-3 فقط من انطبقت عليهم **-4 صفة الابواق, بل انه ينفذ **-5 ايضاً الى بعض مناوئي الهيمنة السورية</parse>
+<arg f="" g="-NONE- &lt; this view" n="0">**-5 &lt; هذا المنظار</arg>
+<arg f="adv" g="also" n="m">ايضاً</arg>
+<arg f="" g="some opponents of Syrian domination" n="1">الى بعض مناوئي الهيمنة السورية</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset nafaX-u-v.03</comment>
+</frameset>
+
+<frameset cdef="" edef="to finish or end" id="04" vncls="">
+<role argnum="1" argrole="things finished" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>شربت الكاس كأس بعد كأس فما نفذ الشراب وما رويت</parse>
+
+<arg f="" g="the drink" n="1">الشراب</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset nafaX-u-v.04</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on nafaX-u-v</comment>
+</verb>

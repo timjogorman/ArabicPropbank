@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{imotiHan</id>
+<comment/>
+<frameset cdef="" edef="test, quiz" id="01" vncls="">
+<role argnum="0" argrole="entity testing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرر المعلم امتحان * طلبته في الرياضيات</parse>
+<comment/>
+<arg f="" g="the teacher" n="0">* المعلم</arg>
+<arg f="" g="his students" n="1">طلبته</arg>
+<arg f="" g="in math" n="2">في الرياضيات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity tested" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

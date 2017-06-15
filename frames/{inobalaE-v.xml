@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobalaE</id>
+
+<frameset cdef="" edef="to be gulpped" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبلع الدواء بسرعة</parse>
+
+<arg f="" g="medecine" n="1">الدواء</arg>
+<arg f="mnr" g="very fast" n="m">بسرعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

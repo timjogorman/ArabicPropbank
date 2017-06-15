@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>naH~as</id>
+<comment>EGYPTIAN ARABIC Framefile based on naHis-a-v</comment>
+<frameset cdef="" edef="to be unlucky, to be unfortunate, to become unhappy" id="01" vncls="">
+<role argnum="0" argrole="entity becoming unlucky" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>نحس الرجل بعد ان فقد تعويذته</parse>
+<comment />
+<arg f="" g="the man" n="">الرجل</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset naHis-a-v.01</comment>
+</frameset>
+</verb>

@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tafAtaH</id>
+
+<frameset cdef="" edef="to whisper together, to exchange secrets" id="01" vncls="">
+<role argnum="0" argrole="talker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تفاتح الصديقان كلاما</parse>
+
+<arg f="" g="the two friends" n="0">الصديقان</arg>
+<arg f="" g="conversation" n="2">كلاما</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="listener" vncls="" vntheta=""/>
+<role argnum="2" argrole="about or subject" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

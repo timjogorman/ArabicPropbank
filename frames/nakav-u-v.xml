@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nakav-u</id>
+<comment/>
+<frameset cdef="" edef="to violate or break a promise" id="01" vncls="">
+<role argnum="0" argrole="entity breaking the promise" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نكث الرجل وعده لأخيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his promise" n="1">وعده</arg>
+<arg f="" g="to his brother" n="2">لأخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the promise" vncls="" vntheta=""/>
+<role argnum="2" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

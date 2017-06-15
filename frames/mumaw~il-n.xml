@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mumaw~il</id>
+<frameset cdef="" edef="financer, money provider" id="01" vncls="">
+<role argnum="0" argrole="entity providing" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity provided with money" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>ان البنك العربي هو الممول * الوحيد لهذا المشروع</parse>
+<arg f="" g="the Arabian bank" n="0">* البنك العربي</arg>
+<comment/>
+<arg f="" g="the only for this project" n="1">الوحيد لهذا المشروع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

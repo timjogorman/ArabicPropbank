@@ -1,0 +1,66 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hujuwm</id>
+<comment/>
+<frameset cdef="" edef="attack, assult" id="01" vncls="">
+<role argnum="0" argrole="attacker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3FS كانِت)
+        (NP-SBJ
+          (NOUN+NSUFF_FEM_SG رَغْبَة)
+          (NP
+            (DET+NOUN الشَعْب)))
+        (NP-PRD
+          (NP
+            (NOUN+CASE_INDEF_ACC سَبَباً))
+          (PP
+            (PREP فِي)
+            (NP
+              (NOUN+CASE_DEF_GEN تَرَشُّحِ)
+              (NP
+                (POSS_PRON_3MS هِ)))))))
+    (PUNC .)
+    (PUNC .)
+    (PUNC .)
+    (CONJ فَ)
+    (SQ
+      (PRT
+        (INTERROG_PART هَل))
+      (VP
+        (PRT
+          (FUT_PART سَ))
+        (IV3MS+IV+IVSUFF_MOOD:S يَتَراجَعَ)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP بِ)
+          (S-NOM
+            (VP
+              (NOUN.VN هُجُوم)
+              (NP-SBJ
+                (DET+NOUN الجَرائِد)
+                (DET+ADJ+NSUFF_FEM_SG القَوْمِيَّة))
+              (PP-CLR
+                (PREP عَلَى)
+                (NP
+                  (PRON_3MS ُه)))))))
+      (PUNC ?))))</parse>
+<comment/>
+<arg f="" g="nationalism news paper" n="0">الجَرائِد القَوْمِيَّة</arg>
+<arg f="" g="on him" n="1">عليه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attacked" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute" vncls="" vntheta=""/>
+</frameset>
+</verb>

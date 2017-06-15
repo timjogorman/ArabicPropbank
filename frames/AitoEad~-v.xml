@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEad~</id>
+<comment/>
+<frameset cdef="" edef="to be counted" id="01" vncls="">
+<role argnum="0" argrole="entity counting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كل حاجة اتعدت * بالتمام</parse>
+<comment/>
+<arg f="" g="every thing" n="1">كل حاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="things counted" vncls="" vntheta=""/>
+</frameset>
+</verb>

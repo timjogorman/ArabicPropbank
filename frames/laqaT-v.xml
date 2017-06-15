@@ -1,0 +1,66 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laqaT</id>
+
+    <frameset cdef="" edef="to pick up, to catch, to take up" id="01" vncls="">
+<role argnum="0" argrole="entity pickking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لقط الرجل منديلا من الارض</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="handkerchief" n="1">منديلا</arg>
+<arg f="" g="from the ground" n="2">من الارض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things picked" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<comment>Based on roleset laqaT-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on laqaT-u</comment>
+<frameset cdef="" edef="to take a picture" id="02" vncls="">
+<role argnum="0" argrole="agent taking picture" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+          (VP
+            (IV1S+IV اَخاف)
+            (NP-SBJ
+              (-NONE- *))
+            (SBAR
+              (-NONE- 0)
+              (S
+                (VP
+                  (IV3P+IV+IVSUFF_SUBJ:P يِلْقُطُوا)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (PP
+                    (PREP لِ)
+                    (NP
+                      (PRON_1S ِي)))
+                  (NP-OBJ
+                    (NOUN صُوَر))))))
+          (PUNC .))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* -NONE-</arg>
+<arg f="" g="to me" n="1">لي</arg>
+<arg f="" g="pictures" n="2">صُوَر</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="of whom or of what" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

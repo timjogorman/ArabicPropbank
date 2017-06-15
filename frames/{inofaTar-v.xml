@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofaTar</id>
+<comment/>
+<frameset cdef="" edef="to split or cleave" id="01">
+<role argnum="1" argrole="things splitting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انفطر الحائط بسبب الزلزال</parse>
+<comment/>
+<arg f="" g="the wall" n="0">الحائط</arg>
+<arg f="cau" g="because of the earthquake" n="m">بسبب الزلزال</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to have a natural disposition for, to be in someone's nature" id="02">
+<role argnum="0" argrole="entity growing on something"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انفطر الطفل على هذا السلوك</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="on this behavior" n="1">على هذا السلوك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things getting used to"/>
+</frameset>
+</verb>

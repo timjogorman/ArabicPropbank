@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>talaT~ax</id>
+<comment/>
+<frameset cdef="" edef="to be or become stained or blotted" id="01" vncls="">
+<role argnum="1" argrole="entity becoming stained" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تلطخت سمعته</parse>
+<comment/>
+<arg f="" g="his reputation" n="1"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

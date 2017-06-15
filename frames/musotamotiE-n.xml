@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>musotamotiE</id>
+<comment/>
+<frameset cdef="" edef="enjoy, take pleasure from , take advantage" id="01" vncls="">
+<role argnum="0" argrole="enjoyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو مستمتع * بالحياة في الريف</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="with the life in the country side" n="1">بالحياة في الريف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing enjoyed" vncls="" vntheta=""/>
+</frameset>
+</verb>

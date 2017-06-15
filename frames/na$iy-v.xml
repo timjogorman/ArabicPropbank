@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>na$iy</id>
+<comment/>
+<frameset cdef="" edef="to be drunk   سَكِرَ" id="01" vncls="">
+<role argnum="0" argrole="entity drunk" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نشي الرجل بالخمرة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with the wine" n="1">بالخمرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to like or to love   أَحَبَّهُ وعَاوَدَهُ مَرَّةً بَعْدَ أُخْرَى" id="02" vncls="">
+<role argnum="0" argrole="entity liking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نشي الطفل بالكتاب</parse>
+<comment/>
+<arg f="" g="the baby" n="0">الطفل</arg>
+<arg f="" g="with the book" n="1">بالكتاب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity liked" vncls="" vntheta=""/>
+</frameset>
+</verb>

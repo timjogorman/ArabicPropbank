@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mutazalozil</id>
+<comment/>
+<frameset cdef="" edef="to be quaky (hit by earthquake" id="01" vncls="">
+<role argnum="1" argrole="things having earthquake" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بيوتنا متزلزلة * من أثر القنابل</parse>
+<comment/>
+<arg f="" g="our houses" n="1">* بيوتنا</arg>
+<arg f="cau" g="because of the bombs" n="m">من أثر القنابل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

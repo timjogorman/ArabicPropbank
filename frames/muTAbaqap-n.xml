@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muTAbaqap</id>
+<comment/>
+<frameset cdef="" edef="sameness, conformity, to be identical" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لا يوجد أي مطابقة بين الفيلم و الكتاب</parse>
+<comment/>
+<arg f="" g="between the movie" n="1">بين الفيلم</arg>
+<arg f="" g="and the book" n="2">و الكتاب</arg>
+</example>
+<comment/>
+<example>
+<parse>حاول الكاتب مطابقة * القصة مع الواقع</parse>
+<comment/>
+<arg f="" g="the riter" n="0">* الكاتب</arg>
+<arg f="" g="the story" n="1">القصة</arg>
+<arg f="" g="with reality" n="2">مع الواقع</arg>
+</example>
+</frame>
+<comment/>
+<role argnum="1" argrole="topic, theme" vncls="" vntheta=""/>
+<role argnum="2" argrole="compared with" vncls="" vntheta=""/>
+</frameset>
+</verb>

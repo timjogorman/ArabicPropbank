@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eatal-u</id>
+<comment/>
+<frameset cdef="" edef="to carry" id="01" vncls="">
+<role argnum="0" argrole="entity carrying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عتل الرجل الحمل</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the load" n="1">الحمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things carried" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to drag or take someone to a bad place" id="02" vncls="">
+<role argnum="0" argrole="entity draging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عتل الرجل عدوه الى السجن</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his enemy" n="1">عدوه</arg>
+<arg f="" g="to jail" n="2">الى السجن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="draged entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="to where" vncls="" vntheta=""/>
+</frameset>
+</verb>

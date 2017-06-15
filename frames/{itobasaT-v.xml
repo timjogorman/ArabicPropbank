@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{itobasaT</id>
+<comment/>
+<frameset cdef="" edef="to sprea out, to strech, to spread" id="01" vncls="">
+<role argnum="1" argrole="entity or things spreading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البضاعة اتبسطت على الارض</parse>
+<comment/>
+<arg f="" g="merchandise" n="1">البضاعة</arg>
+<arg f="loc" g="on the ground or on the floor" n="m">على الارض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be happy or glad" id="02" vncls="">
+<role argnum="0" argrole="entity being happy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده بويا اتبسط * لما فريقنا كسب المباراة</parse>
+<comment/>
+<arg f="" g="my father" n="0">بويا</arg>
+<arg f="" g="when our team won the game" n="1">لما فريقنا كسب المباراة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>manofaEap</id>
+<comment/>
+<frameset cdef="" edef="to help or benefit" id="01" vncls="">
+<role argnum="1" argrole="help" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الكتاب هو لمنفعة * الطلاب الصغار</parse>
+<comment/>
+<arg f="" g="this book" n="1">* هذا الكتاب</arg>
+<arg f="" g="the little students" n="2">الطلاب الصغار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="benefactive" vncls="" vntheta=""/>
+</frameset>
+</verb>

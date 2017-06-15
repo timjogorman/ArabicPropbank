@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoxaD~</id>
+
+<frameset cdef="" edef="To fear" id="01" vncls="">
+<role argnum="0" argrole="entity afraid" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا اتخضيت * من اللي حصل</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="from what was happening" n="1">من اللي حصل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="afraid of what?" vncls="" vntheta=""/>
+<comment>ERZ</comment>
+</frameset>
+<frameset cdef="" edef="to worry" id="02" vncls="">
+<role argnum="0" argrole="entity worried" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الأم اتخضت * على ولدها من أبوه</parse>
+
+<arg f="" g="the mother" n="0">* الأم</arg>
+<arg f="" g="for her son" n="1">على ولدها</arg>
+<arg f="" g="from his father" n="2">من أبوه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="about what" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faz~-i</id>
+<comment/>
+<frameset cdef="" edef="to be dismayed. To be horrified. To  fear" id="01">
+<role argnum="1" argrole="entity feared"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فز * من صوت الانفجار</parse>
+<comment/>
+<arg f="" g="NONE" n="1">*? NONE</arg>
+<arg f="" g="from the explosion sound" n="2">من صوت الانفجار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what"/>
+</frameset>
+</verb>

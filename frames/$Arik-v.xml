@@ -1,0 +1,100 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$Arik</id>
+<frameset cdef="" edef="to share" id="01" vncls="">
+<role argnum="0" argrole="sharer" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing shared" vncls="" vntheta=""/>
+<role argnum="2" argrole="person shared with" vncls="" vntheta=""/>
+<frame>
+
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الجيش شارك مع الشرطة في  قتل المعتصمين</parse>
+<arg f="" g="It" n="0">NONE</arg>
+<arg f="" g="with police" n="2">مع الشرطة</arg>
+<arg f="" g="in the killing of protestors" n="1">في  قتل المعتصمين</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment>اشترك مع</comment>
+</frame>
+
+
+
+<comment>Based on roleset $Arak.01</comment>
+</frameset>
+<frameset cdef="" edef="to participate" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="event" vncls="" vntheta=""/>
+<frame>
+
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>شارك حوالي ألفين واحد في اعتصام النهاردة</parse>
+<arg f="" g="around 2000 person" n="0">حوالي ألفين واحد</arg>
+<arg f="" g="in today's Sit - in" n="1">في اعتصام النهاردة</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment>اشترك في</comment>
+</frame>
+
+
+
+<comment>Based on roleset $Arak.02</comment>
+</frameset>
+<frameset cdef="" edef="to agree or share opinion" id="03" vncls="">
+<role argnum="0" argrole="agreer" vncls="" vntheta=""/>
+<role argnum="1" argrole="proposition" vncls="" vntheta=""/>
+<role argnum="2" argrole="other entity agreeing" vncls="" vntheta=""/>
+<frame>
+
+<example>
+<parse>أنا بأرشاركها االرأي في ضرورة محاربة الظلم</parse>
+<arg f="" g="it" n="0">-NONE- *&lt;</arg>
+<arg f="" g="It" n="2">ها</arg>
+<arg f="" g="Shared her opinion on the need to fight injustice" n="1">الرَّأْيَ فِي ضَرُورَةِ مُحارَبَة الظلم</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+<comment>اتفق مع</comment>
+</frame>
+
+
+
+<comment>Based on roleset $Arak.03</comment>
+</frameset>
+
+
+
+<comment>EGYPTIAN ARABIC Framefile based on $Arak</comment>
+</verb>

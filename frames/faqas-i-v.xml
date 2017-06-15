@@ -1,0 +1,152 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faqas-i</id>
+
+<frameset cdef="" edef="to hatch,  to break the egg" id="01" vncls="">
+<role argnum="0" argrole="entity breaking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فقس الطير البيضة</parse>
+
+<arg f="" g="the bird" n="0">الطير</arg>
+<arg f="" g="the egg" n="1">البيضة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things broken" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to die" id="02" vncls="">
+<role argnum="0" argrole="to die" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فقس الرجل</parse>
+
+<arg f="" g="the man" n="1">الرجل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to jump or leap" id="03" vncls="">
+<role argnum="0" argrole="jumper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فقس الرجل من الطائرة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="from the plain" n="2">من الطائرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="extent" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to kill an animal" id="04" vncls="">
+<role argnum="0" argrole="killer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فقس الرجل الحيوان</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the animal" n="1">الحيوان</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="killed intity" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to extort from" id="05" vncls="">
+<role argnum="0" argrole="taker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فقس * الشيئ منه</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the thing" n="1">الشيئ</arg>
+<arg f="" g="from him" n="2">منه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things taken" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to catch someone in action, to find the truth" id="06" vncls="">
+<role argnum="0" argrole="finder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SQ
+    (ADJP-PRD
+      (ADJ لازِم))
+    (SBAR-SBJ
+      (-NONE- 0)
+      (S
+        (VP
+          (IV2FS+IV+IVSUFF_SUBJ:2FS تِفقِسِي)
+          (NP-SBJ
+            (-NONE- *))
+          (NP-OBJ
+            (IVSUFF_DO:3MS ُه)))))
+    (PRN
+      (S
+        (VP
+          (IV3MS+IV يَعْنِي)
+          (NP-SBJ
+            (-NONE- *)))))
+    (PUNC ?)
+    (PUNC ?)
+    (PUNC ?)))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="he" n="2">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things found" vncls="" vntheta=""/>
+<role argnum="2" argrole="about whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

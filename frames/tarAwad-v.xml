@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarAwad</id>
+<comment/>
+<frameset cdef="" edef="to be reported" id="01" vncls="">
+<role argnum="0" argrole="reporter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تراودت العديد من التساؤلات في أذهان الشارع المصرى حول رد فعل مؤيدى الإخوان حيال تلك المحاكمة</parse>
+<comment/>
+<arg f="" g="a lot of questions" n="1">العديد من التساؤلات</arg>
+<arg f="" g="in the mind of the Egyptian street" n="3">في أذهان الشارع المصرى</arg>
+<arg f="" g="about the reaction of the brotherhood supporters" n="2">حول رد فعل مؤيدى الإخوان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things reported" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+<role argnum="3" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Ainodamaj</id>
+
+<frameset cdef="" edef="To merge, to unite, to consolidate" id="01" vncls="">
+<role argnum="1" argrole="entity / thing united" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>اندمجت الشركتان</parse>
+
+<arg f="" g="the two companies" n="1">الشركتان</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="2" argrole="with who/what" vncls="" vntheta="" />
+<comment>Based on roleset {inodamaj.01</comment>
+</frameset>
+<frameset cdef="" edef="To be included, to be embodied" id="02" vncls="">
+<role argnum="0" argrole="entity/ thing included" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>اندمج الطالب في جو المدرسة</parse>
+
+<arg f="" g="the student" n="">الطالب</arg>
+<arg f="" g="in the school atmosphere" n="">في جو المدرسة</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta="" />
+<comment>Based on roleset {inodamaj.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on {inodamaj</comment>
+</verb>

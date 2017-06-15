@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>salaE-a</id>
+
+<frameset cdef="" edef="to split, to cleave, to tear" id="01" vncls="">
+<role argnum="0" argrole="entity splitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سلع الولد البطيخة نصفين</parse>
+
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="watermelon" n="1">البطيخة</arg>
+<arg f="" g="two halves" n="2">نصفين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things torn" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to Arg 1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to merchandise a product" id="02" vncls="">
+<role argnum="0" argrole="the seller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سلعت طيوطا سياراتها الجديدة في أروبا</parse>
+
+<arg f="" g="Toyota" n="0">طيوطا</arg>
+<arg f="" g="its new cars" n="1">سياراتها الجديدة</arg>
+<arg f="" g="in Europe" n="2">في أروبا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the new products" vncls="" vntheta=""/>
+<role argnum="2" argrole="where the merchandising is done/ customers" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

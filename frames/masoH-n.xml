@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>masoH</id>
+<comment/>
+<frameset cdef="" edef="To wipe" id="01" vncls="">
+<role argnum="0" argrole="causer of motion, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت الأم بمسح  * الاوساخ من على الطاولة</parse>
+<comment/>
+<arg f="" g="the mother" n="0">* الأم</arg>
+<arg f="" g="the dirt" n="1">الاوساخ</arg>
+<arg f="" g="from the table" n="2">من على الطاولة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the dirt" vncls="" vntheta=""/>
+<role argnum="2" argrole="things being cleaned" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

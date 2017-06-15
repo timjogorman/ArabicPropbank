@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mawoSuwl</id>
+<comment/>
+<frameset cdef="" edef="connected, linked" id="01" vncls="">
+<role argnum="1" argrole="connector" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه القصة موصولة * بما حدث في البيت</parse>
+<comment/>
+<arg f="" g="this story" n="1">* هذه القصة</arg>
+<arg f="" g="with what happened at home" n="2">بما حدث في البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="thing(s) being tied" vncls="" vntheta=""/>
+<role argnum="3" argrole="tied with" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>suroEAn</id>
+<comment/>
+<frameset cdef="" edef="(MWE): to espress how quickly something happens" id="01" vncls="">
+<role argnum="1" argrole="thing being expressed as quick or fast (SBAR)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (VP
+        (NOUN.VN سُرعان)
+        (SBAR-SBJ
+          (SUB_CONJ ما)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS اِخْتَفَى)
+              (NP-SBJ
+                (-NONE- *)))))))</parse>
+<comment/>
+<arg f="" g="it dissappeared" n="1">ما اِخْتَفَى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

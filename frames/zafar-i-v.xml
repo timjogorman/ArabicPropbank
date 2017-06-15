@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zafar-i</id>
+
+<frameset cdef="" edef="to exhale, to let out a deep breath, to sigh" id="01" vncls="">
+<role argnum="0" argrole="entity exhaling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سقط في مكانه وهو يزفر * زفيرا شديدا</parse>
+
+<arg f="" g="he" n="0">* هو</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

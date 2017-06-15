@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oalak</id>
+<comment/>
+<frameset cdef="" edef="to chew" id="01" vncls="">
+<role argnum="0" argrole="entity chewing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ألك الفرس اللجام</parse>
+<comment/>
+<arg f="" g="the horse" n="0">الفرس</arg>
+<arg f="" g="the bridle" n="1">اللجام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things chewed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to inform or to notify of" id="02" vncls="">
+<role argnum="0" argrole="the messenger" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ألك الرجل أخاه عن موت أبيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="about his father's death" n="2"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="receiver" vncls="" vntheta=""/>
+<role argnum="2" argrole="the messege" vncls="" vntheta=""/>
+</frameset>
+</verb>

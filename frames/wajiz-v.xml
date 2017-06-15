@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wajiz</id>
+<comment/>
+<frameset cdef="" edef="to become short or abbreviated" id="01" vncls="">
+<role argnum="1" argrole="things becoming short (talk)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وجز الكلام</parse>
+<comment/>
+<arg f="" g="the speech" n="1">الكلام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

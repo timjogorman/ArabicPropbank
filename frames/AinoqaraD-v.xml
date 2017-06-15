@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinoqaraD</id>
+<comment/>
+<frameset cdef="" edef="to become extinct" id="01" vncls="">
+<role argnum="1" argrole="entity becoming extinct" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الحيوان ده انقرض * قبل مليون سنة</parse>
+<comment/>
+<arg f="" g="this animal" n="1">الحيوان ده</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+</frameset>
+</verb>

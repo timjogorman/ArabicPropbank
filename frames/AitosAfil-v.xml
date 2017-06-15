@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitosAfil</id>
+<comment/>
+<frameset cdef="" edef="to be low or mean" id="01" vncls="">
+<role argnum="1" argrole="entity becoming low" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انت اتسافلت * في موضوع البنت</parse>
+<comment/>
+<arg f="" g="you" n="1">* انت</arg>
+<arg f="" g="in the girl subject" n="2">في موضوع البنت</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

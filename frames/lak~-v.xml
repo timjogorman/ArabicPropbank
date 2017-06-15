@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lak~</id>
+<comment/>
+<frameset cdef="" edef="to chat or talk" id="01" vncls="">
+<role argnum="0" argrole="speaker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا حقعد ألك * معاك</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="with you" n="2">معاك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="subject" vncls="" vntheta=""/>
+<role argnum="2" argrole="hearer" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munotasib</id>
+<comment/>
+<frameset cdef="" edef="attributed / attached" id="01">
+<role argnum="1" argrole="attributed entity"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+                            (VP
+                              (PV+PVSUFF_SUBJ:3FS اقفلت)
+                              (NP-SBJ
+                                (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_NOM المستشفيات))
+                              (NP-OBJ
+                                (NOUN+CASE_DEF_ACC ابواب)
+                                (NP
+                                  (POSS_PRON_3FS ها)))
+                              (NP-ADV
+                                (NOUN+CASE_DEF_ACC امام)
+                                (SBAR-NOM
+                                  (WHNP-1
+                                    (-NONE- 0))
+                                  (S
+                                    (VP
+                                      (DET+ADJ.VN+NSUFF_MASC_PL_GEN المنتسبين)
+                                      (NP-SBJ
+                                        (-NONE- *T*-1))
+                                      (PP-CLR
+                                        (PREP الي)
+                                        (NP
+                                          (PRON_3FS ها)))))))))</parse>
+<comment/>
+<arg f="" g="they" n="1">-NONE- *T*-1</arg>
+<arg f="" g="to it" n="2">إليها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what? (marked by إلى / ل)"/>
+</frameset>
+</verb>

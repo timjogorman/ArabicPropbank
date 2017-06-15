@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ear~-u</id>
+<comment/>
+<frameset cdef="" edef="to disgrace, to dishonor, to call names" id="01">
+<role argnum="0" argrole="entity calling"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نعيما أبدا باقي يد الفنا لا تعر * وها</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="it" n="1">ها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity called"/>
+</frameset>
+<frameset cdef="" edef="to fertilize or manure" id="02">
+<role argnum="0" argrole="entity fertilizing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عر الفلاح الارض</parse>
+<comment/>
+<arg f="" g="the farmer" n="0">الفلاح</arg>
+<arg f="" g="the ground" n="1">الارض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things fertilized"/>
+</frameset>
+</verb>

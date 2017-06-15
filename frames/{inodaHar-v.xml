@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodaHar</id>
+
+<frameset cdef="" edef="be conquered or defeated" id="01" vncls="">
+<role argnum="1" argrole="the defeated" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اندحرالفريق في المباراة</parse>
+
+<arg f="" g="the team" n="1">الفريق</arg>
+<arg f="loc" g="in the game" n="m">في المباراة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be forced to leave" id="02" vncls="">
+<role argnum="1" argrole="the thing forced to leave" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اندحرت المدرعات من المدينة</parse>
+
+<arg f="" g="the battleships" n="1">المدرعات</arg>
+<arg f="" g="from the city" n="2">من المدينة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

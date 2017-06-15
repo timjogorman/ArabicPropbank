@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>jah~iz</id>
+<comment>EGYPTIAN ARABIC based on jah~az</comment>
+    <frameset cdef="" edef="to prepare" id="01">
+<role argnum="0" argrole="preparer" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>لن يؤثر عليهم لأننا جهزنا الفريق فنيا ونفسيا بطريقة جيدة</parse>
+
+<arg f="" g="we" n="0">*</arg>
+<arg f="" g="the team" n="1">الفريق</arg>
+<arg f="mnr" g="technically and psychologically" n="m">فنيا ونفسيا</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="thing prepared" />
+<comment>Based on roleset jah~az.01</comment>
+</frameset>
+</verb>

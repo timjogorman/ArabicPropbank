@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$akol</id>
+<comment/>
+<frameset cdef="" edef="form, shape" id="01" vncls="">
+<role argnum="1" argrole="entity' shaping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان شكل الرجل كالأفعى</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="as a snake" n="2">كالأفعى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="the shape" vncls="" vntheta=""/>
+</frameset>
+</verb>

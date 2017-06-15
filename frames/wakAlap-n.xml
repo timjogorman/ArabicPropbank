@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wakAlap</id>
+<comment/>
+<frameset cdef="" edef="power of attorney" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أعطى الأب وكالة * ببيع البيت لأبنه</parse>
+<comment/>
+<arg f="" g="the father" n="0">* الأب</arg>
+<arg f="" g="to sell the house" n="1">ببيع البيت</arg>
+<arg f="" g="to his son" n="2">لأبنه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things allowed" vncls="" vntheta=""/>
+<role argnum="2" argrole="receiver" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="agency" id="02" vncls="">
+<role argnum="1" argrole="the agency" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الله لا يدخلك وكالة الاستخبارات</parse>
+<comment/>
+<arg f="" g="intelligence agency" n="1">الاستخبارات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitowaf~ar</id>
+<comment>EGYPTIAN ARABIC based on tawaf~ar</comment>
+    <frameset cdef="" edef="To abound" id="01">
+<role argnum="1" argrole="thing which is plentiful" />
+<role argnum="2" argrole="abound for" />
+<frame>
+
+<example>
+<parse>الامر الآخر المثير ان ها تعلن **-1 كذلك بلا حرج ان الاستقرار الاجتماعي والاقتصادي مهدد بالزعزعة ما لم يتوفر الدعم الخارجي .</parse>
+<arg f="" g="External support" n="1">الدعم الخارجي</arg>
+<comment />
+</example>
+<comment>اتيح/  تيسر</comment>
+</frame>
+<comment />
+</frameset>
+</verb>

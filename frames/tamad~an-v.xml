@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamad~an</id>
+<comment/>
+<frameset cdef="" edef="to be or become civilized/ citified" id="01" vncls="">
+<role argnum="1" argrole="entity becoming civilized" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(WHNP-1
+          (REL_PRON مَنْ))
+        (S
+          (VP
+            (IV3MS+IV يريد)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (NOUN أَكْل)
+              (NP
+                (NOUN الخضر))))))
+      (PRT
+        (CONJ فَ))
+      (VP
+        (IV3MS+IV يفعل)
+        (NP-SBJ
+          (-NONE- *T*-2))))
+    (CONJ وَ)
+    (S
+      (SBAR-NOM-TPC-4
+        (WHNP-3
+          (REL_PRON مَنْ))
+        (S
+          (VP
+            (IV3MS+IV يُرِيد)
+            (NP-SBJ
+              (-NONE- *T*-3))
+            (UCP-OBJ
+              (NP
+                (NOUN أَكْل)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG الفاكْهَة)))
+              (CONJ وَ)
+              (SBAR
+                (-NONE- 0)
+                (S
+                  (VP
+                    (IV3MS+IV يِتبندر)
+                    (NP-SBJ
+                      (-NONE- *)))))))))
+      (PRT</parse>
+<comment/>
+<arg f="" g="NONE" n="1">* ? NONE</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

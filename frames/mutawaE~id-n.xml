@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>mutawaE~id</id>
+<frameset cdef="" edef="To threaten or menace" id="01" vncls="">
+<role argnum="0" argrole="threatening agent" vncls="" vntheta="" />
+<role argnum="1" argrole="entity threatened" vncls="" vntheta="" />
+<role argnum="2" argrole="Instrument or Manner" vncls="" vntheta="" />
+<frame>
+
+<example>
+<parse>وتبنت الهجوم  وتبنت الهجوم جماعة  تعلن **-1 عن نفسها للمرة الاولى وتوعدت بالمزيد .وتوعدت * بالمزيد .</parse>
+<arg f="" g="It" n="0">**&lt;جماعة  تعلن عن نفسها للمرة الاولى</arg>
+<arg f="" g="more" n="2">بالمزيد</arg>
+<comment />
+</example>
+<comment>هدد /  أنذر ب</comment>
+</frame>
+<comment>Based on roleset tawaE~ad.01</comment>
+</frameset>
+<comment>Framefile based on tawaE~ad</comment>
+</verb>

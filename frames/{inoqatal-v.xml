@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqatal</id>
+
+<frameset cdef="" edef="to be killed" id="01" vncls="">
+<role argnum="0" argrole="agent, killer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقتل الرجل بالمسدس</parse>
+
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="with a gun" n="2">بالمسدس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

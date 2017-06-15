@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maOomuwr</id>
+<comment/>
+<frameset cdef="" edef="assigned, charged" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو مأمور * من قبل الشركة لبيع هذه الكتب</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="by the company" n="0">من قبل الشركة</arg>
+<arg f="" g="to sell these books" n="2">لبيع هذه الكتب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity assigned" vncls="" vntheta=""/>
+<role argnum="2" argrole="to do what" vncls="" vntheta=""/>
+</frameset>
+</verb>

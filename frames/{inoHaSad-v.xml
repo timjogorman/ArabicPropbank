@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHaSad</id>
+
+<frameset cdef="" edef="to be begrudged or resented" id="01" vncls="">
+<role argnum="0" argrole="begrudger" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحسد الموظف على منصبه الجديد</parse>
+
+<arg f="" g="the employeee" n="1">الموظف</arg>
+<arg f="" g="on his new position" n="2">على منصبه الجديد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="begrudged" vncls="" vntheta=""/>
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqoriyb</id>
+<comment/>
+<frameset cdef="" edef="to bring closer" id="01" vncls="">
+<role argnum="0" argrole="agent bringing closer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ساعدت الأم على تقريب * الابن من الأب في علاقتهما المكسورة</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="the son" n="1">الابن</arg>
+<arg f="" g="from the father" n="2">من الأب</arg>
+<arg f="" g="in thier broken relationship" n="3"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="first entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="second entity" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

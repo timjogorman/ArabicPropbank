@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>yaqiyn</id>
+<comment/>
+<frameset cdef="" edef="to hold a belief without a doubt" id="01" vncls="">
+<role argnum="0" argrole="believer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ و)
+                (S-PRP
+                  (VP
+                    (NOUN.VN+CASE_INDEF_ACC يَقِيناً)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (PP-CLR
+                      (PREP فِي)
+                      (SBAR
+                        (SUB_CONJ إِنّ)
+                        (S
+                          (NP-SBJ
+                            (DET+NOUN القِصاص))
+                          (PP-LOC
+                            (PREP فِي)
+                            (NP
+                              (NOUN بَلَد)
+                              (NP
+                                (POSS_PRON_1P نا))))
+                          (ADJP-PRD
+                            (ADJ صَعْب))
+                          (PP-PRP
+                            (PREP بِ)
+                            (NP
+                              (NOUN سَبَب)
+                              (NP
+                                (NOUN غِياب)
+                                (NP
+                                  (DET+NOUN الضَمائِر))))))))))))))))))</parse>
+<comment/>
+<arg f="" g="we" n="0">*</arg>
+<arg f="" g="that retribution in our country is impossible since we have no conscience" n="1">فِي إِنّ القِصاص فِي بَلَدنا صَعْب بِسَبَب غِياب الضَمائِر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="belief" vncls="" vntheta=""/>
+</frameset>
+</verb>

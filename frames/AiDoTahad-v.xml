@@ -1,0 +1,73 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AiDoTahad</id>
+<comment/>
+<frameset cdef="" edef="to persecute or oppress" id="01" vncls="">
+<role argnum="0" argrole="persecuter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-SBJ
+      (NP
+        (NOUN_PROP اِسْرائِيل))
+      (NP
+        (DEM_PRON_FS دِي)))
+    (ADJP-PRD
+      (ADJ+NSUFF_FEM_SG مِستَقوِيَّة)
+      (NP
+        (NOUN نَفْس)
+        (NP
+          (POSS_PRON_3FS ها)))
+      (PP
+        (PREP عَلَى)
+        (NP
+          (DET+ADJ الفاضِي))))
+    (PP-PRP
+      (PREP لِ)
+      (SBAR
+        (SUB_CONJ أَنّ)
+        (S
+          (NP-SBJ
+            (PRON_3FS ها))
+          (ADJP-PRD
+            (PRT
+              (NEG_PART مِش))
+            (ADJ+NSUFF_FEM_SG شايْفَة)
+            (NP
+              (NP
+                (NOUN+NSUFF_FEM_SG وَقْفَة))
+              (PP
+                (PREP مِن)
+                (NP
+                  (NP
+                    (DET+NOUN الشَعْب))
+                  (SBAR
+                    (WHNP-1
+                      (REL_PRON اللِي))
+                    (S
+                      (VP
+                        (PRT
+                          (PROG_PART بِ))
+                        (IV3FS+IV تَطَّهِد)
+                        (NP-SBJ
+                          (-NONE- *))
+                        (NP-OBJ
+                          (NP
+                            (IVSUFF_DO:3MS ُه))
+                          (NP
+                            (-NONE- *T*-1)))))))))))))))</parse>
+<comment/>
+<arg f="" g="Israeal" n="0">* اِسْرائِيل</arg>
+<arg f="" g="it" n="1">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity persecuted" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

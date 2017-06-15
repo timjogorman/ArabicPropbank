@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>ka$</id>
+<comment>Framefile based on ka$~-i</comment>
+<frameset cdef="" edef="to be scared" id="01">
+<role argnum="1" argrole="entity scared" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>هو لو كان حاسس إن الموضوع فيه إن كان يعنى كش * شوية</parse>
+<comment />
+<arg f="" g="he" n="1">*</arg>
+</example>
+<comment />
+</frame>
+<comment>Eg
+Based on roleset ka$~-i.01</comment>
+<role argnum="2" argrole="cause" />
+</frameset>
+</verb>

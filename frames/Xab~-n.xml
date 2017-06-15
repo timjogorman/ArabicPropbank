@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Xab~</id>
+
+<frameset cdef="" edef="to become dry and to wither" id="01" vncls="">
+<role argnum="1" argrole="entity getting dry" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ذبت شفته من العطش</parse>
+
+<arg f="" g="his lips" n="1">شفته</arg>
+<arg f="cau" g="from thirst" n="m">من العطش</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset Xab~-i.01</comment>
+</frameset>
+<comment>Framefile based on Xab~-i</comment>
+<frameset cdef="" edef="defence or protection" id="02" vncls="">
+<role argnum="0" argrole="defender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ذب الرجل عن أهله مقولة السوء</parse>
+<comment/>
+<arg f="" g="defender" n="0">الرجل</arg>
+<arg f="" g="defended one" n="1">عن أهله</arg>
+<arg f="" g="aginst what" n="2">مقولة السوء</arg>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset Xab~-u.02</comment>
+<role argnum="1" argrole="defended one" vncls="" vntheta=""/>
+<role argnum="2" argrole="aginst what" vncls="" vntheta=""/>
+</frameset>
+</verb>

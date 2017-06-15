@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qiymap</id>
+<comment/>
+<frameset cdef="" edef="value, worth" id="01" vncls="">
+<role argnum="1" argrole="the thing evaluated" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قيمة هذا الكتاب مئة دينار</parse>
+<comment/>
+<arg f="" g="this book" n="1">هذا الكتاب</arg>
+<arg f="" g="one hundred dinar" n="2">مئة دينار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="the value" vncls="" vntheta=""/>
+</frameset>
+</verb>

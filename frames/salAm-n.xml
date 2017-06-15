@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>salAm</id>
+
+<frameset cdef="" edef="greeting" id="01" vncls="">
+<role argnum="0" argrole="entity greeting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أ
+ألقى أخي السلام* على الجميع</parse>
+
+<arg f="" g="entity greeting" n="0">*</arg>
+<arg f="" g="entitiy greeted" n="1">على الجميع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity greeted" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="peace" id="02" vncls="">
+<role argnum="0" argrole="maker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم عملوا سلام معانا</parse>
+<comment/>
+<arg f="" g="them" n="0">هم</arg>
+<arg f="" g="peace" n="1">سلام</arg>
+<arg f="" g="with us" n="2">معانا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things made (usualy peace)" vncls="" vntheta=""/>
+<role argnum="2" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

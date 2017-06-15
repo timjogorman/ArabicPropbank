@@ -1,0 +1,91 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitohad~id</id>
+<frameset cdef="" edef="to warn/threat" id="01" vncls="">
+<role argnum="0" argrole="entity threatening" vncls="" vntheta="" />
+<role argnum="1" argrole="the threat" vncls="" vntheta="" />
+<role argnum="2" argrole="entity threatened" vncls="" vntheta="" />
+<frame>
+<mapping>
+<V />
+<mapitem src="sbj" trg="arg0" />
+
+<comment />
+</mapping>
+<example>
+<parse>S
+    (NP-TPC-1
+      (DET+NOUN+NSUFF_MASC_PL_NOM المتمردون))
+    (VP
+      (PV+PVSUFF_SUBJ:3MP أوقفوا)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_PL+CASE_DEF_ACC مفاوضات)
+        (NP
+          (NOUN+CASE_DEF_GEN وقف)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN النار))))))
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MP هدّدوا)
+      (NP-SBJ
+        (-NONE- *))
+      (PP-CLR
+        (PREP ب)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الاستيلاء))
+          (PP
+            (PREP على)
+            (NP
+              (NOUN_PROP أبيدجان))))))))</parse>
+<arg f="" g="It" n="0">-NONE- *&lt;المتمردون</arg>
+<arg f="" g="Seize Abidjan" n="1">بالاستيلاء على أبيدجان</arg>
+
+
+<comment />
+</example>
+
+<comment />
+</frame>
+<frame>
+<mapping>
+<V />
+<mapitem src="sbj" trg="arg0" />
+
+<comment />
+</mapping>
+<example>
+<parse>(VP
+                (PV+PVSUFF_SUBJ:3MS هدد)
+                (NP-SBJ
+                  (DET+NOUN+CASE_DEF_NOM الاتحاد)
+                  (DET+ADJ+CASE_DEF_NOM الأوروبي))
+                (PP-CLR
+                  (PREP ب)
+                  (NP
+                    (NP
+                      (NOUN+CASE_DEF_GEN انزال)
+                      (NP
+                        (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN عقوبات)))
+                    (PP
+                      (PREP ب)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الفيديرالية)
+                        (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN السويسرية))))))))))))</parse>
+<arg f="" g="the European Union" n="0">الاتحاد الأوروبي</arg>
+<arg f="" g="by ordering sanctions to the swiss federation" n="1">بانزال عقوبات بالفيديرالية السويسرية</arg>
+<V />
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset had~ad-v.01</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC Framefile based on had~ad-v</comment>
+</verb>

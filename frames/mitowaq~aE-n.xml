@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mitowaq~aE</id>
+<comment/>
+<frameset cdef="" edef="to expect or anticipate" id="01" vncls="">
+<role argnum="0" argrole="expecter or anticipator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا متوقع * أي حاجة منه</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="any thing" n="1">أي حاجة</arg>
+<arg f="" g="from him" n="2">منه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="thing expected or anticipated" vncls="" vntheta=""/>
+<role argnum="2" argrole="entity expected from" vncls="" vntheta=""/>
+</frameset>
+</verb>

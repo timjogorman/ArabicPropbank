@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nafa$-u</id>
+
+<frameset cdef="" edef="to tease or card, to comb (cotton, wool,...), to make fluffy or puff up" id="01" vncls="">
+<role argnum="0" argrole="entity combing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نفش الرجل الصوف بالمشط</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the wool" n="1">الصوف</arg>
+<arg f="" g="with comb" n="2">بالمشط</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="combed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to boast or brag, to show off (Idiomatic expression)" id="02" vncls="">
+<role argnum="0" argrole="entity boasting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نفش الطاووس ريشه</parse>
+<comment/>
+<arg f="" g="the peacock" n="0">الطاووس</arg>
+<arg f="" g="it's feather" n="1"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attributed to ARG 0" vncls="" vntheta=""/>
+</frameset>
+</verb>

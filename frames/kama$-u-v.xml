@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kama$-u</id>
+<comment/>
+<frameset cdef="" edef="to hold or grab" id="01" vncls="">
+<role argnum="0" argrole="holder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كمش الرجل عنق أخيه بيده</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother's neck" n="1">عنق أخيه</arg>
+<arg f="" g="with his hand" n="2">بيده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity held" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to cut off, to sever" id="02" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كمش المقاتل عدوه بالسيف</parse>
+<comment/>
+<arg f="" g="the warrior" n="0">المقاتل</arg>
+<arg f="" g="his enemy" n="1">عدوه</arg>
+<arg f="" g="with the sword" n="3">بالسيف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

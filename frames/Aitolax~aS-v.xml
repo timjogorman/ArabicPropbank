@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitolax~aS</id>
+<frameset cdef="" edef="to summarize" id="01" vncls="">
+<role argnum="0" argrole="summarizer, agent" vncls="" vntheta="" />
+<role argnum="1" argrole="thing summarized" vncls="" vntheta="" />
+<role argnum="2" argrole="summary" vncls="" vntheta="" />
+<role argnum="3" argrole="recipient" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+    (CONJ و)
+    (VP
+      (IV3FS+IV+IVSUFF_MOOD:I تلخص)
+      (NP-SBJ
+        (NP
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM المستشارة))
+          (PP
+            (PREP ل)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN لشؤون)
+              (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN العامة)))
+          (PP
+            (PREP في)
+            (NP
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN السفارة)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاميركية))
+              (PP-LOC
+                (PREP في)
+                (NP
+                  (NOUN_PROP+CASE_INDEF_GEN بيروت))))))
+        (NP
+          (NOUN_PROP ديبورا)
+          (NOUN_PROP سميث)))
+      (PP
+        (PREP ل_)
+        (PUNC &quot;)
+        (NP
+          (DET+NOUN_PROP+CASE_DEF_GEN النهار))
+        (PUNC &quot;))
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC اهمية)
+        (NP
+          (NOUN+CASE_DEF_GEN مشروع)
+          (NP
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الترويج))
+            (PP
+              (PREP ل)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN لثقافة)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الاميركية))))))))</parse>
+<arg f="" g="Chancellor" n="0">المستشارة</arg>
+<arg f="" g="Importance of the project" n="1">اهمية مشروع</arg>
+<arg f="" g="for El-Nahar newspaper" n="3">للنهار</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset lax~aS-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on lax~aS-v</comment>
+</verb>

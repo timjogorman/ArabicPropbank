@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xalaE</id>
+<comment/>
+<frameset cdef="" edef="to escape" id="01" vncls="">
+<role argnum="0" argrole="entity escaping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده هو خلع * من البيت قبل ما حد يمسكه</parse>
+<comment/>
+<arg f="" g="he" n="0">ده هو</arg>
+<arg f="" g="from the house" n="1">من البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to remove, undress" id="02" vncls="">
+<role argnum="0" argrole="remover" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده هو خلع * المسمار من الحيطة</parse>
+<comment/>
+<arg f="" g="he" n="0">ده هو</arg>
+<arg f="" g="the nail" n="1">المسمار</arg>
+<arg f="" g="from the wall" n="2">من الحيطة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things removed" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

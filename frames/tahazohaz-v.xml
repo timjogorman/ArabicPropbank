@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tahazohaz</id>
+
+<frameset cdef="" edef="to be jiggled" id="01" vncls="">
+<role argnum="1" argrole="entity jiggled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تهزهز الكرسي</parse>
+
+<arg f="" g="the chair" n="1">الكرسي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hab~</id>
+
+    <frameset cdef="" edef="to wake up, to awaken, to rise, to atart" id="02" vncls="">
+<role argnum="0" argrole="entity rising" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هب سالم لنجدة رفيقه</parse>
+
+<arg f="" g="Salim" n="0">سالم</arg>
+<arg f="" g="to the aid of" n="1">لنجدة</arg>
+<arg f="" g="his friend" n="2">رفيقه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to do what" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+<comment>Based on roleset hab~-u.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on hab~-u</comment>
+<frameset cdef="" edef="to attack, to yell at" id="03" vncls="">
+<role argnum="0" argrole="attacker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده بس يوصل للبيت يهب * في مراته</parse>
+<comment/>
+<arg f="" g="this man" n="0">* الراجل ده</arg>
+<arg f="" g="at his wife" n="1">في مراته</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="attacked" vncls="" vntheta=""/>
+</frameset>
+</verb>

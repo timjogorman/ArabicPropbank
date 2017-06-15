@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaSam-i</id>
+<comment/>
+<frameset cdef="" edef="to brake , to ruin or destroy" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (S
+      (NP-TPC-1
+        (NOUN رَبّ)
+        (NP
+          (POSS_PRON_1P نا)))
+      (VP
+        (IV3MS+IV يِقْصِم)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (NOUN ظُهُور)
+          (NP
+            (POSS_PRON_3P هُم)))))
+    (PUNC .)
+    (PUNC .)
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يِرُد)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN كِيْد)
+          (NP
+            (POSS_PRON_3P هُم)))
+        (PP
+          (PREP إِلَى)
+          (NP
+            (NOUN نُحُور)
+            (NP
+              (POSS_PRON_3P هُم))))))
+    (PUNC .)</parse>
+<comment/>
+<arg f="" g="our God" n="0">*T*-1 ربنا</arg>
+<arg f="" g="thier back" n="1">ظهورهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

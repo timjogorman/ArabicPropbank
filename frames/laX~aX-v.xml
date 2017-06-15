@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laX~aX</id>
+<comment/>
+<frameset cdef="" edef="to make joyfull or sweet" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كلماتك تلذذ * نفسي</parse>
+<comment/>
+<arg f="" g="you words" n="0">* كلماتك</arg>
+<arg f="" g="my soul" n="1">نفسي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bAEit</id>
+<comment/>
+<frameset cdef="" edef="sender, sending" id="01" vncls="">
+<role argnum="0" argrole="sender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>راح الواد باعت * الرسالة لأبوه</parse>
+<comment/>
+<arg f="" g="the boy" n="">* الواد</arg>
+<arg f="" g="the letter" n="">الرسالة</arg>
+<arg f="" g="to his father" n="">لأبوه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things sent" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

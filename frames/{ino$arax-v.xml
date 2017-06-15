@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ino$arax</id>
+
+<frameset cdef="" edef="To split, to crack ,to break up" id="01" vncls="">
+<role argnum="1" argrole="things been splitted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انشرخ الباب بالفأس</parse>
+
+<arg f="" g="the door" n="1">الباب</arg>
+<arg f="" g="with an ax" n="2">بالفأس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

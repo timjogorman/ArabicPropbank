@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>vabar-u</id>
+<comment/>
+<frameset cdef="" edef="to destroy or ruin" id="01" vncls="">
+<role argnum="0" argrole="destroyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ثبر المرض الكثير من الناس</parse>
+<comment/>
+<arg f="" g="the disease" n="0">المرض</arg>
+<arg f="" g="a lot of the people" n="1">الكثير من الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things destroyed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to frustrate, to drive away or out" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ثبر الرجل صاحبه في موضوع البيت</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<arg f="" g="about the house subject" n="2">في موضوع البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what, from where" vncls="" vntheta=""/>
+</frameset>
+</verb>

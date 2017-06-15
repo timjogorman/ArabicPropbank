@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoqaraS</id>
+<comment/>
+<frameset cdef="" edef="to be pinched, to be stinged" id="01" vncls="">
+<role argnum="0" argrole="biter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا اتقرصت * من نحلة</parse>
+<comment/>
+<arg f="" g="I" n="1">* انا</arg>
+<arg f="" g="by a bee" n="0">من نحلة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="bitten" vncls="" vntheta=""/>
+</frameset>
+</verb>

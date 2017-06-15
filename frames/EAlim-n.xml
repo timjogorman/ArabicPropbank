@@ -1,0 +1,121 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAlim</id>
+<frameset cdef="" edef="knowing, knowledgable" id="01" vncls="">
+<role argnum="0" argrole="knowing" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing known or knowledge" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (CONJ و)
+    (VP
+      (PSEUDO_VERB لكن)
+      (NP-SBJ-1
+        (PRON_3FS ها))
+      (S
+        (VP
+          (PV+PVSUFF_SUBJ:3FS كانت)
+          (NP-SBJ
+            (-NONE- *-1))
+          (ADJP-PRD
+            (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC نادرة))))))
+  (CONJ و)
+  (S
+    (VP
+      (PRT
+        (NEG_PART لم))
+      (IV3FS+IV+IVSUFF_MOOD:J تؤثر)
+      (NP-SBJ
+        (-NONE- *))
+      (PP-CLR
+        (PREP على)
+        (NP
+          (NOUN+CASE_DEF_GEN أجواء)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الأداء)
+            (DET+ADJ+CASE_DEF_GEN العام))))
+      (PUNC ,)
+      (NAC
+        (CONJ و)
+        (SBAR
+          (ADVP
+            (PRT
+              (NEG_PART لا))
+            (ADV سيما))
+          (SUB_CONJ ان)
+          (S
+            (NP-TPC-2
+              (PUNC &quot;)
+              (DET+NOUN_PROP الأرانخواز)
+              (PUNC &quot;))
+            (VP
+              (PV+PVSUFF_SUBJ:3FS كانت)
+              (NP-SBJ
+                (-NONE- *T*-2))
+              (PP-PRD
+                (PREP في)
+                (NP
+                  (NOUN+CASE_DEF_GEN حضن)
+                  (SBAR-NOM
+                    (WHNP-4
+                      (-NONE- 0))
+                    (S
+                      (VP
+                        (NOUN.VN+CASE_INDEF_GEN عالم)
+                        (NP-SBJ
+                          (-NONE- *T*-4))
+                        (PP-CLR
+                          (PREP ب)
+                          (NP
+                            (NP
+                              (NP
+                                (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN تركيبت)
+                                (NP
+                                  (POSS_PRON_3FS ها)))
+                              (ADJP
+                                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الدقيقة)))
+                            (PUNC ,)
+                            (SBAR
+                              (WHNP-3
+                                (REL_PRON التي))
+                              (S
+                                (VP
+                                  (IV3FS+IV+IVSUFF_MOOD:I تتطلب)
+                                  (NP-SBJ
+                                    (-NONE- *T*-3))
+                                  (PP
+                                    (PREP من)
+                                    (NP
+                                      (DET+NOUN+CASE_DEF_GEN الاصابع)))
+                                  (NP-OBJ
+                                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC رشاقة)
+                                    (CONJ و)
+                                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC بلاغة))))))))))))))))))</parse>
+<arg f="" g="it" n="0">-NONE- *T*-4&lt;الأرانخواز</arg>
+<arg f="" g="its delicate composition" n="1">بتركيبتها الدقيقة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="scientist" id="02" vncls="">
+<role argnum="1" argrole="the scientist" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان الرجل عالما * في الذرة</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الرجل</arg>
+<arg f="" g="in atom" n="2">في الذرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="specialization" vncls="" vntheta=""/>
+</frameset>
+</verb>

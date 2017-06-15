@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jal~id</id>
+<comment/>
+<frameset cdef="" edef="to wrap nicely in paper or leather" id="01" vncls="">
+<role argnum="0" argrole="entity wraping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الولد جلد * كتابه  بورق أحمر</parse>
+<comment/>
+<arg f="" g="the boy" n="0">* الولد</arg>
+<arg f="" g="his book" n="1">كتابه</arg>
+<arg f="" g="with red paper" n="2">بورق أحمر</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things wrapped" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

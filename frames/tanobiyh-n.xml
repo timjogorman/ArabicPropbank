@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanobiyh</id>
+<comment/>
+<frameset cdef="" edef="to alert or direct attention towards" id="01" vncls="">
+<role argnum="0" argrole="alerter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم تنبيه الطالب من قبل المدرسة بعدم التدخين داخل المدرسة</parse>
+<comment/>
+<arg f="" g="the student" n="1">الطالب</arg>
+<arg f="" g="by the school" n="0">من قبل المدرسة</arg>
+<arg f="" g="not to smoke inside the school" n="2">بعدم التدخين داخل المدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity alerted" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

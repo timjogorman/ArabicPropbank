@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoharas</id>
+<comment/>
+<frameset cdef="" edef="to be crushed" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انهرس اللوز بالمطحنة</parse>
+<comment/>
+<arg f="" g="almonds" n="1">اللوز</arg>
+<arg f="" g="with a grindery" n="2">بالمطحنة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing crushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

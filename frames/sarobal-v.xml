@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sarobal</id>
+
+<frameset cdef="" edef="to make somebody  wear a particular kind of clothes" id="01" vncls="">
+<role argnum="0" argrole="person causing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>سربلت البنت دميتها</parse>
+
+
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="her doll" n="2">دميتها</arg>
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="clothes" vncls="" vntheta=""/>
+<role argnum="2" argrole="person wearing" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

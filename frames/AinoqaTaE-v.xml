@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AinoqaTaE</id>
+<comment>EGYPTIAN ARABIC based on {inoqaTaE</comment>
+    <frameset cdef="" edef="to withdraw or separate from, to devote oneself to" id="02" vncls="">
+<role argnum="1" argrole="entity separating" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>انقطع الرجل عن حضور الاجتماعات</parse>
+<comment />
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="from attending the meetings" n="2">عن حضور الاجتماعات</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {inoqaTaE.02</comment>
+<role argnum="2" argrole="from what or to what" vncls="" vntheta="" />
+</frameset>
+</verb>

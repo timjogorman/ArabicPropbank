@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitogaf~il</id>
+<comment/>
+<frameset cdef="" edef="To leave out or forget about, pass over or exclude" id="01" vncls="">
+<role argnum="0" argrole="entity forgetting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نحن لن نتغافل * عن  ما حدث</parse>
+<comment/>
+<arg f="" g="we" n="0">* نحن</arg>
+<arg f="" g="about what happened" n="1">عن  ما حدث</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

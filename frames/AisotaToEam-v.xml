@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AisotaToEam</id>
+<comment>EGYPTIAN ARABIC based on {isotaToEam</comment>
+    <frameset cdef="" edef="to taste, to like the food" id="01">
+<role argnum="0" argrole="entity tasting" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>استطعم الرجل طعام المطعم</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the restaurant food" n="1">طعام المطعم</arg>
+</example>
+<comment />
+</frame>
+<comment />
+<role argnum="1" argrole="things tested" />
+</frameset>
+</verb>

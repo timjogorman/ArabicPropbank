@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>baxaq</id>
+<comment/>
+<frameset cdef="" edef="to open or rip pen, to slit open" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بخق الرجل الجرح</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the wound" n="1">الجرح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things opened" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

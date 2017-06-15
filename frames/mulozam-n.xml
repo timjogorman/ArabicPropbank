@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mulozam</id>
+<frameset cdef="" edef="binding / bound / obligated" id="01" vncls="">
+<role argnum="1" argrole="binding / bound / obligated entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what? (marked by ب)" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>هو ملزم * ان يدفع الغرامة</parse>
+<arg f="" g="he" n="1">* هو</arg>
+<comment/>
+<arg f="" g="the fine" n="2">الغرامة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

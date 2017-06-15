@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bazal-u</id>
+<comment/>
+<frameset cdef="" edef="to tap, to puncture, to make a hole in" id="01" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بزل الطبيب الدملة بالمشرط</parse>
+<comment/>
+<arg f="" g="the doctor" n="0">الطبيب</arg>
+<arg f="" g="the furuncle" n="1">الدملة</arg>
+<arg f="" g="with the lancet" n="2">بالمشرط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to purify" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بزل الرجل العصير من الشوائب</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the juice" n="1">العصير</arg>
+<arg f="" g="from dirt" n="2">من الشوائب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing being cleared out" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what (usually comes after من )" vncls="" vntheta=""/>
+</frameset>
+</verb>

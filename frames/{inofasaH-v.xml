@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofasaH</id>
+
+<frameset cdef="" edef="to be wide and vast" id="01" vncls="">
+<role argnum="1" argrole="entity being wide" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انفسح المنطاد بالهواء الساخن</parse>
+
+<arg f="" g="aerostat" n="1">المنطاد</arg>
+<arg f="" g="with hot air" n="2">بالهواء الساخن</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="how,instrument" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

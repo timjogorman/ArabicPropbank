@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faw~il</id>
+<comment/>
+<frameset cdef="" edef="to fill up (usualy gas)" id="01" vncls="">
+<role argnum="0" argrole="filler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا فولت * العربية غاز امبارح</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="the car" n="1">العربية</arg>
+<arg f="" g="gas" n="2">غاز</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things filled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>samin</id>
+<comment/>
+<frameset cdef="" edef="to put on weight, to fatten" id="01" vncls="">
+<role argnum="1" argrole="entity becoming fat" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سمن الرجل من أكل الخبز</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="from eating bread" n="2">من أكل الخبز</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

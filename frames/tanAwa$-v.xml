@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanAwa$</id>
+
+<frameset cdef="" edef="to attack from far" id="01" vncls="">
+<role argnum="0" argrole="attacker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>تناوش القوم بالرماح</parse>
+
+<arg f="" g="the people" n="0">القوم</arg>
+<arg f="" g="with spears" n="2">بالرماح</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="attacked" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to take, to pick up" id="02" vncls="">
+<role argnum="0" argrole="taker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>تناوش الرجل القلم</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the pencil" n="1">القلم</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things taken" vncls="" vntheta=""/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

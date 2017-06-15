@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotiEofAO</id>
+<comment/>
+<frameset cdef="" edef="request for pardon or apology, resignation" id="01" vncls="">
+<role argnum="0" argrole="entity requesting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رفض المدير استعفاء المدرس من العمل</parse>
+<comment/>
+<arg f="" g="the teacher" n="0">المدرس</arg>
+<arg f="" g="from work" n="1">من العمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things requested" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,24 +1,29 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>jAraY</id>
-    <comment/>
-    <frameset cdef="" edef="to keep pace with, to keep up with,to agree with" id="01">
-        <role argnum="0" argrole="entity / thing agreeing"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>جارا * ه في عمله</parse>
-                <comment/>
-                <arg f="" g="NONE" n="0">-NONE- *?</arg>
-                <arg f="" g="he" n="1">ه</arg>
-                <arg f="" g="in his work" n="2">في عمله</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="with whom"/>
-        <role argnum="2" argrole="in what"/>
-    </frameset>
+<id>jAraY</id>
+
+<frameset cdef="" edef="to keep pace with, to keep up with,to agree with" id="01" vncls="HaAraba-1">
+<role argnum="0" argrole="entity / thing agreeing" vncls="HaAraba-1" vntheta="actor1"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جارا * ه في عمله</parse>
+
+<arg f="" g="NONE" n="0">-NONE- *?</arg>
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="in his work" n="2">في عمله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with whom" vncls="HaAraba-1" vntheta="actor2"/>
+<role argnum="2" argrole="in what" vncls="HaAraba-1" vntheta="topic"/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

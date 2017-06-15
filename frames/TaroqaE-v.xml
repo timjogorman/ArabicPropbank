@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TaroqaE</id>
+<comment/>
+<frameset cdef="" edef="to crack, cause to make a cracking sound" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو قاعد يطرقع * صوابعه</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="his fingers" n="1">صوابعه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things cracked" vncls="" vntheta=""/>
+</frameset>
+</verb>

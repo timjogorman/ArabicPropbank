@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zan~aq</id>
+<comment/>
+<frameset cdef="" edef="to tighten, to jam" id="01" vncls="">
+<role argnum="0" argrole="entity jamming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زنق الجيش العدو في ارض المعركة</parse>
+<comment/>
+<arg f="" g="the Army" n="0">الجيش</arg>
+<arg f="" g="the enemy" n="1">العدو</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity jammed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to become hard to" id="02" vncls="">
+<role argnum="1" argrole="things becoming hard" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هي لو زنقت * روح لها</parse>
+<comment/>
+<arg f="" g="she" n="1">* هي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

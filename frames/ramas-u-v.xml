@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ramas-u</id>
+<comment/>
+<frameset cdef="" edef="to bury, to cover with dirt" id="01" vncls="">
+<role argnum="0" argrole="entity covering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رمست الرياح الأثار بالرمل</parse>
+<comment/>
+<arg f="" g="the winds" n="0">الرياح</arg>
+<arg f="" g="ancient monuments" n="1">الأثار</arg>
+<arg f="" g="with the sand" n="2">بالرمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things covered" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to hide or secret" id="02" vncls="">
+<role argnum="0" argrole="entity hiding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رمس الطالب نتيجته عن والده</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="his test results" n="1">نتيجته</arg>
+<arg f="" g="fromhis father" n="2">عن والده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things hiddeen" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

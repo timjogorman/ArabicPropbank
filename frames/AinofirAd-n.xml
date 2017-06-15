@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinofirAd</id>
+<comment/>
+<frameset cdef="" edef="standing alone, doing something alone" id="01" vncls="">
+<role argnum="0" argrole="entity standing alone" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-TPC-1
+      (NP
+        (DET+NOUN الكُمبِيُوتَر)
+        (CONJ وِ)
+        (DET+NOUN النِتّ))
+      (PP
+        (PREP لِ)
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG الفَتاَة))))
+    (VP
+      (PSEUDO_VERB لا)
+      (NP-SBJ
+        (NP
+          (NOUN بَأْس))
+        (PP
+          (PREP بِ)
+          (NP
+            (NP
+              (PRON_3MS هِ))
+            (NP
+              (-NONE- *T*-1)))))
+      (PP
+        (PREP بِ)
+        (NP
+          (NOUN شَرْط)
+          (NP
+            (NOUN عَدَم)
+            (S-NOM
+              (VP
+                (NOUN.VN إِنْفِراد)
+                (NP-SBJ
+                  (DET+NOUN+NSUFF_FEM_SG الفَتاَة))
+                (PP-CLR
+                  (PREP بِ)
+                  (NP
+                    (NOUN جِهاز)
+                    (NP
+                      (DET+NOUN الكُمبِيُوتَر))))))))))))</parse>
+<comment/>
+<arg f="" g="the girl" n="0">الفَتاَة</arg>
+<arg f="" g="with the computer PC" n="1">بجهاز الكومبيوتر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="achievment" vncls="" vntheta=""/>
+</frameset>
+</verb>

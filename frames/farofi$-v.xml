@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>farofi$</id>
+<comment/>
+<frameset cdef="" edef="make happy cheer up" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فرفشي * نا برقصك يا بنت</parse>
+<comment/>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="with your dance" n="2">برقصك</arg>
+<arg f="" g="girl" n="0">يا بنت</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity happy" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

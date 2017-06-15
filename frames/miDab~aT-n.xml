@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miDab~aT</id>
+<comment/>
+<frameset cdef="" edef="arranging, setting a deal" id="01" vncls="">
+<role argnum="0" argrole="entity  arranging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده مضبط * كل حاجة مع الاخوان</parse>
+<comment/>
+<arg f="" g="this man" n="0">*الراجل ده</arg>
+<arg f="" g="everything" n="1">كل حاجة</arg>
+<arg f="" g="with the brotherhood" n="2">مع الاخوان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things arranged" vncls="" vntheta=""/>
+<role argnum="2" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

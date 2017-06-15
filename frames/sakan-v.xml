@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sakan</id>
+
+    <frameset cdef="" edef="To live or reside" id="01" vncls="">
+<role argnum="0" argrole="entity residing" vncls="" vntheta=""/>
+<role argnum="1" argrole="location" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (S
+    (NP-TPC-1
+      (NOUN+CASE_DEF_NOM فرح)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الضوء)))
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يسكن)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC التربة))))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (NP-TPC-2
+      (DET+NOUN+CASE_DEF_NOM الفضاء))
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يلاحق)
+      (NP-SBJ
+        (-NONE- *T*-2))
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC حركة)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN السكون)))))
+  (PUNC .))</parse>
+<arg f="" g="It" n="0">-NONE- *T*-</arg>
+<arg f="" g="soil" n="1">التربة</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset sakan-u.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on sakan-u</comment>
+<frameset cdef="" edef="to calm down, to cool down, to rest" id="02" vncls="">
+<role argnum="1" argrole="entity or things that are calmed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سكنت الريح اليوم صباحا</parse>
+<comment/>
+<arg f="" g="the wind" n="1">الريح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

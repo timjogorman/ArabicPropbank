@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>radaf-u</id>
+<comment/>
+<frameset cdef="" edef="to follow, to ride behind" id="01" vncls="">
+<role argnum="0" argrole="follower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ردف الفنان خطوات معلمه</parse>
+<comment/>
+<arg f="" g="the artist" n="0">الفنان</arg>
+<arg f="" g="his teacher's steps" n="1">خطوات معلمه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="followed" vncls="" vntheta=""/>
+</frameset>
+</verb>

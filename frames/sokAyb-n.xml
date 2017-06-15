@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sokAyb</id>
+<comment/>
+<frameset cdef="" edef="to talk to someone on skayp" id="01" vncls="">
+<role argnum="0" argrole="caller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا عملت سكايب * مع أخوي اللي في أمريكا</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="with my brother" n="1">مع أخوي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="called" vncls="" vntheta=""/>
+<role argnum="2" argrole="about" vncls="" vntheta=""/>
+</frameset>
+</verb>

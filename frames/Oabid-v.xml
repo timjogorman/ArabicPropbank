@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oabid</id>
+<comment/>
+<frameset cdef="" edef="to run wild, to be or become wild" id="01" vncls="">
+<role argnum="1" argrole="entity becoming wild" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبد الطفل</parse>
+<comment/>
+<arg f="" g="the kid" n="1">الطفل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to get mad" id="02" vncls="">
+<role argnum="0" argrole="entity mad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أبد الرجل على ابنه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on his son" n="1">على ابنه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="at whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="the reason" vncls="" vntheta=""/>
+</frameset>
+</verb>

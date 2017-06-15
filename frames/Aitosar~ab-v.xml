@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitosar~ab</id>
+<comment/>
+<frameset cdef="" edef="To leak or seep" id="01" vncls="">
+<role argnum="1" argrole="substance leaked" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>المعلومات اتسربت * من المعلم للطلبة</parse>
+<comment/>
+<arg f="" g="the information" n="1">* المعلومات</arg>
+<arg f="" g="from the teacher" n="2">من المعلم</arg>
+<arg f="" g="to the students" n="3">للطلبة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="recipient" vncls="" vntheta=""/>
+</frameset>
+</verb>

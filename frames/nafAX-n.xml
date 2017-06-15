@@ -1,0 +1,74 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nafAX</id>
+<comment/>
+<frameset cdef="" edef="to escape or go/slip through" id="01" vncls="">
+<role argnum="0" argrole="escapee" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>التقرير يشير الى سهولة نفاذ المجرمين من الشرطة الى خارج البلاد</parse>
+<comment/>
+<arg f="" g="the criminals" n="0">المجرمين</arg>
+<arg f="" g="from the police" n="1">من الشرطة</arg>
+<arg f="" g="to outside the country" n="2">الى خارج البلاد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="escape from" vncls="" vntheta=""/>
+<role argnum="2" argrole="escape to" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="penetration" id="02" vncls="">
+<role argnum="0" argrole="infiltrator, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نفاذ الرصاصة من الحائط أمر غير مقبول</parse>
+<comment/>
+<arg f="" g="the bullet" n="0">الرصاصة</arg>
+<arg f="" g="through the wall" n="1">من الحائط</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="into what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be finished" id="03" vncls="">
+<role argnum="1" argrole="things finished" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نفاذ الخبز شيء عادي عندنا</parse>
+<comment/>
+<arg f="" g="the bread" n="1">الخبز</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be active" id="04" vncls="">
+<role argnum="1" argrole="things active" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نفاذ هذا القرار اعتبارا من الأن</parse>
+<comment/>
+<arg f="" g="this decision" n="1">هذا القرار</arg>
+<arg f="tmp" g="starting now" n="m">اعتبارا من الأن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG 1" vncls="" vntheta=""/>
+</frameset>
+</verb>

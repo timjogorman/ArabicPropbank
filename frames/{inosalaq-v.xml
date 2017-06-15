@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosalaq</id>
+
+<frameset cdef="" edef="to be cooked in boiling water" id="01" vncls="">
+<role argnum="1" argrole="things cooked" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انسلق البيض في القدر</parse>
+
+<arg f="" g="the eggs" n="1">البيض</arg>
+<arg f="loc" g="in the pot" n="m">في القدر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

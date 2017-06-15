@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oa$oqaY</id>
+<comment/>
+<frameset cdef="" edef="to make unhappy" id="01">
+<role argnum="0" argrole="entity making unhappy"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الحمد لله الذي أسعد أمتي وأشقا * ك إلى يوم معلوم</parse>
+<comment/>
+<arg f="" g="God" n="0">* لله</arg>
+<arg f="" g="he" n="1">ك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity being unhappy"/>
+</frameset>
+</verb>

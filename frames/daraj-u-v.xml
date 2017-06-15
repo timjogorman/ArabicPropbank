@@ -1,48 +1,58 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>daraj-u</id>
-    <frameset cdef="" edef="to become common practice, fashionable" id="01">
-        <role argnum="1" argrole="action becoming common practice"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (PRT
-                    (NEG_PART لم))
-                    (IV3MS+IV+IVSUFF_MOOD:J يشن)
-                    (NP-SBJ
-                    (PUNC &amp;quot;)
-                    (NOUN_PROP+CASE_DEF_NOM حزب)
-                    (NP
-                    (NOUN_PROP+CASE_DEF_GEN الله))
-                    (PUNC &amp;quot;))
-                    (PP
-                    (PREP علي)
-                    (NP
-                    (PRON_3FS ها)))
-                    (NP-OBJ
-                    (NOUN+NSUFF_FEM_PL+CASE_INDEF_ACC هجمات))
-                    (PP-MNR
-                    (PREP ك)
-                    (SBAR-NOM
-                    (WHNP-2
-                    (REL_PRON ما))
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS درج)
-                    (NP-SBJ
-                    (-NONE- *T*-2))
-                    (PP-TMP
-                    (PREP في)
-                    (NP
-                    (DET+NOUN+NSUFF_MASC_DU_GEN الاسبوعين)
-                    (DET+ADJ+NSUFF_MASC_DU_GEN الاخيرين)))))))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="" n="0">-NONE- *T*-2</arg>
-                <arg f="tmp" g="in the last two weeks" n="m">في الأسبوعين الآخرين</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>daraj-u</id>
+<comment/>
+<frameset cdef="" edef="to toddle, to walk with short steps" id="01" vncls="">
+<role argnum="0" argrole="entity walking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>درج الطفل في مشيه</parse>
+<comment/>
+<arg f="" g="the baby" n="0">الطفل</arg>
+<arg f="" g="in his walking" n="1">في مشيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attribute to Arg 0" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to circulate, to be or become in fashion" id="02" vncls="">
+<role argnum="1" argrole="entity becoming fashion" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>درج الكتاب بين الفتيات</parse>
+<comment/>
+<arg f="" g="the book" n="1">الكتاب</arg>
+<arg f="" g="between the girls" n="2">بين الفتيات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to insert" id="03" vncls="">
+<role argnum="0" argrole="inserter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>درج الخياط الخيط في البدلة</parse>
+<comment/>
+<arg f="" g="the tailor" n="0">الخياط</arg>
+<arg f="" g="the thread" n="1">الخيط</arg>
+<arg f="" g="in the suit" n="2">في البدلة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things inserted" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
 </verb>

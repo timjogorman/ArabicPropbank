@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ino$anaq</id>
+
+<frameset cdef="" edef="to be hanged  (Execution)" id="01" vncls="">
+<role argnum="1" argrole="the hanger" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انشنق المجرم بالحبل</parse>
+
+<arg f="" g="the criminal" n="1">المجرم</arg>
+<arg f="" g="with a rope" n="2">بالحبل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

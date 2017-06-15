@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoDab~aT</id>
+
+<frameset cdef="" edef="to be arranged or put in order or corrected" id="01" vncls="">
+<role argnum="0" argrole="corrector" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا عاوز أضبط * الامورفي البيت قبل السفر</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="things at home" n="1">الامورفي البيت</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things corrected" vncls="" vntheta=""/>
+
+<comment>Based on roleset Dab~aT-v.01</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC Framefile based on Dab~aT-v</comment>
+</verb>

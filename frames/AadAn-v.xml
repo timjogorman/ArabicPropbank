@@ -1,0 +1,66 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AadAn</id>
+<frameset cdef="" edef="to condemn" id="01" vncls="">
+<role argnum="0" argrole="condemner" vncls="" vntheta="" />
+<role argnum="1" argrole="entity condemned" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (S
+    (LST
+      (NOUN_NUM 3)
+      (PUNC -))
+    (VP
+      (IV1P+IV+IVSUFF_MOOD:I ندين)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC محاولة)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الاعتداء))
+          (PP
+            (PREP على)
+            (NP
+              (DET+NOUN_PROP المطران)
+              (NOUN_PROP غريغوار)
+              (NOUN_PROP حداد)))))))
+  (PUNC .)</parse>
+<arg f="" g="we" n="0">-NONE-</arg>
+<arg f="" g="the attempt to harm Bishop Gregoire Haddad" n="2">محاولة الاعتداء على المطران غريغوار حداد</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset OadAn.01</comment>
+<role argnum="2" argrole="action, for what" vncls="" vntheta="" />
+</frameset>
+
+<frameset cdef="" edef="to subjugate, to subdue" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>أدان * له من هم أكبر منه</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="to him" n="2">له</arg>
+<arg f="" g="who is bigger than him" n="1">من هم أكبر منه</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="entity subjugated" vncls="" vntheta="" />
+<role argnum="2" argrole="to whom" vncls="" vntheta="" />
+<comment>Based on roleset OadAn.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on OadAn</comment>
+</verb>

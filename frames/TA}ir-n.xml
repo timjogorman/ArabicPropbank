@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>TA}ir</id>
+
+<frameset cdef="" edef="flyer, entity flying" id="01" vncls="">
+<role argnum="0" argrole="entity flying" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>أنا طائرة من دمشق إلى الرباط غدا</parse>
+
+<arg f="" g="I" n="0">*أنا</arg>
+
+
+<comment />
+<arg f="" g="from Damascus to Rabat" n="1">من دمشق إلى الرباط</arg>
+<arg f="tmp" g="tomorrow" n="m">غدا</arg>
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset TA{ir.01</comment>
+<role argnum="1" argrole="start point" vncls="" vntheta="" />
+<role argnum="2" argrole="end point" vncls="" vntheta="" />
+</frameset>
+<comment>Framefile based on TA{ir</comment>
+</verb>

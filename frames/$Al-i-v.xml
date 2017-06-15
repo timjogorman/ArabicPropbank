@@ -1,22 +1,101 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>$Al-i</id>
-    <comment/>
-    <frameset cdef="" edef="carry, load, take" id="01">
-        <role argnum="0" argrole="carrier"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>بس اصل شال*  مادة دى بايخة بصراحة</parse>
-                <comment/>
-                <arg f="" g="he" n="0">*</arg>
-                <arg f="" g="class" n="1">مادة</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="thing carried"/>
-    </frameset>
+<id>$Al-i</id>
+
+<frameset cdef="" edef="carry, load, take" id="01" vncls="">
+<role argnum="0" argrole="carrier" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الواد ده شال * العفش من فوق لتحت لوحده</parse>
+
+<arg f="" g="the boy" n="0">*الواد</arg>
+<arg f="" g="the furneture" n="1">العفش</arg>
+
+<arg f="" g="from top" n="2">من فوق</arg>
+<arg f="" g="to bottom" n="3">لتحت</arg>
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things carried" vncls="" vntheta=""/>
+
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to fail (idiomatic)" id="02" vncls="">
+<role argnum="0" argrole="entity failing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بس أصل شال * مادة بايخة بصراحة</parse>
+
+<arg f="" g="NONE" n="0">* ? NONE</arg>
+<arg f="" g="class or subject" n="1">مادة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="to remove" id="03" vncls="">
+<role argnum="0" argrole="remover" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(SQ
+    (INTJ
+      (INTERJ ايوه))
+    (ADJP-PRD
+      (ADV حقيقى))
+    (SBAR-SBJ
+      (-NONE- 0)
+      (S
+        (NP-TPC-1
+          (NOUN_PROP مصر))
+        (VP
+          (PV+PVSUFF_SUBJ:3FS شالت)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (NP-OBJ
+            (NOUN اسم)
+            (NP
+              (NOUN_PROP اسرائيل)))
+          (PP
+            (NOUN_PROP من)
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG الخريطه))))))))</parse>
+
+<arg f="" g="Egypt" n="0">مصر</arg>
+<arg f="" g="the name of Israiel" n="1">اسم اسرائيل</arg>
+<arg f="" g="from the map" n="2">من الخريطة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="removed" vncls="" vntheta=""/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
 </verb>

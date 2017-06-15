@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>tAb</id>
+<comment>EGYPTIAN ARABIC based on tAb-u</comment>
+    <frameset cdef="" edef="to repent, to turn from sin" id="01" vncls="">
+<role argnum="0" argrole="entity repenting" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>الله يريدنا أن نتوب * عن خطايانا</parse>
+
+<arg f="" g="we" n="0">* NONE</arg>
+<arg f="" g="from our sins" n="1">عن خطايانا</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta="" />
+<comment>Based on roleset tAb-u.01</comment>
+</frameset>
+<frameset cdef="" edef="to forgive, have mercy on" id="02" vncls="">
+<role argnum="0" argrole="forgiver" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تاب اللهُ عليه</parse>
+<comment />
+<arg f="" g="God" n="0">اللهُ</arg>
+<arg f="" g="him" n="1">عليه</arg>
+</example>
+<comment />
+<example>
+<parse>(S
+        (VP
+          (PUNC ?)
+          (CV+CVSUFF_SUBJ:2MS تُوب)
+          (NP-SBJ
+            (-NONE- *))
+          (PP-CLR
+            (PREP عَلَى)
+            (NP-OBJ
+              (PRON_1P نا)))
+          (PP
+            (PREP مِن)
+            (NP
+              (DET+NOUN الفَرافِير)))
+          (NP-VOC
+            (PRT
+              (VOC_PART يا))
+            (NP
+              (NOUN رَبّ))))))
+    (PUNC ?))</parse>
+<comment />
+<arg f="" g="you" n="0">*</arg>
+<arg f="" g="us" n="1">عَلَينا</arg>
+<arg f="" g="from الفَرافِير" n="2">مِن الفَرافِير</arg>
+<arg f="dis" g="oh Lord" n="m">يا رَبّ</arg>
+</example>
+</frame>
+<comment>Based on roleset tAb-u.02</comment>
+<role argnum="1" argrole="forgiven frequently marked with عَلَى or عن" vncls="" vntheta="" />
+<role argnum="2" argrole="blame/sin" vncls="" vntheta="" />
+</frameset>
+</verb>

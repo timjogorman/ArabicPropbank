@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inojaraD</id>
+
+<frameset cdef="" edef="to be gulpped" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انجرض الماء بسرعة</parse>
+
+<arg f="" g="water" n="1">الماء</arg>
+<arg f="mnr" g="quickly" n="m">بسرعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

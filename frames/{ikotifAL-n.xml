@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ikotifAL</id>
+<comment/>
+<frameset cdef="" edef="satisfaction, contentment" id="01" vncls="">
+<role argnum="1" argrole="pleased/contented entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما يعجبني عدم اكتفاء بعض الناس بما يملكون</parse>
+<comment/>
+<arg f="" g="some people" n="1">بعض الناس</arg>
+<arg f="" g="with what they own" n="2">بما يملكون</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="content with" vncls="" vntheta=""/>
+</frameset>
+</verb>

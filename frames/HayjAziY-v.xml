@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>HayjAziY</id>
+
+<frameset cdef="" edef="to reward, to repay" id="01">
+<role argnum="0" argrole="rewarder" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>جازاك الله خيرا عن عملك</parse>
+
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="he" n="1">ك</arg>
+<arg f="" g="good" n="2">خيرا</arg>
+<arg f="" g="for your work" n="3">عن عملك</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="rewarded" />
+<role argnum="2" argrole="with what" />
+<role argnum="3" argrole="for what" />
+<comment>Based on roleset jAzaY.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on jAzaY</comment>
+</verb>

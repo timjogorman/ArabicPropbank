@@ -1,52 +1,79 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Har~am</id>
-    <frameset cdef="" edef="to forbid" id="01">
-        <role argnum="0" argrole="agent"/>
-        <role argnum="1" argrole="thing forbidden"/>
-        <role argnum="2" argrole="recipient"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (NP-TPC-1
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM العريضة)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS كانت)
-                    (NP-SBJ
-                    (-NONE- *T*-1)
-                    (NP-PRD
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الفكرة)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_ACC البديلة)
-                    (PP
-                    (PREP من)
-                    (NP
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الاعتصام)
-                    (SBAR
-                    (WHNP-2
-                    (REL_PRON الذي)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MP حرّم)
-                    (NP-SBJ
-                    (-NONE- *)
-                    (NP-OBJ
-                    (NP
+<id>Har~am</id>
+<frameset cdef="" edef="to forbid" id="01" vncls="Har~ama-1">
+<role argnum="0" argrole="agent" vncls="Har~ama-1" vntheta="agent"/>
+<role argnum="1" argrole="thing forbidden" vncls="Har~ama-1" vntheta="theme"/>
+<role argnum="2" argrole="recipient" vncls="Har~ama-1" vntheta="recipient"/>
+<frame>
+<example>
+<parse>(S
+  (NP-TPC-1
+    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM العريضة)
+  (VP
+    (PV+PVSUFF_SUBJ:3FS كانت)
+    (NP-SBJ
+      (-NONE- *T*-1)
+    (NP-PRD
+      (NP
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الفكرة)
+        (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_ACC البديلة)
+      (PP
+        (PREP من)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الاعتصام)
+          (SBAR
+            (WHNP-2
+              (REL_PRON الذي)
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3MP حرّم)
+                (NP-SBJ
+                  (-NONE- *)
+                (NP-OBJ
+                  (NP
                     (PVSUFF_DO:3MS وه)
-                    (NP
+                  (NP
                     (-NONE- *T*-2)
-                    (PP-CLR
-                    (PREP علي)
-                    (NP
+                (PP-CLR
+                  (PREP علي)
+                  (NP
                     (PRON_1P نا)
-                    (PUNC .)
-                </parse>
-                <arg f="" g="they" n="0">-NONE-*</arg>
-                <arg f="" g="it" n="1">ه</arg>
-                <arg f="" g="us" n="2">علينا</arg>
-            </example>
-        </frame>
-    </frameset>
+  (PUNC .)</parse>
+<arg f="" g="they" n="0">-NONE-*</arg>
+<arg f="" g="it" n="1">ه</arg>
+<arg f="" g="us" n="2">علينا</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to stop doing something" id="02" vncls="">
+<role argnum="1" argrole="entity stoping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بعد ما انكسرت رجله حرم ابني انه  يلعب كورة</parse>
+
+<arg f="" g="my son" n="1">ابني</arg>
+<arg f="" g="to play soccer" n="2">انه  يلعب كورة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

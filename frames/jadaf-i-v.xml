@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jadaf-i</id>
+<comment/>
+<frameset cdef="" edef="to row or oar" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جدف الملاح السفينة بالمجداف</parse>
+<comment/>
+<arg f="" g="the sailor" n="0">الملاح</arg>
+<arg f="" g="the ship" n="1">السفينة</arg>
+<arg f="" g="with an oar" n="2">بالمجداف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things rowed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

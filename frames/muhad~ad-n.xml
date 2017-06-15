@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muhad~ad</id>
+<frameset cdef="" edef="menaced / threatened" id="01">
+<role argnum="1" argrole="menaced / threatened"/>
+<role argnum="2" argrole="with what? (marked by ب)"/>
+<frame>
+<example>
+<parse>
+(S
+      (NP-TPC-3
+        (NP
+          (PRT
+            (PART حتى))
+          (NOUN+CASE_DEF_GEN منزل)
+          (NP
+            (NOUN_PROP خليل)
+            (NOUN_PROP مطران)))
+        (PP-LOC
+          (PREP على)
+          (NP
+            (NP
+              (NOUN+CASE_INDEF_GEN امتار))
+            (PP
+              (PREP من)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN ساحت)
+                (NP
+                  (POSS_PRON_3MS ه)))))))
+      (VP
+        (PV+PVSUFF_SUBJ:3MS تصدع)
+        (NP-SBJ
+          (-NONE- *T*-3))
+        (NP-OBJ
+          (ADJP
+            (ADJ_COMP+CASE_DEF_ACC اكثر)
+            (NP
+              (NOUN+CASE_DEF_GEN جدران)
+              (NP
+                (POSS_PRON_3MS ه)))))))
+    (CONJ و)
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3MS صار)
+        (NP-SBJ
+          (-NONE- *))
+        (ADJP-PRD
+          (ADJ+CASE_INDEF_ACC مهددا)
+          (PP
+            (PREP ب)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الانهيار))))))
+</parse>
+<arg f="" g="it" n="1">-NONE- * &lt; منزل خليل مطران</arg>
+<arg f="" g="with collapse" n="2">بالانهيار</arg>
+</example>
+</frame>
+</frameset>
+</verb>

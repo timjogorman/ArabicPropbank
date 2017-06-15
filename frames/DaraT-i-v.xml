@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>DaraT-i</id>
+<comment/>
+<frameset cdef="" edef="to fart" id="01" vncls="">
+<role argnum="0" argrole="entity farting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ضرط الطفل</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

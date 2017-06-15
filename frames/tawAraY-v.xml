@@ -1,21 +1,30 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>tawAraY</id>
-    <frameset cdef="" edef="To hide" id="01">
-        <role argnum="1" argrole="entity  hidden"/>
-        <role argnum="2" argrole="hidden from"/>
-        <frame>
-            <comment>
-                اختبأ
-            </comment>
-            <example>
-                <parse>
-                    و كشف * ان الدليل السياحي توارى **-1 من المكان بعيد الانفجار الذي تقول السلطات انه **-2 قد يكون نجم **-3 عن القاء قنبلة يدوية على السياح.
-                </parse>
-                <arg f="" g="He" n="1">الدليل السياحي&amp;gt; **-1</arg>
-                <arg f="" g="the scene" n="2">من المكان</arg>
-                <arg f="tmp" g="After the blast" n="m">بعيد الانفجار</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>tawAraY</id>
+<frameset cdef="" edef="To hide, to disappear" id="01" vncls="">
+<role argnum="1" argrole="entity  hidden" vncls="" vntheta=""/>
+<role argnum="2" argrole="hidden from" vncls="" vntheta=""/>
+<frame>
+
+<example>
+<parse>و كشف * ان الدليل السياحي توارى **-1 من المكان بعيد الانفجار الذي تقول السلطات انه **-2 قد يكون نجم **-3 عن القاء قنبلة يدوية على السياح.</parse>
+<arg f="" g="He" n="1">الدليل السياحي&gt; **-1</arg>
+<arg f="" g="the scene" n="2">من المكان</arg>
+<arg f="tmp" g="After the blast" n="m">بعيد الانفجار</arg>
+
+
+<comment/>
+</example>
+
+
+<comment>اختبأ</comment>
+</frame>
+
+
+<comment/>
+<role argnum="m" argrole="location" vncls="" vntheta=""/>
+</frameset>
+
+
+<comment/>
 </verb>

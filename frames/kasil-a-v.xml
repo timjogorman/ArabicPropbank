@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kasil-a</id>
+<comment/>
+<frameset cdef="" edef="to be lazy" id="01" vncls="">
+<role argnum="0" argrole="entity becoming lazy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (ADVP
+      (TYPO ي)
+      (TYPO دوبك))
+    (NP-TMP
+      (NOUN_QUANT كام)
+      (NP
+        (NOUN شَهْر)))
+    (NAC
+      (CONJ وِ)
+      (VP
+        (PV+PVSUFF_SUBJ:3MS بَدَأ)
+        (NP-SBJ
+          (-NONE- *))
+        (S
+          (VP
+            (IV3MS+IV يِكَسِّل)
+            (NP-SBJ
+              (-NONE- *))
+            (SBAR
+              (-NONE- 0)
+              (S
+                (VP
+                  (IV3MS+IV يِفُوت)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (PP
+                    (PREP عَلَى)
+                    (NP
+                      (DET+NOUN الشُقَق))))))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="to enter the aprtments" n="1">يفوت على الشقق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kaEab-a</id>
+<comment/>
+<frameset cdef="" edef="to fill" id="01" vncls="">
+<role argnum="0" argrole="filler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كعب الطفل الاناء بالماء</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="the vessel" n="1">الاناء</arg>
+<arg f="" g="with water" n="2">بالماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="filled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to swell, to grow full and round" id="02" vncls="">
+<role argnum="1" argrole="things swelling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كعب ثدي الفتاة</parse>
+<comment/>
+<arg f="" g="the girl's breast" n="1">ثدي الفتاة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

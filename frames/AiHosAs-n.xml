@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AiHosAs</id>
+<comment/>
+<frameset cdef="" edef="feeling, sense" id="01" vncls="">
+<role argnum="0" argrole="entity feeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(SBARQ
+    (WHNP-1
+      (NOUN_QUANT أَيّ)
+      (NP
+        (NOUN بَلَد)
+        (ADJ عَرَبِي)))
+    (S
+      (VP
+        (PV+PVSUFF_SUBJ:3FS وَقَفِت)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-CLR
+          (NOUN مَعَ)
+          (NP
+            (POSS_PRON_2P كُم)))
+        (NP-ADV
+          (NOUN زَيّ)
+          (NP
+            (NP
+              (NOUN_PROP مَصْر))
+            (CONJ وِ)
+            (NP
+              (NOUN شَعْب)
+              (NP
+                (NOUN_PROP مَصْر)))))
+        (PP-PRP
+          (PREP ل)
+          (S-NOM
+            (VP
+              (NOUN.VN اِحساس)
+              (NP-SBJ
+                (POSS_PRON_1P نا))
+              (SBAR
+                (SUB_CONJ إِنّ)
+                (S
+                  (NP-SBJ
+                    (PRON_2P كُم))
+                  (NP-PRD
+                    (NP
+                      (NOUN+NSUFF_FEM_PL إِخْوات)
+                      (NP
+                        (POSS_PRON_1P نا)))</parse>
+<comment/>
+<arg f="" g="we" n="0">نا</arg>
+<arg f="" g="you are our sisters" n="1">انكم اخواتنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the feeling" vncls="" vntheta=""/>
+<role argnum="2" argrole="about" vncls="" vntheta=""/>
+</frameset>
+</verb>

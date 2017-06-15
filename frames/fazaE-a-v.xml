@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fazaE-a</id>
+<comment/>
+<frameset cdef="" edef="to be afraid or scared" id="01">
+<role argnum="0" argrole="entity scared"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فزع الطفل من ظله</parse>
+<comment/>
+<arg f="" g="the baby or the kid" n="0">الطفل</arg>
+<arg f="" g="from his shadow" n="1">من ظله</arg>
+</example>
+<comment/>
+</frame>
+<comment>خاف</comment>
+<role argnum="1" argrole="from what"/>
+</frameset>
+<frameset cdef="" edef="to resort to, to have recourse to" id="02">
+<role argnum="0" argrole="entity resorting to"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فزع الولد الى والده للحماية من اولاد الشارع</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الولد</arg>
+<arg f="" g="to his father" n="1">الى والده</arg>
+<arg f="" g="for protection" n="2">للحماية</arg>
+<arg f="" g="from the street kids" n="3">من اولاد الشارع</arg>
+</example>
+<comment/>
+</frame>
+<comment>لجأ الى</comment>
+<role argnum="1" argrole="to whom"/>
+<role argnum="2" argrole="for what"/>
+<role argnum="3" argrole="from whom or what"/>
+</frameset>
+<frameset cdef="" edef="to support" id="03">
+<role argnum="0" argrole="supporter"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فزع الجمهور فريقه في البطولة ضد الفريق الضيف</parse>
+<comment/>
+<arg f="" g="the multitude" n="0">الجمهور</arg>
+<arg f="" g="his team" n="1">فريقه</arg>
+<arg f="" g="against the guest team" n="2">ضد الفريق الضيف</arg>
+</example>
+<comment/>
+</frame>
+<comment>ساند</comment>
+<role argnum="1" argrole="supported"/>
+<role argnum="2" argrole="against who"/>
+</frameset>
+</verb>

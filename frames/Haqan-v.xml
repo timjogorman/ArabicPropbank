@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Haqan</id>
+
+    <frameset cdef="" edef="to inject" id="01" vncls="">
+<role argnum="0" argrole="injector" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>حقن  الطبيب الالمانى الرئيس المخلوع حسنى مبارك بحقنة الحياة</parse>
+
+<arg f="" g="German doctor" n="0">الطبيب الالمانى</arg>
+<arg f="" g="the former president, Hosni Mubarak" n="1">الرئيس المخلوع حسنى مبارك</arg>
+<arg f="" g="whth an injection of life" n="2">بحقنة الحياة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity injected" vncls="" vntheta=""/>
+<role argnum="2" argrole="injected with what?" vncls="" vntheta=""/>
+
+<comment>Based on roleset Haqan-i.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Haqan-i</comment>
+<frameset cdef="" edef="to save face, to stop blood shading (multi word expresion)" id="02" vncls="">
+<role argnum="0" argrole="entity saving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ربنا يحقن * الدماء</parse>
+<comment/>
+<arg f="" g="our God" n="0">* ربنا</arg>
+<arg f="" g="the blood" n="1">الدماء</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things saved" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waT~aY</id>
+<comment/>
+<frameset cdef="" edef="to lower" id="01" vncls="">
+<role argnum="0" argrole="entity lowiring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بقوله وطي * صوت الراديو</parse>
+<comment/>
+<arg f="" g="he" n="0">* ه</arg>
+<arg f="" g="volume of the radio" n="1">صوت الراديو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things lowered" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to bow, bend at waist" id="02" vncls="">
+<role argnum="0" argrole="bower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده بيوطي * لما يدخل من الباب عشان الباب واطي شوية</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="tmp" g="when he enter from the door" n="m">لما يدخل من الباب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="bowed to" vncls="" vntheta=""/>
+</frameset>
+</verb>

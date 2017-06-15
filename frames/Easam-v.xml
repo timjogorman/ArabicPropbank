@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Easam</id>
+<comment/>
+<frameset cdef="" edef="to covet or desire" id="01" vncls="">
+<role argnum="0" argrole="entity desiring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عسم الرجل مال غيره</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="other people  money" n="1"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to strive or try hard" id="02" vncls="">
+<role argnum="0" argrole="entity trying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عسم الطالب في دراسته</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="in his study" n="1">في دراسته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what or in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

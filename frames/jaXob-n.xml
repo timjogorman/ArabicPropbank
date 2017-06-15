@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jaXob</id>
+<comment/>
+<frameset cdef="" edef="attracting, pulling" id="01" vncls="">
+<role argnum="0" argrole="attractor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام المطرب بجذب * قلوب المستمعين بصوته</parse>
+<comment/>
+<arg f="" g="the singer" n="0">* المطرب</arg>
+<arg f="" g="the hearts of the listeners" n="1">قلوب المستمعين</arg>
+<arg f="" g="with his voice" n="2">بصوته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity attracted" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing attracted to, if separate from attractor" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miEAyorap</id>
+<comment/>
+<frameset cdef="" edef="uglifying, making fun of" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وَ)
+    (PP-TMP
+      (NOUN مُنذُ)
+      (NP
+        (NP
+          (NOUN ٱِسْتِخْدام)
+          (NP
+            (DET+NOUN البِتْرَول)
+            (DET+ADJ العَرَبِيّ)))
+        (PP
+          (PREP فِي)
+          (NP
+            (NP
+              (DEM_PRON_MS هَذا))
+            (NP
+              (DET+NOUN المَوقِف))))))
+    (PRT
+      (CONJ وَ))
+    (VP
+      (PRT
+        (NEG_PART لا))
+      (IV3MS+IV يَكف)
+      (NP-SBJ
+        (DET+NOUN+NSUFF_FEM_SG الاِخْوَة)
+        (DET+NOUN العَرَب))
+      (PP-CLR
+        (PREP عَن)
+        (S-NOM
+          (VP
+            (NOUN.VN+NSUFF_FEM_SG مِعايْرَة)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NOUN_PROP مِصْر))
+            (PP-CLR
+              (PREP بِ)
+              (NP
+                (PRON_3MS هِ)))))))
+    (PUNC ,)))</parse>
+<comment/>
+<arg f="" g="the Arab brothers" n="0">* الاخوة العرب</arg>
+<arg f="" g="Egypt" n="1">مِصْر</arg>
+<arg f="" g="by him" n="2">به</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity made fun of" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

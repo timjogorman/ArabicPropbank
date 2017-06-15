@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>takomiyl</id>
+<comment/>
+<frameset cdef="" edef="completion, finishing" id="01" vncls="">
+<role argnum="0" argrole="finisher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرر الطالب تكميل * دراسته في الرسم</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="his study" n="1">دراسته</arg>
+<arg f="" g="in art of drawing" n="2">في الرسم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things finished" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobanaY</id>
+
+<frameset cdef="" edef="to be built" id="01" vncls="">
+<role argnum="0" argrole="agent, builder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبنى المسجد على أرض متبرع بها</parse>
+
+<arg f="" g="the mosque" n="1">المسجد</arg>
+<arg f="" g="on a donated land" n="2">على أرض متبرع بها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="construction" vncls="" vntheta=""/>
+<role argnum="2" argrole="foundation" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to be based on" id="02" vncls="">
+<role argnum="1" argrole="things based" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه الفكرة انبنت * على أفكار قديمة</parse>
+<comment/>
+<arg f="" g="this idea" n="1">* الفكرة</arg>
+<arg f="" g="on old thoughts" n="2">على أفكار قديمة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

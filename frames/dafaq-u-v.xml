@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dafaq-u</id>
+<comment/>
+<frameset cdef="" edef="to pour out" id="01" vncls="">
+<role argnum="0" argrole="entity pouring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دفق الرجل الماء من الكأس على الأرض</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="from the cup" n="2">من الكأس</arg>
+<arg f="" g="on the ground" n="3">على الأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things poured" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination or into what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to flow out or stream" id="02" vncls="">
+<role argnum="1" argrole="entity flowing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دفق الماء من الحنفية على الأرض</parse>
+<comment/>
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="from the tap" n="2">من الحنفية</arg>
+<arg f="" g="on the ground" n="3">على الأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+</verb>

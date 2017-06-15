@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tagAzal</id>
+
+<frameset cdef="" edef="to flirt with one another" id="01" vncls="">
+<role argnum="0" argrole="entity flirting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تغازل الشاب مع صديقته على الهاتف</parse>
+
+<arg f="" g="the young boy" n="0">الشاب</arg>
+<arg f="" g="with his girl friend" n="1">مع صديقته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="second entity if separated from ARG0" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

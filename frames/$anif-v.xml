@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$anif</id>
+<comment/>
+<frameset cdef="" edef="to realize or discern, to notice, to become discerning" id="01" vncls="">
+<role argnum="0" argrole="entity noticing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شنف الولد</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الولد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things noticed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to hate" id="02" vncls="">
+<role argnum="0" argrole="hater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شنف الرجل زميله</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">زميله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="hated" vncls="" vntheta=""/>
+</frameset>
+</verb>

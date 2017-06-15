@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tafALal</id>
+<comment/>
+<frameset cdef="" edef="to optimize, to see good omen" id="01" vncls="">
+<role argnum="0" argrole="entity optimistic" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا متفائل * بوشك النهاردة</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="with your face" n="1">بوشك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what or with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

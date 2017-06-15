@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$aE~</id>
+<frameset cdef="" edef="to shine" id="01" vncls="">
+<role argnum="1" argrole="the thing shining (light)" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>بيشع من عنيه الحقد</parse>
+<arg f="" g="from his eyes" n="2">من عينيه</arg>
+<arg f="" g="antagonism" n="1">الحقد</arg>
+
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset $aE~-i.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on $aE~-i</comment>
+</verb>

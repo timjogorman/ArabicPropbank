@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>baHovar</id>
+
+<frameset cdef="" edef="to scatter or to make separate" id="01" vncls="">
+<role argnum="0" argrole="entity scattering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بحثر الرجل الملابس</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="clothes" n="1">الملابس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the thing scattered" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>suboHAn</id>
+<comment/>
+<frameset cdef="" edef="glory to God, God is far above" id="01" vncls="">
+<role argnum="1" argrole="praised (GOD)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سبحان الله على كل شيء</parse>
+<comment/>
+<arg f="" g="God" n="1">الله</arg>
+<arg f="" g="for every thing" n="2"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

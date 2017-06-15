@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{iqotidAr</id>
+<comment/>
+<frameset cdef="" edef="ability, capability" id="01" vncls="">
+<role argnum="0" argrole="entity able" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يعجبني اقتدار بعض الناس على تحمل الألم</parse>
+<comment/>
+<arg f="" g="some people" n="0">بعض الناس</arg>
+<arg f="" g="in enduring the pain" n="1">على تحمل الألم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to do what" vncls="" vntheta=""/>
+</frameset>
+</verb>

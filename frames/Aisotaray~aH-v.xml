@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotaray~aH</id>
+
+<frameset cdef="" edef="to take rest, to get rid off" id="01" vncls="">
+<role argnum="0" argrole="entity resting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مش مصدق أمتى الواحد يستريح * من الشغل</parse>
+
+<arg f="" g="someone" n="0">* الواحد</arg>
+<arg f="" g="from work" n="1">من الشغل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to trust" id="02" vncls="">
+<role argnum="0" argrole="entity tingrust" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا مش بستريح * للراجل ده من أعماله</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="for this man" n="1">للراجل ده</arg>
+<arg f="" g="for what he do" n="2">من أعماله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity trusted" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

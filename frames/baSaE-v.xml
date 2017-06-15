@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>baSaE</id>
+<comment/>
+<frameset cdef="" edef="to flow or stream, to run" id="01" vncls="">
+<role argnum="1" argrole="things flowing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بصع العرق من الجلد</parse>
+<comment/>
+<arg f="" g="the sweat" n="1">العرق</arg>
+<arg f="" g="from the skin" n="2">من الجلد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+</verb>

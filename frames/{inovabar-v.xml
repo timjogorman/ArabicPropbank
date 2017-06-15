@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inovabar</id>
+
+<frameset cdef="" edef="to be destroyed or ruined" id="01" vncls="">
+<role argnum="1" argrole="entity destoryed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انثبر الحفل بالمطر</parse>
+
+<arg f="" g="the party" n="1">الحفل</arg>
+<arg f="" g="the rain" n="2">بالمطر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

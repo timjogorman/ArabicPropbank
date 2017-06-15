@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kabas-i</id>
+<comment/>
+<frameset cdef="" edef="to press, to compress,  to overflow, to fill" id="01" vncls="">
+<role argnum="0" argrole="entity pressing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كبس * على الجرس بصباعه</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="on the bell" n="1">على الجرس</arg>
+<arg f="" g="with his finger" n="2">بصباعه</arg>
+</example>
+<comment/>
+<example>
+<parse>كبس * البئر بالتراب</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the well" n="1">البئر</arg>
+<arg f="" g="with dirt" n="2">بالتراب</arg>
+</example>
+</frame>
+<comment/>
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what (Usually comes after بـ  )" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to insert" id="02" vncls="">
+<role argnum="0" argrole="entity inserting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ابني الصغير كبس * راسه في الثوب</parse>
+<comment/>
+<arg f="" g="my youngest son" n="0">* ابني الصغير</arg>
+<arg f="" g="his head" n="1">راسه</arg>
+<arg f="" g="in the shirt" n="2">في الثوب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things inserted" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to raid, to attack suddenly" id="03" vncls="">
+<role argnum="0" argrole="entity raiding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كبس الجيش وكر الارهابيين في المدينة</parse>
+<comment/>
+<arg f="" g="the army" n="0">الجيش</arg>
+<arg f="" g="the terrorist nest" n="1">وكر الارهابيين</arg>
+<arg f="loc" g="in the city" n="m">في المدينة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

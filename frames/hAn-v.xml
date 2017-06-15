@@ -1,0 +1,80 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hAn</id>
+
+<frameset cdef="" edef="to be or become easy" id="01" vncls="">
+<role argnum="1" argrole="things becoming easy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هانت الامور عليه</parse>
+
+<arg f="" g="the matters" n="1">الامور</arg>
+<arg f="" g="on him" n="2">عليه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+
+<comment>Roleset based on hAn-u.01</comment>
+</frameset>
+<frameset cdef="" edef="to be or become low or weak" id="02" vncls="">
+<role argnum="0" argrole="entity getting weak" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هان أخي في الغربة</parse>
+
+<arg f="" g="my brother" n="0">أخي</arg>
+<arg f="loc" g="in foreignness" n="m">في الغربة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Roleset based on hAn-u.02</comment>
+</frameset>
+<frameset cdef="" edef="to insult" id="03" vncls="">
+<role argnum="0" argrole="insulter" vncls="" vntheta=""/>
+<role argnum="1" argrole="insulted" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+        (VP
+          (PV+PVSUFF_SUBJ:3FS أهانت)
+          (NP-OBJ
+            (PVSUFF_DO:3MP هم))
+          (NP-SBJ
+            (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_NOM السلطات))
+          (PP-MNR
+            (PREP ب)
+            (NP
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN صورة))
+              (ADJP
+                (ADJ مشينة)
+                (PP
+                  (PREP ل)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN لغاية))))))))</parse>
+<arg f="" g="them" n="1">هم</arg>
+<arg f="" g="the authorities" n="0">السلطات</arg>
+<arg f="mnr" g="in a very degrading way" n="m">بصورة مشينة للغاية</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<comment>Roleset based on  OahAn.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on hAn-u and OahAn</comment>
+</verb>

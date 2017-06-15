@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>baxir</id>
+<comment/>
+<frameset cdef="" edef="to have bad breath or smelling" id="01" vncls="">
+<role argnum="1" argrole="entity smelling bad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بخر فم الطفل</parse>
+<comment/>
+<arg f="" g="the baby's mouth" n="1">فم الطفل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

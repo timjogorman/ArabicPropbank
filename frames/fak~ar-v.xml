@@ -1,84 +1,149 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>fak~ar</id>
-    <frameset cdef="" edef="to think" id="01">
-        <role argnum="0" argrole="thinker"/>
-        <role argnum="1" argrole="thought"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (PP
-                    (PREP على)
-                    (NP
-                    (NOUN+CASE_INDEF_GEN صعيد)
-                    (ADJ+CASE_DEF_ACC آخر)))
-                    (PUNC ,)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS كشف)
-                    (NP-SBJ
-                    (NOUN+CASE_DEF_NOM رئيس)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الاتحاد)))
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (NP-TPC-2
-                    (NP
-                    (NP
-                    (DET+NOUN+CASE_DEF_ACC المدير)
-                    (DET+ADJ+CASE_DEF_ACC الفني)
-                    (DET+ADJ+CASE_DEF_ACC الوطني))
-                    (NP
-                    (NOUN_PROP ايميه)
-                    (NOUN_PROP جاكيه)))
-                    (PUNC ,)
-                    (SBAR
-                    (SBAR
-                    (WHNP-1
-                    (REL_PRON الذي))
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS كان)
-                    (NP-SBJ
+<id>fak~ar</id>
+<frameset cdef="" edef="to think" id="01" vncls="Ii$otaAqa-1">
+<role argnum="0" argrole="thinker" vncls="Ii$otaAqa-1" vntheta="experiencer"/>
+<role argnum="1" argrole="thought" vncls="Ii$otaAqa-1" vntheta="theme"/>
+<frame>
+<example>
+<parse>(S
+  (PP
+    (PREP على)
+    (NP
+      (NOUN+CASE_INDEF_GEN صعيد)
+      (ADJ+CASE_DEF_ACC آخر)))
+  (PUNC ,)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS كشف)
+    (NP-SBJ
+      (NOUN+CASE_DEF_NOM رئيس)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الاتحاد)))
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (NP-TPC-2
+          (NP
+            (NP
+              (DET+NOUN+CASE_DEF_ACC المدير)
+              (DET+ADJ+CASE_DEF_ACC الفني)
+              (DET+ADJ+CASE_DEF_ACC الوطني))
+            (NP
+              (NOUN_PROP ايميه)
+              (NOUN_PROP جاكيه)))
+          (PUNC ,)
+          (SBAR
+            (SBAR
+              (WHNP-1
+                (REL_PRON الذي))
+              (S
+                (VP
+                  (PV+PVSUFF_SUBJ:3MS كان)
+                  (NP-SBJ
                     (-NONE- *T*-1))
-                    (ADJP-PRD
+                  (ADJP-PRD
                     (ADJ+CASE_INDEF_ACC مدعواً)
                     (PP
-                    (PREP الى)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الاجتماع)))))))
-                    (CONJ و)
-                    (SBAR
-                    (WHNP-3
-                    (-NONE- 0))
-                    (S
-                    (VP
-                    (PRT
+                      (PREP الى)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN الاجتماع)))))))
+            (CONJ و)
+            (SBAR
+              (WHNP-3
+                (-NONE- 0))
+              (S
+                (VP
+                  (PRT
                     (NEG_PART لم))
-                    (IV3MS+IV+IVSUFF_MOOD:J يحضر)
-                    (NP-SBJ
+                  (IV3MS+IV+IVSUFF_MOOD:J يحضر)
+                  (NP-SBJ
                     (-NONE- *T*-3)))))))
-                    (PUNC ,)
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يفكر)
-                    (NP-SBJ
-                    (-NONE- *T*-2))
-                    (PP-CLR
-                    (PREP في)
-                    (NP
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN التقاعد))
-                    (NP-TMP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC سنة)
-                    (NP
-                    (NOUN_NUM 2003)))))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="" n="0">-NONE- *T*-2</arg>
-                <arg f="" g="about retirement" n="1">في التقاعد</arg>
-                <arg f="tmp" g="in 2003" n="m">سنة 2003</arg>
-            </example>
-        </frame>
-    </frameset>
+        (PUNC ,)
+        (VP
+          (IV3MS+IV+IVSUFF_MOOD:I يفكر)
+          (NP-SBJ
+            (-NONE- *T*-2))
+          (PP-CLR
+            (PREP في)
+            (NP
+              (NP
+                (DET+NOUN+CASE_DEF_GEN التقاعد))
+              (NP-TMP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC سنة)
+                (NP
+                  (NOUN_NUM 2003)))))))))
+  (PUNC .))</parse>
+<arg f="" g="" n="0">-NONE- *T*-2</arg>
+<arg f="" g="about retirement" n="1">في التقاعد</arg>
+<arg f="tmp" g="in 2003" n="m">سنة 2003</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to remind" id="02" vncls="">
+<role argnum="0" argrole="entity reminding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PRT
+        (PROG_PART ب))
+      (IV2MS+IV تفكر)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (IVSUFF_DO:1S نى))
+      (PP
+        (PREP بي)
+        (NP
+          (NP
+            (NOUN فلم)
+            (NP
+              (DET+NOUN اللهيب)))
+          (NP-ADV
+            (NOUN بتاع)
+            (NP
+              (NP
+                (NOUN_PROP ال)
+                (NOUN_PROP باتشينو))
+              (CONJ و)
+              (NP
+                (NOUN_PROP روبرت)
+                (NOUN_PROP دي)
+                (NOUN_PROP نيرو)))))))))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="me" n="2">نى</arg>
+<arg f="" g="with the Alpatchino and Rbert Dinero movie the flame" n="1">بفيلم اللهيب بتاع البتشينو و روبرت دي نيرو</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+<role argnum="2" argrole="entity reminded" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

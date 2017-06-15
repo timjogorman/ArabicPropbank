@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gazal-i</id>
+<comment/>
+<frameset cdef="" edef="to spin or entwine" id="01" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غزلت والدتي الصوف خيوطا</parse>
+<comment/>
+<arg f="" g="my mother" n="0">والدتي</arg>
+<arg f="" g="the wool" n="1">الصوف</arg>
+<arg f="" g="into threads" n="2">خيوطا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things spinned" vncls="" vntheta=""/>
+<role argnum="2" argrole="into what" vncls="" vntheta=""/>
+</frameset>
+</verb>

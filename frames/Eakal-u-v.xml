@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eakal-u</id>
+<comment/>
+<frameset cdef="" edef="to pile up or stack, to gather" id="01" vncls="">
+<role argnum="0" argrole="agent, entity causing some grouping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عكلت الأم ألعاب أطفالها</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="her kid's toys" n="1">ألعاب أطفالها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things combined or collected" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what (if seperate from ARG1) or for what purpose" vncls="" vntheta=""/>
+<role argnum="3" argrole="source" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be ambiguous" id="02" vncls="">
+<role argnum="0" argrole="entity misunderstanding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عكل عليه الأمر</parse>
+<comment/>
+<arg f="" g="on him" n="0">عليه</arg>
+<arg f="" g="the matter" n="1">الأمر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things obscure" vncls="" vntheta=""/>
+</frameset>
+</verb>

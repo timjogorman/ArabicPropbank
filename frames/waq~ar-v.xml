@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waq~ar</id>
+
+<frameset cdef="" edef="to honor, to respect" id="01" vncls="OaHab~a-1">
+<role argnum="0" argrole="respecter" vncls="OaHab~a-1" vntheta="experiencer"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>يوقر الناس هذا الشخص كمعلم وليس لسبب أخر</parse>
+
+<arg f="" g="the people" n="0">الناس</arg>
+<arg f="" g="this person" n="1">هذا الشخص</arg>
+<arg f="" g="as a teacher" n="2">كمعلم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="respected" vncls="OaHab~a-1" vntheta="predicate"/>
+<role argnum="2" argrole="for what" vncls="OaHab~a-1" vntheta="theme"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

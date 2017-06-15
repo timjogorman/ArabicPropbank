@@ -1,0 +1,104 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zahaq</id>
+
+    <frameset cdef="" edef="to vanish or disappear" id="01" vncls="">
+<role argnum="1" argrole="entity or thing vanishing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>زهق الباطل و ظهر الحق</parse>
+
+<arg f="" g="falsehood" n="1">الباطل</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset zahaq-a.01</comment>
+</frameset>
+<frameset cdef="" edef="to be or become weary of, to be sick of" id="03" vncls="">
+<role argnum="0" argrole="entity getting weary" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ده انا زهقت * من الشغلانة دية</parse>
+
+<arg f="" g="he" n="0">* انا</arg>
+<arg f="" g="from this work" n="1">من الشغلانة دية</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="of what" vncls="" vntheta=""/>
+
+<comment>Based on roleset zahaq-a.03</comment>
+</frameset>
+
+<frameset cdef="" edef="to kill" id="04" vncls="">
+<role argnum="0" argrole="killer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (FRAG
+    (NP-ADV
+      (NOUN+CASE_INDEF_ACC شُكْراً))
+    (PP
+      (PREP لِ)
+      (NP
+        (NOUN_QUANT كُلّ)
+        (SBAR-NOM
+          (WHNP-1
+            (REL_PRON مَنْ))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS زَهَق)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (NOUN أَرواح)
+                (NP
+                  (POSS_PRON_1P نا)))))))))
+  (FRAG
+    (NP-ADV
+      (NOUN+CASE_INDEF_ACC شُكْراً))
+    (PP
+      (PREP لِ)
+      (NP
+        (DET+NOUN المَجْلِس)
+        (DET+ADJ العَسْكَرِيّ)))))</parse>
+
+<arg f="" g="anyone" n="0">* كُلّ مَنْ</arg>
+<arg f="" g="our spirits" n="1">أَرواح نا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="killed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on zahaq-a</comment>
+</verb>

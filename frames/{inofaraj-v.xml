@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofaraj</id>
+
+<frameset cdef="" edef="to explode" id="01" vncls="">
+<role argnum="1" argrole="bomb" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انفجرت القنبلة</parse>
+
+<arg f="" g="the bomb" n="1">القنبلة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

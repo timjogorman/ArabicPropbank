@@ -1,67 +1,143 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Eam~ar</id>
-    <frameset cdef="" edef="to populate" id="01">
-        <role argnum="0" argrole="the agent populating"/>
-        <role argnum="1" argrole="things being populated"/>
-        <role argnum="2" argrole="with what"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (S
-                    (VP
-                    (PRT
-                    (VERB_PART لقد)
-                    (PV+PVSUFF_SUBJ:3MS خلق)
-                    (NP-OBJ
-                    (PVSUFF_DO:1P نا)
-                    (NP-SBJ
-                    (NOUN_PROP+CASE_DEF_NOM الله)
-                    (NP-ADV
-                    (NOUN+NSUFF_MASC_PL_ACC مختلفين)
-                    (PUNC ,)
-                    (CONJ و)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS دعا)
-                    (NP-SBJ
-                    (-NONE- *)
-                    (NP-OBJ
-                    (PVSUFF_DO:1P نا)
-                    (PP-CLR
-                    (PREP الى)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN التعارف)
-                    (CONJ و)
-                    (DET+NOUN+CASE_DEF_GEN الحوار)
-                    (PUNC ,)
-                    (PP-PRP
-                    (PREP ل)
-                    (SBAR
-                    (SUB_CONJ كي)
-                    (S
-                    (VP
-                    (IV1P+IV+IVSUFF_MOOD:S نعمّر)
-                    (NP-SBJ
-                    (-NONE- *)
-                    (NP-OBJ
-                    (NP
-                    (DEM_PRON_F هذه)
-                    (NP
-                    (DET+NOUN الدنيا)
-                    (PP-MNR
-                    (PREP ب)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN العدل)
-                    (CONJ و)
-                    (DET+NOUN+CASE_DEF_GEN السلام)
-                    (PUNC .)
-                </parse>
-                <arg f="" g="" n="0">-NONE- *</arg>
-                <arg f="" g="this life" n="1">هذه الدنيا</arg>
-                <arg f="" g="with justice and peace" n="2">بالعدل و السلام</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Eam~ar</id>
+<frameset cdef="" edef="to populate" id="01" vncls="">
+<role argnum="0" argrole="the agent populating" vncls="" vntheta=""/>
+<role argnum="1" argrole="things being populated" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (S
+    (VP
+      (PRT
+        (VERB_PART لقد)
+      (PV+PVSUFF_SUBJ:3MS خلق)
+      (NP-OBJ
+        (PVSUFF_DO:1P نا)
+      (NP-SBJ
+        (NOUN_PROP+CASE_DEF_NOM الله)
+      (NP-ADV
+        (NOUN+NSUFF_MASC_PL_ACC مختلفين)
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS دعا)
+      (NP-SBJ
+        (-NONE- *)
+      (NP-OBJ
+        (PVSUFF_DO:1P نا)
+      (PP-CLR
+        (PREP الى)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN التعارف)
+          (CONJ و)
+          (DET+NOUN+CASE_DEF_GEN الحوار)
+      (PUNC ,)
+      (PP-PRP
+        (PREP ل)
+        (SBAR
+          (SUB_CONJ كي)
+          (S
+            (VP
+              (IV1P+IV+IVSUFF_MOOD:S نعمّر)
+              (NP-SBJ
+                (-NONE- *)
+              (NP-OBJ
+                (NP
+                  (DEM_PRON_F هذه)
+                (NP
+                  (DET+NOUN الدنيا)
+              (PP-MNR
+                (PREP ب)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN العدل)
+                  (CONJ و)
+                  (DET+NOUN+CASE_DEF_GEN السلام)
+  (PUNC .)</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="this life" n="1">هذه الدنيا</arg>
+<arg f="" g="with justice and peace" n="2">بالعدل و السلام</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to build" id="02" vncls="">
+<role argnum="0" argrole="entity building" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>عمر *  بناء من  الحجر</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="building" n="1">بناء</arg>
+<arg f="" g="from stone" n="2">من  الحجر</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things built" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to perfect (Idiomatic verb)( to get high)" id="03" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هو طلب كباية شاي تقيلة عشان يعمر * الطاسة</parse>
+
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="the brain" n="1">الطاسة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things becoming perfect" vncls="" vntheta=""/>
+<comment>Egyptian</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to stay in one place for a long time (Idiomatic verb)" id="04" vncls="">
+<role argnum="0" argrole="entity staying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده ما بيعمرش * في مكان</parse>
+<comment/>
+<arg f="" g="this man" n="0">* الراجل ده</arg>
+<arg f="" g="in a place" n="1">في مكان</arg>
+</example>
+<comment>ARZ</comment>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+<role argnum="2" argrole="how long" vncls="" vntheta=""/>
+</frameset>
 </verb>

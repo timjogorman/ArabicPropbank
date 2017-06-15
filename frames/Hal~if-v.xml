@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hal~if</id>
+<comment/>
+<frameset cdef="" edef="to make someone promise or take an oath" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا حلفت * أخويا بالكتاب المقدس أنه ما يقولش</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="my brother" n="1">أخويا</arg>
+<arg f="" g="by the Holy Book" n="2">بالكتاب المقدس</arg>
+<arg f="" g="that he will not tell" n="3">أنه ما يقولش</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity promising" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

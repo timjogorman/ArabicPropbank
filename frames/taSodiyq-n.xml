@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taSodiyq</id>
+<comment/>
+<frameset cdef="" edef="to believe" id="01" vncls="">
+<role argnum="0" argrole="believer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لا يمكن لأي شخص من تصديق * هذا الكلام</parse>
+<comment/>
+<arg f="" g="for any person" n="0">* لأي شخص</arg>
+<arg f="" g="this talking" n="1">هذا الكلام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing or person believed" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to certify, ratification" id="02" vncls="">
+<role argnum="0" argrole="entity confirming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الرجل بالتصديق * على الوثيقة</parse>
+<comment/>
+<arg f="" g="the man" n="">* الرجل</arg>
+<arg f="" g="on the documintation" n="">على الوثيقة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing being confirmed" vncls="" vntheta=""/>
+<role argnum="2" argrole="benefactive" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Earobid</id>
+<comment/>
+<frameset cdef="" edef="be quarrelsome, be boisterous" id="01" vncls="">
+<role argnum="1" argrole="entity becoming agressive" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو لما يسكر بيعربد * و ما يعرفش راسه من رجله</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoHaj~ib</id>
+<comment>EGYPTIAN ARABIC Framefile based on taHaj~ab</comment>
+<frameset cdef="" edef="to veil oneself, to put on a veil" id="01">
+<role argnum="0" argrole="entity covering" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تحجبت نساء تونس وقطعت الاخبار لرفع الآذان بالتلفزيون لاول مره</parse>
+<comment />
+<arg f="" g="Tunisia women" n="0">نساء تونس</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset taHaj~ab.01</comment>
+<role argnum="1" argrole="whith what" />
+<role argnum="2" argrole="from whom" />
+</frameset>
+</verb>

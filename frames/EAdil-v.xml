@@ -1,0 +1,65 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>EAdil</id>
+<comment>EGYPTIAN ARABIC based on EAdal</comment>
+    <frameset cdef="" edef="to be equivalent, equal" id="01">
+<role argnum="1" argrole="focus of equation" />
+<role argnum="2" argrole="other side of equation" />
+<frame>
+<example>
+<parse>
+(S
+  (NP-VOC
+    (NP
+      (NOUN+CASE_DEF_ACC اخوان)
+      (NP
+        (POSS_PRON_1P نا)
+    (PP-LOC
+      (PREP في)
+      (NP
+        (DET+NOUN_PROP+CASE_DEF_GEN العراق)
+  (PUNC ,)
+  (VP
+    (PSEUDO_VERB ان)
+    (NP-SBJ-1
+      (NP
+        (NOUN+CASE_INDEF_ACC اسيراً)
+        (ADJ+CASE_INDEF_ACC واحداً)
+      (NP-ADV
+        (NOUN لدى)
+        (NP
+          (NP
+            (NOUN اخ)
+          (PUNC ,)
+          (NP
+            (NOUN+CASE_INDEF_GEN جار)
+          (PUNC ,)
+          (CONJ و)
+          (NP
+            (NOUN+CASE_INDEF_GEN شقيق)
+            (ADJ+CASE_INDEF_GEN عربي)
+    (PUNC ,)
+    (S
+      (VP
+        (IV3MS+IV+IVSUFF_MOOD:I يعادل)
+        (NP-SBJ
+          (-NONE- *-1)
+        (NP-OBJ
+          (NOUN+CASE_DEF_ACC اسر)
+          (NP
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN امة)
+            (PP
+              (PREP ب)
+              (NP
+                (ADJP
+                  (ADJ+CASE_DEF_GEN كامل)
+                  (NP
+                    (POSS_PRON_3FS ها)
+  (PUNC .)
+</parse>
+<arg f="" g="He" n="1">-NONE- *-1&lt; اسيراً واحداً لدى اخ جار</arg>
+<arg f="" g="the imprisonment of an entire nation" n="2">اسر أمة بكاملها</arg>
+</example>
+</frame>
+<comment>Based on roleset EAdal.01</comment></frameset>
+</verb>

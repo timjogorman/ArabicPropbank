@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sar~aE</id>
+
+<frameset cdef="" edef="to speed up, to accelerate" id="01" vncls="Eaj~ala-1">
+<role argnum="0" argrole="causer" vncls="Eaj~ala-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وِ)
+    (VP
+      (PV+PVSUFF_SUBJ:1S سَرَعت)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_SG خَطوَة)
+        (NP
+          (POSS_PRON_1S تِي)))
+      (PP-PRP
+        (PREP عَ)
+        (NP
+          (NOUN شَأْن)
+          (S
+            (VP
+              (IV1S+IV أَلْحَق)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NP
+                  (DET+NOUN المَوضُوع))
+                (PP-TMP
+                  (PREP فِي)
+                  (NP
+                    (ADJP
+                      (ADJ_NUM أَوِّل)
+                      (NP
+                        (POSS_PRON_3MS ُه)))))))))))))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="my step" n="1">خطوتي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things to speed" vncls="Eaj~ala-1" vntheta="theme"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

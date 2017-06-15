@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofaraz</id>
+
+<frameset cdef="" edef="to be come seperated, isolated" id="01" vncls="">
+<role argnum="0" argrole="entity separating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انفرزت الأبقار عن الأغنام</parse>
+
+<arg f="" g="cows" n="1">الأبقار</arg>
+<arg f="" g="from sheep" n="2">عن الأغنام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things separated" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sAyib</id>
+
+<frameset cdef="" edef="leaving, leaver" id="01" vncls="">
+<role argnum="1" argrole="leaver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>و بعد كده كنت نظام بقى اروح البيت تروح * سايبانى و داخلة جوه و حاجات افلام بقى مش عايزة اقول_لك</parse>
+
+<arg f="" g="she" n="1">*</arg>
+<arg f="" g="me" n="2">ى</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="thing" vncls="" vntheta=""/>
+<role argnum="3" argrole="attribute to Arg2" vncls="" vntheta=""/>
+
+<comment>Eg</comment>
+</frameset>
+
+<frameset cdef="" edef="letting someone to do something, permit" id="02" vncls="">
+<role argnum="0" argrole="entity letting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الأم سايبة * ولادها يلعبوا في الشارع</parse>
+
+<arg f="" g="the mother" n="0">* الأم</arg>
+<arg f="" g="hir children" n="1">ولادها</arg>
+<arg f="" g="to play in the street" n="2">يلعبوا في الشارع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity doing something" vncls="" vntheta=""/>
+<role argnum="2" argrole="things done" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

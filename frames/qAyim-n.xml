@@ -1,0 +1,150 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>qAyim</id>
+<comment>EGYPTIAN ARABIC based on qAm-u
+Framefile based on qAm</comment>
+    <frameset cdef="" edef="to carry out or to undertake" id="01" vncls="">
+<role argnum="0" argrole="implementer" vncls="" vntheta="" />
+<role argnum="1" argrole="implemented" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>(S
+  (NP-ADV
+    (PUNC &quot;)
+    (NOUN+CASE_DEF_ACC رغم)
+    (NP
+      (NP
+        (NOUN+CASE_DEF_GEN مرور)
+        (NP
+          (NP
+            (NOUN+CASE_INDEF_GEN عام))
+          (CONJ و)
+          (NP
+            (NOUN_QUANT+CASE_DEF_GEN نصف)
+            (NP
+              (NOUN+CASE_INDEF_GEN عام)))))
+      (PP
+        (PREP على)
+        (NP
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN عملية)
+            (NP
+              (NOUN+CASE_DEF_GEN ترسيم)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الحدود)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الدولية)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الجنوبية))))
+          (SBAR
+            (WHNP-1
+              (REL_PRON التي))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS قامت)
+                (PP-CLR
+                  (PREP ب)
+                  (NP
+                    (NP
+                      (PRON_3FS ها))
+                    (NP
+                      (-NONE- *T*-1))))
+                (NP-SBJ
+                  (DET+NOUN+CASE_DEF_NOM الامم)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM المتحدة))
+                (NP-TMP
+                  (NOUN+CASE_DEF_ACC اثر)
+                  (NP
+                    (NP
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN الاندحار)
+                        (DET+ADJ+CASE_DEF_GEN الاسرائيلي))
+                      (PP
+                        (PREP عن)
+                        (NP
+                          (DET+NOUN+CASE_DEF_GEN الجنوب)
+                          (DET+ADJ+CASE_DEF_GEN اللبناني))))</parse>
+<arg f="بِ-" g="UN" n="0">الامم المتحدة</arg>
+<arg f="" g="It" n="1">بها</arg>
+<arg f="tmp" g="after the Israeli withdrawal from southern Lebanon" n="m">اثر الاندحار الاسرائيلي عن الجنوب اللبناني</arg>
+<V />
+
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+
+
+<comment>تحمل /تولى
+Based on roleset qAm-u.01
+Based on roleset qAm.01</comment>
+</frameset>
+<frameset cdef="" edef="to start or to happen" id="02" vncls="">
+<role argnum="1" argrole="event" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PRT
+      (VERB_PART قد))
+    (IV3MS+IV+IVSUFF_MOOD:I يكون)
+    (PP-PRD
+      (PREP من)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الصعب)))
+    (SBAR-SBJ
+      (SUB_CONJ ان)
+      (S
+        (VP
+          (IV3FS+IV+IVSUFF_MOOD:J تظل)
+          (NP-SBJ
+            (NP
+              (DET+NOUN+CASE_DEF_NOM الحدود)
+              (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM العربية))
+            (NP-ADV
+              (NOUN+CASE_DEF_ACC مع)
+              (NP
+                (NOUN_PROP+CASE_INDEF_GEN اسرائيل))))
+          (ADJP-PRD
+            (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC هادئة))
+          (SBAR-ADV
+            (SUB_CONJ اذا)
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS قامت)
+                (NP-SBJ
+                  (NP
+                    (NOUN+CASE_INDEF_NOM حرب))
+                  (NP-ADV
+                    (NOUN+CASE_DEF_ACC بين)
+                    (NP
+                      (DET+NOUN+NSUFF_MASC_PL_GEN الاسرائيليين)
+                      (CONJ و)
+                      (DET+NOUN+NSUFF_MASC_PL_GEN الفلسطينيين)))))))))))
+  (PUNC .))</parse>
+<arg f="" g="a war between the Israelis and the Palestinians" n="1">اذا قامت حرب بين الاسرائيليين و الفلسطينيين .</arg>
+
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+
+
+<comment>بدأ
+Based on roleset qAm-u.02
+Based on roleset qAm.02</comment>
+</frameset>
+</verb>

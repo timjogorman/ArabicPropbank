@@ -1,0 +1,79 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fAt</id>
+
+    <frameset cdef="" edef="past" id="01" vncls="">
+<role argnum="1" argrole="thing past" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>بالظبط هو هو كان و كان !إيه مش عايزة اقول_لك إن كتير قوى كان نازل من غير الدبلة ده يوم الجمعة اللى فاتت * جه_لى اساسا مكانش لابس الدبلة</parse>
+
+<arg f="" g="friday" n="1">*&gt; الجمعة</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment>Eg
+Based on roleset fAt-u.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to miss, to forget" id="02" vncls="">
+<role argnum="0" argrole="entity forgeting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فاته أن يأخذ معه الرسائل</parse>
+
+<arg f="" g="he" n="0">ه</arg>
+<arg f="" g="to take the letters with him" n="1">أن يأخذ معه الرسائل</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="forgetting what" vncls="" vntheta=""/>
+
+<comment>Based on roleset fAt-u.02</comment>
+</frameset>
+<frameset cdef="" edef="to enter, to pass by" id="03" vncls="">
+<role argnum="0" argrole="entity entering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse/>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="destination" vncls="" vntheta=""/>
+<comment>Based on roleset fAt-u.03</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on fAt-u</comment>
+</verb>

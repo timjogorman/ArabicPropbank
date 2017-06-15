@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lahaT</id>
+<comment/>
+<frameset cdef="" edef="to swallow" id="01" vncls="">
+<role argnum="0" argrole="entity swallowing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لهط الطفل الطعام كله</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="the whole food" n="1">الطعام كله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things swallowed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to slap or cuff" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لهط المعلم الطالب على وجهه</parse>
+<comment/>
+<arg f="" g="the teacher" n="0">المعلم</arg>
+<arg f="" g="the student" n="1">الطالب</arg>
+<arg f="" g="on his face" n="3">على وجهه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what (usually hand)" vncls="" vntheta=""/>
+<role argnum="3" argrole="location" vncls="" vntheta=""/>
+</frameset>
+</verb>

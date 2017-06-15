@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sawA</id>
+<comment/>
+<frameset cdef="" edef="worth to (multi word expression), equal" id="01" vncls="">
+<role argnum="1" argrole="entity worth" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الحاجات دي ما تسواش * تفكر فيها</parse>
+<comment/>
+<arg f="" g="these things" n="1">* الحاجات دي</arg>
+<arg f="" g="to thing about it" n="2">تفكر فيها</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="worth what" vncls="" vntheta=""/>
+</frameset>
+</verb>

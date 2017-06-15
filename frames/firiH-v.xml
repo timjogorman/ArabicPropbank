@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>firiH</id>
+<frameset cdef="" edef="to rejoice" id="01" vncls="">
+<role argnum="0" argrole="entity rejoicing" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ ف)
+  (VP
+    (PRT
+      (JUS_PART ل))
+    (IV3MS+IV+IVSUFF_MOOD:J يفرح)
+    (NP-SBJ
+      (DET+NOUN+NSUFF_MASC_PL_NOM العراقيون)))
+  (PUNC .))</parse>
+<arg f="" g="the Iraqis" n="0">العراقيون</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset fariH-a-v.01</comment>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on fariH-a-v</comment>
+</verb>

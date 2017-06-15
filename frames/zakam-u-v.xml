@@ -1,0 +1,100 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zakam-u</id>
+
+<frameset cdef="" edef="to catch or take cold" id="01" vncls="">
+<role argnum="1" argrole="entity catching cold" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(NOUN دِماء)
+                                      (ADJ+NSUFF_FEM_SG جِدِيدَة))
+                                    (SBAR
+                                      (WHNP-4
+                                        (-NONE- 0))
+                                      (S
+                                        (VP
+                                          (IV3FS+IV تَضُخّ)
+                                          (NP-SBJ
+                                            (-NONE- *T*-4))
+                                          (PP
+                                            (PREP فِي)
+                                            (NP
+                                              (NOUN شُرْيان)
+                                              (NP
+                                                (DET+NOUN+NSUFF_FEM_SG الدَولَة))))
+                                          (NP-TMP
+                                            (NOUN بَعْد)
+                                            (SBAR
+                                              (SUB_CONJ أَن)
+                                              (S
+                                                (VP
+                                                  (PV+PVSUFF_SUBJ:2FS أَزكمَت)
+                                                  (NP-SBJ
+                                                    (DET+NOUN الأُنُوف))
+                                                  (NP-OBJ
+                                                    (NOUN+NSUFF_FEM_SG رائِحَة)
+                                                    (NP
+                                                      (NP
+                                                        (NP
+                                                          (NP
+                                                            (DEM_PRON_MS هَذا))
+                                                          (NP
+                                                            (DET+NOUN الدَمّ)))
+                                                        (ADJP
+                                                          (DET+ADJ الفاسِد)))
+                                                      (SBAR
+                                                        (WHNP-7
+                                                          (REL_PRON الَّذِي))
+                                                        (S
+                                                          (VP
+                                                            (PV+PVSUFF_SUBJ:3MS ظَلَّ)
+                                                            (NP-SBJ-6
+                                                              (-NONE- *T*-7))
+                                                            (S
+                                                              (VP
+                                                                (NO_FUNC يسرى)
+                                                                (NP-SBJ
+                                                                  (-NONE- *-6))
+                                                                (PP
+                                                                  (PREP فِي)
+                                                                  (NP
+                                                                    (NOUN عَرُوق)
+                                                                    (NP
+                                                                      (POSS_PRON_3FS ها))))</parse>
+
+<arg f="" g="noses" n="1">الأُنُوف</arg>
+<arg f="" g="the smell of this rutten blood" n="2">رائِحَة هَذا الدَمّ الفاسِد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to fill" id="02" vncls="">
+<role argnum="0" argrole="entity filling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زكم الرجل القربة بالماء</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the canteen" n="1">القربة</arg>
+<arg f="" g="with water" n="2">بالماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity filled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

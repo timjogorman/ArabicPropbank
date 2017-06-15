@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>muxotaSar</id>
+<comment/>
+<frameset cdef="" edef="abbreviated, abridged, brief" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قدم  المدير شرحا مختصرا * عن العمل</parse>
+<comment/>
+<arg f="" g="the manager" n="0">المدير</arg>
+<arg f="" g="a short brief" n="1">شرحا مختصرا</arg>
+<arg f="" g="about work" n="2">عن العمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the brief" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

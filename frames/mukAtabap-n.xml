@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mukAtabap</id>
+<comment/>
+<frameset cdef="" edef="correspondence, to exchange of letters" id="01" vncls="">
+<role argnum="0" argrole="writer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الرجل بمكاتبة * أصدقائه حول موضوع اللعبة</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="his friends" n="1">أصدقائه</arg>
+<arg f="" g="about the game" n="2">حول موضوع اللعبة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="about, subject" vncls="" vntheta=""/>
+</frameset>
+</verb>

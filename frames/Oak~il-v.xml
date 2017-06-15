@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Oak~il</id>
+<comment>EGYPTIAN ARABIC based on Oak~al</comment>
+    <frameset cdef="" edef="to feed, to give to eat" id="01" vncls="">
+<role argnum="0" argrole="feeder" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (IV3MS+IV يَعْنِي)
+      (NP-SBJ
+        (-NONE- *))
+      (SBAR
+        (-NONE- 0)
+        (S
+          (VP
+            (PRT
+              (PROG_PART بِ))
+            (IV3MS+IV يأَكِّل)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-DTV
+              (IVSUFF_DO:1P نا))
+            (NP-OBJ
+              (DET+NOUN العَسَل)
+              (DET+ADJ المَسْمُوم))
+            (PP
+              (PREP مِن)
+              (NP
+                (NOUN غِير)
+                (SBAR
+                  (SUB_CONJ ما)
+                  (S
+                    (VP
+                      (IV1P+IV نِحِسّ)
+                      (NP-SBJ
+                        (-NONE- *)))))))))))))</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="poisoned honey" n="2">العَسَل المَسْمُوم</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Oak~al.01</comment>
+<role argnum="1" argrole="entity feeded" vncls="" vntheta="" />
+<role argnum="2" argrole="the food" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qatim</id>
+<comment/>
+<frameset cdef="" edef="to darken, to become dark" id="01" vncls="">
+<role argnum="1" argrole="entity becoming dark" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قتم الجو</parse>
+<comment/>
+<arg f="" g="the weather" n="1">الجو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,418 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>rujuwE</id>
+
+<frameset cdef="" edef="to come back" id="01" vncls="">
+<role argnum="0" argrole="the entity coming back" vncls="" vntheta="" />
+<role argnum="1" argrole="destination" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (S
+    (CONJ و)
+    (NP-TMP
+      (NOUN+CASE_DEF_ACC بعد)
+      (SBAR
+        (SUB_CONJ ما)
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3FS سرقت)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NP
+                (NOUN+NSUFF_FEM_PL+CASE_INDEF_ACC مجوهرات))
+              (PP
+                (PREP ل)
+                (NP
+                  (PRON_3FS ها))))))))
+    (PUNC ,)
+    (VP
+      (PV+PVSUFF_SUBJ:3FS رجعت)
+      (NP-SBJ
+        (-NONE- *))
+      (PP-DIR
+        (PREP الى)
+        (NP
+          (NOUN+CASE_DEF_GEN منزل)
+          (NP
+            (POSS_PRON_3FS ها))))))
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3FS ابدلت)
+      (NP-SBJ
+        (NP
+          (NOUN+CASE_DEF_ACC ثياب)
+          (NP
+            (POSS_PRON_3FS ها)))
+        (SBAR
+          (WHNP-1
+            (-NONE- 0))
+          (S
+            (VP
+              (DET+ADJ.VN+NSUFF_FEM_SG+CASE_DEF_ACC الملطخة)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (-NONE- *-1))
+              (PP-CLR
+                (PREP ب)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN الدم)))))))))
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3FS عادت)
+      (NP-SBJ
+        (-NONE- *))
+      (PP-CLR
+        (PREP الى)
+        (NP
+          (NP
+            (NOUN+CASE_DEF_GEN عمل)
+            (NP
+              (POSS_PRON_3FS ها)))
+          (PP-LOC
+            (PREP في)
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN عيادة)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الدكتور)
+                (NOUN_PROP جمال))))))
+      (PP-PRP
+        (PREP ل)
+        (NP
+          (NOUN+CASE_DEF_GEN ابعاد)
+          (NP
+            (NP
+              (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الشبهات))
+            (SBAR
+              (WHNP-2
+                (REL_PRON التي))
+              (S
+                (VP
+                  (PV+PVSUFF_SUBJ:3FS كانت)
+                  (VP
+                    (PRT
+                      (VERB_PART قد))
+                    (PV+PVSUFF_SUBJ:3FS حامت)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-ADV
+                      (NOUN+CASE_DEF_ACC حول)
+                      (NP
+                        (NP
+                          (PRON_3FS ها))
+                        (NP
+                          (-NONE- *T*-2)))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="-NONE-" n="0">*</arg>
+<arg f="" g="to her home" n="1">الى منزلها</arg>
+
+
+
+<comment />
+</example>
+
+
+
+<comment />
+</frame>
+
+<role argnum="2" argrole="from where" vncls="" vntheta="" />
+
+
+<comment>Based on roleset rijiE.01
+Based on roleset rijiE-v.01</comment>
+</frameset>
+<frameset cdef="" edef="change his mind on a decision" id="02" vncls="">
+<role argnum="0" argrole="entity changing his mind" vncls="" vntheta="" />
+<role argnum="1" argrole="decision" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>رجع الرجل عن قراره</parse>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on his decision" n="1">عن قراره</arg>
+
+
+
+<comment />
+</example>
+
+
+
+<comment />
+</frame>
+
+
+
+<comment>Based on roleset rijiE.02
+Based on roleset rijiE-v.02</comment>
+</frameset>
+<frameset cdef="" edef="to refer to (تعود الى)" id="03" vncls="">
+<role argnum="1" argrole="things refering" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>(CONJ وِ)
+    (ADVP
+      (ADV كَمان))
+    (NP-TPC-1
+      (DET+NOUN السَبَب)
+      (DET+ADJ الرَئِيسِي))
+    (VP
+      (IV3MS+IV يِرْجَع)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (PP-CLR
+        (PREP اِلَى)
+        (NP
+          (NP
+            (DET+NOUN المَجْلِس)
+            (DET+ADJ العَسْكَرِي))
+          (SBAR
+            (SBAR
+              (WHNP-2
+                (REL_PRON اللِي))
+              (S
+                (ADJP-PRD
+                  (ADJ ناهِب)
+                  (NP
+                    (DET+NOUN البَلَد)))
+                (NP-SBJ
+                  (-NONE- *T*-2))))
+            (CONJ وِ)</parse>
+
+<arg f="" g="main reason" n="1">*-1 السَبَب الرَئِيسِي</arg>
+<arg f="" g="to the Military Council" n="2">اِلَى المَجْلِس العَسْكَرِي</arg>
+
+
+<comment />
+</example>
+
+
+
+<comment />
+</frame>
+
+<role argnum="2" argrole="refering to" vncls="" vntheta="" />
+<role argnum="3" argrole="in what" vncls="" vntheta="" />
+
+
+<comment>Based on roleset rijiE.03
+Based on roleset rijiE-v.03</comment>
+</frameset>
+
+<frameset cdef="" edef="to attribute (بسبب)" id="04" vncls="">
+<role argnum="0" argrole="entity attributing" vncls="" vntheta="" />
+<role argnum="1" argrole="entity attributed" vncls="" vntheta="" />
+<role argnum="2" argrole="entity attributed to" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(SBAR-ADV
+  (SUB_CONJ اذ)
+  (S
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يُرجع)
+      (NP-SBJ
+        (DET+NOUN+CASE_DEF_NOM الكاتب))
+      (NP-OBJ
+        (NP
+          (NOUN+CASE_DEF_ACC اصول)
+          (NP
+            (NP
+              (DEM_PRON_F هذه))
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الازمة))))
+        (PUNC -)
+        (CONJ او)
+        (NP
+          (PP
+            (PREP على)
+            (NP
+              (DET+ADJ_COMP+CASE_DEF_GEN الأقل)))
+          (NOUN+CASE_DEF_ACC تفاقم)
+          (NP
+            (POSS_PRON_3FS ها))))
+      (PUNC -)
+      (PP-CLR
+        (PREP الى)
+        (NP
+          (NP
+            (NOUN+CASE_DEF_GEN اندلاع)
+            (NP
+              (NP
+                (DET+NOUN+CASE_DEF_GEN النزاع))
+              (NP-ADV
+                (NOUN+CASE_DEF_ACC بين)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN السنّة)
+                  (CONJ و)
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الشيعة)))))
+          (PP-TMP
+            (PUNC -LRB-)
+            (PREP في)
+            (NP
+              (DET+NOUN+CASE_DEF_GEN القرن)
+              (DET+ADJ_NUM+CASE_DEF_GEN الثامن))
+            (PUNC -RRB-))))))
+  (PUNC .))</parse>
+<arg f="" g="" n="0">الكاتب</arg>
+<arg f="" g="the origin of this crisis or at least its exacerbation," n="1">أصول هذه الأزمة أو على الأقل تفاقمها</arg>
+<arg f="" g="to the outbreak of the conflict between Sunnis and Shiites in the eighth century" n="2">إلى اندلاع النزاع بين السنة و الشيعة في القرن الثامن</arg>
+
+
+
+
+
+<comment />
+</example>
+
+
+
+
+
+<comment />
+</frame>
+
+
+
+
+
+<comment>Based on roleset OarojaE.01
+Based on roleset rijiE-v.04</comment>
+</frameset>
+
+<frameset cdef="" edef="to do again (multi word expression)" id="05" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وِ)
+    (S
+      (NP-TPC-2
+        (DET+NOUN المَوضُوع))
+      (VP
+        (IV3MS+IV ياخُد)
+        (NP-SBJ
+          (-NONE- *T*-2))
+        (PP
+          (PREP لِ)
+          (NP
+            (PRON_3MS ُه)))
+        (NP-TMP
+          (NOUN_QUANT كام)
+          (NP
+            (NOUN يَوم)))))
+    (CONJ وِ)
+    (S
+      (NP-TPC-1
+        (DET+NOUN الناس))
+      (VP
+        (IV3FS+IV تِرْجَع)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (S-ADV
+          (VP
+            (IV3FS+IV تِفَكَّر)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-ADV
+              (ADJ تانِي))
+            (PP
+              (PREP فِي)
+              (NP
+                (NP
+                  (DET+NOUN الغَلاء))
+                (CONJ وِ)
+                (NP
+                  (NOUN هُرُوب)
+                  (NP
+                    (NOUN_PROP عِصام)
+                    (DET+NOUN_PROP الحَضَرِي)))))))))))</parse>
+
+<arg f="" g="people" n="">* الناس</arg>
+<arg f="" g="to think again" n="">تِفَكَّر تانِي</arg>
+
+<comment />
+</example>
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="things done" vncls="" vntheta="" />
+
+<comment>ARZ
+Based on roleset rijiE-v.05</comment>
+</frameset>
+
+<frameset cdef="" edef="to become , to go back to an old nature (multi word expression)" id="06" vncls="">
+<role argnum="0" argrole="entity becoming" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>ياريت البنت ترجع * زي ما كانت قبل</parse>
+
+<arg f="" g="the girl" n="0">* البنت</arg>
+<arg f="" g="as she was before" n="1">زي ما كانت قبل</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="becoming what" vncls="" vntheta="" />
+<comment>Based on roleset rijiE-v.06</comment>
+</frameset>
+
+<frameset cdef="" edef="to return something" id="07" vncls="">
+<role argnum="0" argrole="entity returning" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>أرجع الرجل الكتب الى المكتبة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the books" n="1">الكتب</arg>
+<arg f="" g="to the library" n="2">الى المكتبة</arg>
+
+
+<comment />
+</example>
+
+
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="things returned" vncls="" vntheta="" />
+<role argnum="2" argrole="destination , to whom" vncls="" vntheta="" />
+
+
+
+<comment>Based on roleset OarojaE.02
+Based on roleset rijiE-v.07</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC Framefile based on rijiE-v</comment>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEaX~ab</id>
+<comment/>
+<frameset cdef="" edef="to suffer, to feel pain" id="01">
+<role argnum="0" argrole="entity suffering"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نحن نتعذب * من الحب ونسكت</parse>
+<comment/>
+<arg f="" g="we" n="0">* نحن</arg>
+<arg f="" g="from love" n="1">من الحب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="cause"/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEa$~im</id>
+<comment/>
+<frameset cdef="" edef="solicit, to hope for something from someone" id="01" vncls="">
+<role argnum="0" argrole="entity hoping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا اتعشمت * فيك انك تساعدني</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="in you" n="1">فيك</arg>
+<arg f="" g="that you will help me" n="2">انك تساعدني</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

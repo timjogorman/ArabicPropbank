@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inofaras</id>
+
+<frameset cdef="" edef="to be eaten quickly (after being killed)" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انفرس الأرنب في خمس دقائق</parse>
+
+<arg f="" g="the rabbit" n="1">الأرنب</arg>
+<arg f="tmp" g="in five minutes" n="m">في خمس دقائق</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

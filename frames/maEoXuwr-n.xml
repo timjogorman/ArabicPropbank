@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maEoXuwr</id>
+<comment/>
+<frameset cdef="" edef="excused, forgiven" id="01" vncls="">
+<role argnum="0" argrole="forgiver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الرجل معذور * في تصرفاته</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الرجل</arg>
+<arg f="" g="in his behave" n="2">في تصرفاته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="forgived" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

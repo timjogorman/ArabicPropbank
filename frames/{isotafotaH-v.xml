@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotafotaH</id>
+
+<frameset cdef="" edef="to begin something" id="01" vncls="">
+<role argnum="0" argrole="entity starting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استفتح * الجلسة بالذكر الحكيم</parse>
+
+<arg f="" g="he" n="0">*</arg>
+<arg f="" g="session" n="1">الجلسة</arg>
+<arg f="" g="with the recitation of the Holy Book" n="2">بالذكر الحكيم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing started" vncls="" vntheta=""/>
+<role argnum="2" argrole="sarting with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

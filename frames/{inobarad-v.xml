@@ -1,0 +1,71 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobarad</id>
+
+<frameset cdef="" edef="to become hailstones (water), be cold" id="01" vncls="">
+<role argnum="1" argrole="water" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبرد الماء بالثلاجة</parse>
+
+<arg f="" g="water" n="1">الماء</arg>
+<arg f="" g="with the refrigirator" n="2">بالثلاجة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="instrument, cause" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be sent by mail" id="02" vncls="">
+<role argnum="0" argrole="sender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبرد الهدية بالبريد</parse>
+
+<arg f="" g="the gift" n="1">الهدية</arg>
+<arg f="" g="by mail" n="2">بالبريد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thins being sent" vncls="" vntheta=""/>
+<role argnum="2" argrole="insturment, how" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be rasped or grated" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبرد التمثال بالمبرد</parse>
+
+<arg f="" g="the statue" n="1">التمثال</arg>
+<arg f="" g="with a rasper" n="2">بالمبرد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thins rasped" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

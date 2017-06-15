@@ -1,0 +1,109 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gal~-u</id>
+<comment/>
+<frameset cdef="" edef="to handcuff or chain" id="01">
+<role argnum="0" argrole="entity chaining"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غل * يديه و قدميه بقيود من حديد</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="with iron chains" n="1">بقيود من حديد</arg>
+<arg f="" g="his hands and his feet" n="2">يديه و قدميه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what"/>
+<role argnum="2" argrole="chained entity"/>
+</frameset>
+<frameset cdef="" edef="to betray , to be unfair" id="02">
+<role argnum="0" argrole="entity betraying"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غل الرجل اخوته في حصتهم</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in their share" n="1">في حصتهم</arg>
+<arg f="" g="his brothers" n="2">اخوته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what"/>
+<role argnum="2" argrole="beneficiary"/>
+</frameset>
+<frameset cdef="" edef="to intervene, to go between" id="03">
+<role argnum="1" argrole="entity going between"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غل الماء بين الأشجار</parse>
+<comment/>
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="between the trees" n="2">بين الأشجار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="between what"/>
+</frameset>
+<frameset cdef="" edef="to be thirsty" id="04">
+<role argnum="1" argrole="entity being thirsty"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غل الولد</parse>
+<comment/>
+<arg f="" g="the boy" n="1">الولد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to enter in" id="05">
+<role argnum="0" argrole="entity entering"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غل * في البلاد</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="in the country" n="1">في البلاد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="where"/>
+</frameset>
+<frameset cdef="" edef="to hate, to bear grudge against" id="06">
+<role argnum="0" argrole="entity hating (idiomatic)"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غل صدره  على أعدائه</parse>
+<comment/>
+<arg f="" g="NONE" n="0">NONE</arg>
+<arg f="" g="on his enemies" n="1">على أعدائه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="hated one"/>
+</frameset>
+</verb>

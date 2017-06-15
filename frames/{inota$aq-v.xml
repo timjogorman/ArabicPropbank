@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inota$aq</id>
+<comment/>
+<frameset cdef="" edef="inhale through nose" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انتشق الماء اثناء الوضوء</parse>
+<comment/>
+<arg f="" g="he" n="0">*</arg>
+<arg f="" g="water" n="1">الماء</arg>
+<arg f="tmp" g="during ablution" n="m">اثناء الوضوء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="theme" vncls="" vntheta=""/>
+</frameset>
+</verb>

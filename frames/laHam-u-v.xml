@@ -1,0 +1,78 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laHam-u</id>
+
+<frameset cdef="" edef="to weld or solder" id="01" vncls="">
+<role argnum="0" argrole="entity welding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>لحم الرجل الباب الى الجدار</parse>
+
+<arg f="" g="the man" n="0">* الرجالة</arg>
+<arg f="" g="the door" n="1">الباب</arg>
+
+<comment/>
+<arg f="" g="to the wall" n="2">الى الجدار</arg>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things welded" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to remove the meat from the bone" id="02" vncls="">
+<role argnum="0" argrole="remover" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لحم الرجل العظم</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the bone" n="2">العظم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things removed (usualy meat)" vncls="" vntheta=""/>
+<role argnum="2" argrole="place removed from (bone)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to feed meat" id="03" vncls="">
+<role argnum="0" argrole="feeder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لحم * قومه</parse>
+
+<arg f="" g="he" n="0">*? NONE</arg>
+<arg f="" g="his people" n="1">قومه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity fed" vncls="" vntheta=""/>
+<role argnum="2" argrole="food (meat)" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

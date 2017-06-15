@@ -1,0 +1,78 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>rafal</id>
+<comment>EGYPTIAN ARABIC based on rafal-u</comment>
+    <frameset cdef="" edef="to strut, to swagger" id="01" vncls="">
+<role argnum="1" argrole="entity strutting" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (PP-PRP
+    (PREP لِ)
+    (SBAR
+      (SUB_CONJ أَنُّ)
+      (S
+        (NP-SBJ
+          (PRON_3P هُم))
+        (PP-PRD
+          (PREP عَلَى)
+          (NP
+            (NOUN يَقِين)
+            (SBAR
+              (SUB_CONJ أَنّ)
+              (S
+                (NP-TPC-1
+                  (NP
+                    (NP
+                      (DEM_PRON_MS هَذا))
+                    (NP
+                      (DET+NOUN الحَيّ)
+                      (DET+ADJ الراقِي)))
+                  (SBAR
+                    (WHNP-2
+                      (X
+                        (REL_PRON الَّذِي)))
+                    (S
+                      (VP
+                        (IV3MS+IV يَرْفُل)
+                        (NP-SBJ
+                          (X
+                            (NP
+                              (NO_FUNC ساكنيه))
+                            (NP
+                              (-NONE- *T*-2))))
+                        (PP
+                          (PREP فِي)
+                          (NP
+                            (DET+NOUN العِزّ)
+                            (CONJ وِ)
+                            (DET+NOUN النَعِيم)))))))
+                (VP
+                  (PRT
+                    (FUT_PART سَوْفَ))
+                  (NO_FUNC يجدون)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (PP-LOC
+                    (PREP فِي)
+                    (NP
+                      (NP
+                        (PRON_3MS ه))
+                      (NP
+                        (-NONE- *T*-1))))
+                  (NP-OBJ
+                    (DET+NOUN الرِزْق)
+                    (DET+ADJ الوَفِير)))))))))
+    (PUNC .)))</parse>
+<comment />
+<arg f="" g="occupants" n="1">ساكنيه</arg>
+<arg f="" g="in splendor and bliss" n="2">في العز والنعيم</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset rafal-u.01</comment>
+<role argnum="2" argrole="in what" vncls="" vntheta="" />
+</frameset>
+</verb>

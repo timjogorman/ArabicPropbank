@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tahAtar</id>
+<comment/>
+<frameset cdef="" edef="to fling false accusations at each other" id="01" vncls="">
+<role argnum="0" argrole="entity disputing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تهاتر الشقيقان حول موضوع الخسارة</parse>
+<comment/>
+<arg f="" g="the two brothers" n="0">الشقيقان</arg>
+<arg f="" g="about the loss subject" n="2">حول موضوع الخسارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom (if separated from ARG0 )" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be contradictory or conflicting" id="02" vncls="">
+<role argnum="1" argrole="things contradicting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تهاترت الشهادتان</parse>
+<comment/>
+<arg f="" g="testimonies" n="1">الشهادتان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

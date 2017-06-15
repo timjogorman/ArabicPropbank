@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maDoruwb</id>
+<comment/>
+<frameset cdef="" edef="beatin, struck" id="01" vncls="">
+<role argnum="0" argrole="entity beating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل مضروب * على راسه بالطوب</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the man" n="1">الراجل</arg>
+<arg f="" g="on his head" n="2">على راسه</arg>
+<arg f="" g="with a rock" n="3">بالطوب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity beated" vncls="" vntheta=""/>
+<role argnum="2" argrole="what part" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="shot, hit by fire" id="02" vncls="">
+<role argnum="0" argrole="shooter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دول مضروبين * بالرصاص من الجيش</parse>
+<comment/>
+<arg f="" g="them" n="2">دول</arg>
+<arg f="" g="with bullets" n="1">بالرصاص</arg>
+<arg f="" g="by the army" n="0">من الجيش</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things shot" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="decayed, rotten" id="03" vncls="">
+<role argnum="1" argrole="things rotten" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البيض اللي جبته كان مضروب * و نتن</parse>
+<comment/>
+<arg f="" g="the egg" n="1">البيض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

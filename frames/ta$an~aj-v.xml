@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ta$an~aj</id>
+<comment/>
+<frameset cdef="" edef="to suffer from a spasm or cramp" id="01">
+<role argnum="0" argrole="things got spasm"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تشنجت عضلات رقبة أخي</parse>
+<comment/>
+<arg f="" g="neck muscules" n="1">عضلات رقبة</arg>
+<arg f="" g="my brother" n="2">أخي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity affected"/>
+</frameset>
+<frameset cdef="" edef="to freeze and not able to move (multi word expression)" id="02">
+<role argnum="0" argrole="entity freezing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تشنج الصبي عند سماعه الخبر المؤلم</parse>
+<comment/>
+<arg f="" g="the child" n="0">الصبي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$Awir</id>
+
+    <frameset cdef="" edef="to point" id="01" vncls="">
+<role argnum="0" argrole="pointer" vncls="" vntheta=""/>
+<role argnum="1" argrole="pointed to" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>بس آنت تشاور علي الشقة اللي أنت عايزها</parse>
+<arg f="" g="it" n="0">-NONE-</arg>
+<arg f="" g="at the apartment" n="1">علي الشقة</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset Oa$~ar.01</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on Oa$~ar</comment>
+</verb>

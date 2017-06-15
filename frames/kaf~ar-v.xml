@@ -1,36 +1,102 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>kaf~ar</id>
-    <frameset cdef="" edef="to expiate" id="01">
-        <role argnum="0" argrole="sinner"/>
-        <role argnum="1" argrole="sin"/>
-        <frame>
-            <example>
-                <parse>
-                    (NP-TMP
-                    (NOUN+CASE_DEF_ACC قبل)
-                    (SBAR
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
+<id>kaf~ar</id>
+<frameset cdef="" edef="to expiate" id="01" vncls="">
+<role argnum="0" argrole="sinner" vncls="" vntheta=""/>
+<role argnum="1" argrole="sin" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(NP-TMP
+              (NOUN+CASE_DEF_ACC قبل)
+              (SBAR
+                (SBAR
+                  (SUB_CONJ ان)
+                  (S
                     (VP
-                    (IV3MS+IV+IVSUFF_MOOD:S يكفّر)
-                    (NP-SBJ
-                    (NOUN+CASE_DEF_NOM ابن)
-                    (NP
-                    (POSS_PRON_3FS ها)))
-                    (PP-CLR
-                    (PREP عن)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الخطيئة)))
-                    (PP-LOC
-                    (PREP على)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الصليب))))))
-                </parse>
-                <arg f="" g="her son" n="0">ابنها</arg>
-                <arg f="" g="her sin" n="1">عن الخطيئة</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (IV3MS+IV+IVSUFF_MOOD:S يكفّر)
+                      (NP-SBJ
+                        (NOUN+CASE_DEF_NOM ابن)
+                        (NP
+                          (POSS_PRON_3FS ها)))
+                      (PP-CLR
+                        (PREP عن)
+                        (NP
+                          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الخطيئة)))
+                      (PP-LOC
+                        (PREP على)
+                        (NP
+                          (DET+NOUN+CASE_DEF_GEN الصليب))))))</parse>
+<arg f="" g="her son" n="0">ابنها</arg>
+<arg f="" g="her sin" n="1">عن الخطيئة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to accuse of unbelief" id="02" vncls="">
+<role argnum="0" argrole="accuser" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(WHADVP
+        (INTERROG_ADV لِيه))
+      (NP-ADV
+        (NOUN+CASE_INDEF_ACC مَثَلاً))
+      (SBAR-ADV
+        (SUB_CONJ لَمّا)
+        (S
+          (NP-TPC-13
+            (NOUN حَدّ))
+          (VP
+            (IV3MS+IV يُقُول)
+            (NP-SBJ
+              (-NONE- *T*-13))
+            (S
+              (NP-TPC-14
+                (DET+NOUN الشِيخ)
+                (NOUN_PROP مِحَمَّد)
+                (NOUN_PROP حَسّان))
+              (VP
+                (PV+PVSUFF_SUBJ:3MS أَخْطَأ)
+                (NP-SBJ
+                  (-NONE- *T*-14))
+                (PP
+                  (PREP فِي)
+                  (NP
+                    (NOUN كَذا)))))))))
+    (PUNC ,)
+    (PUNC ,)
+    (SBARQ
+      (SBARQ
+        (WHADVP-16
+          (INTERROG_ADV لِيه))
+        (S
+          (NP-TPC-15
+            (DET+NOUN الناس))
+          (VP
+            (IV3MS+IV تِكَفَّر)
+            (NP-SBJ
+              (-NONE- *T*-15))
+            (NP-OBJ
+              (IVSUFF_DO:3MS ُه))
+            (ADVP-PRP
+              (-NONE- *T*-16)))))
+      (CONJ وِ)
+      (SBARQ
+        (WHADVP-21
+          (-NONE- 0))
+        (S</parse>
+<comment/>
+<arg f="" g="people" n="0">* *T* 15 الناس</arg>
+<arg f="" g="him" n="1">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity accused" vncls="" vntheta=""/>
+</frameset>
 </verb>

@@ -1,0 +1,109 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>bAEiv</id>
+<frameset cdef="" edef="to give rise to or to stir up" id="02">
+<role argnum="0" argrole="thing elliciting a reaction/emotion" />
+<role argnum="1" argrole="emotion" />
+<frame>
+<example>
+<parse>
+(S
+  (S
+    (PUNC &quot;)
+    (LST
+      (NOUN_NUM 1)
+      (PUNC -))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS تطرق)
+      (NP-SBJ
+        (DET+NOUN+CASE_DEF_NOM الاتحاد))
+      (PP-CLR
+        (PREP الى)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الخلاف))
+          (SBAR
+            (WHNP-1
+              (REL_PRON الذي))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3MS دار)
+                (NP-SBJ
+                  (-NONE- *T*-1))
+                (NP-ADV
+                  (NOUN+CASE_DEF_ACC بين)
+                  (NP
+                    (NOUN+CASE_DEF_GEN أهل)
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN الحكم)))))))))))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS رأى)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP في)
+        (NP
+          (PRON_3MS ه)))
+      (NP-OBJ
+        (NP
+          (NOUN+CASE_INDEF_ACC مؤشراً)
+          (ADJ+CASE_INDEF_ACC خطيرا))
+        (SBAR
+          (WHNP-4
+            (-NONE- 0))
+          (S
+            (VP
+              (PRT
+                (NEG_PART لا))
+              (IV3MS+IV+IVSUFF_MOOD:I يبعث)
+              (NP-SBJ
+                (-NONE- *T*-4))
+              (PP-CLR
+                (PREP على)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN التفاؤل)))
+              (SBAR-ADV
+                (SUB_CONJ اذا)
+                (S
+                  (VP
+                    (PRT
+                      (NEG_PART لم))
+                    (IV3FS+IV_PASS+IVSUFF_MOOD:J تحترم)
+                    (NP-SBJ-5
+                      (NP
+                        (DET+NOUN+CASE_DEF_NOM القواعد)
+                        (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM المؤسساتية))
+                      (SBAR
+                        (WHNP-3
+                          (REL_PRON التي))
+                        (S
+                          (VP
+                            (IV3MS+IV+IVSUFF_MOOD:I ينبغي)
+                            (SBAR-SBJ
+                              (SUB_CONJ ان)
+                              (S
+                                (VP
+                                  (IV3FS+IV+IVSUFF_MOOD:S تقوم)
+                                  (PP-CLR
+                                    (PREP علي)
+                                    (NP
+                                      (NP
+                                        (PRON_3FS ها))
+                                      (NP
+                                        (-NONE- *T*-3))))
+                                  (NP-SBJ
+                                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الدولة)))))))))
+                    (NP-OBJ
+                      (-NONE- *-5)))))))))))
+  (PUNC .))
+</parse>
+<arg f="neg" g="no" n="m">لا</arg>
+<arg f="" g="-NONE- &lt; in it" n="0">*T*-4 &lt; فيه</arg>
+<arg f="" g="to optimism" n="1">على التفاؤل</arg>
+<arg f="cnd" g="Iif it does not respect the institutional rules that the State is run by." n="m">اذا لم تحترم القواعد المؤسساتية التي ينبغي ان تقوم عليها الدولة.</arg>
+</example>
+</frame>
+<comment>Based on roleset baEav-a.02</comment></frameset>
+<comment>Framefile based on baEav-a</comment></verb>

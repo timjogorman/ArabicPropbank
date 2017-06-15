@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lab~ayok</id>
+<comment/>
+<frameset cdef="" edef="here I am" id="01" vncls="">
+<role argnum="0" argrole="entity responding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قال الرجل لبيك * يا الله</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="O God" n="1">يا الله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

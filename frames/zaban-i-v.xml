@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zaban-i</id>
+
+<frameset cdef="" edef="to push" id="01" vncls="">
+<role argnum="0" argrole="pusher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>زبن الرجل خصمه على الارض</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his apponent" n="1">خصمه</arg>
+<arg f="" g="on the ground" n="2">على الارض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="pushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="direction or to where" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

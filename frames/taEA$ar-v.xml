@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEA$ar</id>
+<comment/>
+<frameset cdef="" edef="to associate with, to be on intimate" id="01" vncls="">
+<role argnum="0" argrole="entity associating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو قد تعاشر * معها منذ مدة طويلة</parse>
+<comment/>
+<arg f="" g="he" n="">* هو</arg>
+<arg f="" g="with her" n="">معها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

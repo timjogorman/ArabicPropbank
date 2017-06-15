@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotaxas</id>
+<comment/>
+<frameset cdef="" edef="to become vile, worthless" id="01" vncls="">
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انتخس العدو في المفاوضات</parse>
+<comment/>
+<arg f="" g="the enemy" n="1">العدو</arg>
+<arg f="loc" g="in the negociations" n="m">في المفاوضات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="vile person" vncls="" vntheta=""/>
+</frameset>
+</verb>

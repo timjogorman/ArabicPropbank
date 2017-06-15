@@ -1,0 +1,74 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oabodayot</id>
+<frameset cdef="" edef="tell, relate, report" id="01" vncls="HaAdava-1">
+<role argnum="0" argrole="the teller" vncls="HaAdava-1" vntheta="agent"/>
+<role argnum="1" argrole="the listener" vncls="HaAdava-1" vntheta="recipient"/>
+<role argnum="2" argrole="subject" vncls="HaAdava-1" vntheta="topic"/>
+<frame>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:1S كُنْتُ)
+    (VP
+      (PRT
+        (VERB_PART قَد))
+      (PV+PVSUFF_SUBJ:1S حَدَثتُ-)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (PVSUFF_DO:2MP -كُم))
+      (PP
+        (PREP عَن)
+        (NP
+          (NP
+            (PUNC ")
+            (NO_FUNC الراقوب)
+            (PUNC "))
+          (PUNC ,)
+          (NP
+            (DEM_PRON_MS ه`ذا))</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="you" n="1">كُم</arg>
+<arg f="" g="about this monitor" n="2">عن الراقوب هذا</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to modrenize, to update, to bring up to date" id="02" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>حدثت الشركة جميع اجهزة الاتصال في المنطقة</parse>
+
+<arg f="" g="the company" n="0">الشركة</arg>
+<arg f="" g="all communication devices" n="1">جميع اجهزة الاتصال</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things updated" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

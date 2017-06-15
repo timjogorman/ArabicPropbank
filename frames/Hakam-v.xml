@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hakam</id>
+
+<frameset cdef="" edef="to rule or reign" id="01" vncls="">
+<role argnum="0" argrole="entity ruling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حكم الملك على بلاده لمدة عشر سنوات</parse>
+
+<arg f="" g="the king" n="0">الملك</arg>
+<arg f="" g="on his country" n="1">على بلاده</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to decide, to judge" id="02" vncls="">
+<role argnum="0" argrole="entity judging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حكم الملك بينهما بالعدل</parse>
+
+<arg f="" g="the king" n="0">الملك</arg>
+<arg f="" g="on them" n="2">بينهما</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="judgment" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on OaHokam</comment>
+</verb>

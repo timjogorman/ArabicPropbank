@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HAbaY</id>
+<comment/>
+<frameset cdef="" edef="to favor, to take someone's part" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أكيد هو حابي * لأسرائيل</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="to Israel" n="1">لأسرائيل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity in favor" vncls="" vntheta=""/>
+</frameset>
+</verb>

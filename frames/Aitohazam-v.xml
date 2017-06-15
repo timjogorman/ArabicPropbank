@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitohazam</id>
+<frameset cdef="" edef="to defeat" id="01">
+<role argnum="0" argrole="entity victorious" />
+<role argnum="1" argrole="entity defeated" />
+<frame>
+<example>
+<parse>
+(S
+    (VP
+      (PV+PVSUFF_SUBJ:3FS اخذت)
+      (NP-OBJ
+        (PVSUFF_DO:1P نا))
+      (NP-SBJ
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM العزة))
+      (PP
+        (PREP ب)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الاثم)))
+      (S-ADV
+        (VP
+          (ADJ.VN+NSUFF_MASC_PL_ACC معتبرين)
+          (NP-SBJ
+            (-NONE- *))
+          (SBAR
+            (SUB_CONJ ان)
+            (S
+              (SBAR-NOM-TPC-6
+                (WHNP-5
+                  (REL_PRON من))
+                (S
+                  (VP
+                    (IV3MS+IV+IVSUFF_MOOD:I يهزم)
+                    (NP-SBJ
+                      (-NONE- *T*-5))
+                    (NP-OBJ
+                      (DET+NOUN+CASE_DEF_ACC الآخر))
+                    (NP-MNR
+                      (NOUN+CASE_INDEF_ACC عسكريا)))))
+              (VP
+                (PRT
+                  (FUT_PART س))
+                (IV3MS+IV+IVSUFF_MOOD:I يذل)
+                (NP-SBJ
+                  (-NONE- *T*-6))
+                (NP-OBJ
+                  (IVSUFF_DO:3MS ه))
+                (NP-ADV
+                  (NOUN+CASE_INDEF_ACC حتما)))))))))
+</parse>
+<arg f="" g="he" n="0">-NONE- *T*-5&lt;من</arg>
+<arg f="" g="the other" n="1">الآخر</arg>
+</example>
+</frame>
+<comment>Based on roleset hazam-i-v.01</comment></frameset>
+<comment>EGYPTIAN ARABIC Framefile based on hazam-i-v</comment></verb>

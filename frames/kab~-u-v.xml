@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kab~-u</id>
+<comment/>
+<frameset cdef="" edef="to pour, to empty" id="01">
+<role argnum="0" argrole="entity pouring"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كب الطفل الحليب من القدح على الارض</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="the milk" n="1">الحليب</arg>
+<arg f="" g="from the glass" n="2">من القدح</arg>
+<arg f="" g="on the floor" n="3">على الارض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing poured"/>
+<role argnum="2" argrole="starting point"/>
+<role argnum="3" argrole="end point"/>
+</frameset>
+<frameset cdef="" edef="to overturn, to turn upside down" id="02">
+<role argnum="0" argrole="entity turning"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كب الطفل الاناء</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="the plate" n="1">الاناء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things turned upside down (Usually followed with على  )"/>
+</frameset>
+<frameset cdef="" edef="to knock down, to throw down" id="03">
+<role argnum="0" argrole="entity defeating"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كب المصارع خصمه على وجهه</parse>
+<comment/>
+<arg f="" g="the wrestler" n="0">المصارع</arg>
+<arg f="" g="opponent" n="1">خصمه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity defeated"/>
+</frameset>
+</verb>

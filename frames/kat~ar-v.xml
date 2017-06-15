@@ -1,0 +1,65 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>kat~ar</id>
+<comment>EGYPTIAN ARABIC based on Oakovar</comment>
+    <frameset cdef="" edef="to increase" id="02" vncls="">
+<role argnum="0" argrole="entity causer" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PRT
+        (FUT_PART حَ))
+      (IV1S+IV اَكَتَّر)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN عَدَد)
+        (NP
+          (DET+NOUN المَحاكِم)
+          (CONJ وَ)
+          (DET+NOUN+NSUFF_FEM_SG القُضاَة))))
+    (PUNC .)
+    (PUNC .))
+  (S
+    (PP-PRP
+      (PREP عَلَى)
+      (NP
+        (NOUN شَأْن)
+        (NP
+          (NP
+            (DET+NOUN+NSUFF_FEM_PL المُنازَعات))
+          (SBAR
+            (WHNP-1
+              (REL_PRON اللِّي))
+            (S
+              (VP
+                (PRT
+                  (PROG_PART بِ))
+                (IV3FS+IV تِقْعُد)
+                (NP-SBJ
+                  (-NONE- *T*-1))
+                (PP-TMP
+                  (PREP بِ)
+                  (NP
+                    (DET+NOUN+NSUFF_MASC_PL السِنِين)))))))))
+    (VP
+      (IV3FS+IV تِخْلَص)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-TMP
+        (ADV بَدْرِي)))))</parse>
+<comment />
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="the number of courts and judges" n="1">عَدَد المَحاكِم وَ القُضاَة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Oakovar.02</comment>
+<role argnum="1" argrole="things increased" vncls="" vntheta="" />
+<role argnum="2" argrole="in what" vncls="" vntheta="" />
+</frameset>
+</verb>

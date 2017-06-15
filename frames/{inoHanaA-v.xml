@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHanaA</id>
+
+<frameset cdef="" edef="to bow, to bend at waist" id="01" vncls="">
+<role argnum="0" argrole="bower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحنى الرجل للسيدة</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to the lady" n="1">للسيدة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to whom/ what" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="causer" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

@@ -1,39 +1,109 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>tahay~aO</id>
-    <frameset cdef="" edef="To be ready prepared" id="01">
-        <role argnum="1" argrole="thing made ready"/>
-        <role argnum="2" argrole="ready for"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS تهيأ)
-                    (NP-SBJ
-                    (DET+NOUN+CASE_DEF_NOM الشيوخ))
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN معاودة)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مناقشة)
-                    (NP
-                    (NOUN+CASE_DEF_GEN مشروع)
-                    (NP
+<id>tahay~aO</id>
+<frameset cdef="" edef="To be ready prepared" id="01" vncls="">
+<role argnum="1" argrole="thing made ready" vncls="" vntheta=""/>
+<role argnum="2" argrole="ready for" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+        (VP
+          (PV+PVSUFF_SUBJ:3MS تهيأ)
+          (NP-SBJ
+            (DET+NOUN+CASE_DEF_NOM الشيوخ))
+          (PP
+            (PREP ل)
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN معاودة)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مناقشة)
+                (NP
+                  (NOUN+CASE_DEF_GEN مشروع)
+                  (NP
                     (NOUN+CASE_DEF_GEN قانون)
                     (NP
-                    (NOUN+CASE_DEF_GEN انشاء)
+                      (NOUN+CASE_DEF_GEN انشاء)
+                      (NP
+                        (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN وزارة)
+                        (NP
+                          (DET+NOUN+CASE_DEF_GEN الامن)
+                          (DET+ADJ+CASE_DEF_GEN الداخلي)))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="Senate" n="1">الشيوخ</arg>
+<arg f="" g="To resume discussion of the draft law establishing the Department of Homeland Security" n="2">لمعاودة مناقشة مشروع قانون انشاء وزارة الامن الداخلي</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to be or become possible or feasible for" id="02" vncls="">
+<role argnum="1" argrole="entity seeing things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (PUNC ,)
+    (CONJ وِ)
+    (ADVP
+      (ADV هِنا))
+    (VP
+      (IV3MS+IV_PASS يُهَيَّأ)
+      (PP
+        (PREP لِ)
+        (NP
+          (PRON_1S ي)))
+      (SBAR-SBJ-2
+        (SUB_CONJ أَنَّ)
+        (S
+          (NP-TPC-1
+            (NOUN_QUANT كُلّ)
+            (NP
+              (NOUN مَصْرِيّ)))
+          (S
+            (VP
+              (IV3MS+IV يصِير)
+              (PP-PRD
+                (PREP مِن)
+                (NP
+                  (NOUN حَقّ)
+                  (NP
                     (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN وزارة)
+                      (POSS_PRON_3MS ُه))
                     (NP
-                    (DET+NOUN+CASE_DEF_GEN الامن)
-                    (DET+ADJ+CASE_DEF_GEN الداخلي)))))))))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="Senate" n="1">الشيوخ</arg>
-                <arg f="" g="To resume discussion of the draft law establishing the Department of Homeland Security" n="2">لمعاودة مناقشة مشروع قانون انشاء وزارة الامن الداخلي</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (-NONE- *T*-1)))))
+              (SBAR-SBJ
+                (SUB_CONJ أَنْ)
+                (S
+                  (VP
+                    (IV3MS+IV يِتساءِل)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (WHADVP
+                      (INTERROG_ADV لِماذا)))))))))
+      (NP-OBJ
+        (-NONE- *-2)))
+    (PUNC ?)
+    (PUNC ?)))</parse>
+
+<arg f="" g="to me" n="1">لي</arg>
+<arg f="" g="it is his right to ask why" n="">أن كل مصري يصير من حقه أن يتسأل لماذا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="things seen" vncls="" vntheta=""/>
+<comment>تأتى له‏</comment>
+</frameset>
+<comment/>
 </verb>

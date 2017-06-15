@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>batar-u</id>
+
+<frameset cdef="" edef="to cut off, to amputate or remove (by surgery)" id="01" vncls="">
+<role argnum="0" argrole="entity cutting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بتر الطبيب رجل المريض</parse>
+
+<arg f="" g="the doctor" n="0">الطبيب</arg>
+<arg f="" g="the leg" n="1">رجل</arg>
+<arg f="" g="the patient" n="2">المريض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom if not included in ARG1" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

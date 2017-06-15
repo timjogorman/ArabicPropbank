@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>na$aO</id>
+<comment>EGYPTIAN ARABIC based on na$aO-a</comment>
+    <frameset cdef="" edef="To grow" id="01">
+<role argnum="1" argrole="thing grown" />
+<frame>
+<example>
+<parse>
+(S
+                    (VP
+                      (PV+PVSUFF_SUBJ:3FS نشأت)
+                      (NP-SBJ
+                        (NOUN+CASE_INDEF_NOM اجيال)
+                        (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM متعاقبة))
+                      (PP
+                        (PREP على)
+                        (NP
+                          (NOUN+CASE_DEF_GEN تقديس)
+                          (NP
+                            (NP
+                              (POSS_PRON_3FS ها))
+                            (NP
+                              (-NONE- *T*-2)))))))))))))))
+</parse>
+<arg f="" g="Generations" n="1">اجيال</arg>
+<arg f="mnr" g="how to venerate it" n="m">على تقديسها</arg>
+</example>
+</frame>
+<comment>Based on roleset na$aO-a.01</comment></frameset>
+</verb>

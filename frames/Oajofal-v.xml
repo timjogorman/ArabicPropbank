@@ -1,37 +1,58 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Oajofal</id>
-    <frameset cdef="" edef="to leave" id="01">
-        <role argnum="1" argrole="entity leaving"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (PUNC &amp;quot;)
-                    (VP
-                    (IV1S+IV+IVSUFF_MOOD:I اؤكد)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (PRON_2MP كم)))
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (S
-                    (NP-TPC-2
-                    (PRON_1S ني))
-                    (VP
-                    (PRT
-                    (NEG_PART لن))
-                    (PV+PVSUFF_SUBJ:3MS اجفل)
-                    (NP-SBJ
-                    (-NONE- *T*-2))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="I" n="1">*</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Oajofal</id>
+<frameset cdef="" edef="to leave" id="01" vncls="">
+<role argnum="1" argrole="entity leaving" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+      (PUNC &quot;)
+      (VP
+        (IV1S+IV+IVSUFF_MOOD:I اؤكد)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP ل)
+          (NP
+            (PRON_2MP كم)))
+        (SBAR
+          (SUB_CONJ ان)
+          (S
+            (S
+              (NP-TPC-2
+                (PRON_1S ني))
+              (VP
+                (PRT
+                  (NEG_PART لن))
+                (PV+PVSUFF_SUBJ:3MS اجفل)
+                (NP-SBJ
+                  (-NONE- *T*-2))))
+            (PUNC .))</parse>
+<arg f="" g="I" n="1">*</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to scare, to frighten" id="02" vncls="">
+<role argnum="0" argrole="entity scaring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أجفل الرجل أمرأته بصوته</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his wife" n="1">أمرأته</arg>
+<arg f="" g="with his voice" n="2">بصوته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity scared" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what or how" vncls="" vntheta=""/>
+</frameset>
 </verb>

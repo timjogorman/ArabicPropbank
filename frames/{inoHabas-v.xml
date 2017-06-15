@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoHabas</id>
+
+<frameset cdef="" edef="to be imprisoned, enclosed" id="01" vncls="">
+<role argnum="1" argrole="entity confined" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحبس الرجل في الغرفة</parse>
+
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="in the room" n="2">في الغرفة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be stopped. cut off" id="02" vncls="">
+<role argnum="1" argrole="entity stopped" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انحبس التيار عن البلدة</parse>
+
+<arg f="" g="electricity" n="1">التيار</arg>
+<arg f="" g="the town" n="2">عن البلدة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="beneficiary" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

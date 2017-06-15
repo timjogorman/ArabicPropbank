@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gAwiy</id>
+<comment/>
+<frameset cdef="" edef="desirous, interested" id="01" vncls="">
+<role argnum="0" argrole="entity interested" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البنت دي غاوية * مشاكل</parse>
+<comment/>
+<arg f="" g="this girl" n="0">* البنت دي</arg>
+<arg f="" g="problems" n="1">مشاكل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="into what" vncls="" vntheta=""/>
+</frameset>
+</verb>

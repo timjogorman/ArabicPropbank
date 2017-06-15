@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IiEotiSAm</id>
+<comment/>
+<frameset cdef="" edef="sitting-in in order to protest" id="01" vncls="">
+<role argnum="0" argrole="entity sitting in" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تحدثت وسائل الإعلام عن اعتصام المتظاهرين أمام الجامعة</parse>
+<comment/>
+<arg f="" g="protestor" n="0">المتظاهرين</arg>
+<arg f="" g="in front of the university" n="1">أمام الجامعة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="location" vncls="" vntheta=""/>
+</frameset>
+</verb>

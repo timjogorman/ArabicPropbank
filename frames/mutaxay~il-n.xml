@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mutaxay~il</id>
+<comment/>
+<frameset cdef="" edef="To Imagine" id="01" vncls="">
+<role argnum="0" argrole="thinker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو متخيل * أنه ملك</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="the he is a king" n="1">أنه ملك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="object, thing under consideration" vncls="" vntheta=""/>
+</frameset>
+</verb>

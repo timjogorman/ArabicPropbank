@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laOaf</id>
+
+<frameset cdef="" edef="to eat" id="01" vncls="">
+<role argnum="0" argrole="eater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لأف الطفل الطعام</parse>
+
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="the food" n="1">الطعام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things ate" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

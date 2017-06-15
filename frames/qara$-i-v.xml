@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qara$-i</id>
+<comment/>
+<frameset cdef="" edef="to eat a little of food" id="01" vncls="">
+<role argnum="0" argrole="entity eating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرش الرجل من الطعام</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="from the food" n="1">من الطعام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to gather things from here and there" id="02" vncls="">
+<role argnum="0" argrole="entity gathering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قرش الرجل المال من كل مكان</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the money" n="1">المال</arg>
+<arg f="" g="from every where" n="2">من كل مكان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things gathered" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+</frameset>
+</verb>

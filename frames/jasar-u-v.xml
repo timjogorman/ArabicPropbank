@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jasar-u</id>
+<comment/>
+<frameset cdef="" edef="to dare or risk, to take the risk of" id="01" vncls="">
+<role argnum="0" argrole="entity taking risk" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جسر الرجل على كسر الباب</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to break the door" n="1">على كسر الباب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to cross" id="02" vncls="">
+<role argnum="0" argrole="entity crossing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جسر الرجل القناة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the canal" n="1">القناة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things crossed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to build a bridge over" id="03" vncls="">
+<role argnum="0" argrole="builder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جسر الرجل بين المدينتين</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="between the two cities" n="2">بين المدينتين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things built (bridge)" vncls="" vntheta=""/>
+<role argnum="2" argrole="over what, start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+</frameset>
+</verb>

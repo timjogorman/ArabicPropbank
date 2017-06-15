@@ -1,82 +1,143 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Sab~-u</id>
-    <frameset cdef="" edef="to pour/flow" id="01">
-        <role argnum="0" argrole="agent pourer"/>
-        <role argnum="1" argrole="entity pouring/flowing / including metaphorical meaning"/>
-        <role argnum="2" argrole="destination"/>
-        <frame>
-            <mapping>
-                <V/>
-                <mapitem src="sbj" trg="arg0"/>
-            </mapping>
-            <example>
-                <parse>
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS قال)
-                    (NP-SBJ
-                    (NOUN_PROP مشرف))
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (S
-                    (NP-TPC-1
-                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_ACC الهجمات))
-                    (VP
-                    (IV3FS+IV+IVSUFF_MOOD:I تصب)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (PP-CLR
-                    (PREP في)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مصلحة)
-                    (NP
-                    (NOUN+CASE_DEF_GEN اعداء)
-                    (NP
-                    (NOUN_PROP+CASE_INDEF_GEN باكستان)))))))
-                </parse>
-                <arg f="" g="It" n="1">-NONE- *T*-1&amp;lt;الهجمات</arg>
-                <arg f="" g="in the benefit of ennemy of Pakistan" n="2">في مصلحة اعداء باكستان</arg>
-                <V/>
-            </example>
-        </frame>
-    </frameset>
-    <frameset cdef="" edef="To aim at" id="02">
-        <role argnum="0" argrole="agent, aimer"/>
-        <role argnum="1" argrole="thing in motion"/>
-        <role argnum="2" argrole="direction or target"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (NP-TPC-2
-                    (PRON_3MS هو))
-                    (PP
-                    (PREP ب)
-                    (NP
-                    (NP
-                    (DEM_PRON_F هذه))
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الصفة))))
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يصب)
-                    (NP-SBJ
-                    (-NONE- *T*-2))
-                    (NP-OBJ
-                    (NOUN+NSUFF_FEM_PL+CASE_DEF_ACC اهتمامات)
-                    (NP
-                    (POSS_PRON_3MS ه)))
-                    (NP-ADV
-                    (NOUN+CASE_DEF_ACC نحو)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN الخارج)))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="He" n="0">-NONE- *T*-2&amp;lt;هو</arg>
-                <arg f="" g="Concerns" n="1">اهتماماته</arg>
-                <arg f="" g="Outward" n="2">نحو الخارج</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>Sab~-u</id>
+<frameset cdef="" edef="to pour/flow" id="01">
+<role argnum="0" argrole="agent pourer"/>
+<role argnum="1" argrole="entity pouring/flowing / including metaphorical meaning"/>
+<role argnum="2" argrole="destination"/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS قال)
+    (NP-SBJ
+      (NOUN_PROP مشرف))
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (S
+          (NP-TPC-1
+            (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_ACC الهجمات))
+          (VP
+            (IV3FS+IV+IVSUFF_MOOD:I تصب)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (PP-CLR
+              (PREP في)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مصلحة)
+                (NP
+                  (NOUN+CASE_DEF_GEN اعداء)
+                  (NP
+                    (NOUN_PROP+CASE_INDEF_GEN باكستان)))))))</parse>
+<arg f="" g="It" n="1">-NONE- *T*-1&lt;الهجمات</arg>
+<arg f="" g="in the benefit of ennemy of Pakistan" n="2">في مصلحة اعداء باكستان</arg>
+<V/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="To aim at" id="02">
+<role argnum="0" argrole="agent, aimer"/>
+<role argnum="1" argrole="thing in motion"/>
+<role argnum="2" argrole="direction or target"/>
+<frame>
+<example>
+<parse>(S
+    (NP-TPC-2
+      (PRON_3MS هو))
+    (PP
+      (PREP ب)
+      (NP
+        (NP
+          (DEM_PRON_F هذه))
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الصفة))))
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يصب)
+      (NP-SBJ
+        (-NONE- *T*-2))
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_PL+CASE_DEF_ACC اهتمامات)
+        (NP
+          (POSS_PRON_3MS ه)))
+      (NP-ADV
+        (NOUN+CASE_DEF_ACC نحو)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الخارج)))))
+  (PUNC .))</parse>
+<arg f="" g="He" n="0">-NONE- *T*-2&lt;هو</arg>
+<arg f="" g="Concerns" n="1">اهتماماته</arg>
+<arg f="" g="Outward" n="2">نحو الخارج</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to cast, to shape" id="03">
+<role argnum="0" argrole="entity shaping"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صب الفنان تمثالا من الحديد</parse>
+<comment/>
+<arg f="" g="the artist" n="0">الفنان</arg>
+<arg f="" g="statue" n="1">تمثالا</arg>
+<arg f="" g="from iron" n="2">من الحديد</arg>
+</example>
+<comment>سبك</comment>
+</frame>
+<comment/>
+<role argnum="1" argrole="things shaped"/>
+<role argnum="2" argrole="material"/>
+</frameset>
+<frameset cdef="" edef="to wreak one's wrath (multi word expression)" id="04">
+<role argnum="0" argrole="entity pouring"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فصب عليهم ربك سوط العذاب</parse>
+<comment/>
+<arg f="" g="on them" n="1">عليهم</arg>
+<arg f="" g="your God" n="0">ربك</arg>
+<arg f="" g="the whip of torture" n="2">سوط العذاب</arg>
+</example>
+<comment>صب غضبه على</comment>
+</frame>
+<comment/>
+<role argnum="1" argrole="things poured"/>
+<role argnum="2" argrole="on whom"/>
+</frameset>
+<frameset cdef="" edef="to urge, to incite" id="05">
+<role argnum="0" argrole="entity urging"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صب الاب ابنه على هذا الامر</parse>
+<comment/>
+<arg f="" g="the father" n="0">الاب</arg>
+<arg f="" g="his son" n="1">ابنه</arg>
+<arg f="" g="on this matter" n="2">على هذا الامر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity urged"/>
+<role argnum="2" argrole="to do what"/>
+</frameset>
 </verb>

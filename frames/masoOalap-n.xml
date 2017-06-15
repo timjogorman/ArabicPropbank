@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>masoOalap</id>
+<comment/>
+<frameset cdef="" edef="question, problem, issue" id="01" vncls="">
+<role argnum="1" argrole="the problem" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أن مسألة الحرب بين البلدين هي خطرة جدا</parse>
+<comment/>
+<arg f="" g="the war between the two contries" n="1">الحرب بين البلدين</arg>
+<arg f="" g="it is very dangerous" n="2">هي خطرة جدا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nay~il</id>
+<comment/>
+<frameset cdef="" edef="to do something bad, mess up" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انت بتنيل * ايه</parse>
+<comment/>
+<arg f="" g="you" n="0">* انت</arg>
+<arg f="" g="what" n="1">ايه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things done" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tafAraq</id>
+
+<frameset cdef="" edef="to separate, to go in different directions" id="01" vncls="">
+<role argnum="0" argrole="entity separeting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>تفارق الرجل عن زوجته لفترة</parse>
+
+<arg f="" g="entity separeting" n="0"/>
+<arg f="" g="from whom" n="1"/>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from whom" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to differ or vary" id="02" vncls="">
+<role argnum="1" argrole="entity different" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>تفارق الخطابان في بعض الكلمات</parse>
+
+<arg f="" g="the two letters" n="1">الخطابان</arg>
+<arg f="" g="in few words" n="3">في بعض الكلمات</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

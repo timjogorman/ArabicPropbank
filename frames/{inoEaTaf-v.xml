@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoEaTaf</id>
+
+<frameset cdef="" edef="to bend , to turn, to curve , to incline" id="01" vncls="">
+<role argnum="1" argrole="things bending" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انعطف الطريق نحو الشمال</parse>
+
+<arg f="" g="the road" n="1">الطريق</arg>
+<arg f="" g="toward the north" n="2">نحو الشمال</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="direction" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

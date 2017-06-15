@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jan~an</id>
+
+<frameset cdef="" edef="to madden, to make insane, to agitate" id="01" vncls="sal~aY-1">
+<role argnum="0" argrole="causer" vncls="sal~aY-1" vntheta="cause"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده حيجنني بأعماله</parse>
+
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="me" n="1">ي</arg>
+<arg f="" g="with his works" n="2">بأعماله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity driven crazy, or agitated" vncls="sal~aY-1" vntheta="experiencer"/>
+<role argnum="2" argrole="with what" vncls="sal~aY-1" vntheta="instrument"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

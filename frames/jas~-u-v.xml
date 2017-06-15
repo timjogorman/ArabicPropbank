@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jas~-u</id>
+<comment/>
+<frameset cdef="" edef="to touch or feel, to feel someone's pulse, to probe, to examine" id="01" vncls="">
+<role argnum="0" argrole="entity touching" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جس الطبيب نبض المريض</parse>
+<comment/>
+<arg f="" g="the doctor" n="0">الطبيب</arg>
+<arg f="" g="the pulse" n="2">نبض</arg>
+<arg f="" g="the patient" n="1">المريض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity touched" vncls="" vntheta=""/>
+<role argnum="2" argrole="the part touched or examined" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to look for or at" id="02" vncls="">
+<role argnum="0" argrole="entity looking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جاء الرجل يجس * أخبار أهله</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="his family news" n="1">أخبار أهله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity looked at" vncls="" vntheta=""/>
+</frameset>
+</verb>

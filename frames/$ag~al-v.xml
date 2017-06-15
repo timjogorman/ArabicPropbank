@@ -1,23 +1,128 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>$ag~al</id>
-    <comment/>
-    <frameset cdef="" edef="to start to/make work or bring on-line" id="01">
-        <role argnum="0" argrole="agent - entity causing arg1 to work"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>إننا شغلنا فى العام الماضى الموقع الأول فى العالم فى مجال استخراج النفط</parse>
-                <comment/>
-                <arg f="" g="we" n="0">*</arg>
-                <arg f="tmp" g="" n="m">فى العام الماضى</arg>
-                <arg f="" g="the first site ever that excavates oil" n="1">الموقع الأول فى العالم فى مجال استخراج النفط</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="patient - entity beginning job/work"/>
-    </frameset>
+<id>$ag~al</id>
+
+<frameset cdef="" edef="to start to/make work or bring on-line" id="01" vncls="">
+<role argnum="0" argrole="agent - entity causing arg1 to work" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ده هو اللي شغل * ني في الشركة</parse>
+
+<arg f="" g="he" n="0">* هو</arg>
+
+<arg f="" g="me" n="1">ني</arg>
+
+<arg f="loc" g="in the company" n="m">في الشركة</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="patient - entity beginning job/work" vncls="" vntheta=""/>
+
+
+
+
+<comment/>
+</frameset>
+
+
+<frameset cdef="" edef="to invest" id="02" vncls="">
+<role argnum="0" argrole="investor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الراجل قاعد يشغل * أمواله في السوق</parse>
+
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="his money" n="1">أمواله</arg>
+<arg f="" g="in the market" n="2">في السوق</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things invested" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to hire" id="03" vncls="">
+<role argnum="0" argrole="entity hiring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ما حدش حيشغل * واحد مجنون زيك في المكتب</parse>
+
+<arg f="" g="nobody" n="0">* ما حدش</arg>
+<arg f="" g="a crazy person like you" n="1">واحد مجنون زيك</arg>
+<arg f="" g="in the office" n="2">في المكتب</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="hired" vncls="" vntheta=""/>
+<role argnum="2" argrole="to do what, position" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to use (multi word expression)" id="04" vncls="">
+<role argnum="0" argrole="user" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>يا راجل شغل * دماغك</parse>
+
+<arg f="" g="man" n="0">* man</arg>
+<arg f="" g="you brain" n="1">دماغك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things used" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

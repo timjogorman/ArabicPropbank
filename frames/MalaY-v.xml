@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>MalaY</id>
+<comment/>
+<frameset cdef="" edef="to take an oath on oneself, to swear" id="01" vncls="">
+<role argnum="0" argrole="entity swearing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>آلى * على نفسه أن لا ياكل شيئا من الخارج</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="on himself" n="1">على نفسه</arg>
+<arg f="" g="not to eat anything from outside" n="2">أن لا ياكل شيئا من الخارج</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom (على نفسه)" vncls="" vntheta=""/>
+<role argnum="2" argrole="to do what" vncls="" vntheta=""/>
+</frameset>
+</verb>

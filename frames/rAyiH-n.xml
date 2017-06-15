@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rAyiH</id>
+
+<frameset cdef="" edef="going" id="01" vncls="">
+<role argnum="0" argrole="entity in motion/goer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ثم إن أحمد الدنف أخبر علاء الدين بأن الخليفة يطلبه فقال له: أنا رائح إلى مصر أسلم على أبي وأمي وأهل بيتي</parse>
+
+<arg f="" g="I" n="0">أنا</arg>
+<arg f="" g="to Egypt" n="2">إلى مصر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+<comment>Based on roleset rA}iH.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on rA}iH</comment>
+<frameset cdef="" edef="doing something" id="02" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو رايح * يكتب عليهم ليل ونهار</parse>
+<comment/>
+<arg f="" g="He" n="0">* هو</arg>
+<arg f="" g="to write about them" n="1">يكتب عليهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things done" vncls="" vntheta=""/>
+</frameset>
+</verb>

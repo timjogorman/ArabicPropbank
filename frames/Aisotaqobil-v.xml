@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisotaqobil</id>
+
+    <frameset cdef="" edef="to meet or welcome" id="01" vncls="">
+<role argnum="0" argrole="entity meeting or meeting" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity being met or greeted" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>هو استقبل * ني بكل برود</parse>
+<arg f="" g="he" n="0">* هو</arg>
+<comment/>
+<arg f="" g="me" n="1">ني</arg>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset {isotaqobal.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on {isotaqobal</comment>
+</verb>

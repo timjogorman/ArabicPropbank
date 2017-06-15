@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kas~al-i</id>
+<comment/>
+<frameset cdef="" edef="to cause someone to become lazy" id="01" vncls="">
+<role argnum="0" argrole="entity causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (CONJ وِ)
+      (NP-TPC-1
+        (NP
+          (DET+NOUN الاِعْتِماد)
+          (DET+NOUN الكُلِّي))
+        (PP
+          (PREP عَلَى)
+          (NP
+            (DET+NOUN التِكْنُولُوجيا)
+            (DET+ADJ+NSUFF_FEM_SG الحَدِيثَة))))
+      (VP
+        (PRT
+          (FUT_PART حَ))
+        (IV3MS+IV يِكَسِّل)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (IVSUFF_DO:1P نا))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يِزِيح)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NP
+            (DET+NOUN النَشاط))
+          (SBAR
+            (WHNP-3
+              (REL_PRON اِللِّي))
+            (S
+              (NP-TPC-2
+                (NOUN رَبّ)
+                (NP
+                  (POSS_PRON_1P نا)))
+              (VP
+                (PV+PVSUFF_SUBJ:3MS أَعطا)
+                (NP-SBJ
+                  (-NONE- *T*-2))
+                (NP-OBJ
+                  (NP
+                    (PVSUFF_DO:3MS ُه))
+                  (NP
+                    (-NONE- *T*-3)))
+                (PP-DTV
+                  (PREP لِ)
+                  (NP
+                    (PRON_1P نا)))))))))))</parse>
+<comment/>
+<arg f="" g="relying completely on the new technology" n="0">* -1 الاِعْتِماد الكُلِّي عَلَى التِكْنُولُوجيا</arg>
+<arg f="" g="we" n="1">نا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity becoming lazy" vncls="" vntheta=""/>
+</frameset>
+</verb>

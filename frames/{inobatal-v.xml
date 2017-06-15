@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobatal</id>
+
+<frameset cdef="" edef="to be separated from something" id="01" vncls="">
+<role argnum="0" argrole="entity causing separation" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبتلت العربة عن الشاحنة</parse>
+
+<arg f="" g="the trailer" n="1">العربة</arg>
+<arg f="" g="from the truck" n="2">عن الشاحنة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing being seperated" vncls="" vntheta=""/>
+<role argnum="2" argrole="source, separated from" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

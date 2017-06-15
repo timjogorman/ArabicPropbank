@@ -1,22 +1,27 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>{inotaEa$</id>
-    <comment/>
-    <frameset cdef="" edef="To refresh, to freshen up, to recover" id="01">
-        <role argnum="0" argrole="entity/ agent recovering"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>انتعش * من عثرته</parse>
-                <comment/>
-                <arg f="" g="NONE" n="0">-NONE- *?</arg>
-                <arg f="" g="from his fall" n="1">من عثرته</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="from what"/>
-    </frameset>
+<id>{inotaEa$</id>
+
+<frameset cdef="" edef="To refresh, to freshen up, to recover" id="01" vncls="tasal~aY-1">
+<role argnum="0" argrole="entity/ agent recovering" vncls="tasal~aY-1" vntheta="experiencer"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتعش * من عثرته</parse>
+
+<arg f="" g="NONE" n="0">-NONE- *?</arg>
+<arg f="" g="from his fall" n="1">من عثرته</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="tasal~aY-1" vntheta="cause"/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

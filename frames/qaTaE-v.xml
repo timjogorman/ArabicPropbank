@@ -1,0 +1,169 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaTaE</id>
+
+    <frameset cdef="" edef="to cross / traverse/advance" id="01" vncls="">
+<role argnum="0" argrole="entity in motion" vncls="" vntheta=""/>
+<role argnum="1" argrole="barrier/ border/achievment" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+            (VP
+              (PV+PVSUFF_SUBJ:3MD قطعا)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NOUN+CASE_DEF_ACC خط)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN النهاية)))
+              (NP-MNR
+                (NOUN+CASE_INDEF_ACC معا))))))))</parse>
+<arg f="" g="They" n="0">-NONE- *</arg>
+<arg f="" g="the final line" n="1">خط النهاية</arg>
+<arg f="mnr" g="together" n="m">معا</arg>
+<V/>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset qaTaE-a.01</comment>
+</frameset>
+<frameset cdef="" edef="to interrupt/sever/stop" id="02" vncls="">
+<role argnum="0" argrole="interrupter" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing interrupted" vncls="" vntheta=""/>
+<role argnum="2" argrole="patient, entity cut off" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3FS قطعت)
+                    (NP-SBJ
+                      (NOUN_PROP جبيل))
+                    (NP-OBJ
+                      (NP
+                        (NOUN+NSUFF_FEM_PL+CASE_DEF_ACC علاقات)
+                        (NP
+                          (POSS_PRON_3FS ها)))
+                      (PP
+                        (PREP ب)
+                        (NP
+                          (NOUN_PROP+CASE_INDEF_GEN مصر))))
+                    (PP-TMP
+                      (PREP في)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN العصر)
+                        (DET+ADJ+CASE_DEF_GEN البرونزي)
+                        (DET+ADJ_NUM+CASE_DEF_GEN الثالث)))))</parse>
+<arg f="" g="Jubail" n="0">جبيل</arg>
+<arg f="" g="her relations" n="1">علاقاتها</arg>
+<arg f="bnf" g="with Egypt" n="m">بمصر</arg>
+<arg f="tmp" g="in the third bronze age" n="m">في العصر البرونزي الثالث</arg>
+<V/>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset qaTaE-a.02</comment>
+</frameset>
+
+<frameset cdef="" edef="to cut physically" id="03" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(NOUN غَباء)
+            (NP
+              (NP
+                (DET+NOUN البُرْص))
+              (SBAR
+                (WHNP-5
+                  (REL_PRON اِللِّي))
+                (S
+                  (VP
+                    (PV+PVSUFF_SUBJ:3MS راح)
+                    (NP-SBJ-4
+                      (-NONE- *T*-5))
+                    (S
+                      (VP
+                        (PV+PVSUFF_SUBJ:3MS سَكَن)
+                        (NP-SBJ
+                          (-NONE- *-4))
+                        (NP-OBJ
+                          (NOUN مَكان)
+                          (S
+                            (PRT
+                              (NOUN ما))
+                            (NP-TMP
+                              (NOUN_QUANT كُلّ)
+                              (NP
+                                (NOUN+NSUFF_FEM_SG مَرَّة)))
+                            (VP
+                              (IV3MS+IV_PASS يِتْقِطِع)
+                              (NP-SBJ-6
+                                (NOUN ذِيل)
+                                (NP
+                                  (POSS_PRON_3MS ُه)))
+                              (NP-OBJ
+                                (-NONE- *-6)))))))))))))))))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="it's tale" n="1">ذيله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+<comment>Based on roleset qaTaE-a.03</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on qaTaE-a</comment>
+<frameset cdef="" edef="to buy a ticket (multi word expression)" id="04" vncls="">
+<role argnum="0" argrole="buyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو قطع * تذكرة ليها</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="a ticket for her" n="1">تذكرة ليها</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things bought (ticket)" vncls="" vntheta=""/>
+</frameset>
+</verb>

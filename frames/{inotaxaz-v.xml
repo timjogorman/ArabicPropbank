@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotaxaz</id>
+
+<frameset cdef="" edef="to be pierced or poked" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتخز * الجمل بالسهم</parse>
+
+<arg f="" g="NONE" n="0">*?  NONE</arg>
+<arg f="" g="the camel" n="1">الجمل</arg>
+<comment/>
+<arg f="" g="with an arrow" n="2">بالسهم</arg>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity poked" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

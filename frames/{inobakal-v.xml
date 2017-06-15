@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobakal</id>
+
+<frameset cdef="" edef="to be mixed, combined" id="01" vncls="">
+<role argnum="0" argrole="agent, mixer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انبكلت القهوة بالحليب</parse>
+
+<arg f="" g="coffee" n="1">القهوة</arg>
+<arg f="" g="with milk" n="2">بالحليب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="ingredient one" vncls="" vntheta=""/>
+<role argnum="2" argrole="ingredient two" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="container" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

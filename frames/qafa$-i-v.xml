@@ -1,0 +1,75 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qafa$-i</id>
+<comment/>
+<frameset cdef="" edef="to grab, to arrest" id="01" vncls="">
+<role argnum="0" argrole="grabber" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قفشت الشرطة الحرامية</parse>
+<comment/>
+<arg f="" g="the police" n="0">الشرطة</arg>
+<arg f="" g="the thieves" n="1">الحرامية</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity or thing grabbed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be active in eating" id="02" vncls="">
+<role argnum="0" argrole="entity eating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قفش الرجل</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to hit or beat" id="03" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قفش الرجل الولد بالعصا على رأسه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the boy" n="1">الولد</arg>
+<arg f="" g="with the stick" n="2">بالعصا</arg>
+<arg f="" g="on his head" n="3">على رأسه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity being hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="on which part" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to milk" id="04" vncls="">
+<role argnum="0" argrole="entity milking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قفش الرجل الشاة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="female sheep" n="1">الشاة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity milked" vncls="" vntheta=""/>
+</frameset>
+</verb>

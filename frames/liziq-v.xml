@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>liziq</id>
+<comment>EGYPTIAN ARABIC Framefile based on laSiq-a-v</comment>
+<frameset cdef="" edef="to stick or adhere to" id="01" vncls="">
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>لصِق الطِّينُ بحذائه</parse>
+<comment />
+<arg f="" g="the mud" n="1">الطِّينُ</arg>
+<arg f="" g="with his shoe" n="2">بحذائه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset laSiq-a-v.01</comment>
+<role argnum="1" argrole="entity glued" vncls="" vntheta="" />
+<role argnum="2" argrole="to what" vncls="" vntheta="" />
+</frameset>
+</verb>

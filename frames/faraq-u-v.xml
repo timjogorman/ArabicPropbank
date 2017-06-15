@@ -1,42 +1,87 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>faraq-u</id>
-    <comment/>
-    <frameset cdef="" edef="to separate, to distinguish" id="01">
-        <role argnum="0" argrole="separater"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>فَرَق *  بين المتخاصمين</parse>
-                <comment/>
-                <arg f="" g="NONE" n="0">-NONE- *?</arg>
-                <arg f="" g="between two disputing parties" n="1">بين المتخاصمين</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="first entity/thing"/>
-        <role argnum="2" argrole="second entity/thing"/>
-    </frameset>
-    <frameset cdef="" edef="to part the hair" id="02">
-        <role argnum="0" argrole="agent"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>فَرَق *  شعره بالمشط</parse>
-                <comment/>
-                <arg f="" g="NONE" n="0">-NONE- *?</arg>
-                <arg f="" g="his hair" n="1">شعره</arg>
-                <arg f="" g="with the comb" n="2">بالمشط</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="things parted"/>
-        <role argnum="2" argrole="instrument used ( Usually marked by   بـ )"/>
-    </frameset>
+<id>faraq-u</id>
+
+<frameset cdef="" edef="to separate, to distinguish" id="01" vncls="">
+<role argnum="0" argrole="separater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فَرَق *  بين المتخاصمين</parse>
+
+<arg f="" g="NONE" n="0">-NONE- *?</arg>
+<arg f="" g="between two disputing parties" n="1">بين المتخاصمين</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="first entity/thing" vncls="" vntheta=""/>
+<role argnum="2" argrole="second entity/thing" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to part the hair" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فَرَق *  شعره بالمشط</parse>
+
+<arg f="" g="NONE" n="0">-NONE- *?</arg>
+<arg f="" g="his hair" n="1">شعره</arg>
+<arg f="" g="with the comb" n="2">بالمشط</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things parted" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument used ( Usually marked by   بـ )" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to matter / make a difference / be of importance" id="03" vncls="">
+<role argnum="1" argrole="thing that matters" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الموضوع ما بيفرقش * معي</parse>
+
+<arg f="" g="-NONE- &gt; the subject" n="1">* &gt; الموضوع</arg>
+<arg f="" g="to me" n="2">معي</arg>
+<comment/>
+</example>
+
+<comment/>
+<example>
+<parse>لا يفرق معي أن أتيت أو لا</parse>
+<comment/>
+<arg f="" g="with me" n="1">معي</arg>
+<arg f="" g="if you would come or not" n="2">أن أتيت أو لا</arg>
+</example>
+</frame>
+
+<role argnum="2" argrole="matters to whom" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
 </verb>

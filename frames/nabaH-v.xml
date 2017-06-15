@@ -1,0 +1,66 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nabaH</id>
+
+<frameset cdef="" edef="to be or become hoarse" id="01" vncls="">
+<role argnum="1" argrole="entity loosing thier voice" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(VOC_PART يا))
+        (NOUN مَجْلِس))
+      (NP-VOC
+        (PRT
+          (VOC_PART يا))
+        (ADJ عَسْكَرِي))
+      (NP-PRD
+        (NOUN+NSUFF_FEM_SG خُسارَة))
+      (NP-SBJ
+        (NP
+          (NOUN صُوت)
+          (NP
+            (POSS_PRON_1P نا)))
+        (SBAR
+          (WHNP-6
+            (REL_PRON اِللِّي))
+          (S
+            (VP
+              (PV_PASS+PVSUFF_SUBJ:3MS إِتْنَبَح)
+              (NP-SBJ
+                (-NONE- *T*-6))
+              (NP-ADV
+                (NOUN مَع)
+                (NP
+                  (DET+NOUN الناس))))))))</parse>
+
+<arg f="" g="our voice" n="1">*T* -6 صُوتنا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Egypt</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to bark at" id="02" vncls="">
+<role argnum="0" argrole="entity barking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نبح الكلب على ساعي البريد</parse>
+<comment/>
+<arg f="" g="the dog" n="0">الكلب</arg>
+<arg f="" g="at the post man" n="1">على ساعي البريد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom or what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HAwir</id>
+<comment/>
+<frameset cdef="" edef="to discuss, dialogue, converse" id="01" vncls="">
+<role argnum="0" argrole="entity discussing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ما تقعدش تحاور * ني في الموضوع ده مرة تانية</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="me" n="2">ني</arg>
+<arg f="" g="in this subject" n="1">في الموضوع ده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="discussion" vncls="" vntheta=""/>
+<role argnum="2" argrole="other party" vncls="" vntheta=""/>
+</frameset>
+</verb>

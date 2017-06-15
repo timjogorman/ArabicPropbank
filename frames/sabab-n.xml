@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sabab</id>
+<comment/>
+<frameset cdef="" edef="reason or cause" id="01" vncls="">
+<role argnum="1" argrole="the reason" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان الكتاب سببا * لتغيير حياته</parse>
+<comment/>
+<arg f="" g="the book" n="1">* الكتاب</arg>
+<arg f="" g="to change his life" n="2">لتغيير حياته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

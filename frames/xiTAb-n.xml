@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xiTAb</id>
+
+<frameset cdef="" edef="speech, address" id="01" vncls="">
+<role argnum="0" argrole="speeker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>في خطاب للرئيس الى الشعب حول الحرب في العراق</parse>
+
+<arg f="" g="the president" n="0">للرئيس</arg>
+<arg f="" g="to the nation" n="1">الى الشعب</arg>
+<arg f="" g="about the war in Iraq" n="2">حول الحرب في العراق</arg>
+<comment/>
+</example>
+
+<example>
+<parse>خطاب الرئيس الى الجيش عن يوم الاستقلال كان قصيرا</parse>
+
+<arg f="" g="the president" n="0">الرئيس</arg>
+<arg f="" g="to the Army" n="1">الى الجيش</arg>
+<arg f="" g="about the independance day" n="2">عن يوم الاستقلال</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<role argnum="1" argrole="listener" vncls="" vntheta=""/>
+<role argnum="2" argrole="topic" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="Attribute of Arg2 if separate" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

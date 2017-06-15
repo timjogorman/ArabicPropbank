@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>lAmiD</id>
+<comment>EGYPTIAN ARABIC Framefile based on varovar-v</comment>
+<frameset cdef="" edef="to chatter or babble" id="01" vncls="">
+<role argnum="0" argrole="talker" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>اخويا قاعد يرغي * عن السفرة بتاعته</parse>
+<comment />
+<arg f="" g="my brother" n="0">* اخويا</arg>
+<arg f="" g="about his trip" n="2">عن السفرة بتاعته</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset varovar-v.01</comment>
+<role argnum="1" argrole="with whom" vncls="" vntheta="" />
+<role argnum="2" argrole="subject" vncls="" vntheta="" />
+</frameset>
+</verb>

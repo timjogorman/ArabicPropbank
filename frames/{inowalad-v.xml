@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inowalad</id>
+<comment/>
+<frameset cdef="" edef="" id="01" vncls="">
+<role argnum="1" argrole="the one was born" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انولدت سلمى في الرباط</parse>
+<comment/>
+<arg f="" g="salma" n="1">سلمى</arg>
+<arg f="" g="in Rabat" n="2">في الرباط</arg>
+</example>
+<comment/>
+</frame>
+<comment>To be born</comment>
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

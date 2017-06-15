@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ban~AL</id>
+<frameset cdef="" edef="frequently building / exelent builder  (metaphorically: positive / constructive)" id="01" vncls="">
+<role argnum="0" argrole="entity frequently builds" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing built" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>هو * بناء ماهر</parse>
+<arg f="" g="builder" n="0">* بناء</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

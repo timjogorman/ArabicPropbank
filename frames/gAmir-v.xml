@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gAmir</id>
+<comment/>
+<frameset cdef="" edef="take risks, venture, bamble" id="01" vncls="">
+<role argnum="0" argrole="venturer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو يحب يغامر *  في الحاجات دية</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="in these things" n="1">في الحاجات دية</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="adventure" vncls="" vntheta=""/>
+</frameset>
+</verb>

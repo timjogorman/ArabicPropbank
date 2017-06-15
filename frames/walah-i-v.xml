@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>walah-i</id>
+<comment/>
+<frameset cdef="" edef="to love so much, to be enthralled, to be sad, to be confused" id="01">
+<role argnum="0" argrole="entity loving"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وله الصبي الى أمه</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الصبي</arg>
+<arg f="" g="to his mother" n="1">الى أمه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity loved"/>
+</frameset>
+</verb>

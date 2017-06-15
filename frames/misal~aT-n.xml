@@ -1,0 +1,142 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>misal~aT</id>
+<frameset cdef="" edef="To shed light" id="01" vncls="">
+<role argnum="0" argrole="entity shedding" vncls="" vntheta="" />
+<role argnum="1" argrole="the light (usually)" vncls="" vntheta="" />
+<role argnum="2" argrole="thing explained, thing shed" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+              (PUNC &quot;)
+              (PP
+                (PREP في)
+                (NP
+                  (NP
+                    (NOUN+CASE_DEF_GEN كتاب)
+                    (NP
+                      (POSS_PRON_3FS ها)))
+                  (NP-TTL
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM العودة))
+                    (PP
+                      (PREP الى)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN الجذور))))))
+              (VP
+                (IV3FS+IV+IVSUFF_MOOD:I تسلط)
+                (NP-SBJ
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الدكتورة)
+                  (NOUN_PROP مالك))
+                (NP-OBJ
+                  (DET+NOUN+CASE_DEF_ACC الضوء))
+                (PP-CLR
+                  (PREP على)
+                  (NP
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الصعوبات))
+                    (SBAR
+                      (WHNP-2
+                        (REL_PRON التي))
+                      (S
+                        (VP
+                          (IV3FS+IV+IVSUFF_MOOD:I تواجه)
+                          (NP-SBJ
+                            (-NONE- *T*-2))
+                          (NP-OBJ
+                            (NP
+                              (DET+NOUN+NSUFF_MASC_PL_GEN اللبنانيين))
+                            (SBAR
+                              (WHNP-3
+                                (-NONE- 0))
+                              (S
+                                (VP
+                                  (DET+ADJ.VN+NSUFF_MASC_PL_GEN العائدين)
+                                  (NP-SBJ
+                                    (-NONE- *T*-3))
+                                  (PP-DIR
+                                    (PREP الى)
+                                    (NP
+                                      (NP
+                                        (NOUN+CASE_DEF_GEN وطن)
+                                        (NP
+                                          (POSS_PRON_3MP هم)))</parse>
+<arg f="" g="Dr. Malik" n="0">الدكتورة مالك</arg>
+<arg f="" g="Light" n="1">الضوء</arg>
+<arg f="" g="The difficulties faced by Lebanese returning to their homeland" n="2">على الصعوبات  التي تواجه اللبنانيين العائدين الى وطنهم</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset sal~aT.01</comment>
+</frameset>
+<comment>Framefile based on sal~aT</comment>
+<frameset cdef="" edef="to empower, to set as absolute master" id="02" vncls="">
+<role argnum="0" argrole="agent empowering" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(VP
+        (IV1S+IV أَدعُو)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN اللَّه))
+        (SBAR
+          (SBAR
+            (SUB_CONJ أَنْ)
+            (S
+              (VP
+                (IV3MS+IV يَغفر)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (NOUN ذُنُوب)
+                  (NP
+                    (NO_FUNC المصريين))))))
+          (SUB_CONJ وَ)
+          (SBAR
+            (SUB_CONJ أَنْ)
+            (S
+              (VP
+                (PRT
+                  (NEG_PART لا))
+                (IV3MS+IV يُسَلِّط)
+                (NP-SBJ
+                  (-NONE- *))
+                (PP
+                  (PREP عَلَى)
+                  (NP
+                    (PRON_1P نا)))
+                (PP-PRP
+                  (PREP بِ)
+                  (NP
+                    (NOUN ذُنُوب)
+                    (NP
+                      (POSS_PRON_1P نا))))
+                (SBAR-NOM-OBJ
+                  (WHNP-1
+                    (REL_PRON مَنْ))
+                  (S
+                    (VP
+                      (PRT
+                        (NEG_PART لا))
+                      (IV3MS+IV يِرْحَم)
+                      (NP-SBJ
+                        (-NONE- *T*-1))
+                      (NP-OBJ
+                        (IVSUFF_DO:1P نا))))))))))
+      (PUNC .))))</parse>
+<comment />
+<arg f="" g="God" n="0">* اللَّه</arg>
+<arg f="" g="on us" n="2">علينا</arg>
+<arg f="" g="who will have no mercy on us" n="1">من لا يرحمنا</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset sal~aT.02</comment>
+<role argnum="1" argrole="empowering what" vncls="" vntheta="" />
+<role argnum="2" argrole="over who or what" vncls="" vntheta="" />
+</frameset>
+</verb>

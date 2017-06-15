@@ -1,0 +1,81 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eazar-i</id>
+<comment/>
+<frameset cdef="" edef="to blame, to help or aid" id="01" vncls="">
+<role argnum="0" argrole="blamer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عزر الأب أبنه على عمله</parse>
+<comment/>
+<arg f="" g="the father" n="0">الأب</arg>
+<arg f="" g="his son" n="1">أبنه</arg>
+<arg f="" g="for what he did" n="2">على عمله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="blamed" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to prevent or stop" id="02" vncls="">
+<role argnum="0" argrole="stopper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عزر الأب أبنه عن شرب الخمرة</parse>
+<comment/>
+<arg f="" g="the father" n="0">الأب</arg>
+<arg f="" g="his son" n="1">أبنه</arg>
+<arg f="" g="from drinking liquor" n="2">عن شرب الخمرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity stopped" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to let know about, to tell about" id="03" vncls="">
+<role argnum="0" argrole="teacher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عزر الأب أبنه على فرائض الدين</parse>
+<comment/>
+<arg f="" g="the father" n="0">الأب</arg>
+<arg f="" g="his son" n="1">أبنه</arg>
+<arg f="" g="at the religious obligation" n="2"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="student" vncls="" vntheta=""/>
+<role argnum="2" argrole="subject" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to punish or penalize" id="04" vncls="">
+<role argnum="0" argrole="punisher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عزر القاضي المتهم بسنتين في السجن</parse>
+<comment/>
+<arg f="" g="the judge" n="0">القاضي</arg>
+<arg f="" g="the accused" n="1">المتهم</arg>
+<arg f="" g="two years in jail" n="2">بسنتين في السجن</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity punished" vncls="" vntheta=""/>
+<role argnum="2" argrole="Punishment / with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

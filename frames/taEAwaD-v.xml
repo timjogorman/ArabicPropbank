@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEAwaD</id>
+<comment/>
+<frameset cdef="" edef="to become better after a bad period" id="01" vncls="">
+<role argnum="1" argrole="things becoming good" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تعاوض القوم</parse>
+<comment/>
+<arg f="" g="the people" n="2">القوم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to compensate, to make up for" id="02" vncls="">
+<role argnum="0" argrole="the agent compensating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity being compensated" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<role argnum="3" argrole="the compensation, compensated with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>maraD</id>
+<comment>EGYPTIAN ARABIC Framefile based on mariD-a-v</comment>
+<frameset cdef="" edef="to be sick, to fall ill" id="01">
+<role argnum="0" argrole="entity getting sick" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>مرض الرجل بالانفلونزا من البرد</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="by flu" n="1">بالانفلونزا</arg>
+<arg f="" g="from cold" n="2">من البرد</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset mariD-a-v.01</comment>
+<role argnum="1" argrole="sickness" />
+<role argnum="2" argrole="source or from" />
+</frameset>
+</verb>

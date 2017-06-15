@@ -1,0 +1,128 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Saraf</id>
+
+    <frameset cdef="" edef="to spend or use money" id="01" vncls="">
+<role argnum="0" argrole="buyer" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing spent" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>واكد * ان &quot; البلدية تعمل **-1 على مساعدة الدولة عبر موقع بحمدون الاصطيافي والسياحي , اذ ان المصطاف يصرف **-2 الاموال في اسواقنا - . . - لذا علينا ان نستورد * بشراً من المصطافين والسائحين &quot; .</parse>
+<arg f="" g="-NONE- &lt; the tourist" n="0">**-2 &lt; المصطاف</arg>
+<arg f="" g="money" n="1">الاموال</arg>
+<arg f="loc" g="in our markets" n="m">في اسواقنا</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset Saraf-i.01</comment>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to deal with, to take care of" id="04" vncls="">
+<role argnum="0" argrole="entity taking care" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(NP
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_SG الحُكُومَة))
+                  (ADJP
+                    (DET+ADJ+NSUFF_FEM_SG القابِعَة)
+                    (PP-LOC
+                      (PREP فِي)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG القَرْيَة)
+                        (DET+ADJ+NSUFF_FEM_SG الذَكِيَّة)))))
+                (PUNC .)
+                (PUNC .)
+                (SBAR
+                  (SBAR
+                    (WHNP-1
+                      (REL_PRON الَّتِي))
+                    (S
+                      (VP
+                        (PV+PVSUFF_SUBJ:3FS تَرَكِت)
+                        (NP-SBJ
+                          (-NONE- *T*-1))
+                        (NP-OBJ-4
+                          (NOUN شَعبَ)
+                          (NP
+                            (POSS_PRON_3FS ها)))
+                        (PP-LOC
+                          (PREP فِي)
+                          (NP
+                            (DET+NOUN الشارِع)))
+                        (S-ADV
+                          (VP
+                            (IV3MS+IV يِصْرِف)
+                            (NP-SBJ
+                              (-NONE- *-4))
+                            (NP-OBJ
+                              (NOUN اُمُور)
+                              (NP
+                                (POSS_PRON_3MS ُه)))
+                            (PP-MNR
+                              (PREP بِ)
+                              (NP
+                                (NOUN نَفْس)
+                                (NP
+                                  (POSS_PRON_3MS ُه))))
+                            (PUNC ,)
+                            (PUNC ,))))))</parse>
+
+<arg f="" g="it's people" n="0">* شعبها</arg>
+<arg f="" g="his matters" n="1">اموره</arg>
+<arg f="" g="by him self" n="2">بنفسه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="of what" vncls="" vntheta=""/>
+<role argnum="2" argrole="how" vncls="" vntheta=""/>
+<comment>Based on roleset Saraf-i.04</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Saraf-i</comment>
+<frameset cdef="" edef="to pay" id="05" vncls="">
+<role argnum="0" argrole="payer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (LST
+      (NOUN_NUM 2))
+    (PUNC -)
+    (VP
+      (PRT
+        (FUT_PART حَ))
+      (IV1P+IV نِصْرِف)
+      (NP-SBJ
+        (-NONE- *))
+      (PP
+        (PREP لِ)
+        (NP
+          (PRON_3P هُم)))
+      (NP-OBJ
+        (NOUN تَعْوِيض)))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="to them" n="2">لهم</arg>
+<arg f="" g="compensation" n="1">تعويض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things payed" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

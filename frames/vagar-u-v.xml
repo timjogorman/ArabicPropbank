@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>vagar-u</id>
+
+<frameset cdef="" edef="to hole, to break" id="01" vncls="">
+<role argnum="0" argrole="entity breaking, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ثغر الرجل الحائط</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the wall" n="1">الحائط</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity broken" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to pull out teeth" id="02" vncls="">
+<role argnum="0" argrole="entity pulling out" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ثغرت البنت سنها</parse>
+
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="her tooth" n="1">سنها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="tooth" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="victim i(f separated from ARG1)" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

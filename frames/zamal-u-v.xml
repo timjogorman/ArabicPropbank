@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zamal-u</id>
+<comment/>
+<frameset cdef="" edef="to follow" id="01" vncls="">
+<role argnum="0" argrole="follower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زمل الرجل القافلة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the caravan" n="1">القافلة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="followed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to carry" id="02" vncls="">
+<role argnum="0" argrole="entity carrrying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زمل الرجل الحمل</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the load" n="1">الحمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things carried" vncls="" vntheta=""/>
+</frameset>
+</verb>

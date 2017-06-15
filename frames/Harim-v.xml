@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Harim</id>
+<comment/>
+<frameset cdef="" edef="to prohibit" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حرم عليه الأمر</parse>
+<comment/>
+<arg f="" g="on him" n="1">عليه</arg>
+<arg f="" g="the matter" n="2">الأمر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity prohibited" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to lose" id="02" vncls="">
+<role argnum="0" argrole="entity loosing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حرم الرجل في القمار</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in gambling" n="2">في القمار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things lost" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<role argnum="3" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

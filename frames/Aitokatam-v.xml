@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitokatam</id>
+<comment/>
+<frameset cdef="" edef="to stop talking" id="01" vncls="">
+<role argnum="1" argrole="entity stopped talking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا اتكتمت * خالص</parse>
+<comment/>
+<arg f="" g="I" n="1">* أنا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

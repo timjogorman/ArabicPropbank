@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitowas~aT</id>
+<comment>EGYPTIAN ARABIC based on tawas~aT</comment>
+    <frameset cdef="" edef="mediate, intercede" id="01">
+<role argnum="0" argrole="mediator" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>جنبلاط يتوسّط بين فرنسا وسوريا.
+
+
+Arg 0: -None- -T-* (جنبلاط)
+Arg 1: بين فرنسا وسوريا</parse>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset tawas~aT.01</comment>
+<role argnum="1" argrole="entity mediated" />
+</frameset>
+</verb>

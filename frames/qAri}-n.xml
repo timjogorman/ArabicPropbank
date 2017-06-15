@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qAri}</id>
+<comment/>
+<frameset cdef="" edef="reader, reciter" id="01" vncls="">
+<role argnum="0" argrole="entity reading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان الرجل قارئا * لأفكاري و كأنها كتاب مفتوح</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="my thoughts" n="1">لأفكاري</arg>
+<arg f="mnr" g="as it was an open book" n="m">و كأنها كتاب مفتوح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing being read" vncls="" vntheta=""/>
+<role argnum="2" argrole="topic" vncls="" vntheta=""/>
+<role argnum="3" argrole="hearer" vncls="" vntheta=""/>
+</frameset>
+</verb>

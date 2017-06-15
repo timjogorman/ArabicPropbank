@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saf~ar</id>
+<comment/>
+<frameset cdef="" edef="to send on a journey, to send away" id="01" vncls="">
+<role argnum="0" argrole="sender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا حسفر * ولادي على أمريكا</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="my children" n="1">ولادي</arg>
+<arg f="" g="to America" n="2">على أمريكا</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="sended" vncls="" vntheta=""/>
+<role argnum="2" argrole="to where" vncls="" vntheta=""/>
+</frameset>
+</verb>

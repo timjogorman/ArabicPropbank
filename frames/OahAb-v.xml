@@ -1,24 +1,29 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>OahAb</id>
-    <comment/>
-    <frameset cdef="" edef="to appealto, request" id="01">
-        <role argnum="0" argrole="begger, appealer"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>اتحاد الكرة المصري يهيب بالأندية التعاون لإنقاذ الدوري</parse>
-                <comment/>
-                <arg f="" g="Egyptian FA" n="0">اتحاد الكرة المصري</arg>
-                <arg f="" g="the ball club" n="1">بالأندية</arg>
-                <arg f="" g="to cooperate in saving the league" n="2">التعاون لإنقاذ الدوري</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="appealed to, begged from (marked by ب)"/>
-        <role argnum="2" argrole="begged/appealed for"/>
-    </frameset>
+<id>OahAb</id>
+
+<frameset cdef="" edef="to appeal to, request" id="01" vncls="">
+<role argnum="0" argrole="begger, appealer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اتحاد الكرة المصري يهيب بالأندية التعاون لإنقاذ الدوري</parse>
+
+<arg f="" g="Egyptian FA" n="0">اتحاد الكرة المصري</arg>
+<arg f="" g="the ball club" n="1">بالأندية</arg>
+<arg f="" g="to cooperate in saving the league" n="2">التعاون لإنقاذ الدوري</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="appealed to, begged from (marked by ب)" vncls="" vntheta=""/>
+<role argnum="2" argrole="begged/appealed for" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

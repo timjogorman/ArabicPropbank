@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qa$oEar</id>
+<comment/>
+<frameset cdef="" edef="give goose bumps" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جسمي كله بيقشعر * منه</parse>
+<comment/>
+<arg f="" g="my whole body" n="1">جسمي كله</arg>
+<arg f="" g="from him" n="0">منه</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="entity getting the goose bumps" vncls="" vntheta=""/>
+</frameset>
+</verb>

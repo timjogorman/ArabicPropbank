@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qazaH</id>
+<comment/>
+<frameset cdef="" edef="to rise, to increase, to go up or ascend" id="01" vncls="">
+<role argnum="1" argrole="things rising up" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قزحت اسعار الفاكهة</parse>
+<comment/>
+<arg f="" g="the fruit prices" n="1">اسعار الفاكهة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

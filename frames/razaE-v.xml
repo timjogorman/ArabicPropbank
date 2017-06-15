@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>razaE</id>
+<comment/>
+<frameset cdef="" edef="to slap or hit" id="01" vncls="">
+<role argnum="0" argrole="entity hitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو رزع * اخوه بكف على وشه</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="his brother" n="1">اخوه</arg>
+<arg f="" g="with his hand" n="2">بكف</arg>
+<arg f="loc" g="on his face" n="m">على وشه</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to ignore, to forget about, to make sit" id="02" vncls="">
+<role argnum="0" argrole="entity forgetting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو رزع * اخوه في المحل</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="his brother" n="1">اخوه</arg>
+<arg f="loc" g="in the store" n="m">في المحل</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="1" argrole="entity forgotten" vncls="" vntheta=""/>
+</frameset>
+</verb>

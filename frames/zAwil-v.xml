@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zAwil</id>
+
+<frameset cdef="" edef="distract" id="01" vncls="">
+<role argnum="0" argrole="agent / stimulus" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كان  أصدقائي بيزاولو * ني</parse>
+
+<arg f="" g="my friends" n="0">* أصدقائي</arg>
+<arg f="" g="me" n="1">ني</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="distracted entity" vncls="" vntheta=""/>
+<role argnum="2" argrole="distracted from" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

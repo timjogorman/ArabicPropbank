@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Sahar-a</id>
+
+<frameset cdef="" edef="to fuse or melt" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>صهر العامل الحديد في قالب</parse>
+
+<arg f="" g="the worker" n="0">العامل</arg>
+<arg f="" g="the iron" n="1">الحديد</arg>
+<arg f="" g="in a mold" n="2">في قالب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things melted" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

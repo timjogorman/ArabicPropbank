@@ -1,75 +1,140 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>taHowiyl</id>
-    <frameset cdef="" edef="changing, converting or switching" id="01">
-        <role argnum="0" argrole="changer"/>
-        <role argnum="1" argrole="entity or thing changed"/>
-        <role argnum="2" argrole="original state"/>
-        <role argnum="3" argrole="end state"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (PP
-                    (PREP ك)
-                    (NP
-                    (DEM_PRON_MS ذلك)))
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS وضعت)
-                    (NP-SBJ
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الوزارة))
-                    (NP-OBJ
-                    (NP
-                    (NOUN_QUANT+CASE_DEF_ACC بعض)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN العقارات)))
-                    (ADJP
-                    (DET+ADJ+NSUFF_FEM_SG المستملكة)
-                    (PP
-                    (PREP من)
-                    (NP
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المديرية)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN العامة))
-                    (PP
-                    (PREP ل)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN لآثار)))))))
-                    (PP-CLR
-                    (PREP في)
-                    (NP
-                    (NOUN+CASE_DEF_GEN تصرف)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN البلدية))))
-                    (PP-PRP
-                    (PREP ل)
-                    (S-NOM
-                    (VP
-                    (NOUN.VN+CASE_DEF_GEN تحويل)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ-1
-                    (POSS_PRON_3FS ها))
-                    (S
-                    (NP-SBJ
-                    (-NONE- *-1))
-                    (NP-PRD
-                    (NOUN+CASE_DEF_ACC مركز)
-                    (NP
-                    (NP
-                    (NOUN+CASE_INDEF_GEN استقبال)
-                    (CONJ و)
-                    (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN استعلامات))
-                    (PP
-                    (PREP ل)
-                    (NP
+<id>taHowiyl</id>
+<frameset cdef="" edef="changing, converting or switching" id="01" vncls="">
+<role argnum="0" argrole="changer" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity or thing changed" vncls="" vntheta=""/>
+<role argnum="2" argrole="original state" vncls="" vntheta=""/>
+<role argnum="3" argrole="end state" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (PP
+    (PREP ك)
+    (NP
+      (DEM_PRON_MS ذلك)))
+  (VP
+    (PV+PVSUFF_SUBJ:3FS وضعت)
+    (NP-SBJ
+      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الوزارة))
+    (NP-OBJ
+      (NP
+        (NOUN_QUANT+CASE_DEF_ACC بعض)
+        (NP
+          (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN العقارات)))
+      (ADJP
+        (DET+ADJ+NSUFF_FEM_SG المستملكة)
+        (PP
+          (PREP من)
+          (NP
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المديرية)
+              (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN العامة))
+            (PP
+              (PREP ل)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN لآثار)))))))
+    (PP-CLR
+      (PREP في)
+      (NP
+        (NOUN+CASE_DEF_GEN تصرف)
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN البلدية))))
+    (PP-PRP
+      (PREP ل)
+      (S-NOM
+        (VP
+          (NOUN.VN+CASE_DEF_GEN تحويل)
+          (NP-SBJ
+            (-NONE- *))
+          (NP-OBJ-1
+            (POSS_PRON_3FS ها))
+          (S
+            (NP-SBJ
+              (-NONE- *-1))
+            (NP-PRD
+              (NOUN+CASE_DEF_ACC مركز)
+              (NP
+                (NP
+                  (NOUN+CASE_INDEF_GEN استقبال)
+                  (CONJ و)
+                  (NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN استعلامات))
+                (PP
+                  (PREP ل)
+                  (NP
                     (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN لسياحة))))))
-                    (NP-ADV
-                </parse>
-                <arg f="" g="NONE" n="0">-NONE- *</arg>
-                <arg f="" g="it" n="1">ها</arg>
-                <arg f="" g="reception and Information Centre for Tourism" n="3">مركز استقبال و استعلامات للسياحة</arg>
-            </example>
-        </frame>
-    </frameset>
+          (NP-ADV</parse>
+<arg f="" g="NONE" n="0">-NONE- *</arg>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="reception and Information Centre for Tourism" n="3">مركز استقبال و استعلامات للسياحة</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to send to" id="02" vncls="">
+<role argnum="0" argrole="sender" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(VP
+            (ADJ.VN+CASE_INDEF_ACC مُؤَكِّداً)
+            (NP-SBJ
+              (-NONE- *-2))
+            (PP-CLR
+              (PREP عَلَى)
+              (NP
+                (NP
+                  (NOUN+NSUFF_FEM_SG مُحاسَبَة)
+                  (NP
+                    (NP
+                      (DET+NOUN الضُبّاط))
+                    (SBAR
+                      (WHNP-3
+                        (REL_PRON الَّذِينَ))
+                      (S
+                        (VP
+                          (IV3P+IV+IVSUFF_SUBJ:P يُطْلِقُون)
+                          (NP-SBJ
+                            (-NONE- *T*-3))
+                          (NP-OBJ
+                            (DET+NOUN اللُحَى)))))))
+                (CONJ وَ)
+                (S-NOM
+                  (VP
+                    (NOUN.VN تَحْوِيل)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (POSS_PRON_3P هُم))
+                    (PP-CLR
+                      (PREP لِ)
+                      (NP
+                        (NOUN مَجْلِس)
+                        (NP
+                          (NOUN تَأْدِيب))))))))))))
+    (CONJ وَ)</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="them" n="1">هُم</arg>
+<arg f="" g="disciplinary board" n="2">لمجلس تأديب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="sent" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom or where" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
 </verb>

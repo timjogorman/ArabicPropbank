@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oafaq-i</id>
+<comment/>
+<frameset cdef="" edef="" id="01" vncls="">
+<role argnum="0" argrole="entity leaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أفق الرحالة في الأرض</parse>
+<comment/>
+<arg f="" g="the traveler" n="0">الرحالة</arg>
+<arg f="" g="in the land" n="1">في الأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment>to wander or travel</comment>
+<role argnum="1" argrole="to where" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to lie" id="02" vncls="">
+<role argnum="0" argrole="entity lying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أفق الرجل في كلامه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his words" n="1">في كلامه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="lie" vncls="" vntheta=""/>
+<role argnum="2" argrole="hearer" vncls="" vntheta=""/>
+</frameset>
+</verb>

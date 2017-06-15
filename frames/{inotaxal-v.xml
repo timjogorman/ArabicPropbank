@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotaxal</id>
+
+<frameset cdef="" edef="to be chosen and selected" id="01" vncls="">
+<role argnum="1" argrole="entity selected" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتخل الفائز من المشاركين</parse>
+
+<arg f="" g="the winner" n="">الفائز</arg>
+<arg f="" g="from the participants" n="">ن المشاركين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

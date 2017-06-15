@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xuSuwSiy~</id>
+<comment/>
+<frameset cdef="" edef="special or particular" id="01" vncls="">
+<role argnum="1" argrole="things are special" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه سيارة خصوصية * لنقل الطلاب</parse>
+<comment/>
+<arg f="" g="car" n="1">سيارة</arg>
+<arg f="" g="for trasporting students" n="2">لنقل الطلاب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to whom or for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

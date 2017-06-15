@@ -1,17 +1,38 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>naqaD-u</id>
-    <frameset cdef="" edef="to reverse or rescind" id="01">
-        <role argnum="0" argrole="rescinder"/>
-        <role argnum="1" argrole="thing reversed"/>
-        <frame>
-            <example>
-                <parse>
-                    لم تغب الامبراطورية , في اي زمن و جنس لها, عن النص الديني, و عند الانبياء و ما يمثلون*ه **-1 من نموذج ميتافيزيكي 0 ينقض **-2 نموذج القوة المتمثل بالدولة الاقوى .
-                </parse>
-                <arg f="" g="-NONE- &amp;lt; metphysical model" n="0">**-2 &amp;lt; نموذج ميتافيزيكي</arg>
-                <arg f="" g="a model of power exemplified by the most powerful countries" n="1">نموذج القوة المتمثل بالدولة الاقوى</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>naqaD-u</id>
+<frameset cdef="" edef="to reverse or rescind" id="01" vncls="">
+<role argnum="0" argrole="rescinder" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing reversed" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>لم تغب الامبراطورية , في اي زمن و جنس لها, عن النص الديني, و عند الانبياء و ما يمثلون*ه **-1 من نموذج ميتافيزيكي 0 ينقض **-2 نموذج القوة المتمثل بالدولة الاقوى .</parse>
+<arg f="" g="-NONE- &lt; metphysical model" n="0">**-2 &lt; نموذج ميتافيزيكي</arg>
+<arg f="" g="a model of power exemplified by the most powerful countries" n="1">نموذج القوة المتمثل بالدولة الاقوى</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to destroy" id="02" vncls="">
+<role argnum="0" argrole="destroyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نقض العمال البناء بالمتفجرات</parse>
+<comment/>
+<arg f="" g="the workers" n="0">العمال</arg>
+<arg f="" g="the building" n="1">البناء</arg>
+<arg f="" g="by the explosives" n="2">بالمتفجرات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things destroyed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument of destruction" vncls="" vntheta=""/>
+</frameset>
 </verb>

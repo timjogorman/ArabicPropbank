@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nabaD-i</id>
+
+<frameset cdef="" edef="to pulsate, to pulse, to beat" id="01" vncls="">
+<role argnum="1" argrole="entity pulsing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ينبض قلبي بالحب</parse>
+
+<arg f="" g="my heart" n="1">قلبي</arg>
+<arg f="" g="with love" n="2">بالحب</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be disturbed , to move in it's place (multi word expression)" id="02" vncls="">
+<role argnum="1" argrole="entity or things disturbed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>نبضت أمعائه</parse>
+
+<arg f="" g="his intestine" n="1">أمعائه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

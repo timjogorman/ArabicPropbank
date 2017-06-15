@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitonAwil</id>
+<comment>EGYPTIAN ARABIC based on tanAwal</comment>
+    <frameset cdef="" edef="To address or handle" id="01">
+<role argnum="0" argrole="handler" />
+<role argnum="1" argrole="thing handled" />
+<frame>
+<comment>
+عالج
+</comment>
+<example>
+<parse>
+ندوات في عدد من دول العالم , 0 منها **-5 ندوة في لبنان برعاية لحود في 20 ايار المقبل , 0 ستتناول **-4 موضوع السرية المصرفية في مواجهة تبييض الاموال .
+</parse>
+<arg f="" g="It" n="0">**-4&lt;ندوة في لبنان برعاية لحود</arg>
+<arg f="" g="The subject of banking secrecy in the face of money laundering" n="1">موضوع السرية المصرفية في مواجهة تبييض الاموال</arg>
+</example>
+</frame>
+</frameset>
+</verb>

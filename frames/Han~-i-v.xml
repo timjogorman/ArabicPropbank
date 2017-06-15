@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Han~-i</id>
+<comment/>
+<frameset cdef="" edef="to long for, to yearn for" id="01">
+<role argnum="0" argrole="entity longing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حن المسافر الى بيته</parse>
+<comment/>
+<arg f="" g="the traveler" n="0">المسافر</arg>
+<arg f="" g="to his house" n="1">الى بيته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what  (Usually comes after  إلى )"/>
+</frameset>
+<frameset cdef="" edef="to sympathize with" id="02">
+<role argnum="0" argrole="entity sythizingmpa"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حن الرجل على والده لضعفه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on his father" n="1">على والده</arg>
+<arg f="" g="for his weakness" n="2">لضعفه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom  (Usually comes after   على)"/>
+<role argnum="2" argrole="for what"/>
+</frameset>
+</verb>

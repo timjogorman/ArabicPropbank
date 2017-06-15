@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zahoqAn</id>
+<comment/>
+<frameset cdef="" edef="to be bored with" id="01" vncls="">
+<role argnum="0" argrole="entity bored" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا زهقان * من القعدة</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="from sittinig" n="1">من القعدة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="with what? (marked with من)" vncls="" vntheta=""/>
+</frameset>
+</verb>

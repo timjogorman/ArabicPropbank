@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarAkal</id>
+<comment/>
+<frameset cdef="" edef="to kick each other" id="01" vncls="">
+<role argnum="0" argrole="kicker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تراكل الولد و رفيقه بالأقدام حتى نزفت أقدامهم</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="and his friend" n="1">و رفيقه</arg>
+<arg f="" g="with  feet" n="2">بالأقدام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="kicked" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

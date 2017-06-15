@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mawoqif</id>
+<comment/>
+<frameset cdef="" edef="position, attidute or stand" id="01" vncls="">
+<role argnum="1" argrole="entity taking a stand" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>موقفنا من هذا الموضوع هو الرفض</parse>
+<comment/>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="from this subject" n="2">من هذا الموضوع</arg>
+<arg f="" g="is the rejection" n="3">هو الرفض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+<role argnum="3" argrole="the stand" vncls="" vntheta=""/>
+</frameset>
+</verb>

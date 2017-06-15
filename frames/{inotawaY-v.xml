@@ -1,0 +1,67 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotawaY</id>
+
+<frameset cdef="" edef="to be folded,rolled up" id="01" vncls="">
+<role argnum="1" argrole="the folded thing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انطوى القميص</parse>
+
+<arg f="" g="the shirt" n="1">القميص</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to introvert" id="02" vncls="">
+<role argnum="0" argrole="patient" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انطوى أحمد على نفسه</parse>
+
+<arg f="" g="Ahmad" n="0">أحمد</arg>
+<arg f="" g="within himself" n="1">على نفسه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="attribute to arg0" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to contain, to include" id="03" vncls="">
+<role argnum="1" argrole="container" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انطوى الملف على أسماء الفائزين</parse>
+
+<arg f="" g="the file" n="0">الملف</arg>
+<arg f="" g="the winners' names" n="1">على أسماء الفائزين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="content" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

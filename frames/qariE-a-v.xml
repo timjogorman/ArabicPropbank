@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qariE-a</id>
+
+<frameset cdef="" edef="to be or become bald" id="01" vncls="">
+<role argnum="1" argrole="entity becoming bald" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قرع الشاب وهو في العشرين</parse>
+
+<arg f="" g="the young man" n="1">الشاب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to become empty or vacant" id="02" vncls="">
+<role argnum="1" argrole="things getting empty" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قرعت الساحة من الناس</parse>
+
+<arg f="" g="the spuare" n="1">الساحة</arg>
+<arg f="" g="from people" n="2">من الناس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaraS-u</id>
+
+<frameset cdef="" edef="to pinch, to bite, to sting, to hurt" id="01" vncls="">
+<role argnum="0" argrole="biter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>قرص الشاب صديقته</parse>
+
+<arg f="" g="the youngman" n="0">الشاب</arg>
+<arg f="" g="his girl friend" n="1">صديقته</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="bitten" vncls="" vntheta=""/>
+
+<comment/>
+<role argnum="2" argrole="touched with, if separate from agent" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to cut to pieces (dough)" id="02" vncls="">
+<role argnum="0" argrole="entity cutting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>قرص الخباز العجين</parse>
+
+<arg f="" g="the baker" n="0">الخباز</arg>
+<arg f="" g="the dough" n="1">العجين</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things cut" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

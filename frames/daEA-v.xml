@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daEA</id>
+<comment/>
+<frameset cdef="" edef="to request or invite, to supplicate, to pray humbly" id="01" vncls="">
+<role argnum="0" argrole="agent making the request" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا كنت عاوز ادعو * الكل  للحفلة</parse>
+<comment/>
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="everyone" n="2">الكل</arg>
+<arg f="" g="to the party" n="1">للحفلة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="the request or invitation" vncls="" vntheta=""/>
+<role argnum="2" argrole="audience to whom the request or invitation is made" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to curse" id="02" vncls="">
+<role argnum="0" argrole="speaker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا دعيت * عليك ما تسافرش</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="on you" n="2">عليك</arg>
+<arg f="" g="so you will not travel" n="1">ما تسافرش</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="utterance" vncls="" vntheta=""/>
+<role argnum="2" argrole="on whom? (marked by على)" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to pray" id="03" vncls="">
+<role argnum="0" argrole="entity praying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دعا الراجل ربه أنه يشفيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الراجل</arg>
+<arg f="" g="his God" n="1">ربه</arg>
+<arg f="" g="that he will heal him" n="2">أنه يشفيه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="to whom (God)" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

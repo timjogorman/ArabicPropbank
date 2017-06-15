@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitorat~ib</id>
+<frameset cdef="" edef="To result" id="01" vncls="">
+<role argnum="1" argrole="result" vncls="" vntheta=""/>
+<role argnum="2" argrole="prior condition or requirement - PP headed by على" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>يعاني اكثر الدول مشكلة الاختناق القضائي 0 الناجم **-4 عن تراكم الدعاوى امام المحاكم , والبطء في فصل النزاعات القضائية , وتأخر صدور الاحكام مما يؤدي **-5 الى مشكلات عديدة 0 ليس اقلها **-1 شعور المتقاضين بأن العدالة البطيئة تعادل **-2 الظلم , او في اقل المراتب عدم احقاق الحق , مما يترتب عليه **-6 نتائج خطيرة 0 ترقى **-3 الى مرتبة عدم الاستقرار في المجتمع , وعدم الشعور بالأمان والاطمئنان , الاجتماعي .</parse>
+<arg f="" g="Serious consequences" n="1">نتائج خطيرة</arg>
+<arg f="" g="upon it" n="2">عليه</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<comment>نشأ عن
+
+Based on roleset tarat~ab-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on tarat~ab-v</comment>
+<frameset cdef="" edef="to be or become arranged" id="02" vncls="">
+<role argnum="0" argrole="entity arranging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كل حاجة اترتبت * للحفلة</parse>
+<comment/>
+<arg f="" g="everything" n="1">* كل حاجة</arg>
+<arg f="" g="for the party" n="2">للحفلة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things arranged" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

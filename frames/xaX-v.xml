@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaX</id>
+
+<frameset cdef="" edef="to take" id="01" vncls="">
+<role argnum="0" argrole="taker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هو خذ * كل حاجة مني</parse>
+
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="everything" n="1">كل حاجة</arg>
+<arg f="" g="from me" n="2"/>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="taken" vncls="" vntheta=""/>
+<role argnum="2" argrole="taken from, source" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="other idiomatic expression (3 arguments)" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أخذ محمد على نفسه على عهد</parse>
+<comment/>
+<arg f="" g="Muhammad" n="0">محمد</arg>
+<arg f="" g="himself" n="1">على نفسه</arg>
+<arg f="" g="an oath" n="2">عهد</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="patient" vncls="" vntheta=""/>
+<role argnum="2" argrole="theme / idiomatic expression" vncls="" vntheta=""/>
+</frameset>
+</verb>

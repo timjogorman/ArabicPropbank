@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>salax</id>
+<comment>EGYPTIAN ARABIC Framefile based on salax-u-v</comment>
+<frameset cdef="" edef="to skin or flay" id="01" vncls="">
+<role argnum="0" argrole="remover" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>هذا الرجل ممكن يسلخ * الجلد عنك  بكل سهولة</parse>
+<comment />
+<arg f="" g="this man" n="0">* هذا الرجل</arg>
+<arg f="" g="the skin" n="1">الجلد</arg>
+<arg f="" g="from you" n="2">عنك</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset salax-u-v.01</comment>
+<role argnum="1" argrole="entity removed from" vncls="" vntheta="" />
+<role argnum="2" argrole="things removed" vncls="" vntheta="" />
+</frameset>
+</verb>

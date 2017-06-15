@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zahim</id>
+
+<frameset cdef="" edef="to rot or decay" id="01" vncls="">
+<role argnum="1" argrole="entity decaying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>زهم اللحم</parse>
+
+<arg f="" g="the meat" n="1">اللحم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

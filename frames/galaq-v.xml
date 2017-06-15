@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>galaq</id>
+
+<frameset cdef="" edef="to close, to shut" id="01" vncls="">
+<role argnum="0" argrole="entity closing" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>وقال بأنه سيغلق *  جميع الطرق الوؤدية الى المدينة</parse>
+
+<arg f="" g="he" n="0">-NONE- * ه</arg>
+<arg f="" g="all the roads that leads to the city" n="1">جميع الطرق الوؤدية الى المدينة</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="things closed" vncls="" vntheta="" />
+<comment>Based on roleset galaq-i-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on galaq-i-v</comment>
+</verb>

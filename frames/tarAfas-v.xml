@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarAfas</id>
+<comment/>
+<frameset cdef="" edef="to kick" id="01" vncls="">
+<role argnum="0" argrole="entity kicking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ترافس الولد و رفيقه بالأرجل</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="and his friend" n="1">و رفيقه</arg>
+<arg f="" g="by feet" n="2">بالأرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity kicked" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<role argnum="3" argrole="where" vncls="" vntheta=""/>
+</frameset>
+</verb>

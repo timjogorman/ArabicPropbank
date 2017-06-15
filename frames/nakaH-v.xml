@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>nakaH</id>
+<comment>EGYPTIAN ARABIC Framefile based on nakaH-ai-v</comment>
+<frameset cdef="" edef="to marry or wed" id="01" vncls="">
+<role argnum="0" argrole="first party" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>نكح الرجل المرأة</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the woman" n="1">المرأة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset nakaH-ai-v.01</comment>
+<role argnum="1" argrole="second party" vncls="" vntheta="" />
+</frameset>
+</verb>

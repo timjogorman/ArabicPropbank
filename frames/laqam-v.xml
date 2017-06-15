@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>laqam</id>
+<comment/>
+<frameset cdef="" edef="to block or clog" id="01" vncls="">
+<role argnum="0" argrole="blocker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لقم الصخر الطريق</parse>
+<comment/>
+<arg f="" g="the rock" n="0">الصخر</arg>
+<arg f="" g="the road" n="1">الطريق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things blocked" vncls="" vntheta=""/>
+</frameset>
+</verb>

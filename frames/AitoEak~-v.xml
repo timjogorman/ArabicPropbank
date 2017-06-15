@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEak~</id>
+<comment/>
+<frameset cdef="" edef="be sultry, be muggy, to be messy" id="01" vncls="">
+<role argnum="1" argrole="things becoming muggy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كل حاجة اتعكت * على دماغي بعد الدراسة</parse>
+<comment/>
+<arg f="" g="every thing" n="1">* كل حاجة</arg>
+<arg f="" g="on me (on my brain)" n="2">على دماغي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="on what or on whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

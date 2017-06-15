@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ealak-u</id>
+<comment/>
+<frameset cdef="" edef="to chew or masticate" id="01" vncls="">
+<role argnum="0" argrole="entity chewing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>علكت الدابة اللجام</parse>
+<comment/>
+<arg f="" g="the riding animal" n="0">الدابة</arg>
+<arg f="" g="the bridle" n="">اللجام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things chewed" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

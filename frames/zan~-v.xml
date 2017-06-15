@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zan~</id>
+
+    
+
+
+<frameset cdef="" edef="to buzz, talk a lot" id="03" vncls="">
+<role argnum="0" argrole="entity buzzing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+        (VP
+          (IV3MS+IV يَعْنِي)
+          (NP-SBJ
+            (-NONE- *)))))
+    (SBAR-ADV
+      (SUB_CONJ لَو)
+      (S
+        (NP-TPC-4
+          (NOUN حَدّ))
+        (VP
+          (PV+PVSUFF_SUBJ:3MS قَعَد)
+          (NP-SBJ-3
+            (-NONE- *T*-4))
+          (S
+            (VP
+              (IV3MS+IV يِلِحّ)
+              (NP-SBJ
+                (-NONE- *-3))
+              (PP-CLR
+                (PP
+                  (PREP عَلَى)
+                  (NP
+                    (PRON_2MS َك)))
+                (CONJ أَو)
+                (PP
+                  (PREP عَلَى)
+                  (NP
+                    (PRON_2FS ِك))))
+              (PP
+                (PREP فِي)
+                (NP
+                  (NP
+                    (INTJ
+                      (PRON_3MS ُه))
+                    (NOUN+NSUFF_FEM_SG حاجَة))
+                  (SBAR
+                    (WHNP-5</parse>
+
+<arg f="" g="somebody" n="0">*-3 حَدّ</arg>
+<arg f="" g="on you" n="1">عليك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Zan~-u</comment>
+</verb>

@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$AqaY</id>
+<comment/>
+<frameset cdef="" edef="to act rough" id="01" vncls="">
+<role argnum="0" argrole="entity acting rough" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PRT
+        (PROG_PART بِ))
+      (IV3MS+IV يِتشاقَى)
+      (NP-SBJ
+        (-NONE- *)))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">-NONE- *</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

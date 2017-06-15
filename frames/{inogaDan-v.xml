@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inogaDan</id>
+
+<frameset cdef="" edef="to be moved, mobilized" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انغضن الكرسي من الغرفة الى المطبخ</parse>
+
+<arg f="" g="the chair" n="1">الكرسي</arg>
+<arg f="" g="from the room" n="2">من الغرفة</arg>
+<arg f="" g="to the kichen" n="3">الى المطبخ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity moved" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to be stopped or hindered" id="02" vncls="">
+<role argnum="0" argrole="stopper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انغضن الولد عن اللحاق بالباص</parse>
+<comment/>
+<arg f="" g="the kid" n="1">الولد</arg>
+<arg f="" g="from catching the bes" n="2">عن اللحاق بالباص</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity stopped" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

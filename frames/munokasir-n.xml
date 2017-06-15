@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munokasir</id>
+
+<frameset cdef="" edef="refracted, broken" id="01" vncls="">
+<role argnum="1" argrole="thing broken" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ارسم الشعاع الوارد والشعاع المنكسر على هذا السطح</parse>
+
+<arg f="" g="Beam" n="1">الشعاع</arg>
+<arg f="" g="On this surface" n="2">هذا السطح</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

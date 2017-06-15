@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maHoruws</id>
+<comment/>
+<frameset cdef="" edef="guarded or protected" id="01" vncls="">
+<role argnum="0" argrole="guard" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>المبنى محروس * بأربعة حراس من اللصوص</parse>
+<comment/>
+<arg f="" g="the building" n="1">المبنى</arg>
+<arg f="" g="with four guards" n="0">بأربعة حراس</arg>
+<arg f="" g="from the thieves" n="2">من اللصوص</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing guraded" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

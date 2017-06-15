@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitomar~ag</id>
+<comment/>
+<frameset cdef="" edef="to roll in, to wallow in" id="01" vncls="">
+<role argnum="0" argrole="entity rolling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الطفل قاعد يتمرغ * في التراب</parse>
+<comment/>
+<arg f="" g="the kid" n="0">* الطفل</arg>
+<arg f="" g="in dust" n="1">في التراب</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

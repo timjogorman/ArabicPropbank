@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rifoq</id>
+<comment/>
+<frameset cdef="" edef="kindness, gentleness" id="01" vncls="">
+<role argnum="0" argrole="entity being kind" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طالبت الجمعية من الاباء الرفق * بالاطفال</parse>
+<comment/>
+<arg f="" g="the fathers" n="0">* الاباء</arg>
+<arg f="" g="with the kids" n="1">بالاطفال</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

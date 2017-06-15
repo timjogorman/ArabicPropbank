@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Xahil-a</id>
+<comment/>
+<frameset cdef="" edef="to be or became distracted or became astonished" id="01">
+<role argnum="0" argrole="entity astonished"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ذهل أخي  من نتيجة الامتحان</parse>
+<comment/>
+<arg f="" g="my brother" n="0">أخي</arg>
+<arg f="" g="from the test results" n="1">من نتيجة الامتحان</arg>
+</example>
+<comment>دهش</comment>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what"/>
+</frameset>
+<frameset cdef="" edef="to forget" id="02">
+<role argnum="0" argrole="entity forgetting"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ذهل الطالب موعدا مهما</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="important date" n="1">موعدا مهما</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things forgotten"/>
+</frameset>
+</verb>

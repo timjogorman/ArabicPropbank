@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naq~aS</id>
+
+<frameset cdef="" edef="to decrease, or diminish" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نقص البائع الثمن من مئة دولار الى الخمسين</parse>
+
+<arg f="" g="the seller" n="0">البائع</arg>
+<arg f="" g="the price" n="1">الثمن</arg>
+<arg f="" g="from one hundred dollar" n="2">من مئة دولار</arg>
+<arg f="" g="to fifty" n="3">الى الخمسين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things decreased" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to subtract" id="02" vncls="">
+<role argnum="0" argrole="entity subtracting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حنقص * خمسة من سبعة والناتج حيكون اتنين</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="five" n="1">خمسة</arg>
+<arg f="" g="from seven" n="2">من سبعة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="subtracted" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,42 +1,93 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>habaT-ui</id>
-    <frameset cdef="" edef="to come down" id="01">
-        <role argnum="1" argrole="thing  fallen"/>
-        <role argnum="2" argrole="start point ,source"/>
-        <role argnum="3" argrole="end point, goal"/>
-        <role argnum="4" argrole="path"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (NP-TPC-1
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الحرية))
-                    (VP
-                    (PRT
-                    (NEG_PART لن))
-                    (IV3FS+IV+IVSUFF_MOOD:S تهبط)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (NP-MNR
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC فجأة))
-                    (PP
-                    (PREP على)
-                    (SBAR-NOM
-                    (WHNP-2
-                    (REL_PRON من))
-                    (S
-                    (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يدخل)
-                    (NP-SBJ
-                    (-NONE- *T*-2))
-                    (NP-OBJ
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الجامعة)))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="it" n="1">الحرية -NONE- *T*-1</arg>
-                <arg f="" g="upon Who enters the University" n="2">على من يدخل الجامعة</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>habaT-ui</id>
+<frameset cdef="" edef="to come down, to descend" id="01" vncls="">
+<role argnum="1" argrole="thing  fallen" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point ,source" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point, goal" vncls="" vntheta=""/>
+<role argnum="4" argrole="path" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (NP-TPC-1
+    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الحرية))
+  (VP
+    (PRT
+      (NEG_PART لن))
+    (IV3FS+IV+IVSUFF_MOOD:S تهبط)
+    (NP-SBJ
+      (-NONE- *T*-1))
+    (NP-MNR
+      (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC فجأة))
+    (PP
+      (PREP على)
+      (SBAR-NOM
+        (WHNP-2
+          (REL_PRON من))
+        (S
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يدخل)
+            (NP-SBJ
+              (-NONE- *T*-2))
+            (NP-OBJ
+              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الجامعة)))))))
+  (PUNC .))</parse>
+<arg f="" g="it" n="1">الحرية -NONE- *T*-1</arg>
+<arg f="" g="upon Who enters the University" n="3">على من يدخل الجامعة</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+
+<frameset cdef="" edef="to drop, to decrease" id="02" vncls="">
+<role argnum="1" argrole="entity decreasing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هبط سعر الذهب من 400 دولار الى النصف</parse>
+
+<arg f="" g="gold's price" n="1">سعر الذهب</arg>
+<arg f="" g="from 400 dollars" n="3">من 400 دولار</arg>
+<arg f="" g="to the half" n="4">الى النصف</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="amount increased by, EXT or MNR" vncls="" vntheta=""/>
+<role argnum="3" argrole="start point" vncls="" vntheta=""/>
+<role argnum="4" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to land or touch down" id="03" vncls="">
+<role argnum="0" argrole="entity landing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هبطت الطائرة في مطاربغداد</parse>
+<comment/>
+<arg f="" g="the airplane" n="0">الطائرة</arg>
+<arg f="" g="in Baghdad's airport" n="1"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+</frameset>
 </verb>

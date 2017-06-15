@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{itogan</id>
+<comment/>
+<frameset cdef="" edef="to became crazy" id="01" vncls="">
+<role argnum="0" argrole="entity becoming crazy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الحقونى خطيبى اتجن * و شتمنى و قهرنى في ركن المخطوبات</parse>
+<comment/>
+<arg f="" g="my fiance" n="0">* خطيبى</arg>
+</example>
+<comment/>
+<example>
+<parse>الراجل حيتجن * من غير مراته</parse>
+<comment/>
+<arg f="" g="the man" n="0">الراجل</arg>
+<arg f="" g="without his wife" n="1">من غير مراته</arg>
+</example>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

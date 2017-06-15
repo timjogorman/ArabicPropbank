@@ -1,0 +1,81 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>siyro$</id>
+
+    
+<frameset cdef="" edef="to search" id="02" vncls="">
+<role argnum="0" argrole="searcher" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing searched for" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (CONJ و)
+      (VP
+        (PV+PVSUFF_SUBJ:3FS اعتقلت)
+        (NP-SBJ
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الشرطة))
+        (NP-OBJ
+          (NP
+            (NP
+              (NOUN+CASE_INDEF_ACC رجلا))
+            (SBAR
+              (WHNP-1
+                (-NONE- 0))
+              (S
+                (VP
+                  (IV3MS+IV_PASS+IVSUFF_MOOD:I يدعى)
+                  (NP-SBJ
+                    (-NONE- *T*-1))
+                  (S
+                    (NP-SBJ
+                      (-NONE- *-1))
+                    (NP-PRD
+                      (NOUN_PROP كريستوفر)
+                      (NOUN_PROP ستيفن)
+                      (NOUN_PROP ماكبريدن)))))))
+          (NP
+            (PUNC -LRB-)
+            (NOUN_NUM 20)
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC سنة))
+            (PUNC -RRB-)))))
+    (CONJ و)
+    (S
+      (NP-TPC-2
+        (PRON_3FS هي))
+      (VP
+        (IV3FS+IV+IVSUFF_MOOD:I تبحث)
+        (NP-SBJ
+          (-NONE- *T*-2))
+        (PP-CLR
+          (PREP عن)
+          (NP
+            (NP
+              (NP
+                (NOUN+CASE_INDEF_GEN مشتبه))
+              (PP
+                (PREP في)
+                (NP
+                  (PRON_3D هما))))
+            (ADJP
+              (ADJ+NSUFF_MASC_DU_GEN آخرين))))))
+    (PUNC .)))</parse>
+<arg f="" g="she/they" n="0">*T*-2 &gt; هي</arg>
+<arg f="عَن" g="for two other suspects" n="1">عن مشتبه فيهما آخرين</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>ARZ English Borrowed ( search )</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC based on baHav-a</comment>
+</verb>

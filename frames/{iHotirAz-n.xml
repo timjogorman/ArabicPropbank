@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{iHotirAz</id>
+<comment/>
+<frameset cdef="" edef="caution, wariness" id="01" vncls="">
+<role argnum="0" argrole="entity caution" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حاول الرجل الاحتراز * من خدع أخيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="from his brother's tricks" n="1">من خدع أخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

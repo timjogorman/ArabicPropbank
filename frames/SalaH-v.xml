@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SalaH</id>
+<comment/>
+<frameset cdef="" edef="to suit or fit or suitable for" id="01" vncls="">
+<role argnum="1" argrole="entity fit" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو من يصلح * لهذا المركز</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="for this position" n="2">لهذا المركز</arg>
+</example>
+<comment/>
+</frame>
+<comment>Egyptian</comment>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

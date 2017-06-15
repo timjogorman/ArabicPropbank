@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mulotawiy</id>
+<comment/>
+<frameset cdef="" edef="circuitous, indirect, twisted, not honest" id="01" vncls="">
+<role argnum="1" argrole="entity twisted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الرجل ملتوي * في اعماله</parse>
+<comment/>
+<arg f="" g="this man" n="1">هذا الرجل</arg>
+<arg f="" g="in what he do" n="2">في اعماله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

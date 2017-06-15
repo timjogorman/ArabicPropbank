@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jAXib</id>
+<comment/>
+<frameset cdef="" edef="attractive, pulling" id="01" vncls="">
+<role argnum="0" argrole="puller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه اللوحة جاذبة * للأنظار بألوانها</parse>
+<comment/>
+<arg f="" g="this painting" n="0">* هذه اللوحة</arg>
+<arg f="" g="for the sight" n="1">للأنظار</arg>
+<arg f="" g="with it's colors" n="2">بألوانها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity pulled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

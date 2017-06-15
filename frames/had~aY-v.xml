@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>had~aY</id>
+
+<frameset cdef="" edef="to cool (off, down) , to calm" id="01" vncls="">
+<role argnum="0" argrole="entity calming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هدأ  * الجميع طالبا منهم عدم الركض</parse>
+
+<arg f="" g="NONE" n="0">-NONE- *?</arg>
+<arg f="" g="everyone" n="1">الجميع</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity calmed" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on had~aO</comment>
+</verb>

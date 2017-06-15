@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>musax~ar</id>
+<comment/>
+<frameset cdef="" edef="exploited , utilized" id="01" vncls="">
+<role argnum="0" argrole="exploiting / utilizer entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لم يهدا الرجل مسخرا * كل طاقته لإنهاء العمل</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="all his energy" n="1">كل طاقته</arg>
+<arg f="" g="to finish the work" n="2">لإنهاء العمل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="what?" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what?" vncls="" vntheta=""/>
+</frameset>
+</verb>

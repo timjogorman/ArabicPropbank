@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitomaromaT</id>
+<comment/>
+<frameset cdef="" edef="tiring, to treat badly" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (NP-TPC-1
+      (NOUN بابا))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS كَلِّم)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (PVSUFF_DO:3FS ها))))
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS مَرْمَط)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (PVSUFF_DO:3FS ها))))
+  (S</parse>
+<comment/>
+<arg f="" g="father" n="0">*T*-1 بابا</arg>
+<arg f="" g="she" n="1">ها</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

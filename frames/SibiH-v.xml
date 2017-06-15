@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SibiH</id>
+<comment/>
+<frameset cdef="" edef="begin a new day" id="01" vncls="">
+<role argnum="1" argrole="entity starting the day" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تصبح على خير يا بابا</parse>
+<comment/>
+<arg f="" g="to be good" n="2">على خير</arg>
+<arg f="" g="father" n="1">يا بابا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

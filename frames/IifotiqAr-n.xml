@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IifotiqAr</id>
+<comment/>
+<frameset cdef="" edef="needing, want, need" id="01" vncls="">
+<role argnum="1" argrole="requirer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>افتقار المدارس الى الكتب الجديدة</parse>
+<comment/>
+<arg f="" g="the schools" n="1">المدارس</arg>
+<arg f="" g="to the new books" n="2">الى الكتب الجديدة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="thing required - frequently marked with الى" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tawoviyq</id>
+<comment/>
+<frameset cdef="" edef="To document" id="01" vncls="">
+<role argnum="0" argrole="provider of evidence, agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام المعلم بتوثيق * كل أرقام الكتب</parse>
+<comment/>
+<arg f="" g="the teacher" n="0">* المعلم</arg>
+<arg f="" g="all the books numbers" n="1"/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing documented" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="strengthening" id="02" vncls="">
+<role argnum="0" argrole="agent strengthening" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت هذه المبادرة بتوثيق * العلاقات بين الاخوة</parse>
+<comment/>
+<arg f="" g="this initiative" n="0">* المبادرة</arg>
+<arg f="" g="the relationships" n="1">العلاقات</arg>
+<arg f="" g="among the brothers" n="2">بين الاخوة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things strengthened" vncls="" vntheta=""/>
+<role argnum="2" argrole="first party" vncls="" vntheta=""/>
+<role argnum="3" argrole="second party if separated from ARG2" vncls="" vntheta=""/>
+</frameset>
+</verb>

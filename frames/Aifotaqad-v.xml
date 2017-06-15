@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aifotaqad</id>
+<comment>EGYPTIAN ARABIC based on {ifotaqad</comment>
+    <frameset cdef="" edef="to miss, to long for" id="01">
+<role argnum="0" argrole="experiencer" />
+<role argnum="1" argrole="thing being missed" />
+<frame>
+<example>
+<parse>
+(UCP
+  (SBAR
+    (WHADVP-1
+      (REL_ADV كم)
+    (S
+      (VP
+        (IV1P+IV+IVSUFF_MOOD:I نفتقد)
+        (NP-SBJ
+          (-NONE- *)
+        (NP-TMP
+          (DET+NOUN+CASE_DEF_ACC اليوم)
+        (NP-OBJ
+          (NP
+            (DET+NOUN+CASE_DEF_ACC الكتائب)
+          (SBAR
+            (WHNP-2
+              (REL_PRON التي)
+            (S
+              (VP
+                (IV3FS+IV+IVSUFF_MOOD:I تقول)
+                (NP-SBJ
+                  (-NONE- *T*-2)
+                (NP-OBJ
+                  (NP
+                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC كلمة)
+                  (SBAR
+                    (WHNP-3
+                      (-NONE- 0)
+                    (S
+                      (VP
+                        (IV3FS+IV+IVSUFF_MOOD:I تغير)
+                        (NP-SBJ
+                          (-NONE- *T*-3)
+                        (NP-OBJ
+                          (DET+NOUN+CASE_DEF_ACC الواقع)
+                        (PP
+                          (PREP ل)
+                          (NP
+                            (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مصلحة)
+                            (NP
+                              (DET+NOUN+CASE_DEF_GEN الشعب)
+                              (DET+ADJ+CASE_DEF_GEN المقهور)
+        (ADVP-MNR
+          (-NONE- *T*-1)
+  (PUNC ,)
+</parse>
+<arg f="" g="" n="0">-NONE-*</arg>
+<arg f="tmp" g="today" n="m">اليوم</arg>
+<arg f="" g="the briggades that with a single word change reality for an oppressed nation" n="1">الكتائب التي تقول كلمة تغير الواقع ل مصلحة الشعب المقهور</arg>
+</example>
+</frame>
+</frameset>
+</verb>

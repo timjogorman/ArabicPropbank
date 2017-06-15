@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hizAr</id>
+<comment/>
+<frameset cdef="" edef="joking, kidding, joke" id="01" vncls="">
+<role argnum="0" argrole="joker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هزارك معايا بايخ</parse>
+<comment/>
+<arg f="" g="you" n="0">ك</arg>
+<arg f="" g="with me" n="1">معايا</arg>
+<arg f="mnr" g="stupid" n="m">بايخ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="other party joking, joke with" vncls="" vntheta=""/>
+<role argnum="2" argrole="joke" vncls="" vntheta=""/>
+</frameset>
+</verb>

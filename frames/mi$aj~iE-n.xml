@@ -1,0 +1,66 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mi$aj~iE</id>
+<comment/>
+<frameset cdef="" edef="encouraging" id="01" vncls="">
+<role argnum="0" argrole="the encourager" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (X
+        (TYPO ويقى))
+      (PP-PRD
+        (PREP فِي)
+        (NP
+          (PRON_3MS ُه)))
+      (NP-SBJ
+        (NP
+          (NOUN ناس))
+        (SBAR
+          (SBAR
+            (WHNP-1
+              (-NONE- 0))
+            (S
+              (NP-PRD
+                (NOUN مَعَ)
+                (NP
+                  (POSS_PRON_2MS َك)))
+              (NP-SBJ
+                (-NONE- *T*-1))))
+          (SBAR
+            (WHNP-5
+              (-NONE- 0))
+            (S
+              (SBAR-NOM-PRD
+                (WHNP-3
+                  (-NONE- 0))
+                (S
+                  (VP
+                    (ADJ.VN+NSUFF_MASC_PL مشَجِّعِين)
+                    (NP-SBJ
+                      (-NONE- *T*-3))
+                    (NP-OBJ
+                      (PRON_2MS َك))
+                    (PP-CLR
+                      (PREP عَلَى)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG الفِكْرَة))))))
+              (NP-SBJ
+                (-NONE- *T*-5)))))))))</parse>
+<comment/>
+<arg f="" g="people" n="0">*T*-3 ناس</arg>
+<arg f="" g="you" n="1">ك</arg>
+<arg f="" g="on the idea" n="2">على الفكرة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="the encouraged" vncls="" vntheta=""/>
+<role argnum="2" argrole="the thing Arg1 is encouraged to do" vncls="" vntheta=""/>
+</frameset>
+</verb>

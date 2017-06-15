@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarojiyH</id>
+<comment/>
+<frameset cdef="" edef="making something outweigh (another)" id="01" vncls="">
+<role argnum="0" argrole="entity making the consideration" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لا يمكننا ترجيح * فريق على الأخر</parse>
+<comment/>
+<arg f="" g="we" n="0">* نا</arg>
+<arg f="" g="a team" n="1">فريق</arg>
+<arg f="" g="on the other one" n="2">على الأخر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing considered" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute of ARG 1" vncls="" vntheta=""/>
+</frameset>
+</verb>

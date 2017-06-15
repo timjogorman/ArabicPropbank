@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bax~</id>
+<comment/>
+<frameset cdef="" edef="to spray or sprinkle" id="01" vncls="">
+<role argnum="0" argrole="entity spraying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو بخ * المية في وشي</parse>
+<comment/>
+<arg f="" g="he" n="">* هو</arg>
+<arg f="" g="the water" n="">المية</arg>
+<arg f="" g="in my face" n="">في وشي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things sprayed" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

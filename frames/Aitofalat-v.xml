@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitofalat</id>
+
+<frameset cdef="" edef="to escape, to slipaway, to break loose" id="01" vncls="">
+<role argnum="0" argrole="escaper" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>فلت اللص من يد الشرطي</parse>
+
+<arg f="" g="the thief" n="0">اللص</arg>
+<arg f="" g="from the hand of the policeman" n="1">من يد الشرطي</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="from whom/what" vncls="" vntheta="" />
+<comment>Based on roleset falat-i.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on falat-i</comment>
+</verb>

@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fataq-u</id>
+<comment/>
+<frameset cdef="" edef="to unsew or unstitch, to rip open, to tear" id="01" vncls="">
+<role argnum="0" argrole="opener" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فتقت المرأة ثوبها بالمقص</parse>
+<comment/>
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="" g="her dress" n="1">ثوبها</arg>
+<arg f="" g="with a scissors" n="2">بالمقص</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things opened" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to spread separation" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فتق الرجل بين الناس</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="between the people" n="1">بين الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victims" vncls="" vntheta=""/>
+<role argnum="2" argrole="second person if separated from ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

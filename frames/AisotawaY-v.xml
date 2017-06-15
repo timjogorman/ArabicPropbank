@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AisotawaY</id>
+<comment>EGYPTIAN ARABIC based on {isotawaY</comment>
+    <frameset cdef="" edef="to be well kooked, to be mature" id="03">
+<role argnum="1" argrole="things cooked" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>استوى  الطعام على نار هادئة</parse>
+<comment />
+<arg f="" g="the food" n="1">الطعام</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {isotawaY.03</comment>
+</frameset>
+</verb>

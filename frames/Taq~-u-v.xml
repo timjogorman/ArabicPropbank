@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Taq~-u</id>
+<comment/>
+<frameset cdef="" edef="to make a crack sound" id="01" vncls="">
+<role argnum="0" argrole="entity or things making the sound" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طق الحجر</parse>
+<comment/>
+<arg f="" g="the stone" n="0">الحجر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to explode, to burst" id="02" vncls="">
+<role argnum="0" argrole="entity or things exploding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>راسي حيطق * ساعدوني تعبانة والله تعبانة</parse>
+<comment/>
+<arg f="" g="my head" n="0">* راسي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

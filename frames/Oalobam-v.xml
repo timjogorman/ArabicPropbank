@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oalobam</id>
+
+<frameset cdef="" edef="to put into an album" id="01" vncls="">
+<role argnum="0" argrole="the entity albumming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ألبم الرجل الصور</parse>
+
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the pictures" n="1">الصور</arg>
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing put in album" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

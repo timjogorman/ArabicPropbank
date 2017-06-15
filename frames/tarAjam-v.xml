@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tarAjam</id>
+<comment/>
+<frameset cdef="" edef="to throw (hurl ,fling) at one another" id="01" vncls="">
+<role argnum="0" argrole="Entity throwing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تراجم  الاطفال بالحجارة</parse>
+<comment/>
+<arg f="" g="the kids" n="0">الاطفال</arg>
+<arg f="" g="with rocks" n="1">بالحجارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="Things thrown" vncls="" vntheta=""/>
+<role argnum="2" argrole="On whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

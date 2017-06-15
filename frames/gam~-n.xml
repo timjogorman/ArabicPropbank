@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gam~</id>
+<comment/>
+<frameset cdef="" edef="grief, sorrow, sadness" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أصابهم الغم * مما جرى</parse>
+<comment/>
+<arg f="" g="them" n="1">* هم</arg>
+<arg f="" g="from what happened" n="0">مما جرى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity grieved" vncls="" vntheta=""/>
+</frameset>
+</verb>

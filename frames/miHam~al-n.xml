@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miHam~al</id>
+<comment/>
+<frameset cdef="" edef="loaded" id="01" vncls="">
+<role argnum="0" argrole="loader" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(SQ
+    (SQ
+      (PRN
+        (S
+          (VP
+            (IV3MS+IV يَعْنِي)
+            (NP-SBJ
+              (-NONE- *)))))
+      (VP
+        (PV+PVSUFF_SUBJ:3P قالُوا)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NP
+            (NP
+              (ADJ_NUM 50)
+              (NP
+                (NOUN+NSUFF_FEM_SG سَيّارَة)))
+            (SBAR
+              (WHNP-2
+                (-NONE- 0))
+              (S
+                (VP
+                  (ADJ.VN+NSUFF_FEM_SG مِحَمِلَة)
+                  (NP-SBJ-1
+                    (-NONE- *T*-2))
+                  (NP-OBJ
+                    (-NONE- *-1))
+                  (PP-CLR
+                    (PREP ب)
+                    (NP
+                      (DET+NOUN الغِذاء)))))))
+          (CONJ وَ)</parse>
+<comment/>
+<arg f="" g="50 cars" n="1">50 سَيّارَة</arg>
+<arg f="" g="with food" n="2">بالغِذاء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity loaded" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

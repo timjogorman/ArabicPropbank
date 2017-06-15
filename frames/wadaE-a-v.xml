@@ -1,22 +1,60 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>wadaE-a</id>
-    <frameset cdef="" edef="To let" id="01">
-        <role argnum="0" argrole="allower"/>
-        <role argnum="1" argrole="allow for"/>
-        <role argnum="2" argrole="action allowed"/>
-        <frame>
-            <comment>
-                سمح / ترك
-            </comment>
-            <example>
-                <parse>
-                    ومن هنا دعو * نا نقل *-8 ان هذه المعركة حققت **-1 هدفها
-                </parse>
-                <arg f="" g="It" n="0">*</arg>
-                <arg f="" g="Us" n="1">نا</arg>
-                <arg f="" g="to say that this battle has achieved its aim" n="2">نقل ان هذه المعركة حققت هدفها</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>wadaE-a</id>
+
+<frameset cdef="" edef="to leave, to let" id="01" vncls="">
+<role argnum="0" argrole="entity leaving the thing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قال رسول الله من لم يدع * قولَ الزور والعملَ به فليس لله حاجةٌ في أن يدَع طعامه وشرابه</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="false speech and acting upon it" n="1">قولَ الزور والعملَ به</arg>
+<comment/>
+</example>
+
+<comment/>
+<example>
+<parse>(S
+    (CONJP
+      (CONJ و)
+      (CONJ لكن))
+    (VP
+      (CV+CVSUFF_SUBJ:2MS دع)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ-3
+        (CVSUFF_DO:1P نا))
+      (S
+        (VP
+          (IV1P+IV+IVSUFF_MOOD:I ننظر)
+          (NP-SBJ
+            (-NONE- *-3))
+          (PP-CLR
+            (PREP ل)
+            (NP
+              (NP
+                (DET+NOUN+CASE_DEF_GEN لعالم))
+              (PP
+                (PREP من)
+                (NP
+                  (NP
+                    (X
+                      (NO_FUNC حولنا))))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="we" n="1">نا</arg>
+<arg f="" g="to the world around us" n="2">ننظر للعالم من حولنا</arg>
+</example>
+</frame>
+
+<role argnum="1" argrole="things left" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
 </verb>

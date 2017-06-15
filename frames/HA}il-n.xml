@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>HA}il</id>
+<comment/>
+<frameset cdef="" edef="obstacle, barrier" id="01" vncls="">
+<role argnum="0" argrole="stopper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كانت المادة حائلا * بين الرجل وأحلامه</parse>
+<comment/>
+<arg f="" g="the money" n="1">* المادة</arg>
+<arg f="" g="between the man" n="2">بين الرجل</arg>
+<arg f="" g="and his dreams" n="3">وأحلامه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things stopped" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

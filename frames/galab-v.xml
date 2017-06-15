@@ -1,0 +1,79 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>galab</id>
+<frameset cdef="" edef="to defeat" id="01" vncls="">
+<role argnum="0" argrole="entity victorious" vncls="" vntheta="" />
+<role argnum="1" argrole="entity defeated" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+    (VP
+      (PV_PASS+PVSUFF_SUBJ:3FS ذكرت)
+      (NP-SBJ-3
+        (NOUN_PROP روما))
+      (NP-OBJ
+        (-NONE- *-3))
+      (PP-MNR
+        (PREP ب)
+        (NP
+          (NP
+            (NOUN+CASE_DEF_GEN اسم)
+            (NP
+              (POSS_PRON_3FS ها)))
+          (ADJP
+            (DET+ADJ+CASE_DEF_GEN العلني))))
+      (PP
+        (PREP في)
+        (NP
+          (DET+NOUN_PROP+CASE_DEF_GEN القرآن)))
+      (PRN
+        (PUNC -LRB-)
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3FS غلبت)
+            (NP-SBJ
+              (DET+NOUN_PROP+CASE_DEF_NOM الروم))
+            (PP
+              (PREP في)
+              (NP
+                (ADJP
+                  (ADJ_COMP اقصى)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN الارض)))))))
+        (PUNC -RRB-))))
+  (PUNC ,)</parse>
+<arg f="" g="Roman" n="1">الروم</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset galab-i-v.01</comment>
+<role argnum="2" argrole="in what" vncls="" vntheta="" />
+</frameset>
+
+<frameset cdef="" edef="to get tired of" id="02" vncls="">
+<role argnum="0" argrole="entity getting tired" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>ده أنا غلبت * معاه</parse>
+
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="with him" n="1">معاه</arg>
+<comment />
+</example>
+
+<comment>ARZ</comment>
+</frame>
+
+<role argnum="1" argrole="of what" vncls="" vntheta="" />
+<comment>ARZ
+Based on roleset galab-i-v.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on galab-i-v</comment>
+</verb>

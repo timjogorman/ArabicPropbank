@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>mikaw~im</id>
+<comment>EGYPTIAN ARABIC Framefile based on kaw~im-v</comment>
+<frameset cdef="" edef="to heap, to pile or to accumulate" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>هو قاعد يكوم * الطلبات فوق راسنا</parse>
+<comment />
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="the orders" n="1">الطلبات</arg>
+<arg f="" g="on us" n="2">فوق راسنا</arg>
+</example>
+<comment />
+</frame>
+<comment>Egyptian
+Based on roleset kaw~im-v.01</comment>
+<role argnum="1" argrole="things piled" vncls="" vntheta="" />
+<role argnum="2" argrole="on what" vncls="" vntheta="" />
+</frameset>
+</verb>

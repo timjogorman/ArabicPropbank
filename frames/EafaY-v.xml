@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EafaY</id>
+
+    <frameset cdef="" edef="to protect, to restore to health, to heal, to forgive" id="01" vncls="">
+<role argnum="0" argrole="protector or healer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>عافى الله المؤمن من كل شر</parse>
+
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="the believer" n="1">المؤمن</arg>
+<arg f="" g="from every evil" n="2">من كل شر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="protected intity" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment>Based on roleset EAfaY.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on EAfaY</comment>
+</verb>

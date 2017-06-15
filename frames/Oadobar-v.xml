@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oadobar</id>
+<comment/>
+<frameset cdef="" edef="to turn the back, to turn or run away" id="01">
+<role argnum="0" argrole="entity running"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>إذا نودي بالصلاة أدبر الشيطان</parse>
+<comment/>
+<arg f="" g="satan" n="0">الشيطان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from"/>
+</frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maqoSad</id>
+<comment/>
+<frameset cdef="" edef="purpose, aim , goal" id="01" vncls="">
+<role argnum="0" argrole="the intendor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لم أفهم مقصدهم من هذا الكلام</parse>
+<comment/>
+<arg f="" g="them" n="0">هم</arg>
+<arg f="" g="from this talking" n="1">من هذا الكلام</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the intention" vncls="" vntheta=""/>
+<role argnum="2" argrole="Attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

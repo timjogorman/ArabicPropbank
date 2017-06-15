@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aak~il</id>
+<comment/>
+<frameset cdef="" edef="to feed" id="01" vncls="">
+<role argnum="0" argrole="feeder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل عمال يوكل * ولاده خبز وعسل</parse>
+<comment/>
+<arg f="" g="the man" n="0">الراجل</arg>
+<arg f="" g="his children" n="1">ولاده</arg>
+<arg f="" g="bread and honey" n="2">خبز وعسل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity fed" vncls="" vntheta=""/>
+<role argnum="2" argrole="food" vncls="" vntheta=""/>
+</frameset>
+</verb>

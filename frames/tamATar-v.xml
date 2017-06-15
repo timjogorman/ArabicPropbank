@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamATar</id>
+<comment/>
+<frameset cdef="" edef="to rain, to sweat" id="01" vncls="">
+<role argnum="1" argrole="entity raining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تماطر السحاب</parse>
+<comment/>
+<arg f="" g="the clouds" n="1">السحاب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="things rained" vncls="" vntheta=""/>
+</frameset>
+</verb>

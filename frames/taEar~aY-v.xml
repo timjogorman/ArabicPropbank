@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEar~aY</id>
+
+<frameset cdef="" edef="to undress or strip" id="01" vncls="">
+<role argnum="0" argrole="entity undress" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تعرى الرجل من كل ملابسه</parse>
+
+<arg f="" g="the man" n="">الرجل</arg>
+<arg f="" g="from all his clothes" n="">من كل ملابسه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to become clear, to be unveiled (multi word expression)" id="02" vncls="">
+<role argnum="1" argrole="things unveiled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تعرت الحقيقة في الايام الأخيرة</parse>
+<comment/>
+<arg f="" g="the truth" n="1">الحقيقة</arg>
+<arg f="" g="in the last days" n="2">في الايام الأخيرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

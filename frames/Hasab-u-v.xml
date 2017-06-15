@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hasab-u</id>
+
+<frameset cdef="" edef="to calculate or compute" id="01" vncls="">
+<role argnum="0" argrole="entity counting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حسب الرجل أمواله</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his money" n="1">أمواله</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things counted" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="idiomatic verb to be ready for or prepared (حسب حسابه)" id="02" vncls="">
+<role argnum="0" argrole="entity getting ready" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حسب الرجل حساب القادمين الى العشاء</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the people coming for dinner" n="1">حساب القادمين الى العشاء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

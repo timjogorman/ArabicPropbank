@@ -1,107 +1,171 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>sam~aY</id>
-    <frameset cdef="" edef="to nominate" id="01">
-        <role argnum="0" argrole="assigner of name/value, agent"/>
-        <role argnum="1" argrole="entity named"/>
-        <role argnum="2" argrole="name"/>
-        <frame>
-            <example>
-                <parse>
-                    (CONJ و)
-                    (S
-                    (VP
-                    (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ يسمو)
-                    (NP-SBJ
+<id>sam~aY</id>
+<frameset cdef="" edef="to nominate" id="01" vncls="sam~aY-1">
+<role argnum="0" argrole="assigner of name/value, agent" vncls="sam~aY-1" vntheta="agent"/>
+<role argnum="1" argrole="entity named" vncls="sam~aY-1" vntheta="theme"/>
+<role argnum="2" argrole="name" vncls="sam~aY-1" vntheta="predicate"/>
+<frame>
+<example>
+<parse>(CONJ و)
+              (S
+                (VP
+                  (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ يسمو)
+                  (NP-SBJ
                     (-NONE- *))
-                    (NP-OBJ-4
+                  (NP-OBJ-4
                     (IVSUFF_DO:3MS ه))
-                    (S
+                  (S
                     (NP-SBJ
-                    (-NONE- *-4))
+                      (-NONE- *-4))
                     (NP-PRD
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC ديانة)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN السلام))))))))))
-                </parse>
-                <arg f="" g="" n="0">-NONE- *</arg>
-                <arg f="" g="it" n="1">ه</arg>
-                <arg f="" g="the religion of Islam" n="2">ديانة السلام</arg>
-            </example>
-        </frame>
-    </frameset>
-    <frameset cdef="" edef="to mention" id="02">
-        <role argnum="0" argrole="agent"/>
-        <role argnum="1" argrole="entity mentioned"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS سمّى)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-ADV
-                    (NOUN+CASE_INDEF_ACC تحديداً))
-                    (NP-OBJ
-                    (NP
-                    (NP
-                    (NOUN_PROP أنس)
-                    (DET+NOUN_PROP الكندري))
-                    (CONJ و)
-                    (NP
-                    (NOUN_PROP جاسم)
-                    (DET+NOUN_PROP الحجيري)))
-                    (SBAR
-                    (WHNP-1
-                    (REL_PRON اللذين))
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS وصف)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (NP-OBJ
-                    (NP
-                    (PVSUFF_DO:3D هما))
-                    (NP
-                    (-NONE- *T*-1)))
-                    (PP-CLR
-                    (PREP ب)
-                    (SBAR
-                    (SUB_CONJ أن)
-                    (S
-                    (NP-SBJ
+                      (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC ديانة)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN السلام))))))))))</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="it" n="1">ه</arg>
+<arg f="" g="the religion of Islam" n="2">ديانة السلام</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to mention" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity mentioned" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS سمّى)
+    (NP-SBJ
+      (-NONE- *))
+    (NP-ADV
+      (NOUN+CASE_INDEF_ACC تحديداً))
+    (NP-OBJ
+      (NP
+        (NP
+          (NOUN_PROP أنس)
+          (DET+NOUN_PROP الكندري))
+        (CONJ و)
+        (NP
+          (NOUN_PROP جاسم)
+          (DET+NOUN_PROP الحجيري)))
+      (SBAR
+        (WHNP-1
+          (REL_PRON اللذين))
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS وصف)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (NP
+                (PVSUFF_DO:3D هما))
+              (NP
+                (-NONE- *T*-1)))
+            (PP-CLR
+              (PREP ب)
+              (SBAR
+                (SUB_CONJ أن)
+                (S
+                  (NP-SBJ
                     (PRON_3FS ها))
-                    (NP-PRD
+                  (NP-PRD
                     (NP
-                    (PUNC &amp;quot;)
-                    (NOUN+NSUFF_MASC_DU_NOM اخوان)
-                    (PUNC &amp;quot;))
+                      (PUNC &quot;)
+                      (NOUN+NSUFF_MASC_DU_NOM اخوان)
+                      (PUNC &quot;))
                     (PP
-                    (PREP ل)
-                    (NP
-                    (NOUN+NSUFF_MASC_PL_GEN_POSS منفذي)
-                    (NP
-                    (NP
-                    (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN هجمات)
-                    (NP
-                    (NOUN_NUM 11)
-                    (NP
-                    (NOUN_PROP أيلول)
-                    (NP
-                    (NOUN_NUM 2001)))))
-                    (PP-LOC
-                    (PREP في)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الولايات)
-                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المتحدة)))))))))))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="" n="0">-NONE- *</arg>
-                <arg f="" g="Anas Al Kandari and Jassem Al Hujairi which he described as the brothers of the 11 september hijackers in the united states of America" n="1">أنس الكندري و جاسم الحجيري اللذين وصفهما بأنهما أخوان لمنفذي هجمات 11 أيلول  2001 في الولايات المتحدة</arg>
-                <arg f="adv" g="specifically" n="m">تحديداً</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (PREP ل)
+                      (NP
+                        (NOUN+NSUFF_MASC_PL_GEN_POSS منفذي)
+                        (NP
+                          (NP
+                            (NOUN+NSUFF_FEM_PL+CASE_DEF_GEN هجمات)
+                            (NP
+                              (NOUN_NUM 11)
+                              (NP
+                                (NOUN_PROP أيلول)
+                                (NP
+                                  (NOUN_NUM 2001)))))
+                          (PP-LOC
+                            (PREP في)
+                            (NP
+                              (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN الولايات)
+                              (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN المتحدة)))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="Anas Al Kandari and Jassem Al Hujairi which he described as the brothers of the 11 september hijackers in the united states of America" n="1">أنس الكندري و جاسم الحجيري اللذين وصفهما بأنهما أخوان لمنفذي هجمات 11 أيلول  2001 في الولايات المتحدة</arg>
+<arg f="adv" g="specifically" n="m">تحديداً</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to pronounce the name of God" id="03" vncls="">
+<role argnum="0" argrole="agent calling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>سمى * قبل تناول الطعام</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="in the name of (mostly God)" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to name, to call a name" id="04" vncls="">
+<role argnum="0" argrole="caller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>سمى أخي ابنه كامل</parse>
+
+<arg f="" g="my brother" n="0">أخي</arg>
+<arg f="" g="his son" n="1">ابنه</arg>
+<arg f="" g="Kamil" n="2">كامل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity called" vncls="" vntheta=""/>
+<role argnum="2" argrole="the name" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

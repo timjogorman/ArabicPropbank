@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>nab~ih</id>
+<comment>EGYPTIAN ARABIC based on nab~ah</comment>
+    <frameset cdef="" edef="to alert or direct attention towards" id="01">
+<role argnum="0" argrole="alerter" />
+<role argnum="1" argrole="alerted" />
+<role argnum="2" argrole="to what" />
+<frame>
+<example>
+<parse>
+وتلت * مرافعتها بصوت عال ونبرة حادة , وقاطعها رئيس المحكمة العقيد طايل الرقاد مرارا ونبه*ها الى ضرورة التوقف عن &quot; الاساءة والتشهير بالمحكمة والادعاء العام والحكومة &quot; .
+</parse>
+<arg f="" g="-NONE- &lt; the court's head Colonel Taaayil al-Raqqaad" n="0">* &lt;  رئيس المحكمة العقيد طايل الرقاد</arg>
+<arg f="" g="her" n="1">ها</arg>
+<arg f="" g="to stop the libel and slander against the court, the prosecution, and the government" n="2">الى ضرورة التوقف عن &quot; الاساءة والتشهير بالمحكمة والادعاء العام والحكومة</arg>
+</example>
+</frame>
+<comment>Based on roleset nab~ah.01</comment></frameset>
+</verb>

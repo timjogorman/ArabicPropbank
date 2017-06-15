@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mifa$ofa$</id>
+
+<frameset cdef="" edef="tired" id="01" vncls="">
+<role argnum="0" argrole="entity exhausted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>بعد ساعتين لعب كورة الواحد مفشفش و حاسس انه بيتعلم المشي من الاول</parse>
+
+<arg f="" g="-NONE- &gt; one" n="0">* &gt; الواحد</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

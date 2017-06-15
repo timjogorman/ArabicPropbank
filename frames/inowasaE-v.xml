@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>inowasaE</id>
+
+<frameset cdef="" edef="to  become wide, extensive or large" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انوسع المنطاد بالهواء الساخن</parse>
+
+<arg f="" g="the aerostat" n="1">المنطاد</arg>
+<arg f="" g="wih hot air" n="2">بالهواء الساخن</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity becoming wide" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

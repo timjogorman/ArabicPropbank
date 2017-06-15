@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qa$~ar</id>
+<comment/>
+<frameset cdef="" edef="to peel or pare, to skin" id="01" vncls="">
+<role argnum="0" argrole="entity peeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هي قاعدة تقشر * في البصل</parse>
+<comment/>
+<arg f="" g="she" n="0">* هي</arg>
+<arg f="" g="the onion" n="1">في البصل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things peeled" vncls="" vntheta=""/>
+</frameset>
+</verb>

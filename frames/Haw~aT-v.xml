@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Haw~aT</id>
+<comment/>
+<frameset cdef="" edef="encircle, to surround" id="01" vncls="">
+<role argnum="0" argrole="entity surrounding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الشرطة حوطت * البيت</parse>
+<comment/>
+<arg f="" g="the police" n="0">* الشرطة</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="entity surrounded" vncls="" vntheta=""/>
+</frameset>
+</verb>

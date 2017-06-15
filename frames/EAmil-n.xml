@@ -1,0 +1,170 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EAmil</id>
+<frameset cdef="" edef="working or acting" id="01" vncls="">
+<role argnum="0" argrole="entity who works" vncls="" vntheta=""/>
+<role argnum="1" argrole="a work or a working field" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (NP-TPC-1
+      (NP
+        (NOUN+NSUFF_MASC_DU_NOM يومان))
+      (ADVP
+        (ADV فقط)))
+    (VP
+      (PV+PVSUFF_SUBJ:3MD كانا)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (ADJP-PRD
+        (ADJ+NSUFF_MASC_DU_ACC كافيين)
+        (PP
+          (PREP ل)
+          (NP
+            (NP
+              (NOUN+CASE_DEF_GEN جمع)
+              (NP
+                (ADJP
+                  (ADJ_COMP+CASE_DEF_ACC اكثر)
+                  (PP
+                    (PREP من)
+                    (NP
+                      (NOUN_NUM+CASE_DEF_GEN الف)
+                      (NP
+                        (NOUN+CASE_INDEF_GEN توقيع)))))))
+            (PP
+              (PREP من)
+              (NP
+                (NP
+                  (DET+NOUN+NSUFF_MASC_PL_GEN الصحافيين)
+                  (CONJ و)
+                  (DET+ADJ+NSUFF_MASC_PL_GEN الاعلاميين)
+                  (CONJ و)
+                  (DET+NOUN+NSUFF_MASC_PL_GEN الفنيين))
+                (ADJP
+                  (DET+ADJ+NSUFF_MASC_PL_GEN العاملين)
+                  (PP
+                    (PREP في)
+                    (NP
+                      (NOUN+CASE_DEF_GEN مختلف)
+                      (NP
+                        (NOUN+CASE_DEF_GEN وسائل)
+                        (NP
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN الاعلام))
+                          (ADJP
+                            (DET+ADJ+CASE_DEF_GEN المكتوب)
+                            (CONJ و)
+                            (DET+ADJ+CASE_DEF_GEN المرئي)
+                            (CONJ و)
+                            (DET+ADJ+CASE_DEF_GEN المسموع))))))))))))))</parse>
+<arg f="" g="they (Journalists, media professionals and technicians)" n="0">? &lt; الصحافيين والاعلاميين والفنيين</arg>
+<arg f="" g="In various media, written, visual and audio" n="1">في مختلف وسائل الاعلام المكتوب والمرئي والمسموع</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="apparent, obvious" id="02" vncls="">
+<role argnum="1" argrole="entity obvious" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SQ
+    (NP-TPC-1
+      (NOUN حَدّ))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS شاف)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ-2
+        (DET+NOUN+NSUFF_FEM_PL المِيكرُوباصات))
+      (S-ADV
+        (VP
+          (ADJ.VN+NSUFF_FEM_SG عامْلَة)
+          (NP-SBJ
+            (-NONE- *))
+          (WHADVP
+            (INTERROG_ADV اِزّاي)))))
+    (PUNC ?)))</parse>
+
+<arg f="" g="mini bus" n="1">* المِيكرُوباصات</arg>
+<arg f="" g="how" n="2">اِزّاي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="manner, how" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="How are you (multi word expression), to do something with" id="03" vncls="">
+<role argnum="1" argrole="entity asked" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نت عامل * ايه بالكتاب ده</parse>
+
+<arg f="" g="you" n="1">* انت</arg>
+<arg f="" g="what" n="2">ايه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="things done (usually  أيه)" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to do something" id="04" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>يوسف هو اللي عامل * ه</parse>
+
+<arg f="" g="Joseph" n="0">* يوسف</arg>
+<arg f="" g="it" n="1">ه</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things done" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what or with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="aspectual usage: progression of event (DO NOT TAG)" id="05" vncls="">
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عاملة  أكح</parse>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

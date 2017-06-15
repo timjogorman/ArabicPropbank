@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$ax~aS</id>
+<comment/>
+<frameset cdef="" edef="to diagnose" id="01">
+<role argnum="0" argrole="doctor"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شخص الطبيب المريض بالتهاب الامعاء</parse>
+<comment/>
+<arg f="" g="the doctor" n="0">الطبيب</arg>
+<arg f="" g="patient" n="1">المريض</arg>
+<arg f="" g="with intestine inflammition" n="2">بالتهاب الامعاء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="patient"/>
+<role argnum="2" argrole="illness"/>
+</frameset>
+<frameset cdef="" edef="to personify" id="02">
+<role argnum="0" argrole="agent knowing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>شخصت الفتاة المجرم من بين عشرة اشخاص</parse>
+<comment/>
+<arg f="" g="the girl" n="">الفتاة</arg>
+<arg f="" g="the criminal" n="">المجرم</arg>
+<arg f="" g="among ten people" n="">من بين عشرة اشخاص</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity knowed or recognized"/>
+<role argnum="2" argrole="among whom"/>
+</frameset>
+</verb>

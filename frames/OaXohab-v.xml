@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaXohab</id>
+
+<frameset cdef="" edef="to remove" id="01">
+<role argnum="0" argrole="remover"/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أذهب العلاج الألم من رأسي</parse>
+
+<arg f="" g="treatment" n="0">العلاج</arg>
+<arg f="" g="pain" n="1">الألم</arg>
+<arg f="" g="from my head" n="2">من رأسي</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things removed"/>
+<role argnum="2" argrole="removed from"/>
+
+<comment>أزال</comment>
+</frameset>
+
+<frameset cdef="" edef="to make goldish (in gold color)" id="02">
+<role argnum="0" argrole="entity covering"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أَذْهَبَ فلان الشيءَ أي طلاه بالذَّهَبِ</parse>
+
+<arg f="" g="the person" n="0">فلان</arg>
+<arg f="" g="the thing" n="1">الشيءَ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things covered in goled"/>
+<comment>طلاه بالذَّهَبِ</comment>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maroham</id>
+
+<frameset cdef="" edef="to put ointment on an injury" id="01" vncls="">
+<role argnum="0" argrole="entity putting ointment" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مرهم الطبيب الجرح</parse>
+
+<arg f="" g="the doctor" n="0">الطبيب</arg>
+<arg f="" g="the injury" n="1">الجرح</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="place" vncls="" vntheta=""/>
+<role argnum="2" argrole="ointment" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

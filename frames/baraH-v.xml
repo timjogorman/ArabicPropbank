@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>baraH</id>
+<comment/>
+<frameset cdef="" edef="to vanish or to clear away" id="01" vncls="">
+<role argnum="1" argrole="entity vanishing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لم يبرح الألم من راسي</parse>
+<comment/>
+<arg f="" g="the pain" n="1">الألم</arg>
+<arg f="" g="from my head" n="2">من راسي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+</frameset>
+</verb>

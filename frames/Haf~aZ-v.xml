@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Haf~aZ</id>
+<comment/>
+<frameset cdef="" edef="to teach, to make someone to memorize" id="01" vncls="">
+<role argnum="0" argrole="teacher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ابويا حفظ * نا الاغنية دي  و أحنا عيال</parse>
+<comment/>
+<arg f="" g="my father" n="0">* ابويا</arg>
+<arg f="" g="us" n="2">نا</arg>
+<arg f="" g="this song" n="1">الاغنية دي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="subject" vncls="" vntheta=""/>
+<role argnum="2" argrole="student" vncls="" vntheta=""/>
+</frameset>
+</verb>

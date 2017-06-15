@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>jalab</id>
+<frameset cdef="" edef="to bring" id="01" vncls="">
+<role argnum="0" argrole="bringer" vncls="" vntheta="" />
+<role argnum="1" argrole="thing brought" vncls="" vntheta="" />
+<role argnum="2" argrole="benefactive, brought-for, brought-to" vncls="" vntheta="" />
+<role argnum="3" argrole="ablative, brought-from" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+                      (NP-SBJ
+                        (NP
+                          (DET+NOUN+CASE_DEF_ACC الخاسر))
+                        (NP
+                          (PRON_3MS هو)))
+                      (NP-PRD
+                        (NP
+                          (NOUN_PROP بريطانيا))
+                        (NP
+                          (NOUN+CASE_DEF_NOM نفس)
+                          (NP
+                            (POSS_PRON_3FS ها))))
+                      (PP-MNR
+                        (PREP ب)
+                        (SBAR-NOM
+                          (WHNP-4
+                            (REL_PRON ما))
+                          (S
+                            (VP
+                              (IV3FS+IV+IVSUFF_MOOD:I تجلب)
+                              (NP-SBJ
+                                (-NONE- *))
+                              (NP-OBJ
+                                (NP
+                                  (IVSUFF_DO:3MS ه))
+                                (NP
+                                  (-NONE- *T*-4)))
+                              (PP
+                                (PREP على)
+                                (NP
+                                  (NOUN+CASE_DEF_GEN نفس)
+                                  (NP
+                                    (POSS_PRON_3FS ها))))
+                              (PP
+                                (PREP من)
+                                (NP
+                                  (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN كراهية)))
+                              (PP-LOC
+                                (PREP في)
+                                (NP
+                                  (NP
+                                    (DET+NOUN+CASE_DEF_GEN المحيط))
+                                  (ADJP
+                                    (DET+ADJ+CASE_DEF_GEN العربي)
+                                    (CONJ و)
+                                    (DET+ADJ+CASE_DEF_GEN الاسلامي))))))))))))))))
+      (PUNC &quot;)))
+  (PUNC .))</parse>
+<arg f="" g="it" n="0">-NONE- *&lt; بريطانيا</arg>
+<arg f="" g="for itself" n="2">على نفسها</arg>
+<arg f="" g="hatred" n="1">كراهية</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset jalab-iu-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on jalab-iu-v</comment>
+</verb>

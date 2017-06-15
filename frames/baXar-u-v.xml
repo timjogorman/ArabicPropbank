@@ -1,25 +1,49 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>baXar-u</id>
-    <comment/>
-    <frameset cdef="" edef="to sow, to seed, to spread" id="01">
-        <role argnum="0" argrole="entity sowing"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>بذر الزارع البذور في الارض المحددة لها</parse>
-                <comment/>
-                <arg f="" g="the farmer" n="0">الزارع</arg>
-                <arg f="" g="the seeds" n="1">البذور</arg>
-                <arg f="" g="in the specified land" n="2">في الارض المحددة لها</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="things sowed"/>
-        <role argnum="2" argrole="location"/>
-        <role argnum="3" argrole="instrument used"/>
-    </frameset>
+<id>baXar-u</id>
+
+<frameset cdef="" edef="to sow, to seed, to spread" id="01" vncls="">
+<role argnum="0" argrole="entity sowing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بذر الزارع البذور في الارض المحددة لها</parse>
+
+<arg f="" g="the farmer" n="0">الزارع</arg>
+<arg f="" g="the seeds" n="1">البذور</arg>
+<arg f="" g="in the specified land" n="2">في الارض المحددة لها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things sowed" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument used" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to waste or squander" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بذر الأبن ماله في القمار</parse>
+<comment/>
+<arg f="" g="the son" n="0">الأبن</arg>
+<arg f="" g="his money" n="1">ماله</arg>
+<arg f="" g="in gambling" n="2">في القمار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things wasted (money)" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
 </verb>

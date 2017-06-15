@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AifAloyuwayo$in</id>
+
+<frameset cdef="" edef="assessment/ evaluation" id="01" vncls="">
+<role argnum="0" argrole="evaluator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كان تقييم المدير عمل الموظف بتقدير ممنا</parse>
+
+<arg f="" g="evaluator" n="0">المدير</arg>
+<arg f="" g="thing evaluated" n="1">عمل الموظف</arg>
+<arg f="" g="evaluation" n="2">ممنا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing evaluated" vncls="" vntheta=""/>
+<role argnum="2" argrole="evaluation" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment>English borrowed (evaluation)</comment>
+</verb>

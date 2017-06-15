@@ -1,0 +1,114 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaEad</id>
+
+<frameset cdef="" edef="to sit" id="01" vncls="">
+<role argnum="1" argrole="sitter" vncls="" vntheta=""/>
+<role argnum="2" argrole="place or location" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse/>
+<arg f="" g="" n="">...</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset qaEad-u.01</comment>
+</frameset>
+
+    <frameset cdef="" edef="to always/constantly/continuously be doing" id="02" vncls="">
+<role argnum="0" argrole="entity doing the work" vncls="" vntheta=""/>
+<role argnum="1" argrole="work" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>قبل يومين قال لي سائق سيارة اجرة ان البلد كان يقوم **-1 و يقعد * بالتظاهرات قبل الحرب من اجل لقمة العيش , اما اليوم فقد دجنوا * الناس .</parse>
+<arg f="" g="-NONE- &lt; the country" n="0">**-1 &lt; البلد</arg>
+<arg f="" g="demonstrations" n="1">بالتظاهرات</arg>
+<arg f="tmp" g="before the war" n="m">قبل الحرب</arg>
+<arg f="prp" g="in order to eat" n="m">من اجل لقمة العيش</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+
+<comment>يقوم ويقعد</comment>
+</frameset>
+
+<frameset cdef="" edef="to seat, to make sit" id="03" vncls="">
+<role argnum="0" argrole="entity seating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أجلس الرئيس ضيفه بجانبه</parse>
+
+<arg f="" g="the presedent" n="0">الرئيس</arg>
+<arg f="" g="his guest" n="1">ضيفه</arg>
+<arg f="" g="to his side" n="2">بجانبه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity seated" vncls="" vntheta=""/>
+<role argnum="2" argrole="where or on what" vncls="" vntheta=""/>
+
+<comment>Based on roleset Oajolas.01</comment>
+</frameset>
+
+
+<frameset cdef="" edef="to remain in a place" id="04" vncls="">
+<role argnum="1" argrole="entity remaining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هو قعد * في العراق ثلاث سنين</parse>
+
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="in Iraq" n="2">في العراق</arg>
+<arg f="" g="three years" n="3">ثلاث سنين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="where" vncls="" vntheta=""/>
+<role argnum="3" argrole="how long, period of time" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on  qaEad-u and Oajolas</comment>
+<frameset cdef="" edef="to quit (multi word expre ssion)" id="05" vncls="">
+<role argnum="0" argrole="entity quiting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أختي قعدت * من المدرسة</parse>
+<comment/>
+<arg f="" g="my sister" n="0">* أختي</arg>
+<arg f="" g="from school" n="1">من المدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

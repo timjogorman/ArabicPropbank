@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>baw~aZ</id>
+
+<frameset cdef="" edef="to destroy or damage (Egyption)" id="01" vncls="">
+<role argnum="0" argrole="destroyer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ده هو اللي بوظ * كل حاجة بكلامه</parse>
+
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="every thing" n="1">كل حاجة</arg>
+<arg f="" g="with his words" n="2">بكلامه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things destroyed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

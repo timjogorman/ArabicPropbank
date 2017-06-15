@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aiyd</id>
+<comment/>
+<frameset cdef="" edef="be able to (multi word expression)" id="01" vncls="">
+<role argnum="0" argrole="able / capable entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بأيدكم تعملوا ده</parse>
+<comment/>
+<arg f="" g="them" n="0">كم</arg>
+<arg f="" g="to do this" n="1">تعملوا ده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what? (marked by على)" vncls="" vntheta=""/>
+</frameset>
+</verb>

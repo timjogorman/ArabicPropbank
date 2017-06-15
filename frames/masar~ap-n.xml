@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>masar~ap</id>
+<comment/>
+<frameset cdef="" edef="joy, delight" id="01" vncls="">
+<role argnum="0" argrole="entity happy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مسرة بعض الناس هي في مشاهدة أفلام الكرتون</parse>
+<comment/>
+<arg f="" g="some people" n="0">بعض الناس</arg>
+<arg f="" g="in watching animated movies" n="1">هي في مشاهدة أفلام الكرتون</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

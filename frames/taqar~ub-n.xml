@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>taqar~ub</id>
+<comment>Framefile based on taqar~ab</comment>
+<frameset cdef="" edef="to approach, to come closer to" id="01">
+<role argnum="0" argrole="entity approching" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ليه اللى تقرب * منه وتحبه وتخلص له او لها تلقيهم بيخدعوك وبيخنوك وبيكلمو عليك في ظهرك</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="from him" n="1">منه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset taqar~ab.01</comment>
+<role argnum="1" argrole="entity or things approched" />
+<role argnum="2" argrole="distance" />
+</frameset>
+</verb>

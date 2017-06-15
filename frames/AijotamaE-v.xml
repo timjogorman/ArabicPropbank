@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AijotamaE</id>
+<comment>EGYPTIAN ARABIC based on {ijotamaE</comment>
+    <frameset cdef="" edef="to meet" id="01">
+<role argnum="0" argrole="entity meeting / first party" />
+<role argnum="1" argrole="meeting with / other party" />
+<frame>
+<mapping>
+<V />
+<mapitem src="sbj" trg="arg0" />
+</mapping>
+<example>
+<parse>
+S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS اجتمع)
+    (NP-SBJ
+      (-NONE- *))
+    (NP-TMP
+      (NOUN+CASE_INDEF_ACC لاحقاً))
+    (PP-CLR
+      (PREP ب)
+      (NP
+        (NP
+          (NOUN+CASE_DEF_GEN نائب)
+          (NP
+            (NOUN+CASE_DEF_GEN رئيس)
+            (NP
+              (NOUN+CASE_DEF_GEN مجلس)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN النواب)))))
+        (NP
+          (NOUN_PROP ايلي)
+          (DET+NOUN_PROP الفرزلي)))))
+  (PUNC .))
+</parse>
+<arg f="" g="He" n="0">-NONE- *</arg>
+<arg f="" g="with the vice president of the deputies council" n="1">بنائب رئيس مجلس النواب ايلي الفرزلي</arg>
+<arg f="tmp" g="later" n="m">لاحقاً</arg>
+<V />
+</example>
+</frame>
+<comment>Based on roleset {ijotamaE.01</comment></frameset>
+</verb>

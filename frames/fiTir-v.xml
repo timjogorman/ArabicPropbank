@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fiTir</id>
+<comment/>
+<frameset cdef="" edef="to have breakfast" id="01" vncls="">
+<role argnum="0" argrole="eater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا فطرت * اربع بيضات</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="for eggs" n="1">اربع بيضات</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+</frameset>
+</verb>

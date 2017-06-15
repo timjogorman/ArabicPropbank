@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AiHolaw~</id>
+<comment/>
+<frameset cdef="" edef="becoming sweet or pleasent, become enjoyable" id="01" vncls="">
+<role argnum="1" argrole="entity or things getting sweet" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الطفل بيحلو * لأمه للأخر</parse>
+<comment/>
+<arg f="" g="the baby" n="1">* الطفل</arg>
+<arg f="" g="for his mom" n="2">لأمه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="benefeciary" vncls="" vntheta=""/>
+</frameset>
+</verb>

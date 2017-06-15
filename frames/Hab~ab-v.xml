@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hab~ab</id>
+
+<frameset cdef="" edef="to make someone love something" id="01" vncls="Hab~aba-1">
+<role argnum="0" argrole="entity making others love something" vncls="Hab~aba-1" vntheta="cause"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حبب * الحياة اليه</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="life" n="1">الحياة</arg>
+<arg f="" g="to him" n="2">اليه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to whom" vncls="Hab~aba-1" vntheta="experiencer"/>
+<role argnum="2" argrole="thing to be loved" vncls="Hab~aba-1" vntheta="theme"/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to make like seed or pill" id="02" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حبب * الدواء</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="medicine" n="1">الدواء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things made like seed or pill" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

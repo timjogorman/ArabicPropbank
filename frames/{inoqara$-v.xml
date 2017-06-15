@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqara$</id>
+
+<frameset cdef="" edef="to be cut into small piece with teeth" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقرش الخبز بالأسنان</parse>
+
+<arg f="" g="bread" n="1">الخبز</arg>
+<arg f="" g="with teeth" n="2">بالأسنان</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+<role argnum="2" argrole="teeth" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be obtained or collected" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقرش المبلغ في ثلاث سنوات</parse>
+
+<arg f="" g="the amount" n="1">المبلغ</arg>
+<arg f="tmp" g="in three years" n="m">في ثلاث سنوات</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity collected" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="from whom or from where" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

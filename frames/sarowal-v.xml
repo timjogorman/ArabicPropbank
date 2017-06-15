@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sarowal</id>
+
+<frameset cdef="" edef="to put pants on a person" id="01" vncls="">
+<role argnum="0" argrole="entity putting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>سرولت الأم ابنها</parse>
+
+
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="her son" n="2">ابنها</arg>
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the pants" vncls="" vntheta=""/>
+<role argnum="2" argrole="person dressing" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

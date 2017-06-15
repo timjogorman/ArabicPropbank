@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanAbaz</id>
+<comment/>
+<frameset cdef="" edef="to surname, to call, to entitle" id="01">
+<role argnum="0" argrole="first entity calling names"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تنابز الاطفال بالالقاب</parse>
+<comment/>
+<arg f="" g="the kids" n="0">الاطفال</arg>
+<arg f="" g="with titles" n="2">بالالقاب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="second entity calling names"/>
+<role argnum="2" argrole="with what"/>
+</frameset>
+</verb>

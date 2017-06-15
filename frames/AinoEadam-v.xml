@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AinoEadam</id>
+
+<frameset cdef="" edef="To be lacking, to be missing, to disappear" id="01" vncls="">
+<role argnum="1" argrole="things disappeared" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>انعدم الامن في البلاد</parse>
+
+<arg f="" g="security" n="1">الامن</arg>
+<arg f="loc" g="in the country" n="m">في البلاد</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset {inoEadam.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on {inoEadam</comment>
+<frameset cdef="" edef="to be hanged (executed)" id="02" vncls="">
+<role argnum="1" argrole="entity hanged" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>الراجل انعدم * امبارح</parse>
+<comment />
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="tmp" g="yesterday" n="m">امبارح</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {inoEadam.02</comment>
+<role argnum="2" argrole="by whom" vncls="" vntheta="" />
+</frameset>
+</verb>

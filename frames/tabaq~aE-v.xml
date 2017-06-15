@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tabaq~aE</id>
+<comment/>
+<frameset cdef="" edef="to be or become spotted or stained" id="01" vncls="">
+<role argnum="1" argrole="entity becoming stained" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تبقع وجه الطفل ببقع حمراء</parse>
+<comment/>
+<arg f="" g="the baby's face" n="1">وجه الطفل</arg>
+<arg f="" g="with red spots" n="2">ببقع حمراء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hajad-u</id>
+<comment/>
+<frameset cdef="" edef="to sleep" id="01" vncls="">
+<role argnum="1" argrole="entity sleeping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هجد الطفل في الفراش</parse>
+<comment/>
+<arg f="" g="the kid" n="1">الطفل</arg>
+<arg f="" g="in the bed" n="2">في الفراش</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to stay up late at night" id="02" vncls="">
+<role argnum="1" argrole="entity staying awake" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هجد الطفل يلعب بألعابه</parse>
+<comment/>
+<arg f="" g="the kid" n="1">الطفل</arg>
+<arg f="" g="playing with his toys" n="2">يلعب بألعابه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

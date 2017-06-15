@@ -1,0 +1,102 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faborik</id>
+<frameset cdef="" edef="to lie" id="01" vncls="">
+<role argnum="0" argrole="liar" vncls="" vntheta=""/>
+<role argnum="1" argrole="lie" vncls="" vntheta=""/>
+<role argnum="2" argrole="hearer" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(DET+NOUN+CASE_DEF_GEN الصبي))
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الدمية)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الخشبية)))
+            (SBAR
+              (WHNP-2
+                (REL_PRON الذي))
+              (S
+                (VP
+                  (IV3MS+IV+IVSUFF_MOOD:I يزداد)
+                  (NP-SBJ
+                    (NOUN+CASE_DEF_NOM انف)
+                    (NP
+                      (NP
+                        (POSS_PRON_3MS ه))
+                      (NP
+                        (-NONE- *T*-2))))
+                  (NP-ADV
+                    (NOUN+CASE_INDEF_ACC طويلاً))
+                  (SBAR-TMP
+                    (WHADVP-3
+                      (REL_ADV كلما))
+                    (S
+                      (VP
+                        (PV+PVSUFF_SUBJ:3MS كذب)
+                        (NP-SBJ
+                          (-NONE- *))
+                        (ADVP
+                          (-NONE- *T*-3)))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="" n="0">-NONE- *&lt;الصبي</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to counterfeit or forge" id="02" vncls="">
+<role argnum="0" argrole="entity forging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+                        (NP-ADV
+                          (NOUN بَعْد)
+                          (NP
+                            (NOUN كِدَه)))
+                        (VP
+                          (PV+PVSUFF_SUBJ:1P عِرِفنا)
+                          (NP-SBJ
+                            (-NONE- *))
+                          (SBAR
+                            (SUB_CONJ إِنّ)
+                            (S
+                              (S
+                                (NP-SBJ
+                                  (NP
+                                    (DET+NOUN الكَلام))
+                                  (NP
+                                    (DEM_PRON_MS دَه)))
+                                (NP-PRD
+                                  (NOUN كِذب)))
+                              (CONJ و)
+                              (S
+                                (VP
+                                  (PV+PVSUFF_SUBJ:3P فَبرَكُوا)
+                                  (NP-SBJ
+                                    (-NONE- *))
+                                  (NP-OBJ
+                                    (DET+NOUN الصُوَر)
+                                    (CONJ و)
+                                    (DET+NOUN الفِيديُوه)))))))))))))))))))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the pictures and the vedio" n="1">الصور و الفيديو</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things forged" vncls="" vntheta=""/>
+<comment>Egyptian</comment>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>may~Al</id>
+<frameset cdef="" edef="inclined / disposed" id="01" vncls="">
+<role argnum="0" argrole="inclined / disposed entity" vncls="" vntheta=""/>
+<role argnum="1" argrole="to who or what?" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+      (PUNC &quot;)
+      (VP
+        (PSEUDO_VERB ان)
+        (NP-SBJ
+          (PRON_1S ني))
+        (ADJP-PRD
+          (ADJ+CASE_INDEF_NOM ميال)
+          (PP
+            (PREP الى)
+            (NP
+              (NOUN+CASE_DEF_GEN دعم)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN النص)
+                (DET+ADJ+CASE_DEF_GEN النهائي))))))
+      (PUNC &quot;))</parse>
+<arg f="" g="I" n="0">ني</arg>
+<arg f="" g="to support the final text" n="1">الى دعم النص النهائي</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

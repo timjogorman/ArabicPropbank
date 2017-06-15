@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>XAkirap</id>
+<comment>EGYPTIAN ARABIC based on XAkar
+Framefile based on XAkir</comment>
+    <frameset cdef="" edef="to study, to memorize" id="01">
+<role argnum="0" argrole="entity studying" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>كنت بشغل الفيديوهات اللى فى الاسطوانة وكنت * بذاكر الاسئلة اللى فيها</parse>
+<comment />
+<arg f="" g="he" n="">*? NONE</arg>
+<arg f="" g="the questions that they were in it" n="">الاسئلة اللى فيها</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset XAkar.01
+Based on roleset XAkir.01</comment>
+<role argnum="1" argrole="things studied" />
+</frameset>
+</verb>

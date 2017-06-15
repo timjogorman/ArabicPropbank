@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wamaO-i</id>
+<comment/>
+<frameset cdef="" edef="to make a sign or signal, to make a gesture" id="01" vncls="">
+<role argnum="0" argrole="entity giving signal" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ومأ الرجل بأصبعه الى البيت</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with his finger" n="1">بأصبعه</arg>
+<arg f="" g="to the house" n="2">الى البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to councle or advise" id="02" vncls="">
+<role argnum="0" argrole="agent or giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ومأ الأب لأبنه بعدم التدخين</parse>
+<comment/>
+<arg f="" g="the father" n="0">الأب</arg>
+<arg f="" g="for his son" n="1">لأبنه</arg>
+<arg f="" g="not to smoke" n="2">بعدم التدخين</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="receiver" vncls="" vntheta=""/>
+<role argnum="2" argrole="advise" vncls="" vntheta=""/>
+</frameset>
+</verb>

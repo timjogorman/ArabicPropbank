@@ -1,22 +1,46 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>OawofaY</id>
-    <comment/>
-    <frameset cdef="" edef="to fulfill, carry out" id="01">
-        <role argnum="0" argrole="fulfiller"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>أوفي الوالد بوعده في دفع مصروفت الرحلة</parse>
-                <comment/>
-                <arg f="" g="dad" n="0">الوالد</arg>
-                <arg f="" g="promise" n="1">بوعده</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="promise, contract, unresolved issue (marked by بـ)"/>
-    </frameset>
+<id>OawofaY</id>
+
+<frameset cdef="" edef="to fulfill, carry out" id="01">
+<role argnum="0" argrole="fulfiller"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أوفي الوالد بوعده في دفع مصروفت الرحلة</parse>
+
+<arg f="" g="dad" n="0">الوالد</arg>
+<arg f="" g="promise" n="1">بوعده</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="promise, contract, unresolved issue (marked by بـ)"/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to give someone his due in full" id="02">
+<role argnum="0" argrole="giver"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أوفا * ه حقه‏</parse>
+<comment/>
+<arg f="" g="he" n="0">*? NONE</arg>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="his rights" n="2">حقه‏</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="taker"/>
+<role argnum="2" argrole="things given"/>
+</frameset>
 </verb>

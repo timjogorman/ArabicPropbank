@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitofat~aH</id>
+<comment>EGYPTIAN ARABIC Framefile based on tafat~aH-v</comment>
+<frameset cdef="" edef="to open up, to unfold" id="01" vncls="">
+<role argnum="1" argrole="entity opened" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تفتحت الزهرة صباحا</parse>
+<comment />
+<arg f="" g="the flower" n="1">الزهرة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset tafat~aH-v.01</comment>
+<role argnum="2" argrole="for what" vncls="" vntheta="" />
+</frameset>
+</verb>

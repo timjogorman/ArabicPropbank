@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tahaj~an</id>
+<comment/>
+<frameset cdef="" edef="to be hybridized or interbreeded" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تهجنت أشجار النخيل بالمئات</parse>
+<comment/>
+<arg f="" g="the datepalm trees" n="1">أشجار النخيل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hybridized" vncls="" vntheta=""/>
+</frameset>
+</verb>

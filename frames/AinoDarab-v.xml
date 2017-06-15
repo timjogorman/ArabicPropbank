@@ -1,0 +1,580 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinoDarab</id>
+<frameset cdef="" edef="to hit" id="01" vncls="">
+<role argnum="0" argrole="agent, hitter - animate only!" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing hit" vncls="" vntheta=""/>
+<role argnum="2" argrole="place hit" vncls="" vntheta=""/>
+<role argnum="3" argrole="instrument, thing hit by or with" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S (S (VP (pull/attract+he/it MjaXaba- M جَذَبَ-)
+                                               (NP-SBJ (-NONE- X))
+                                               (NP-OBJ (it/them/her M-hA M -ها))))
+                                        (and Mwa- M وَ-)
+                                        (S (VP (strike/hit+he/it M-Daraba- M -ضَرَبَ-)
+                                               (NP-SBJ (-NONE- X))
+                                               (NP-OBJ (it/them/her M-hA M -ها))
+                                               (PP (in Mfiy M فِي)
+                                                   (NP (face/front Mwajohi- M وَجْهِ-)
+                                                       (its/their/her M-hA M -ها)))
+                                               (PP (with/by Mbi- M بِ-)
+                                                   (NP (the+handcuffs/shackles M-AlOagolAli M -الأَغْلالِ)))))))))))))
+   (PUNC &quot;)</parse>
+<arg f="" g="NP-SBJ (-NONE- *" n="0">X</arg>
+<arg f="" g="her" n="1">-hA</arg>
+<arg f="" g="in her face" n="2">fiy wajohi- -hA</arg>
+<arg f="" g="with the shackles" n="3">bi- -AlOagolAli</arg>
+<V/>
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+<comment>Based on roleset Darab.01</comment>
+</frameset>
+<frameset cdef="" edef="break the record" id="02" vncls="">
+<role argnum="0" argrole="agent broker" vncls="" vntheta=""/>
+<role argnum="1" argrole="the record" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S (ADVP (then/thereupon Mvum~a M ثُمَّ))
+      (VP (strike/hit+he/it MDaraba M ضَرَبَ)
+          (NP-SBJ (-NONE- X))
+          (NP-OBJ (the+number/numeral MAlr~aqoma M الرَّقْمَ)
+                  (the+record/analogous MAlqiyAsiy~a M القِياسِيَّ))
+          (PP-MNR (PP (with/by Mbi- M بِ-)
+                      (NP (NP (the+volume/size M-AlHajomi M -الحَجْمِ))
+                          (PRN (PUNC -LRB-)
+                               (NP (NP (last/end M Mxiru M آخِرُ)
+                                       (painting/picture MlawoHAti- M لَوْحاتِ-)
+                                       (its/his M-hi M -هِ))
+                                   (NP (NP (NUM 200)
+                                           (meter MmitorK M مِتْرٍ)
+                                           (square/quadruple/tetragonal Mmurab~aEK M مُرَبَّعٍ))
+                                       (PP (for/to Mli- M لِ-)
+                                           (NP (presentation/display/review/show/offer M-EaroDi M -عَرْضِ)
+                                               (NP (Karkala MkarokalA M كَرْكَلا)
+                                                   (the+new/modern MAljadiydi M الجَدِيدِ))))))
+                               (NP (PUNC &quot;)
+                                   (NUM+CASE_DEF_NOM Alf)
+                                   (NP (night/evening/soire MlayolapK M لَيْلَةٍ)
+                                       (and Mwa- M وَ-)
+                                       (night/evening/soire M-layolapK M -لَيْلَةٍ))
+                                   (PUNC &quot;))
+                               (PUNC -RRB-))))
+                  (and Mwa- M وَ-)
+                  (PP (with/by M-bi- M -بِ-)
+                      (NP (NP (the+speed/velocity/promptness M-AlsuroEapi M -السُرْعَةِ))
+                          (PRN (PUNC -LRB-)
+                               (implement/carry_out/accomplish+he/it Mnaf~aXa M نَفَّذَ)
+                               (the+summer MAlS~ayofa M الصَّيْفَ)
+                               (the+past/bygone MAlmADiya M الماضِيَ)
+                               (painting/picture MlawoHapF M لَوْحَةً)
+                               (gigantic/huge/super MEimolAqapK M عِمْلاقَةٍ)
+                               (from Mmin M مِن)
+                               (NUM+NSUFF_FEM_SG+CASE_DEF_GEN E$rp)
+                               (meters MOamotArK M أَمْتارٍ)
+                               (square/quadruple/tetragonal Mmurab~aEapK M مُرَبَّعَةٍ)
+                               (in Mfiy M فِي)
+                               (least/smallest/minimum MOaqal~a M أَقَلَّ)
+                               (from Mmin M مِن)
+                               (hour/time MsAEapK M ساعَةٍ)
+                               (for/to Mli M لِ)
+                               (PUNC &quot;)
+                               (days MOay~Ami M أَيّامِ)
+                               (head/top MraOosi M رَأْسِ)
+                               (the+deck/board/surface MAlmatoni M المَتْنِ)
+                               (the+first MAlOuwlaY M الأُولَى)
+                               (to/for Mli- M لِ-)
+                               (the+drawing/sketch/illustration M-Alrasomi M -الرَسْمِ)
+                               (and Mwa- M وَ-)
+                               (the+sculpturing/shaping M-AlnaHoti M -النَحْتِ)
+                               (PUNC &quot;)
+                               (PUNC -RRB-)))))))</parse>
+<arg f="" g="NP-SBJ (-NONE- *)" n="0">X</arg>
+<arg f="" g="the record" n="1">Alr~aqoma AlqiyAsiy~a</arg>
+<arg f="mnr" g="with another size of 200 meter long and so on..." n="m">bi- AlHajomi  lawoHAti- hi mitorK murab~aEK li- EaroDi karokalA Aljadiydi  layolapK wa- layolapK wa- -bi- AlsuroEapi naf~aXa AlS~ayofa AlmADiya lawoHapF EimolAqapK min OamotArK murab~aEapK fiy Oaqal~a min sAEapK li Oay~Ami raOosi Almatoni AlOuwlaY li- Alrasomi wa- AlnaHoti</arg>
+<V/>
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment>Based on roleset Darab.02</comment>
+</frameset>
+
+<frameset cdef="" edef="to give an example" id="03" vncls="">
+<role argnum="0" argrole="entity giving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>وضرب الاب لاولاده مثلا عن الاتحاد بين الاخوة</parse>
+
+<arg f="" g="the father" n="0">الاب</arg>
+<arg f="" g="to his children" n="2">لاولاده</arg>
+<arg f="" g="example" n="1">مثلا</arg>
+<arg f="" g="about the unity between the brothers" n="3">عن الاتحاد بين الاخوة</arg>
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things given" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="3" argrole="about what" vncls="" vntheta=""/>
+
+
+
+
+
+
+<comment>Based on roleset Darab.03</comment>
+</frameset>
+<frameset cdef="" edef="to roam or wander" id="04" vncls="">
+<role argnum="0" argrole="the wanderer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ضرب * في الارض باحثا عن الذهب</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="in the land" n="1">في الارض</arg>
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="where" vncls="" vntheta=""/>
+
+
+
+
+
+
+<comment>Based on roleset Darab.04</comment>
+</frameset>
+
+<frameset cdef="" edef="to mix" id="05" vncls="">
+<role argnum="0" argrole="mixer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>احنا قاعدين بنضرب * عسل بلبن</parse>
+
+<arg f="" g="we" n="0">* احنا</arg>
+<arg f="" g="honey" n="1">عسل</arg>
+<arg f="" g="with yougurt" n="2">بلبن</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="first mixed" vncls="" vntheta=""/>
+<role argnum="2" argrole="second mixed (if it is not in ARG 1)" vncls="" vntheta=""/>
+
+
+
+
+
+<comment>ARZ
+Based on roleset Darab.05</comment>
+</frameset>
+<frameset cdef="" edef="to eat, to take" id="06" vncls="">
+<role argnum="0" argrole="taker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(NP-TPC-3
+        (DET+NOUN+NSUFF_FEM_SG البَلْطَجَة))
+      (VP
+        (PV+PVSUFF_SUBJ:3FS وِصْلِت)
+        (NP-SBJ
+          (-NONE- *T*-3))
+        (PP
+          (PREP اِلَى)
+          (UCP
+            (NP
+              (NOUN مُسْتَوَى)
+              (ADJ مُخِيف))
+            (CONJ وِ)
+            (S
+              (NP-SBJ
+                (NOUN عَين)
+                (NP
+                  (POSS_PRON_1S ِي)))
+              (NP-PRD
+                (NOUN عَين)
+                (NP
+                  (POSS_PRON_2MS َك))))))))
+    (CONJ وِ)
+    (S
+      (NP-TPC
+        (DET+NOUN+NSUFF_FEM_PL المُخَدَّرات))
+      (VP
+        (IV3MS+IV يِمْكِن)
+        (SBAR-SBJ
+          (-NONE- 0)
+          (S
+            (NP-TPC-5
+              (NP
+                (NOUN_NUM 90)
+                (NP
+                  (NOUN_NUM 5)))
+              (PP
+                (PREP مِن)
+                (NP
+                  (DET+NOUN الشَعْب))))
+            (VP
+              (PV+PVSUFF_SUBJ:3MS بَقَى)
+              (NP-SBJ-4
+                (-NONE- *T*-5))
+              (S
+                (VP
+                  (PRT
+                    (PROG_PART بِ))
+                  (IV3MS+IV يِضْرَب)
+                  (NP-SBJ
+                    (-NONE- *-4))
+                  (NP-OBJ
+                    (NOUN+NSUFF_FEM_PL مُخَدَّرات)))))))))</parse>
+
+<arg f="" g="the people" n="0">* الشَعْب</arg>
+<arg f="" g="drugs" n="1">مُخَدَّرات</arg>
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things taken" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+
+
+
+
+
+<comment>ARZ
+Based on roleset Darab.06</comment>
+</frameset>
+
+<frameset cdef="" edef="to shoot (fire a weapon)" id="07" vncls="">
+<role argnum="0" argrole="shooter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الجيش ضرب  * الناس بالرصاص</parse>
+
+<arg f="" g="the Army" n="0">* الجيش</arg>
+<arg f="" g="people" n="2">الناس</arg>
+<arg f="" g="with bullets" n="1">بالرصاص</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things shot" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+
+
+
+
+<comment>Based on roleset Darab.07</comment>
+</frameset>
+
+<frameset cdef="" edef="to do or take (salutation)" id="08" vncls="">
+<role argnum="0" argrole="doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يِشُوف)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NP
+            (NOUN+NSUFF_FEM_SG صُورَة))
+          (PP
+            (PREP لِ)
+            (NP
+              (NOUN_PROP إِسْحاق)
+              (NOUN_PROP رابِين))))))
+    (CONJ فَ)
+    (S
+      (VP
+        (IV3MS+IV يُقَف)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-ADV
+          (NOUN قُدّام)
+          (NP
+            (POSS_PRON_3FS ها)))
+        (S-ADV
+          (NP-SBJ
+            (-NONE- *))
+          (ADJP-PRD
+            (ADJ مَشْدُود)))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV3MS+IV يِضْرَب)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN تَعْظِيم)
+          (NP
+            (NOUN سَلام)))))
+    (PUNC ,)))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="salutation" n="1">تَعْظِيم سَلام</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="act" vncls="" vntheta=""/>
+
+
+
+<comment>ARZ
+Based on roleset Darab.08</comment>
+</frameset>
+
+
+
+<frameset cdef="" edef="multiple word expresion (احتار)" id="10" vncls="">
+<role argnum="0" argrole="entity confused" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ضرب الرجل أخماسابأسداس</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the matters" n="1">أخماسابأسداس</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the expresion (أخماسابأسداس)" vncls="" vntheta=""/>
+
+<comment>احتار
+Based on roleset Darab.10</comment>
+</frameset>
+<frameset cdef="" edef="to multiply" id="11" vncls="">
+<role argnum="0" argrole="entity multiplying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ضرب الطالب 5 في 9</parse>
+
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="5" n="1">5</arg>
+<arg f="" g="times 9" n="2">في 9</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="first number" vncls="" vntheta=""/>
+<role argnum="2" argrole="second number" vncls="" vntheta=""/>
+
+<comment>Based on roleset Darab.11</comment>
+</frameset>
+
+<comment>EGYPTIAN ARABIC Framefile based on Darab</comment>
+</verb>

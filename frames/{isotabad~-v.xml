@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotabad~</id>
+<comment/>
+<frameset cdef="" edef="to be or become arbitrary or despotic,, to over come, to possess alone" id="01">
+<role argnum="0" argrole="entity becoming arbitrary"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استبد الرئيس بالسلطة بالقوة</parse>
+<comment/>
+<arg f="" g="the presedent" n="0">الرئيس</arg>
+<arg f="" g="with the authority" n="1">بالسلطة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what"/>
+</frameset>
+<frameset cdef="" edef="to be or become opinionated" id="02">
+<role argnum="0" argrole="entity becoming opinionated"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استبد الشاب برأيه</parse>
+<comment/>
+<arg f="" g="the young man" n="0">الشاب</arg>
+<arg f="" g="with his opinion" n="1">برأيه</arg>
+</example>
+<comment>استبد برأيه‏</comment>
+</frame>
+<comment>استبد برأيه‏</comment>
+<role argnum="1" argrole="in what (Usually برأيه)"/>
+</frameset>
+</verb>

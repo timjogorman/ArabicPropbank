@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaSar</id>
+<comment/>
+<frameset cdef="" edef="to make short" id="01" vncls="">
+<role argnum="0" argrole="entity making short" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قصرت الفتاة ردائها</parse>
+<comment/>
+<arg f="" g="the dirl" n="0">الفتاة</arg>
+<arg f="" g="her dress" n="1">ردائها</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things short" vncls="" vntheta=""/>
+</frameset>
+</verb>

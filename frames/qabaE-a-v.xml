@@ -1,17 +1,51 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>qabaE-a</id>
-    <frameset cdef="" edef="to rest or languish" id="01">
-        <role argnum="1" argrole="thing resting"/>
-        <role argnum="2" argrole="location or state"/>
-        <frame>
-            <example>
-                <parse>
-                    الرجل الذي قبع **-1 في صيدا
-                </parse>
-                <arg f="" g="-NONE- &amp;lt; the man" n="1">**-1 &amp;lt; الرجل</arg>
-                <arg f="" g="in Sidon" n="2">في صيدا</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>qabaE-a</id>
+
+<frameset cdef="" edef="to stay or hide at, to remain at" id="01" vncls="">
+<role argnum="0" argrole="entity staying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>قبع الرجل في حجرته</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in his room" n="1">في حجرته</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="staying at" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to make sound ( pig, elephant )" id="02" vncls="">
+<role argnum="0" argrole="entity making the noise" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قبع الخنزير</parse>
+
+<arg f="" g="the pig" n="0">الخنزير</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
 </verb>

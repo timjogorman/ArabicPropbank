@@ -1,0 +1,17 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bar~iy</id>
+<frameset cdef="" edef="overland / wild" id="01" vncls="">
+<role argnum="1" argrole="thing related to alnd /ground" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>يعتبر القط البري حيوانا خطيرا</parse>
+<arg f="" g="the cat" n="1">القط</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+</verb>

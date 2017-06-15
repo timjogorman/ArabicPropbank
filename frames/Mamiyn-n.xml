@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Mamiyn</id>
+<comment/>
+<frameset cdef="" edef="respond ( usually to Allah in prayer)" id="01" vncls="">
+<role argnum="0" argrole="responder ( Allah)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اللهم آمين * دائما</parse>
+<comment/>
+<arg f="" g="God" n="0">اللهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

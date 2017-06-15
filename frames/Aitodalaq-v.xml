@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitodalaq</id>
+<comment/>
+<frameset cdef="" edef="to flow, to be poured" id="01" vncls="">
+<role argnum="0" argrole="agent pouring liquid" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>القهوة اتدلقت * على ملابسي</parse>
+<comment/>
+<arg f="" g="the coffee" n="1">القهوة</arg>
+<arg f="" g="on my clothes" n="3">على ملابسي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="liquid" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+</verb>

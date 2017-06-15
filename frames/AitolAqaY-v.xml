@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitolAqaY</id>
+
+<frameset cdef="" edef="meet, join, to be founf" id="01" vncls="">
+<role argnum="0" argrole="entity meeting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>صورة الحبايب لما يتلاقوا في حفلة تنكرية
+
+Arg 0: -None- -T-* (الحبايب)
+Arg 2:في حفلة تنكرية</parse>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="other party" vncls="" vntheta=""/>
+<role argnum="2" argrole="meeting point" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

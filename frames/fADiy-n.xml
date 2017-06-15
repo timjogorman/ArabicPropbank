@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fADiy</id>
+<comment/>
+<frameset cdef="" edef="free, have nothing to do, empty" id="01" vncls="">
+<role argnum="1" argrole="entity free from anything" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل مش فاضي * يدرس</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="" g="to study" n="2">يدرس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

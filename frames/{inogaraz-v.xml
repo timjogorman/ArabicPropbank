@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inogaraz</id>
+
+<frameset cdef="" edef="to inflitrate, to penetrate deeply into something" id="01" vncls="">
+<role argnum="1" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انغرزت شوكة في قدمه</parse>
+
+<arg f="" g="a thorn" n="1">شوكة</arg>
+<arg f="" g="in his foot" n="2">في قدمه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="into what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

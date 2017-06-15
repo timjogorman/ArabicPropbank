@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SaEad</id>
+<comment/>
+<frameset cdef="" edef="To increase" id="01" vncls="">
+<role argnum="1" argrole="thing increasing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صعد سعر الذهب 5% عن سعره القديم</parse>
+<comment/>
+<arg f="" g="the gold price" n="1">سعر الذهب</arg>
+<arg f="" g="5%" n="2">5%</arg>
+<arg f="" g="from it's old price" n="3">عن سعره القديم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="amount increased by, EXT or MNR" vncls="" vntheta=""/>
+<role argnum="3" argrole="attribute to ARG2" vncls="" vntheta=""/>
+</frameset>
+</verb>

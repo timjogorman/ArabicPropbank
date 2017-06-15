@@ -1,0 +1,112 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sax~an</id>
+
+<frameset cdef="" edef="to heat, to make hot or warm" id="01" vncls="Ham~ara-1">
+<role argnum="0" argrole="entity causer" vncls="Ham~ara-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ماما بتسخن * الاكل على النار</parse>
+
+<arg f="" g="mother" n="0">* ماما</arg>
+<arg f="" g="the food" n="1">الاكل</arg>
+<arg f="" g="on the fire" n="2">على النار</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity heated" vncls="Ham~ara-1" vntheta="patient"/>
+<role argnum="2" argrole="with what" vncls="Ham~ara-1" vntheta="instrument"/>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to warm up (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity warming up" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>كان اللاعب بيسخن * قبل المباراة</parse>
+
+<arg f="" g="the player" n="0">* اللاعب</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+
+
+<comment/>
+</frameset>
+
+
+<frameset cdef="" edef="to excite, to agitate" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(DEM_PRON_MS دَه))
+    (SBAR-NOM-PRD
+      (WHNP-1
+        (-NONE- 0))
+      (S
+        (VP
+          (ADJ.VN عايِز)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (SBAR
+            (-NONE- 0)
+            (S
+              (VP
+                (IV3MS+IV يِسَخَّن)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (DET+NOUN الناس))
+                (PP
+                  (PREP عَلَى)
+                  (NP
+                    (NOUN أَشْخاص)
+                    (ADJ+NSUFF_FEM_SG ثانْيَة)))
+                (PP-PRP</parse>
+
+<arg f="" g="he" n="0">* دَه</arg>
+<arg f="" g="people" n="1">الناس</arg>
+<arg f="" g="against other people" n="2">عَلَى أَشْخاص ثانْيَة</arg>
+<comment/>
+</example>
+
+<comment>ARZ</comment>
+</frame>
+
+<role argnum="1" argrole="entity agitated" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

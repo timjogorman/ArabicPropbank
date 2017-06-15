@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SAHib</id>
+
+    <frameset cdef="" edef="to be friend" id="01" vncls="">
+<role argnum="0" argrole="agentive friend" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رجل يصاحب * الدب القطبي هل تصدق هذه الصداقة الموجودة بين الدب القطبي والانسان ؟</parse>
+
+<arg f="" g="he" n="0">* &gt; رجل</arg>
+<arg f="" g="polar bear" n="1">الدب القطبي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="a new friend" vncls="" vntheta=""/>
+<comment>Based on roleset SAHab.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on SAHab</comment>
+</verb>

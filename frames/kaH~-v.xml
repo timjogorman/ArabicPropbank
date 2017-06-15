@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kaH~</id>
+<comment/>
+<frameset cdef="" edef="to cough" id="01" vncls="">
+<role argnum="0" argrole="entity coughing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا عمالة أكح * طول الليل</parse>
+<comment/>
+<arg f="" g="I" n="0">أنا</arg>
+<arg f="tmp" g="the whole night" n="m">طول الليل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+</verb>

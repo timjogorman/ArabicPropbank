@@ -1,69 +1,144 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>tamak~an</id>
-    <frameset cdef="" edef="to be able to, capable" id="01">
-        <role argnum="1" argrole="entity that is able or capable"/>
-        <role argnum="2" argrole="attribute that ARG0 is capable of doing"/>
-        <frame>
-            <mapping>
-                <V/>
-                <mapitem src="sbj" trg="arg0"/>
-            </mapping>
-            <example>
-                <parse>
-                    (S
-                    (S
-                    (CONJ وَ-)
-                    (VP
-                    (FUT+IV3FS+IV+IVSUFF_MOOD:I -سَتَتَمَكَّنُ)
-                    (NP-SBJ
-                    (NOUN+CASE_DEF_NOM مَواقِفُ)
+<id>tamak~an</id>
+<frameset cdef="" edef="to be able to, capable" id="01" vncls="">
+<role argnum="1" argrole="entity that is able or capable" vncls="" vntheta=""/>
+<role argnum="2" argrole="attribute that ARG0 is capable of doing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<V/>
+<mapitem src="sbj" trg="arg0"/>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+  (S
+    (CONJ وَ-)
+    (VP
+      (FUT+IV3FS+IV+IVSUFF_MOOD:I -سَتَتَمَكَّنُ)
+      (NP-SBJ
+        (NOUN+CASE_DEF_NOM مَواقِفُ)
+        (NP
+          (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN  )))
+      (PP-CLR
+        (PREP مِن)
+        (NP
+          (NOUN+CASE_DEF_GEN اِسْتِيعابِ)
+          (NP
+            (QP
+              (NUM 45)
+              (NOUN+CASE_DEF_GEN أَلْفِ))
+            (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN سَيّارَةٍ))))))
+  (PUNC ,)
+  (CONJ وَ-)
+  (S
+    (VP
+      (FUT+IV3FS+IV+IVSUFF_MOOD:I -سَتَزِيدُ)
+      (NP-SBJ
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM مِساحَةُ)
+        (NP
+          (NOUN+CASE_INDEF_GEN مَناطِقَ)
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المُشاةِ))))
+      (PP
+        (PREP إِلَى)
+        (NP
+          (QP
+            (NUM 120)
+            (NOUN+CASE_DEF_GEN أَلْفِ))
+          (NOUN+CASE_INDEF_GEN مِتْرٍ)
+          (ADJ+CASE_INDEF_GEN مُرَبَّعٍ)))))
+  (PUNC ,)
+  (S
+    (CONJ و)
+    (VP
+      (NP-SBJ
+        (NOUN هي))
+      (NP-ADV
+        (ADJ+CASE_INDEF_ACC حالِيّاً))
+      (NP-PRD
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM سِتَّةُ)
+        (NOUN+CASE_INDEF_GEN آلافٍ))))
+  (PUNC .))</parse>
+<arg f="" g="the parking lots" n="1">مَواقِفُ السَّيّاراتِ</arg>
+<arg f="" g="to hold 45 thousand cars" n="2">من استيعاب ٤٥ ألف سيارة</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to defeat" id="02" vncls="">
+<role argnum="0" argrole="defeater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NP
+          (NOUN_PROP إِيران))
+        (SBAR
+          (WHNP-1
+            (REL_PRON اللِّي))
+          (S
+            (NP-TPC
+              (PRON_3FS هِيَّ))
+            (NP-SBJ
+              (NP
+                (NOUN هَدَف)
+                (NP
+                  (POSS_PRON_3FS ها))
+                (NP
+                  (-NONE- *T*-1)))
+              (ADJP
+                (DET+ADJ الأَساسِيّ)))
+            (SBAR-PRD
+              (PSEUDO_VERB إِنَّ)
+              (S
+                (NP-SBJ
+                  (PRON_3FS ها))
+                (NP-PRD
+                  (NP
+                    (DET+NOUN الدُخُول))
+                  (NP-ADV
+                    (NOUN وِسْط)
                     (NP
-                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN  )))
-                    (PP-CLR
-                    (PREP مِن)
+                      (NP
+                        (DET+NOUN الدِوَل)
+                        (DET+ADJ+NSUFF_FEM_SG العَرَبِيَّة))
+                      (CONJ وِ)
+                      (NP
+                        (PV+PVSUFF_SUBJ:3FS فَرَقِت)
+                        (NP
+                          (PVSUFF_DO:3P هُم)))))
+                  (PP-PRP
+                    (PREP عَلَى)
                     (NP
-                    (NOUN+CASE_DEF_GEN اِسْتِيعابِ)
-                    (NP
-                    (QP
-                    (NUM 45)
-                    (NOUN+CASE_DEF_GEN أَلْفِ))
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN سَيّارَةٍ))))))
-                    (PUNC ,)
-                    (CONJ وَ-)
-                    (S
-                    (VP
-                    (FUT+IV3FS+IV+IVSUFF_MOOD:I -سَتَزِيدُ)
-                    (NP-SBJ
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM مِساحَةُ)
-                    (NP
-                    (NOUN+CASE_INDEF_GEN مَناطِقَ)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN المُشاةِ))))
-                    (PP
-                    (PREP إِلَى)
-                    (NP
-                    (QP
-                    (NUM 120)
-                    (NOUN+CASE_DEF_GEN أَلْفِ))
-                    (NOUN+CASE_INDEF_GEN مِتْرٍ)
-                    (ADJ+CASE_INDEF_GEN مُرَبَّعٍ)))))
-                    (PUNC ,)
-                    (S
-                    (CONJ و)
-                    (VP
-                    (NP-SBJ
-                    (NOUN هي))
-                    (NP-ADV
-                    (ADJ+CASE_INDEF_ACC حالِيّاً))
-                    (NP-PRD
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM سِتَّةُ)
-                    (NOUN+CASE_INDEF_GEN آلافٍ))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="the parking lots" n="1">مَواقِفُ السَّيّاراتِ</arg>
-                <arg f="" g="to hold 45 thousand cars" n="2">من استيعاب ٤٥ ألف سيارة</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (NOUN شَأْن)
+                      (S
+                        (VP
+                          (IV3FS+IV تِتمَكِّن)
+                          (NP-SBJ
+                            (PRON_3FS هِيَّ))
+                          (PP
+                            (PREP مِن)
+                            (NP
+                              (PRON_3P هُم)))
+                          (PP-PRP
+                            (PREP لِ)
+                            (NP
+                              (NOUN+NSUFF_FEM_SG مُواجْهَة)
+                              (NP
+                                (NOUN_PROP أَمْرِيكا)))))))))))))))))</parse>
+<comment/>
+<arg f="" g="it" n="0">هِي</arg>
+<arg f="" g="from them" n="1">مِن هُم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="defeated (Usually comes after من  )" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
 </verb>

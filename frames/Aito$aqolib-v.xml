@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aito$aqolib</id>
+<comment/>
+<frameset cdef="" edef="be turned upside down, be upset" id="01" vncls="">
+<role argnum="1" argrole="entity turning upsidedown" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل اتشقلب * على الارض</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الراجل</arg>
+<arg f="loc" g="on the ground" n="m">على الارض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

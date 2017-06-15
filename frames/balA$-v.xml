@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>balA$</id>
+<comment/>
+<frameset cdef="" edef="Do not (multi word expression)" id="01" vncls="">
+<role argnum="1" argrole="entity not doing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بلاش يااحمد تركب العربية دي</parse>
+<comment/>
+<arg f="" g="Ahmad" n="1">يااحمد</arg>
+<arg f="" g="to ride this car" n="2">تركب العربية دي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="things not done" vncls="" vntheta=""/>
+</frameset>
+</verb>

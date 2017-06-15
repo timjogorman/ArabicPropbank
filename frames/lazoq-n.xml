@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lazoq</id>
+<comment/>
+<frameset cdef="" edef="pasting, adhering" id="01" vncls="">
+<role argnum="0" argrole="the entity pasting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قطع الصورة من الكتاب ولزق * ها على الباب كانت حلوة</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="the picture" n="1">ها</arg>
+<arg f="" g="on the door" n="2">على الباب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing pasted" vncls="" vntheta=""/>
+<role argnum="2" argrole="on what" vncls="" vntheta=""/>
+</frameset>
+</verb>

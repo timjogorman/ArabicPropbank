@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$ay~ik</id>
+<comment/>
+<frameset cdef="" edef="consult,refer to,examine, to check on" id="01" vncls="">
+<role argnum="0" argrole="entity checking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حد عاوز يشيك * على البايبي اذا كان نايم</parse>
+<comment/>
+<arg f="" g="anybody" n="0">* حد</arg>
+<arg f="" g="the baby" n="1">على البايبي</arg>
+<arg f="" g="if he is sleeping" n="2">اذا كان نايم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity checked" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

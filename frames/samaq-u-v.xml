@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>samaq-u</id>
+<comment/>
+<frameset cdef="" edef="to be or become high" id="01" vncls="">
+<role argnum="1" argrole="entity becoming high" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سمق البناء عاليا</parse>
+<comment/>
+<arg f="" g="the building" n="1">البناء</arg>
+<arg f="" g="high" n="2">عاليا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

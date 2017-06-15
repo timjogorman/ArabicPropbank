@@ -1,0 +1,438 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qAm</id>
+
+    <frameset cdef="" edef="to carry out or to undertake" id="01" vncls="">
+<role argnum="0" argrole="implementer" vncls="" vntheta=""/>
+<role argnum="1" argrole="implemented" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+  (NP-ADV
+    (PUNC &quot;)
+    (NOUN+CASE_DEF_ACC رغم)
+    (NP
+      (NP
+        (NOUN+CASE_DEF_GEN مرور)
+        (NP
+          (NP
+            (NOUN+CASE_INDEF_GEN عام))
+          (CONJ و)
+          (NP
+            (NOUN_QUANT+CASE_DEF_GEN نصف)
+            (NP
+              (NOUN+CASE_INDEF_GEN عام)))))
+      (PP
+        (PREP على)
+        (NP
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN عملية)
+            (NP
+              (NOUN+CASE_DEF_GEN ترسيم)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الحدود)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الدولية)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الجنوبية))))
+          (SBAR
+            (WHNP-1
+              (REL_PRON التي))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS قامت)
+                (PP-CLR
+                  (PREP ب)
+                  (NP
+                    (NP
+                      (PRON_3FS ها))
+                    (NP
+                      (-NONE- *T*-1))))
+                (NP-SBJ
+                  (DET+NOUN+CASE_DEF_NOM الامم)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM المتحدة))
+                (NP-TMP
+                  (NOUN+CASE_DEF_ACC اثر)
+                  (NP
+                    (NP
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN الاندحار)
+                        (DET+ADJ+CASE_DEF_GEN الاسرائيلي))
+                      (PP
+                        (PREP عن)
+                        (NP
+                          (DET+NOUN+CASE_DEF_GEN الجنوب)
+                          (DET+ADJ+CASE_DEF_GEN اللبناني))))</parse>
+<arg f="بِ-" g="UN" n="0">الامم المتحدة</arg>
+<arg f="" g="It" n="1">بها</arg>
+<arg f="tmp" g="after the Israeli withdrawal from southern Lebanon" n="m">اثر الاندحار الاسرائيلي عن الجنوب اللبناني</arg>
+<V/>
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+<comment>تحمل /تولى
+Based on roleset qAm-u.01</comment>
+</frameset>
+<frameset cdef="" edef="to start or to happen" id="02" vncls="">
+<role argnum="1" argrole="event" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PRT
+      (VERB_PART قد))
+    (IV3MS+IV+IVSUFF_MOOD:I يكون)
+    (PP-PRD
+      (PREP من)
+      (NP
+        (DET+NOUN+CASE_DEF_GEN الصعب)))
+    (SBAR-SBJ
+      (SUB_CONJ ان)
+      (S
+        (VP
+          (IV3FS+IV+IVSUFF_MOOD:J تظل)
+          (NP-SBJ
+            (NP
+              (DET+NOUN+CASE_DEF_NOM الحدود)
+              (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM العربية))
+            (NP-ADV
+              (NOUN+CASE_DEF_ACC مع)
+              (NP
+                (NOUN_PROP+CASE_INDEF_GEN اسرائيل))))
+          (ADJP-PRD
+            (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC هادئة))
+          (SBAR-ADV
+            (SUB_CONJ اذا)
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3FS قامت)
+                (NP-SBJ
+                  (NP
+                    (NOUN+CASE_INDEF_NOM حرب))
+                  (NP-ADV
+                    (NOUN+CASE_DEF_ACC بين)
+                    (NP
+                      (DET+NOUN+NSUFF_MASC_PL_GEN الاسرائيليين)
+                      (CONJ و)
+                      (DET+NOUN+NSUFF_MASC_PL_GEN الفلسطينيين)))))))))))
+  (PUNC .))</parse>
+<arg f="" g="a war between the Israelis and the Palestinians" n="1">اذا قامت حرب بين الاسرائيليين و الفلسطينيين .</arg>
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+<comment>بدأ
+Based on roleset qAm-u.02</comment>
+</frameset>
+<frameset cdef="" edef="stand" id="04" vncls="">
+<role argnum="1" argrole="person standing" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (NP-TPC-1
+    (NOUN_QUANT+CASE_DEF_NOM كل)
+    (NP
+      (NOUN+CASE_INDEF_GEN واحد)))
+  (VP
+    (IV3MS+IV+IVSUFF_MOOD:I يتأبط)
+    (NP-SBJ
+      (-NONE- *T*-1))
+    (NP-OBJ
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC رسالة))
+      (SBAR
+        (WHNP-2
+          (-NONE- 0))
+        (S
+          (VP
+            (IV3FS+IV+IVSUFF_MOOD:I تقول)
+            (NP-SBJ
+              (-NONE- *T*-2))
+            (PP
+              (PREP ل)
+              (NP
+                (NOUN+CASE_DEF_GEN أخت)
+                (NP
+                  (POSS_PRON_3FS ها))))
+            (S
+              (VP
+                (CV+CVSUFF_SUBJ:2FS قومي)
+                (NP-SBJ
+                  (-NONE- *))
+                (PP-PRP
+                  (PREP ل)
+                  (SBAR
+                    (-NONE- 0)
+                    (S
+                      (VP
+                        (IV1S+IV+IVSUFF_MOOD:S أقعد)
+                        (NP-SBJ
+                          (-NONE- *))
+                        (NP-OBJ
+                          (NOUN+CASE_DEF_ACC مطرح)
+                          (NP
+                            (POSS_PRON_2FS ك))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="It" n="1">-NONE- *</arg>
+<arg f="prp" g="so that I may sit in your place" n="m">لأقعد مطرحك</arg>
+
+
+
+
+
+
+<comment/>
+</example>
+<example>
+<parse>(S
+        (S
+          (NP-TPC-1
+            (DET+NOUN+CASE_DEF_ACC البلد))
+          (VP
+            (PV+PVSUFF_SUBJ:3MS كان)
+            (VP
+              (IV3MS+IV+IVSUFF_MOOD:I يقوم)
+              (NP-SBJ
+                (-NONE- *T*-1)))))
+        (CONJ و)
+        (S
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يقعد)
+            (NP-SBJ
+              (-NONE- *))
+            (PP
+              (PREP ب)
+              (NP
+                (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN التظاهرات)))
+            (NP-TMP
+              (NOUN+CASE_DEF_ACC قبل)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الحرب)))
+            (PP-PRP
+              (PREP من)
+              (NP
+                (NOUN+CASE_DEF_GEN اجل)
+                (NP
+                  (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN لقمة)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN العيش)))))))</parse>
+<arg f="" g="It" n="1">-NONE- *T*-1&lt; البلد</arg>
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+<comment>يقف
+Based on roleset qAm-u.04</comment>
+</frameset>
+<frameset cdef="" edef="to be based or rest on - phrasal construction with prep. EalaY" id="05" vncls="">
+<role argnum="1" argrole="whole" vncls="" vntheta=""/>
+<role argnum="2" argrole="parts" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (NP-TPC-3
+      (DET+NOUN+CASE_DEF_NOM البناء)
+      (DET+ADJ+CASE_DEF_NOM الصحيح))
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يقوم)
+      (NP-SBJ
+        (-NONE- *T*-3))
+      (PP-CLR
+        (PREP على)
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجماعة)))))
+  (PUNC .))</parse>
+<arg f="" g="It" n="1">-NONE- *T*-3&lt;البناء الصحيح</arg>
+<arg f="" g="on the group" n="2">على الجماعة</arg>
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+<comment/>
+</frame>
+
+
+
+
+
+
+
+<comment>تنبني على / تتأسس على
+Based on roleset qAm-u.05</comment>
+</frameset>
+
+
+
+
+<frameset cdef="" edef="to wake up" id="08" vncls="">
+<role argnum="0" argrole="entity waking up" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أقوم *  بالليل من النوم كل نص ساعة</parse>
+
+<arg f="tmp" g="at night" n="m">بالليل</arg>
+<arg f="" g="NONE" n="0">*? NNE</arg>
+<arg f="" g="from sleeping" n="1">من النوم</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+
+
+
+<comment>Based on roleset qAm-u.08</comment>
+</frameset>
+
+
+<frameset cdef="" edef="to get mad at (multi word expression)" id="09" vncls="">
+<role argnum="0" argrole="entity getting mad" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>قامت الدنيا عليه</parse>
+
+<arg f="" g="the world (everyone)" n="0">الدنيا</arg>
+<arg f="" g="on him" n="1">عليه</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="at whom" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="Auxiliary of serial verb construction - DO NOT TAG" id="010" vncls="">
+
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>لسه بيرفع المطورة عليه فقمت * ماسك *-1 إيده ولقيت الحيتان صحابي جايين
+
+
+
+
+
+DO NOT TAG</parse>
+
+
+
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+
+
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on qAm-u</comment>
+</verb>

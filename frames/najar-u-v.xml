@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>najar-u</id>
+<comment/>
+<frameset cdef="" edef="to make or make flat (carpenter)" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نجر الرجل الخشب بالمسحاج</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the wood" n="1">الخشب</arg>
+<arg f="" g="with the block plane" n="2">بالمسحاج</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="material" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="into what" vncls="" vntheta=""/>
+</frameset>
+</verb>

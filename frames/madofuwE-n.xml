@@ -1,0 +1,73 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>madofuwE</id>
+
+<frameset cdef="" edef="paid" id="01" vncls="">
+<role argnum="0" argrole="the payer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>جهة مجهولة تضع اعلاناً مدفوع *  الثمن على موقع الفيسبوك</parse>
+
+<arg f="" g="the price" n="1">الثمن</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="money" vncls="" vntheta=""/>
+<role argnum="2" argrole="person being paid, destination of attention" vncls="" vntheta=""/>
+<role argnum="3" argrole="commodity, paid for what" vncls="" vntheta=""/>
+<comment>تسديد</comment>
+</frameset>
+<frameset cdef="" edef="pushed , thrust forward" id="02" vncls="">
+<role argnum="0" argrole="the pusher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>قفي وارفعي يديك إلى الأعلى , واجعلي نظرك موجهاً نحو الأمام , وصدرك مدفوعاً * نحو الأمام</parse>
+
+<arg f="" g="it" n="1">-NONE- * صدرك</arg>
+<arg f="" g="forward" n="2">نحو الأمام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity pushed" vncls="" vntheta=""/>
+<role argnum="2" argrole="direction" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="driven, prompted" id="03" vncls="">
+<role argnum="0" argrole="causer, prompter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>معلم مدفوعا *  بحب المهنة يحول صفه الى مركز جذب للتلاميذ</parse>
+
+<arg f="" g="he" n="1">-NONE-* معلم</arg>
+<arg f="" g="the love of the profession" n="0">بحب المهنة</arg>
+<arg f="" g="turn his class to the center of attraction for students" n="2">يحول صفه الى مركز جذب للتلاميذ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="impelled agent" vncls="" vntheta=""/>
+<role argnum="2" argrole="impelled action" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

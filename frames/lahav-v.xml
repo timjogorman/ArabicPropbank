@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>lahav</id>
+<comment>EGYPTIAN ARABIC based on lahav-a</comment>
+    <frameset cdef="" edef="to desire" id="02">
+<role argnum="0" argrole="desirer" />
+<role argnum="1" argrole="thing desired - frequently marked by وراء" />
+<frame>
+<example>
+<parse>
+(S
+                                      (VP
+                                        (PRT
+                                          (NEG_PART لم))
+                                        (IV3MS+IV+IVSUFF_MOOD:J يلهث)
+                                        (NP-SBJ
+                                          (-NONE- *))
+                                        (NP-ADV
+                                          (NOUN+CASE_DEF_ACC وراء)
+                                          (NP
+                                            (DET+NOUN+CASE_DEF_GEN المال)))))))))))
+</parse>
+<arg f="" g="he" n="0">*</arg>
+<arg f="" g="after the money" n="1">وراء المال</arg>
+</example>
+</frame>
+<comment>Based on roleset lahav-a.02</comment></frameset>
+</verb>

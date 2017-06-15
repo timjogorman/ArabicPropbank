@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoraEab</id>
+<frameset cdef="" edef="To fear" id="01" vncls="">
+<role argnum="0" argrole="entity afraid" vncls="" vntheta="" />
+<role argnum="1" argrole="afraid of what?" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>البلدان الضعيفة التي لا تراث **-3 لها **-2 ولا قيم حضارية , تخاف **-1 ان تبتلعها العولمة , وليس هذا وضع لبنان &quot;</parse>
+<arg f="" g="it" n="0">**-1 &lt; البلدان الضعيفة التي لا تراث</arg>
+<arg f="" g="Be swallowed up by globalization" n="1">ان تبتلعها العولمة</arg>
+
+<comment />
+</example>
+
+<comment />
+</frame>
+
+
+<comment>خشي
+Based on roleset xAf-a.01</comment>
+</frameset>
+
+<frameset cdef="" edef="to worry" id="02" vncls="">
+<role argnum="0" argrole="entity worried" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>انا خايف * على ولادي من العربيات</parse>
+
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="for my kids" n="1">على ولادي</arg>
+<arg f="" g="from the cars" n="2">من العربيات</arg>
+<comment />
+</example>
+
+<comment>ARZ</comment>
+</frame>
+
+<role argnum="1" argrole="about what" vncls="" vntheta="" />
+<role argnum="2" argrole="from whom" vncls="" vntheta="" />
+<comment>ARZ
+Based on roleset xAf-a.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on xAf-a</comment>
+</verb>

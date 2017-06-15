@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>EaruD-u</id>
+<comment/>
+<frameset cdef="" edef="to get wide or fat" id="01" vncls="">
+<role argnum="0" argrole="entity or thing getting wide" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عرض الثوب عليه</parse>
+<comment/>
+<arg f="" g="الثوب" n="0">the dress</arg>
+<arg f="gol" g="عليه" n="m">on him</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

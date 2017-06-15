@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hAyariyonog</id>
+
+
+
+
+
+
+<frameset cdef="" edef="to hire" id="03" vncls="">
+<role argnum="0" argrole="entity hiring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ما حدش حيشغل * واحد مجنون زيك في المكتب</parse>
+
+<arg f="" g="nobody" n="0">* ما حدش</arg>
+<arg f="" g="a crazy person like you" n="1">واحد مجنون زيك</arg>
+<arg f="" g="in the office" n="2">في المكتب</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="hired" vncls="" vntheta=""/>
+<role argnum="2" argrole="to do what, position" vncls="" vntheta=""/>
+
+
+
+<comment>ARZ English Borrowed (hiring)</comment>
+</frameset>
+
+
+
+
+<comment/>
+</verb>

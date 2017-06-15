@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hamad-u</id>
+
+<frameset cdef="" edef="to abate or subside, to die away, to cool off, to sleep" id="01" vncls="">
+<role argnum="1" argrole="entity sleeping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>همد الولد من التعب</parse>
+
+<arg f="" g="the kid" n="1">الولد</arg>
+<arg f="cau" g="from the fatigue" n="m"/>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

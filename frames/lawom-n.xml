@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lawom</id>
+<comment>Based on verb lAm-u</comment>
+<frameset cdef="" edef="the blame" id="01" vncls="">
+<role argnum="0" argrole="Blamer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="Blamed" vncls="" vntheta=""/>
+<role argnum="2" argrole="cause/what for" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaEaz~</id>
+<comment/>
+<frameset cdef="" edef="to cherish, to hold dear, to strengthen" id="01">
+<role argnum="0" argrole="cherisher"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أعز الرجل صاحبه من أول لقاء</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<arg f="tmp" g="from the first meeting" n="m">من أول لقاء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="cherished"/>
+</frameset>
+</verb>

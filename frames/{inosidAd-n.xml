@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosidAd</id>
+<comment/>
+<frameset cdef="" edef="blockage or obstruction" id="01" vncls="">
+<role argnum="0" argrole="cause of closing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أدى انسداد الشارع بالحجارة الى عرقلة السير</parse>
+<comment/>
+<arg f="" g="the street" n="1">الشارع</arg>
+<arg f="" g="with the rocks" n="2">بالحجارة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing closing" vncls="" vntheta=""/>
+<role argnum="2" argrole="closed with what?" vncls="" vntheta=""/>
+</frameset>
+</verb>

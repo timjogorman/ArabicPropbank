@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taqAyaD</id>
+<comment/>
+<frameset cdef="" edef="to exchange or trade" id="01" vncls="">
+<role argnum="0" argrole="entity exchanging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تقايض الرجل البضاعة مع زميله</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the merca" n="1">البضاعة</arg>
+<arg f="" g="with his friend" n="3">مع زميله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things exchanged" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="source" vncls="" vntheta=""/>
+</frameset>
+</verb>

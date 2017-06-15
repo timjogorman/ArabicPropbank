@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kawaY-i</id>
+
+<frameset cdef="" edef="to iron or press, to burn, to cauterize" id="01" vncls="">
+<role argnum="0" argrole="entity ironing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كوى الرجل ملابسه بالمكواه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his clothes" n="1">ملابسه</arg>
+<arg f="" g="with the iron" n="2">بالمكواه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things ironed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to burn (multi word expressin)" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هذه الفتاة كوت * قلبي بعينيها</parse>
+
+<arg f="" g="this girl" n="0">* هذه الفتاة</arg>
+<arg f="" g="my heart" n="1">قلبي</arg>
+<arg f="" g="with her eyes" n="2">بعينيها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things burned" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taHArab</id>
+<comment/>
+<frameset cdef="" edef="to fight (one another), to combat or battle" id="01" vncls="">
+<role argnum="0" argrole="the fighter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تحارب القوم بعضهم بعضا</parse>
+<comment/>
+<arg f="" g="the people" n="0">القوم</arg>
+<arg f="" g="each other" n="1">بعضهم بعضا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the adversary  (if separated from ARG0)" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,63 +1,83 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>TAwal</id>
-    <frameset cdef="" edef="to reach/ attain / get to" id="01">
-        <role argnum="0" argrole="thing striving"/>
-        <role argnum="1" argrole="goal, end state"/>
-        <frame>
-            <mapping>
-                <V/>
-                <mapitem src="sbj" trg="arg0"/>
-            </mapping>
-            <example>
-                <parse>
-                    (S
-                    (NP-SBJ
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC متابعة)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN القضية)))
-                    (ADJP-PRD
-                    (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM مهمة))
-                    (NAC
-                    (CONJ و)
-                    (PP
-                    (NP-ADV
-                    (NOUN+CASE_INDEF_ACC خصوصا))
-                    (PREP ب)
-                    (NP
-                    (NP
+<id>TAwal</id>
+<frameset cdef="" edef="to reach/ attain / get to" id="01" vncls="">
+<role argnum="0" argrole="thing striving" vncls="" vntheta=""/>
+<role argnum="1" argrole="goal, end state" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+            (NP-SBJ
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC متابعة)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN القضية)))
+            (ADJP-PRD
+              (ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM مهمة))
+            (NAC
+              (CONJ و)
+              (PP
+                (NP-ADV
+                  (NOUN+CASE_INDEF_ACC خصوصا))
+                (PREP ب)
+                (NP
+                  (NP
                     (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN النسبة))
-                    (PP
+                  (PP
                     (PREP الى)
                     (NP
-                    (NP
-                    (NOUN+CASE_INDEF_GEN اشخاص))
-                    (NP-ADV
-                    (NOUN+CASE_DEF_ACC مثل)
-                    (NP
-                    (NP
-                    (NOUN_PROP اموسيرون))
-                    (SBAR
-                    (WHNP-2
-                    (REL_PRON الذي))
-                    (S
-                    (VP
-                    (PRT
-                    (NEG_PART لا))
-                    (IV3FS+IV+IVSUFF_MOOD:I تطاول)
-                    (NP-OBJ
-                    (NP
-                    (IVSUFF_DO:3MS ه))
-                    (NP
-                    (-NONE- *T*-2)))
-                    (NP-SBJ
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الحصانة)))))))))))))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="the immunity" n="0">الحصانة</arg>
-                <arg f="" g="He" n="1">-NONE- *T*-2&amp;lt;الذي</arg>
-                <V/>
-            </example>
-        </frame>
-    </frameset>
+                      (NP
+                        (NOUN+CASE_INDEF_GEN اشخاص))
+                      (NP-ADV
+                        (NOUN+CASE_DEF_ACC مثل)
+                        (NP
+                          (NP
+                            (NOUN_PROP اموسيرون))
+                          (SBAR
+                            (WHNP-2
+                              (REL_PRON الذي))
+                            (S
+                              (VP
+                                (PRT
+                                  (NEG_PART لا))
+                                (IV3FS+IV+IVSUFF_MOOD:I تطاول)
+                                (NP-OBJ
+                                  (NP
+                                    (IVSUFF_DO:3MS ه))
+                                  (NP
+                                    (-NONE- *T*-2)))
+                                (NP-SBJ
+                                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM الحصانة)))))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="the immunity" n="0">الحصانة</arg>
+<arg f="" g="He" n="1">-NONE- *T*-2&lt;الذي</arg>
+
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to delay or procrastinate (ماطَلَ)" id="02" vncls="">
+<role argnum="0" argrole="agent, causer of the delay" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>طَاوَلَ * في الدَّيْنِ</parse>
+<comment/>
+<arg f="" g="he" n="0">*</arg>
+<arg f="" g="in debt" n="1">في الدَّيْنِ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="delayed event" vncls="" vntheta=""/>
+</frameset>
 </verb>

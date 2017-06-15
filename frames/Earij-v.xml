@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Earij</id>
+<comment/>
+<frameset cdef="" edef="to limp or hobble, to go lame" id="01" vncls="">
+<role argnum="1" argrole="entity limping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عرج الرجل في مشيه</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="in his walking" n="2">في مشيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to climb" id="02" vncls="">
+<role argnum="0" argrole="entity climbing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عرج  * على السلم</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="on the stairs" n="1">على السلم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+<role argnum="2" argrole="to where" vncls="" vntheta=""/>
+</frameset>
+</verb>

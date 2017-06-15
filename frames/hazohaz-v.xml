@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hazohaz</id>
+
+<frameset cdef="" edef="to shake" id="01" vncls="">
+<role argnum="0" argrole="entity shaking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هزهزت البنت الكرسي</parse>
+
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="the chair" n="1">الكرسي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity shaked" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dAwaY</id>
+
+<frameset cdef="" edef="to treat, to remedy, to doctor" id="01" vncls="jar~ada-1">
+<role argnum="0" argrole="entity treating" vncls="jar~ada-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>داوى الطبيب جراحات المريض</parse>
+
+<arg f="" g="the doctor" n="0">الطبيب</arg>
+<arg f="" g="wounds" n="2">جراحات</arg>
+<arg f="" g="the patient" n="1">المريض</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity treated" vncls="jar~ada-1" vntheta="source"/>
+<role argnum="2" argrole="for what" vncls="jar~ada-1" vntheta="theme"/>
+<comment>عالج‏</comment>
+</frameset>
+<comment/>
+</verb>

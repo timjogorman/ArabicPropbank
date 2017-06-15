@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bay~aD</id>
+<comment/>
+<frameset cdef="" edef="be bleached, to paint white" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم حيبيضوا * الشقة</parse>
+<comment/>
+<arg f="" g="they" n="0">* هم</arg>
+<arg f="" g="the apartment" n="1">الشقة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things made white" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

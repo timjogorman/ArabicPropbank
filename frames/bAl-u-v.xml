@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bAl-u</id>
+<comment/>
+<frameset cdef="" edef="to urinate" id="01">
+<role argnum="0" argrole="entity urinating"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بال الطفل في فراشه</parse>
+<comment/>
+<arg f="" g="the baby" n="0">الطفل</arg>
+<arg f="loc" g="in his bed" n="m">في فراشه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

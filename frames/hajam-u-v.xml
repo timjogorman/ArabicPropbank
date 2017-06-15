@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>hajam-u</id>
+<comment/>
+<frameset cdef="" edef="to attack, to assail or assult" id="01">
+<role argnum="0" argrole="attacker"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هجم العدو على المدينة من كل ناحية</parse>
+<comment/>
+<arg f="" g="the enemy" n="0">العدو</arg>
+<arg f="" g="on the city" n="1">على المدينة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attacked"/>
+<role argnum="2" argrole="instrument"/>
+</frameset>
+<frameset cdef="" edef="to happen quick (idiomatic)" id="02">
+<role argnum="0" argrole="things happening"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هجم البرد هذه السنة علينا مبكرا</parse>
+<comment/>
+<arg f="" g="the cold" n="0">البرد</arg>
+<arg f="tmp" g="this year" n="m">هذه السنة</arg>
+<arg f="" g="on us" n="1">علينا</arg>
+</example>
+<comment/>
+</frame>
+<comment>حَلَّ ، أَسْرَعَ دُخُولُهُ فَجْأَةً</comment>
+<role argnum="1" argrole="beneficiary"/>
+</frameset>
+</verb>

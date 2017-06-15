@@ -1,0 +1,111 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AifotaraD</id>
+<comment>EGYPTIAN ARABIC based on {ifotaraD</comment>
+    <frameset cdef="" edef="to presume" id="01">
+<role argnum="0" argrole="presumer, agent" />
+<role argnum="1" argrole="thing presumed" />
+<frame>
+<mapping>
+<V />
+<mapitem src="sbj" trg="arg0" />
+</mapping>
+<example>
+<parse>
+(S
+  (CONJ و)
+  (NP-TPC-1
+    (DEM_PRON_MS هذا)
+  (VP
+    (IV3MS+IV+IVSUFF_MOOD:I يفترض)
+    (NP-SBJ
+      (-NONE- *T*-1)
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (NP-TPC-2
+          (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC لغةً)
+          (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC مكتملةً)
+        (VP
+          (PV+PVSUFF_SUBJ:3FS كانت)
+          (VP
+            (IV3FS+IV+IVSUFF_MOOD:I تسبق)
+            (NP-SBJ
+              (-NONE- *T*-2)
+            (NP-OBJ
+              (NP
+                (NOUN+NSUFF_MASC_DU_ACC تدوينين)
+              (PUNC :)
+              (NP
+                (NP
+                  (NOUN+CASE_DEF_NOM تدوين)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN الشعر)
+                (PUNC ,)
+                (CONJ و)
+                (NP
+                  (NOUN+CASE_DEF_NOM تدوين)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN النص)
+                    (DET+ADJ+CASE_DEF_GEN الديني)
+                    (DET+ADJ+CASE_DEF_GEN القرآني)
+  (PUNC .)
+</parse>
+<arg f="" g="" n="0">-NONE-*T*-1</arg>
+<arg f="" g="that a complete language predated two scripts: poetry and the Quran" n="1">ن لغةً مكتملةً كانت تسبق تدوينين : تدوين الشعر , و تدوين النص الديني القرآني</arg>
+</example>
+<example>
+<parse>
+passive
+
+(S
+  (CONJ و)
+  (VP
+    (IV3MS+IV_PASS+IVSUFF_MOOD:I يفترض)
+    (SBAR-SBJ-1
+      (SUB_CONJ ان)
+      (S
+        (VP
+          (IV3MS+IV_PASS+IVSUFF_MOOD:S يعقد)
+          (NP-SBJ-2
+            (NOUN+CASE_INDEF_NOM اجتماع)
+          (NP-OBJ
+            (-NONE- *-2)
+          (NP-ADV
+            (NOUN+CASE_DEF_ACC بين)
+            (NP
+              (NP
+                (NOUN+CASE_DEF_GEN مجلس)
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN الحلف)
+              (CONJ و)
+              (NP
+                (NP
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN اللجنة)
+                  (ADJP
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN السياسية)
+                    (CONJ و)
+                    (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الامنية)
+                (PP
+                  (PREP ل)
+                  (NP
+                    (DET+NOUN+CASE_DEF_GEN لاتحاد)
+          (NP-TMP
+            (DET+NOUN+CASE_DEF_ACC الاسبوع)
+            (DET+ADJ+CASE_DEF_ACC المقبل)
+          (PP-PRP
+            (PREP ل)
+            (NP
+              (NOUN+CASE_DEF_GEN توقيع)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الاعلان)
+                (DET+ADJ+CASE_DEF_GEN المشترك)
+    (NP-OBJ
+      (-NONE- *-1)
+  (PUNC .)
+</parse>
+<arg f="" g="that a meeting will be held between the two groups next week to sign the shared announcement" n="1">ان يعقد اجتماع *-2 بين مجلس الحلف و اللجنة السياسية و الامنية للاتحاد الاسبوع المقبل لتوقيع الاعلان المشترك</arg>
+</example>
+</frame>
+<comment>Based on roleset {ifotaraD.01</comment></frameset>
+</verb>

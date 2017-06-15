@@ -1,24 +1,29 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>qAsam</id>
-    <comment/>
-    <frameset cdef="" edef="to share (equally with)" id="01">
-        <role argnum="0" argrole="agent of cutting"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>الاتحاد الأوروبي لكرة القدم يقاسم * مكاتب المراهنات ارباحها</parse>
-                <comment/>
-                <arg f="" g="it" n="0">* &gt; الاتحاد الأوروبي</arg>
-                <arg f="" g="betting offices" n="1">مكاتب المراهنات</arg>
-                <arg f="" g="their profits" n="2">ارباحها</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="entity sharing with"/>
-        <role argnum="2" argrole="thing shared"/>
-    </frameset>
+<id>qAsam</id>
+
+<frameset cdef="" edef="to share (equally with)" id="01" vncls="qaAsama-1">
+<role argnum="0" argrole="agent of cutting" vncls="qaAsama-1" vntheta="actor1"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الاتحاد الأوروبي لكرة القدم يقاسم * مكاتب المراهنات ارباحها</parse>
+
+<arg f="" g="it" n="0">* &gt; الاتحاد الأوروبي</arg>
+<arg f="" g="betting offices" n="1">مكاتب المراهنات</arg>
+<arg f="" g="their profits" n="2">ارباحها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity sharing with" vncls="qaAsama-1" vntheta="actor2"/>
+<role argnum="2" argrole="thing shared" vncls="qaAsama-1" vntheta="theme"/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

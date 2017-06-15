@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mifak~ir</id>
+<comment/>
+<frameset cdef="" edef="thinking, imagining" id="01" vncls="">
+<role argnum="0" argrole="entity thinking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هم مفكرين * الناس اغبيا</parse>
+<comment/>
+<arg f="" g="they" n="0">* هم</arg>
+<arg f="" g="that people are stupid" n="1">الناس اغبيا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things thinked" vncls="" vntheta=""/>
+</frameset>
+</verb>

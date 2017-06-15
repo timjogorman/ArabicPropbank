@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daros</id>
+
+<frameset cdef="" edef="lesson" id="01" vncls="">
+<role argnum="0" argrole="teacher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse/>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="topic/lecture" vncls="" vntheta=""/>
+<role argnum="2" argrole="Attribute of lecture" vncls="" vntheta=""/>
+<comment/>
+<role argnum="m" argrole="student" vncls="" vntheta=""/>
+</frameset>
+<comment>based on verb daras-u.02</comment>
+</verb>

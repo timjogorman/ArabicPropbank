@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nam~il</id>
+<comment/>
+<frameset cdef="" edef="cause to tingle or numb" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الألم بينمل * صوابعي</parse>
+<comment/>
+<arg f="" g="the pain" n="0">* الألم</arg>
+<arg f="" g="my fingers" n="1">صوابعي</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things becoming numb" vncls="" vntheta=""/>
+</frameset>
+</verb>

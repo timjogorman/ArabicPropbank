@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xaXaO</id>
+<comment/>
+<frameset cdef="" edef="to submit or yield to" id="01" vncls="">
+<role argnum="0" argrole="entity submiting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>خذأ الجيش لأمر الملك</parse>
+<comment/>
+<arg f="" g="the Army" n="0">الجيش</arg>
+<arg f="" g="for the king's command" n="1">لأمر الملك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

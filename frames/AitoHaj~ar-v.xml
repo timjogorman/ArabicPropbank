@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoHaj~ar</id>
+<comment>EGYPTIAN ARABIC Framefile based on taHaj~ar</comment>
+<frameset cdef="" edef="to petrify, to turn into stone" id="01">
+<role argnum="1" argrole="things turning to stone" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>تحجرت قلوب الناس لكثرة الخطيئة</parse>
+<comment />
+<arg f="" g="people hearts" n="1">قلوب الناس</arg>
+<arg f="" g="for the increase of sin" n="2">لكثرة الخطيئة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset taHaj~ar.01</comment>
+<role argnum="2" argrole="why" />
+</frameset>
+</verb>

@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>SaraO</id>
+<comment/>
+<frameset cdef="" edef="to creak or squeak" id="01" vncls="">
+<role argnum="1" argrole="entity squeaking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>صرأ الباب</parse>
+<comment/>
+<arg f="" g="the door" n="1">الباب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gafaq-i</id>
+<comment/>
+<frameset cdef="" edef="to attack or assult, to hit" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هجم الجيش على العدو بالدبابات</parse>
+<comment/>
+<arg f="" g="the Army" n="0">الجيش</arg>
+<arg f="" g="on the enemy" n="1">على العدو</arg>
+<arg f="" g="with tanks" n="2">بالدبابات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to return back from" id="02" vncls="">
+<role argnum="0" argrole="entity returning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غفق المسافر من رحلته فجأة</parse>
+<comment/>
+<arg f="" g="the traveler" n="0">المسافر</arg>
+<arg f="" g="from his trip" n="1">من رحلته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from where" vncls="" vntheta=""/>
+<role argnum="2" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to feel sleepy, to drowse away" id="03" vncls="">
+<role argnum="1" argrole="entity sleepy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>غفق الطالب في الصف</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="loc" g="in the class" n="m">في الصف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

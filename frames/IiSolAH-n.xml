@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>IiSolAH</id>
+<comment/>
+<frameset cdef="" edef="to fix or mend" id="01" vncls="">
+<role argnum="0" argrole="fixer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم إصلاح الشارع من قبل اهالي المدينة</parse>
+<comment/>
+<arg f="" g="the street" n="1">الشارع</arg>
+<arg f="" g="by the people of the city" n="0">من قبل اهالي المدينة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing fixed" vncls="" vntheta=""/>
+</frameset>
+</verb>

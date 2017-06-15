@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaDAl~</id>
+<comment/>
+<frameset cdef="" edef="to seek light from, to be enlightened or guided by" id="01">
+<role argnum="1" argrole="entity enlighted"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استضاء الطالب بالشمعة عندما انقطعت الكهرباء</parse>
+<comment/>
+<arg f="" g="the student" n="1">الطالب</arg>
+<arg f="" g="with the candle" n="2">بالشمعة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what"/>
+</frameset>
+</verb>

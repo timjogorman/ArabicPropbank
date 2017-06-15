@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>vaworap</id>
+<comment/>
+<frameset cdef="" edef="revolution" id="01" vncls="">
+<role argnum="0" argrole="entity make revolution" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ثورة الشعب من أجل العيش الكريم</parse>
+<comment/>
+<arg f="" g="entity make revolution" n="0">الشعب</arg>
+<arg f="" g="cause" n="1">من أجل العيش</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="Cause" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xatom</id>
+<comment/>
+<frameset cdef="" edef="sealing, stamping, closing, ending" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تم ختم الرسالة من قبل المدرسة بالشمع</parse>
+<comment/>
+<arg f="" g="the letter" n="1">الرسالة</arg>
+<arg f="" g="by the school" n="0">من قبل المدرسة</arg>
+<arg f="" g="with wax" n="2">بالشمع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things sealed or closed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

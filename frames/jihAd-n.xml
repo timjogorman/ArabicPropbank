@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jihAd</id>
+<comment/>
+<frameset cdef="" edef="jihAd, holy war, struggle" id="01" vncls="">
+<role argnum="0" argrole="Agent/Entity Trying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بارك الله في جهاد المؤمن في سبيل ايمانه</parse>
+<comment/>
+<arg f="" g="the believer" n="0">المؤمن</arg>
+<arg f="" g="for the sake of his faith" n="1">في سبيل ايمانه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing tried" vncls="" vntheta=""/>
+</frameset>
+</verb>

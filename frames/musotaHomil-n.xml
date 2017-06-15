@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>musotaHomil</id>
+<comment/>
+<frameset cdef="" edef="to bear" id="01" vncls="">
+<role argnum="1" argrole="the bearer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انا مش مستحملة * اسمع اخبار منهم</parse>
+<comment/>
+<arg f="" g="I" n="1">* انا</arg>
+<arg f="" g="to hear news from them" n="2">اسمع اخبار منهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="responsibility/thing assumed" vncls="" vntheta=""/>
+</frameset>
+</verb>

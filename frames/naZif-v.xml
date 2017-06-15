@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naZif</id>
+
+<frameset cdef="" edef="to be or become clean" id="01" vncls="">
+<role argnum="0" argrole="entity cleaning" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نظف المكان على يد الطلاب من الزبالة</parse>
+
+<arg f="" g="the place" n="1">المكان</arg>
+<arg f="" g="by the students" n="0">على يد الطلاب</arg>
+<arg f="" g="from trash" n="2">من الزبالة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity cleaned" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

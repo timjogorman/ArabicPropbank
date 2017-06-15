@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jazaH</id>
+<comment/>
+<frameset cdef="" edef="to give a lot" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جزح الأب المال لأولاده</parse>
+<comment/>
+<arg f="" g="the father" n="0">الأب</arg>
+<arg f="" g="the money" n="1">المال</arg>
+<arg f="" g="to his children" n="2">لأولاده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things given" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

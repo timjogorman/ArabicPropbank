@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoXAkaY</id>
+<comment/>
+<frameset cdef="" edef="to act smart" id="01" vncls="">
+<role argnum="0" argrole="entity playing smart" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو بيتذاكى * في كل حاجة</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="in everything" n="1">في كل حاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

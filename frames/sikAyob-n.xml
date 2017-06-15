@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>skay~ib</id>
+<comment/>
+<frameset cdef="" edef="to talk on skype" id="01" vncls="">
+<role argnum="0" argrole="talker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا بكرة حسكيب * معاك</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="with you" n="1">معاك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="other partyf;vm Hkh ps;df luh;" vncls="" vntheta=""/>
+</frameset>
+</verb>

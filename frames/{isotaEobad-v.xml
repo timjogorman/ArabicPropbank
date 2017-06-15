@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaEobad</id>
+
+<frameset cdef="" edef="to slave , to enslave" id="01" vncls="">
+<role argnum="0" argrole="entity slaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استعبد الملك السجناء</parse>
+
+<arg f="" g="the king" n="0">الملك</arg>
+<arg f="" g="prisoners" n="1">السجناء</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="slave" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

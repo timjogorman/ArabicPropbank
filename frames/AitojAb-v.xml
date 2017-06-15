@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitojAb</id>
+<comment/>
+<frameset cdef="" edef="to bring" id="01" vncls="">
+<role argnum="0" argrole="entity bringing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مش عارف الحاجات دي بتتجاب * منين</parse>
+<comment/>
+<arg f="" g="these things" n="1">* الحاجات دي</arg>
+<arg f="" g="from where" n="2">from where</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="bringing what" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<role argnum="3" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

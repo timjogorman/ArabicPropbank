@@ -1,0 +1,169 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>sAnid</id>
+
+    <frameset cdef="" edef="to support, to sustain" id="01" vncls="">
+<role argnum="0" argrole="supporter" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity supported" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what?" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS ساند)
+    (NP-SBJ
+      (DET+NOUN+NSUFF_MASC_DU_NOM الأبوان))
+    (NP-OBJ
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM ابنت)
+        (NP
+          (POSS_PRON_3D هما)))
+      (NP
+        (NOUN_PROP جيرالدين)))
+    (PP-PRP
+      (PREP ل)
+      (SBAR
+        (-NONE- 0)
+        (S
+          (VP
+            (IV3FS+IV+IVSUFF_MOOD:S تتعلّم)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (DET+NOUN+CASE_DEF_ACC الرقص))</parse>
+<arg f="" g="Parents" n="0">الأبوان</arg>
+<arg f="" g="Daughter Geraldine" n="1">ابنتهما جيرالدين</arg>
+<arg f="" g="To learn dancing" n="2">لتتعلّم الرقص</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on sAnad</comment>
+<frameset cdef="" edef="to rely or depend on, to lean on" id="02" vncls="">
+<role argnum="0" argrole="entity relying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (CV+CVSUFF_SUBJ:2P صَدَّقُوا)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (CVSUFF_DO:1S نِي))))
+  (S
+    (NP-TPC-1
+      (PRON_1P اِحْنا))
+    (NP-PRD
+      (NOUN عَنْد)
+      (NP
+        (NP
+          (POSS_PRON_1P نا))
+        (NP
+          (-NONE- *T*-1))))
+    (NP-SBJ
+      (NP
+        (NOUN كُنُوز))
+      (SBAR
+        (WHNP-2
+          (-NONE- 0))
+        (S
+          (SBAR-ADV
+            (SUB_CONJ لَو)
+            (S
+              (S
+                (VP
+                  (PV+PVSUFF_SUBJ:3FS اِتحَرَّكِت)
+                  (NP-SBJ
+                    (-NONE- *T*-2))))
+              (PUNC .)
+              (PUNC .)
+              (TYPO و)
+              (S
+                (VP
+                  (PV+PVSUFF_SUBJ:3FS سابِت)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (NP-OBJ
+                    (PVSUFF_DO:3FS ها))
+                  (PP-CLR
+                    (PREP مِن)
+                    (NP
+                      (NP
+                        (DET+NOUN الحِيط))
+                      (SBAR
+                        (WHNP-4
+                          (REL_PRON اِللِّي))
+                        (S
+                          (NP-SBJ
+                            (-NONE- *))
+                          (SBAR-NOM-PRD
+                            (WHNP-8
+                              (-NONE- 0))
+                            (S
+                              (VP
+                                (ADJ.VN+NSUFF_FEM_SG ساندَة)
+                                (NP-SBJ
+                                  (-NONE- *T*-8))
+                                (PP-CLR
+                                  (PREP عَلَى)
+                                  (NP
+                                    (NP
+                                      (PRON_3MS ُه))
+                                    (NP
+                                      (-NONE- *T*-4)))))))))))))))
+          (PUNC .)
+          (PUNC .)
+          (VP
+            (PRT
+              (FUT_PART حَ))
+            (IV1P+IV نِبْقَى)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-ADV
+              (NOUN+CASE_INDEF_ACC فِعلاً))
+            (NP-PRD
+              (NP
+                (NP
+                  (NOUN أَرْض)
+                  (ADJ+NSUFF_FEM_SG خُرافِيَّة))
+                (TYPO و)
+                (NP
+                  (TYPO ار)
+                  (ADJ+NSUFF_FEM_SG عالَمِيَّة)))
+              (SBAR
+                (WHNP-6
+                  (-NONE- 0))
+                (PUNC .)
+                (PUNC .)
+                (S
+                  (VP
+                    (IV3FS+IV_PASS تُسَمَّي)
+                    (NP-SBJ-5
+                      (-NONE- *T*-6))
+                    (S
+                      (NP-SBJ
+                        (-NONE- *-5))
+                      (PUNC .)
+                      (PUNC .)
+                      (NP-PRD
+                        (NOUN_PROP مَصْر)))))))))))))</parse>
+<comment/>
+<arg f="" g="she" n="0">*T*-8 ها</arg>
+<arg f="" g="on it" n="1">عليه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on what" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

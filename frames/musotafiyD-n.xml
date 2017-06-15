@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>musotafiyD</id>
+<comment/>
+<frameset cdef="" edef="elaborate, detailed" id="01" vncls="">
+<role argnum="1" argrole="things detailed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>في حديث مستفيض * حول علاقة الرجل والأمرأة في الندوة</parse>
+<comment/>
+<arg f="" g="speech" n="1">* حديث</arg>
+<arg f="" g="about the relation between the man and the woman" n="2">حول علاقة الرجل والأمرأة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

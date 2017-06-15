@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEaw~ir</id>
+<comment/>
+<frameset cdef="" edef="to be hurt, to suffer" id="01" vncls="">
+<role argnum="1" argrole="entity harmed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البنت اتعورت * امبارح في الشارع</parse>
+<comment/>
+<arg f="" g="the girl" n="1">البنت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="which part" vncls="" vntheta=""/>
+<role argnum="3" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

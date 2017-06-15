@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naTaH-a</id>
+<comment/>
+<frameset cdef="" edef="to butt" id="01" vncls="">
+<role argnum="0" argrole="hitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نطح الثور الطفل</parse>
+<comment/>
+<arg f="" g="the bull" n="0">الثور</arg>
+<arg f="" g="the kid" n="1">الطفل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity hit" vncls="" vntheta=""/>
+</frameset>
+</verb>

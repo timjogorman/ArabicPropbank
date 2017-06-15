@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>aitodahowar</id>
+<frameset cdef="" edef="To deteriorate" id="01">
+<role argnum="1" argrole="entity deteriorating" />
+<role argnum="2" argrole="endstate or EXT" />
+<frame>
+<example>
+<parse>
+(VP
+                    (NP-SBJ=7
+                      (-NONE- *))
+                    (NP-OBJ-2=8
+                      (DET+NOUN+CASE_DEF_GEN الاحوال))
+                    (S=9
+                      (VP
+                        (IV3FS+IV+IVSUFF_MOOD:I تتدهور)
+                        (NP-SBJ
+                          (-NONE- *-2)))))
+</parse>
+<arg f="" g="" n="1">-NONE- *-2&lt;الاحوال</arg>
+</example>
+</frame>
+<comment>Based on roleset tadahowar.01</comment></frameset>
+<comment>EGYPTIAN ARABIC Framefile based on tadahowar</comment></verb>

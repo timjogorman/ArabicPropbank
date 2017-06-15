@@ -1,0 +1,19 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitozaw~ij</id>
+<frameset cdef="" edef="To get married" id="01">
+<role argnum="1" argrole="one half" />
+<role argnum="2" argrole="other half" />
+<frame>
+<comment>
+صاهر
+</comment>
+<example>
+<parse>
+و اعلن اكثر من 50 في المئة من الاشخاص الذي شملت هم **-1 الدراسة ان هم لا يحبذون **-2 ان تتزوج قريبة منهم مسلماً .
+</parse>
+<arg f="" g="a woman Close to them" n="1">قريبة منهم</arg>
+<arg f="" g="a Muslim" n="2">مسلماً</arg>
+</example>
+</frame>
+<comment>Based on roleset tazaw~aj-v.01</comment></frameset>
+<comment>EGYPTIAN ARABIC Framefile based on tazaw~aj-v</comment></verb>

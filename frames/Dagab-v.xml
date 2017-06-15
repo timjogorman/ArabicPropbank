@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Dagab</id>
+<comment/>
+<frameset cdef="" edef="mo make sound ( wolf, rabbit )" id="01" vncls="">
+<role argnum="0" argrole="entity making the sound" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ضغب الذئب</parse>
+<comment/>
+<arg f="" g="the wolf" n="0">الذئب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

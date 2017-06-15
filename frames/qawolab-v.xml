@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qawolab</id>
+
+<frameset cdef="" edef="to make into a particular or required form/ to shape" id="01" vncls="">
+<role argnum="0" argrole="entity shaping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse/>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity shaped" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<role argnum="3" argrole="into what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

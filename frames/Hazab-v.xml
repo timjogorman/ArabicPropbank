@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hazab</id>
+<comment/>
+<frameset cdef="" edef="to befall, to afflict, to hit, to intensify" id="01">
+<role argnum="1" argrole="things intensified"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان رسول الله صلى الله عليه وسلم إذا حزبه أمر فزع إلى الصلاة</parse>
+<comment/>
+<arg f="" g="matter" n="1">أمر</arg>
+<arg f="" g="he" n="2">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="on whom"/>
+</frameset>
+</verb>

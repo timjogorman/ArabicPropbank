@@ -1,61 +1,161 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>gan~aY</id>
-    <frameset cdef="" edef="to sing" id="01">
-        <role argnum="0" argrole="singer"/>
-        <role argnum="1" argrole="song"/>
-        <role argnum="2" argrole="audience"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (NP-TPC-1
-                    (NOUN+CASE_DEF_NOM اصحاب)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الحملة)))
-                    (VP
-                    (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يقولون)
+<id>gan~aY</id>
+<frameset cdef="" edef="to sing" id="01" vncls="gan~aY-1">
+<role argnum="0" argrole="singer" vncls="gan~aY-1" vntheta="agent"/>
+<role argnum="1" argrole="song" vncls="gan~aY-1" vntheta="theme"/>
+<role argnum="2" argrole="audience" vncls="gan~aY-1" vntheta="beneficiary"/>
+<frame>
+<example>
+<parse>(S
+  (NP-TPC-1
+    (NOUN+CASE_DEF_NOM اصحاب)
+    (NP
+      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الحملة)))
+  (VP
+    (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يقولون)
+    (NP-SBJ
+      (-NONE- *T*-1))
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (NP-TPC-2
+          (NOUN_PROP خالد))
+        (VP
+          (PV+PVSUFF_SUBJ:3MS غنّى)
+          (NP-SBJ
+            (-NONE- *T*-2))
+          (PP-LOC
+            (PREP في)
+            (NP
+              (NOUN_PROP روما)))
+          (NP-TMP
+            (NOUN+CASE_DEF_ACC قبل)
+            (NP
+              (NOUN+NSUFF_MASC_DU_GEN شهرين)))
+          (PP-MNR
+            (PP
+              (PREP ب)
+              (NP
+                (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مشاركة)
+                (NP
+                  (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN مغنية)
+                  (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN اسرائيلية))))
+            (CONJ و)
+            (PP
+              (PREP في)
+              (NP
+                (NOUN+CASE_DEF_GEN حضور)
+                (NP
+                  (NOUN_PROP شمعون)
+                  (NOUN_PROP بيريس)))))))))
+  (PUNC .))</parse>
+<arg f="" g="He" n="0">(-NONE- *T*-2)) خالد</arg>
+<arg f="loc" g="in Rome" n="m">في روما</arg>
+<arg f="tmp" g="two monthes before" n="">قبل شهرين</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to make fool , to cheat (multi word expression)" id="02" vncls="">
+<role argnum="0" argrole="entity cheating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(NOUN_QUANT كُلّ)
+        (NP
+          (NP
+            (NOUN ضِيف))
+          (SBAR
+            (WHNP-7
+              (-NONE- 0))
+            (S
+              (VP
+                (IV3MS+IV يِجِي)
+                (NP-SBJ
+                  (-NONE- *T*-7))
+                (PP
+                  (PREP فِي)
+                  (NP
+                    (DET+NOUN التِلِيفِزيُون))))))))
+      (VP
+        (IV1S+IV أَشُكّ)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP فِي)
+          (NP
+            (NP
+              (PRON_3MS ُه))
+            (NP
+              (-NONE- *T*-9))))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV1S+IV اَقُول)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (-NONE- 0)
+          (S
+            (VP
+              (IV3MS+IV يِمْكِن)
+              (SBAR-SBJ
+                (-NONE- 0)
+                (S
+                  (S
                     (NP-SBJ
-                    (-NONE- *T*-1))
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (NP-TPC-2
-                    (NOUN_PROP خالد))
+                      (-NONE- *))
+                    (NP-PRD
+                      (NOUN طَرَف)
+                      (ADJ_NUM ثالِث)))
+                  (CONJ وِ)
+                  (S
                     (VP
-                    (PV+PVSUFF_SUBJ:3MS غنّى)
-                    (NP-SBJ
-                    (-NONE- *T*-2))
-                    (PP-LOC
-                    (PREP في)
-                    (NP
-                    (NOUN_PROP روما)))
-                    (NP-TMP
-                    (NOUN+CASE_DEF_ACC قبل)
-                    (NP
-                    (NOUN+NSUFF_MASC_DU_GEN شهرين)))
-                    (PP-MNR
-                    (PP
-                    (PREP ب)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN مشاركة)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN مغنية)
-                    (ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN اسرائيلية))))
-                    (CONJ و)
-                    (PP
-                    (PREP في)
-                    (NP
-                    (NOUN+CASE_DEF_GEN حضور)
-                    (NP
-                    (NOUN_PROP شمعون)
-                    (NOUN_PROP بيريس)))))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="He" n="0">(-NONE- *T*-2)) خالد</arg>
-                <arg f="loc" g="in Rome" n="m">في روما</arg>
-                <arg f="tmp" g="two monthes before" n="">قبل شهرين</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (PRT
+                        (PROG_PART بِ))
+                      (IV3MS+IV يِغَنِّي)
+                      (NP-SBJ
+                        (-NONE- *))
+                      (PP
+                        (PREP عَلَى)
+                        (NP
+                          (PRON_1P نا)))))))))))))
+  (S
+    (S
+      (S
+        (PP-PRD
+          (PREP لَ)
+          (NP
+            (PRON_2FS كِي)))
+        (NP-SBJ
+          (NOUN_PROP اللَّه))
+        (NP-VOC
+          (PRT
+            (VOC_PART يا))
+          (NOUN_PROP مَصْر)))
+      (CONJ وِ)</parse>
+
+<arg f="" g="third party" n="0">* طرف ثالث</arg>
+<arg f="" g="on us" n="1">علينا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity cheated" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
 </verb>

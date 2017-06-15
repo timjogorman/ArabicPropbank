@@ -1,22 +1,452 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>xal~aY</id>
-    <comment/>
-    <frameset cdef="" edef="to keep, take" id="01">
-        <role argnum="0" argrole="keeper entity"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>طب واصل خلى بالك ده فترة الخطوبة</parse>
-                <comment>Idiom خلى بالك</comment>
-                <arg f="" g="your mind" n="0">بالك</arg>
-                <arg f="" g="this is in the engagement time" n="1">ده فترة الخطوبة</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment>Eg</comment>
-        <role argnum="1" argrole="thing kept"/>
-    </frameset>
+<id>xal~aY</id>
+
+<frameset cdef="" edef="to keep, take care of" id="01" vncls="">
+<role argnum="0" argrole="entity taking care of" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ربنا يخلي * لك ولادك</parse>
+
+<arg f="" g="our God" n="0">* ربنا</arg>
+<arg f="gol" g="to you" n="m">لك</arg>
+
+
+
+
+
+
+
+
+
+
+<arg f="" g="your children" n="1">ولادك</arg>
+
+
+
+
+<comment>Idiom خلى بالك</comment>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing being taken care of" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment>Eg</comment>
+</frameset>
+
+<frameset cdef="" edef="to force to, to compel to, to make" id="02" vncls="">
+<role argnum="0" argrole="entity forcing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ده أخويا خلى * البيت جنينة</parse>
+
+<arg f="" g="my brother" n="0">* أخويا</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="a garden" n="2">جنينة</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity forced" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="pay attention/take note" id="03" vncls="">
+<role argnum="0" argrole="Experiencer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>أنا كلمته خلي * بالك على العيال</parse>
+
+<arg f="" g="he" n="0">* ه</arg>
+<arg f="" g="your attention" n="1">بالك</arg>
+<arg f="" g="for the kids" n="2">على العيال</arg>
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="attributed to Arg 0" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing needing attention" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+<role argnum="3" argrole="from what" vncls="" vntheta=""/>
+
+
+
+
+
+<comment/>
+</frameset>
+
+
+
+<frameset cdef="" edef="to allow, to make things happen" id="04" vncls="">
+<role argnum="0" argrole="entity making" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>دي مراتي لما تنظف البيت بتخلي * البيت زي المراية</parse>
+
+<arg f="" g="my wife" n="0">* مراتي</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="like a mirror (so clean)" n="2">زي المراية</arg>
+
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things made" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to ARG 1" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+
+<comment>ARZ</comment>
+</frameset>
+
+<frameset cdef="" edef="to leave someone something for" id="05" vncls="">
+<role argnum="0" argrole="entity leaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+    (VP
+      (CV+CVSUFF_SUBJ:2FS خَلِّي)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NP
+          (CVSUFF_DO:3P هُم))
+        (NP
+          (PRON_3P هُمَّ)))
+      (PP
+        (PREP لِ)
+        (NP
+          (DET+NOUN التُرْكِيّ))))))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="them" n="1">هُم</arg>
+<arg f="" g="for the Turkey" n="2">لِلتُرْكِيّ</arg>
+
+
+
+
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+
+
+
+
+<comment>ARZ</comment>
+</frame>
+
+<role argnum="1" argrole="things left" vncls="" vntheta=""/>
+<role argnum="2" argrole="for whom" vncls="" vntheta=""/>
+
+
+
+
+
+
+
+
+<comment>ARZ</comment>
+</frameset>
+
+
+
+
+
+
+<frameset cdef="" edef="let go of someone, to leave alone" id="06" vncls="">
+<role argnum="0" argrole="entity leaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>يا بنتي خلي * ها في حالها</parse>
+
+<arg f="" g="my daughter" n="0">* بنتي</arg>
+<arg f="" g="her" n="1">ها</arg>
+<arg f="" g="alone" n="2">في حالها</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity left" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+
+
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="to poke one's nose into, to intervene in (multi word expression)" id="07" vncls="">
+<role argnum="0" argrole="entity intervening" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>يا بنتي خلي * ك في حالك</parse>
+
+<arg f="" g="she" n="0">ك</arg>
+<arg f="" g="in your own bussines" n="1">في حالك</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="attributed to ARG0" vncls="" vntheta=""/>
+
+
+<comment>ARZ</comment>
+</frameset>
+
+
+<comment/>
+<frameset cdef="" edef="to feel ashame or to have mercy" id="08" vncls="">
+<role argnum="0" argrole="entity feeling ashame" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يا راجل خلي * عندك دم</parse>
+<comment/>
+<arg f="" g="man" n="0">* راجل</arg>
+<arg f="" g="you" n="1">عندك</arg>
+<arg f="" g="blood" n="2">دم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="arttribute to ARG0" vncls="" vntheta=""/>
+<role argnum="2" argrole="things put (usualy دم or رحمة)" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+</frameset>
 </verb>

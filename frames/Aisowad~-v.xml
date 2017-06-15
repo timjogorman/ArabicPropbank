@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aisowad~</id>
+<comment/>
+<frameset cdef="" edef="to become black" id="01" vncls="">
+<role argnum="1" argrole="entity becoming black" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أسود وشه من الشمس</parse>
+<comment/>
+<arg f="" g="his face" n="1">وشه</arg>
+<arg f="cau" g="from the sun" n="m">من الشمس</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+</frameset>
+</verb>

@@ -1,26 +1,129 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>naz~al</id>
-    <comment/>
-    <frameset cdef="" edef="to bring down, take down" id="01">
-        <role argnum="0" argrole="causer of fall, Agent"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>نزل العمال الأحمال من السيارة إلى المصنع</parse>
-                <comment/>
-                <arg f="" g="Workers" n="0">العمال</arg>
-                <arg f="" g="loads" n="1">الأحمال</arg>
-                <arg f="" g="from the car" n="2">من السيارة</arg>
-                <arg f="" g="to the factory" n="3">إلى المصنع</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="Logical subject, patient, thing falling"/>
-        <role argnum="2" argrole="start point"/>
-        <role argnum="3" argrole="end point"/>
-    </frameset>
+<id>naz~al</id>
+
+<frameset cdef="" edef="to bring down, take down" id="01" vncls="DaAEafa-1">
+<role argnum="0" argrole="causer of fall, Agent" vncls="DaAEafa-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>نزل العمال الأحمال من السيارة إلى المصنع</parse>
+
+<arg f="" g="Workers" n="0">العمال</arg>
+<arg f="" g="loads" n="1">الأحمال</arg>
+<arg f="" g="from the car" n="2">من السيارة</arg>
+<arg f="" g="to the factory" n="3">إلى المصنع</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="Logical subject, patient, thing falling" vncls="DaAEafa-1" vntheta="patient"/>
+<role argnum="2" argrole="start point" vncls="DaAEafa-1" vntheta="attribute"/>
+<role argnum="3" argrole="end point" vncls="DaAEafa-1" vntheta="extent"/>
+
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to download" id="02" vncls="">
+<role argnum="0" argrole="downlloader" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>نزل أخي هذه الاغاني من الانترنيت</parse>
+
+<arg f="" g="my brother" n="0">أخي</arg>
+<arg f="" g="these songs" n="1">هذه الاغاني</arg>
+<arg f="" g="from the internet" n="2">من الانترنيت</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things downloaded" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where or from whom" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to market" id="03" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>انا * حنزل البضاعة الجديدة للسوق بسعر كويس</parse>
+
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="the new merchandise" n="1">البضاعة الجديدة</arg>
+<arg f="" g="to the market" n="2">للسوق</arg>
+<arg f="" g="with a good price" n="3">بسعر كويس</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="merchandise" vncls="" vntheta=""/>
+<role argnum="2" argrole="location" vncls="" vntheta=""/>
+<role argnum="3" argrole="price" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to add, to put a message" id="04" vncls="">
+<role argnum="0" argrole="entity adding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>يارَيْت حَدّ يِنَزِّل * خَبَر يِفَرَّح قَلْبي</parse>
+
+<arg f="" g="someone" n="0">* حَدّ</arg>
+<arg f="" g="news" n="1">خَبَر</arg>
+<arg f="prp" g="to make my heart happy" n="m">يِفَرَّح قَلْبي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things added" vncls="" vntheta=""/>
+<role argnum="2" argrole="topic" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

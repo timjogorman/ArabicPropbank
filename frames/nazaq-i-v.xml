@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nazaq-i</id>
+<comment/>
+<frameset cdef="" edef="to jump or leap" id="01" vncls="">
+<role argnum="0" argrole="jumper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نزق الفرس فوق السياج الى الشارع</parse>
+<comment/>
+<arg f="" g="the horse" n="0">الفرس</arg>
+<arg f="" g="over the fence" n="2">فوق السياج</arg>
+<arg f="" g="to the street" n="3">الى الشارع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="source" vncls="" vntheta=""/>
+<role argnum="2" argrole="over what" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be filled" id="02" vncls="">
+<role argnum="1" argrole="entity filled" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نزق المسبح بالماء</parse>
+<comment/>
+<arg f="" g="the pool" n="1">المسبح</arg>
+<arg f="" g="with water" n="2">بالماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

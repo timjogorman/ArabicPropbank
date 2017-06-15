@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wak~il</id>
+
+    <frameset cdef="" edef="to authorize empower" id="01" vncls="">
+<role argnum="0" argrole="allower" vncls="" vntheta=""/>
+<role argnum="1" argrole="allow for" vncls="" vntheta=""/>
+<role argnum="2" argrole="allow to  what" vncls="" vntheta=""/>
+<frame>
+
+<example>
+<parse>و قال * : &quot; يجب ان نقيم * دعوى و نوكل * محامياً</parse>
+<arg f="" g="We" n="0">*</arg>
+<arg f="" g="a lawyer" n="1">محامياً</arg>
+<comment/>
+</example>
+<comment>فوض</comment>
+</frame>
+<comment>Based on roleset wak~al.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on wak~al</comment>
+<frameset cdef="" edef="to feed" id="02" vncls="">
+<role argnum="0" argrole="feeder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل ده مش حيوكل * نا أي حاجة</parse>
+<comment/>
+<arg f="" g="this man" n="0">* الراجل ده</arg>
+<arg f="" g="us" n="2">نا</arg>
+<arg f="" g="anything" n="1">أي حاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

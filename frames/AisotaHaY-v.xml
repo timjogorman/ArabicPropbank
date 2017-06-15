@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AisotaHaY</id>
+<comment>EGYPTIAN ARABIC based on {isotaHaY</comment>
+    <frameset cdef="" edef="to be ashamed of, to be shie" id="01">
+<role argnum="0" argrole="entity feeling shie" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>الواد ده بيستحي * من خياله امال حيعمل ايه لما يتجوز</parse>
+<comment />
+<arg f="" g="He" n="0">* the boy</arg>
+<arg f="" g="from his shadow" n="1">من خياله</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {isotaHaY.01</comment>
+<role argnum="1" argrole="from what or whom" />
+</frameset>
+</verb>

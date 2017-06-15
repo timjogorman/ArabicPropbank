@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nab~aY</id>
+<comment/>
+<frameset cdef="" edef="to call or make prophet" id="01" vncls="">
+<role argnum="0" argrole="caller" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NP-ADV
+      (ADJ طَيِّب))
+    (PUNC .)
+    (PP
+      (PREP وِ)
+      (NP
+        (NOUN حَياة)
+        (SBAR-NOM
+          (WHNP-1
+            (REL_PRON مَنْ))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MS نَبَّى)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ-2
+                (DET+NOUN_PROP النَبِي))
+              (SBAR-DTV
+                (-NONE- 0)
+                (S
+                  (NP-SBJ
+                    (-NONE- *-2))
+                  (NP-PRD
+                    (NOUN نَبِي)))))))))
+    (PUNC .)</parse>
+<comment/>
+<arg f="" g="unknown" n="0">*T* -1 ? unknown</arg>
+<arg f="" g="the prophet" n="1">النَبِي</arg>
+<arg f="" g="prophet" n="2">نَبِي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity called" vncls="" vntheta=""/>
+<role argnum="2" argrole="what" vncls="" vntheta=""/>
+</frameset>
+</verb>

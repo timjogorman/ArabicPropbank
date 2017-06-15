@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>itowaj~aE</id>
+<comment/>
+<frameset cdef="" edef="to feel pain, to suffer pain" id="01" vncls="">
+<role argnum="0" argrole="entity feeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قلبي اتوجع * من المشاكل</parse>
+<comment/>
+<arg f="" g="my heart" n="0">* قلبي</arg>
+<arg f="" g="from the problems" n="1">من المشاكل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what or because of what" vncls="" vntheta=""/>
+</frameset>
+</verb>

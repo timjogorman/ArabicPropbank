@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>falofal</id>
+
+<frameset cdef="" edef="to add pepper to food" id="01" vncls="">
+<role argnum="0" argrole="entity adding pepper" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فلفل الطباخ الطعام</parse>
+
+<arg f="" g="the cooker" n="0">الطباخ</arg>
+<arg f="" g="food" n="1">الطعام</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="food" vncls="" vntheta=""/>
+<role argnum="2" argrole="pepper" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

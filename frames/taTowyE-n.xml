@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taTowyE</id>
+<comment/>
+<frameset cdef="" edef="subdual, subjugation, recruitment" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(NOUN عَرْبُون))
+            (PP
+              (PREP مِنّ)
+              (NP
+                (PRON_3P هُم))))
+          (PP-PRP
+            (PP
+              (PREP لِ)
+              (NP
+                (NP
+                  (NOUN جَذب)
+                  (NP
+                    (POSS_PRON_3MS ُه)))
+                (PP
+                  (PREP إِلِي)
+                  (NP
+                    (PRON_3P هُم)))))
+            (CONJ وِ)
+            (PP
+              (PREP لِ)
+              (NP
+                (NP
+                  (NOUN+NSUFF_FEM_SG خِدْمَة)
+                  (NP
+                    (NOUN مَصالِح)
+                    (NP
+                      (POSS_PRON_3P هُم))))
+                (CONJ وِ)
+                (S-NOM
+                  (VP
+                    (NOUN.VN تَطوِيع)
+                    (NP-SBJ
+                      (POSS_PRON_3P هُم))
+                    (PP-CLR
+                      (PREP لِ)
+                      (NP
+                        (PRON_3P هُم)))))))))))))</parse>
+<comment/>
+<arg f="" g="them" n="1">هُم</arg>
+<arg f="" g="for themselves" n="2">لهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity subjugated" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qalaf-i</id>
+<comment/>
+<frameset cdef="" edef="to strip the bark of, to circumcise,to pluck out" id="01" vncls="">
+<role argnum="0" argrole="entity peeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قلف الفلاح القشر عن الشجرة</parse>
+<comment/>
+<arg f="" g="the farmer" n="0">الفلاح</arg>
+<arg f="" g="the skin" n="1">القشر</arg>
+<arg f="" g="from the tree" n="2">عن الشجرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things peeled" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

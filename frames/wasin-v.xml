@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wasin</id>
+<comment/>
+<frameset cdef="" edef="to doze off, to slumber   أَخذ في النُّعاس" id="01" vncls="">
+<role argnum="1" argrole="entity getting asleep" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وسن الرجل أمام التلفاز</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

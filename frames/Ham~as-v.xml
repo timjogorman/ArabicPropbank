@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Ham~as</id>
+
+<frameset cdef="" edef="to enthuse, to make enthusiastic, to excite" id="01" vncls="sal~aY-1">
+<role argnum="0" argrole="entity causing" vncls="sal~aY-1" vntheta="cause"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حمس المتكلم المستمعين</parse>
+
+<arg f="" g="the speaker" n="0">المتكلم</arg>
+<arg f="" g="the listeners" n="1">المستمعين</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="sal~aY-1" vntheta="experiencer"/>
+<role argnum="2" argrole="with what" vncls="sal~aY-1" vntheta="instrument"/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to fry beans" id="02" vncls="">
+<role argnum="0" argrole="entity frying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>حمس الرجل الحمص</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="garbanzo" n="1">الحمص</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things fried" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

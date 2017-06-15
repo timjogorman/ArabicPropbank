@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$axolaE</id>
+<comment/>
+<frameset cdef="" edef="cause sway" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انت عاوز تشخلع * نفسك</parse>
+<comment/>
+<arg f="" g="you" n="0">* انت</arg>
+<arg f="" g="yourself" n="1">نفسك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

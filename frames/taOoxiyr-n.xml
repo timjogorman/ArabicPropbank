@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taOoxiyr</id>
+<comment/>
+<frameset cdef="" edef="delaying, postponement" id="01" vncls="">
+<role argnum="0" argrole="entity delaying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تأخير الطالب واجباته من تسليمها في الوقت المحدد أدى الى رسوبه</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="his homework" n="1">واجباته</arg>
+<arg f="" g="from delivirng it at the exact time" n="2">من تسليمها في الوقت المحدد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things delayed" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

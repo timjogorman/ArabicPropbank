@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inobaEaj</id>
+<comment/>
+<frameset cdef="" edef="to be slashed open, ripped open" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انبعج القميص بالمقص</parse>
+<comment/>
+<arg f="" g="the shirt" n="1">القميص</arg>
+<arg f="" g="with scissors" n="2">بالمقص</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing ripped" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waT~ar</id>
+<comment/>
+<frameset cdef="" edef="to frame, to strain, to tension" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (VP
+        (CV+CVSUFF_SUBJ:2FS اِدْخُلِي)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP لِ)
+          (NP
+            (NOUN وَحْد)
+            (NP
+              (POSS_PRON_2FS ِك))))
+        (NP-ADV
+          (NOUN مَعَ)
+          (NP
+            (POSS_PRON_3MS ُه)))
+        (PP-PRP
+          (PREP عَلَى)
+          (NP
+            (NOUN شان)
+            (S
+              (VP
+                (VERB ما)
+                (NP-SBJ-1
+                  (X
+                    (NO_FUNC حدش)))
+                (S
+                  (VP
+                    (IV2FS+IV+IVSUFF_SUBJ:2FS يِوَطَّرِك)
+                    (NP-SBJ
+                      (-NONE- *-1))))))))))
+    (CONJ وِ)
+    (S
+      (VP
+        (CV+CVSUFF_SUBJ:2FS حاوْلِي)
+        (NP-SBJ
+          (-NONE- *))))))</parse>
+<comment/>
+<arg f="" g="somebody" n="0">-1 حدش</arg>
+<arg f="" g="you" n="1">ك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+</verb>

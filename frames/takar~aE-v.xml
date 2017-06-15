@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>takar~aE</id>
+<comment/>
+<frameset cdef="" edef="to perform the ritual ablution" id="01" vncls="">
+<role argnum="0" argrole="agent or doer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تكرع الرجل للصلاة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment>توضأ</comment>
+</frameset>
+<frameset cdef="" edef="to burp, to blech" id="02" vncls="">
+<role argnum="0" argrole="entity burping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الواحد لما يتكرع * معناه انه شبعان</parse>
+<comment/>
+<arg f="" g="somebody" n="0">* الواحد</arg>
+</example>
+<comment/>
+</frame>
+<comment>تجشأ  ARZ</comment>
+</frameset>
+</verb>

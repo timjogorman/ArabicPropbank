@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Harij</id>
+<comment/>
+<frameset cdef="" edef="to contract or tighten" id="01" vncls="">
+<role argnum="1" argrole="entity getting tighten" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حرج صدر الطفل</parse>
+<comment/>
+<arg f="" g="the baby's chest" n="1">صدر الطفل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to resort to, to seek protection in or with" id="02" vncls="">
+<role argnum="0" argrole="seeker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>حرج الرجل الى أخيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="to his brother" n="1">الى أخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

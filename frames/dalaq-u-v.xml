@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dalaq-u</id>
+<comment/>
+<frameset cdef="" edef="to spill or pour out" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دلق الطفل الماء من الأناء على ملابسه</parse>
+<comment/>
+<arg f="" g="the baby" n="0">الطفل</arg>
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="from the container" n="2">من الأناء</arg>
+<arg f="" g="on his clothes" n="3">على ملابسه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things spilled" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to unsheathe, to draw a sword" id="02" vncls="">
+<role argnum="0" argrole="entity pulling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دلق المقاتل السيف من غمده</parse>
+<comment/>
+<arg f="" g="the warior" n="0">المقاتل</arg>
+<arg f="" g="the sword" n="1">السيف</arg>
+<arg f="" g="from it's sheath" n="2">من غمده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things pulled (a sword)" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+</frameset>
+</verb>

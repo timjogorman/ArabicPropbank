@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OanobaO</id>
+<comment/>
+<frameset cdef="" edef="to inform, to tell about, to let know" id="01">
+<role argnum="0" argrole="teller"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سألته إن كان قد أنبأ * والده عن زواجه</parse>
+<comment/>
+<arg f="" g="he" n="0">* ه</arg>
+<arg f="" g="his father" n="1">والده</arg>
+<arg f="" g="about his marriage" n="2">عن زواجه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="listener, to whom"/>
+<role argnum="2" argrole="the news"/>
+</frameset>
+</verb>

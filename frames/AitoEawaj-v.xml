@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoEawaj</id>
+<comment/>
+<frameset cdef="" edef="to become twisted or bent" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الحديد اللي اتعوج * مش ممكن تعدله</parse>
+<comment/>
+<arg f="" g="the iron" n="1">الحديد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things twisted" vncls="" vntheta=""/>
+</frameset>
+</verb>

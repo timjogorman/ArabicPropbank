@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>kar~</id>
+<comment>EGYPTIAN ARABIC based on kar~-u</comment>
+    <frameset cdef="" edef="to break up" id="01">
+<role argnum="0" argrole="breaker" />
+<role argnum="1" argrole="thing in pieces" />
+<frame>
+<example>
+<parse>
+(VP
+                  (PSEUDO_VERB إن)
+                  (NP-SBJ-4
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC السبحة))
+                  (S
+                    (VP
+                      (PRT
+                        (FUT_PART س))
+                      (IV3FS+IV+IVSUFF_MOOD:I تكر)
+                      (NP-SBJ
+                        (-NONE- *-4))))))))))
+</parse>
+<arg f="" g="Beads" n="1">-NONE- *-4 &lt;السبحة</arg>
+</example>
+</frame>
+<comment>Based on roleset kar~-u.01</comment></frameset>
+</verb>

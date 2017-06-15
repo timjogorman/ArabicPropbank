@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OaZal~</id>
+<comment/>
+<frameset cdef="" edef="to shade or overshadow" id="01">
+<role argnum="0" argrole="entity making shadow"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أظلت الشجرة البيت</parse>
+<comment/>
+<arg f="" g="the tree" n="0">الشجرة</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity shadowed"/>
+</frameset>
+</verb>

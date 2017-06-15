@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoqaraf</id>
+
+<frameset cdef="" edef="to be disgusted" id="01" vncls="">
+<role argnum="1" argrole="entity became disgusted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقرف أكل الكلاب</parse>
+
+<arg f="" g="dogs food" n="1">أكل الكلاب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be peeled removed or barked" id="02" vncls="">
+<role argnum="1" argrole="entity removed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انقرف الشعر عن الجلد</parse>
+
+<arg f="" g="hair" n="1">الشعر</arg>
+<arg f="" g="from the skin" n="2">عن الجلد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

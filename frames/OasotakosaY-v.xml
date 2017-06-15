@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>OasotakosaY</id>
+<comment/>
+<frameset cdef="" edef="to clothe or dress" id="01">
+<role argnum="0" argrole="entity clothing"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>يا عبادى كلكم عار إلا من كسوته فاستكس * ونى أكسكم</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="me" n="1">نى</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity clothed"/>
+<role argnum="2" argrole="the dress"/>
+</frameset>
+</verb>

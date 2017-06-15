@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>saq~aT</id>
+<comment>EGYPTIAN ARABIC based on OasoqaT</comment>
+    <frameset cdef="" edef="to cause to fall" id="01">
+<role argnum="0" argrole="causer of falling" />
+<role argnum="1" argrole="falling entity" />
+<frame>
+<example>
+<parse>اسقط * ه فى الماء</parse>
+<arg f="" g="-NONE-" n="0">*</arg>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="loc" g="in the water" n="m">فى الماء</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset OasoqaT.01</comment>
+</frameset>
+<frameset cdef="" edef="overthrow (usually a political regime or party)" id="03">
+<role argnum="0" argrole="causer agent" />
+<role argnum="1" argrole="regime overthrown" />
+<frame>
+<example>
+<parse>أسقط الأميركيون نظام صدام</parse>
+<arg f="" g="the americans" n="0">الأميركيون</arg>
+<arg f="" g="The Saddam regime" n="1">نظام صدام</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset OasoqaT.03</comment>
+</frameset>
+</verb>

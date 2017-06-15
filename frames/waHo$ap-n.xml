@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waHo$ap</id>
+<comment/>
+<frameset cdef="" edef="to long or yearn for, to hunger for" id="01" vncls="">
+<role argnum="0" argrole="entity longing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انتي وحشتي * ني أوي</parse>
+<comment/>
+<arg f="" g="you" n="1">انتي</arg>
+<arg f="" g="me" n="0">ني</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="to whom or what" vncls="" vntheta=""/>
+</frameset>
+</verb>

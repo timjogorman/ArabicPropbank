@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ba$ir-a</id>
+<comment/>
+<frameset cdef="" edef="to rejoice at or be happy at" id="01">
+<role argnum="0" argrole="entity being happy"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بشر الرجل بزيارة أخيه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with his brother's visit" n="1">بزيارة أخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what"/>
+</frameset>
+</verb>

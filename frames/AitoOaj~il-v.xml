@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoOaj~il</id>
+
+<frameset cdef="" edef="to be postponed" id="01" vncls="">
+<role argnum="1" argrole="thing postponed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>إطلاق ألبوم كارلا بروني الغنائي تأجّل إلى ما بعد الانتخابات الرئاسية
+
+Arg 1: -None- *T* (إطلاق ألبوم كارلا بروني الغنائي)
+Arg 2:  إلى ما بعد الانتخابات الرئاسية</parse>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="first date" vncls="" vntheta=""/>
+<comment>Based on roleset taOaj~al.01</comment>
+<role argnum="3" argrole="new date" vncls="" vntheta=""/>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on taOaj~al</comment>
+</verb>

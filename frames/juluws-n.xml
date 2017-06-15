@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>juluws</id>
+<comment/>
+<frameset cdef="" edef="sitting, taking a seat" id="01" vncls="">
+<role argnum="0" argrole="sitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رتب الرجل لجلوس الرجال في الغرفة الكبيرة</parse>
+<comment/>
+<arg f="" g="men" n="0">الرجال</arg>
+<arg f="" g="in the big room" n="1">في الغرفة الكبيرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="location or position" vncls="" vntheta=""/>
+</frameset>
+</verb>

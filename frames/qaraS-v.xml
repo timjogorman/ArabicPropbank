@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>qaraS</id>
+<comment>EGYPTIAN ARABIC based on qaraS-u</comment>
+    <frameset cdef="" edef="to pinch, to bite, to sting, to hurt" id="01" vncls="">
+<role argnum="0" argrole="biter" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>قرص الشاب صديقته</parse>
+
+<arg f="" g="the youngman" n="0">الشاب</arg>
+<arg f="" g="his girl friend" n="1">صديقته</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="bitten" vncls="" vntheta="" />
+<comment>Based on roleset qaraS-u.01</comment>
+</frameset>
+</verb>

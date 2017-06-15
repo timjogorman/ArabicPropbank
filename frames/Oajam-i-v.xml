@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oajam-i</id>
+<comment/>
+<frameset cdef="" edef="to be quite with anger" id="01" vncls="">
+<role argnum="0" argrole="entity quite" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أجمت الأم على  أفعال إبنها</parse>
+<comment/>
+<arg f="" g="the mother" n="0">الأم</arg>
+<arg f="" g="about her child's acts" n="1">على  أفعال إبنها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to change it's flavor and become rotten" id="02" vncls="">
+<role argnum="1" argrole="entity changed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أجم الماء</parse>
+<comment/>
+<arg f="" g="the water" n="1">الماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,101 +1,172 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>Oakovar</id>
-    <frameset cdef="" edef="to do more, do often" id="01">
-        <role argnum="0" argrole="the doer"/>
-        <role argnum="1" argrole="thing done"/>
-        <frame>
-            <example>
-                <parse>
-                    (S
-                    (CONJ و)
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS لاحظت)
-                    (NP-SBJ
-                    (-NONE- *))
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (NP-TPC-1
-                    (NOUN_PROP موسى))
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS اكثر)
-                    (NP-SBJ
-                    (-NONE- *T*-1))
-                    (PP-CLR
-                    (PREP من)
-                    (NP
-                    (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN التصريحات)))
-                    (PP-TMP
-                    (PREP منذ)
-                    (NP
-                    (NOUN+CASE_DEF_GEN وصول)
-                    (NP
-                    (POSS_PRON_3MS ه))))
-                    (PUNC ,)
-                    (PP
-                    (PREP ب)
-                    (SBAR
-                    (WHADVP-7
-                    (REL_ADV حيث))
-                    (S
-                    (VP
-                    (VP
+<id>Oakovar</id>
+<frameset cdef="" edef="to do more, do often" id="01" vncls="">
+<role argnum="0" argrole="the doer" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing done" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3FS لاحظت)
+    (NP-SBJ
+      (-NONE- *))
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (NP-TPC-1
+          (NOUN_PROP موسى))
+        (VP
+          (PV+PVSUFF_SUBJ:3MS اكثر)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (PP-CLR
+            (PREP من)
+            (NP
+              (DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN التصريحات)))
+          (PP-TMP
+            (PREP منذ)
+            (NP
+              (NOUN+CASE_DEF_GEN وصول)
+              (NP
+                (POSS_PRON_3MS ه))))
+          (PUNC ,)
+          (PP
+            (PREP ب)
+            (SBAR
+              (WHADVP-7
+                (REL_ADV حيث))
+              (S
+                (VP
+                  (VP
                     (PV+PVSUFF_SUBJ:3MS ادلى)
                     (NP-SBJ-3-6
-                    (-NONE- *))
+                      (-NONE- *))
                     (PP-TMP-4
-                    (PREP في)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN اليوم)
-                    (DET+ADJ_NUM+CASE_DEF_GEN الاول)))
+                      (PREP في)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN اليوم)
+                        (DET+ADJ_NUM+CASE_DEF_GEN الاول)))
                     (PP-CLR-5
-                    (PREP ب)
-                    (NP
-                    (NP
-                    (NOUN+NSUFF_MASC_DU_GEN تصريحين))
-                    (CONJ و)
-                    (NP
-                    (NOUN+CASE_INDEF_GEN حديث)
-                    (ADJ+CASE_INDEF_GEN صحافي))))
+                      (PREP ب)
+                      (NP
+                        (NP
+                          (NOUN+NSUFF_MASC_DU_GEN تصريحين))
+                        (CONJ و)
+                        (NP
+                          (NOUN+CASE_INDEF_GEN حديث)
+                          (ADJ+CASE_INDEF_GEN صحافي))))
                     (ADVP
-                    (-NONE- *T*-7)))
-                    (PUNC ,)
-                    (CONJ و)
-                    (VP
+                      (-NONE- *T*-7)))
+                  (PUNC ,)
+                  (CONJ و)
+                  (VP
                     (NP-SBJ=6
-                    (-NONE- *-3))
+                      (-NONE- *-3))
                     (PP-TMP=4
-                    (PREP في)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN اليوم)
-                    (DET+ADJ_NUM الثاني)))
+                      (PREP في)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN اليوم)
+                        (DET+ADJ_NUM الثاني)))
                     (PP-CLR=5
-                    (PREP ب)
-                    (NP
-                    (NP
-                    (NOUN_NUM+NSUFF_FEM_SG+CASE_DEF_GEN أربعة)
-                    (NP
-                    (NOUN+NSUFF_FEM_PL+CASE_INDEF_ACC تصريحات)))
-                    (SBAR
-                    (WHNP-2
-                    (-NONE- 0))
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS تضمنت)
-                    (NP-SBJ
-                    (-NONE- *T*-2))
-                    (NP-OBJ
-                    (NOUN_QUANT+CASE_DEF_ACC بعض)
-                    (NP
-                    (DET+NOUN+CASE_DEF_GEN التناقض)))))))))))))))))
-                    (PUNC .))
-                </parse>
-                <arg f="" g="" n="0">-NONE- *T*-1</arg>
-                <arg f="" g="statements" n="1">من التصريحات</arg>
-                <arg f="tmp" g="since his arrival" n="m">منذ وصوله</arg>
-                <arg f="" g="since he gave two statements on the first day and a news report, and on the second day, four statements that included some contradictions." n="">بحيث أدلى في اليوم الأول بتصريحين و حديث صحافي و في اليوم الثاني بأربعة تصريحات تضمنت بعض التناقض</arg>
-            </example>
-        </frame>
-    </frameset>
+                      (PREP ب)
+                      (NP
+                        (NP
+                          (NOUN_NUM+NSUFF_FEM_SG+CASE_DEF_GEN أربعة)
+                          (NP
+                            (NOUN+NSUFF_FEM_PL+CASE_INDEF_ACC تصريحات)))
+                        (SBAR
+                          (WHNP-2
+                            (-NONE- 0))
+                          (S
+                            (VP
+                              (PV+PVSUFF_SUBJ:3FS تضمنت)
+                              (NP-SBJ
+                                (-NONE- *T*-2))
+                              (NP-OBJ
+                                (NOUN_QUANT+CASE_DEF_ACC بعض)
+                                (NP
+                                  (DET+NOUN+CASE_DEF_GEN التناقض)))))))))))))))))
+  (PUNC .))</parse>
+<arg f="" g="" n="0">-NONE- *T*-1</arg>
+<arg f="" g="statements" n="1">من التصريحات</arg>
+<arg f="tmp" g="since his arrival" n="m">منذ وصوله</arg>
+<arg f="adv" g="since he gave two statements on the first day and a news report, and on the second day, four statements that included some contradictions." n="m">بحيث أدلى في اليوم الأول بتصريحين و حديث صحافي و في اليوم الثاني بأربعة تصريحات تضمنت بعض التناقض</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to increase" id="02" vncls="">
+<role argnum="0" argrole="entity causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PRT
+        (FUT_PART حَ))
+      (IV1S+IV اَكَتَّر)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN عَدَد)
+        (NP
+          (DET+NOUN المَحاكِم)
+          (CONJ وَ)
+          (DET+NOUN+NSUFF_FEM_SG القُضاَة))))
+    (PUNC .)
+    (PUNC .))
+  (S
+    (PP-PRP
+      (PREP عَلَى)
+      (NP
+        (NOUN شَأْن)
+        (NP
+          (NP
+            (DET+NOUN+NSUFF_FEM_PL المُنازَعات))
+          (SBAR
+            (WHNP-1
+              (REL_PRON اللِّي))
+            (S
+              (VP
+                (PRT
+                  (PROG_PART بِ))
+                (IV3FS+IV تِقْعُد)
+                (NP-SBJ
+                  (-NONE- *T*-1))
+                (PP-TMP
+                  (PREP بِ)
+                  (NP
+                    (DET+NOUN+NSUFF_MASC_PL السِنِين)))))))))
+    (VP
+      (IV3FS+IV تِخْلَص)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-TMP
+        (ADV بَدْرِي)))))</parse>
+
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="the number of courts and judges" n="1">عَدَد المَحاكِم وَ القُضاَة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things increased" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
 </verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taTAraH</id>
+<comment/>
+<frameset cdef="" edef="to exchange or interchange, to share" id="01" vncls="">
+<role argnum="0" argrole="entity exchanging" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تطارح الرجل الغرام مع زوجته</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the love" n="1">الغرام</arg>
+<arg f="" g="with his wife" n="2">مع زوجته</arg>
+</example>
+<comment/>
+</frame>
+<comment>تبادل</comment>
+<role argnum="1" argrole="things exchanged" vncls="" vntheta=""/>
+<role argnum="2" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

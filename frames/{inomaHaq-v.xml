@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inomaHaq</id>
+
+<frameset cdef="" edef="to be effaced or destroyed" id="01" vncls="">
+<role argnum="1" argrole="entity effaced" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انمحقت الكتابة بالغبار</parse>
+
+<arg f="" g="the writing" n="1">الكتابة</arg>
+<arg f="" g="dust" n="2">بالغبار</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

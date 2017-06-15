@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inomaHa$</id>
+<comment/>
+<frameset cdef="" edef="to be uprooted" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>انمحشت السنابل بالمنجل</parse>
+<comment/>
+<arg f="" g="spikes" n="1">السنابل</arg>
+<arg f="" g="with a billhook" n="2">بالمنجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity uprooted" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument,billhook" vncls="" vntheta=""/>
+</frameset>
+</verb>

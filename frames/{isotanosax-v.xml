@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotanosax</id>
+
+<frameset cdef="" edef="to copy" id="01" vncls="">
+<role argnum="0" argrole="copier" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>استنسخت السكرتيرة الوثائق</parse>
+
+<arg f="" g="the secretary" n="0">السكرتيرة</arg>
+<arg f="" g="the documents" n="1">الوثائق</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing copied" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

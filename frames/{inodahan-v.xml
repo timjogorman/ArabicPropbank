@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inodahan</id>
+
+<frameset cdef="" edef="to be painted, to be smeared" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>اندهن ظهره بالزيت</parse>
+
+<arg f="" g="his back" n="1">ظهره</arg>
+<arg f="" g="with oil" n="2">بالزيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity plainted or smeared" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

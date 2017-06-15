@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taxaD~ab</id>
+<comment/>
+<frameset cdef="" edef="to be dyed or covered with bloodd" id="01" vncls="">
+<role argnum="1" argrole="entity covered" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هؤلاء المجرمون الذين تخضبوا * بدماء اخوانهم</parse>
+<comment/>
+<arg f="" g="those criminals" n="">هؤلاء المجرمون</arg>
+<arg f="" g="with their brothers blood" n="">بدماء اخوانهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

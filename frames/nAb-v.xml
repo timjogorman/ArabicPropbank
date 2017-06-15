@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>nAb</id>
+<comment>EGYPTIAN ARABIC based on nAb-u</comment>
+    <frameset cdef="" edef="to happen to" id="02" vncls="">
+<role argnum="1" argrole="things happening" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PRT
+        (NEG_PART ما))
+      (PV+PVSUFF_SUBJ:3MS ناب)
+      (NP-SBJ
+        (DET+NOUN الراجِل))
+      (NP-TMP
+        (NOUN بَعْد)
+        (NP
+          (NOUN مُوت)
+          (NP
+            (POSS_PRON_3MS ُه))))
+      (NP-OBJ
+        (PRT
+          (PREP إِلّا))
+        (DET+NOUN+NSUFF_FEM_SG البَهْدَلَة)
+        (CONJ وَ)
+        (DET+NOUN التَشْرِيح)))))</parse>
+<comment />
+<arg f="" g="the man" n="2">الراجِل</arg>
+<arg f="tmp" g="after his death" n="m">بَعْد مُوته</arg>
+<arg f="" g="only the humiliation" n="1">إِلّا البَهْدَلَة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset nAb-u.02</comment>
+<role argnum="2" argrole="victim" vncls="" vntheta="" />
+</frameset>
+</verb>

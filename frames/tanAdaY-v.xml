@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tanAdaY</id>
+<comment/>
+<frameset cdef="" edef="to call each other, to summon each other, to name" id="01" vncls="">
+<role argnum="0" argrole="entity calling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تنادى الأولاد بعضهم بعضا بأسماء مضحكة</parse>
+<comment/>
+<arg f="" g="the kids" n="0">الأولاد</arg>
+<arg f="" g="each other" n="1">بعضهم بعضا</arg>
+<arg f="" g="with funny names" n="2">بأسماء مضحكة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity called" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what or the name" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to get together in a club" id="02" vncls="">
+<role argnum="0" argrole="entity meeting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تنادى الرجال في النادي للأجتماع</parse>
+<comment/>
+<arg f="" g="the men" n="0">الرجال</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

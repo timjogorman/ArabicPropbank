@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>malaE-a</id>
+<comment/>
+<frameset cdef="" edef="to skin or flay, to strip off the skin of" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ملع الرجل الجلد عن البقرة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the skin" n="1">الجلد</arg>
+<arg f="" g="from the cow" n="2">عن البقرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the skin" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to go fast or rush" id="02" vncls="">
+<role argnum="0" argrole="entity rushing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ملعت الدابة في سيرها</parse>
+<comment/>
+<arg f="" g="the riding animal" n="0">الدابة</arg>
+<arg f="" g="in it's walking" n="1">في سيرها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

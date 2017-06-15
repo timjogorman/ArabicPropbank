@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Eaj~iz</id>
+<comment/>
+<frameset cdef="" edef="to become old" id="01" vncls="">
+<role argnum="1" argrole="entity becoming old" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هي عجزت * خلاص</parse>
+<comment/>
+<arg f="" g="she" n="1">* هي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>DaHak</id>
+<comment/>
+<frameset cdef="" edef="to make sound ( mostly monkey )" id="01" vncls="">
+<role argnum="0" argrole="entity making the sound" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ضحك القرد</parse>
+<comment/>
+<arg f="" g="the monkey" n="0">القرد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

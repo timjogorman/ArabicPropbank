@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fah~am</id>
+
+<frameset cdef="" edef="to make understand, to make comprehend" id="01" vncls="Eal~ama-1">
+<role argnum="0" argrole="entity explaining" vncls="Eal~ama-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فهم الوالد ابنه طريقة الحساب</parse>
+
+<arg f="" g="the father" n="0">الوالد</arg>
+<arg f="" g="the calculation way" n="1">طريقة الحساب</arg>
+<arg f="" g="his son" n="2">ابنه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things explained" vncls="Eal~ama-1" vntheta="topic"/>
+<role argnum="2" argrole="to whom" vncls="Eal~ama-1" vntheta="recipient"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

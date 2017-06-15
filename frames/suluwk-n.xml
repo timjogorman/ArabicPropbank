@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>suluwk</id>
+<comment/>
+<frameset cdef="" edef="behavior, conduct, manners" id="01" vncls="">
+<role argnum="0" argrole="entity behaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لا يعجبني سلوك بعض الاطفال كالوحوش</parse>
+<comment/>
+<arg f="" g="some kids" n="0">بعض الاطفال</arg>
+<arg f="" g="as beasts" n="1">كالوحوش</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="the way behaved" vncls="" vntheta=""/>
+</frameset>
+</verb>

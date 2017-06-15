@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoma$aq</id>
+
+<frameset cdef="" edef="to be gashed" id="01" vncls="">
+<role argnum="1" argrole="entity gashed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انمشق الثوب بالمقص</parse>
+
+<arg f="" g="the fabric" n="1">الثوب</arg>
+<arg f="" g="with scissors" n="2">بالمقص</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to be combed" id="02" vncls="">
+<role argnum="1" argrole="entity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انمشق الشعر بالمشط</parse>
+
+<arg f="" g="the hair" n="1">الشعر</arg>
+<arg f="" g="with a comb" n="2">بالمشط</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

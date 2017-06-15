@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saH~</id>
+<comment/>
+<frameset cdef="" edef="to cry (idiomatic expression)" id="01" vncls="">
+<role argnum="0" argrole="entity crying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (NP-VOC
+        (PRT
+          (VOC_PART يا))
+        (NOUN رَبّ)
+        (NP
+          (POSS_PRON_1S ِي)))
+      (NP-TPC-3
+        (PRON_3FS هِيَّ))
+      (VP
+        (IV3FS+IV تُقُول)
+        (NP-SBJ
+          (-NONE- *T*-3))
+        (NP-OBJ
+          (NOUN كِدَه))))
+    (CONJ وِ)
+    (S
+      (NP-TPC-2
+        (PRON_1S انا))
+      (VP
+        (IV1S+IV اَسِحّ)
+        (NP-SBJ
+          (-NONE- *T*-2))))
+    (S
+      (VP
+        (IV1S+IV اَسِحّ)
+        (NP-SBJ
+          (-NONE- *))))
+    (CONJ وِ)
+    (S
+      (ADVP
+        (ADV بَعْدَين))
+      (VP
+        (IV3FS+IV تِطَبْطَب)
+        (NP-SBJ
+          (-NONE- *))
+        (PP-CLR
+          (X
+            (PREP عَلَى)))))</parse>
+<comment/>
+<arg f="" g="I" n="0">*T*-2  انا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

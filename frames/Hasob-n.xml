@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hasob</id>
+
+<frameset cdef="" edef="to be enough/suffice" id="01" vncls="">
+<role argnum="0" argrole="Entity that suffices (usually God)" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (VP
+        (NOUN.VN+CASE_DEF_NOM حَسبُ)
+        (NP-PRD
+          (POSS_PRON_1P نا))
+        (NP-SBJ
+          (NOUN_PROP اللَّه))))
+    (CONJ وَ)
+    (S
+      (VP
+        (VERB نِعمَ)
+        (NP-SBJ
+          (DET+NOUN الوَكِيل))))))</parse>
+
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="God" n="0">اللَّه</arg>
+<comment/>
+<arg f="" g="from whom" n="2"/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="for whom" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="against whome" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

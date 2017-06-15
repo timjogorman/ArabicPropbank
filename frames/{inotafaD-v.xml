@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotafaD</id>
+
+<frameset cdef="" edef="to rebel against" id="01" vncls="">
+<role argnum="0" argrole="entity rebeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتفض الشعب على الحكومة</parse>
+
+<arg f="" g="the people" n="0">الشعب</arg>
+<arg f="" g="agains the goverment" n="1">على الحكومة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="against whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

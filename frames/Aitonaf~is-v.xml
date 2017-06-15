@@ -1,0 +1,17 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitonaf~is</id>
+<comment>EGYPTIAN ARABIC based on tanaf~as</comment>
+    <frameset cdef="" edef="breathe or respire" id="01">
+<role argnum="0" argrole="breather" />
+<role argnum="1" argrole="air" />
+<frame>
+<example>
+<parse>
+تختلف الحشرات عن الإنسان بأن لا أنف لها تتنفس   *الهواء به
+</parse>
+<arg f="" g="It" n="0">*&lt;الحشرات</arg>
+<arg f="" g="air" n="1">الهواء</arg>
+</example>
+</frame>
+<comment>Based on roleset tanaf~as.01</comment></frameset>
+</verb>

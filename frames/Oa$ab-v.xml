@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oa$ab</id>
+<comment/>
+<frameset cdef="" edef="to mix or blend, to combine" id="01" vncls="">
+<role argnum="0" argrole="mixer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أشب الطالب الأمور في بعضها</parse>
+<comment/>
+<arg f="" g="the student" n="0">الطالب</arg>
+<arg f="" g="the matters or the things" n="1">الأمور</arg>
+<arg f="" g="in each other" n="2">في بعضها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things mixed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what if separated from ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

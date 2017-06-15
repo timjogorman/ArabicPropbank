@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>TAqap</id>
+<comment/>
+<frameset cdef="" edef="to bear, to stand, to tolerate, capacity, capability" id="01" vncls="">
+<role argnum="0" argrole="entity bearing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أصبح اليوم في طاقة الانسان  أن يصل الى كواكب بعيدة</parse>
+<comment/>
+<arg f="" g="the humanbeing" n="0">الانسان</arg>
+<arg f="" g="to reach far planets" n="1">أن يصل الى كواكب بعيدة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="bearing what" vncls="" vntheta=""/>
+</frameset>
+</verb>

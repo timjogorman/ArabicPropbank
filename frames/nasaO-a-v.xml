@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nasaO-a</id>
+<comment/>
+<frameset cdef="" edef="to delay" id="01" vncls="">
+<role argnum="0" argrole="entity delaying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نسأ الله أجله</parse>
+<comment/>
+<arg f="" g="God" n="0">الله</arg>
+<arg f="" g="moment of death" n="1">أجله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things delayed" vncls="" vntheta=""/>
+<role argnum="2" argrole="the beneficiary" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to mix with water" id="02" vncls="">
+<role argnum="0" argrole="mixer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نسأت المرأة اللبن بالماء</parse>
+<comment/>
+<arg f="" g="the woman" n="0">المرأة</arg>
+<arg f="" g="the yogurt" n="1">اللبن</arg>
+<arg f="" g="with water" n="2">بالماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things mixed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

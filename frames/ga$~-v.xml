@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>ga$~</id>
+<comment>EGYPTIAN ARABIC based on ga$~-u</comment>
+    <frameset cdef="" edef="to double-cross, to fool" id="02" vncls="">
+<role argnum="0" argrole="entity fooling" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>غش الرجل صاحبه في السيارة التي باعها له</parse>
+<comment />
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his friend" n="1">صاحبه</arg>
+<arg f="" g="in the car that he sold him" n="2">في السيارة التي باعها له</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset ga$~-u.02</comment>
+<role argnum="1" argrole="entity fooled" vncls="" vntheta="" />
+<role argnum="2" argrole="in what" vncls="" vntheta="" />
+</frameset>
+</verb>

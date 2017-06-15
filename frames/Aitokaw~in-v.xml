@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitokaw~in</id>
+<comment>EGYPTIAN ARABIC based on takaw~an</comment>
+    <frameset cdef="" edef="To consist or be made up" id="01">
+<role argnum="1" argrole="whole" />
+<role argnum="2" argrole="parts or components" />
+<frame>
+<example>
+<parse>
+(S
+  (S
+    (CONJ و)
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يتكون)
+      (NP-SBJ
+        (DET+NOUN+CASE_DEF_NOM الكيان)
+        (DET+ADJ+CASE_DEF_NOM الجديد))
+      (PP-CLR
+        (PREP من)
+        (NP
+          (NP
+            (NP
+              (NOUN+NSUFF_FEM_DU_GEN دولتين))
+            (NP
+              (NOUN+CASE_DEF_GEN شبه)
+              (NP
+                (NOUN+NSUFF_FEM_DU_GEN مستقلتين))))
+</parse>
+<arg f="" g="The new entity" n="1">الكيان الجديد</arg>
+<arg f="" g="from two semi-independent countries" n="2">من دولتين شبه مستقلتين</arg>
+</example>
+</frame>
+<comment>Based on roleset takaw~an.01</comment></frameset>
+</verb>

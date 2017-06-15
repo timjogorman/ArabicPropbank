@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tagAyar</id>
+<comment/>
+<frameset cdef="" edef="to be different" id="01" vncls="">
+<role argnum="1" argrole="things that are different" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تغايرت اثاث المنزل عن سابقتها في اللون</parse>
+<comment/>
+<arg f="" g="the house furniture" n="1">اثاث المنزل</arg>
+<arg f="" g="from the one before" n="3">عن سابقتها</arg>
+<arg f="" g="in color" n="2">في اللون</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="Manner, Ext,how different" vncls="" vntheta=""/>
+<role argnum="3" argrole="from what - if separate" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be jealous" id="02" vncls="">
+<role argnum="0" argrole="entity jelous" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تغايرت النساء من بعض</parse>
+<comment/>
+<arg f="" g="the women" n="0">النساء</arg>
+<arg f="" g="from each other" n="1">من بعض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,78 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faS~al</id>
+
+<frameset cdef="" edef="to make clear, to detail or elaborate" id="01" vncls="$araHa-1">
+<role argnum="0" argrole="entity clearing" vncls="$araHa-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فصل الرجل الموضوع لأخيه</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the subject" n="1">الموضوع</arg>
+<arg f="" g="to his brother" n="2">لأخيه</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things cleared" vncls="$araHa-1" vntheta="topic"/>
+<role argnum="2" argrole="to whom" vncls="$araHa-1" vntheta="recipient"/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to divide into sections" id="02" vncls="">
+<role argnum="0" argrole="entity dividing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فصل الرجل الكتاب</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the book" n="1">الكتاب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things divided" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to cut out, to make to measure" id="03" vncls="">
+<role argnum="0" argrole="entity cutting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>فصل الخياط القماش</parse>
+
+<arg f="" g="the tailor" n="0">الخياط</arg>
+<arg f="" g="the fabric" n="1">القماش</arg>
+<comment/>
+</example>
+
+<example>
+<parse>فصل *  ثوب وخذ سروال ببلاش</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="dress" n="1">ثوب</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things getting cut" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

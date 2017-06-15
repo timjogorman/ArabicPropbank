@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>na$af-u</id>
+<comment/>
+<frameset cdef="" edef="to become dry, to be out of" id="01" vncls="">
+<role argnum="1" argrole="entity becoming dry" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نشفت الملابس بسبب الحر</parse>
+<comment/>
+<arg f="" g="the clothes" n="1">الملابس</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

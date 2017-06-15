@@ -1,0 +1,127 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>ma$aY</id>
+
+    
+
+<frameset cdef="" edef="to walk" id="04" vncls="">
+<role argnum="0" argrole="walker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>يقتل القتيل و يمشي * في جنازته</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="in his funeral" n="1">في جنازته</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="path" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to leave" id="05" vncls="">
+<role argnum="0" argrole="entity leaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>طلبوا من الرجل انه يمشي * من  البيت</parse>
+
+<arg f="" g="the man" n="">* الرجل</arg>
+<arg f="" g="from the house" n="">من  البيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to go, be in motion" id="06" vncls="">
+<role argnum="0" argrole="entity in motion" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>من جهته قال وليد علي: "امشي * بسيارتي مسافة 300 كيلومتر في اليوم و اجمع * نحو 40 الف ليرة.</parse>
+
+<arg f="" g="Wakid Ali" n="0">وليد علي</arg>
+<arg f="" g="with my car" n="m">بسيارتي</arg>
+<arg f="" g="the distance of 300 km" n="1">مسافة 300 كيلومتر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="extent" vncls="" vntheta=""/>
+<role argnum="2" argrole="start point" vncls="" vntheta=""/>
+<role argnum="3" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to rule over, to be obeyed" id="07" vncls="">
+<role argnum="1" argrole="things to be obeyed" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-TPC-1
+        (NOUN+NSUFF_FEM_SG سِيادَة)
+        (NP
+          (NOUN قانُون)
+          (NP
+            (NOUN_PROP مَصْر))))
+      (VP
+        (IV3MS+IV يِمْشِي)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-ADV
+          (NOUN فُوق)
+          (NP
+            (DET+NOUN الكُلّ)))))
+    (CONJ وِ)
+    (S
+      (ADJP-PRD
+        (ADJ_NUM أَوَّل)
+        (NP
+          (POSS_PRON_3P هُم)))
+      (NP-SBJ
+        (DET+ADJ الأَمْرِيكان)))
+    (PUNC .)
+    (PUNC .)))</parse>
+
+<arg f="" g="Authority of the Egyption law" n="1">*T*-1 سِيادَة قانُون مَصْر</arg>
+<arg f="" g="above all" n="2">فُوق الكُلّ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="by whom" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on ma$~aY</comment>
+</verb>

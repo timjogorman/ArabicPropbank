@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>lajab</id>
+<comment/>
+<frameset cdef="" edef="to roar, to make a sound" id="01" vncls="">
+<role argnum="0" argrole="entity roaring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لجب الأسد</parse>
+<comment/>
+<arg f="" g="the lion" n="0">الأسد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

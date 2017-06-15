@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitohar~ab</id>
+<comment/>
+<frameset cdef="" edef="evade" id="01" vncls="">
+<role argnum="0" argrole="the evader" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الراجل بيتهرب * من زوجته عشان مش عاوز يشوف وشها</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="from his wife" n="1">من زوجته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to smuggle" id="02" vncls="">
+<role argnum="0" argrole="smuggler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الاموال اللي اتهربت * من البنك</parse>
+<comment/>
+<arg f="" g="the money" n="1">* الاموال</arg>
+<arg f="" g="from the bank" n="2">من البنك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="contraband" vncls="" vntheta=""/>
+<role argnum="2" argrole="stolen from" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+</verb>

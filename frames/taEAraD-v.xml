@@ -1,24 +1,32 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>taEAraD</id>
-    <comment/>
-    <frameset cdef="" edef="to oppose" id="01">
-        <role argnum="0" argrole="the opposer"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>وأعرب عن قلقه من أن يقود اتخاذ الفلسطينيين لهذه الخطوة الدبلوماسية، التي تعارضها الولايات المتحدة وإسرائيل، إلى فرض عقوبات مالية، وحث الدول العربية على سد أي فجوة تحدث.
-                    
-                    Arg 1: ها
-                    Arg 2: الولايات المتحدة وإسرائيل
-                </parse>
-                <comment/>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="entity being opposed"/>
-    </frameset>
+<id>taEAraD</id>
+
+<frameset cdef="" edef="to oppose / be in conflict or dispute" id="01" vncls="">
+<role argnum="0" argrole="thing conflicting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>دعوة الجميع لدولة مدنية لا تتعارض * مع الشريعة</parse>
+
+
+<arg f="" g="inviting everyone to a civil state" n="0">دعوة الجميع لدولة مدنية</arg>
+<arg f="" g="with shariah" n="1">مع الشريعة</arg>
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity in conflict with - usually marked by مع" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

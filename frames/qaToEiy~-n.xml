@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qaToEiy~</id>
+<comment/>
+<frameset cdef="" edef="dogmatic, final, definite" id="01" vncls="">
+<role argnum="1" argrole="things that are sure" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ممنوع الانتظار قطعيا * أمام المدرسة</parse>
+<comment/>
+<arg f="" g="no waiting" n="1">* ممنوع الانتظار</arg>
+<arg f="loc" g="in front of the school" n="m">أمام المدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

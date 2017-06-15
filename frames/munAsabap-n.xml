@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>munAsabap</id>
+<comment/>
+<frameset cdef="" edef="appropriate / suitable / convenient" id="01" vncls="">
+<role argnum="1" argrole="appropriate / suitable / convenient things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هل تعتقد مناسبة هذه الملابس للحفلة</parse>
+<comment/>
+<arg f="" g="these clothes" n="1">هذه الملابس</arg>
+<arg f="" g="to the party" n="2">للحفلة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="occasion, opportunity" id="02" vncls="">
+<role argnum="1" argrole="things concidered an opportunity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا اليوم هو مناسبة * عيد الجيش</parse>
+<comment/>
+<arg f="" g="this day" n="1">* هذا اليوم</arg>
+<arg f="" g="the Army day" n="2">عيد الجيش</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="family relashionship, to become part of the family" id="03" vncls="">
+<role argnum="0" argrole="first party" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مناسبة الرجل للعائلة من خلال ابنتهم</parse>
+<comment/>
+<arg f="" g="the manaughter" n="0">الرجل</arg>
+<arg f="" g="to the family" n="1">للعائلة</arg>
+<arg f="" g="through thier d" n="2">من خلال ابنتهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="second party" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

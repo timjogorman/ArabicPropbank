@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitonaTaq</id>
+<comment/>
+<frameset cdef="" edef="To utter" id="01" vncls="">
+<role argnum="0" argrole="speaker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الكلمات دية اتنطقت  * قدامي من الراجل</parse>
+<comment/>
+<arg f="" g="those words" n="1">* الكلمات دية</arg>
+<arg f="loc" g="in front of me" n="m">قدامي</arg>
+<arg f="" g="from the man" n="0">من الراجل</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+<role argnum="1" argrole="utterance" vncls="" vntheta=""/>
+</frameset>
+</verb>

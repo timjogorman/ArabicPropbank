@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>misam~iy</id>
+<frameset cdef="" edef="to nominate" id="01">
+<role argnum="0" argrole="assigner of name/value, agent" />
+<role argnum="1" argrole="entity named" />
+<role argnum="2" argrole="name" />
+<frame>
+<example>
+<parse>(CONJ و)
+              (S
+                (VP
+                  (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ يسمو)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (NP-OBJ-4
+                    (IVSUFF_DO:3MS ه))
+                  (S
+                    (NP-SBJ
+                      (-NONE- *-4))
+                    (NP-PRD
+                      (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC ديانة)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN السلام))))))))))</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="it" n="1">ه</arg>
+<arg f="" g="the religion of Islam" n="2">ديانة السلام</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset sam~aY.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on sam~aY</comment>
+</verb>

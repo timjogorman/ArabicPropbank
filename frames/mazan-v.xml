@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mazan</id>
+<comment/>
+<frameset cdef="" edef="to escape or flee" id="01" vncls="">
+<role argnum="0" argrole="entity escaping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مزن الجندي من عدوه</parse>
+<comment/>
+<arg f="" g="the soldier" n="0">الجندي</arg>
+<arg f="" g="from his enemy" n="1">من عدوه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what - usually marked by من:" vncls="" vntheta=""/>
+<role argnum="2" argrole="to where - usually marked by الى" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to praise or commend" id="02" vncls="">
+<role argnum="0" argrole="entity praising" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مزن الرجل أبنه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his son" n="1">أبنه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity praised" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

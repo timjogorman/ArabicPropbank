@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitorafad</id>
+<comment/>
+<frameset cdef="" edef="to be dismissed" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أخويا اترفد * من شغله امبارح</parse>
+<comment/>
+<arg f="" g="my brother" n="1">* أخويا</arg>
+<arg f="" g="from his work" n="2">من شغله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+</frameset>
+</verb>

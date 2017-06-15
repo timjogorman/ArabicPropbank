@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>manosuwb</id>
+<comment/>
+<frameset cdef="" edef="attributed to, related to" id="01" vncls="">
+<role argnum="0" argrole="attributor" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه القصة منسوبة * الى العرب</parse>
+<comment/>
+<arg f="" g="this story" n="1">هذه القصة</arg>
+<arg f="" g="to the arab" n="2">الى العرب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing attributed, attribute" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to / benefective" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inosalaE</id>
+
+<frameset cdef="" edef="to cleave, to crackle  (تشقق)" id="01" vncls="">
+<role argnum="1" argrole="entity  crackling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انسلع جلدي في الشاطئ</parse>
+
+<arg f="" g="my skin" n="1">جلدي</arg>
+<arg f="loc" g="in the beach" n="m">في الشاطئ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

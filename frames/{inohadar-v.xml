@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inohadar</id>
+
+<frameset cdef="" edef="to be spent uselessly, to be wasted" id="01" vncls="">
+<role argnum="0" argrole="entity spending" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انهدر الماء بكثرة</parse>
+
+<arg f="" g="water" n="1">الماء</arg>
+<arg f="" g="extremely" n="2">بكثرة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things spent" vncls="" vntheta=""/>
+<role argnum="2" argrole="manner or how, for what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

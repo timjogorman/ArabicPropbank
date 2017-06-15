@@ -1,22 +1,28 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>hAt</id>
-    <comment/>
-    <frameset cdef="" edef="give me, bring me, say" id="01">
-        <role argnum="1" argrole="entity giving"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>هات يا رجل ما عندك</parse>
-                <comment/>
-                <arg f="" g="oh man" n="1">يا رجل</arg>
-                <arg f="" g="what you have" n="2">ما عندك</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="2" argrole="what"/>
-    </frameset>
+<id>hAt</id>
+
+<frameset cdef="" edef="give me, bring me, say" id="01" vncls="">
+<role argnum="1" argrole="entity giving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هات يا رجل ما عندك</parse>
+
+<arg f="" g="oh man" n="1">يا رجل</arg>
+<arg f="" g="what you have" n="2">ما عندك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="what" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+<comment/>
 </verb>

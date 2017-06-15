@@ -1,0 +1,138 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Oaxolaf</id>
+
+<frameset cdef="" edef="to compensate, to recompense" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-VOC
+        (NOUN اللّٰهُمَّ))
+      (VP
+        (CV+CVSUFF_SUBJ:2MS اِرْحَم)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NP
+            (NOUN شَباب)
+            (NP
+              (POSS_PRON_1P نا)))
+          (ADJP
+            (DET+ADJ الأَطْهار)))))
+    (CONJ وِ)
+    (S
+      (VP
+        (CV+CVSUFF_SUBJ:2MS اَجَّر)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN اهلِي)
+          (NP
+            (POSS_PRON_3P هُم)))
+        (PP
+          (PREP فِي)
+          (NP
+            (NOUN+NSUFF_FEM_SG مُصِيبَت)
+            (NP
+              (POSS_PRON_3P هِم))))))
+    (CONJ وَ)
+    (S
+      (VP
+        (CV+CVSUFF_SUBJ:2MS أَخْلِف)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-DTV
+          (CVSUFF_DO:3P هُم))
+        (NP-OBJ
+          (NP
+            (NOUN خِيرا))
+          (PP
+            (PREP مِن)
+            (NP
+              (PRON_3FS ها))))))))</parse>
+
+<arg f="" g="God" n="0">* اللّٰهُمَّ</arg>
+<arg f="" g="them" n="1">هُم</arg>
+<arg f="" g="better than it" n="2">خِيرا مِنها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="reciever" vncls="" vntheta=""/>
+<role argnum="2" argrole="things given" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to renege,  to brake one's promise" id="02" vncls="">
+<role argnum="0" argrole="entity braking promise" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>أخلف الرجل وعده</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his promise" n="1">وعده</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="broken ( mostly promise)" vncls="" vntheta=""/>
+<role argnum="2" argrole="with whome" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to disappoint (the hopes)" id="03" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (NP-ADV
+        (NOUN+CASE_INDEF_ACC عُمُوماً))
+      (NP-TPC-1
+        (NOUN رَبّ)
+        (NP
+          (POSS_PRON_1P نا)))
+      (VP
+        (IV3MS+IV يِخْلِف)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (NOUN ظَنّ)
+          (NP
+            (POSS_PRON_1S ِي)))))
+    (PUNC .)
+    (PUNC .)
+    (PUNC .)</parse>
+
+<arg f="" g="our God" n="0">* ربنا</arg>
+<arg f="" g="my hope" n="1">ظني</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things put down" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

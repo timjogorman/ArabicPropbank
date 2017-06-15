@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>gaw~ar</id>
+<comment/>
+<frameset cdef="" edef="to push something deep in" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:1S غَوَّرت)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (PVSUFF_DO:3MS ُه))
+      (PP
+        (PREP فِي)
+        (NP
+          (NOUN_NUM سِتِّين)
+          (NP
+            (NOUN+NSUFF_FEM_SG داهْيَة)))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="him" n="1">ه</arg>
+<arg f="" g="in a big disaster" n="2">في ستين داهية</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="pushed where" vncls="" vntheta=""/>
+</frameset>
+</verb>

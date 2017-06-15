@@ -1,0 +1,74 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinotiqAm</id>
+<comment/>
+<frameset cdef="" edef="avenging , taking revenge for a perceived wrong" id="01" vncls="">
+<role argnum="0" argrole="avenger agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS قام)
+      (NP-SBJ
+        (NP
+          (DET+NOUN الطَبّاخ)
+          (DET+ADJ الأَفْغانِي)
+          (DET+ADJ المُتَحَمِّس))
+        (SBAR
+          (WHNP-1
+            (REL_PRON الَّذِي))
+          (S
+            (VP
+              (IV3MS+IV يَعْمَل)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-LOC
+                (NOUN داخِل)
+                (NP
+                  (NP
+                    (NOUN+NSUFF_FEM_SG قاعْدَة)
+                    (NP
+                      (DET+ADJ+NSUFF_MASC_PL الأَمْرِيكِيِّين)))
+                  (ADJP
+                    (DET+ADJ+NSUFF_FEM_SG العَسْكَرِيَّة))))))))
+      (PP-CLR
+        (PREP بِ)
+        (NP
+          (NP
+            (NP
+              (DEM_PRON_MS هَذا))
+            (NP
+              (DET+NOUN العَمَل)))
+          (ADJP
+            (DET+ADJ الجَرِيء))))
+      (S-ADV
+        (VP
+          (NOUN.VN+CASE_INDEF_ACC إِنْتِقاماً)
+          (NP-SBJ
+            (-NONE- *))
+          (PP-CLR
+            (PREP لِ)
+            (NP
+              (NOUN+NSUFF_FEM_SG جَرِيمَة)
+              (NP
+                (NP
+                  (NP
+                    (NOUN إِحْراق)
+                    (NP
+                      (DET+NOUN المُصْحَف)
+                      (DET+ADJ الشَرِيف)))</parse>
+<comment/>
+<arg f="" g="Afghan cook" n="0">* الطباخ الافغاني</arg>
+<arg f="" g="for the crime of burnng the Kuran" n="1">لجريمة احراق المصحف الشريف</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="a perceived wrong" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

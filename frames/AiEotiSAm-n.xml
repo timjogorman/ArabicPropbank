@@ -1,0 +1,106 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AiEotiSAm</id>
+
+    <frameset cdef="" edef="to sit-in in order to protest" id="01" vncls="">
+<role argnum="0" argrole="entity doing the sit-in , agent" vncls="" vntheta="" />
+<role argnum="1" argrole="location" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3MS وعد)
+    (NP-SBJ
+      (NP
+        (NOUN+CASE_DEF_NOM وزير)
+        (NP
+          (NP
+            (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN التربية))
+          (CONJ و)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN التعليم)
+            (DET+ADJ العالي))))
+      (NP
+        (NOUN_PROP عبدالرحيم)
+        (NOUN_PROP مراد)))
+    (NP-OBJ
+      (NP
+        (NP
+          (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC الاساتذة))
+        (ADJP
+          (DET+ADJ+NSUFF_MASC_PL_ACC المتعاقدين)
+          (NP-ADV
+            (NOUN+CASE_DEF_ACC مع)
+            (NP
+              (NOUN+NSUFF_FEM_PL+CASE_DEF_ACC كليات)
+              (NP
+                (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الجامعة)
+                (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN اللبنانية))))))
+      (CONJ و)
+      (NP
+        (NP
+          (NOUN+CASE_DEF_GEN طلاب)
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN كلية)
+            (NP
+              (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الصحة))))
+        (SBAR
+          (WHNP-1
+            (REL_PRON الذين))
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3MP اعتصموا)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-LOC
+                (NOUN+CASE_DEF_ACC امام)
+                (NP
+                  (NOUN مبنى)
+                  (NP
+                    (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN الوزارة)))))))))
+    (PP-CLR
+      (PREP ب)
+      (NP
+        (NP
+          (NOUN+CASE_DEF_GEN عرض)
+          (NP
+            (NOUN+CASE_DEF_GEN مطالب)
+            (NP
+              (POSS_PRON_3MP هم))))
+        (PP
+          (PREP في)
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN جلسة)
+            (NP
+              (NOUN+CASE_DEF_GEN مجلس)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الوزراء))))))))
+  (PUNC .))</parse>
+<arg f="" g="-NONE-  &lt; the medical school students" n="0">*T*-1 &lt;طلاب كلية الصحة</arg>
+<arg f="" g="in front of the department building" n="1">امام مبنى الوزارة</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {iEotaSam.01
+Based on roleset AiEotaSam-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on AiEotaSam-v</comment>
+<frameset cdef="" edef="take refuge in , seek protection in" id="02" vncls="">
+<role argnum="0" argrole="holder , agent" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>إعتصم * بحبل الله</parse>
+<comment />
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="with the path of God" n="1">بحبل الله</arg>
+</example>
+<comment />
+</frame>
+<comment>ARZ
+Based on roleset AiEotaSam-v.02</comment>
+<role argnum="1" argrole="thing held" vncls="" vntheta="" />
+</frameset>
+</verb>

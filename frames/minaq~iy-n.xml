@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>minaq~iy</id>
+<comment/>
+<frameset cdef="" edef="to select or pick" id="01" vncls="">
+<role argnum="0" argrole="agentd" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا منقي * الكتاب ده من كتب أبويا</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="this book" n="1">الكتاب ده</arg>
+<arg f="" g="from my fathers books" n="2">من كتب أبويا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things selecte" vncls="" vntheta=""/>
+<role argnum="2" argrole="source, from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,119 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xar~-i</id>
+
+<frameset cdef="" edef="to murmur, to snore" id="01" vncls="">
+<role argnum="0" argrole="entity snoring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خر النائم</parse>
+
+<arg f="" g="the sleeper" n="0">النائم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to fall down, to throw oneself" id="02" vncls="">
+<role argnum="0" argrole="entity falling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خر المقاتل عند قدمي الملك</parse>
+
+<arg f="" g="the warrior" n="0">المقاتل</arg>
+<arg f="" g="at the kings feet" n="2">عند قدمي الملك</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="start point" vncls="" vntheta=""/>
+<role argnum="2" argrole="end point" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to prostrate oneself" id="03" vncls="">
+<role argnum="0" argrole="entity kneeling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خر الرجل ساجدا</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="mnr" g="worshiping" n="m">ساجدا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>خر ساجدا‏</comment>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to leak" id="04" vncls="">
+<role argnum="1" argrole="entity leaking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (CONJ وِ)
+      (PP
+        (PREP بِ)
+        (NP
+          (DET+ADJ التالِي)))
+      (VP
+        (IV3MS+IV يِزْداد)
+        (NP-SBJ
+          (NOUN عَدَد)
+          (NP
+            (DET+NOUN اليَهُود)))))
+    (CONJ وِ)
+    (S
+      (NP-SBJ
+        (DEM_PRON دِي))
+      (NP-PRD
+        (NP
+          (NOUN+NSUFF_FEM_SG خِطَّة)
+          (ADJ+NSUFF_FEM_SG يَهُودِيَّة))
+        (SBAR
+          (WHNP-1
+            (-NONE- 0))
+          (S
+            (VP
+              (PRT
+                (NEG_PART ما))
+              (IV3FS+IV تِخُرّ)
+              (PRT
+                (NEG_PART ش))
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (DET+NOUN+NSUFF_FEM_SG المَيَّة)))))))))</parse>
+<comment/>
+<arg f="" g="Jewish plan" n="1">* خِطَّة يَهُودِيَّة</arg>
+<arg f="" g="the water" n="2">المَيَّة</arg>
+</example>
+<comment>ARZ</comment>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="things leaked, liquid" vncls="" vntheta=""/>
+</frameset>
+</verb>

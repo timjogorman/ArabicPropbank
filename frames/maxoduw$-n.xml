@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maxoduw$</id>
+<comment/>
+<frameset cdef="" edef="scratched, scarified" id="01" vncls="">
+<role argnum="0" argrole="cutter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان وجهه مخدوشا * من أثر الأشواك</parse>
+<comment/>
+<arg f="" g="his face" n="1">* وجهه</arg>
+<arg f="" g="because of the thornes" n="2">من أثر الأشواك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing cut" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument (marked by بـ)" vncls="" vntheta=""/>
+</frameset>
+</verb>

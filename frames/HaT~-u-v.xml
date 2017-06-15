@@ -1,31 +1,68 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>HaT~-u</id>
-    <frameset cdef="" edef="to land" id="01">
-        <role argnum="0" argrole="the entity landing"/>
-        <role argnum="1" argrole="place of landing"/>
-        <frame>
-            <example>
-                <parse>
-                    (SBAR
-                    (WHNP-4
-                    (-NONE- 0)
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS حطت)
-                    (NP-SBJ
-                    (-NONE- *T*-4)
-                    (NP-TMP
-                    (NOUN+CASE_INDEF_ACC لاحقاً)
-                    (PP-LOC
-                    (PREP في)
-                    (NP
-                    (NOUN_PROP لندن)
-                </parse>
-                <arg f="" g="" n="0">-NONE- *T*-4</arg>
-                <arg f="tmp" g="later" n="m">لاحقا</arg>
-                <arg f="" g="in London" n="1">في لندن</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>HaT~-u</id>
+<frameset cdef="" edef="to land" id="01" vncls="">
+<role argnum="0" argrole="the entity landing" vncls="" vntheta=""/>
+<role argnum="1" argrole="place of landing" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(SBAR
+                                            (WHNP-4
+                                              (-NONE- 0)
+                                            (S
+                                              (VP
+                                                (PV+PVSUFF_SUBJ:3FS حطت)
+                                                (NP-SBJ
+                                                  (-NONE- *T*-4)
+                                                (NP-TMP
+                                                  (NOUN+CASE_INDEF_ACC لاحقاً)
+                                                (PP-LOC
+                                                  (PREP في)
+                                                  (NP
+                                                    (NOUN_PROP لندن)</parse>
+<arg f="" g="" n="0">-NONE- *T*-4</arg>
+<arg f="tmp" g="later" n="m">لاحقا</arg>
+<arg f="" g="in London" n="1">في لندن</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to put, to make or plan" id="02" vncls="">
+<role argnum="0" argrole="entity putting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>الواد جمب البنت زي لما تحط * البنزين جمب النار</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="gasoline" n="1">البنزين</arg>
+<arg f="" g="beside the fire" n="2">جمب النار</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things put" vncls="" vntheta=""/>
+<role argnum="2" argrole="where, or in what, about what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

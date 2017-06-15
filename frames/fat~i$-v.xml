@@ -1,0 +1,107 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fat~i$</id>
+
+    <frameset cdef="" edef="to look for, to search" id="01" vncls="">
+<role argnum="0" argrole="entity searching" vncls="" vntheta=""/>
+<role argnum="1" argrole="entity looked for" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (NP-ADV
+    (NOUN+CASE_DEF_ACC تحت)
+    (NP
+      (NOUN+CASE_DEF_GEN عنوان)
+      (NP
+        (PUNC &quot;)
+        (ADJP
+          (ADJ+CASE_DEF_NOM قديم)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الزمان)))
+        (PUNC &quot;))))
+  (VP
+    (IV3MS+IV+IVSUFF_MOOD:I يعود)
+    (NP-SBJ
+      (NP
+        (NOUN+CASE_DEF_NOM واضع)
+        (NP
+          (DET+NOUN+CASE_DEF_GEN الكتاب)))
+      (NP
+        (NOUN_PROP ادغار)
+        (NOUN_PROP جلاد)))
+    (PP
+      (PREP الى)
+      (NP
+        (NOUN_PROP مريم)))
+    (NP-TMP
+      (NOUN+CASE_DEF_ACC عند)
+      (SBAR
+        (SUB_CONJ ما)
+        (S
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3FS وضعت)
+              (NP-SBJ
+                (-NONE- *))
+              (NP-OBJ
+                (NP
+                  (NOUN+CASE_DEF_ACC طفل)
+                  (NP
+                    (POSS_PRON_3FS ها)))
+                (NP
+                  (NOUN_PROP يسوع)))))
+          (CONJ و)
+          (S
+            (VP
+              (PV+PVSUFF_SUBJ:3FS كانت)
+              (VP
+                (IV3FS+IV+IVSUFF_MOOD:I تفتش)
+                (NP-SBJ
+                  (-NONE- *))
+                (PP-CLR
+                  (PREP عن)
+                  (NP
+                    (NP
+                      (NOUN+CASE_DEF_GEN مكان)
+                      (NP
+                        (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN اقامة)))
+                    (CONJ او)
+                    (NP
+                      (NOUN+CASE_INDEF_GEN خان)))))))))))
+  (PUNC .))</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="a place to stay or an inn" n="1">عن مكان إقامة أو خان</arg>
+
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+<comment>Based on roleset fat~a$.01</comment>
+</frameset>
+
+
+<comment>EGYPTIAN ARABIC based on fat~a$</comment>
+<frameset cdef="" edef="to check or search (فتش الشيء)" id="02" vncls="">
+<role argnum="0" argrole="entity checking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الجيش كان بيفتش * كل عربية تمر من هناك</parse>
+<comment/>
+<arg f="" g="the Army" n="0">* الجيش</arg>
+<arg f="" g="every car that pass by there" n="1">كل عربية تمر من هناك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity checked" vncls="" vntheta=""/>
+</frameset>
+</verb>

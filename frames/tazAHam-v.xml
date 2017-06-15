@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tazAHam</id>
+<comment/>
+<frameset cdef="" edef="to crowd or press together, to compete" id="01" vncls="">
+<role argnum="0" argrole="entity crowding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (CONJ وِ)
+      (PP
+        (PREP بِ)
+        (NP
+          (DET+NOUN الفِعْل)))
+      (VP
+        (PV+PVSUFF_SUBJ:3P تْزاحْمُوا)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP عَلَى)
+          (NP
+            (PRON_3FS ها)))))
+    (S
+      (NP-TPC-1
+        (NP
+          (NOUN_QUANT كُلّ))
+        (PP
+          (PREP مِن)
+          (NP
+            (PRON_3P هُم))))
+      (VP
+        (IV3MS+IV يُرِيد)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (SBAR
+          (SUB_CONJ أَنْ)
+          (S
+            (VP
+              (IV3MS+IV يِكُون)
+              (PP-PRD
+                (PREP ل)
+                (NP
+                  (PRON_3MS ُه)))
+              (NP-SBJ
+                (NP
+                  (DET+NOUN السَبَق))
+                (PP
+                  (PREP فِي)
+                  (NP
+                    (DEM_PRON_MS ذٰلِكَ)))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="on it or on her" n="1">عليها</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="where or around what" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

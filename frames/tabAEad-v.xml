@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tabAEad</id>
+<comment/>
+<frameset cdef="" edef="to be separate, to part, to keep away, to quit, to keep away" id="01">
+<role argnum="0" argrole="entity staying away"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تباعد أحدهما عن الأخر</parse>
+<comment/>
+<arg f="" g="one of them" n="0">أحدهما</arg>
+<arg f="" g="from the other one" n="1">عن الأخر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what (Usually comes after عن  )"/>
+</frameset>
+</verb>

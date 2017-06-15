@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>qamar</id>
+<comment/>
+<frameset cdef="" edef="good-looking like the moon" id="01" vncls="">
+<role argnum="1" argrole="entity good looking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنت قمر *  في كل حاجة</parse>
+<comment/>
+<arg f="" g="you" n="1">* أنت</arg>
+<arg f="" g="in every thing" n="2">في كل حاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

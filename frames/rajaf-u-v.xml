@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rajaf-u</id>
+
+<frameset cdef="" edef="to tremble or shake or shiver" id="01" vncls="">
+<role argnum="1" argrole="thing trembling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رجف الطفل من البرد</parse>
+
+<arg f="" g="the baby" n="1">الطفل</arg>
+<arg f="cau" g="because of the cold" n="m">من البرد</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to get ready for war" id="02" vncls="">
+<role argnum="0" argrole="entity getting ready" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>رجف القوم للحرب</parse>
+
+<arg f="" g="the people" n="0">القوم</arg>
+<arg f="" g="for the war" n="1">للحرب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="for what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>haSar-i</id>
+<comment/>
+<frameset cdef="" edef="to break or crack, to wrench" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هصر الرجل الغصن بيده</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the branch" n="1">الغصن</arg>
+<arg f="" g="with his hand" n="2">بيده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things broken" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

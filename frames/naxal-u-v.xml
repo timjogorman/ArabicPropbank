@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>naxal-u</id>
+<comment/>
+<frameset cdef="" edef="to sift or bolt, to sieve out" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نخلت البنت الدقيق بالغربال</parse>
+<comment/>
+<arg f="" g="the girl" n="0">البنت</arg>
+<arg f="" g="the flour" n="1">الدقيق</arg>
+<arg f="" g="with the sieve" n="2">بالغربال</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things sifted" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+<role argnum="3" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to pour" id="02" vncls="">
+<role argnum="0" argrole="entity pouring" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>نخل السحاب  المطر</parse>
+<comment/>
+<arg f="" g="the clouds" n="0">السحاب</arg>
+<arg f="" g="the rain" n="1">المطر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things poured" vncls="" vntheta=""/>
+</frameset>
+</verb>

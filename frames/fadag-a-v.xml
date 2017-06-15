@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fadag-a</id>
+<comment/>
+<frameset cdef="" edef="to break or smash, to fracture" id="01" vncls="">
+<role argnum="0" argrole="entity breaking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>فدغ الطفل رأس صاحبه بحجر</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="his friends head" n="1">رأس صاحبه</arg>
+<arg f="" g="with a stone" n="2">بحجر</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things broken" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

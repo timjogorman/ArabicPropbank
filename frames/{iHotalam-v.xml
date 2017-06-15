@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{iHotalam</id>
+<comment/>
+<frameset cdef="" edef="to have a wet dream, to reach sexual maturity" id="01">
+<role argnum="0" argrole="entity having the wet dream"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قد يحتلم الانسان لافكار راها في النهار</parse>
+<comment/>
+<arg f="" g="the person" n="0">الانسان</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to dream" id="02">
+<role argnum="0" argrole="entity dreaming"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>احتلم الرجل عن سفره قبل حدوثه باسبوع</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="about his traveling" n="1">عن سفره</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="subject"/>
+</frameset>
+</verb>

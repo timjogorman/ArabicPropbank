@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Euhodap</id>
+<comment/>
+<frameset cdef="" edef="responsibility, care" id="01" vncls="">
+<role argnum="1" argrole="thing in responsibility" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه الأشياء هي عهدة * في عنقك</parse>
+<comment/>
+<arg f="" g="these things" n="1">* هذه الأشياء</arg>
+<arg f="" g="your responsibility" n="2">في عنقك</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="of whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

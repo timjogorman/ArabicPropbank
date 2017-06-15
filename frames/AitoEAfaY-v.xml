@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AitoEAfaY</id>
+<comment>EGYPTIAN ARABIC based on taEAfaY</comment>
+    <frameset cdef="" edef="To recover" id="01" vncls="">
+<role argnum="1" argrole="that which was sick now getting better" vncls="" vntheta="" />
+<role argnum="2" argrole="sickness" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S-HLN
+  (S
+    (NP-TPC-1
+      (DET+NOUN+CASE_DEF_NOM الرئيس)
+      (DET+ADJ+CASE_DEF_NOM الأميركي))
+    (VP
+      (PV+PVSUFF_SUBJ:3MS تعافى)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (PP-MNR
+        (PREP ب)
+        (NP
+          (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN سرعة)))))
+  (CONJ و)
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS بدأ)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC جولة)
+        (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC داخلية)))))</parse>
+<arg f="" g="He" n="1">-NONE- *T*-1&lt;الرئيس الأميركي</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset taEAfaY.01</comment>
+</frameset>
+</verb>

@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rahib</id>
+<comment/>
+<frameset cdef="" edef="to fear,to dread" id="01" vncls="">
+<role argnum="0" argrole="entity afraid" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رهب الولد المعلم</parse>
+<comment/>
+<arg f="" g="the boy" n="0">الولد</arg>
+<arg f="" g="the teacher" n="1">المعلم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="afraid of what?" vncls="" vntheta=""/>
+</frameset>
+</verb>

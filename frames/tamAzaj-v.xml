@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tamAzaj</id>
+<comment/>
+<frameset cdef="" edef="to intermix or blend" id="01">
+<role argnum="1" argrole="entity blending"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وفي هذا الاحتفال تمازج الفن بالسياسة</parse>
+<comment/>
+<arg f="" g="the art" n="1">الفن</arg>
+<arg f="" g="with politics" n="2">بالسياسة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with what"/>
+</frameset>
+</verb>

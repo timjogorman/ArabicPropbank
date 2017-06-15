@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miHAfiZ</id>
+<comment/>
+<frameset cdef="" edef="conservative" id="01" vncls="">
+<role argnum="0" argrole="the protector" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو محافظ * على بيته من الوساخة</parse>
+<comment/>
+<arg f="" g="he" n="0">* هو</arg>
+<arg f="" g="his house" n="1">على بيته</arg>
+<arg f="" g="from the dirt" n="2">من الوساخة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing protected" vncls="" vntheta=""/>
+<role argnum="2" argrole="from what or from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

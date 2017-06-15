@@ -1,0 +1,257 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Sadaq</id>
+<comment>EGYPTIAN ARABIC based on Sad~aq and Sadaq-u</comment>
+<frameset cdef="" edef="to be confirmed or actualize" id="01">
+<role argnum="1" argrole="thing being confirmed or actualized"/>
+<frame>
+<example>
+<parse>اذا صدقت التوقعات , فان النظام السياسي سيعيد *-1 للرئيس جاك شيراك دوره القيادي لتنفيذ سياسته بعدما عان\
+ى احباطا طويلا 0 دام **-2 خمس سنوات</parse>
+<arg f="" g="the expectations" n="1">التوقعات</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset Sadaq-u.01</comment>
+</frameset>
+    <frameset cdef="" edef="to say or tell the truth" id="02">
+<role argnum="0" argrole="sayer" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>صدق أخي في كل كلمة قالها</parse>
+<comment />
+<arg f="" g="my brother" n="0">أخي</arg>
+<arg f="" g="in every word he said" n="1">في كل كلمة قالها</arg>
+</example>
+<comment />
+</frame>
+<comment />
+<role argnum="1" argrole="in what or utterance" />
+</frameset>
+<frameset cdef="" edef="to be confirmed or actualize" id="01">
+<role argnum="1" argrole="thing being confirmed or actualized" />
+<frame>
+<example>
+<parse>اذا صدقت التوقعات , فان النظام السياسي سيعيد *-1 للرئيس جاك شيراك دوره القيادي لتنفيذ سياسته بعدما عانى احباطا طويلا 0 دام **-2 خمس سنوات</parse>
+<arg f="" g="the expectations" n="1">التوقعات</arg>
+<comment />
+</example>
+<comment />
+</frame>
+<comment>Based on roleset Sadaq-u.02</comment>
+</frameset>
+<frameset cdef="" edef="to believe, give credence" id="03" vncls="">
+<role argnum="0" argrole="believer" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing or person believed" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS صرّح)
+    (NP-SBJ
+      (NP
+        (NOUN_PROP مشرف))
+      (SBAR
+        (WHNP-1
+          (REL_PRON الذي))
+        (S
+          (VP
+            (IV3MS+IV+IVSUFF_MOOD:I يزور)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (NP-OBJ
+              (NOUN_PROP واشنطن))))))
+    (SBAR
+      (SUB_CONJ أن)
+      (S
+        (NP-TPC-2
+          (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC حكومت)
+          (NP
+            (POSS_PRON_3MS ه)))
+        (VP
+          (PRT
+            (NEG_PART لا))
+          (IV3FS+IV+IVSUFF_MOOD:I تصدق)
+          (NP-SBJ
+            (-NONE- *T*-2))
+          (NP-OBJ
+            (NOUN_PROP سعيد))
+          (PP
+            (PUNC &quot;)
+            (PREP ل)
+            (SBAR
+              (SUB_CONJ أن)
+              (S
+                (S
+                  (NP-TPC-3
+                    (PRON_3MS ه))
+                  (VP
+                    (IV3MS+IV+IVSUFF_MOOD:I يقول)
+                    (NP-SBJ
+                      (-NONE- *T*-3))
+                    (NP-OBJ
+                      (NOUN+CASE_INDEF_ACC شيئاً))
+                    (PP-TMP
+                      (PREP في)
+                      (NP
+                        (NOUN+CASE_INDEF_GEN يوم)))))
+                (CONJ و)
+                (S
+                  (VP
+                    (IV3MS+IV+IVSUFF_MOOD:I يقول)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (NOUN+CASE_INDEF_ACC شيئاً)
+                      (ADJ+CASE_INDEF_ACC مختلفاً))
+           (NEG_PART لا))
+          (IV3FS+IV+IVSUFF_MOOD:I تصدق)
+          (NP-SBJ
+            (-NONE- *T*-2))
+          (NP-OBJ
+            (NOUN_PROP سعيد))
+          (PP
+            (PUNC &quot;)
+            (PREP ل)
+            (SBAR
+              (SUB_CONJ أن)
+              (S
+                (S
+                  (NP-TPC-3
+                    (PRON_3MS ه))
+                  (VP
+                    (IV3MS+IV+IVSUFF_MOOD:I يقول)
+                    (NP-SBJ
+                      (-NONE- *T*-3))
+                    (NP-OBJ
+                      (NOUN+CASE_INDEF_ACC شيئاً))
+                    (PP-TMP
+                      (PREP في)
+                      (NP
+                        (NOUN+CASE_INDEF_GEN يوم)))))
+                (CONJ و)
+                (S
+                  (VP
+                    (IV3MS+IV+IVSUFF_MOOD:I يقول)
+                    (NP-SBJ
+                      (-NONE- *))
+                    (NP-OBJ
+                      (NOUN+CASE_INDEF_ACC شيئاً)
+                      (ADJ+CASE_INDEF_ACC مختلفاً))
+                    (PP-TMP
+                      (PREP في)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN اليوم)
+                        (DET+ADJ التالي)))))))
+            (PUNC &quot;))))))
+  (PUNC .))</parse>
+<arg f="neg" g="no" n="m">لا</arg>
+<arg f="" g="-NONE- &lt; his government" n="0">*T*-2 &lt; حكومته</arg>
+<arg f="" g="Said" n="1">سعيد</arg>
+<arg f="cau" g="because he says one thing on one day and he says something else on another" n="m">لأنه يقول  \
+شيئاً في يوم ويقول * شيئاً مختلفاً في اليوم التالي</arg>
+
+<comment/>
+</example>
+<example>
+<parse>ARG1 is SBAR
+
+
+(S
+  (S
+    (CONJ و)
+    (VP
+      (PRT
+        (NEG_PART لن))
+      (IV3MS+IV+IVSUFF_MOOD:S يصدق)
+      (NP-SBJ
+        (NOUN+CASE_INDEF_NOM احد))
+      (SBAR
+        (SUB_CONJ ان)
+        (S
+          (NP-PRD
+            (NP
+              (DET+NOUN+CASE_DEF_ACC المرض))
+                    (ADJ+CASE_INDEF_ACC مختلفاً))
+                    (PP-TMP
+                      (PREP في)
+                      (NP
+                        (DET+NOUN+CASE_DEF_GEN اليوم)
+                        (DET+ADJ التالي)))))))
+            (PUNC &quot;))))))
+  (PUNC .))</parse>
+<arg f="neg" g="no" n="m">لا</arg>
+<arg f="" g="-NONE- &lt; his government" n="0">*T*-2 &lt; حكومته</arg>
+<arg f="" g="Said" n="1">سعيد</arg>
+<arg f="cau" g="because he says one thing on one day and he says something else on another" n="m">لأنه يقول  \
+شيئاً في يوم ويقول * شيئاً مختلفاً في اليوم التالي</arg>
+
+<comment/>
+</example>
+<example>
+<parse>ARG1 is SBAR
+
+
+(S
+  (S
+    (CONJ و)
+    (VP
+      (PRT
+        (NEG_PART لن))
+      (IV3MS+IV+IVSUFF_MOOD:S يصدق)
+      (NP-SBJ
+        (NOUN+CASE_INDEF_NOM احد))
+      (SBAR
+        (SUB_CONJ ان)
+        (S
+          (NP-PRD
+            (NP
+              (DET+NOUN+CASE_DEF_ACC المرض))
+            (NP
+              (PRON_3MS هو)))
+          (SBAR-SBJ
+            (WHNP-1
+              (REL_PRON الذي))
+            (S
+              (VP
+                (PV+PVSUFF_SUBJ:3MS اقعد)
+                (NP-SBJ
+                  (-NONE- *T*-1))
+                (NP-OBJ
+                  (NOUN_PROP زاهية)
+                  (NOUN_PROP قدورة))
+                (PP-CLR
+                  (PP
+                    (PREP عن)
+                    (NP
+                      (NP
+                        (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN حركت)
+                        (NP
+                          (POSS_PRON_3FS ها)))</parse>
+<arg f="neg" g="will not" n="m">لن</arg>
+<arg f="" g="a person" n="0">احد</arg>
+<arg f="" g="that the disease incapacitated Zahia" n="1">ان المرض هو الذي اقعد زاهية قدورة عن حركتها</arg>
+
+<comment/>
+</example>
+
+<example>
+<parse>لن يصدقه احد في كلامه</parse>
+
+<arg f="" g="he" n="1">ه</arg>
+<arg f="" g="nobody" n="0">احد</arg>
+<arg f="" g="in what he say" n="2">في كلامه</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment>Sad~aq.01</comment>
+</frameset>
+</verb>

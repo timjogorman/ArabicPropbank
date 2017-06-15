@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Tam~an</id>
+<comment>EGYPTIAN ARABIC based on TamoOan</comment>
+<frameset cdef="" edef="to reassure" id="01" vncls="">
+<role argnum="0" argrole="reassurer" vncls="" vntheta=""/>
+<role argnum="1" argrole="assurance - usually marked by ب or الى" vncls="" vntheta=""/>
+<role argnum="2" argrole="reassured" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>(S
+    (VP
+      (PV+PVSUFF_SUBJ:3MS طمأن)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (PVSUFF_DO:3FS ها))
+      (PP-MNR
+        (PREP ب)
+        (NP
+          (NP
+            (NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN ابتسامة)))))
+  (PUNC .))</parse>
+<arg f="" g="he" n="0">*</arg>
+<arg f="" g="her" n="2">ها</arg>
+<arg f="" g="with a smile" n="1">بابتسامة</arg>
+<comment/>
+</example>
+<example>
+<parse>(S
+    (NP-TPC-1
+      (NOUN_PROP شارون))
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يطمئن)
+      (NP-SBJ
+        (-NONE- *T*-1))
+      (NP-OBJ
+        (DET+NOUN+NSUFF_MASC_PL_ACC الاميركيين))
+      (PP-CLR
+        (PREP إلى)
+        (NP
+          (NOUN+CASE_DEF_GEN عدم)
+          (NP
+            (NOUN+CASE_DEF_GEN تغيير)
+            (NP
+              (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN سياست)
+              (NP
+                (POSS_PRON_3MS ه)))))))
+  (CONJ .))</parse>
+<arg f="" g="-NONE- &lt; Sharon" n="0">*T*-1 &lt; شارون</arg>
+<arg f="" g="The Americans" n="2">الاميركيين</arg>
+<arg f="" g="that there is no change in his policies" n="1">إلى عدم تغيير سياسته</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on ROLESET TamoOan.01</comment>
+</frameset>
+
+</verb>

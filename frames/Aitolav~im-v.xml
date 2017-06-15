@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitolav~im</id>
+<comment/>
+<frameset cdef="" edef="to veil one's face, to put on a veil" id="01" vncls="">
+<role argnum="0" argrole="entity veiling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (NP-VOC
+      (PRT
+        (VOC_PART يَا))
+      (NOUN+NSUFF_FEM_SG جَماعَة))
+    (NP-TPC-2
+      (PRON_1P اِحْنا))
+    (VP
+      (PRT
+        (PROG_PART بِ))
+      (IV1P+IV نِرُوح)
+      (NP-SBJ-1
+        (-NONE- *T*-2))
+      (S
+        (VP
+          (IV1P+IV نِكْشِف)
+          (NP-SBJ
+            (-NONE- *-1))
+          (NP-ADV
+            (NOUN عَنْد)
+            (NP
+              (NOUN دُكْتُور)))))))
+  (S
+    (S
+      (VP
+        (PRT
+          (PROG_PART بِ))
+        (IV1P+IV نِتلَثِّم)
+        (NP-SBJ
+          (-NONE- *))))
+    (CONJ وِ)
+    (S
+      (VP
+        (IV1P+IV نِلْبِس)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-ADV
+          (ADJ كِثِير))
+        (PP
+          (PRT
+            (NEG_PART مِش))
+          (PREP بِ)
+          (NP
+            (NP
+              (DET+NOUN الشَكْل))
+            (NP
+              (DEM_PRON_MS دَه))))))))</parse>
+<comment/>
+<arg f="" g="we" n="0">* اِحْنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

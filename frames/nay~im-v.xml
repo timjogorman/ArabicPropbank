@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>nay~im</id>
+<comment>EGYPTIAN ARABIC Framefile based on OanAm-v</comment>
+<frameset cdef="" edef="to put to sleep, to put to bed, to anesthetize, to make weak" id="01" vncls="">
+<role argnum="0" argrole="entity putting to sleep" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(S
+    (VP
+      (IV1S+IV انام)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (IVSUFF_DO:3P هم))
+      (NP-TMP
+        (NP
+          (NOUN_NUM 3)
+          (NP
+            (NOUN+NSUFF_FEM_PL ساعات)))
+        (PP-TMP
+          (PREP فى)
+          (NP
+            (DET+NOUN اليوم)))))))</parse>
+<comment />
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="them" n="1">هم</arg>
+<arg f="tmp" g="three hours in the day" n="m">ثلاث ساعات في اليوم</arg>
+</example>
+<comment />
+<example>
+<parse>أنام المرض الرجل</parse>
+<comment />
+<arg f="" g="the sickness" n="0">المرض</arg>
+<arg f="" g="the man" n="1">الرجل</arg>
+</example>
+</frame>
+<comment>Based on roleset OanAm-v.01</comment>
+<role argnum="1" argrole="entity sleeping" vncls="" vntheta="" />
+</frameset>
+</verb>

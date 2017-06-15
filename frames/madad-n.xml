@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>madad</id>
+<comment/>
+<frameset cdef="" edef="aid , help , support" id="01" vncls="">
+<role argnum="0" argrole="supporter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>وكانت الأسلحة كمدد * للجيش من القيادة</parse>
+<comment/>
+<arg f="" g="the weapons" n="1">* الأسلحة</arg>
+<arg f="" g="to the Army" n="2">للجيش</arg>
+<arg f="" g="from the high command" n="0">من القيادة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity supported" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

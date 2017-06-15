@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taEAdaY</id>
+
+<frameset cdef="" edef="be hostile towards;;be treated with hostility" id="01" vncls="">
+<role argnum="0" argrole="first entity being hostile" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تعادى الناس فيما بينهم</parse>
+
+<arg f="" g="the people" n="0">الناس</arg>
+<arg f="" g="among themselves" n="1">فيما بينهم</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="second entity" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to infect" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تعادى الاطفال بمرض الانفلونزا</parse>
+
+<arg f="" g="the kids" n="0">الأَطْفَالُ</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity infected" vncls="" vntheta=""/>
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to compete in running" id="03" vncls="">
+<role argnum="1" argrole="entity competing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تعادى ابطال الجري في سباق 26 ميل</parse>
+<comment/>
+<arg f="" g="the running champions" n="1">ابطال الجري</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="with whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wisiE</id>
+<comment/>
+<frameset cdef="" edef="widen, expand" id="01" vncls="">
+<role argnum="1" argrole="things becoming wide" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>البدلة وسعت * عليه</parse>
+<comment/>
+<arg f="" g="the dress" n="1">* البدلة</arg>
+<arg f="gol" g="on him" n="m">عليه</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="have capacity for" id="02" vncls="">
+<role argnum="1" argrole="entity having capacity" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رحمة ربنا وسعت * كل شيء</parse>
+<comment/>
+<arg f="" g="our God's mercy" n="1">* رحمة ربنا</arg>
+<arg f="" g="every thing" n="2">كل شيء</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

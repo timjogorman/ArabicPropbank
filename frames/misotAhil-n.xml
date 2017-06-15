@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>misotAhil</id>
+<comment/>
+<frameset cdef="" edef="worthy,entitled,qualified" id="01" vncls="">
+<role argnum="1" argrole="entity worthy" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هو مش مستاهل * انك تكتب له رسالة</parse>
+<comment/>
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="that you" n="3">انك</arg>
+<arg f="" g="to write him a letter" n="2">تكتب له رسالة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<role argnum="3" argrole="from whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

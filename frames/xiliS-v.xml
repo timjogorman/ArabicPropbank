@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xiliS</id>
+
+    <frameset cdef="" edef="to finish, to end, to get rid of" id="01" vncls="">
+<role argnum="0" argrole="entity finishing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ده اخويا خلص * الكتاب في يومين</parse>
+
+<arg f="" g="he" n="0">* NONE</arg>
+<arg f="" g="the book" n="1">الكتاب</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things finished" vncls="" vntheta=""/>
+
+
+
+<comment>Based on roleset xal~aS.01</comment>
+</frameset>
+
+
+
+
+<frameset cdef="" edef="to be finished ( انتهى وليس أنهى)" id="02" vncls="">
+<role argnum="1" argrole="entity being finished" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>خِلْصت الفلوس</parse>
+
+<arg f="" g="the money" n="1">الفلوس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment>EGYPTIAN ARABIC based on xal~aS</comment>
+</verb>

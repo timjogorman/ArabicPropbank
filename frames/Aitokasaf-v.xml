@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aitokasaf</id>
+<comment>EGYPTIAN ARABIC based on {itokasaf</comment>
+    <frameset cdef="" edef="to feel embarrassed" id="01">
+<role argnum="1" argrole="embarrassed entity" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>بتتكسف * بس بتفهم عربى</parse>
+<comment />
+<arg f="" g="she" n="1">*</arg>
+</example>
+<comment />
+</frame>
+<comment>Eg
+Based on roleset {itokasaf.01</comment>
+<role argnum="2" argrole="cause of shame" />
+</frameset>
+</verb>

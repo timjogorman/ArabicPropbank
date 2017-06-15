@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nahob</id>
+
+    <frameset cdef="" edef="to steal or pillage" id="01" vncls="">
+<role argnum="0" argrole="thief" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing stolen" vncls="" vntheta=""/>
+<role argnum="2" argrole="from whom" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>قالت * : &quot; كفى بريطانيا ما قتلت **-1 من ابناء العراق وما نهبت **-2 من ثرواته الوطنية في عهود الاستعمار, وبات على حكومتها ان تعدل * سياستها نحوه بدلا من هذه التبعية المبتذلة للسياسة الاميركية, لان الخاسر هو بريطانيا نفسها بما تجلب*ه **-4 على نفسها من كراهية في المحيط العربي والاسلامي&quot;.</parse>
+<arg f="" g="-NONE- &lt; Britian" n="0">**-2 &lt; بريطانيا</arg>
+<arg f="" g="of its national treasures during the era of colonialism" n="1">من ثرواته الوطنية في عهود الاستعمار</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset nahab-ua.01
+Based on roleset nahab.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on nahab-ua
+Framefile based on nahab</comment>
+</verb>

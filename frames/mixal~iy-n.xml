@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mixal~iy</id>
+
+<frameset cdef="" edef="to force to, to compel to, to make" id="01" vncls="">
+<role argnum="0" argrole="entity forcing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ده أخويا مخلى * البيت جنينة</parse>
+
+<arg f="" g="my brother" n="0">* أخويا</arg>
+<arg f="" g="the house" n="1">البيت</arg>
+<arg f="" g="garden" n="2">جنينة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity forced" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

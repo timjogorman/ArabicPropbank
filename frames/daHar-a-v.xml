@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>daHar-a</id>
+
+<frameset cdef="" edef="to drive away or expel" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>دحَر الجيش العَدُوَّ إلى خارج البلاد</parse>
+
+<arg f="" g="the army" n="0">الجيش</arg>
+<arg f="" g="the enemy" n="1">العَدُوَّ</arg>
+<arg f="" g="outside the country" n="2">إلى خارج البلاد</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+<role argnum="3" argrole="goal" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to defeat, to vanquish" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>دحَر الجيش العَدُوَّ</parse>
+
+<arg f="" g="the army" n="0">الجيش</arg>
+<arg f="" g="the enemy" n="1">العَدُوَّ</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="victim" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

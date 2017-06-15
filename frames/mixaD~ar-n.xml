@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mixaD~ar</id>
+<comment/>
+<frameset cdef="" edef="to be green" id="01" vncls="">
+<role argnum="1" argrole="entity green" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده أخويا مخلى الجنينة مخضرة * و حلوة</parse>
+<comment/>
+<arg f="" g="the garden" n="1">* الجنينة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

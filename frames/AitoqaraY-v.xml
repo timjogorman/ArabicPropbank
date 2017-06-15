@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitoqaraY</id>
+<comment/>
+<frameset cdef="" edef="be read, read" id="01" vncls="">
+<role argnum="0" argrole="entity reading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الكتاب اتقرا * على الناس</parse>
+<comment/>
+<arg f="" g="the book" n="1">* الكتاب</arg>
+<arg f="" g="to the people" n="3">على الناس</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing being read" vncls="" vntheta=""/>
+<role argnum="2" argrole="topic" vncls="" vntheta=""/>
+<role argnum="3" argrole="hearer" vncls="" vntheta=""/>
+</frameset>
+</verb>

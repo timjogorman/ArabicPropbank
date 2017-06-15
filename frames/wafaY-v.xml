@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>wafaY</id>
+<comment>EGYPTIAN ARABIC based on wafaY-i</comment>
+    <frameset cdef="" edef="To satisfy or be adequate" id="01">
+<role argnum="1" argrole="sufficient thing" />
+<role argnum="2" argrole="sufficient to to what" />
+<frame>
+<example>
+<parse>فكل ما قمنا * به **-1 على مدى نصف قرن من الانفعالات والشتائم والشعارات لم يف **-2 بالمطلوب , ويدخل * في خانة ردات الفعل وليس الفعل</parse>
+<arg f="" g="It" n="1">**-2&lt;الانفعالات والشتائم والشعارات</arg>
+<arg f="" g="with required" n="2">بالمطلوب</arg>
+<comment />
+</example>
+<comment />
+</frame>
+
+<comment>يكفى
+Based on roleset wafaY-i.01</comment>
+</frameset>
+</verb>

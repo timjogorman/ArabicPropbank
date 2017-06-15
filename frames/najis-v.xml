@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>najis</id>
+
+<frameset cdef="" edef="to become impure or unclean" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>نجس اللحم بالتراب</parse>
+
+<arg f="" g="the meat" n="1">اللحم</arg>
+<arg f="" g="by dirt" n="2">بالتراب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity unclean" vncls="" vntheta=""/>
+<role argnum="2" argrole="by what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

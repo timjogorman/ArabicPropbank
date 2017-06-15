@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Aino$aq~</id>
+
+<frameset cdef="" edef="To split, to crackto break up" id="01" vncls="">
+<role argnum="1" argrole="things been splitted" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>اقتربت الساعة و انشق القمر</parse>
+
+<arg f="" g="the moon" n="1">القمر</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset {ino$aq~.01</comment>
+<role argnum="2" argrole="with what" vncls="" vntheta="" />
+</frameset>
+
+<frameset cdef="" edef="To secede from, to separate from" id="03" vncls="">
+<role argnum="0" argrole="entity separating" vncls="" vntheta="" />
+<frame>
+<mapping>
+
+<comment />
+</mapping>
+<example>
+<parse>كانا لا يفترقان فانشق احدهما عن الاخر</parse>
+
+<arg f="" g="one of them" n="0">احدهما</arg>
+<arg f="" g="from the other" n="1">عن الاخر</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<role argnum="1" argrole="from who/what (Usually marked by   عن)" vncls="" vntheta="" />
+<comment>Based on roleset {ino$aq~.03</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on {ino$aq~</comment>
+</verb>

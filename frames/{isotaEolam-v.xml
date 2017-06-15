@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaEolam</id>
+<comment/>
+<frameset cdef="" edef="to inquire" id="01" vncls="">
+<role argnum="0" argrole="entity asking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استعلم * أستاذَه عن النَّتيجة</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*?NONE</arg>
+<arg f="" g="his teacher" n="1">أستاذَه</arg>
+<arg f="" g="about the grade" n="2">عن النَّتيجة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity asked" vncls="" vntheta=""/>
+<role argnum="2" argrole="about what" vncls="" vntheta=""/>
+</frameset>
+</verb>

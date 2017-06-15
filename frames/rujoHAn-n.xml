@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rujoHAn</id>
+<comment/>
+<frameset cdef="" edef="preponderance, superiority, balance" id="01" vncls="">
+<role argnum="1" argrole="things overcome" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>رجحان كفة الفريق العراقي على الفريق الضيف</parse>
+<comment/>
+<arg f="" g="the Iraqi team scale" n="1">كفة الفريق العراقي</arg>
+<arg f="" g="over the guest team" n="2">على الفريق الضيف</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="things overcomed" vncls="" vntheta=""/>
+</frameset>
+</verb>

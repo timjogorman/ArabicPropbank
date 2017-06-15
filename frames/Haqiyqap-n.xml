@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Haqiyqap</id>
+<comment/>
+<frameset cdef="" edef="truth, reality" id="01" vncls="">
+<role argnum="1" argrole="the truth of" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ظهرت حقيقة هذا النظام المخادع</parse>
+<comment/>
+<arg f="" g="this regime" n="1">هذا النظام</arg>
+<arg f="" g="the swindler" n="2">المخادع</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

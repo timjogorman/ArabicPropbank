@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mu$otamil</id>
+<comment/>
+<frameset cdef="" edef="containing" id="01" vncls="">
+<role argnum="1" argrole="container" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الموضوع مشتمل * على عدة مواضيع صغيرة</parse>
+<comment/>
+<arg f="" g="the subject" n="1">* الموضوع</arg>
+<arg f="" g="on a lot of small subjects" n="2">على عدة مواضيع صغيرة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="things contained" vncls="" vntheta=""/>
+</frameset>
+</verb>

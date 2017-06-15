@@ -1,17 +1,102 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>qaTar-u</id>
-    <frameset cdef="" edef="to drip or dribble" id="01">
-        <role argnum="1" argrole="thing leaking"/>
-        <role argnum="2" argrole="liquid"/>
-        <frame>
-            <example>
-                <parse>
-                    لا زال الجرح يقطر **-1 دما
-                </parse>
-                <arg f="" g="-NONE- &amp;lt; the wound" n="1">**-1 &amp;lt; الجرح</arg>
-                <arg f="" g="blood" n="2">دما</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>qaTar-u</id>
+<comment/>
+<frameset cdef="" edef="to flow or stream" id="01" vncls="">
+<role argnum="1" argrole="things flowing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قطر الماء من سقف الغرفة في الدلو</parse>
+<comment/>
+<arg f="" g="the water" n="1">الماء</arg>
+<arg f="" g="from the room's roof" n="2">من سقف الغرفة</arg>
+<arg f="" g="in the bucket" n="3">في الدلو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+<role argnum="3" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to drip or distill" id="02" vncls="">
+<role argnum="0" argrole="entity dripping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قطر الرجل الدواء من القطارة  في عينه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the medicine" n="1">الدواء</arg>
+<arg f="" g="from the dropper" n="2">من المقطرة</arg>
+<arg f="" g="into his eyes" n="3">في عينه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things dripped" vncls="" vntheta=""/>
+<role argnum="2" argrole="from" vncls="" vntheta=""/>
+<role argnum="3" argrole="into what or destination" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to knock down or out" id="03" vncls="">
+<role argnum="0" argrole="entity nocking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قطر الرجل خصمه على الأرض</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his opponent" n="1">خصمه</arg>
+<arg f="loc" g="on the ground" n="m">على الأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity knocked" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to tow, to tug" id="04" vncls="">
+<role argnum="0" argrole="entity pulling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قطر الرجل العربة بالقطار</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the wagon" n="1">العربة</arg>
+<arg f="" g="with the train" n="2">بالقطار</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things pulled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to tar, to smear or cover with tar" id="05" vncls="">
+<role argnum="0" argrole="entity covering" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قطر الرجل القارب بالقطران</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the boat" n="1">القارب</arg>
+<arg f="" g="with tar" n="2">بالقطران</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity covered" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what (tar)" vncls="" vntheta=""/>
+</frameset>
 </verb>

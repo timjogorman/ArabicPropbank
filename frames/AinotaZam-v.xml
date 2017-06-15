@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>AinotaZam</id>
+<comment>EGYPTIAN ARABIC based on {inotaZam</comment>
+    <frameset cdef="" edef="to be organized or arranged" id="01" vncls="">
+<role argnum="1" argrole="things getting organized" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(PREP لِ)
+        (NP
+          (ADJP
+            (ADJ_NUM أَوَّل)
+            (NP
+              (NOUN+NSUFF_FEM_SG مَرَّة)))
+          (NP-TMP
+            (NOUN مُنْذُ)
+            (NP
+              (NOUN_NUM 30)
+              (NP
+                (NOUN عام))))))
+      (VP
+        (IV3FS+IV تِنْتِظِم)
+        (NP-SBJ
+          (DET+NOUN+NSUFF_FEM_SG الدِراسَة))
+        (PP-LOC
+          (PREP بِ)
+          (NP
+            (DET+NOUN+NSUFF_FEM_PL الجامِعات)
+            (DET+NOUN+NSUFF_FEM_SG المِصْرِيَّة)))
+        (NP-TMP
+          (NP
+            (DET+NOUN اليَوم))
+          (PUNC ,)
+          (NP-TMP
+            (DET+NOUN السَبْت)))
+        (PUNC ,)
+        (PP
+          (PREP بِ)
+          (NP
+            (NOUN دُون)
+            (NP
+              (NOUN تَواجُد)
+              (NP
+                (NP
+                  (NOUN أَفْراد)
+                  (NP
+                    (NOUN جِهاز)
+                    (NP
+                      (NOUN أَمْن)
+                      (NP
+                        (DET+NOUN+NSUFF_FEM_SG الدَولَة)))))</parse>
+<comment />
+<arg f="" g="the studying" n="1">الدِراسَة</arg>
+<arg f="" g="the Egyptian universities" n="2">الجامِعات المِصْرِيَّة</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset {inotaZam.01</comment>
+<role argnum="2" argrole="where or location" vncls="" vntheta="" />
+</frameset>
+</verb>

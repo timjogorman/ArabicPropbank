@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotanoTaq</id>
+<comment/>
+<frameset cdef="" edef="to cause somebody to speak, to interrogate somebody" id="01" vncls="">
+<role argnum="0" argrole="entity interrogating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>اِسْتَنْطَقَ القاضِي الْمُتَّهَمَ</parse>
+<comment/>
+<arg f="" g="the judge" n="0">القاضِي</arg>
+<arg f="" g="the convict" n="1">الْمُتَّهَمَ</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity interrogated" vncls="" vntheta=""/>
+<role argnum="2" argrole="topic" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xarA</id>
+<comment/>
+<frameset cdef="" edef="shit, bad (multi word expression)" id="01" vncls="">
+<role argnum="1" argrole="things that are bAd" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الفيلم ده خرة * زي اللي قبله</parse>
+<comment/>
+<arg f="" g="the movie" n="1">* الفيلم</arg>
+</example>
+<comment/>
+</frame>
+<comment>ERZ</comment>
+</frameset>
+</verb>

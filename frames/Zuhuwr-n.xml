@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Zuhuwr</id>
+<comment/>
+<frameset cdef="" edef="to show, reveal, appear" id="01" vncls="">
+<role argnum="1" argrole="the revelation" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>الغريب في القصة هو ظهور بعض الاشخاص في أحلام الناس كأشباح</parse>
+<comment/>
+<arg f="" g="some people" n="1">بعض الاشخاص</arg>
+<arg f="" g="in the dreams of people" n="2">في أحلام الناس</arg>
+<arg f="" g="as ghosts" n="3">كأشباح</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="revealed to" vncls="" vntheta=""/>
+<role argnum="3" argrole="revealed as" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to occure" id="02" vncls="">
+<role argnum="1" argrole="event         Arg2:" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أصبح واضحا ظهور بعض المشاكل بين الرجل و أخيه</parse>
+<comment/>
+<arg f="" g="some problems" n="1">بعض المشاكل</arg>
+<arg f="" g="between the man" n="2">بين الرجل</arg>
+<arg f="" g="and his brother" n="3">و أخيه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="benefactive" vncls="" vntheta=""/>
+<role argnum="3" argrole="second benefactive (if separated from ARG2)" vncls="" vntheta=""/>
+</frameset>
+</verb>

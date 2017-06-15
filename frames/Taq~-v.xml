@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Taq~</id>
+
+    <frameset cdef="" edef="to explode, to burst" id="02" vncls="">
+<role argnum="0" argrole="entity or things exploding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>راسي حيطق * ساعدوني تعبانة والله تعبانة</parse>
+
+<arg f="" g="my head" n="0">* راسي</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment>Based on roleset Taq~-u.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on Taq~-u</comment>
+<frameset cdef="" edef="to come to the mind, to think of" id="03" vncls="">
+<role argnum="1" argrole="things coming to mind" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(PUNC ?)
+      (PUNC ?))
+    (CONJ وَلّا)
+    (SQ
+      (NP-TPC-7
+        (NP
+          (NOUN_QUANT أَيّ)
+          (NP
+            (NOUN حَدّ)))
+        (SBAR
+          (WHNP-5
+            (-NONE- 0))
+          (S
+            (VP
+              (IV3FS+IV تِطَق)
+              (NP-SBJ
+                (-NONE- *T*-5))
+              (PP
+                (PREP فِي)
+                (NP
+                  (NOUN دِماغ)
+                  (NP
+                    (POSS_PRON_3MS ُه))))))))
+      (VP
+        (IV3MS+IV يِرُوح)
+        (NP-SBJ
+          (-NONE- *T*-7))
+        (ADJP-PRD
+          (NOUN مُرَشَّح)
+          (NP
+            (NOUN نَفْس)</parse>
+<comment/>
+<arg f="" g="NONE" n="1">*T* 7 NONE</arg>
+<arg f="" g="in his brain (mind)" n="2">في دماغه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

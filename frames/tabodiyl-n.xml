@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tabodiyl</id>
+<comment/>
+<frameset cdef="" edef="changing, alternation" id="01" vncls="">
+<role argnum="0" argrole="entity causing the change" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت الزوجة بتبديل * القطع القديمة بأخرى جديدة</parse>
+<comment/>
+<arg f="" g="the wife" n="0">الزوجة</arg>
+<arg f="" g="the old things" n="1">القطع القديمة</arg>
+<arg f="" g="with new ones" n="2">بأخرى جديدة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing changing" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

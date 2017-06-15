@@ -1,0 +1,97 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Ait~Axid</id>
+<comment>EGYPTIAN ARABIC based on {it~axaX</comment>
+    <frameset cdef="" edef="to adopt / take" id="01" vncls="">
+<role argnum="0" argrole="adopter" vncls="" vntheta="" />
+<role argnum="1" argrole="thing adopted" vncls="" vntheta="" />
+<role argnum="2" argrole="adopt as what" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>With an Arg2
+
+  (S
+    (S
+      (CONJ و)
+      (VP
+        (PV+PVSUFF_SUBJ:3MS ذكر)
+        (NP-SBJ
+          (-NONE- *))
+        (SBAR
+          (SUB_CONJ ان)
+          (S
+            (NP-TPC-1
+              (PRON_3MS ه))
+            (VP
+              (PRT
+                (FUT_PART س))
+              (IV3MS+IV+IVSUFF_MOOD:I يعمل)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (PP-CLR
+                (PREP على)
+                (NP
+                  (NOUN+CASE_DEF_GEN تفعيل)
+                  (NP
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN الاتحاد))
+                    (SBAR
+                      (WHNP-2
+                        (REL_PRON الذي))
+                      (S
+                        (VP
+                          (IV3MS+IV+IVSUFF_MOOD:I يتخذ)
+                          (NP-SBJ
+                            (-NONE- *T*-2))
+                          (PP
+                            (PREP من)
+                            (NP
+                              (NOUN_PROP باريس)))
+                          (NP-OBJ
+                            (NP
+                              (NOUN+CASE_INDEF_ACC مقرا))
+                            (PP
+                              (PREP ل)
+                              (NP
+                                (PRON_3MS ه)))))))))))))))
+    (PUNC .))</parse>
+<arg f="" g="-NONE- &lt; the Union" n="0">*T*-4 &lt; الاتحاد</arg>
+<arg f="" g="Paris" n="1">من باريس</arg>
+<arg f="" g="as its center" n="2">مقرا له</arg>
+<comment />
+</example>
+<example>
+<parse>without Arg2
+
+                (S
+                  (NP-TPC-2
+                    (NOUN+CASE_DEF_ACC بلاد)
+                    (NP
+                      (POSS_PRON_3MS ه))
+                  (VP
+                    (PRT
+                      (NEG_PART لن))
+                    (IV3FS+IV+IVSUFF_MOOD:S تتخذ)
+                    (NP-SBJ
+                      (-NONE- *T*-2))
+                    (NP-OBJ
+                      (NOUN+CASE_DEF_ACC تدابير)
+                      (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC امنية)
+                      (ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC جديدة))))
+      (PUNC .))</parse>
+<arg f="" g="-NONE- &lt; his country" n="0">*T*-2 &lt; بلاده</arg>
+<arg f="" g="new security measures" n="1">تدابير امنية جديدة</arg>
+<comment />
+</example>
+<comment />
+<example>
+<parse>اتخذ أخي لنفسه امراة من عشيرة الدوري</parse>
+<comment />
+<arg f="" g="my brother for him self" n="0">أخي لنفسه</arg>
+<arg f="" g="a wife" n="1">امراة</arg>
+<arg f="" g="from Al-Dury tribe" n="3">من عشيرة الدوري</arg>
+</example>
+</frame>
+<comment>Based on roleset {it~axaX.01</comment>
+<role argnum="3" argrole="from where or what" vncls="" vntheta="" />
+</frameset>
+</verb>

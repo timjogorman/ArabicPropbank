@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>nadab-a</id>
+<comment/>
+<frameset cdef="" edef="to mourn for, to lament" id="01">
+<role argnum="0" argrole="entity  mourning"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ندب الحاضرون الفقيد بحزن شديد</parse>
+<comment/>
+<arg f="" g="people attending" n="0">الحاضرون</arg>
+<arg f="" g="the deceased" n="1">الفقيد</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="for what"/>
+</frameset>
+<frameset cdef="" edef="to call to do something, to ask to do" id="02">
+<role argnum="0" argrole="the asker"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كما يندب *  في رمضان كثرة الجود</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="NONE" n="1">*? NONE</arg>
+<arg f="" g="the large number of generosity" n="2">كثرة الجود</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity asked"/>
+<role argnum="2" argrole="for what"/>
+</frameset>
+</verb>

@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>xal~aE</id>
+<comment>EGYPTIAN ARABIC based on xalaE-a</comment>
+    <frameset cdef="" edef="to undress" id="01" vncls="">
+<role argnum="0" argrole="person removing clothes" vncls="" vntheta="" />
+<role argnum="1" argrole="clothes removed" vncls="" vntheta="" />
+<frame>
+
+<example>
+<parse>(S
+  (VP
+    (IV3MS+IV+IVSUFF_MOOD:I يخلع)
+    (NP-SBJ
+      (-NONE- *))
+    (NP-OBJ
+      (NOUN+CASE_DEF_ACC ثياب)
+      (NP
+        (POSS_PRON_3MS ه))))
+  (PUNC ,))</parse>
+<arg f="" g="He" n="0">-NONE- *</arg>
+<arg f="" g="his clothes" n="1">ثيابه</arg>
+
+
+<comment />
+</example>
+
+
+<comment>تجرد</comment>
+</frame>
+
+
+<comment>Based on roleset xalaE-a.01</comment>
+</frameset>
+
+</verb>

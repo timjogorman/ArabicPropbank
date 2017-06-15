@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tafal-ui</id>
+<comment/>
+<frameset cdef="" edef="to spit" id="01" vncls="">
+<role argnum="0" argrole="entity spitting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تفل الطفل في وجه صاحبه</parse>
+<comment/>
+<arg f="" g="the kid" n="0">الطفل</arg>
+<arg f="" g="in his friend's face" n="1">في وجه صاحبه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="victim or where" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tatAbaE</id>
+
+<frameset cdef="" edef="to follow in succession" id="01" vncls="">
+<role argnum="1" argrole="things following" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>تتابعت الأحداث في حياته</parse>
+
+<arg f="" g="events" n="1">الأحداث</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="attributed to ARG 1" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

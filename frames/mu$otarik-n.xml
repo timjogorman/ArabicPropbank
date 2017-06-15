@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>mu$otarik</id>
+
+<frameset cdef="" edef="to participate or share in, to ingage in" id="01" vncls="">
+<role argnum="0" argrole="entity participating" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>ولادي مشتركين * في لعبة واحدة</parse>
+
+<arg f="" g="my children" n="0">* ولادي</arg>
+<arg f="" g="in one game" n="2">في لعبة واحدة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="with whom" vncls="" vntheta=""/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

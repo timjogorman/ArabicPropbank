@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>bidAyap</id>
+
+<frameset cdef="" edef="begining, start" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بداية القصة دائما مملة</parse>
+
+<arg f="" g="the story" n="1">القصة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="1" argrole="things begining" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

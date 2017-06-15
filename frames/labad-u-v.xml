@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>labad-u</id>
+<comment/>
+<frameset cdef="" edef="to remain or stay in" id="01" vncls="">
+<role argnum="0" argrole="entity staying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لبد الرجل بهذا المكان لعشر سنوات</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="in this place" n="1">بهذا المكان</arg>
+<arg f="tmp" g="for ten years" n="m">لعشر سنوات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="location or where" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to stick to, to adhere to, to mount" id="02" vncls="">
+<role argnum="1" argrole="things sticking" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لبد العمود بالأرض</parse>
+<comment/>
+<arg f="" g="the pole" n="1">العمود</arg>
+<arg f="" g="with the ground" n="2">بالأرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

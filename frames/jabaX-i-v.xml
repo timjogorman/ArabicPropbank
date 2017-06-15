@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>jabaX-i</id>
+<comment/>
+<frameset cdef="" edef="to pull or to draw" id="01" vncls="">
+<role argnum="0" argrole="entity pulling" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جبذ الرجل أخاه من قميصه</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="from his shirt" n="2">من قميصه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity pulled" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed to ARG1" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to become small and dry" id="02" vncls="">
+<role argnum="1" argrole="entity becoming small" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>جبذ العنب</parse>
+<comment/>
+<arg f="" g="the grape" n="1">العنب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

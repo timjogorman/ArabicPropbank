@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>fah~im</id>
+<comment>EGYPTIAN ARABIC based on fah~am</comment>
+    <frameset cdef="" edef="to make understand, to make comprehend" id="01">
+<role argnum="0" argrole="entity explaining" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>فهم الوالد ابنه طريقة الحساب</parse>
+<comment />
+<arg f="" g="the father" n="0">الوالد</arg>
+<arg f="" g="the calculation way" n="1">طريقة الحساب</arg>
+<arg f="" g="his son" n="2">ابنه</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset fah~am.01</comment>
+<role argnum="1" argrole="things explained" />
+<role argnum="2" argrole="to whom" />
+</frameset>
+</verb>

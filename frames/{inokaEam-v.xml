@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inokaEam</id>
+
+<frameset cdef="" edef="to be closed, shut" id="01" vncls="">
+<role argnum="0" argrole="entity closing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انكعم فم الجمل بالحبل</parse>
+
+<arg f="" g="the camel's mouth" n="1">فم الجمل</arg>
+<arg f="" g="with a rope" n="2">بالحبل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity being closed" vncls="" vntheta=""/>
+<role argnum="2" argrole="closed with what?" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

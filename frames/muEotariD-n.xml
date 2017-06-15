@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>muEotariD</id>
+<frameset cdef="" edef="to object or be opposed to" id="01">
+<role argnum="0" argrole="complainer" />
+<role argnum="1" argrole="objected to - usually mared by على" />
+<frame>
+<mapping>
+
+
+
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ و)
+    (VP
+      (PV+PVSUFF_SUBJ:3MS قال)
+      (NP-SBJ
+        (NOUN_PROP عنان))
+      (SBAR
+        (SUB_CONJ ان)
+        (S
+          (NP-TPC-1
+            (NOUN_PROP+CASE_DEF_ACC بغداد))
+          (VP
+            (PV+PVSUFF_SUBJ:3FS اعترضت)
+            (NP-SBJ
+              (-NONE- *T*-1))
+            (PP-CLR
+              (PREP على)
+              (NP
+                (NP
+                  (NOUN+NSUFF_FEM_DU_GEN_POSS منطقتي)
+                  (NP
+                    (NOUN+CASE_DEF_GEN حظر)
+                    (NP
+                      (DET+NOUN+CASE_DEF_GEN الطيران))))))))))
+    (PUNC .)))</parse>
+<arg f="" g="-NONE- &gt; Baghdad" n="0">*T*-1 &gt; بغداد</arg>
+
+
+
+
+<arg f="" g="on the two No-Fly zones" n="1">على منطقتي حظر الطيران</arg>
+<comment />
+</example>
+
+<comment />
+</frame>
+
+<comment>Based on roleset {iEotaraD.01</comment>
+</frameset>
+<comment>Framefile based on {iEotaraD</comment>
+</verb>

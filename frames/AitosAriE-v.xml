@@ -1,0 +1,209 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AitosAriE</id>
+<comment/>
+<frameset cdef="" edef="to hurry to, to hasten or rush to" id="01" vncls="">
+<role argnum="1" argrole="entity hurrying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (CONJ وِ)
+    (NP-SBJ
+      (DET+NOUN الدَلِيل))
+    (NP-PRD
+      (NP
+        (DET+NOUN المَجْمَع)
+        (DET+ADJ العِلمِي))
+      (SBAR
+        (SBAR
+          (WHNP-2
+            (REL_PRON اللِي))
+          (S
+            (VP
+              (X
+                (TYPO اتحر)
+                (TYPO ق))
+              (NP-SBJ-1
+                (-NONE- *T*-2))
+              (NP-OBJ
+                (-NONE- *-1)))))
+        (CONJ وِ)
+        (SBAR
+          (WHNP-3
+            (REL_PRON اللِي))
+          (S
+            (VP
+              (PRT
+                (PROG_PART بِ))
+              (IV3MS+IV يضُمّ)
+              (NP-SBJ
+                (-NONE- *T*-3))
+              (NP-OBJ
+                (NP
+                  (NOUN تُراث)
+                  (ADJ مَصْرِي))
+                (SBAR
+                  (WHNP-4
+                    (-NONE- 0))
+                  (S
+                    (VP
+                      (PRT
+                        (NEG_PART لا))
+                      (IV3MS+IV يَعرِف)
+                      (NP-OBJ
+                        (NOUN قَدر)
+                        (NP
+                          (NP
+                            (POSS_PRON_3MS ُه))
+                          (NP
+                            (-NONE- *T*-4))))
+                      (SBAR-SBJ-NOM
+                        (PRT
+                          (RESTRIC_PART إِلّا))
+                        (WHNP-6
+                          (REL_PRON مَنْ))
+                        (S
+                          (VP
+                            (IV3MS+IV يُرِيد)
+                            (NP-SBJ
+                              (-NONE- *T*-6))
+                            (SBAR
+                              (SUB_CONJ أَنْ)
+                              (S
+                                (VP
+                                  (IV3MS+IV يَمحُو)
+                                  (NP-SBJ
+                                    (-NONE- *))
+                                  (NP-OBJ
+                                    (NP
+                                      (NOUN تارِيخ)
+                                      (NP
+                                        (POSS_PRON_1P نا)))
+                                    (NP
+                                      (PP
+                                        (X
+                                          (TYPO وبالتي)))
+                                      (NOUN حُدُود)
+                                      (NP
+                                        (POSS_PRON_1P نا))))))))))))))))))))
+  (S
+    (S
+      (PP-PRP
+        (PREP عَلَى)
+        (NP
+          (NOUN شان)
+          (SBAR-ADV
+            (SUB_CONJ لَمّا)
+            (S
+              (VP
+                (IV3P+IV+IVSUFF_SUBJ:P يُدْخُلُوا)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (NOUN حُدُود)
+                  (NP
+                    (POSS_PRON_1P نا))))))))
+      (NP-TPC-7
+        (NOUN_PROP مَصْر))
+      (VP
+        (PRT
+          (NEG_PART لا))
+        (IV3FS+IV تَجِد)
+        (NP-SBJ
+          (-NONE- *T*-7))
+        (NP-OBJ
+          (NOUN دَلِيل)
+          (ADJ وَثائِقِي))
+        (PP
+          (PREP لِ)
+          (NP
+            (NOUN حُدُود)
+            (NP
+              (POSS_PRON_3FS ها))))))
+    (CONJ وِ)
+    (S
+      (PP
+        (PREP بِ)
+        (NP
+          (DET+NOUN التالِي)))
+      (NP-TPC-8
+        (NOUN_PROP مُبارَك))
+      (SBAR-ADV
+        (SUB_CONJ لَو)
+        (S
+          (NP-SBJ
+            (-NONE- *))
+          (ADJP-PRD
+            (ADJ عاوِز)
+            (NP
+              (NOUN تَخْرِيب)))))
+      (ADJP-PRD
+        (NOUN أَكِيد))
+      (SBAR-SBJ
+        (-NONE- 0)
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3MS كان)
+            (VP
+              (PRT
+                (FUT_PART هَ))
+              (IV3MS+IV يخَرَّب)
+              (NP-SBJ
+                (-NONE- *T*-8))
+              (NP-OBJ
+                (NP
+                  (NOUN اماكِن))
+                (SBAR
+                  (WHNP-9
+                    (-NONE- 0))
+                  (S
+                    (VP
+                      (PRT
+                        (NEG_PART لا))
+                      (IV3FS+IV تِمِسّ)
+                      (NP-SBJ
+                        (-NONE- *T*-9))
+                      (NP-OBJ
+                        (NP
+                          (NP
+                            (NOUN تُراث)
+                            (NP
+                              (DET+NOUN البَلَد)))
+                          (CONJ وِ)
+                          (NP
+                            (NOUN+NSUFF_FEM_SG هَوِيَّة)
+                            (NP
+                              (POSS_PRON_3FS ها))))
+                        (SBAR
+                          (WHNP-12
+                            (REL_PRON اللِي))
+                          (S
+                            (NP-TPC-11
+                              (DET+NOUN_QUANT الكُلّ))
+                            (VP
+                              (PRT
+                                (PROG_PART بِ))
+                              (IV3MS+IV يِتسارِع)
+                              (NP-SBJ
+                                (-NONE- *T*-11))
+                              (PP
+                                (PREP عَلَى)
+                                (NP
+                                  (NP
+                                    (PRON_3MS ُه))
+                                  (NP
+                                    (-NONE- *T*-12)))))))))))))))))))</parse>
+<comment/>
+<arg f="" g="everyone" n="1">*T*-11 الكُلّ</arg>
+<arg f="" g="on it" n="2">عليه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+</frameset>
+</verb>

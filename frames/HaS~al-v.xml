@@ -1,60 +1,118 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>HaS~al</id>
-    <comment/>
-    <frameset cdef="" edef="to obtain / collect" id="01">
-        <role argnum="0" argrole="obtainer entity"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>(NP-ADV
-                    (NOUN+CASE_DEF_ACC غير)
-                    (SBAR
-                    (SUB_CONJ ان)
-                    (S
-                    (NP-TPC-3
-                    (DET+NOUN+CASE_DEF_ACC الوزير)
-                    (DET+NOUN_PROP الشرع))
-                    (VP
-                    (PV+PVSUFF_SUBJ:3MS راح)
-                    (NP-SBJ
-                    (-NONE- *T*-3))
-                    (S
-                    (VP
-                    (IV يحصّل)
-                    (NP-SBJ
-                    (-NONE- *-3))
-                    (NP-TMP
-                    (NOUN+CASE_INDEF_ACC اخيراً))
-                    (PUNC ,)
-                    (PP
-                    (PREP على)
-                    (SBAR-NOM
-                    (WHNP-2
+<id>HaS~al</id>
+
+<frameset cdef="" edef="to obtain / collect" id="01" vncls="faAza-1">
+<role argnum="0" argrole="obtainer entity" vncls="faAza-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(NP-ADV
+    (NOUN+CASE_DEF_ACC غير)
+    (SBAR
+      (SUB_CONJ ان)
+      (S
+        (NP-TPC-3
+          (DET+NOUN+CASE_DEF_ACC الوزير)
+          (DET+NOUN_PROP الشرع))
+        (VP
+          (PV+PVSUFF_SUBJ:3MS راح)
+          (NP-SBJ
+            (-NONE- *T*-3))
+          (S
+            (VP
+              (IV يحصّل)
+              (NP-SBJ
+                (-NONE- *-3))
+              (NP-TMP
+                (NOUN+CASE_INDEF_ACC اخيراً))
+              (PUNC ,)
+              (PP
+                (PREP على)
+                (SBAR-NOM
+                  (WHNP-2
                     (REL_PRON ما))
-                    (S
+                  (S
                     (VP
-                    (IV3MS+IV+IVSUFF_MOOD:I يبدو)
-                    (NP-SBJ
-                    (-NONE- *T*-2))))))
-                    (PUNC ,)
-                    (NP-OBJ
-                    (NP
-                    (NOUN+CASE_INDEF_ACC اختصاصاً)
-                    (ADJ+CASE_INDEF_ACC فرعياً)
-                    (ADJ+CASE_INDEF_ACC جديداً))
-                    (PUNC ,)
-                </parse>
-                <comment/>
-                <arg f="" g="he" n="0">-NONE- *-3 &gt;  الوزير الشرع</arg>
-                <arg f="" g="new subspecialty" n="1">اختصاصاً فرعياً جديداً</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment/>
-        <role argnum="1" argrole="obtained thing"/>
-        <role argnum="2" argrole="source (marked by من)"/>
-    </frameset>
+                      (IV3MS+IV+IVSUFF_MOOD:I يبدو)
+                      (NP-SBJ
+                        (-NONE- *T*-2))))))
+              (PUNC ,)
+              (NP-OBJ
+                (NP
+                  (NOUN+CASE_INDEF_ACC اختصاصاً)
+                  (ADJ+CASE_INDEF_ACC فرعياً)
+                  (ADJ+CASE_INDEF_ACC جديداً))
+                (PUNC ,)</parse>
+
+<arg f="" g="he" n="0">-NONE- *-3 &gt;  الوزير الشرع</arg>
+<arg f="" g="new subspecialty" n="1">اختصاصاً فرعياً جديداً</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="obtained thing" vncls="faAza-1" vntheta="theme"/>
+<role argnum="2" argrole="source (marked by من)" vncls="faAza-1" vntheta="source"/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to reach a level or become like (multi word exoression)" id="02" vncls="">
+<role argnum="1" argrole="entity becoming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>انت ما حصلتش * حيوان</parse>
+
+<arg f="" g="you" n="">* انت</arg>
+<arg f="" g="animal" n="">حيوان</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="like what" vncls="" vntheta=""/>
+<role argnum="3" argrole="in what" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+<frameset cdef="" edef="to follow, to catch with" id="03" vncls="">
+<role argnum="0" argrole="follower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا ححصل * كم هناك</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="" g="you" n="1">كم</arg>
+<arg f="loc" g="there" n="m">هناك</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="followed" vncls="" vntheta=""/>
+</frameset>
 </verb>

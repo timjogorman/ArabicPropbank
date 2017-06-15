@@ -1,0 +1,67 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>daEak</id>
+<comment>EGYPTIAN ARABIC Framefile based on daEak-a-v</comment>
+<frameset cdef="" edef="to rub or scrub or scour, to degrade" id="01" vncls="">
+<role argnum="0" argrole="entity rubbing" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (VP
+      (PV+PVSUFF_SUBJ:3P ظَهَرُوا)
+      (NP-SBJ
+        (-NONE- *))
+      (ADVP-TMP
+        (ADV دِلْوَقْتِي))
+      (SBAR-ADV
+        (SUB_CONJ لَمّا)
+        (S
+          (VP
+            (PV+PVSUFF_SUBJ:3P دَعَكُوا)
+            (NP-SBJ
+              (-NONE- *))
+            (NP-OBJ
+              (DET+NOUN الناس))
+            (PP-LOC
+              (PREP فِي)
+              (NP
+                (DET+NOUN الشارِع))))))))
+  (S
+    (NP-SBJ
+      (DEM_PRON_MS دَه))
+    (NP-PRD
+      (NP
+        (DET+NOUN الوَقْت))
+      (SBAR
+        (WHNP-1
+          (REL_PRON اللِي))
+        (S
+          (VP
+            (PRT
+              (PROG_PART بِ))
+            (IV3P+IV+IVSUFF_SUBJ:P يِظهَرُوا)
+            (NP-SBJ
+              (-NONE- *))
+            (ADVP
+              (ADV بَسّ))
+            (PP
+              (PREP فِي)
+              (NP
+                (NP
+                  (PRON_3MS ُه))
+                (NP
+                  (-NONE- *T*-1))))))))))</parse>
+<comment />
+<arg f="" g="NONE" n="0">* NONE</arg>
+<arg f="" g="the people" n="1" />
+<arg f="loc" g="in the street" n="m">فِي الشارِع</arg>
+</example>
+<comment />
+</frame>
+<comment>Based on roleset daEak-a-v.01</comment>
+<role argnum="1" argrole="entity rubbed" vncls="" vntheta="" />
+</frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>$ar~ab</id>
+<comment/>
+<frameset cdef="" edef="to make someone drink" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>بابا كان بيشرب * نا الدوا كل يوم</parse>
+<comment/>
+<arg f="" g="father" n="0">* بابا</arg>
+<arg f="" g="us" n="1">نا</arg>
+<arg f="" g="the medicine" n="2">الدوا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="drinker" vncls="" vntheta=""/>
+<role argnum="2" argrole="things drinked" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,35 +1,96 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>xar~aj</id>
-    <frameset cdef="" edef="to graduate or educate" id="01">
-        <role argnum="0" argrole="causal agent"/>
-        <role argnum="1" argrole="graduate"/>
-        <role argnum="2" argrole="new state"/>
-        <frame>
-            <comment>
-                منحت شهادة التخرج
-            </comment>
-            <example>
-                <parse>
-                    (S
-                    (VP
-                    (PV+PVSUFF_SUBJ:3FS خرّجت)
-                    (NP-SBJ
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM ثانوية)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN سيدة)
-                    (NP
-                    (DET+NOUN_PROP البلمند))))
-                    (NP-OBJ
-                    (NOUN_NUM 90)
-                    (NP
-                    (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC تلميذة)
-                    (CONJ و)
-                    (NOUN+CASE_INDEF_ACC تلميذاً)))))
-                </parse>
-                <arg f="" g="Lady of Balamand Secondary School" n="0">ثانوية سيدة البلمند</arg>
-                <arg f="" g="90 student" n="1">90 تلميذة و تلميذاً</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>xar~aj</id>
+<frameset cdef="" edef="to graduate or educate" id="01" vncls="">
+<role argnum="0" argrole="causal agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="graduate" vncls="" vntheta=""/>
+<role argnum="2" argrole="new state" vncls="" vntheta=""/>
+<frame>
+
+<example>
+<parse>(S
+  (VP
+    (PV+PVSUFF_SUBJ:3FS خرّجت)
+    (NP-SBJ
+      (NOUN+NSUFF_FEM_SG+CASE_DEF_NOM ثانوية)
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_GEN سيدة)
+        (NP
+          (DET+NOUN_PROP البلمند))))
+    (NP-OBJ
+      (NOUN_NUM 90)
+      (NP
+        (NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC تلميذة)
+        (CONJ و)
+        (NOUN+CASE_INDEF_ACC تلميذاً)))))</parse>
+<arg f="" g="Lady of Balamand Secondary School" n="0">ثانوية سيدة البلمند</arg>
+<arg f="" g="90 student" n="1">90 تلميذة و تلميذاً</arg>
+<comment/>
+</example>
+<comment>منحت شهادة التخرج</comment>
+</frame>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to let out" id="02" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (S
+      (INTJ
+        (INTERJ آَه))
+      (NP-SBJ
+        (NP
+          (NP
+            (NOUN كَلام)
+            (NP
+              (POSS_PRON_1P نا)))
+          (CONJ وِ)
+          (NP
+            (NOUN هتاف)
+            (NP
+              (POSS_PRON_1P نا))))
+        (NP
+          (NOUN_QUANT كُلّ)
+          (NP
+            (POSS_PRON_3MS ُه))))
+      (PP-PRD
+        (PREP فِي)
+        (NP
+          (DET+NOUN الهَوا))))
+    (CONJ بَسّ)
+    (S
+      (ADVP
+        (ADV بَردُو))
+      (NP-TPC-1
+        (NO_FUNC ادينا))
+      (VP
+        (PV+PVSUFF_SUBJ:1P خَرَّجنا)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (SBAR-NOM-OBJ
+          (WHNP-2
+            (REL_PRON اِللِي))
+          (S
+            (NP-PRD
+              (NOUN جُوّا)
+              (NP
+                (POSS_PRON_1P نا)))
+            (NP-SBJ
+              (-NONE- *T*-2))))))))</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="what's inside us" n="1">اِللِي جُوّانا</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="thing let out" vncls="" vntheta=""/>
+<role argnum="2" argrole="from where" vncls="" vntheta=""/>
+</frameset>
 </verb>

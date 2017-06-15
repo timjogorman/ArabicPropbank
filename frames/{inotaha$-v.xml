@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inotaha$</id>
+
+<frameset cdef="" edef="to bite" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انتهش الذئب الأرنب</parse>
+
+<arg f="" g="the wolf" n="0">الذئب</arg>
+<arg f="" g="the rabbit" n="1">الأرنب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="entity bitten" vncls="" vntheta=""/>
+<comment/>
+<role argnum="2" argrole="attribute to ARG1" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

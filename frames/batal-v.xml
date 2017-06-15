@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>batal</id>
+
+<frameset cdef="" edef="to disconnect, to cut off" id="01" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>بتل الرجل الخروف المريض عن غيره</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the sick sheep" n="1">الخروف المريض</arg>
+<arg f="" g="from the others" n="2">عن غيره</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="first thing disconnected" vncls="" vntheta=""/>
+<role argnum="2" argrole="second thing, source" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

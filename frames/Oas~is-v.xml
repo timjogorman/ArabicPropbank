@@ -1,0 +1,83 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>Oas~is</id>
+<comment>EGYPTIAN ARABIC based on Oas~as</comment>
+    <frameset cdef="" edef="to found" id="01">
+<role argnum="0" argrole="the founder" />
+<role argnum="1" argrole="thing founded" />
+<role argnum="2" argrole="thing, principle founded upon" />
+<frame>
+<example>
+<parse>
+(NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_ACC المرأة))
+      (PP-CLR
+        (PREP على)
+        (NP
+          (NP
+            (DET+NOUN+CASE_DEF_GEN التعلم))
+          (PUNC &quot;)
+          (CONJ و)
+          (NP
+            (NP
+              (DET+NOUN+CASE_DEF_GEN الحفاظ))
+            (PP
+              (PREP على)
+              (NP
+                (NP
+                  (DET+NOUN+CASE_DEF_GEN المبادئ)
+                  (CONJ و)
+                  (DET+NOUN+CASE_DEF_GEN التقاليد))
+                (ADJP
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الشرقية))))
+            (NP-ADV
+              (NOUN+CASE_DEF_ACC مع)
+              (NP
+                (NOUN+CASE_DEF_GEN رذل)
+                (NP
+                  (NP
+                    (DET+NOUN البالي))
+                  (PP
+                    (PREP من)
+                    (NP
+                      (PRON_3FS ها)))))))
+          (CONJ و)
+          (NP
+            (NP
+              (NOUN+CASE_DEF_GEN تشجيع)
+              (NP
+                (DET+NOUN+CASE_DEF_GEN الاولاد)))
+            (PP
+              (PREP على)
+              (NP
+                (NOUN+CASE_DEF_GEN تعلّم)
+                (NP
+                  (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN اللغة)
+                  (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN العربية)))))
+          (PUNC &quot;)))))
+  (PUNC ,)
+  (S
+    (PP
+      (PREP ك)
+      (NP
+        (DEM_PRON_MS ذلك)))
+    (VP
+      (PV+PVSUFF_SUBJ:3FS اسست)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC مجلة)
+        (NP
+          (PUNC &quot;)
+          (DET+NOUN+CASE_DEF_GEN العالم)
+          (DET+ADJ+CASE_DEF_GEN الجديد)
+          (PUNC &quot;)))))
+  (PUNC .))
+</parse>
+<arg f="" g="" n="0">-NONE- *</arg>
+<arg f="" g="the 'New World' magazine" n="1">مجلة العلم الجديد</arg>
+</example>
+</frame>
+<comment>Based on roleset Oas~as.01</comment></frameset>
+</verb>

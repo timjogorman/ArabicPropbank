@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hayorap</id>
+<comment/>
+<frameset cdef="" edef="confusion, puzzelment" id="01" vncls="">
+<role argnum="1" argrole="entity confused" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>كان الرجل في حيرة * لما يجري من حوله</parse>
+<comment/>
+<arg f="" g="the man" n="1">* الرجل</arg>
+<arg f="" g="for what was going around him" n="2">لما يجري من حوله</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{iHotiyAT</id>
+<comment/>
+<frameset cdef="" edef="caution, wariness" id="01" vncls="">
+<role argnum="0" argrole="entity taking caution" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>احتياط  الأنسان ضد المرض ضروري</parse>
+<comment/>
+<arg f="" g="the human" n="0">الأنسان</arg>
+<arg f="" g="against sikness" n="1">ضد المرض</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from what" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="reserve , substitute" id="02" vncls="">
+<role argnum="1" argrole="the reserve" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أشرك المدرب اللاعبين الأحتياط * في الفريق</parse>
+<comment/>
+<arg f="" g="the players" n="1">* the players</arg>
+<arg f="" g="in the team" n="2">في الفريق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+</frameset>
+</verb>

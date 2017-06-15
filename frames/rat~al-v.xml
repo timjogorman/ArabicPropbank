@@ -1,17 +1,24 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>rat~al</id>
-    <frameset cdef="" edef="tp recite, utter memorized passage" id="01">
-        <role argnum="0" argrole="speaker"/>
-        <role argnum="1" argrole="utterance"/>
-        <frame>
-            <example>
-                <parse>
-                    رتل القارئ آية من القرآن
-                </parse>
-                <arg f="" g="the reciter" n="0">القارئ</arg>
-                <arg f="" g="a verse from the Quran" n="1">آية من القرآن</arg>
-            </example>
-        </frame>
-    </frameset>
+<id>rat~al</id>
+<frameset cdef="" edef="tp recite, utter memorized passage" id="01" vncls="gan~aY-1">
+<role argnum="0" argrole="speaker" vncls="gan~aY-1" vntheta="agent"/>
+<role argnum="1" argrole="utterance" vncls="gan~aY-1" vntheta="theme"/>
+<frame>
+<example>
+<parse>رتل القارئ آية من القرآن</parse>
+<arg f="" g="the reciter" n="0">القارئ</arg>
+<arg f="" g="a verse from the Quran" n="1">آية من القرآن</arg>
+
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="beneficiary" vncls="gan~aY-1" vntheta="beneficiary"/>
+<comment/>
+</frameset>
+
+<comment/>
 </verb>

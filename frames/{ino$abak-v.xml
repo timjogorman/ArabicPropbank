@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{ino$abak</id>
+
+<frameset cdef="" edef="to clash, to come into conflict, be in opposition" id="01" vncls="">
+<role argnum="1" argrole="1st, all in one mention, or agentive clasher" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انشبكت الأشجار مع بعضها</parse>
+
+<arg f="" g="trees" n="1">الأشجار</arg>
+<arg f="" g="with each other" n="2">مع بعضها</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="entity clashed with when separate constituent" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

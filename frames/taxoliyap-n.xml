@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taxoliyap</id>
+<comment/>
+<frameset cdef="" edef="evacuate , cause to be empty (of people)" id="01" vncls="">
+<role argnum="0" argrole="causer of emptiness" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قامت الشرطة بتخلية * المبنى من الناس بسبب الحريق</parse>
+<comment/>
+<arg f="" g="the police" n="0">* الشرطة</arg>
+<arg f="" g="the building" n="1">المبنى</arg>
+<arg f="" g="from the people" n="2">من الناس</arg>
+<arg f="cau" g="because of the fire" n="m">بسبب الحريق</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="enclosure, building, etc" vncls="" vntheta=""/>
+<role argnum="2" argrole="theme / thing being emptied" vncls="" vntheta=""/>
+</frameset>
+</verb>

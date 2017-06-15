@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tajoribap</id>
+<comment/>
+<frameset cdef="" edef="testing, experiment" id="01" vncls="">
+<role argnum="0" argrole="Agent/Entity Trying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>قام الطبيب بتجربة * الحبوب الجديدة على الحيوانات</parse>
+<comment/>
+<arg f="" g="the doctor" n="0">* الطبيب</arg>
+<arg f="" g="the new pills" n="1">الحبوب الجديدة</arg>
+<arg f="" g="on the animals" n="2">على الحيوانات</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing tried" vncls="" vntheta=""/>
+<role argnum="2" argrole="thing tried on (experiencer: ARG0 tried ARG1 on ARG2)" vncls="" vntheta=""/>
+</frameset>
+</verb>

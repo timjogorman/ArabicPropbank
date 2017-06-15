@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoTaHan</id>
+
+<frameset cdef="" edef="to be grinded or crushed" id="01" vncls="">
+<role argnum="1" argrole="thing grinded" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انطحن البن بالمطحنة</parse>
+
+<arg f="" g="coffee beans" n="1">البن</arg>
+<arg f="" g="with the grinder" n="2">بالمطحنة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="how. instrument" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>saw~aO</id>
+
+<frameset cdef="" edef="to spoil or impair, to blame fault" id="01" vncls="other_cos-1">
+<role argnum="0" argrole="entity spoiling" vncls="other_cos-1" vntheta="agent"/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (SQ
+    (ADJP-PRD
+      (PRT
+        (NEG_PART مِش))
+      (NOUN حَرام))
+    (SBAR-SBJ
+      (SUB_CONJ إِنّ)
+      (S
+        (NP-TPC-1
+          (NP
+            (PRON_1P نا))
+          (PP
+            (PREP ك)
+            (NP
+              (ADJ+NSUFF_MASC_PL مَصرِييِن))))
+        (VP
+          (IV1P+IV نِسَوَء)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (NP-OBJ
+            (NOUN+NSUFF_FEM_SG سُمعَة)
+            (NP
+              (NOUN وَطَن)
+              (NP
+                (POSS_PRON_1P نا))))
+          (PP
+            (PREP بِ)
+            (NP
+              (DET+NOUN الباطِل))))))
+    (PUNC ?)))</parse>
+
+<arg f="" g="we" n="">* نا</arg>
+<arg f="" g="our country's reputation" n="">سُمعَة وَطَننا</arg>
+<arg f="" g="with falsehood" n="">بِالباطِل</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="spoiled" vncls="other_cos-1" vntheta="patient"/>
+<role argnum="2" argrole="with what" vncls="other_cos-1" vntheta="instrument"/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

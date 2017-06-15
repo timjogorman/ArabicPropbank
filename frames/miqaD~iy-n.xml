@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd"><verb>
+<id>miqaD~iy</id>
+<comment>EGYPTIAN ARABIC Framefile based on qaD~aY-v</comment>
+    <frameset cdef="" edef="to spend or pass time" id="05" vncls="">
+<role argnum="0" argrole="the spender" vncls="" vntheta="" />
+<role argnum="1" argrole="action" vncls="" vntheta="" />
+<frame>
+<example>
+<parse>(S
+                    (VP
+                      (PV+PVSUFF_SUBJ:3MP كانوا)
+                      (VP
+                        (IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I يقضون)
+                        (NP-SBJ
+                          (-NONE- *))
+                        (NP-OBJ
+                          (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC عقوبة)
+                          (NP
+                            (DET+NOUN+CASE_DEF_GEN السجن)))
+                        (NP-TMP
+                          (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC لحظة)
+                          (NP
+                            (NOUN+CASE_DEF_GEN تجنيس)
+                            (NP
+                              (POSS_PRON_3MP هم))))))))))))))</parse>
+<arg f="" g="they" n="0">*</arg>
+<arg f="" g="the prison sentence" n="1">عقوبة السجن</arg>
+<arg f="tmp" g="when they became citizens" n="m">لحظة تجنيسهم</arg>
+
+
+
+<comment />
+</example>
+
+
+
+<comment />
+</frame>
+
+
+
+<role argnum="2" argrole="time spent" vncls="" vntheta="" />
+<comment>Based on roleset qaDaY-i.05
+Based on roleset qaD~aY-v.05</comment>
+</frameset>
+
+</verb>

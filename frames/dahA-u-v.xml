@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dahA-u</id>
+<comment/>
+<frameset cdef="" edef="to happen or take place, to occure" id="01">
+<role argnum="1" argrole="things heningapp"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>إذ المنية دهت * بهم وهم غافلون</parse>
+<comment/>
+<arg f="" g="death" n="1">* المنية</arg>
+<arg f="" g="with them" n="2">بهم</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="to whom"/>
+</frameset>
+<frameset cdef="" edef="to become smart" id="02">
+<role argnum="1" argrole="entity smart"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>دها الرجل</parse>
+<comment/>
+<arg f="" g="the man" n="1">الرجل</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

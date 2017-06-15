@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>rAHap</id>
+<comment/>
+<frameset cdef="" edef="rest, relaxation" id="01" vncls="">
+<role argnum="1" argrole="entiy having rest" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لم نحصل على راحة البال من مشاكلنا</parse>
+<comment/>
+<arg f="" g="the mind" n="1">البال</arg>
+<arg f="" g="from our problem" n="2">من مشاكلنا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Tafaq</id>
+<comment/>
+<frameset cdef="" edef="to start doing something" id="01" vncls="">
+<role argnum="0" argrole="entity starting" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>عندما رأى الرجل أخاه طفق * يبكي</parse>
+<comment/>
+<arg f="" g="the man" n="0">* الرجل</arg>
+<arg f="" g="crying" n="1">يبكي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="things started" vncls="" vntheta=""/>
+<role argnum="2" argrole="attributed tRG1" vncls="" vntheta=""/>
+</frameset>
+</verb>

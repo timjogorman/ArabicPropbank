@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{isotaqodar</id>
+<comment/>
+<frameset cdef="" edef="to ask God for help" id="01">
+<role argnum="0" argrole="entity asking"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>استقدر * الله خيرا</parse>
+<comment/>
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="God" n="1">الله</arg>
+<arg f="" g="good or benifit" n="2">خيرا</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="from whom (usually God)"/>
+<role argnum="2" argrole="asking for what"/>
+</frameset>
+</verb>

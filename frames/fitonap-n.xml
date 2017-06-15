@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fitonap</id>
+<comment/>
+<frameset cdef="" edef="sedroubleition, riot, trouble" id="01" vncls="">
+<role argnum="0" argrole="causer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هي بتعمل فتنة * بين الاخوة</parse>
+<comment/>
+<arg f="" g="she" n="0">* هي</arg>
+<arg f="" g="among the brothers" n="1">بين الاخوة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

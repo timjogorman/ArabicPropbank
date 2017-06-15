@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>walaj-i</id>
+<comment/>
+<frameset cdef="" edef="to enter" id="01">
+<role argnum="0" argrole="entity or things entering"/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ولج المفتاح في الباب</parse>
+<comment/>
+<arg f="" g="the key" n="0">المفتاح</arg>
+<arg f="" g="in the door" n="1">في الباب</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="in what or where"/>
+</frameset>
+</verb>

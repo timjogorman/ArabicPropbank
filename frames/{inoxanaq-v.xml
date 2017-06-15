@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoxanaq</id>
+
+<frameset cdef="" edef="to become unable to breath" id="01" vncls="">
+<role argnum="1" argrole="patient" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انخنق الرجل بالغاز</parse>
+
+<arg f="" g="the man" n="1">الرجل</arg>
+<arg f="" g="propane gas" n="2">بالغاز</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="how" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<frameset cdef="" edef="to get bored or tired of something" id="02" vncls="">
+<role argnum="1" argrole="patient" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انخنقت الطالبة من الكتاب</parse>
+
+<arg f="" g="the student" n="1">الطالبة</arg>
+<arg f="cau" g="the book" n="m">من الكتاب</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+<role argnum="2" argrole="from what" vncls="" vntheta=""/>
+</frameset>
+<comment/>
+</verb>

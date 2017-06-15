@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>AinofAyt</id>
+
+<frameset cdef="" edef="to request or invite, to supplicate, to pray humbly" id="01" vncls="">
+<role argnum="0" argrole="agent making the request" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>انا كنت عاوز ادعو * الكل  للحفلة</parse>
+
+<arg f="" g="I" n="0">* انا</arg>
+<arg f="" g="everyone" n="2">الكل</arg>
+<arg f="" g="to the party" n="1">للحفلة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the request or invitation" vncls="" vntheta=""/>
+<role argnum="2" argrole="audience to whom the request or invitation is made" vncls="" vntheta=""/>
+
+<comment>ARZ</comment>
+</frameset>
+
+
+
+<comment/>
+</verb>

@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kanas-u</id>
+
+<frameset cdef="" edef="to sweep, to broom" id="01" vncls="">
+<role argnum="0" argrole="entity sweeping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>كنس الرجل الزبالة من الارض</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the trash" n="1">الزبالة</arg>
+<arg f="loc" g="from the floor" n="m">من الارض</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things swept" vncls="" vntheta=""/>
+
+<comment/>
+<role argnum="2" argrole="from where, source" vncls="" vntheta=""/>
+</frameset>
+
+<comment/>
+</verb>

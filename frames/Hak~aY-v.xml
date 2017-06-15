@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Hak~aY</id>
+<comment/>
+<frameset cdef="" edef="to gossip, to tell" id="01" vncls="">
+<role argnum="0" argrole="speaker" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>سمعت نهى بتحّكي لنوال على الموضوع ده</parse>
+<comment/>
+<arg f="" g="Huha" n="0">* نهى</arg>
+<arg f="" g="to Nawal" n="2">لنوال</arg>
+<arg f="" g="about this subject" n="1">على الموضوع ده</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="utterance" vncls="" vntheta=""/>
+<role argnum="2" argrole="hearer" vncls="" vntheta=""/>
+</frameset>
+</verb>

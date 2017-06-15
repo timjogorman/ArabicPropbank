@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tawAzun</id>
+<comment>Based on verb tawAzan</comment>
+<frameset cdef="" edef="a balance" id="01" vncls="">
+<role argnum="0" argrole="balancer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse/>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing balanced" vncls="" vntheta=""/>
+<role argnum="2" argrole="counter to/in comparison with" vncls="" vntheta=""/>
+</frameset>
+</verb>

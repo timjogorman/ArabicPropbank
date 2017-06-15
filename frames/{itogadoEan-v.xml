@@ -1,0 +1,20 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{itogadoEan</id>
+<comment/>
+<frameset cdef="" edef="to be brave or become a man, to become fearless or clever" id="01" vncls="">
+<role argnum="0" argrole="entity getting strong" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ده بابا كل يوم بيقوله اتجدعن * بقى خلينا نفرح بيك</parse>
+<comment/>
+<arg f="" g="he" n="0">* ه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+</frameset>
+</verb>

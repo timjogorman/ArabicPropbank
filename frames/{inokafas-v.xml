@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inokafas</id>
+
+<frameset cdef="" edef="to be twisted or curved" id="01" vncls="">
+<role argnum="1" argrole="thind twisted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انكفس شعرها بعد السباحة</parse>
+
+<arg f="" g="her hair" n="1">شعرها</arg>
+<arg f="tmp" g="after swimming" n="m">بعد السباحة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<comment/>
+</frameset>
+<comment/>
+</verb>

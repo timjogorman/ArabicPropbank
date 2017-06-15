@@ -1,0 +1,92 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>faTar</id>
+
+<frameset cdef="" edef="to eat and drink after the fast, to have breakfast" id="01" vncls="">
+<role argnum="0" argrole="the eater" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فطر الصائم القليل من التمر</parse>
+
+<arg f="" g="person fasting" n="0">الصائم</arg>
+<arg f="" g="a few of dates" n="1">القليل من التمر</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="the food" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+<frameset cdef="" edef="to split, to crack, to break" id="02" vncls="">
+<role argnum="0" argrole="splitter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فطر النبات الارض</parse>
+
+<arg f="" g="the planet" n="0">النبات</arg>
+<arg f="" g="the ground" n="1">الارض</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="splited entity" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+<frameset cdef="" edef="to create, to invent" id="03" vncls="">
+<role argnum="0" argrole="creator" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>فطر * الة عجيبة</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="" g="a strange tool" n="1">الة عجيبة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="Thing created" vncls="" vntheta=""/>
+<role argnum="2" argrole="benifactive" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

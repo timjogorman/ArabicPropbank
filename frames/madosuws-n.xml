@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>madosuws</id>
+
+<frameset cdef="" edef="interpolated, tucked" id="01" vncls="">
+<role argnum="1" argrole="thing interpolated" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(SBAR
+            (SUB_CONJ ان)
+            (S
+              (NP-SBJ
+                (PRON_3MS ه))
+              (ADJP-PRD
+                (ADJP
+                  (PUNC ")
+                  (ADJ+CASE_DEF_NOM أحمق)
+                  (PUNC "))
+                (CONJ او)
+                (ADJP
+                  (PUNC ")
+                  (ADJ+CASE_INDEF_NOM متآمر)
+                  (PUNC "))
+                (CONJ أو)
+                (ADJP
+                  (PUNC ")
+                  (ADJ مدسوس)
+                  (PUNC ")
+                  (PP
+                    (PREP على)
+                    (NP
+                      (DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN القضية))))))))))
+    (PUNC .)))</parse>
+
+<arg f="" g="he" n="1">ـه</arg>
+<arg f="" g="on the case" n="2">على القضية</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="place or thing  (marked by على)" vncls="" vntheta=""/>
+<role argnum="3" argrole="source" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

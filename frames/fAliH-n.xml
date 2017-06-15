@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>fAliH</id>
+<comment/>
+<frameset cdef="" edef="cunning, clever, worldly wise, successful" id="01" vncls="">
+<role argnum="1" argrole="entity wise" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ياريت احنا فالحين * في اي حاجة</parse>
+<comment/>
+<arg f="" g="we" n="1">* احنا</arg>
+<arg f="" g="in any thing" n="2">في اي حاجة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+</verb>

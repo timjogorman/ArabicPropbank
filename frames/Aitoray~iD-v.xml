@@ -1,0 +1,21 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>Aitoray~iD</id>
+<comment>EGYPTIAN ARABIC based on taray~aD</comment>
+    <frameset cdef="" edef="to exercise (by walking)" id="01" vncls="">
+<role argnum="1" argrole="entity exercising" vncls="" vntheta="" />
+<frame>
+<mapping>
+<comment />
+</mapping>
+<example>
+<parse>ده اخويا بيتريض *  كل يوم الفجرية</parse>
+<comment />
+<arg f="" g="my brother" n="1">* اخويا</arg>
+<arg f="tmp" g="every day early in the morning" n="m">كل يوم الفجرية</arg>
+</example>
+<comment />
+</frame>
+<comment />
+</frameset>
+</verb>

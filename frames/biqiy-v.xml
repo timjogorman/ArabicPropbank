@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>biqiy</id>
+
+<frameset cdef="" edef="to physically stay in the same place" id="01" vncls="">
+<role argnum="1" argrole="entity staying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هو بقي * في البيت لوحده</parse>
+
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="in the house" n="2">البيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="place" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="to become, to be" id="02" vncls="">
+<role argnum="1" argrole="entity becoming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>هو بقي * مثلنا</parse>
+
+<arg f="" g="he" n="1">* هو</arg>
+<arg f="" g="like us" n="2">مثلنا</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="becoming what" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

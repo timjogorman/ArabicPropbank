@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>wAHi$</id>
+
+    <frameset cdef="" edef="to long  or yearn for, to hunger for" id="01" vncls="">
+<role argnum="0" argrole="entity longing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>(S
+      (NP-TPC-1
+        (NOUN صَوت)
+        (NP
+          (POSS_PRON_2MS َك)))
+      (VP
+        (ADJ.VN واحِش)
+        (NP-SBJ
+          (-NONE- *T*-1))
+        (NP-OBJ
+          (PRON_1S نِي))))
+    (CONJ وِ)
+    (S
+      (NP-SBJ
+        (PRON_1S انا))
+      (SBAR-NOM-PRD
+        (WHNP-2
+          (-NONE- 0))
+        (S
+          (VP
+            (PRT
+              (NEG_PART مِش))
+            (ADJ.VN+NSUFF_FEM_SG عارْفَة)
+            (NP-SBJ
+              (-NONE- *T*-2))
+            (S
+              (VP
+                (IV1S+IV اَصاحِب)
+                (NP-SBJ
+                  (-NONE- *))
+                (NP-OBJ
+                  (NOUN حَدّ)
+                  (ADJ تانِي))))))))</parse>
+
+<arg f="" g="your voice" n="1">صوتك</arg>
+<arg f="" g="me" n="0">ني</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="to whom or what" vncls="" vntheta=""/>
+<comment>Based on roleset {i$otAq.01
+Based on roleset waHa$-v.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC Framefile based on waHa$-v</comment>
+</verb>

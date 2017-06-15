@@ -1,22 +1,261 @@
 <!DOCTYPE verb SYSTEM "verb.dtd">
 <verb>
-    <id>$Af-u</id>
-    <comment/>
-    <frameset cdef="" edef="to see" id="01">
-        <role argnum="0" argrole="seer"/>
-        <frame>
-            <mapping>
-                <comment/>
-            </mapping>
-            <example>
-                <parse>ارتاحت و خلاص بقى أدت رسالتها فى الحياة و من ساعتها مشوفتهاش</parse>
-                <comment/>
-                <arg f="" g="I" n="0">*</arg>
-                <arg f="" g="her" n="1">ها</arg>
-            </example>
-            <comment/>
-        </frame>
-        <comment>Eg</comment>
-        <role argnum="1" argrole="thing seen"/>
-    </frameset>
+<id>$Af-u</id>
+
+<frameset cdef="" edef="to see" id="01" vncls="">
+<role argnum="0" argrole="seer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>ارتاحت و خلاص بقى أدت رسالتها فى الحياة و من ساعتها مشوفتهاش</parse>
+
+<arg f="" g="I" n="0">*</arg>
+<arg f="" g="her" n="1">ها</arg>
+
+
+
+
+<comment/>
+</example>
+
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing seen" vncls="" vntheta=""/>
+
+
+<role argnum="2" argrole="attributed to ARG 1" vncls="" vntheta=""/>
+
+
+<comment>ARZ</comment>
+</frameset>
+
+<frameset cdef="" edef="to find" id="02" vncls="">
+<role argnum="0" argrole="finder" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(CONJ و)
+      (VP
+        (IV1P+IV نشوف)
+        (NP-SBJ
+          (-NONE- *))
+        (PP
+          (PREP ل)
+          (NP
+            (PRON_1P نا)))
+        (NP-OBJ
+          (NP
+            (NP
+              (NP
+                (NOUN حزب))
+              (NP-ADV
+                (NOUN كدا)))
+            (ADJP
+              (ADJ نضيف)))
+          (SBAR
+            (WHNP-1
+              (-NONE- 0))
+            (S
+              (VP
+                (IV1P+IV نشترك)
+                (NP-SBJ
+                  (-NONE- *))
+                (PP-CLR
+                  (PREP في)
+                  (NP
+                    (NP
+                      (PRON_3MS ه))</parse>
+
+<arg f="" g="NONE" n="0">*? NONE</arg>
+<arg f="gol" g="" n="m">لنا</arg>
+<arg f="" g="a clean party" n="1">حزب كده نضيف</arg>
+<arg f="" g="to join" n="2">نشترك فيه</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="found" vncls="" vntheta=""/>
+<role argnum="2" argrole="for what" vncls="" vntheta=""/>
+
+
+
+<comment>ARZ</comment>
+</frameset>
+<frameset cdef="" edef="to follow, to persue" id="03" vncls="">
+<role argnum="0" argrole="follower" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(ADJ.VN+NSUFF_MASC_PL مرددين)
+          (NP-SBJ
+            (-NONE- *-5))
+          (NP-OBJ
+            (NOUN شعار)
+            (S
+              (PUNC ')
+              (PUNC ')
+              (S
+                (VP
+                  (NEG_PART بلاش)
+                  (NP-SBJ
+                    (NOUN+NSUFF_FEM_PL مسلسلات))))
+              (CONJ و)
+              (S
+                (VP
+                  (CV+CVSUFF_SUBJ:2MS خلل)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (PP
+                    (NP
+                      (X
+                        (CVSUFF_DO:1S ي))))
+                  (NP-OBJ-4
+                    (DET+NOUN الناس))
+                  (S
+                    (VP
+                      (IV3FS+IV تشوف)
+                      (NP-SBJ
+                        (-NONE- *T*-4))
+                      (NP-OBJ
+                        (NOUN مستقبل)
+                        (NP
+                          (POSS_PRON_3FS ها)))
+                      (NP-ADV
+                        (ADJ_COMP أحسن))))))
+              (PUNC ')</parse>
+
+<arg f="" g="people" n="0">* الناس</arg>
+<arg f="" g="their future" n="1">مستقبلها</arg>
+<arg f="adv" g="better" n="m">أحسن</arg>
+
+
+
+<comment/>
+</example>
+
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things followed" vncls="" vntheta=""/>
+
+
+
+<comment>ARZ</comment>
+</frameset>
+
+<frameset cdef="" edef="to carry out, to execute" id="04" vncls="">
+<role argnum="0" argrole="entity working" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+
+<comment/>
+</mapping>
+<example>
+<parse>(PROG_PART بِ))
+        (IV3MS+IV يِبْقَى)
+        (NP-SBJ
+          (-NONE- *))
+        (ADJP-PRD
+          (ADJP
+            (ADJ مَوجُود))
+          (CONJ وَ)
+          (ADJP
+            (ADJ مُنْدَسّ)
+            (NP-ADV
+              (NOUN بِين)
+              (NP
+                (POSS_PRON_1P نا)))))))
+    (PUNC .)
+    (PUNC .)
+    (CONJ وَ)
+    (S
+      (NP-ADV
+        (ADJP
+          (ADJ أَوَّل)
+          (SBAR
+            (SUB_CONJ ما)
+            (S
+              (NP-TPC-2
+                (DET+NOUN الطَرَف)
+                (DET+ADJ الثانِي))
+              (VP
+                (IV3MS+IV يِدِّي)
+                (NP-SBJ
+                  (-NONE- *T*-2))
+                (NP-DTV
+                  (IVSUFF_DO:3MS ه))
+                (NP-OBJ
+                  (NOUN+NSUFF_FEM_SG رَنَّة)))))))
+      (PUNC .)
+      (PUNC .)
+      (VP
+        (PRT
+          (PROG_PART بِ))
+        (IV3MS+IV يِشُوف)
+        (NP-SBJ
+          (-NONE- *))
+        (NP-OBJ
+          (NOUN شُغْل)
+          (NP
+            (POSS_PRON_3MS ُه)))))
+    (CONJ وَ)</parse>
+
+<arg f="" g="person sneaking in" n="0">مُنْدَسّ</arg>
+<arg f="" g="his job" n="1">شُغْله</arg>
+
+
+<comment/>
+</example>
+
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things done" vncls="" vntheta=""/>
+<role argnum="2" argrole="victim" vncls="" vntheta=""/>
+
+
+<comment/>
+</frameset>
+
+
+<comment/>
 </verb>

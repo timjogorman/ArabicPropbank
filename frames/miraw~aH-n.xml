@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>miraw~aH</id>
+<comment/>
+<frameset cdef="" edef="leaving, heading or going to" id="01" vncls="">
+<role argnum="0" argrole="entity leaving" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>أنا مروح * امبارح من البيت للمدرسة على طول</parse>
+<comment/>
+<arg f="" g="I" n="0">* أنا</arg>
+<arg f="tmp" g="yesterday" n="m">امبارح</arg>
+<arg f="" g="from home" n="1">من البيت</arg>
+<arg f="" g="to school" n="2">للمدرسة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="from" vncls="" vntheta=""/>
+<role argnum="2" argrole="destination" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inoXahan</id>
+
+<frameset cdef="" edef="to be understood" id="01" vncls="">
+<role argnum="0" argrole="entity experiencing the understanding" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+
+<comment/>
+</mapping>
+<example>
+<parse>انذهن الدرس بسهولة</parse>
+
+<arg f="" g="the lesson" n="1">الدرس</arg>
+<arg f="mnr" g="easily" n="m">بسهولة</arg>
+
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="thing being understood" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+
+<comment/>
+</frameset>
+
+<comment/>
+</verb>

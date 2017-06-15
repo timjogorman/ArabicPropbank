@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>zanaq-u</id>
+<comment/>
+<frameset cdef="" edef="to tighten, to jam" id="01" vncls="">
+<role argnum="0" argrole="entity jamming" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زنق الجيش العدو في ارض المعركة</parse>
+<comment/>
+<arg f="" g="the army" n="0">الجيش</arg>
+<arg f="" g="the enemy" n="1">العدو</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity jammed" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to scrimp or stint" id="02" vncls="">
+<role argnum="0" argrole="agent" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>زنق الرجل على أولاده</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="on his kids" n="1">على أولاده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="on whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

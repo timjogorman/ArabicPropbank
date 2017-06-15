@@ -1,0 +1,22 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>tajAmaE</id>
+<comment/>
+<frameset cdef="" edef="to make love to, to have sexual intercourse with" id="01" vncls="">
+<role argnum="0" argrole="first entity, or both things" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تجامع الرجل مع زوجته بمحبة</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="with his wife" n="1">مع زوجته</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="second entity, if separate" vncls="" vntheta=""/>
+</frameset>
+</verb>

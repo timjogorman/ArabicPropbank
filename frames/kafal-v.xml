@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kafal</id>
+
+    <frameset cdef="" edef="to support or provide for, to maintain" id="02" vncls="">
+<role argnum="0" argrole="supporter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كفل الرجل أخاه للسفر</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="to travel" n="2">للسفر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="supported" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what or for what" vncls="" vntheta=""/>
+<comment>Based on roleset kafal-iu.02</comment>
+</frameset>
+<frameset cdef="" edef="to support or provide for, to maintain" id="02" vncls="">
+<role argnum="0" argrole="supporter" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>كفل الرجل أخاه للسفر</parse>
+
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="his brother" n="1">أخاه</arg>
+<arg f="" g="to travel" n="2">للسفر</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="supported" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what or for what" vncls="" vntheta=""/>
+<comment>Based on roleset kafal-iu.02</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on kafal-iu</comment>
+</verb>

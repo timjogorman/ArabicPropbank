@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>waf~aY</id>
+<comment/>
+<frameset cdef="" edef="to give" id="01" vncls="">
+<role argnum="0" argrole="giver" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (FRAG
+    (LST
+      (NOUN_NUM 6))
+    (PUNC -)
+    (SBAR
+      (SUB_CONJ أَنْ)
+      (S
+        (VP
+          (IV2MS+IV+IVSUFF_MOOD:S تَحْصُلَ)
+          (NP-SBJ
+            (-NONE- *))
+          (NP-OBJ
+            (ADJP
+              (ADJ_COMP أَعْظَم)
+              (NP
+                (DET+NOUN الأَجْر))))
+          (PP
+            (PREP بِ)
+            (NP
+              (NP
+                (DET+NOUN الصَبْر))
+              (PP
+                (PREP عَلَى)
+                (NP
+                  (DET+NOUN الصَوم))))))))
+    (PUNC -LRB-))
+  (S
+    (VP
+      (PRT
+        (RESTRIC_PART إِنَّما))
+      (IV3MS+IV_PASS+IVSUFF_MOOD:I يُوَفَّى)
+      (NP-SBJ-1
+        (DET+ADJ+NSUFF_MASC_PL_NOM الصابِرُونَ))
+      (NP-DTV
+        (-NONE- *-1))
+      (NP-OBJ
+        (NOUN+CASE_DEF_NOM أَجْرُ)
+        (NP
+          (POSS_PRON_3MP هُم)))
+      (PP
+        (PREP بِ)
+        (NP
+          (NOUN غَيْر)
+          (NP
+            (NOUN حِساب)))))
+    (PUNC -RRB-)))</parse>
+<comment/>
+<arg f="" g="those patient" n="2">الصابِرُونَ</arg>
+<arg f="" g="thier rewards" n="1">أجرهم</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things given" vncls="" vntheta=""/>
+<role argnum="2" argrole="to whom" vncls="" vntheta=""/>
+</frameset>
+</verb>

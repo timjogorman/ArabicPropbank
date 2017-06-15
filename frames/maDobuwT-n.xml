@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maDobuwT</id>
+<comment/>
+<frameset cdef="" edef="exact, accurate" id="01" vncls="">
+<role argnum="1" argrole="entity accurate" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذا الرجل مضبوط * في مواعيده</parse>
+<comment/>
+<arg f="" g="this man" n="1">* هذا الرجل</arg>
+<arg f="" g="in his appointment" n="2">في مواعيده</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="2" argrole="in what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="catch, arrest, seized" id="02" vncls="">
+<role argnum="0" argrole="causer of stopping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>هذه الأشياء مضبوطة * من قبل الشرطة</parse>
+<comment/>
+<arg f="" g="these things" n="1">* هذه الأشياء</arg>
+<arg f="" g="by the police" n="0">من قبل الشرطة</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="thing stopping" vncls="" vntheta=""/>
+</frameset>
+</verb>

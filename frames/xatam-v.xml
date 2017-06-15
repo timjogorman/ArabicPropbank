@@ -1,0 +1,111 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>xatam</id>
+
+    <frameset cdef="" edef="to conclude or bring something to an end" id="01" vncls="">
+<role argnum="0" argrole="concluder agent" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing concluded" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument, thing ended with - sometimes marked with ب" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>S
+  (CONJ و)
+  (VP
+    (PV+PVSUFF_SUBJ:3MS ختم)
+    (NP-SBJ
+      (-NONE- *))
+    (SBAR
+      (SUB_CONJ أن)
+      (S
+        (NP-TPC-1
+          (PRON_3MS ه))
+        (VP
+          (PUNC ")
+          (IV3MS+IV+IVSUFF_MOOD:I يصلي)
+          (NP-SBJ
+            (-NONE- *T*-1))
+          (PP
+            (PREP ل)
+            (SBAR
+              (-NONE- 0)
+              (S
+                (VP
+                  (IV3MS+IV+IVSUFF_MOOD:S يكون)
+                  (NP-SBJ
+                    (-NONE- *))
+                  (ADJP-PRD
+                    (ADJ+CASE_INDEF_ACC حياً))))))
+          (PUNC ")))))
+  (PUNC .))</parse>
+<arg f="" g="He" n="0">-NONE- *</arg>
+<arg f="" g="that he prays to be stay alive" n="1">أنه يصلي ليكون حياً</arg>
+<comment/>
+</example>
+<example>
+<parse>(VP
+      (IV3MS+IV+IVSUFF_MOOD:I يتابع)
+      (NP-SBJ
+        (NOUN+CASE_DEF_NOM رئيس)
+        (NP
+          (PUNC ")
+          (DET+NOUN_PROP الفيفا)
+          (PUNC ")))
+      (NP-OBJ
+        (NOUN+NSUFF_FEM_SG+CASE_DEF_ACC زيارت)
+        (NP
+          (POSS_PRON_3MS ه)))
+      (PP-MNR
+        (PREP ب)
+        (NP
+          (NOUN+CASE_DEF_GEN لقاء)
+          (NP
+            (DET+NOUN+CASE_DEF_GEN الرؤساء)
+            (DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN الثلاثة))))))
+  (PUNC ,)
+  (CONJ و)
+  (S
+    (VP
+      (IV3MS+IV+IVSUFF_MOOD:I يختم)
+      (NP-SBJ
+        (-NONE- *))
+      (NP-OBJ
+        (IVSUFF_DO:3FS ها))
+      (PP-MNR
+        (PREP ب)
+        (NP
+          (NOUN+CASE_INDEF_GEN مؤتمر)
+          (ADJ+CASE_INDEF_GEN صحافي)))
+     
+              (NOUN_PROP+CASE_INDEF_GEN بيروت)))
+          (ADJP
+            (DET+ADJ+CASE_DEF_GEN الدولي)))</parse>
+<arg f="" g="-NONE- &lt; Fifa head" n="0">* &lt; رئيس الفيفا</arg>
+<arg f="" g="it" n="1">ها</arg>
+<arg f="" g="with a press conference" n="2">بمؤتمر صحافي</arg>
+<comment/>
+</example>
+<comment/>
+</frame>
+<comment>Based on roleset xatam-i.01</comment>
+</frameset>
+<comment>EGYPTIAN ARABIC based on xatam-i</comment>
+<frameset cdef="" edef="to seal or stamp" id="02" vncls="">
+<role argnum="0" argrole="entity sealing" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>ختم الموطف البريد بختم الشركة</parse>
+<comment/>
+<arg f="" g="the employee" n="0">الموطف</arg>
+<arg f="" g="the mail" n="1">البريد</arg>
+<arg f="" g="with the company's stamp" n="2">بختم الشركة</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="things sealed" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

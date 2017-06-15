@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maqotuwl</id>
+<comment/>
+<frameset cdef="" edef="dead, killed" id="01" vncls="">
+<role argnum="0" argrole="killer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>لقو البنت مقتولة * بالسكين</parse>
+<comment/>
+<arg f="" g="the girl" n="1">* البنت</arg>
+<arg f="" g="with a knife" n="2">بالسكين</arg>
+</example>
+<comment/>
+</frame>
+<comment>ARZ</comment>
+<role argnum="1" argrole="killed" vncls="" vntheta=""/>
+<role argnum="2" argrole="manner / way of killing / tool used" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>kAtib</id>
+<comment/>
+<frameset cdef="" edef="writer, writing" id="01" vncls="">
+<role argnum="0" argrole="writer" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>(TOP
+  (S
+    (PP
+      (PREP عَلَى)
+      (NP
+        (NOUN+NSUFF_FEM_SG فِكرَة)))
+    (NP-VOC
+      (PRT
+        (VOC_PART يا))
+      (NOUN_PROP هِند))
+    (VP
+      (NP-SBJ
+        (NP
+          (DET+NOUN الكَلام))
+        (SBAR
+          (WHNP-2
+            (REL_PRON اللِّى))
+          (S
+            (NP-TPC-1
+              (PRON_2FS اِنتِ))
+            (VP
+              (ADJ.VN+NSUFF_FEM_SG كَتبَة)
+              (NP-SBJ
+                (-NONE- *T*-1))
+              (NP-OBJ
+                (NP
+                  (PRON_3MS ُه))
+                (NP
+                  (-NONE- *T*-2)))))))
+      (ADJP-PRD
+        (ADJ جَمِيل)
+        (NP-ADV
+          (ADJ قَوِى))))))</parse>
+<comment/>
+<arg f="" g="you" n="0">*T*-1 اِنتِ</arg>
+<arg f="" g="it" n="1">ه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="what is written" vncls="" vntheta=""/>
+<role argnum="2" argrole="topic" vncls="" vntheta=""/>
+<role argnum="3" argrole="audience" vncls="" vntheta=""/>
+</frameset>
+</verb>

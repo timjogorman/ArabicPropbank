@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>{inojaXab</id>
+
+<frameset cdef="" edef="to be pulled or magnetized" id="01" vncls="">
+<role argnum="1" argrole="the magnetized" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انجذب المسمار بالمغناطيس</parse>
+
+<arg f="" g="the screw" n="1">المسمار</arg>
+<arg f="" g="the magnet" n="">بالمغناطيس</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="cause or instrument" vncls="" vntheta=""/>
+<comment/>
+<role argnum="3" argrole="by what" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to be attracted ( feelings)" id="02" vncls="">
+<role argnum="1" argrole="the attracted" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>انجذب الرجل للبنت</parse>
+
+<arg f="" g="the guy" n="1">الرجل</arg>
+<arg f="" g="the girl" n="2">للبنت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="to what" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+</verb>

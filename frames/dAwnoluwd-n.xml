@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>dAwnoluwd</id>
+
+
+
+
+
+<frameset cdef="" edef="to download" id="04" vncls="">
+<role argnum="0" argrole="entity downloading" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>الراجل حمل * الاغاني من الانترنيت</parse>
+
+<arg f="" g="the man" n="0">* الراجل</arg>
+<arg f="" g="the songs" n="1">الاغاني</arg>
+<arg f="" g="from the internet" n="2">من الانترنيت</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="1" argrole="things downloaded" vncls="" vntheta=""/>
+<role argnum="2" argrole="source" vncls="" vntheta=""/>
+<comment>ARZ</comment>
+</frameset>
+<comment/>
+</verb>

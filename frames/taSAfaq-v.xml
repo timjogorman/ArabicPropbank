@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taSAfaq</id>
+<comment/>
+<frameset cdef="" edef="to hit or strike, to slap" id="01" vncls="">
+<role argnum="0" argrole="entity slaping" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>تصافق الرجلان بالأيادي</parse>
+<comment/>
+<arg f="" g="the two men" n="0">الرجلان</arg>
+<arg f="" g="with hands" n="2">بالأيادي</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity slapped" vncls="" vntheta=""/>
+<role argnum="2" argrole="instrument" vncls="" vntheta=""/>
+</frameset>
+</verb>

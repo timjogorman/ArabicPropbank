@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>maTar-u</id>
+
+<frameset cdef="" edef="to rain" id="01" vncls="">
+<role argnum="1" argrole="entity raining" vncls="" vntheta=""/>
+<frame>
+<mapping>
+
+<comment/>
+</mapping>
+<example>
+<parse>مطرت السماء حجارة</parse>
+
+<arg f="" g="the sky" n="1">السماء</arg>
+<arg f="" g="stones" n="2">حجارة</arg>
+<comment/>
+</example>
+
+<comment/>
+</frame>
+
+<role argnum="2" argrole="attributed to" vncls="" vntheta=""/>
+<comment/>
+</frameset>
+<comment/>
+<frameset cdef="" edef="to hurry or hasten, to run fast" id="02" vncls="">
+<role argnum="0" argrole="entity hurrying" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مطر الفرس في عدوه</parse>
+<comment/>
+<arg f="" g="the hourse" n="0">الفرس</arg>
+<arg f="" g="in his running" n="1">في عدوه</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="attributed to ARG0" vncls="" vntheta=""/>
+</frameset>
+<frameset cdef="" edef="to fill" id="03" vncls="">
+<role argnum="0" argrole="filler" vncls="" vntheta=""/>
+<frame>
+<mapping>
+<comment/>
+</mapping>
+<example>
+<parse>مطر الرجل الأناء بالماء</parse>
+<comment/>
+<arg f="" g="the man" n="0">الرجل</arg>
+<arg f="" g="the vessel" n="1">الأناء</arg>
+<arg f="" g="with water" n="2">بالماء</arg>
+</example>
+<comment/>
+</frame>
+<comment/>
+<role argnum="1" argrole="entity filled" vncls="" vntheta=""/>
+<role argnum="2" argrole="with what" vncls="" vntheta=""/>
+</frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+<id>taHoliyl</id>
+<frameset cdef="" edef="to analyse or investigate" id="03" vncls="">
+<role argnum="0" argrole="investigator" vncls="" vntheta=""/>
+<role argnum="1" argrole="thing investigated" vncls="" vntheta=""/>
+<frame>
+<example>
+<parse>هو قاعد يحلل * المشكلة على مزاجه</parse>
+<arg f="" g="he" n="0">* هو</arg>
+
+
+<arg f="" g="the problem" n="1">المشكلة</arg>
+<comment/>
+</example>
+
+
+<comment/>
+</frame>
+
+
+
+<comment>no examples found in corpus yet
+Based on roleset Hal~al.03</comment>
+</frameset>
+
+
+<comment>Framefile based on Hal~al</comment>
+</verb>
